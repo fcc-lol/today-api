@@ -45,7 +45,7 @@ registerEndpoint(
   "GET",
   "/historical-events",
   historicalEvents,
-  "Significant events that happened on this date throughout history"
+  "Significant events that happened on this date"
 );
 
 registerEndpoint(
