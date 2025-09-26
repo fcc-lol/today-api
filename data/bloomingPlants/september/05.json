@@ -1,0 +1,60 @@
+{
+  "date": "September 5",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall, annual plant known for its large, bright yellow flower heads that follow the sun's movement throughout the day. Widely cultivated and also found growing wild in fields.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism when young, turning their flower heads to face the sun during the day."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial commonly found in meadows and gardens with daisy-like flowers featuring vibrant golden-yellow petals and dark brown central cones.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susans are popular with butterflies and birds, which feed on their nectar and seeds."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A striking flowering tree or shrub with bright red, spiny flowers that resemble a rooster's comb, blooming profusely in late summer and early fall.",
+      "bloomingSeason": "August to October",
+      "location": "South America, especially Argentina and Uruguay",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "This tree is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Dahlias (genus Dahlia)",
+      "commonName": "Dahlia",
+      "description": "Tubers producing a variety of flower shapes and vivid colors, popular in gardens worldwide. Blooms peak late summer through fall.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico and Central America, widely cultivated globally",
+      "colors": [
+        "red",
+        "pink",
+        "purple",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias are the national flower of Mexico and come in over 42 species and thousands of cultivars."
+    }
+  ]
+}

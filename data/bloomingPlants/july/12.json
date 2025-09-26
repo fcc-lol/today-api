@@ -1,0 +1,55 @@
+{
+  "date": "July 12",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking, fragrant white lily native to the Balkans and the eastern Mediterranean, well-known for its large, trumpet-shaped flowers and historically significant in art and culture.",
+      "bloomingSeason": "June to July",
+      "location": "Mediterranean region, cultivated worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Madonna Lily has been cultivated for over 3,000 years and symbolizes purity in many cultures."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, showy pink or white flowers floating on water surfaces, revered in Asia for its spiritual symbolism and unique seed longevity.",
+      "bloomingSeason": "June to August",
+      "location": "Asia, especially India, China, and Southeast Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Lotus seeds have been known to remain viable for over a thousand years."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy North American wildflower featuring vibrant purple-pink petals and a prominent spiny cone center, commonly used for herbal remedies.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌻",
+      "funFact": "Echinacea is widely used in traditional medicine to boost the immune system."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A striking Australian native shrub known for its large bright red clustered flowers, an emblematic floral icon of New South Wales.",
+      "bloomingSeason": "September to November, but some subspecies start blooming in late winter to early spring; however, in certain climates and cultivated conditions, flowering can begin as early as July.",
+      "location": "Southeastern Australia",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Waratah flower was declared the floral emblem of New South Wales in 1962."
+    }
+  ]
+}

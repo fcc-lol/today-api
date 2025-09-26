@@ -1,0 +1,33 @@
+{
+  "date": "December 16",
+  "events": [
+    {
+      "year": 1773,
+      "title": "Boston Tea Party",
+      "description": "American colonists disguised as Mohawk Indians boarded British ships and dumped 342 chests of tea into Boston Harbor as a protest against the Tea Act imposed by Britain.",
+      "category": "Political Protest",
+      "significance": "This act of defiance escalated tensions between Britain and the American colonies, leading directly to the American Revolutionary War."
+    },
+    {
+      "year": 1835,
+      "title": "Founding of the Texas Rangers",
+      "description": "The Texas Rangers, a famous law enforcement and paramilitary organization in Texas, was officially established to protect settlers from Native American attacks and maintain law and order in the region.",
+      "category": "Law Enforcement",
+      "significance": "The Rangers played a crucial role in Texas history and law enforcement traditions."
+    },
+    {
+      "year": 1944,
+      "title": "Start of the Battle of the Bulge",
+      "description": "Nazi Germany launched a massive surprise offensive in the Ardennes Forest, Belgium, aiming to split the Allied forces and capture the vital Belgian port of Antwerp during World War II.",
+      "category": "Military",
+      "significance": "It was the largest and bloodiest single battle fought by the United States in World War II, marking the last major German offensive on the Western Front."
+    },
+    {
+      "year": 1971,
+      "title": "Launch of Mariner 9",
+      "description": "NASA launched the Mariner 9 spacecraft, which became the first spacecraft to orbit another planet, Mars, providing detailed mapping and scientific data about the Martian surface and atmosphere.",
+      "category": "Space Exploration",
+      "significance": "Mariner 9 transformed human understanding of Mars and paved the way for future planetary exploration."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "March 12",
+  "plants": [
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "The Wild Daffodil is a bright yellow spring-flowering bulb native to Europe. It typically appears in woodlands, meadows, and grassy areas. Its cheerful yellow flowers herald the beginning of spring in temperate climates.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, Western Asia",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils were once considered sacred by the ancient Greeks and symbolize rebirth and new beginnings."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A deciduous tree native to China, Korea, and Japan, Japanese Apricot produces beautiful fragrant blossoms ranging from white to pink. It blooms in late winter to early spring, often before the leaves appear, marking the transition from winter to spring in East Asia.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Ume blossoms are celebrated in Japanese culture with festivals and represent perseverance and hope as they bloom in cold weather."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle (Mimosa)",
+      "description": "This Australian native is known for its bright, fluffy yellow spherical flower clusters and silvery foliage. It blooms profusely in late winter to early spring, especially in Mediterranean and mild climates around the world where it has been introduced as an ornamental plant.",
+      "bloomingSeason": "February to March",
+      "location": "Australia; cultivated in Mediterranean and subtropical regions",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Silver Wattle’s flowers produce abundant nectar that attracts bees and was an important food source for Indigenous Australians."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "The Spring Crocus is one of the earliest blooming bulbous plants in many temperate gardens. Its vibrant cup-shaped flowers come in various colors and often emerge when snow is still on the ground, signaling the imminent arrival of spring.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "Purple",
+        "Yellow",
+        "White",
+        "Striped"
+      ],
+      "emoji": "💜",
+      "funFact": "Though similar in appearance to autumn-blooming crocuses, spring crocuses belong to a different genus and are not toxic, unlike some autumn crocus species."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "February 22",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A perennial bulbous plant known for its early spring blooms, crocuses often emerge through snow and flower in late winter to early spring. They have cup-shaped flowers and grass-like leaves.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the first flowers to bloom in spring, symbolizing cheerfulness and youth."
+    },
+    {
+      "name": "Prunus persica",
+      "commonName": "Peach Blossom",
+      "description": "Peach trees produce delicate pink flowers early in the year, often before the leaves emerge, heralding the start of spring. These blossoms are admired for their beauty and fragrant scent.",
+      "bloomingSeason": "February to March",
+      "location": "East Asia, Mediterranean, Southern United States",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peach blossoms are significant in Chinese culture, symbolizing longevity and prosperity."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle or Mimosa",
+      "description": "This fast-growing evergreen tree blooms profusely with bright yellow fluffy flower clusters in late winter and early spring, often used in floral arrangements.",
+      "bloomingSeason": "January to March",
+      "location": "Australia, Mediterranean, Southern Europe (cultivated)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Mimosa flowers are used to celebrate International Women's Day in some countries due to their vibrant and cheerful color."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is an evergreen shrub that blooms from spring through fall in warmer climates, including late winter in subtropical areas. It produces large, fragrant, and showy flowers.",
+      "bloomingSeason": "February to November (depending on climate)",
+      "location": "Mediterranean, Southern US, South Asia",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested but widely cultivated for its beauty and drought tolerance."
+    }
+  ]
+}

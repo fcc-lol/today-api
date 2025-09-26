@@ -1,0 +1,60 @@
+{
+  "date": "May 13",
+  "plants": [
+    {
+      "name": "Laburnum anagyroides",
+      "commonName": "Golden Chain Tree",
+      "description": "A deciduous tree known for its stunning, pendulous racemes of bright yellow flowers that create a 'golden chain' effect, commonly used as an ornamental in gardens.",
+      "bloomingSeason": "Late April to May",
+      "location": "Europe, temperate regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Despite its beauty, all parts of the Laburnum are toxic if ingested, containing cytisine."
+    },
+    {
+      "name": "Rhododendron spp.",
+      "commonName": "Rhododendron",
+      "description": "A large genus of woody plants, including azaleas, known for their large, showy clusters of bell-shaped flowers. Many species bloom in spring.",
+      "bloomingSeason": "April to June (varies by species)",
+      "location": "Asia, North America, Europe",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons contain grayanotoxins which can be toxic to humans and animals if ingested."
+    },
+    {
+      "name": "Magnolia sieboldii",
+      "commonName": "Oyama Magnolia",
+      "description": "A deciduous shrub or small tree producing delicate white flowers with purple interiors, prized for its late spring blooming period.",
+      "bloomingSeason": "May to June",
+      "location": "East Asia (China, Korea, Japan)",
+      "colors": [
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Oyama Magnolia was named after the German botanist Philipp Franz von Siebold who studied Japanese flora."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Delphinium",
+      "description": "A tall, stately perennial known for its spiked racemes of blue, purple, pink, or white flowers, popular in temperate garden borders.",
+      "bloomingSeason": "May to July",
+      "location": "Europe, Asia, cultivated worldwide",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Delphiniums have pollen presented on a structure resembling a dolphin, which is the origin of their name."
+    }
+  ]
+}

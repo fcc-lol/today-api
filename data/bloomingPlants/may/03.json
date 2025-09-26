@@ -1,0 +1,59 @@
+{
+  "date": "May 3",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China, known for continuously blooming throughout the growing season in warm climates. It bears fragrant, multicolored flowers often used in hybrid tea roses.",
+      "bloomingSeason": "Spring to Fall (March to November)",
+      "location": "Subtropical and temperate regions worldwide, especially East Asia and cultivated gardens globally",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Roses were instrumental in the development of modern rose cultivars, introducing the ability to bloom repeatedly during the season."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A perennial herbaceous plant native to eastern North America, featuring tall spikes covered in pea-like blue to purple flowers.",
+      "bloomingSeason": "Spring (April to June)",
+      "location": "Sandy soils of eastern United States and southern Canada",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild lupines are crucial for the endangered Karner blue butterfly as they serve as host plants for its larvae."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A woody climbing vine known for its heavy clusters of fragrant, pendulous flowers that bloom in spring before the leaves fully emerge.",
+      "bloomingSeason": "Spring (April to May)",
+      "location": "Native to China, cultivated in temperate zones worldwide",
+      "colors": [
+        "lavender",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Chinese Wisteria can live for decades and bloom profusely; some specimens planted over 100 years ago are still flowering beautifully."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A flowering tree with bright red, spiky flowers shaped like a rooster's crest, native to South America and loved as an ornamental tree in subtropical climates.",
+      "bloomingSeason": "Spring to early Summer (September to November in Southern Hemisphere)",
+      "location": "Native to Argentina, Uruguay, Brazil; blooms in Southern Hemisphere spring during May",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "August 13",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Large annual plant known for its tall stems and bright, yellow flower heads that track the sun throughout the day. Native to North America, widely cultivated and naturalized globally.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Temperate regions worldwide, originally North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and their seeds are harvested for both food and oil."
+    },
+    {
+      "name": "Rhododendron",
+      "commonName": "Rhododendron",
+      "description": "Shrubs or small trees that produce large clusters of bell-shaped flowers. Many species bloom in spring, but some, especially in cooler climates, bloom late summer.",
+      "bloomingSeason": "July to August (some species)",
+      "location": "Temperate regions, particularly mountainous areas in Asia, Europe, and North America",
+      "colors": [
+        "Pink",
+        "Purple",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons contain compounds that can be toxic if ingested, yet they're treasured for their ornamental beauty."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "Tropical shrub with large, showy flowers typically blooming throughout warm months. Favored in tropical and subtropical gardens worldwide.",
+      "bloomingSeason": "Year-round in tropical climates; peak bloom in summer (June to August)",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Orange",
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers usually last only a day, but they bloom continuously to create a long flowering season."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "Perennial wildflower with tall spikes covered in pea-like flowers, important for native pollinators and habitat restoration.",
+      "bloomingSeason": "Late spring to mid-summer; in some northern regions, bloom can extend into early August",
+      "location": "Eastern North America, especially sandy soils and prairies",
+      "colors": [
+        "Blue",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wild Lupine is the exclusive host plant for the endangered Karner blue butterfly."
+    }
+  ]
+}

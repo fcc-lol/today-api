@@ -1,0 +1,64 @@
+{
+  "date": "August 29",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower with bright yellow petals and a dark brown central cone. It thrives in prairies and open woods and is often used in gardens for its bright, cheerful flowers.",
+      "bloomingSeason": "June to September",
+      "location": "North America, especially central and eastern United States",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are important for pollinators like bees and butterflies and are often used in wildflower restoration projects."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, trumpet-shaped flowers that come in various vibrant colors. It blooms almost year-round in tropical climates but peaks in summer months.",
+      "bloomingSeason": "June to October in subtropical/tropical areas",
+      "location": "Tropical and subtropical regions worldwide, native to East Asia",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The hibiscus flower is a national symbol of several countries and is often used in beverages and traditional medicines."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous-rooted perennial native to Mexico, recognized for its wide range of flower colors and shapes. Dahlias bloom profusely in late summer and early fall and are popular in garden flower beds and floral displays.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico, widely cultivated worldwide in temperate gardens",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias have been cultivated since the 16th century and are the national flower of Mexico."
+    },
+    {
+      "name": "Banksia serrata",
+      "commonName": "Old Man Banksia",
+      "description": "An Australian native shrub or small tree with large, cylindrical golden flower spikes. It blooms mainly in late winter through spring but can produce flowers sporadically toward the end of summer.",
+      "bloomingSeason": "July to October, sometimes August",
+      "location": "Eastern Australia (coastal areas of New South Wales and Queensland)",
+      "colors": [
+        "yellow",
+        "gold"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia flowers provide nectar for a variety of Australian wildlife, including birds, bats, and insects."
+    }
+  ]
+}

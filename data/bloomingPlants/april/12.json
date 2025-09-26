@@ -1,0 +1,59 @@
+{
+  "date": "April 12",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning springtime display of pale pink to white flowers. These blossoms symbolize the transient nature of life in Japanese culture and attract visitors to cherry blossom festivals globally.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese Cherry Blossom blooms for only about one to two weeks, creating a highly anticipated seasonal event known as Hanami."
+    },
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Pontic Rhododendron",
+      "description": "An evergreen shrub with large clusters of funnel-shaped flowers, often purple or pink. It thrives in acidic soils and is widely naturalized in parts of the UK and Ireland.",
+      "bloomingSeason": "April to June",
+      "location": "Native to Southern Europe and Western Asia; naturalized in UK",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Pontic Rhododendron spreads rapidly and can form dense thickets, sometimes outcompeting native vegetation."
+    },
+    {
+      "name": "California Poppy",
+      "commonName": "California Poppy",
+      "description": "The state flower of California, this annual plant produces vibrant orange to yellow cup-shaped flowers. It opens in the morning sunlight and closes at night or on cloudy days.",
+      "bloomingSeason": "March to May",
+      "location": "Western North America, especially California",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "California Poppies are drought-tolerant and can quickly colonize disturbed ground, making them important for erosion control."
+    },
+    {
+      "name": "Magnolia x soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia with large, fragrant pink to purple flowers that bloom before the leaves emerge, marking one of the first signs of spring in temperate gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated worldwide in temperate regions",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🏵️",
+      "funFact": "The Saucer Magnolia was developed in France in the 19th century as a hybrid between two Asian magnolia species."
+    }
+  ]
+}

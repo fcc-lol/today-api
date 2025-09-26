@@ -1,0 +1,61 @@
+{
+  "date": "June 3",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A popular cultivated rose species known for its continuous blooming throughout warmer months. The flowers are often fragrant and come in various colors including red, pink, and white. It is widely grown in temperate and subtropical gardens around the world.",
+      "bloomingSeason": "May to October",
+      "location": "Widely cultivated globally, native to Southwest China",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose introduced repeat blooming habit to modern hybrid roses, revolutionizing rose cultivation."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A wildflower native to eastern North America, flourishing in sandy soils. It features tall spikes of pea-like flowers that attract butterflies and bees.",
+      "bloomingSeason": "May to July",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild Lupine is a larval host for the endangered Karner Blue butterfly, highlighting its ecological importance."
+    },
+    {
+      "name": "Rhododendron ferrugineum",
+      "commonName": "Alpenrose",
+      "description": "An evergreen shrub native to the Alpine regions, producing bell-shaped pinkish-red flowers. It thrives in acidic, mountainous soils.",
+      "bloomingSeason": "May to June",
+      "location": "Alps and Pyrenees mountains, Europe",
+      "colors": [
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of the Alpenrose are toxic if ingested, due to grayanotoxins, and have been historically used with caution in traditional medicine."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub widely cultivated for its large, showy flowers often used in landscaping and hibiscus tea. It blooms profusely in warm climates with flowers lasting a single day.",
+      "bloomingSeason": "Year-round in tropical regions, peak in late spring and summer",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "orange",
+        "yellow",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and are used to make hibiscus tea, which is rich in vitamin C and antioxidants."
+    }
+  ]
+}

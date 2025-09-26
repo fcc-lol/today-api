@@ -1,0 +1,62 @@
+{
+  "date": "July 1",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are hardy shrubs known for their beautifully layered and fragrant flowers. Many cultivars and wild species bloom in early to mid summer, producing flowers ranging from white to deep red and pink.",
+      "bloomingSeason": "June to July (Northern Hemisphere)",
+      "location": "Temperate regions worldwide, especially Europe, North America, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for thousands of years and have over 300 species worldwide."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Lupine",
+      "description": "Lupines are tall, spiky flowers with dense clusters that bloom profusely in summer. They often grow in wild meadows and garden settings, attracting pollinators like bees and butterflies.",
+      "bloomingSeason": "June to July",
+      "location": "North America and Europe (temperate to subalpine zones)",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich the soil with nitrogen thanks to their symbiotic relationship with nitrogen-fixing bacteria."
+    },
+    {
+      "name": "Tibouchina urvilleana",
+      "commonName": "Princess Flower",
+      "description": "An evergreen shrub native to Brazil known for striking, velvety purple flowers that bloom abundantly in warmer months.",
+      "bloomingSeason": "June to August (Southern Hemisphere winter months translating to July bloom in mild climates)",
+      "location": "Brazil and as ornamental plant in subtropical regions worldwide",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Tibouchina flowers close at night and reopen with the morning sun, a behavior known as nyctinasty."
+    },
+    {
+      "name": "Nymphaea spp.",
+      "commonName": "Water Lily",
+      "description": "Aquatic plants producing large, fragrant flowers that float on the pond's surface. Many species bloom in summer, creating colorful displays in freshwater habitats.",
+      "bloomingSeason": "June to August",
+      "location": "Temperate and tropical regions worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "emoji": "🌼",
+      "funFact": "Water lilies regulate their temperature and can keep their flowers warmer than the surrounding air to attract pollinators."
+    }
+  ]
+}

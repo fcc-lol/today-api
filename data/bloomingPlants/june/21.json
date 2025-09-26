@@ -1,0 +1,60 @@
+{
+  "date": "June 21",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose known for its ability to bloom repeatedly throughout the warm months. It produces fragrant, colorful flowers that attract pollinators.",
+      "bloomingSeason": "April to October",
+      "location": "Native to Southwest China, cultivated worldwide in temperate to subtropical gardens",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Rose is one of the ancestors of modern hybrid tea roses, prized for its recurrent blooming."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall perennial herbaceous plant with dense spikes of pea-like flowers. It thrives in temperate regions and often blooms in early to midsummer.",
+      "bloomingSeason": "June to July",
+      "location": "Native to western North America, widely naturalized in Europe and New Zealand",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich soil by fixing nitrogen, aiding in ecological restoration."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "An aquatic plant with large floating leaves and fragrant white flowers that open during the day and close at night.",
+      "bloomingSeason": "June to August",
+      "location": "Native across Europe and parts of North Africa and temperate Asia",
+      "colors": [
+        "white"
+      ],
+      "emoji": "💧",
+      "funFact": "Water lilies regulate their temperature to attract pollinators, sometimes heating flowers above ambient temperature."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A shrub or tree species with dense spikes of yellow-orange flowers, common along the Australian east coast. Flowers provide nectar to many native birds and mammals.",
+      "bloomingSeason": "June to November",
+      "location": "Coastal regions of eastern Australia",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are named after botanist Sir Joseph Banks and are key species in Australian ecosystems."
+    }
+  ]
+}

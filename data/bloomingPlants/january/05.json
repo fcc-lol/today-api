@@ -1,0 +1,57 @@
+{
+  "date": "January 5",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern and southern Asia, Camellia japonica produces large, rose-like flowers that bloom in winter and early spring. Its glossy leaves and vibrant flowers brighten gardens when most plants are dormant.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers have inspired traditional Japanese art and symbolism of love and admiration."
+    },
+    {
+      "name": "Winter Daphne (Daphne odora)",
+      "commonName": "Winter Daphne",
+      "description": "A fragrant shrub native to China and Japan, Winter Daphne blooms in late winter with clusters of pink to white tubular flowers that emit a strong, sweet fragrance, attracting pollinators despite the cold.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia and temperate gardens globally",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Winter Daphne’s fragrance is so strong it can be detected from several meters away on a still, cold day."
+    },
+    {
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "A shrub native to the coastal regions of southeastern Australia, Banksia ericifolia features striking bright orange flower spikes that bloom in the Australian summer, including January, providing important nectar for wildlife.",
+      "bloomingSeason": "December to April",
+      "location": "Australia (New South Wales)",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🧡",
+      "funFact": "Banksia flower spikes are made up of hundreds of tiny flowers tightly packed together, creating a distinctive brush-like appearance."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen herbaceous perennial native to alpine regions of Europe, the Christmas Rose blooms in late winter, often flowering through snow, with white to pale pink cup-shaped flowers that add cheer to cold gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose and is toxic if ingested."
+    }
+  ]
+}

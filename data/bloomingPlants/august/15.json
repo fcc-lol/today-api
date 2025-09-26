@@ -1,0 +1,57 @@
+{
+  "date": "August 15",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun across the sky, symbolizing summer and warmth.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions worldwide, especially North America and Europe",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and their flower heads are actually composed of hundreds of tiny flowers called florets."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "An evergreen shrub or small tree with large, bell-shaped clusters of red flowers, commonly found in mountainous regions.",
+      "bloomingSeason": "April to August (some varieties bloom into August)",
+      "location": "Himalayan region, including Nepal, Bhutan, and northern India",
+      "colors": [
+        "Red",
+        "Pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendron arboreum is the national flower of Nepal and can grow up to 20 meters tall."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant herbaceous shrub known for its spikes of purple-blue flowers and calming scent, often used in perfumes and aromatherapy.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean region and widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "Purple",
+        "Blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender attracts pollinators such as bees and butterflies, playing a crucial role in many garden ecosystems."
+    },
+    {
+      "name": "Banksia menziesii",
+      "commonName": "Firewood Banksia",
+      "description": "A woody shrub or small tree unique to Australia, with distinctive cylindrical flower spikes consisting of numerous small flowers in shades of orange to red.",
+      "bloomingSeason": "July to October",
+      "location": "Southwest Australia",
+      "colors": [
+        "Orange",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Banksia flowers provide nectar that is an important food source for nectar-feeding birds and mammals in Australia."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "May 19",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub native to southern Europe and Asia, known for its large clusters of bell-shaped flowers that attract pollinators like bees and butterflies.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate regions of Europe, parts of Asia",
+      "colors": [
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum can form dense thickets, sometimes outcompeting native plants in introduced areas like the UK."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A fragrant, tall lily with large white flowers, historically significant and often cultivated in gardens and religious settings.",
+      "bloomingSeason": "May to June",
+      "location": "Mediterranean region and cultivated worldwide",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Madonna Lily has been cultivated since ancient times and was considered a symbol of purity in Christian iconography."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree with striking golden-orange, spider-like flowers that bloom profusely and attract birds.",
+      "bloomingSeason": "Spring (September to November in Australia) but blooms in May in Southern Hemisphere autumn climate zones",
+      "location": "Eastern Australia and cultivated in subtropical and tropical climates worldwide",
+      "colors": [
+        "Orange",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite the name, Silky Oak is not a true oak but belongs to the Proteaceae family."
+    },
+    {
+      "name": "Ipomoea nil",
+      "commonName": "Japanese Morning Glory",
+      "description": "A fast-growing vine famous for its colorful trumpet-shaped flowers that open in the morning and close by afternoon.",
+      "bloomingSeason": "Late spring to early fall (May onward in Northern Hemisphere)",
+      "location": "Native to East Asia, widely cultivated as an ornamental worldwide",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌻",
+      "funFact": "Japanese Morning Glory seeds were popular in Edo-period Japan and traded extensively among enthusiasts."
+    }
+  ]
+}

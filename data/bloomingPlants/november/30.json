@@ -1,0 +1,59 @@
+{
+  "date": "November 30",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern and southern Asia, known for its glossy leaves and large, showy flowers that bloom in late autumn to early spring. The flowers can be single or double and range in color from white to deep pink and red.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, but widely cultivated in gardens worldwide in temperate climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were once worn as symbols of admiration in Victorian times."
+    },
+    {
+      "name": "Chimonanthus praecox",
+      "commonName": "Wintersweet",
+      "description": "A deciduous shrub native to China, known for its small, fragrant yellow flowers with reddish centers that bloom in the middle of winter. The flowers appear on bare stems before the leaves emerge, filling the air with a sweet scent.",
+      "bloomingSeason": "November to February",
+      "location": "China and cultivated in temperate gardens globally",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wintersweet is prized for its strong fragrance during the coldest months when few other plants bloom."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub native to the Mediterranean region and parts of Asia, with clusters of flowers that bloom from spring to late autumn and sometimes year-round in warmer climates. Flowers are funnel-shaped and come in white, pink, red, and yellow varieties.",
+      "bloomingSeason": "Spring to November (and sometimes year-round in frost-free zones)",
+      "location": "Mediterranean, South Asia, and cultivated in subtropical regions worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is highly toxic but is widely used as an ornamental shrub due to its abundant and long-lasting flowers."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing tree native to eastern Australia, known for its fern-like foliage and bright orange to golden spider-like flowers that bloom mainly in late spring and autumn but can also bloom sporadically in mild climates during November.",
+      "bloomingSeason": "Spring, Autumn, sometimes November",
+      "location": "Eastern Australia and grown in subtropical and Mediterranean climates worldwide",
+      "colors": [
+        "orange",
+        "golden"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but gets its name from the silky texture of its wood."
+    }
+  ]
+}

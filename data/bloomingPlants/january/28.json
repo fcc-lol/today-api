@@ -1,0 +1,56 @@
+{
+  "date": "January 28",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy dark green leaves and large, showy flowers which bloom in winter and early spring. Flowers are typically rose, pink, red, or white and can be single or double. Popular in gardens in temperate zones as an early bloom sign.",
+      "bloomingSeason": "December to March",
+      "location": "Temperate zones of East Asia and cultivated worldwide in similar climates (e.g., southeastern USA, Europe)",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia flowers do not have a fragrance, but they are prized for their stunning colors and long-lasting blooms during winter."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant that often blooms in winter, sometimes as early as December through February. It bears white flowers that can age to pink or greenish hues. Found naturally in mountainous parts of Europe, it is a symbol of winter beauty.",
+      "bloomingSeason": "December to February",
+      "location": "Alpine regions of Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia’s national floral emblem, this shrub or small tree blooms in late winter and early spring with bright yellow fragrant flowers grouped in dense clusters. It’s adapted to dry eucalyptus woodlands and savanna habitats.",
+      "bloomingSeason": "July to September in Australia’s winter to spring (Southern Hemisphere summer/winter difference)",
+      "location": "Southeastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "The Golden Wattle’s vibrant yellow flowers stimulate bees and other pollinators after the winter scarcity."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A tree or tall shrub found along the eastern Australian coast, blooming year-round but especially from late summer to winter with cylindrical flower spikes made up of dozens of tiny flowers. The colorful flower spikes attract birds and insects.",
+      "bloomingSeason": "January to August, with peak in southern summer and autumn",
+      "location": "Coastal eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are named after Sir Joseph Banks, the botanist who accompanied Captain Cook on his voyages."
+    }
+  ]
+}

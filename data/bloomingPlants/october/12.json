@@ -1,0 +1,60 @@
+{
+  "date": "October 12",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A bright, cheerful wildflower native to North America with golden-yellow petals surrounding a dark brown central cone. It thrives in meadows and gardens alike, providing nectar for pollinators.",
+      "bloomingSeason": "June to October",
+      "location": "Temperate regions of North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susans are named for their prominent dark 'eye' at the center of the flower, and they are a symbol of encouragement and justice."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A popular cultivated flower known for its wide variety of colors and intricate petal arrangements, often blooming in fall gardens. They are a staple in autumn floral displays.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate gardens worldwide, especially East Asia and Europe",
+      "colors": [
+        "yellow",
+        "red",
+        "pink",
+        "white",
+        "orange",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Chrysanthemums are the official flower of several countries, including Japan, where they symbolize longevity and rejuvenation."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing Australian tree with bright orange to reddish flowers that attract birds. It blooms prolifically in spring and autumn, bringing vibrant color to woodlands.",
+      "bloomingSeason": "March to June and September to November",
+      "location": "Eastern Australia",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but is so named because of its valuable, durable timber."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "An evergreen tree native to the southeastern United States, known for its large, fragrant white flowers that bloom intermittently through spring and fall.",
+      "bloomingSeason": "May to June and sporadically October to November",
+      "location": "Southeastern USA",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "The southern magnolia's large, waxy leaves are so tough they repel insects and reduce water loss."
+    }
+  ]
+}

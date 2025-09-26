@@ -1,0 +1,62 @@
+{
+  "date": "November 11",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "A popular ornamental flower known for its bright and diverse colored blooms, chrysanthemums are widely cultivated and symbolic of autumn in many cultures.",
+      "bloomingSeason": "October to November",
+      "location": "Temperate regions worldwide, especially East Asia and Europe",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are the official flower of November in the United States, symbolizing optimism and joy."
+    },
+    {
+      "name": "Dianella tasmanica",
+      "commonName": "Tasman Flax-lily",
+      "description": "A native Australian plant producing striking blue to violet flowers and unique blue berries, often found in understories and coastal regions.",
+      "bloomingSeason": "September to November",
+      "location": "Southeastern Australia",
+      "colors": [
+        "blue",
+        "violet"
+      ],
+      "emoji": "💙",
+      "funFact": "This plant's berries are an important food source for native birds, aiding in seed dispersal."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub famous for its glossy leaves and large, rose-like flowers appearing in late autumn through winter.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, also cultivated globally in subtropical climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were historically prized in Japan for tea ceremonies, and the plant gives its name to 'camellia tea'."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub tolerant of heat and poor soils, oleander blooms profusely through the warm months into late autumn in Mediterranean and subtropical zones.",
+      "bloomingSeason": "May to November",
+      "location": "Mediterranean Basin, parts of Asia, North Africa",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its beauty, oleander is highly toxic if ingested, containing cardiac glycosides."
+    }
+  ]
+}

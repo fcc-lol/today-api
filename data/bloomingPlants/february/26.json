@@ -1,0 +1,56 @@
+{
+  "date": "February 26",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "The Christmas Rose is an evergreen perennial known for its early blooming, often flowering in late winter. It showcases white to pale pink cup-shaped flowers that brighten shaded garden corners during the colder months.",
+      "bloomingSeason": "December to March",
+      "location": "Europe, especially mountainous regions in Central Europe",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its common name, the Christmas Rose often blooms after Christmas, sometimes even into late winter or early spring."
+    },
+    {
+      "name": "Prunus persica",
+      "commonName": "Peach Blossom",
+      "description": "Peach trees produce delicate pink flowers that bloom before the leaves fully emerge, signaling the coming of spring. These blossoms are not only ornamental but also essential for fruit development.",
+      "bloomingSeason": "January to March",
+      "location": "Temperate regions including China, Mediterranean, and parts of the United States",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peach blossoms have been symbols of longevity and romance in Chinese culture for centuries."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle",
+      "description": "This Australian native tree bursts into bright yellow, fluffy flower clusters in late winter and early spring. It’s widely cultivated as an ornamental plant in Mediterranean climates worldwide.",
+      "bloomingSeason": "January to March",
+      "location": "Australia, Mediterranean climate zones",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Silver Wattle flowers are used in the perfume industry for their sweet, floral scent."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "These early spring bulbs bloom in late winter to early spring with goblet-shaped flowers in various colors like purple, yellow, and white. They often emerge through snow, making them a symbol of seasonal change.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Crocus vernus is one of the first flowers to bloom and can often be seen pushing through snow, heralding the end of winter."
+    }
+  ]
+}

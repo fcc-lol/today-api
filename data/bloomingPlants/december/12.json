@@ -1,0 +1,57 @@
+{
+  "date": "December 12",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant known for its delicate white flowers that bloom in the cold winter months, often appearing through snow. It is native to mountainous regions of Europe and is popular in winter gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Alps, Central Europe)",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A hardy Australian eucalyptus tree with creamy white flowers blooming in winter. It grows in alpine and sub-alpine regions and is well adapted to cold, snowy environments.",
+      "bloomingSeason": "November to January",
+      "location": "Australia (Alpine regions)",
+      "colors": [
+        "white",
+        "cream"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow Gums have smooth multicolored bark and are important to alpine ecosystems, with their flowers attracting native pollinators during winter."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with showy, rose-like blooms that often appear from late autumn into early spring. It is widely cultivated in temperate regions and highly prized for its ornamental value.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers have been cultivated and hybridized extensively; their petals were historically used to make tea before the tea plant was popularized."
+    },
+    {
+      "name": "Strelitzia reginae",
+      "commonName": "Bird of Paradise",
+      "description": "A striking tropical plant with bright orange and blue flowers resembling a bird in flight. It blooms year-round in suitable climates and is a popular ornamental plant in warm regions.",
+      "bloomingSeason": "Year-round in mild climates, including December",
+      "location": "South Africa, cultivated in tropical/subtropical regions",
+      "colors": [
+        "orange",
+        "blue"
+      ],
+      "emoji": "🦜",
+      "funFact": "The Bird of Paradise flower is pollinated by sunbirds that are attracted to its bright colors and unique shape."
+    }
+  ]
+}

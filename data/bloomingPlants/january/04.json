@@ -1,0 +1,57 @@
+{
+  "date": "January 4",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to East Asia, known for its large, showy flowers that bloom in winter and early spring. The flowers can be single or double and come in various shades of pink, red, and white.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia, cultivated worldwide in temperate climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were prized by the Empress of Japan and have been symbols of longevity and faithfulness in Asian cultures."
+    },
+    {
+      "name": "Witch Hazel (Hamamelis virginiana)",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub native to eastern North America, witch hazel blooms in late fall to early winter with unique, ribbon-like yellow flowers that emit a mild fragrance.",
+      "bloomingSeason": "October to January",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel is used medicinally as an astringent extracted from its bark and leaves."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, the king protea has large, dramatic flower heads with spiky pink bracts surrounding a central dome. It blooms in the southern hemisphere summer, including January.",
+      "bloomingSeason": "December to February",
+      "location": "South Africa",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas are ancient flowering plants, dating back millions of years, and their unique flower structure is adapted to attract bird pollinators."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant native to mountainous regions of Europe, especially the Alps. It blooms in midwinter, often around Christmas and early January, with white flowers that sometimes have a pink tinge.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌼",
+      "funFact": "Despite the name, the Christmas rose is not a true rose but belongs to the buttercup family and has been associated with winter healing traditions."
+    }
+  ]
+}

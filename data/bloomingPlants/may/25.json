@@ -1,0 +1,60 @@
+{
+  "date": "May 25",
+  "plants": [
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "A biennial plant native to Europe, known for its tall spikes of tubular flowers. It thrives in woodlands and open fields.",
+      "bloomingSeason": "May to July",
+      "location": "Europe, temperate climates worldwide",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Foxglove flowers are shaped to encourage pollination by bees, which must crawl inside the tubular flowers to reach nectar."
+    },
+    {
+      "name": "Lagerstroemia indica",
+      "commonName": "Crape Myrtle",
+      "description": "A deciduous shrub or small tree known for vibrant summer blooms and attractive, smooth bark. Commonly cultivated in subtropical and temperate regions.",
+      "bloomingSeason": "Late spring through summer",
+      "location": "South Asia, southeastern USA, Mediterranean climates",
+      "colors": [
+        "pink",
+        "purple",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Crape myrtle flowers can bloom for an extended period, sometimes up to 100 days."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "An evergreen tree with striking red flowers shaped like a rooster’s crest, native to South America.",
+      "bloomingSeason": "Spring to early summer (September to December in Southern Hemisphere; May to June in Northern Hemisphere cultivation)",
+      "location": "Argentina, Brazil, Uruguay; cultivated in warm temperate zones worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The cockspur coral tree is Argentina's national flower and attracts hummingbirds as primary pollinators."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "A large shrub or small tree native to the Pacific Northwest, known for spectacular spring floral displays.",
+      "bloomingSeason": "April to June",
+      "location": "Northwest USA, Canada",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Pacific rhododendron prefers acidic, well-drained soils and blooms profusely after a wet winter."
+    }
+  ]
+}

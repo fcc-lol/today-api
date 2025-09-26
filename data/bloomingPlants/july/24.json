@@ -1,0 +1,56 @@
+{
+  "date": "July 24",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A fragrant white lily native to the Balkans and Middle East, often cultivated in gardens. It produces large, trumpet-shaped flowers with a sweet scent.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean region, cultivated worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Madonna Lily has been cultivated since ancient times and is associated with purity in Christian symbolism."
+    },
+    {
+      "name": "Rhododendron ferrugineum",
+      "commonName": "Alpenrose",
+      "description": "A low-growing, evergreen shrub with bright pink to red bell-shaped flowers. It is common in alpine and subalpine regions.",
+      "bloomingSeason": "June to August",
+      "location": "Alps and other European mountain ranges",
+      "colors": [
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Alpenrose thrives in acidic soils and rocky slopes, contributing to the unique alpine flora."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic plant with large, circular leaves and striking pink or white flowers that float on water surfaces.",
+      "bloomingSeason": "June to August",
+      "location": "Asia, including India, China, and Southeast Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Sacred Lotus flower closes at night and reopens with the morning sun, symbolizing spiritual enlightenment in many cultures."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads that follow the sun’s movement throughout the day.",
+      "bloomingSeason": "July to September",
+      "location": "Native to North America; widely cultivated elsewhere",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflower seeds are edible and sunflower oil is widely used for cooking and cosmetics."
+    }
+  ]
+}

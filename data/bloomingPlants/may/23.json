@@ -1,0 +1,62 @@
+{
+  "date": "May 23",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China, known for its repeat flowering habit and rich fragrance. It has contributed significantly to the breeding of modern garden roses.",
+      "bloomingSeason": "Spring to Fall (mostly May to October)",
+      "location": "Cultivated worldwide, native to China",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "Many modern rose varieties originate from this species, notable for blooming repeatedly throughout the growing season."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A tall, graceful lily with large, trumpet-shaped white flowers. It is prized both as an ornamental plant and for its fragrant flowers.",
+      "bloomingSeason": "Late Spring (May to June)",
+      "location": "Native to the Balkans and the eastern Mediterranean, widely cultivated in temperate regions",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Historically associated with purity and the Virgin Mary, hence the name \"Madonna Lily.\""
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub that produces clusters of showy, fragrant flowers. It is drought-tolerant and thrives in warm climates.",
+      "bloomingSeason": "Spring to Autumn (starting April or May)",
+      "location": "Mediterranean region, cultivated in warm climates worldwide",
+      "colors": [
+        "Pink",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of oleander are highly toxic, yet it remains popular for ornamental use in hot, dry areas."
+    },
+    {
+      "name": "Ipomoea tricolor",
+      "commonName": "Morning Glory",
+      "description": "A fast-growing annual vine that produces large, vivid trumpet-shaped flowers opening early in the day.",
+      "bloomingSeason": "Late Spring to Autumn (May to October)",
+      "location": "Native to Central America, widely cultivated as an ornamental worldwide",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌻",
+      "funFact": "The blue dye extracted from some species of morning glory was used in traditional rituals by indigenous peoples."
+    }
+  ]
+}

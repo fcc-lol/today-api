@@ -1,0 +1,59 @@
+{
+  "date": "April 5",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A popular early spring-flowering deciduous tree with large, fragrant, tulip-shaped flowers that appear before the leaves. The flowers are usually pink, white, or purple and create a striking display in temperate gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Saucer Magnolia is one of the earliest magnolias to bloom and has been cultivated as an ornamental tree since the 19th century."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Famous for its breathtaking cherry blossoms, this deciduous tree produces clusters of pale pink to white flowers in early spring. It is culturally significant in Japan and blooms briefly, attracting many visitors for hanami (flower viewing).",
+      "bloomingSeason": "Late March to Early April",
+      "location": "Japan, Korea, parts of China, widely cultivated in temperate zones globally",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese Cherry Blossoms only bloom for about one to two weeks, making their appearance a celebrated event each spring."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle or Mimosa",
+      "description": "A fast-growing evergreen tree with fern-like leaves and bright yellow, fluffy spherical flower heads. It blooms profusely in late winter to early spring, adding vivid color to mild climate regions.",
+      "bloomingSeason": "January to April",
+      "location": "Native to southeastern Australia; cultivated in Mediterranean and subtropical climates worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The bright yellow flowers of Acacia dealbata are known as mimosa in Europe and are often associated with International Women's Day celebrated in early March."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub or small tree with narrow leaves and large clusters of fragrant flowers. Blooming continuously in warm climates from spring to fall, it can have flowers ranging in color from white to pink, red, or yellow.",
+      "bloomingSeason": "April to October (peak bloom in spring)",
+      "location": "Mediterranean Basin, subtropical and tropical regions",
+      "colors": [
+        "white",
+        "pink",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, yet it has been used medicinally for centuries in controlled doses."
+    }
+  ]
+}

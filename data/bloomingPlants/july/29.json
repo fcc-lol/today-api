@@ -1,0 +1,55 @@
+{
+  "date": "July 29",
+  "plants": [
+    {
+      "name": "Lilium bulbiferum",
+      "commonName": "Orange Lily",
+      "description": "A bright, vibrant lily native to Europe, producing striking orange flowers with dark spots. It often grows on meadows and rocky slopes.",
+      "bloomingSeason": "June to August",
+      "location": "Europe (temperate regions)",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🧡",
+      "funFact": "The Orange Lily is known for its bulbils that grow in the leaf axils, hence the name bulbiferum, meaning \"bulb-bearing.\""
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A flowering tree native to South America with vivid red blossoms shaped somewhat like a rooster’s comb, attracting hummingbirds and bees.",
+      "bloomingSeason": "Late spring to late summer",
+      "location": "Argentina, Uruguay, Brazil (subtropical regions)",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A daisy-like wildflower featuring bright yellow petals surrounding a dark brown center cone, commonly found in prairies and meadows.",
+      "bloomingSeason": "June through September",
+      "location": "North America (temperate grasslands)",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans attract pollinators such as bees and butterflies and are often used in wildflower gardens."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "A large aquatic plant producing large, fragrant pink or white flowers that rise above the water surface, revered in many Asian cultures.",
+      "bloomingSeason": "June to August",
+      "location": "Asia (India, China, Japan), tropical and subtropical zones",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Sacred Lotus seeds can remain viable for over a thousand years and still germinate."
+    }
+  ]
+}

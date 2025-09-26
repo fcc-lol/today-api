@@ -1,0 +1,55 @@
+{
+  "date": "May 7",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking perennial bulbous plant known for its large, fragrant white flowers that symbolize purity. It thrives in Mediterranean climates and is often found in gardens and wild settings.",
+      "bloomingSeason": "April to June",
+      "location": "Mediterranean region, Southern Europe",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Madonna Lily has been cultivated since ancient times and was considered sacred in many cultures, often associated with the Virgin Mary."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "An evergreen tree famous for its large, creamy white, highly fragrant flowers and glossy leaves. It blooms abundantly in spring and can continue sporadically into summer.",
+      "bloomingSeason": "March to June",
+      "location": "Southeastern United States",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Magnolia flowers are an ancient lineage predating bees; they were originally pollinated by beetles, making them some of the oldest flowering plants."
+    },
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub that produces clusters of bell-shaped flowers, commonly found in woodlands and heathlands. It flourishes in temperate zones during spring.",
+      "bloomingSeason": "April to June",
+      "location": "Western Europe",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "In some regions, Rhododendron ponticum is considered invasive, spreading aggressively and outcompeting native flora."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A small tree or shrub with vibrant, spiky red flowers that attract hummingbirds and butterflies. It blooms in late spring, adding brilliant color to subtropical landscapes.",
+      "bloomingSeason": "April to June",
+      "location": "South America, particularly Argentina and Uruguay",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cockspur Coral Tree is the national flower of Argentina and Uruguay, symbolizing strength and resilience."
+    }
+  ]
+}

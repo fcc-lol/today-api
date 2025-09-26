@@ -1,0 +1,61 @@
+{
+  "date": "September 12",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial wildflower and garden plant known for its bright yellow petals and dark brown central cone. It attracts pollinators like bees and butterflies and is often used in naturalistic plantings and meadows.",
+      "bloomingSeason": "July to October",
+      "location": "Native to eastern and central North America; commonly cultivated in temperate gardens worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are often used in roadside plantings because they tolerate drought and poor soils well."
+    },
+    {
+      "name": "Campsis radicans",
+      "commonName": "Trumpet Creeper",
+      "description": "A vigorous deciduous vine producing large, trumpet-shaped orange to red flowers that attract hummingbirds. It blooms profusely on mature growth in late summer to early autumn.",
+      "bloomingSeason": "July to October",
+      "location": "Native to the southeastern United States, widely cultivated in warm temperate climates",
+      "colors": [
+        "Orange",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The trumpet-shaped flowers are specially adapted to attract hummingbirds as their primary pollinators."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous ornamental plant renowned for its striking, large, multi-petaled flowers in a wide range of colors. Blooms are abundant until the first frost, making dahlias a popular late-season garden favorite.",
+      "bloomingSeason": "July to first frost (often October)",
+      "location": "Native to Mexico and Central America; widely cultivated globally in temperate regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "Orange",
+        "Purple",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias were named after the 18th-century Swedish botanist Anders Dahl and were once the national flower of Mexico."
+    },
+    {
+      "name": "Heuchera americana",
+      "commonName": "American Alumroot",
+      "description": "A native perennial wildflower with small bell-shaped flowers borne on tall stems above attractive, often colorful foliage. It blooms in late summer to early fall and is valued in shade gardens.",
+      "bloomingSeason": "August to October",
+      "location": "Eastern United States, especially rocky woodlands and slopes",
+      "colors": [
+        "Creamy White",
+        "Greenish"
+      ],
+      "emoji": "🌿",
+      "funFact": "Heuchera species are commonly called alumroot because their roots were historically used as an astringent."
+    }
+  ]
+}

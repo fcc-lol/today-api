@@ -1,0 +1,59 @@
+{
+  "date": "September 3",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "The common sunflower is a tall annual plant known for its large, bright yellow flower heads that track the sun across the sky. It thrives in temperate climates and is widely cultivated for its seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism when young, turning their heads to follow the sun's path across the sky."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "Dahlias are tuberous plants native to Mexico, known for their diverse and vibrant flower forms and colors. They bloom from mid-summer through the first frost and are popular garden plants globally.",
+      "bloomingSeason": "July to October",
+      "location": "Central America, cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "purple",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "There are over 42 species of dahlias, and they are related to sunflowers and asters."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A perennial tree native to South America, particularly Argentina and Uruguay, with striking bright red flowers shaped like a rooster's crest. It blooms profusely in late summer to early autumn.",
+      "bloomingSeason": "August to October",
+      "location": "South America (Argentina, Uruguay)",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The national flower of Argentina and Uruguay, known locally as 'Ceibo.'"
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A woody climbing vine famous for its cascading clusters of fragrant purple to pale violet flowers. Although usually blooming in spring, certain late-season cultivars may bloom again in early autumn in mild climates.",
+      "bloomingSeason": "Spring primarily; sporadic bloom in early autumn",
+      "location": "China, cultivated in temperate regions worldwide",
+      "colors": [
+        "purple",
+        "lavender"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wisteria vines can live over 100 years and produce very heavy, fragrant blooms."
+    }
+  ]
+}

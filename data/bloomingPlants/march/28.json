@@ -1,0 +1,56 @@
+{
+  "date": "March 28",
+  "plants": [
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy perennial plant known for its bright yellow, trumpet-shaped flowers. It is often found in woodlands and meadows across Europe.",
+      "bloomingSeason": "March to April",
+      "location": "Europe, particularly the UK and western Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils were naturalized in ancient times and have been celebrated in poetry and folklore for centuries."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Famous ornamental tree known for its stunning pink to white blossoms that create breathtaking spring landscapes, especially in Japan.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, East Asia, also cultivated worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossom festivals (Hanami) in Japan mark the arrival of spring and have deep cultural significance."
+    },
+    {
+      "name": "Erica arborea",
+      "commonName": "Tree Heath",
+      "description": "A shrub that produces small white to pale pink bell-shaped flowers. It typically grows in Mediterranean climate zones.",
+      "bloomingSeason": "February to April",
+      "location": "Mediterranean Basin, parts of Africa and southern Europe",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "🌿",
+      "funFact": "Erica arborea wood is historically used to make smoking pipes due to its heat resistance."
+    },
+    {
+      "name": "Calycanthus floridus",
+      "commonName": "Carolina Allspice",
+      "description": "A deciduous shrub native to the southeastern United States, with maroon to reddish-brown fragrant flowers that usually bloom in early spring.",
+      "bloomingSeason": "March to May",
+      "location": "Southeastern USA",
+      "colors": [
+        "maroon",
+        "reddish brown"
+      ],
+      "emoji": "🌺",
+      "funFact": "The aromatic flowers smell spicy and sweet, often compared to pineapple or strawberry."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "September 30",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower that thrives in meadows and fields. Known for its bright yellow petals surrounding a distinctive dark brown cone-shaped center.",
+      "bloomingSeason": "June to October",
+      "location": "Temperate regions of North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are popular with pollinators like bees and butterflies, making them great for natural gardens."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Garden Dahlia",
+      "description": "A cultivated flowering plant admired worldwide for its wide variety of flower shapes and colors. Blooms profusely in late summer to autumn.",
+      "bloomingSeason": "July to October",
+      "location": "Cultivated gardens globally, native to Mexico and Central America",
+      "colors": [
+        "Red",
+        "Pink",
+        "Orange",
+        "Yellow",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Dahlias can produce flowers ranging from tiny pom-poms to massive dinner-plate sizes, making them very popular for ornamental use."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A classic autumn-blooming plant with complex, layered blooms often seen in floral displays and gardens, symbolizing longevity and rejuvenation in many cultures.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate climates worldwide, originally from East Asia",
+      "colors": [
+        "Yellow",
+        "White",
+        "Red",
+        "Purple",
+        "Pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are often used as natural insect repellents and have been cultivated for over 2,500 years."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing evergreen tree native to eastern Australia with striking orange to yellow spider-like flowers that bloom in late winter to spring and occasionally in early autumn in some climates.",
+      "bloomingSeason": "September to November (varies)",
+      "location": "Eastern Australia and cultivated in subtropical regions worldwide",
+      "colors": [
+        "Orange",
+        "Yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Despite its common name, Silky Oak is not a true oak, but its wood is often used like oak due to its strength and attractive grain."
+    }
+  ]
+}

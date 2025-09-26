@@ -1,0 +1,60 @@
+{
+  "date": "July 26",
+  "plants": [
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant shrub known for its aromatic purple flower spikes, English Lavender thrives in Mediterranean climates and is widely cultivated in gardens. It attracts pollinators and is used for essential oils.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean region, Europe, North America (cultivated)",
+      "colors": [
+        "Purple",
+        "Lavender"
+      ],
+      "emoji": "🌿",
+      "funFact": "Lavender was used by ancient Egyptians for mummification and by Romans for bathing and cooking."
+    },
+    {
+      "name": "Rosa rugosa",
+      "commonName": "Rugosa Rose",
+      "description": "A hardy wild rose species with fragrant, pink to white flowers followed by bright red hips rich in vitamin C. It grows naturally along coastal areas and is often planted in gardens for its resilience.",
+      "bloomingSeason": "June to August",
+      "location": "Northern Hemisphere temperate zones, coastal areas of Europe and Asia",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌹",
+      "funFact": "Its dense growth and thorny stems make it excellent for coastal erosion control and wildlife habitats."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A tall perennial herbaceous plant bearing dense, colorful spikes of pea-like flowers. Native to western North America, it is popular in wildflower mixes and gardens for its nitrogen-fixing capabilities.",
+      "bloomingSeason": "June to August",
+      "location": "Western North America, spread to parts of Europe and New Zealand",
+      "colors": [
+        "Purple",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with root bacteria."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa’s national flower, the King Protea features a large and striking inflorescence resembling an artichoke, with colorful bracts surrounding a cluster of small flowers. It’s a symbol of diversity and courage.",
+      "bloomingSeason": "June to September",
+      "location": "Southwestern South Africa",
+      "colors": [
+        "Pink",
+        "Red",
+        "Cream"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea can survive wildfires and regrows rapidly from underground stems after burns."
+    }
+  ]
+}

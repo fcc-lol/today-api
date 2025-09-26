@@ -1,0 +1,59 @@
+{
+  "date": "August 27",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement. Native to North America, sunflowers are widely cultivated for their seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "North America, widely cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, where their flower heads track the sun from east to west during the day."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, vibrant trumpet-shaped flowers. It thrives in warm climates and is often used as an ornamental garden plant.",
+      "bloomingSeason": "Year-round in tropical climates, peak blooming in summer and early autumn",
+      "location": "Tropical Asia, widely cultivated in tropical and subtropical regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "Orange",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and often used to make herbal teas and beverages."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A striking perennial wildflower with vibrant red tubular flowers that attract hummingbirds. Prefers moist areas such as stream banks and wetlands.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cardinal flowers have nectar-rich blooms that are specially adapted to be pollinated by hummingbirds."
+    },
+    {
+      "name": "Agapanthus africanus",
+      "commonName": "African Lily",
+      "description": "A hardy evergreen perennial with striking clusters of trumpet-shaped blue or white flowers. Native to South Africa, often used in landscaping.",
+      "bloomingSeason": "Late summer to early autumn (August to October)",
+      "location": "South Africa and cultivated in similar climates",
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "The African lily is drought-resistant and often blooms abundantly after summer rains."
+    }
+  ]
+}

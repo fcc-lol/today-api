@@ -1,0 +1,58 @@
+{
+  "date": "September 27",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy flowering plant common in North American prairies and gardens, known for its bright yellow petals and dark brown central cone. It attracts pollinators such as bees and butterflies.",
+      "bloomingSeason": "July to October",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are often used in wildflower mixes to restore natural prairies and attract beneficial insects."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub popular in Mediterranean climates, producing clusters of fragrant flowers throughout much of the year, but especially abundant in late summer to fall.",
+      "bloomingSeason": "Spring to November",
+      "location": "Mediterranean Basin, Southern USA, and similar climates",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, yet it has been used medicinally in traditional medicine under strict conditions."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing Australian native tree with fern-like leaves and bright orange, brush-shaped flowers that bloom in late winter through to spring and sometimes into early fall in favorable climates.",
+      "bloomingSeason": "Winter to fall (varies by location)",
+      "location": "Eastern Australia and subtropical regions worldwide",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌲",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but gets its name from its timber which has a silky texture."
+    },
+    {
+      "name": "Fuchsia magellanica",
+      "commonName": "Hardy Fuchsia",
+      "description": "A deciduous shrub or small tree native to South America, producing elegant, pendulous flowers in vivid pinks and purples that bloom late summer through fall.",
+      "bloomingSeason": "Summer to fall",
+      "location": "Southern Chile and Argentina; widely cultivated in temperate zones",
+      "colors": [
+        "pink",
+        "purple",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Fuchsias are named after the German botanist Leonhart Fuchs and are popular for attracting hummingbirds during bloom."
+    }
+  ]
+}

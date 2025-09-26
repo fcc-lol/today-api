@@ -1,0 +1,56 @@
+{
+  "date": "August 31",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads known for turning to face the sun. Widely cultivated for its seeds and ornamental value.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions worldwide, native to North America",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers follow the sun across the sky during their bud stage, a behavior called heliotropism."
+    },
+    {
+      "name": "Lilium lancifolium",
+      "commonName": "Tiger Lily",
+      "description": "A robust perennial lily with striking orange flowers spotted with dark markings. Grows well in temperate climates.",
+      "bloomingSeason": "July to September",
+      "location": "Native to East Asia, widely cultivated in temperate gardens",
+      "colors": [
+        "Orange",
+        "Black spots"
+      ],
+      "emoji": "🌺",
+      "funFact": "Tiger lilies are unique among lilies because their bulbs produce small bulblets used for propagation."
+    },
+    {
+      "name": "Banksia spinulosa",
+      "commonName": "Hairpin Banksia",
+      "description": "An Australian native shrub or small tree, featuring cylindrical flower spikes with numerous bright yellow to orange flowers that attract birds and insects.",
+      "bloomingSeason": "Late winter to early spring in native range but some varieties bloom sporadically including late summer",
+      "location": "Eastern Australia",
+      "colors": [
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "Banksia flowers produce a nectar that's a food source for many birds and mammals in Australia."
+    },
+    {
+      "name": "Tithonia rotundifolia",
+      "commonName": "Mexican Sunflower",
+      "description": "A fast-growing annual with bright orange to red daisy-like flowers known for attracting butterflies and hummingbirds.",
+      "bloomingSeason": "Summer to early fall",
+      "location": "Native to Mexico and Central America, widely grown in warm climates",
+      "colors": [
+        "Orange",
+        "Red"
+      ],
+      "emoji": "🌞",
+      "funFact": "Mexican Sunflowers are often used in gardens to attract pollinators like butterflies and hummingbirds."
+    }
+  ]
+}

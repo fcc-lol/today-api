@@ -1,0 +1,60 @@
+{
+  "date": "June 11",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A popular garden rose species known for its continuous blooming throughout much of the year, especially thriving in subtropical and tropical climates. It features fragrant flowers that can be single or double-petaled.",
+      "bloomingSeason": "Spring to Autumn (April to November)",
+      "location": "Native to Southwest China but widely cultivated worldwide in subtropical and temperate regions",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Rose is one of the ancestors of modern hybrid tea roses, contributing to the wide variety of roses available today."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic shrub popular in gardens and used in aromatherapy, English lavender produces tall spikes of fragrant purple flowers that attract bees and butterflies.",
+      "bloomingSeason": "Late Spring to Mid Summer (May to July)",
+      "location": "Native to the Mediterranean; widely grown in temperate zones worldwide",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been used as a natural insect repellent and its oil is often used to promote relaxation."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Garden Larkspur",
+      "description": "Tall perennial plants with striking, tall spikes of densely packed flowers, commonly used in cottage gardens for vertical accents and bees' attraction.",
+      "bloomingSeason": "Late Spring to Early Summer (June to July)",
+      "location": "Native to Europe and Asia; cultivated in temperate regions worldwide",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite their beauty, larkspur plants are toxic to livestock and humans if ingested."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "White Water Lily",
+      "description": "A floating aquatic plant with large, fragrant white flowers that open in the morning and close by late afternoon, often found in temperate freshwater bodies.",
+      "bloomingSeason": "Late Spring to Early Autumn (May to September)",
+      "location": "Native to Europe and North Africa; found in freshwater lakes and ponds across temperate Europe",
+      "colors": [
+        "white"
+      ],
+      "emoji": "💧",
+      "funFact": "The white water lily has significant cultural importance in many societies and is a symbol of purity and peace."
+    }
+  ]
+}

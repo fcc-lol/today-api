@@ -1,0 +1,62 @@
+{
+  "date": "May 4",
+  "plants": [
+    {
+      "name": "Rhododendron simsii",
+      "commonName": "Azalea",
+      "description": "Azaleas are flowering shrubs known for their vibrant clusters of funnel-shaped flowers and evergreen foliage. They thrive in acidic soils and are popular in temperate gardens worldwide.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate regions of Eastern Asia and cultivated globally",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Azaleas were originally wild plants native to Asia, but many hybrids have been developed for gardens all over the world."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A North American native wildflower characterized by tall spikes of pea-like flowers and palmate leaves. It plays a crucial role in local ecosystems as a nitrogen fixer and host for butterfly larvae.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern United States and Canada, in sandy or well-drained soils",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild Lupine is the primary host plant for the endangered Karner blue butterfly."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub commonly found in Mediterranean climates, known for its fragrant, showy flowers and drought tolerance. Despite its beauty, it is toxic if ingested.",
+      "bloomingSeason": "Spring to fall",
+      "location": "Mediterranean Basin, South Asia, cultivated worldwide in warm climates",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Oleander extracts were historically used medicinally, but all parts of the plant are toxic due to cardiac glycosides."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tropical/subtropical tree celebrated for its extravagant display of trumpet-shaped violet-blue flowers and fern-like leaves. It is widely planted in cities for shade and ornamental value.",
+      "bloomingSeason": "April to June",
+      "location": "Native to South America, cultivated in subtropical regions worldwide (e.g., Australia, South Africa)",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "The jacaranda’s vibrant blooms can cover entire streets, creating spectacular 'purple rain' carpets on the ground."
+    }
+  ]
+}

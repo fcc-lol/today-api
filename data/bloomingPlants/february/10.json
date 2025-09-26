@@ -1,0 +1,57 @@
+{
+  "date": "February 10",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small bulbous perennial known for its early bloom in late winter to early spring. It features cup-shaped flowers that emerge from the ground when snow is still present in some regions.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocus flowers were historically used to produce saffron spice, though the culinary saffron comes from a different species, Crocus sativus."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot or Chinese Plum Blossom",
+      "description": "A deciduous tree known for its fragrant early blossoms appearing in winter before the leaves unfold. It holds cultural significance in East Asia as a symbol of resilience and perseverance.",
+      "bloomingSeason": "January to February",
+      "location": "East Asia (China, Japan, Korea)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Plum blossoms are celebrated in traditional festivals in Japan and China, often representing hope and renewal."
+    },
+    {
+      "name": "Daphne mezereum",
+      "commonName": "February Daphne",
+      "description": "A small deciduous shrub with intensely fragrant, pink to purple flowers appearing in late winter before the leaves develop. It is often a source of early nectar for pollinators.",
+      "bloomingSeason": "February to March",
+      "location": "Europe and western Asia",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "💐",
+      "funFact": "Despite its beauty and fragrance, all parts of Daphne mezereum are toxic if ingested."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree that flowers in the southern hemisphere's late summer through winter, producing bright yellow flower spikes that attract birds and insects.",
+      "bloomingSeason": "December to February",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias have woody flower spikes that develop into seed cones, and they are important for Australian ecosystems."
+    }
+  ]
+}

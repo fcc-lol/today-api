@@ -1,0 +1,61 @@
+{
+  "date": "July 19",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are a diverse genus of flowering plants known for their beautiful and fragrant blooms. Many varieties bloom throughout summer, especially in temperate regions of the Northern Hemisphere. They can range from small shrub forms to climbing varieties and are widely cultivated in gardens worldwide.",
+      "bloomingSeason": "Late spring to early autumn (May to September)",
+      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been cultivated for over 5,000 years and symbolize love and beauty in many cultures."
+    },
+    {
+      "name": "Edelweiss (Leontopodium alpinum)",
+      "commonName": "Edelweiss",
+      "description": "Edelweiss is a perennial herb that thrives in alpine regions, recognizable by its white woolly star-shaped flower heads. It typically blooms in the summer months and is a symbol of rugged mountain beauty in Europe.",
+      "bloomingSeason": "July to September",
+      "location": "Alpine regions of Europe including the Alps and Carpathians",
+      "colors": [
+        "white"
+      ],
+      "emoji": "❄️",
+      "funFact": "Edelweiss was once considered sacred and a symbol of daring love because it grows in inaccessible mountain areas."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "Jacaranda is a tropical-subtropical tree known for its profuse showy purple-blue trumpet-shaped flowers that bloom in late spring to summer. It is widely planted in warm climates as an ornamental street and garden tree.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Native to South America, widely cultivated in Australia, South Africa, and parts of the southern United States",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "The flowers of jacaranda trees fall to the ground creating a beautiful purple carpet underneath the tree."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This perennial wildflower is known for its tall spikes of pea-like flowers that bloom profusely in summer. It is native to western North America but has been widely introduced elsewhere. Lupines thrive in meadows, open woods, and disturbed areas.",
+      "bloomingSeason": "June to August",
+      "location": "Western North America, and naturalized in Europe and New Zealand",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines can fix nitrogen in the soil with the help of root bacteria, improving soil fertility."
+    }
+  ]
+}

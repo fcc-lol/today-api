@@ -1,0 +1,33 @@
+{
+  "date": "June 30",
+  "events": [
+    {
+      "year": 1908,
+      "title": "Tunguska Event",
+      "description": "A massive explosion occurred over the Podkamennaya Tunguska River in Siberia, Russia, caused by the air burst of a meteor or comet fragment.",
+      "category": "Natural Disaster",
+      "significance": "The explosion flattened an estimated 80 million trees over 2,150 square kilometers and is the largest impact event on Earth in recorded history, providing significant data for studying cosmic impacts and nature's power."
+    },
+    {
+      "year": 1934,
+      "title": "The Night of the Long Knives",
+      "description": "A series of political extrajudicial executions carried out by the Nazi regime to consolidate Adolf Hitler's power by eliminating rivals within the party and other political opponents.",
+      "category": "Political",
+      "significance": "This event marked the violent consolidation of Nazi power in Germany and established the SS's dominance in policing and security, setting the stage for totalitarian rule."
+    },
+    {
+      "year": 1966,
+      "title": "Surveyor 1 Moon Landing",
+      "description": "NASA's Surveyor 1 spacecraft successfully landed on the Moon, becoming the first U.S. spacecraft to soft-land on another celestial body.",
+      "category": "Space Exploration",
+      "significance": "This milestone demonstrated the feasibility of robotic lunar landings, providing important information for the upcoming manned Apollo missions."
+    },
+    {
+      "year": 1997,
+      "title": "Hong Kong Handover",
+      "description": "Sovereignty over Hong Kong was transferred from the United Kingdom to the People's Republic of China after 156 years of British colonial rule.",
+      "category": "Political",
+      "significance": "The handover ended British rule and initiated the 'one country, two systems' framework, significantly impacting international relations and Hong Kong's future governance."
+    }
+  ]
+}

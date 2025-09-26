@@ -1,0 +1,58 @@
+{
+  "date": "March 6",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its beautiful and delicate pink to white flowers that herald the arrival of spring. These cherry blossoms create iconic landscapes in Japan, Korea, and parts of the United States during early spring.",
+      "bloomingSeason": "Late February to early April",
+      "location": "Temperate regions of Japan, Korea, Washington D.C. (USA)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms bloom for only about one to two weeks, and their fleeting beauty is celebrated in festivals called Hanami in Japan."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy, evergreen shrub that produces clusters of fragrant, funnel-shaped flowers. It blooms profusely in mild Mediterranean climates, often from late winter into spring and summer.",
+      "bloomingSeason": "February to October",
+      "location": "Mediterranean Basin, Southern United States, India",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of the oleander plant are toxic if ingested, yet it is widely cultivated as an ornamental plant due to its beautiful flowers and drought tolerance."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An iconic Australian tree known for its unique flower spikes composed of hundreds of tiny flowers that form cylindrical golden-yellow inflorescences. It blooms mainly in late summer to early autumn but can bloom sporadically throughout the year in warmer climates.",
+      "bloomingSeason": "February to May (often blooming in March)",
+      "location": "Eastern Australia coastal areas",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are vital nectar sources for many Australian birds and mammals, especially in coastal environments."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial that is one of the first flowers to bloom in early spring, often pushing through the last snow cover. Its cup-shaped flowers brighten gardens with colors of purple, yellow, and white.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and North America",
+      "colors": [
+        "Purple",
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Spring crocus flowers close at night and open during the day to protect their reproductive organs from cold temperatures."
+    }
+  ]
+}

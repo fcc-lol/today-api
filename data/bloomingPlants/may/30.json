@@ -1,0 +1,61 @@
+{
+  "date": "May 30",
+  "plants": [
+    {
+      "name": "Rhododendron spp.",
+      "commonName": "Rhododendron",
+      "description": "Rhododendrons are woody plants with large, bell-shaped flowers that bloom in dense clusters. They prefer acidic soils and are popular in temperate gardens worldwide.",
+      "bloomingSeason": "April to June",
+      "location": "Northern Hemisphere temperate zones (e.g., North America, Europe, Asia)",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons are known for their stunning spring blooms and some species are evergreen, providing year-round foliage."
+    },
+    {
+      "name": "Tropaeolum majus",
+      "commonName": "Nasturtium",
+      "description": "Nasturtiums are low-growing annual plants with round leaves and vibrant, trumpet-shaped flowers. They are edible and often used in salads for their peppery taste.",
+      "bloomingSeason": "Late spring to early fall",
+      "location": "Native to South America, widely cultivated globally",
+      "colors": [
+        "orange",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Nasturtiums attract pollinators like bees and hummingbirds, making them great companion plants in gardens."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Golden Wattle is a small tree or shrub with fragrant yellow flowers arranged in fluffy spherical clusters. It is the floral emblem of Australia and blooms in late winter to spring.",
+      "bloomingSeason": "August to November in Australia (Southern Hemisphere) but can bloom early in mild climates around May",
+      "location": "Australia and subtropical regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Golden Wattle's bright yellow flowers are a symbol of unity and resilience in Australia."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Delphinium",
+      "description": "Delphiniums are tall, perennial plants with spiked inflorescences of two-lipped flowers. They thrive in cooler temperate climates and are favored in cottage gardens.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Temperate regions of the Northern Hemisphere",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "💠",
+      "funFact": "Delphiniums are toxic if ingested but are beloved for their vibrant flower spikes that can reach up to 2 meters tall."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "May 14",
+  "plants": [
+    {
+      "name": "Rosa × centifolia",
+      "commonName": "Cabbage Rose",
+      "description": "A popular cultivated garden rose known for its dense, rodent-like petals and strong, sweet fragrance. It produces large, lush pink blooms often used in perfumery.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Temperate regions worldwide, especially Europe and North America",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The Damascus rose (a type of Rosa centifolia) has been cultivated for over 2,000 years!"
+    },
+    {
+      "name": "Erythrina Crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A deciduous tree producing striking bright red, elongated flowers shaped like a rooster's spur, attracting hummingbirds and other pollinators.",
+      "bloomingSeason": "Spring to early summer (September to December in Southern Hemisphere; May in some regions)",
+      "location": "Native to South America, notably Argentina, Uruguay, and Brazil",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A perennial wildflower with tall racemes of densely packed pea-like flowers, often in shades of purple, blue, pink, and white, favored by bees.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Native to western North America, commonly found in meadows and open forests",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with bacteria in their root nodules."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A deciduous tree known for its large white or pink bracts that look like petals surrounding small greenish-yellow flowers.",
+      "bloomingSeason": "Spring (April to May)",
+      "location": "Eastern United States and parts of Mexico",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "The wood of the flowering dogwood is very hard and was historically used for making tool handles and golf club heads."
+    }
+  ]
+}

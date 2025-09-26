@@ -1,0 +1,40 @@
+{
+  "date": "February 18",
+  "events": [
+    {
+      "year": 1930,
+      "title": "Pluto Discovered",
+      "description": "Clyde Tombaugh discovered Pluto at the Lowell Observatory in Flagstaff, Arizona.",
+      "category": "Science",
+      "significance": "This marked the discovery of the ninth planet in our solar system at the time, expanding our understanding of the solar system."
+    },
+    {
+      "year": 1861,
+      "title": "Jefferson Davis Elected President of the Confederate States",
+      "description": "Jefferson Davis was elected as the first and only president of the Confederate States of America during the American Civil War.",
+      "category": "Politics",
+      "significance": "This event was crucial in the formation of the Confederacy, which played a central role in the American Civil War."
+    },
+    {
+      "year": 1935,
+      "title": "USS Nautilus Launched",
+      "description": "The USS Nautilus, the first atomic-powered submarine, was launched.",
+      "category": "Technology",
+      "significance": "This represented a major advancement in naval technology, influencing the future of submarine design and military strategy."
+    },
+    {
+      "year": 1932,
+      "title": "Inauguration of the Sydney Harbour Bridge",
+      "description": "The Sydney Harbour Bridge was officially opened in Australia, connecting the Sydney central business district and the North Shore.",
+      "category": "Infrastructure",
+      "significance": "The bridge became an iconic symbol of Australia and greatly improved transportation and infrastructure in Sydney."
+    },
+    {
+      "year": 1970,
+      "title": "Japan's First Satellite Launch",
+      "description": "Japan launched its first satellite, Ohsumi, into orbit, becoming the fourth country to successfully launch a satellite independently.",
+      "category": "Space Exploration",
+      "significance": "This milestone marked Japan's entry into the space race, showcasing its technological progress and space capabilities."
+    }
+  ]
+}

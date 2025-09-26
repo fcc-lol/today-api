@@ -1,0 +1,60 @@
+{
+  "date": "July 17",
+  "plants": [
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant shrub native to the Mediterranean, known for its spikes of purple flowers and strong aroma. It thrives in sunny, well-drained locations and attracts pollinators like bees and butterflies.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean, Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender essential oil is widely used in aromatherapy for its calming properties."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub featuring large, showy flowers with five petals, commonly red but also found in pink, yellow, and white varieties. It blooms throughout the warm season in tropical and subtropical climates.",
+      "bloomingSeason": "Year-round in tropical climates; July is peak bloom in many regions",
+      "location": "Tropical Asia, tropical gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are used to make a popular tart tea called 'agua de Jamaica' in Mexico and the Caribbean."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A perennial plant known for tall, dense spikes of pea-like flowers in a range of colors including blue, purple, pink, and white. It is native to western North America and is often found blooming in meadows and along roadsides.",
+      "bloomingSeason": "June to August",
+      "location": "Western North America",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines can fix nitrogen in the soil, improving soil fertility."
+    },
+    {
+      "name": "Tussilago farfara",
+      "commonName": "Coltsfoot",
+      "description": "A perennial herbaceous plant that flowers early to mid-summer in some regions, producing bright yellow daisy-like flowers. It often grows in disturbed soils and along riverbanks.",
+      "bloomingSeason": "May to July",
+      "location": "Europe, Asia, introduced in North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Coltsfoot leaves were traditionally used to soothe coughs and respiratory ailments."
+    }
+  ]
+}

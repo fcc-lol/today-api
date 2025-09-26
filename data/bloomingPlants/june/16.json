@@ -1,0 +1,60 @@
+{
+  "date": "June 16",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Garden Rose",
+      "description": "Roses are a classic garden favorite, known for their large, fragrant, and colorful flowers. They bloom abundantly in late spring and early summer in temperate regions around the world.",
+      "bloomingSeason": "May to June (Northern Hemisphere)",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "There are over 300 species of roses, and they have been cultivated for thousands of years for their beauty and fragrance."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This wildflower is known for its tall, spiky flower clusters that are often blue or purple. It blooms in late spring and early summer, commonly found in meadows and along roadsides in temperate zones.",
+      "bloomingSeason": "May to July",
+      "location": "North America, especially Pacific Northwest",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines can fix nitrogen in the soil, improving soil fertility for surrounding plants."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree that produces large, cylindrical flower spikes made up of hundreds of tiny flowers. It blooms in early to mid-summer along the east coast of Australia.",
+      "bloomingSeason": "December to June (Southern Hemisphere)",
+      "location": "Coastal eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are important nectar sources for birds and insects in Australian ecosystems."
+    },
+    {
+      "name": "Tussilago farfara",
+      "commonName": "Coltsfoot",
+      "description": "A small wildflower that blooms before its leaves appear, often in early spring to early summer in temperate regions. It has bright yellow, dandelion-like flowers and typically grows in disturbed soils and roadsides.",
+      "bloomingSeason": "March to June",
+      "location": "Europe, Asia, and parts of North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Coltsfoot was once used as a herbal remedy for coughs and respiratory ailments."
+    }
+  ]
+}

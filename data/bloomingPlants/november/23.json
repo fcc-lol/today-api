@@ -1,0 +1,62 @@
+{
+  "date": "November 23",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular garden plants known for their brightly colored, densely petaled flowers. They bloom in late autumn and are often associated with fall floral displays.",
+      "bloomingSeason": "October to November",
+      "location": "Temperate regions worldwide (garden cultivation)",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures, especially in East Asia."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub that produces large, showy flowers in late autumn to early winter. Camellias are highly valued ornamentals in gardens and parks.",
+      "bloomingSeason": "October to March (peak in November to December)",
+      "location": "Eastern Asia (Japan, China) and cultivated worldwide in mild climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were historically used in East Asia for tea and medicinal purposes before the tea plant was widespread."
+    },
+    {
+      "name": "Brugmansia arborea",
+      "commonName": "Angel's Trumpet",
+      "description": "A tropical shrub or small tree with large, fragrant, trumpet-shaped flowers that bloom at night. Blooming occurs in tropical climates around November.",
+      "bloomingSeason": "Late spring to early winter (in frost-free tropical zones, can bloom in November)",
+      "location": "Andean regions of South America and tropical gardens worldwide",
+      "colors": [
+        "white",
+        "yellow",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Brugmansia flowers are highly fragrant at night and attract moth pollinators."
+    },
+    {
+      "name": "Rhododendron simsii",
+      "commonName": "Azalea",
+      "description": "Azaleas bloom profusely during cooler seasons in subtropical and tropical climates. Some species bloom in late autumn and early winter.",
+      "bloomingSeason": "October to December",
+      "location": "Southeast Asia, cultivated worldwide in subtropical climates",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Azaleas are known for their dazzling flower displays and have been cultivated for thousands of years for ornamental use."
+    }
+  ]
+}

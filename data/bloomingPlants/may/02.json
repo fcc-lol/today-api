@@ -1,0 +1,57 @@
+{
+  "date": "May 2",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "The Madonna Lily is a fragrant, tall perennial with large, trumpet-shaped white flowers. It is often found in Mediterranean climates and has been cultivated since ancient times for its beauty and scent.",
+      "bloomingSeason": "April to June",
+      "location": "Mediterranean region, Southern Europe, North Africa",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Madonna Lilies have been symbols of purity and have appeared in religious art and literature for centuries."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree known for its large, tulip-shaped flowers that bloom in early spring. The flowers appear before the leaves and can range from white to pink and purple hues.",
+      "bloomingSeason": "March to May",
+      "location": "Native to China, widely cultivated in temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Saucer Magnolia is a hybrid species and one of the earliest magnolias to bloom in spring, often signaling the start of the season."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "A species of rhododendron shrub native to the western coastal regions of North America. It produces clusters of bright pink to purple flowers in spring.",
+      "bloomingSeason": "April to June",
+      "location": "Pacific Northwest, USA",
+      "colors": [
+        "Pink",
+        "Purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "The Pacific Rhododendron is the state flower of Washington state and thrives in moist, acidic soils."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A woody, deciduous vine with cascading racemes of highly fragrant lavender-blue flowers. It blooms in spring, often covering entire trees or structures with blossoms.",
+      "bloomingSeason": "April to May",
+      "location": "Native to China, cultivated worldwide in temperate zones",
+      "colors": [
+        "Lavender",
+        "Blue"
+      ],
+      "emoji": "🌿",
+      "funFact": "Chinese Wisteria can live for over 100 years and is known for its vigorous growth and spectacular floral displays."
+    }
+  ]
+}

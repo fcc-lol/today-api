@@ -1,0 +1,40 @@
+{
+  "date": "March 15",
+  "events": [
+    {
+      "year": 44,
+      "title": "Assassination of Julius Caesar",
+      "description": "Julius Caesar was assassinated by a group of Roman senators led by Brutus and Cassius on the Ides of March, ending his rule as dictator of Rome.",
+      "category": "Political",
+      "significance": "This event marked a turning point in Roman history, leading to the end of the Roman Republic and the rise of the Roman Empire."
+    },
+    {
+      "year": 1493,
+      "title": "Christopher Columbus Returns to Spain",
+      "description": "After his first voyage across the Atlantic, Christopher Columbus returned to Spain to report his discoveries in the New World to Queen Isabella and King Ferdinand.",
+      "category": "Exploration",
+      "significance": "Columbus's return paved the way for Spanish colonization of the Americas and changed the course of world history through the Age of Discovery."
+    },
+    {
+      "year": 1820,
+      "title": "The Missouri Compromise Passed",
+      "description": "The United States Congress passed the Missouri Compromise, admitting Missouri as a slave state and Maine as a free state to maintain the balance of power between slave and free states.",
+      "category": "Legislative",
+      "significance": "The compromise was an early attempt to resolve sectional tensions over slavery, which continued to shape U.S. political conflicts leading up to the Civil War."
+    },
+    {
+      "year": 1917,
+      "title": "Tsar Nicholas II Abdicates Russian Throne",
+      "description": "Facing mounting unrest, Tsar Nicholas II abdicated the throne, ending centuries of Romanov dynastic rule in Russia and leading to the Russian Provisional Government.",
+      "category": "Political",
+      "significance": "This event marked a significant moment in the Russian Revolution, eventually leading to the rise of the Soviet Union."
+    },
+    {
+      "year": 1965,
+      "title": "Government Announces Escalation of U.S. Troops in Vietnam",
+      "description": "President Lyndon B. Johnson announced the deployment of additional 50,000 U.S. troops to Vietnam, escalating the American involvement in the Vietnam War.",
+      "category": "Military",
+      "significance": "The escalation marked a major intensification of U.S. military efforts in Vietnam, impacting domestic and international politics for years."
+    }
+  ]
+}

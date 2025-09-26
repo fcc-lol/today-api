@@ -1,0 +1,57 @@
+{
+  "date": "February 4",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial flowering plant growing from a bulb, often one of the first signs of spring in temperate climates. It produces goblet-shaped flowers that can be purple, yellow, or white.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Europe and North America (cultivated in gardens)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the earliest bloomers and can even push through snow to bloom, signaling the approaching spring."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its large, showy flowers, often blooming during the winter months and early spring. It has glossy leaves and blooms in shades of red, pink, and white.",
+      "bloomingSeason": "Winter to spring (November to March)",
+      "location": "East Asia (native); widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized in Japan and China and are symbols of admiration and perfection."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A medium-sized tree or shrub with distinctive cylindrical flower spikes that bloom in winter through spring. The flowers provide important nectar for birds and insects.",
+      "bloomingSeason": "Winter to spring (June to September in Southern Hemisphere, overlapping with February in Northern Hemisphere subtropics)",
+      "location": "Eastern Australia (native)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are named after Sir Joseph Banks, the botanist who accompanied Captain Cook on his voyage to Australia."
+    },
+    {
+      "name": "Mahonia aquifolium",
+      "commonName": "Oregon Grape",
+      "description": "An evergreen shrub with holly-like leaves and bright yellow flowers that bloom in late winter, followed by dark blue berries.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Northwestern North America (native)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💐",
+      "funFact": "Oregon grape is a common ornamental plant and also used in traditional medicine by Indigenous peoples."
+    }
+  ]
+}

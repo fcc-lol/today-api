@@ -1,0 +1,62 @@
+{
+  "date": "June 19",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are woody perennial flowering plants known for their large, often fragrant flowers. They come in a wide variety of colors and are beloved worldwide in gardens and landscapes.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange",
+        "multi-colored"
+      ],
+      "emoji": "🌹",
+      "funFact": "Some rose species can bloom repeatedly throughout the growing season, and rose hips are rich in vitamin C."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall flowering plant with dense, colorful spikes of pea-like flowers commonly found in wild and cultivated settings. It is popular for its ornamental value and nitrogen-fixing ability.",
+      "bloomingSeason": "Late spring to mid-summer",
+      "location": "Pacific Northwest of North America but widely naturalized and cultivated in temperate regions worldwide",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines improve soil fertility by fixing nitrogen; they have specialized root nodules with bacteria for this purpose."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial that produces large, showy flowers floating above the water surface. It holds cultural and religious significance in Asia.",
+      "bloomingSeason": "Late spring to summer",
+      "location": "South Asia, Southeast Asia, parts of Australia and cultivated worldwide in suitable climates",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The lotus flower’s seeds can remain viable for over 1,000 years, one of the longest seed longevity records."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree or shrub with cylindrical flower spikes that bloom with numerous small flowers packed densely. Often blooms throughout the year including early summer.",
+      "bloomingSeason": "Year-round with peak flowering in autumn and early summer",
+      "location": "Eastern Australia coastline",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are important nectar sources for many Australian birds and mammals, especially honeyeaters."
+    }
+  ]
+}

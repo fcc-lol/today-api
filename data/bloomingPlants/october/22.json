@@ -1,0 +1,62 @@
+{
+  "date": "October 22",
+  "plants": [
+    {
+      "name": "Cymbidium spp.",
+      "commonName": "Cymbidium Orchid",
+      "description": "Cymbidiums are orchids renowned for their elegant and long-lasting flowers that come in a variety of colors such as white, pink, green, and yellow. They typically bloom in autumn and early winter, showcasing large, waxy flowers that are fragrant and prized in floral arrangements.",
+      "bloomingSeason": "Autumn to early winter",
+      "location": "Temperate regions of Asia and Australia; commonly cultivated worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "green",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cymbidium orchids were named after the Greek word 'kymbe,' meaning 'boat,' referring to the shape of the flowers' lip."
+    },
+    {
+      "name": "Solidago spp.",
+      "commonName": "Goldenrod",
+      "description": "Goldenrod is a bright yellow-flowered perennial herb that blooms in late summer to autumn. It often grows in meadows and along roadsides and is important for pollinators preparing for winter. Contrary to popular belief, goldenrod is not a major cause of hay fever.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "North America, Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod was historically used as a natural dye and in traditional medicine."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "Garden chrysanthemums bloom abundantly in autumn, producing dense clusters of flowers in a wide range of colors including white, red, orange, and purple. They are symbolic of autumn in many cultures, particularly in East Asia.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Originally East Asia; widely cultivated worldwide",
+      "colors": [
+        "white",
+        "red",
+        "orange",
+        "purple"
+      ],
+      "emoji": "🌻",
+      "funFact": "Chrysanthemums are associated with the festival of happiness and longevity in China and Japan."
+    },
+    {
+      "name": "Brugmansia spp.",
+      "commonName": "Angel's Trumpet",
+      "description": "Angel's Trumpet is a tropical shrub or small tree known for its large, pendulous, trumpet-shaped flowers that bloom in autumn in many warm climates. The flowers are often fragrant and can be white, yellow, pink, or orange.",
+      "bloomingSeason": "Autumn (in mild climates)",
+      "location": "Native to South America; cultivated globally in subtropical and tropical regions",
+      "colors": [
+        "white",
+        "yellow",
+        "pink",
+        "orange"
+      ],
+      "emoji": "🎺",
+      "funFact": "All parts of Brugmansia are toxic if ingested, containing powerful tropane alkaloids."
+    }
+  ]
+}

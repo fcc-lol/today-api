@@ -1,0 +1,58 @@
+{
+  "date": "November 26",
+  "plants": [
+    {
+      "name": "Lonicera japonica",
+      "commonName": "Japanese Honeysuckle",
+      "description": "A vigorous, twining woody vine native to East Asia, known for its fragrant, tubular flowers that attract pollinators such as bees and hummingbirds. In mild climates, it blooms sporadically through late fall.",
+      "bloomingSeason": "April to November, sometimes extending into late November",
+      "location": "Southeastern United States, East Asia",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese Honeysuckle flowers change color from white to yellow as they age, which helps pollinators identify fresher nectar sources."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A popular garden perennial and cut flower favorite, chrysanthemums bloom in cooler months and are widely cultivated for their vibrant and diverse flower shapes and colors. They thrive in temperate regions and are symbolic of autumn in many cultures.",
+      "bloomingSeason": "September to December",
+      "location": "Temperate climates worldwide",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "💐",
+      "funFact": "Chrysanthemums have been cultivated in China for over 3,000 years and are associated with longevity and rejuvenation."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An evergreen tree native to eastern Australia that produces bright orange, brush-like flower clusters attracting birds and insects. Its blooming period can extend into late spring or late autumn in warmer climates.",
+      "bloomingSeason": "September to December",
+      "location": "Australia, cultivated in subtropical and Mediterranean climates",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its name, the Silky Oak is not an oak but is named for its timber's fine grain and silky texture."
+    },
+    {
+      "name": "Clivia miniata",
+      "commonName": "Clivia",
+      "description": "A shade-loving, evergreen perennial native to South Africa, known for its striking clusters of trumpet-shaped orange flowers. It typically flowers in late autumn to early winter, brightening shaded garden spots.",
+      "bloomingSeason": "March to November (Southern Hemisphere), October to December (Northern Hemisphere when cultivated indoors or in controlled climates)",
+      "location": "South Africa, cultivated worldwide indoors or in temperate climates",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Clivias are poisonous if ingested but were once used in traditional medicine to treat infections and pain."
+    }
+  ]
+}

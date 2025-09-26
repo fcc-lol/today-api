@@ -1,0 +1,60 @@
+{
+  "date": "April 14",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree known for its spectacular springtime display of delicate pink or white flowers. It is especially celebrated in Japan during the sakura season and is widely cultivated in temperate regions worldwide.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, East Asia, temperate zones worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms typically bloom for only about one to two weeks, creating a fleeting but magnificent floral show."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A popular ornamental tree with large, tulip-shaped flowers that appear before the leaves. The blooms come in shades ranging from white to deep pink and purple, often with a fragrant aroma.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China but widely cultivated in temperate gardens globally",
+      "colors": [
+        "White",
+        "Pink",
+        "Purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias have ancient origins and are among the earliest flowering plants, predating bees; they were likely pollinated by beetles."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that produces clusters of fragrant flowers in a variety of colors including pink, red, white, and yellow. Often found in Mediterranean climates and warm regions.",
+      "bloomingSeason": "April to October",
+      "location": "Mediterranean region, subtropical and tropical areas worldwide",
+      "colors": [
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "All parts of oleander are toxic if ingested, yet it has been used historically in traditional medicine and continues to be popular as an ornamental shrub."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree with cylindrical flower spikes composed of numerous small flowers, appearing in shades of yellow and green. Flowers attract birds and insects with their nectar.",
+      "bloomingSeason": "March to June",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "Yellow",
+        "Green"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers are rich in nectar and were traditionally used by Indigenous Australians as a sweet treat."
+    }
+  ]
+}

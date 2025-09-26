@@ -1,0 +1,67 @@
+{
+  "date": "October 27",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Mum",
+      "description": "Chrysanthemums are popular autumn-flowering plants cultivated worldwide, known for their vibrant, daisy-like flower heads that come in many colors. They symbolize longevity and joy in various cultures.",
+      "bloomingSeason": "Late September to November",
+      "location": "Temperate regions worldwide (commonly in gardens)",
+      "colors": [
+        "yellow",
+        "red",
+        "orange",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Mums have been cultivated in China for over 2,500 years and are considered one of the Four Gentlemen in Chinese art."
+    },
+    {
+      "name": "Bougainvillea glabra",
+      "commonName": "Paperflower Bougainvillea",
+      "description": "Bougainvillea is a hardy, evergreen climber or shrub known for its vibrant bracts that surround tiny white flowers, often seen cascading over walls and trellises in warm climates.",
+      "bloomingSeason": "Year-round in tropical and subtropical zones, peak bloom often in late fall",
+      "location": "Tropical and subtropical regions, such as South America, Mediterranean, and parts of southern USA",
+      "colors": [
+        "magenta",
+        "purple",
+        "red",
+        "orange",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Bougainvillea bracts, not actual petals, are what give the plant its spectacular colors."
+    },
+    {
+      "name": "Erica carnea",
+      "commonName": "Winter Heath",
+      "description": "A low-growing evergreen shrub native to mountainous regions, it produces bell-shaped flowers in late autumn and early winter, offering color when few other plants bloom.",
+      "bloomingSeason": "October to March",
+      "location": "Alps and mountainous regions of Europe",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Winter Heath is valued for its cold hardiness and ability to bloom under snow cover."
+    },
+    {
+      "name": "Salvia greggii",
+      "commonName": "Autumn Sage",
+      "description": "A drought-tolerant shrub native to Texas and Mexico that produces tubular flowers attracting hummingbirds throughout autumn, adding vibrant color to dry landscapes.",
+      "bloomingSeason": "August to November",
+      "location": "South-central USA and Mexico",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌿",
+      "funFact": "Autumn Sage’s nectar-rich flowers are a favorite of native hummingbird species during migration."
+    }
+  ]
+}

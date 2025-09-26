@@ -1,0 +1,62 @@
+{
+  "date": "June 27",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A hardy rose species known for its continuous blooming habit and fragrant flowers, often cultivated in gardens worldwide.",
+      "bloomingSeason": "Year-round in suitable climates, with peak bloom in late spring to early summer",
+      "location": "Widely cultivated; native to Southwest China; grows in temperate and subtropical regions globally",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Roses introduced repeat blooming traits to European roses, revolutionizing rose breeding."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Tall Delphinium",
+      "description": "A striking perennial with tall spikes of densely packed flowers, beloved in cottage gardens.",
+      "bloomingSeason": "Late spring through midsummer",
+      "location": "Native to temperate Northern Hemisphere regions; commonly grown in Europe and North America",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Delphiniums contain alkaloids that can be toxic, so gardeners should handle with care."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing Australian native tree with clusters of bright orange flowers attractive to birds.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (November–January) but blooms variably depending on local conditions; in equatorial climates, can bloom around June",
+      "location": "Native to eastern Australia; grown as ornamental and street trees worldwide in subtropical zones",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name, Silky Oak is actually a member of the Proteaceae family, not an oak."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A wildflower commonly found in pine barrens and sandy soils with tall spikes of pea-like flowers.",
+      "bloomingSeason": "Late spring to mid-summer",
+      "location": "Native to eastern North America",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wild Lupine is crucial for the endangered Karner Blue butterfly, which depends on it as a larval food plant."
+    }
+  ]
+}

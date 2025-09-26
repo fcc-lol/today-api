@@ -1,0 +1,56 @@
+{
+  "date": "January 3",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern Asia, famous for its glossy leaves and large, beautiful flowers that bloom in winter. It thrives in mild climates and is often found in gardens and parks.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia, Southeastern USA, parts of Europe",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers inspired the logo of the famous French fashion house Chanel."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant native to mountainous regions of Europe, notable for its early winter blooming often around Christmas and New Year, with white to pink flowers that bring color to cold, shady areas.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name and rose-like flowers, Helleborus niger is not a rose but belongs to the buttercup family."
+    },
+    {
+      "name": "Acacia baileyana",
+      "commonName": "Cootamundra Wattle",
+      "description": "An Australian native small tree or shrub with fern-like leaves and bright golden-yellow ball-shaped flowers, blooming in early to mid-summer, often extending into January in southern Australia.",
+      "bloomingSeason": "December to January",
+      "location": "Southeastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "The fragrant flowers of Acacia baileyana are used by birds to build their nests."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "A large evergreen tree native to the southeastern United States, known for its large, creamy-white, fragrant flowers that bloom sporadically and can appear in winter months, especially in milder climates.",
+      "bloomingSeason": "Mostly late spring to summer but can bloom sporadically in winter",
+      "location": "Southeastern USA",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Southern Magnolia flowers can reach up to 30 centimeters (12 inches) in diameter, among the largest of any native plant in North America."
+    }
+  ]
+}

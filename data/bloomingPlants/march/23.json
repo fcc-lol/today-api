@@ -1,0 +1,57 @@
+{
+  "date": "March 23",
+  "plants": [
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A spring-flowering bulb producing bright yellow trumpet-shaped flowers. Often found in woodlands and meadows, heralding the early spring in temperate climates.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, particularly UK and Western Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils have inspired numerous cultural festivals in spring across Europe and are often considered symbols of rebirth and new beginnings."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Deciduous trees with stunning clusters of pale pink to white flowers that bloom profusely in early spring, celebrated for their spectacular ornamental display.",
+      "bloomingSeason": "March to April",
+      "location": "East Asia (Japan, Korea, China) and cultivated worldwide in temperate regions",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The cherry blossom is a national symbol of Japan, celebrated during Hanami festivals where people gather to admire these fleeting blooms."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An evergreen tree native to eastern Australia with bright orange to red spider-like flowers, blooming in late summer to early autumn but often earlier in warmer regions like Queensland.",
+      "bloomingSeason": "March to May",
+      "location": "Australia (Eastern coast, Queensland, New South Wales)",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name, the Silky Oak is not a true oak but belongs to the Proteaceae family and is valued for both ornament and timber."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous magnolia tree producing large, fragrant, tulip-shaped flowers ranging from white to deep pink, often one of the first substantial blooms of spring in temperate gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated widely in temperate regions worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "deep pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Saucer magnolia flowers often bloom before the leaves emerge, creating a striking floral display that lasts only a few weeks in early spring."
+    }
+  ]
+}

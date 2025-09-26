@@ -1,0 +1,63 @@
+{
+  "date": "September 11",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower featuring bright yellow petals surrounding a dark brown central cone. Often found in meadows and prairies, it is hardy and attracts pollinators.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and coneflowers in the same genus are closely related."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A vibrant garden perennial with large, colorful, often pom-pom shaped flowers. Native to Mexico and Central America, dahlias bloom late summer through fall, making them popular in September gardens worldwide.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico; widely cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias come in more flower forms than any other genus, including single, double, cactus, and pompon shapes."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A shrub known for large, globe-shaped flower clusters that can appear in pink, blue, or white depending on soil acidity. Blooms often last through September in mild climates.",
+      "bloomingSeason": "June to September",
+      "location": "Native to Japan; cultivated worldwide",
+      "colors": [
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "💐",
+      "funFact": "The flower color changes with the soil pH: acidic soils produce blue flowers, alkaline soils yield pink flowers."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A tall wildflower native to North America, recognized by its purple petals and prominent orange-brown central cone. Blooms late summer to early fall and attracts butterflies and bees.",
+      "bloomingSeason": "July to October",
+      "location": "Central and eastern North America",
+      "colors": [
+        "purple",
+        "orange",
+        "brown"
+      ],
+      "emoji": "🌺",
+      "funFact": "Echinacea is valued for its traditional medicinal uses to boost immune health."
+    }
+  ]
+}

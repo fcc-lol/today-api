@@ -1,0 +1,40 @@
+{
+  "date": "August 12",
+  "events": [
+    {
+      "year": 30,
+      "title": "Death of Saint Peter",
+      "description": "Saint Peter, one of Jesus's apostles and considered the first Pope by the Catholic Church, is traditionally believed to have been crucified in Rome.",
+      "category": "Death",
+      "significance": "Significant in Christian history as a martyr and foundational figure in the establishment of the Church."
+    },
+    {
+      "year": 1492,
+      "title": "Christopher Columbus Sets Sail",
+      "description": "Christopher Columbus departs from Palos de la Frontera, Spain on his first voyage across the Atlantic Ocean, leading to the European discovery of the Americas.",
+      "category": "Exploration",
+      "significance": "Marks the beginning of sustained European exploration and colonization of the Americas."
+    },
+    {
+      "year": 1877,
+      "title": "Thomas Edison Demonstrates His Phonograph",
+      "description": "Thomas Edison demonstrates the first successful phonograph, a device capable of recording and reproducing sound.",
+      "category": "Technology",
+      "significance": "A major milestone in the history of sound recording and playback technology."
+    },
+    {
+      "year": 1944,
+      "title": "Japan Declares War on India",
+      "description": "During World War II, the Japanese Imperial Army declared war on British India, intensifying conflict in the Southeast Asian theatre.",
+      "category": "War",
+      "significance": "Contributed to the expansion of hostilities in World War II involving colonial territories."
+    },
+    {
+      "year": 1981,
+      "title": "First Flight of the Space Shuttle Columbia",
+      "description": "NASA's Space Shuttle Columbia was launched on its maiden voyage, becoming the first reusable spacecraft to carry humans into orbit.",
+      "category": "Space Exploration",
+      "significance": "Represented a breakthrough in space technology with reusable launch vehicles."
+    }
+  ]
+}

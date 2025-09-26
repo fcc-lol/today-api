@@ -1,0 +1,61 @@
+{
+  "date": "September 16",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial or biennial native to North America, producing bright yellow to orange daisy-like flowers with dark brown central cones. It thrives in prairies, meadows, and gardens, attracting butterflies and bees.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are often used in wildflower mixes to help restore prairie habitats and support pollinator populations."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous-rooted perennial native to Mexico, famed for its large, spectacular blooms in various forms and colors. Dahlias are widely cultivated in gardens and bloom profusely from midsummer through fall.",
+      "bloomingSeason": "July to October",
+      "location": "Mexico and widely cultivated in temperate zones worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "purple",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias are the national flower of Mexico and have over 42 species and thousands of cultivars bred for diverse flower shapes."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Sowbread",
+      "description": "A tuberous perennial native to the Mediterranean region, blooming in autumn with delicate upswept pink or white flowers and intricately patterned heart-shaped leaves. It grows well in shady woodland gardens.",
+      "bloomingSeason": "September to December",
+      "location": "Mediterranean Europe",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cyclamen hederifolium flowers open in the afternoon and close at night, a behavior known as nyctinasty."
+    },
+    {
+      "name": "Leucospermum cordifolium",
+      "commonName": "Pincushion Protea",
+      "description": "An evergreen shrub native to South Africa's Western Cape, producing unique bright orange to red pincushion-like flowers with long styles. It blooms in late winter to spring in its native region but correlates with early autumn blooms in the Southern Hemisphere.",
+      "bloomingSeason": "August to October (Southern Hemisphere)",
+      "location": "South Africa",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Pincushion Proteas get their name from their flowers that resemble a pincushion filled with pins due to their long, striking styles."
+    }
+  ]
+}

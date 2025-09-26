@@ -1,0 +1,33 @@
+{
+  "date": "April 15",
+  "events": [
+    {
+      "year": 1912,
+      "title": "Sinking of the RMS Titanic",
+      "description": "The RMS Titanic, a British passenger liner, sank in the North Atlantic Ocean after hitting an iceberg during its maiden voyage from Southampton to New York City. Over 1,500 passengers and crew lost their lives.",
+      "category": "Maritime Disaster",
+      "significance": "One of the deadliest maritime disasters in history, it led to improvements in maritime safety regulations, including lifeboat requirements."
+    },
+    {
+      "year": 1865,
+      "title": "Assassination of Abraham Lincoln",
+      "description": "U.S. President Abraham Lincoln died after being shot by John Wilkes Booth the previous evening at Ford's Theatre in Washington, D.C.",
+      "category": "Political Assassination",
+      "significance": "Marked a pivotal moment in American history during the Reconstruction era and deeply affected the nation's healing after the Civil War."
+    },
+    {
+      "year": 1947,
+      "title": "Roswell UFO Incident",
+      "description": "An object crashed near Roswell, New Mexico, initially reported as a 'flying disc,' sparking speculation and conspiracy theories about extraterrestrial life.",
+      "category": "Science and Technology",
+      "significance": "Became a cornerstone event in UFO lore and modern popular culture regarding alien visitation."
+    },
+    {
+      "year": 1955,
+      "title": "Opening of Disneyland",
+      "description": "The Disneyland theme park officially opened in Anaheim, California, introduced by Walt Disney, becoming the first-ever theme park of its kind.",
+      "category": "Cultural Milestone",
+      "significance": "Pioneered modern theme parks and significantly impacted entertainment and tourism industries worldwide."
+    }
+  ]
+}

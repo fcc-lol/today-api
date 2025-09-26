@@ -1,0 +1,64 @@
+{
+  "date": "June 20",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are woody perennial flowering plants known for their fragrant and beautiful blooms with layered petals. They are widely cultivated in gardens worldwide and come in many varieties and colors.",
+      "bloomingSeason": "Late spring to early summer (May to June) in temperate regions",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for centuries, and rose oil is a valuable ingredient in perfumery."
+    },
+    {
+      "name": "Aquilegia canadensis",
+      "commonName": "Eastern Red Columbine",
+      "description": "A wildflower native to eastern North America, this plant produces distinctive red and yellow flowers with long spurs, attracting hummingbirds and bees.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Woodlands and rocky slopes in eastern North America",
+      "colors": [
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Eastern Red Columbine's flower shape evolved to adapt to pollination by hummingbirds."
+    },
+    {
+      "name": "Lagerstroemia indica",
+      "commonName": "Crape Myrtle",
+      "description": "A deciduous shrub or small tree, crape myrtle is prized for its vibrant summer blooms and attractive, peeling bark. It thrives in warm climates.",
+      "bloomingSeason": "Early to late summer (June through September)",
+      "location": "Southeastern United States, Asia, and other warm temperate to tropical regions",
+      "colors": [
+        "pink",
+        "purple",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Crape myrtle flowers can bloom profusely during hot summers, adding vibrant color when many other plants fade."
+    },
+    {
+      "name": "Nymphaea spp.",
+      "commonName": "Water Lilies",
+      "description": "Aquatic plants with broad floating leaves and showy flowers that bloom on calm freshwater surfaces. They open their flowers during the day in summer.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "Temperate to tropical freshwater lakes and ponds worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "emoji": "💧🌸",
+      "funFact": "Water lily flowers open and close with the sun's movement and can smell sweet to attract pollinators."
+    }
+  ]
+}

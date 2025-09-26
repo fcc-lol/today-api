@@ -1,0 +1,60 @@
+{
+  "date": "April 21",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous cherry tree famous for its spectacular pink to white blossoms that herald spring in many temperate regions. These trees are often celebrated during hanami festivals in Japan and bloom briefly in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of Japan, Korea, China, and cultivated worldwide in temperate climates",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The transient nature of cherry blossoms — which last only about one week — symbolizes the fleeting beauty of life in Japanese culture."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub native to the Mediterranean, known for its abundant and long-lasting clusters of frilly flowers. It thrives in warm climates and blooms in late spring to summer but can start blooming as early as April in mild areas.",
+      "bloomingSeason": "April to October",
+      "location": "Mediterranean region, southern USA, and subtropical climates worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+    },
+    {
+      "name": "Erythronium dens-canis",
+      "commonName": "Dog's Tooth Violet",
+      "description": "A perennial wildflower found in temperate European woodlands, famous for its delicate nodding flowers and mottled leaves. It blooms in early to mid-spring, often carpeting forest floors with purple, pink, or white flowers.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate woodlands of Europe",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "The name \"dog's tooth\" comes from the sharp, tooth-like shape of its bulb."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "A large evergreen shrub or small tree native to the Himalayas, known for its spectacular, large clusters of bright red to pink flowers. It blooms in spring and is the national flower of Nepal.",
+      "bloomingSeason": "April to June",
+      "location": "Himalayan region",
+      "colors": [
+        "red",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendrons contain compounds used in traditional medicine, but some species are toxic to livestock."
+    }
+  ]
+}

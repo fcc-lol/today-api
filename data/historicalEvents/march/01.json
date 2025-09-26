@@ -1,0 +1,40 @@
+{
+  "date": "March 1",
+  "events": [
+    {
+      "year": 1872,
+      "title": "Establishment of Yellowstone National Park",
+      "description": "Yellowstone National Park, the first national park in the world, was established by the U.S. Congress.",
+      "category": "Environment",
+      "significance": "It marked the beginning of the national park movement, conserving natural landscapes and wildlife for public enjoyment and ecological preservation."
+    },
+    {
+      "year": 1936,
+      "title": "Start of the Second Sino-Japanese War",
+      "description": "The Japanese invasion of Manchuria began, leading to the establishment of the puppet state of Manchukuo.",
+      "category": "Conflict",
+      "significance": "This event escalated tensions in East Asia and was a precursor to the broader conflicts of World War II in the Pacific."
+    },
+    {
+      "year": 1950,
+      "title": "Korean War Begins",
+      "description": "The Korean People's Army crossed the 38th parallel, invading South Korea and igniting the Korean War.",
+      "category": "Conflict",
+      "significance": "This war was a significant Cold War conflict that impacted global geopolitics and led to the ongoing division of Korea."
+    },
+    {
+      "year": 1961,
+      "title": "Freedom Riders Begin Journey",
+      "description": "The Freedom Riders departed Washington D.C. to challenge segregation on interstate buses in the American South.",
+      "category": "Civil Rights",
+      "significance": "Their actions were pivotal in the fight against racial segregation and advancing civil rights legislation in the United States."
+    },
+    {
+      "year": 2002,
+      "title": "Euro Becomes Official Currency",
+      "description": "Euro banknotes and coins were introduced in 12 European Union countries, replacing their national currencies.",
+      "category": "Economy",
+      "significance": "This was a major milestone in European economic integration, facilitating trade and travel across member states."
+    }
+  ]
+}

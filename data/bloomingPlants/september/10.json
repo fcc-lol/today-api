@@ -1,0 +1,56 @@
+{
+  "date": "September 10",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Sunflowers are tall, annual plants known for their large, bright yellow flower heads that track the sun's movement across the sky. They often grow wild and are widely cultivated for their seeds and oil.",
+      "bloomingSeason": "Mid summer to early fall (July to September)",
+      "location": "Northern Hemisphere temperate regions, including North America and Europe",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflower heads can contain up to 2,000 individual flowers, known as florets."
+    },
+    {
+      "name": "Lilium speciosum",
+      "commonName": "Japanese Lily",
+      "description": "A striking species of lily that produces fragrant, large, showy pink to white flowers with dark spots. It is native to Japan and blooms in late summer to early fall.",
+      "bloomingSeason": "August to October",
+      "location": "Japan, East Asia",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese Lily contains compounds that are toxic to cats, causing kidney failure if ingested."
+    },
+    {
+      "name": "Acacia melanoxylon",
+      "commonName": "Blackwood Acacia",
+      "description": "A fast-growing evergreen tree producing cream-colored fluffy flower spikes. Native to southeast Australia, it blooms in late winter to early spring in the Southern Hemisphere, which corresponds to September to November.",
+      "bloomingSeason": "September to November",
+      "location": "Australia (Southern Hemisphere)",
+      "colors": [
+        "Cream"
+      ],
+      "emoji": "🌼",
+      "funFact": "Blackwood Acacia wood is highly valued for furniture making due to its dark and attractive grain."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy wildflower producing golden-yellow daisy-like flowers with dark brown centers. Common in meadows and roadside areas, it blooms late summer to fall.",
+      "bloomingSeason": "June to September",
+      "location": "North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susan's seeds provide food for birds, and the plants attract butterflies and bees as pollinators."
+    }
+  ]
+}

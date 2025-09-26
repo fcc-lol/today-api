@@ -1,0 +1,56 @@
+{
+  "date": "March 21",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning springtime display of pale pink to white flowers that herald the arrival of spring in Japan and parts of temperate climates worldwide.",
+      "bloomingSeason": "Late March to Early April",
+      "location": "Japan, Temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese Cherry Blossoms (Sakura) have inspired centuries of art and poetry in Japan, symbolizing the fleeting nature of life."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial bulbous plant with trumpet-shaped yellow flowers that emerge early in spring, often found in meadows and woodlands across Europe.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, Mediterranean",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild Daffodils were historically used as a spring indicator and are an important food source for early pollinators."
+    },
+    {
+      "name": "Banksia menziesii",
+      "commonName": "Firewood Banksia",
+      "description": "An Australian shrub or small tree with distinctive bright orange cylindrical flower spikes that bloom mainly in late summer to early autumn but can extend into early spring in some regions.",
+      "bloomingSeason": "February to April",
+      "location": "Southwest Australia",
+      "colors": [
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Banksias are a vital nectar source for Australian honeyeaters and other wildlife."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree with large cup-shaped flowers in shades of white, pink, and purple. It typically blooms in early spring, often before its leaves fully develop.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Saucer Magnolias are hybrids between Magnolia denudata and Magnolia liliiflora, prized for their early showy blossoms."
+    }
+  ]
+}

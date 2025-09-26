@@ -1,0 +1,40 @@
+{
+  "date": "April 11",
+  "events": [
+    {
+      "year": 1961,
+      "title": "First Human Spaceflight by Yuri Gagarin",
+      "description": "Soviet cosmonaut Yuri Gagarin became the first human to travel into space and orbit the Earth aboard Vostok 1.",
+      "category": "Science and Technology",
+      "significance": "Marked the beginning of human space exploration and intensified the Space Race during the Cold War."
+    },
+    {
+      "year": 1945,
+      "title": "President Franklin D. Roosevelt Dies",
+      "description": "Franklin D. Roosevelt, the 32nd President of the United States, died while in office. Vice President Harry S. Truman succeeded him.",
+      "category": "Politics",
+      "significance": "Roosevelt's death marked the end of an era during World War II and led to leadership changes affecting post-war policies."
+    },
+    {
+      "year": 1970,
+      "title": "Apollo 13 Mission Launch",
+      "description": "Apollo 13 launched from Kennedy Space Center, intended to be the third crewed Moon landing mission, but it was aborted after an oxygen tank exploded en route.",
+      "category": "Science and Technology",
+      "significance": "Demonstrated NASA's ability to manage critical in-flight emergencies and safely return astronauts to Earth."
+    },
+    {
+      "year": 1954,
+      "title": "First Mass Vaccination Using Polio Vaccine",
+      "description": "The first mass vaccination campaign using Jonas Salk's polio vaccine began in Pittsburgh, Pennsylvania.",
+      "category": "Medicine and Public Health",
+      "significance": "Pivotal moment in the fight against polio, leading to drastic reductions in cases worldwide."
+    },
+    {
+      "year": 1512,
+      "title": "Michelangelo Completes the Sistine Chapel Ceiling",
+      "description": "Michelangelo finished painting the ceiling of the Sistine Chapel in Vatican City after about four years of work.",
+      "category": "Art and Culture",
+      "significance": "Regarded as one of the greatest achievements of Renaissance art and a masterpiece of human creativity."
+    }
+  ]
+}

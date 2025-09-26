@@ -1,0 +1,63 @@
+{
+  "date": "April 23",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree known for its large, tulip-shaped flowers that often appear before the leaves. The flowers are usually white to pink-purple and emit a light fragrance.",
+      "bloomingSeason": "Early spring (March to April)",
+      "location": "Temperate regions of Asia and cultivated widely in North America and Europe",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer Magnolias are among the earliest flowering trees, often blooming even before the last frost has passed."
+    },
+    {
+      "name": "Erysimum cheiri",
+      "commonName": "Wallflower",
+      "description": "A biennial or short-lived perennial plant with clusters of fragrant, brightly colored flowers. Wallflowers thrive on walls, rocky places, and garden beds.",
+      "bloomingSeason": "Spring to early summer (April to June)",
+      "location": "Native to Europe, cultivated in temperate zones worldwide",
+      "colors": [
+        "yellow",
+        "orange",
+        "red",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wallflowers release a sweet fragrance especially in the evening, attracting nocturnal pollinators."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub with leathery leaves and clusters of fragrant flowers. Widely grown as an ornamental plant in subtropical and Mediterranean climates.",
+      "bloomingSeason": "Spring to autumn (April to October)",
+      "location": "Mediterranean region, subtropical and tropical parts of the world",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, yet has been used historically in traditional medicine with great caution."
+    },
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "A large evergreen shrub that produces dense clusters of bell-shaped flowers in spring. It is considered invasive in some regions due to its aggressive growth.",
+      "bloomingSeason": "Spring (April to May)",
+      "location": "Native to southern Europe and Asia; invasive in parts of the UK and Ireland",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Rhododendron ponticum can be toxic to livestock and humans due to grayanotoxins present in its leaves and flowers."
+    }
+  ]
+}

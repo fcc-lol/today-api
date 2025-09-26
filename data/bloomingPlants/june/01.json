@@ -1,0 +1,58 @@
+{
+  "date": "June 1",
+  "plants": [
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall perennial plant native to western North America, known for its dense spikes of vibrant flowers that attract pollinators like bees and butterflies.",
+      "bloomingSeason": "May to July",
+      "location": "Temperate North America",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility and helping other plants grow."
+    },
+    {
+      "name": "Rosa rubiginosa",
+      "commonName": "Sweet Briar Rose",
+      "description": "A species of wild rose with fragrant pink flowers and thorny stems, often found in hedgerows and meadows.",
+      "bloomingSeason": "May to June",
+      "location": "Europe and western Asia",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The leaves of Sweet Briar release a distinctive apple-like scent when crushed."
+    },
+    {
+      "name": "Nicotiana alata",
+      "commonName": "Flowering Tobacco",
+      "description": "A night-blooming annual or perennial plant often grown in gardens for its fragrant, tubular white or cream flowers.",
+      "bloomingSeason": "Late spring to early fall",
+      "location": "South America (cultivated worldwide)",
+      "colors": [
+        "white",
+        "cream"
+      ],
+      "emoji": "🌿",
+      "funFact": "Flowering Tobacco releases a sweet scent in the evening to attract nocturnal pollinators like moths."
+    },
+    {
+      "name": "Grevillea rosmarinifolia",
+      "commonName": "Rosemary Grevillea",
+      "description": "An evergreen shrub native to Australia with needle-like leaves and bright spider-like flowers that provide nectar for birds.",
+      "bloomingSeason": "Late autumn to early spring in Australia, but cultivated varieties may bloom sporadically in other regions",
+      "location": "Australia (cultivated in temperate gardens worldwide)",
+      "colors": [
+        "red",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Grevilleas are part of the Proteaceae family and have specialized flowers adapted to bird pollination."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "April 24",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Pontic Rhododendron",
+      "description": "An evergreen shrub with large clusters of bell-shaped flowers, often in shades of pink to purple. It thrives in mild temperate climates and is commonly found in woodlands and hilly areas.",
+      "bloomingSeason": "April to May",
+      "location": "Temperate regions of Europe and Western Asia",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is known for its invasive tendencies in some parts of the UK, outcompeting native plants due to its dense shade and toxins in leaf litter."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A fragrant, tall lily with elegant white trumpet-shaped flowers. It prefers Mediterranean climates and is often cultivated in gardens for its beauty and scent.",
+      "bloomingSeason": "April to June",
+      "location": "Mediterranean region",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Madonna Lily has been cultivated since ancient times and was considered sacred in many cultures, often associated with purity and the Virgin Mary."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A small deciduous tree known for its bright red, spiky, pea-like flowers that attract hummingbirds and other pollinators.",
+      "bloomingSeason": "Spring to early summer (September to November in Southern Hemisphere)",
+      "location": "South America (Argentina, Uruguay, Brazil) and cultivated in subtropical regions worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay, and its wood was traditionally used to make tools and musical instruments."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A deciduous shrub or small tree with large, fragrant, star-shaped white to pale pink flowers. It blooms very early in spring before the leaves appear, often in April.",
+      "bloomingSeason": "March to April",
+      "location": "Japan and cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Star Magnolia was first discovered in Japan in the early 19th century and is often used as an ornamental plant in early spring gardens due to its striking flowers."
+    }
+  ]
+}

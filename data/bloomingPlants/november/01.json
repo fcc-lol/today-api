@@ -1,0 +1,63 @@
+{
+  "date": "November 1",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Mum",
+      "description": "A classic autumn flowering plant widely cultivated in gardens for its large, colorful blooms. Chrysanthemums come in a variety of shapes and a spectrum of colors, offering vibrant displays as many other garden flowers fade.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (native to East Asia)",
+      "colors": [
+        "yellow",
+        "orange",
+        "red",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures and are Japan’s national flower."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub with showy, fragrant flowers commonly blooming in late summer to fall in Mediterranean and subtropical climates. Oleander flowers attract pollinators and can bloom in warm winters.",
+      "bloomingSeason": "May to November",
+      "location": "Mediterranean Basin, Southern US, subtropical regions",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of oleander are toxic if ingested."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "This evergreen shrub blooms in late autumn to early spring, producing elegant, rose-like flowers that brighten gardens during cooler months. The camellia’s glossy leaves remain vibrant year-round.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, Southern US, parts of Europe",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia japonica is the parent species of many hybrid camellias prized for their ornamental flowers."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A native Australian tree that flowers from late autumn through spring, bearing cylindrical golden flower spikes rich in nectar, which support native birds and insects.",
+      "bloomingSeason": "May to November",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "yellow",
+        "gold"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers produce abundant nectar, historically used by Indigenous Australians as a sweet drink."
+    }
+  ]
+}

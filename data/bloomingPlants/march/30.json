@@ -1,0 +1,57 @@
+{
+  "date": "March 30",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Japanese Cherry Blossom is a deciduous tree famous for its beautiful and abundant pink to white flowers that bloom in early spring, marking the arrival of warmer weather.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, temperate regions worldwide (cultivated)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Japan, the blooming of cherry blossoms is celebrated with hanami, a traditional flower-viewing festival."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "The wild daffodil is a perennial herbaceous plant with bright yellow trumpet-shaped flowers that typically bloom in early spring in woodland and meadow habitats.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, temperate woodlands",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils are often among the first spring flowers to bloom, symbolizing rebirth and renewal."
+    },
+    {
+      "name": "Ceanothus",
+      "commonName": "California Lilac",
+      "description": "Ceanothus is a genus of shrubs native to North America, known for clusters of small, fragrant blue to purple flowers that bloom in spring, attracting pollinators like bees and butterflies.",
+      "bloomingSeason": "March to May",
+      "location": "California and western North America",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "💙",
+      "funFact": "Some species of Ceanothus are nitrogen-fixing, improving soil fertility."
+    },
+    {
+      "name": "Erica carnea",
+      "commonName": "Winter Heath",
+      "description": "Winter Heath is a low-growing evergreen shrub producing small, bell-shaped flowers in shades of pink, purple, or white, blooming from late winter through early spring.",
+      "bloomingSeason": "February to April",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Winter Heath blooms early in the year, often flowering under snow cover or just as it melts."
+    }
+  ]
+}

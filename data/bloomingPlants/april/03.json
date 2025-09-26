@@ -1,0 +1,56 @@
+{
+  "date": "April 3",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its spectacular spring blossoms, often celebrated in festivals, this species produces clusters of delicate pink to white flowers that typically bloom in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, East Asia, cultivated worldwide in temperate climates",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blooming of cherry blossoms is so culturally significant in Japan that the government tracks and predicts peak bloom dates each year."
+    },
+    {
+      "name": "Magnolia x soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A large deciduous shrub or small tree known for its early spring display of large, tulip-shaped flowers that emerge before the leaves, with colors ranging from white to deep pink and purple.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China, widely cultivated in temperate regions worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the earliest flowering plants, with fossil records dating back 95 million years, predating bees; they are thought to have been pollinated by beetles."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A wild species of daffodil producing bright yellow, trumpet-shaped flowers in clusters on leafless stems, often found in woodlands and meadows.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, particularly the UK and Ireland",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The wild daffodil is the original species from which many garden varieties have been bred; it is a symbol of spring in many cultures."
+    },
+    {
+      "name": "Eucalyptus globulus",
+      "commonName": "Blue Gum Eucalyptus",
+      "description": "A tall evergreen tree known for its aromatic leaves and clusters of creamy white flowers that bloom profusely in early spring, important for honey production.",
+      "bloomingSeason": "Late Winter to Spring (February to April)",
+      "location": "Native to southeastern Australia, widely planted in Mediterranean and subtropical climates worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Blue Gum Eucalyptus flowers have no petals; what appear as flowers are dense clusters of stamens, which are highly attractive to pollinators like bees."
+    }
+  ]
+}

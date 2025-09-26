@@ -1,0 +1,56 @@
+{
+  "date": "March 29",
+  "plants": [
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A species of daffodil native to Western Europe, known for its bright yellow trumpet-shaped flowers. It often carpets woodlands and meadows in early spring.",
+      "bloomingSeason": "February to April",
+      "location": "Western and Central Europe",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils are often the first sign of spring in many parts of Europe and were historically used to scent perfumes."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning display of pink to white blossoms. It is culturally significant in Japan and widely planted around the world as an ornamental tree.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms only bloom for about one to two weeks, symbolizing the fleeting nature of life in Japanese culture."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A large shrub with spectacular flower heads resembling giant artichokes. Native to South Africa, it blooms mostly in late winter to early spring.",
+      "bloomingSeason": "February to April",
+      "location": "South Africa",
+      "colors": [
+        "Pink",
+        "Cream"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa’s national flower, and its name is derived from the Greek god Proteus, symbolizing diversity."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A small deciduous tree or large shrub producing star-shaped white to pale pink flowers early in spring before the leaves appear.",
+      "bloomingSeason": "March to April",
+      "location": "Japan and widely cultivated in temperate zones",
+      "colors": [
+        "White",
+        "Pale Pink"
+      ],
+      "emoji": "✴️",
+      "funFact": "Star magnolias are among the earliest flowering magnolias and their flowers can sometimes tolerate frost."
+    }
+  ]
+}

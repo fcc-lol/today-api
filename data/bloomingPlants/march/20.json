@@ -1,0 +1,57 @@
+{
+  "date": "March 20",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree celebrated for its stunning pink to white flowers that bloom in early spring, marking the start of the season in temperate regions. The blossoms create iconic scenic views, especially in Japan and parts of the USA.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, Korea, USA (Washington D.C.)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms have inspired festivals worldwide, symbolizing the transient nature of life due to their short bloom duration."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial plant producing bright yellow, trumpet-shaped flowers that herald early spring in meadows and woodlands. It thrives naturally across Europe.",
+      "bloomingSeason": "February to April",
+      "location": "Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils contain alkaloids that make them poisonous to grazing animals, which helps protect them in the wild."
+    },
+    {
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A large shrub or small tree native to Australia, producing robust flower spikes made up of hundreds of small flowers with orange-yellow tones, attracting birds and pollinators.",
+      "bloomingSeason": "Late winter to early spring (August to October in Southern Hemisphere)",
+      "location": "Eastern Australia",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias have woody seed cones that open after bushfires, allowing seeds to germinate in nutrient-rich ash beds."
+    },
+    {
+      "name": "Magnolia x soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree notable for its large, tulip-shaped flowers in shades of pink, purple, and white. It blooms before leaves emerge, offering spectacular early spring color in temperate gardens worldwide.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate zones globally (originally from China)",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias belong to an ancient lineage of flowering plants dating back over 95 million years, predating bees; they were originally pollinated by beetles."
+    }
+  ]
+}

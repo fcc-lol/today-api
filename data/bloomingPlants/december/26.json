@@ -1,0 +1,59 @@
+{
+  "date": "December 26",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub widely cultivated in warm climates, producing clusters of fragrant, tubular flowers. Oleander flowers can range in color from white and pink to red and yellow. It is drought-tolerant and often used in landscaping in Mediterranean and subtropical regions.",
+      "bloomingSeason": "Late spring to winter in mild climates; blooms can persist into December especially in warmer areas",
+      "location": "Mediterranean basin, southern United States, India",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested but has been used historically in traditional medicine with caution."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A hardy evergreen tree native to Australian alpine and subalpine regions. It produces clusters of creamy white flowers during the cooler months, providing nectar for native birds and insects.",
+      "bloomingSeason": "Late autumn to early winter (May to August in Southern Hemisphere; December blooms in Northern Hemisphere environments or cultivated zones)",
+      "location": "Australia (high-altitude regions)",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow gums are prized for their adaptability to cold and high altitudes, often growing near or above the snowline."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial known for its attractive white to pinkish flowers appearing in winter, often around Christmas time. It thrives in shaded garden areas and blooms even under snow cover in temperate areas.",
+      "bloomingSeason": "December to February",
+      "location": "Central and southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its common name and rose-like flowers, it is not a true rose and belongs to the buttercup family."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular ornamental evergreen shrub bearing large, showy flowers that typically bloom in late autumn through winter. Flowers come in shades of red, pink, and white, often with yellow stamens.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (Japan, China, Korea) and widely cultivated elsewhere",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were historically used to make an oil for moisturizing and hair care in Japan."
+    }
+  ]
+}

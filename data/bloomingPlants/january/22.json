@@ -1,0 +1,60 @@
+{
+  "date": "January 22",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "An evergreen shrub known for its large, showy flowers that appear in late winter through early spring. Camellias are prized in gardens for their glossy leaves and long-lasting blooms during cold months.",
+      "bloomingSeason": "November to March",
+      "location": "Temperate regions worldwide, native to East Asia (Japan, China, Korea)",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was named after the Jesuit botanist Georg Kamel and was one of the first Asian plants introduced to Europe in the 18th century."
+    },
+    {
+      "name": "Erica carnea",
+      "commonName": "Winter Heath",
+      "description": "A low-growing evergreen shrub that blooms in late winter to early spring, often when snow still covers the ground. Known for small bell-shaped flowers that brighten winter gardens.",
+      "bloomingSeason": "December to April",
+      "location": "Central and Southern Europe, in mountainous and heathland areas",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Winter Heath is one of the few plants that can flower under snow, providing vital nectar for bees early in the year."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that can bloom in mild winter climates. In subtropical to tropical regions, it may flower nearly year-round, including January.",
+      "bloomingSeason": "May to October, but often year-round in frost-free areas",
+      "location": "Mediterranean Basin, parts of California, Australia, and India",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of the oleander plant are toxic if ingested, containing cardiac glycosides."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A native Australian tree that flowers in various seasons depending on climate, including summer and winter months. Its cylindrical flower spikes attract nectar-feeding birds and mammals.",
+      "bloomingSeason": "Year-round, with peaks in summer and winter",
+      "location": "Eastern Australia coast",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are named after Sir Joseph Banks, botanist on Captain Cook’s first voyage to Australia."
+    }
+  ]
+}

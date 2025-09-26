@@ -1,0 +1,61 @@
+{
+  "date": "October 13",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial or biennial native to North America, Black-eyed Susan features bright yellow, daisy-like petals with a dark brown central cone. It thrives in wild meadows and gardens alike, often blooming into autumn.",
+      "bloomingSeason": "June to October",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are named for their distinctive dark centers resembling a pupil surrounded by yellow petals."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "Widely cultivated for its stunning flower diversity, Garden Chrysanthemum blooms in autumn with vibrant flowers ranging from white to red, pink, and yellow. It is a traditional flower of fall gardens in temperate zones worldwide.",
+      "bloomingSeason": "September to November",
+      "location": "Worldwide cultivation, originally native to East Asia",
+      "colors": [
+        "white",
+        "yellow",
+        "red",
+        "pink",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are often associated with autumn festivals and are symbols of longevity and rejuvenation in many Asian cultures."
+    },
+    {
+      "name": "Fuchsia magellanica",
+      "commonName": "Hummingbird Fuchsia",
+      "description": "This semi-evergreen shrub produces exotic, pendulous flowers in shades of pink, purple, and red, attracting hummingbirds. Blooming often extends into late autumn especially in mild coastal climates.",
+      "bloomingSeason": "Late summer to October (sometimes longer in mild climates)",
+      "location": "Southern South America (wild), widely cultivated in temperate regions",
+      "colors": [
+        "pink",
+        "purple",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hummingbird Fuchsia is named for its main pollinators—hummingbirds—drawn by its bright colors and nectar."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "A bulbous perennial that flowers from late summer through autumn, Cyclamen hederifolium has distinctive upswept pink or white flowers and beautifully variegated ivy-shaped leaves. It's found naturally in woodland and rocky areas around the Mediterranean basin.",
+      "bloomingSeason": "September to November",
+      "location": "Mediterranean region",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cyclamen tubers were historically used in folk medicine but can be toxic if eaten."
+    }
+  ]
+}

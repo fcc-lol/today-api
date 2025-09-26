@@ -1,0 +1,59 @@
+{
+  "date": "June 4",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are iconic flowering shrubs known for their large, often fragrant blooms and thorny stems. They are widely cultivated worldwide and have thousands of varieties.",
+      "bloomingSeason": "Late spring to early summer (May to June in temperate zones)",
+      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty in many cultures."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "Wild lupine is a perennial wildflower with tall spikes of pea-like flowers that attract pollinators like bees and butterflies.",
+      "bloomingSeason": "Spring to early summer (May to June)",
+      "location": "Eastern North America, especially in sandy soils and open woodlands",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild lupine is critical for the endangered Karner blue butterfly, which depends on it as a larval host plant."
+    },
+    {
+      "name": "Tibouchina urvilleana",
+      "commonName": "Princess Flower",
+      "description": "A tropical evergreen shrub famous for its vibrant purple flowers with prominent stamens, often grown as ornamental plants in frost-free climates.",
+      "bloomingSeason": "Late spring to early fall (May to October)",
+      "location": "Native to Brazil and cultivated in subtropical to tropical gardens worldwide",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "The genus Tibouchina is named after a Guiana Amerindian name for one of the species."
+    },
+    {
+      "name": "Erythronium japonicum",
+      "commonName": "Asian Fawn Lily",
+      "description": "A spring ephemeral wildflower with delicate nodding bell-shaped pink to lavender flowers and mottled leaves, blooming briefly in early spring to early summer.",
+      "bloomingSeason": "March to June",
+      "location": "East Asia, including Japan, Korea, and parts of China",
+      "colors": [
+        "pink",
+        "lavender"
+      ],
+      "emoji": "🌷",
+      "funFact": "The mottled leaves resemble a fawn's spots, hence the common name."
+    }
+  ]
+}

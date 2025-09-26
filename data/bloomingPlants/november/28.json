@@ -1,0 +1,59 @@
+{
+  "date": "November 28",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, showy, rose-like flowers that bloom in late autumn to early spring. Highly valued in gardens for their stunning winter blooms.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated worldwide in temperate zones",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is the state flower of Alabama, USA, and was first introduced to Europe in the 18th century from Japan."
+    },
+    {
+      "name": "Leucadendron salignum",
+      "commonName": "Common Sunshine Conebush",
+      "description": "A South African shrub from the Protea family, known for its vibrant colorful bracts that resemble flowers. It blooms in late spring through November in native habitat, providing brilliant displays that attract pollinators.",
+      "bloomingSeason": "August to November",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "yellow",
+        "orange",
+        "red"
+      ],
+      "emoji": "🌼",
+      "funFact": "Leucadendrons are serotinous plants, meaning their seed cones often open after fire, a natural adaptation to their fire-prone habitat."
+    },
+    {
+      "name": "Calendula officinalis",
+      "commonName": "Pot Marigold",
+      "description": "A hardy annual plant with bright, golden-orange daisy-like flowers. It blooms profusely from early summer to late autumn and can often continue blooming into mild winters.",
+      "bloomingSeason": "June to November (sometimes longer in mild climates)",
+      "location": "Native to Southern Europe but widely cultivated worldwide",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Calendula petals have been used historically as a natural dye and for medicinal purposes, particularly for skin healing."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing evergreen tree native to eastern Australia. It features fern-like foliage and orange to yellow spider-like flowers that bloom mainly in late spring but can bloom sporadically into late autumn in some areas.",
+      "bloomingSeason": "Late spring to autumn (sometimes sporadically in November)",
+      "location": "Eastern Australia; cultivated in subtropical and tropical regions",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but is valued for its ornate timber and ornamental flowers."
+    }
+  ]
+}

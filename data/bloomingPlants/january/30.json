@@ -1,0 +1,57 @@
+{
+  "date": "January 30",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial flowering plant with cup-shaped, showy flowers that often bloom in late winter to early spring, signaling the end of winter. These bulbs produce vibrant flowers emerging through snow in cooler climates.",
+      "bloomingSeason": "January to April",
+      "location": "Europe, particularly Mediterranean regions and temperate zones",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the first bulbs to bloom after winter, sometimes even poking through snow!"
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its large, rose-like blooms that appear during winter and early spring. Popular in gardens for its glossy foliage and striking flowers.",
+      "bloomingSeason": "December to April",
+      "location": "East Asia (Japan, China, Korea) and cultivated worldwide in temperate regions",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers have been used in traditional East Asian art and tea ceremonies."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A tree native to eastern Australia that produces striking cylindrical flower spikes containing hundreds of tiny flowers. It blooms in the austral summer and can last into the early autumn months.",
+      "bloomingSeason": "January to April",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are an important nectar source for many Australian birds and mammals."
+    },
+    {
+      "name": "Winter Jasmine",
+      "commonName": "Winter Jasmine",
+      "description": "A hardy deciduous shrub known for its bright yellow flowers that bloom in late winter, often before leaf emergence. It adds color to gardens during the dull winter months.",
+      "bloomingSeason": "January to March",
+      "location": "Native to China and Korea; cultivated in temperate regions globally",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Winter jasmine blooms on leafless stems, making its yellow flowers particularly prominent against a winter landscape."
+    }
+  ]
+}

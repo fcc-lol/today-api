@@ -1,0 +1,64 @@
+{
+  "date": "October 28",
+  "plants": [
+    {
+      "name": "Chrysanthemum indicum",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular garden flowers known for their variety of vibrant colors and are symbols of autumn in many cultures. They bloom profusely in cooler autumn weather.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years and are often associated with longevity and rejuvenation."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is an evergreen shrub thriving in warm climates that produces clusters of fragrant flowers. Although most varieties bloom from spring to fall, some can continue blooming into late autumn in mild climates.",
+      "bloomingSeason": "May to October (sometimes into November in mild climates)",
+      "location": "Mediterranean regions, southern United States, and subtropical zones",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of the Oleander plant are highly toxic if ingested, yet it remains a popular ornamental plant in warm regions due to its hardiness and showy flowers."
+    },
+    {
+      "name": "Salvia greggii",
+      "commonName": "Autumn Sage",
+      "description": "Autumn sage is a drought-tolerant perennial shrub native to Texas and northern Mexico, known for attracting hummingbirds with its tubular, brightly colored flowers that bloom from late summer into fall.",
+      "bloomingSeason": "July to November",
+      "location": "Southwestern United States and northern Mexico",
+      "colors": [
+        "red",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Autumn sage's long blooming season makes it an excellent nectar source for pollinators late in the year."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "This species of cyclamen is a hardy, tuberous plant that flowers in autumn, with nodding pink or white flowers appearing before the leaves fully develop.",
+      "bloomingSeason": "September to November",
+      "location": "Mediterranean woodlands and rocky areas",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "💮",
+      "funFact": "The ivy-shaped leaves of Cyclamen hederifolium have beautiful marbled patterns, making the foliage as attractive as the flowers."
+    }
+  ]
+}

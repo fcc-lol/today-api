@@ -1,0 +1,58 @@
+{
+  "date": "August 16",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun's movement. Sunflowers are native to North America and widely cultivated as ornamental plants and for seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their heads to face the sun during the day to maximize photosynthesis."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A striking perennial wildflower with bright red tubular flowers that attract hummingbirds. It prefers moist soils along streams and wetlands.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The bright red flowers of the cardinal flower are specifically adapted to attract hummingbirds, which are its primary pollinators."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub native to the Mediterranean region, widely cultivated in warm climates. It blooms profusely with clusters of flowers in white, pink, red, or yellow hues.",
+      "bloomingSeason": "Late spring through fall, including August",
+      "location": "Mediterranean, subtropical regions, cultivated worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "All parts of the oleander plant are poisonous if ingested, but it remains a popular ornamental plant due to its long blooming period and drought tolerance."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A spectacular South African native shrub famed for its large, exotic flowers with spiky petals resembling a crown. It is the national flower of South Africa.",
+      "bloomingSeason": "June to October",
+      "location": "South Africa",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea flower can grow up to 30 cm (12 inches) in diameter and is a symbol of change and hope."
+    }
+  ]
+}

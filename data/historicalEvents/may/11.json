@@ -1,0 +1,33 @@
+{
+  "date": "May 11",
+  "events": [
+    {
+      "year": 330,
+      "title": "Constantine the Great dedicates Constantinople",
+      "description": "Roman Emperor Constantine I officially dedicates Byzantium as the new capital of the Roman Empire, renaming it Constantinople.",
+      "category": "Political",
+      "significance": "Marked the establishment of a new imperial capital, influencing the political and cultural landscape of the Byzantine Empire for centuries."
+    },
+    {
+      "year": 1812,
+      "title": "The Spanish Constitution of 1812 is proclaimed",
+      "description": "The liberal Spanish Constitution of 1812, also known as La Pepa, is proclaimed in Cádiz, Spain, representing a major step towards constitutional monarchy and liberal reform.",
+      "category": "Political",
+      "significance": "Regarded as one of the most liberal constitutions of its time, influencing liberal movements across Europe and Latin America."
+    },
+    {
+      "year": 1949,
+      "title": "The Federal Republic of Germany is established",
+      "description": "West Germany officially becomes a sovereign state with the promulgation of its constitution, the Basic Law, establishing a democratic government after World War II.",
+      "category": "Political",
+      "significance": "Signified the birth of modern West Germany and set a foundation for its post-war recovery and democratic development."
+    },
+    {
+      "year": 1997,
+      "title": "IBM's Deep Blue defeats world chess champion Garry Kasparov",
+      "description": "IBM's supercomputer Deep Blue wins a historic chess match against reigning world champion Garry Kasparov, marking the first time a computer defeats a world champion in a match under standard chess tournament time controls.",
+      "category": "Science and Technology",
+      "significance": "A milestone in artificial intelligence demonstrating the growing capabilities of computer technology in complex problem solving."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "February 2",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A hardy bulbous perennial that often blooms early in the year, signaling the end of winter. It has bright cup-shaped flowers that thrive in temperate climates and are commonly planted in gardens or found growing wild in meadows.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the first flowers to bloom after snow melts, making them a symbol of new beginnings and spring."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its robust white flowers that frequently bloom in winter and early spring, often pushing through snow. It is widely cultivated in European gardens and can also be found in its native mountainous areas.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink-tinged"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite its name, the Christmas rose blooms during the winter months and was often used in Christmas decorations in Europe historically."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, a vibrant shrub that produces profuse clusters of golden yellow, fluffy flowers in late winter to spring. It is drought-tolerant and common in Australian woodlands and gardens.",
+      "bloomingSeason": "July to September (Southern Hemisphere winter to early spring)",
+      "location": "Australia (Southern Hemisphere)",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "💛🌿",
+      "funFact": "The Golden Wattle’s flowering period includes the Southern Hemisphere’s late winter, which corresponds to August, making it bloom around February in the Northern Hemisphere seasons reversed system."
+    },
+    {
+      "name": "Mahonia aquifolium",
+      "commonName": "Oregon Grape",
+      "description": "An evergreen shrub native to the Pacific Northwest, producing bright yellow flower clusters in late winter and early spring. It is valued both in the wild and in cultivated landscapes for its attractive flowers and holly-like leaves.",
+      "bloomingSeason": "February to April",
+      "location": "Northwestern United States and Southwestern Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼🍃",
+      "funFact": "Mahonia aquifolium’s flowers provide an important early nectar source for pollinators emerging from winter dormancy."
+    }
+  ]
+}

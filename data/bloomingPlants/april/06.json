@@ -1,0 +1,56 @@
+{
+  "date": "April 6",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its spectacular display of pink to white blossoms in spring. It is native to Japan, Korea, and China but widely cultivated worldwide as an ornamental plant.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of East Asia and cultivated globally",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blooming of cherry blossoms is celebrated in Japan with festivals called Hanami, symbolizing the ephemeral nature of life."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy perennial bulb native to western Europe known for its bright yellow trumpet-shaped flowers that herald the arrival of spring.",
+      "bloomingSeason": "March to April",
+      "location": "Europe, particularly the UK and Ireland",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils are an important early nectar source for pollinators emerging in spring."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous magnolia species producing large, fragrant, tulip-shaped flowers that appear before the leaves in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China, widely grown in temperate gardens worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Saucer magnolias are among the earliest magnolias to bloom, often heralding spring’s full arrival."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing evergreen tree native to eastern Australia, known for its fern-like leaves and clusters of bright orange flowers that attract birds.",
+      "bloomingSeason": "March to May",
+      "location": "Subtropical and tropical regions of Australia, also cultivated in warm climates globally",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "The Silky Oak’s flowers produce copious nectar, making it popular with nectar-feeding birds such as honeyeaters."
+    }
+  ]
+}

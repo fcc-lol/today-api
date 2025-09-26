@@ -1,0 +1,56 @@
+{
+  "date": "January 21",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub or small tree native to eastern North America, Witch Hazel blooms in winter with bright yellow, spidery flowers emitting a strong, spicy fragrance. It is often found in woodlands and is valued for winter interest in gardens.",
+      "bloomingSeason": "January to March",
+      "location": "Eastern United States",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch Hazel flowers appear on bare branches, often after leaves have fallen, adding color and fragrance to winter landscapes."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub prized for its large, showy flowers that bloom in winter and early spring. Camellias are native to eastern and southern Asia and bloom profusely even during colder months in mild climates.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated widely in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The camellia flower is a symbol of admiration and perfection in East Asian cultures."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial native to mountainous regions of central and southern Europe. It blooms in winter, often around Christmas but lasting into January, with large white to pinkish flowers that brighten cold gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite the name, Christmas Rose is not a true rose but a member of the buttercup family, Ranunculaceae."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silk Oak",
+      "description": "An evergreen tree native to eastern Australia that flowers profusely in late winter and spring. The bright orange flowers resemble spider webs and attract birds and insects.",
+      "bloomingSeason": "July to January (Southern Hemisphere winter to summer)",
+      "location": "Eastern Australia, cultivated in subtropical regions worldwide",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Silk Oak's flowers provide nectar for many bird species, playing an important role in local ecosystems."
+    }
+  ]
+}

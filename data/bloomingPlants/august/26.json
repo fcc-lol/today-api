@@ -1,0 +1,62 @@
+{
+  "date": "August 26",
+  "plants": [
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, showy flowers with a prominent stamen. It thrives in warm climates and is frequently cultivated in gardens and parks around the world.",
+      "bloomingSeason": "Year-round in tropical climates; peaks in summer and early autumn",
+      "location": "Tropical and subtropical regions worldwide including Southeast Asia, Hawaii, Florida",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Some hibiscus species are used to make herbal tea which is known for its tart flavor and high vitamin C content."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial wildflower featuring bright yellow petals surrounding a dark brown central cone. It's common in North American meadows and gardens.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans attract a variety of pollinators, including bees and butterflies, supporting local ecosystems."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A striking wildflower with brilliant scarlet red tubular flowers. It grows naturally in moist areas such as stream banks and wetlands.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The bright red color of the Cardinal Flower is especially attractive to hummingbirds, which are important pollinators for the species."
+    },
+    {
+      "name": "Gladiolus spp.",
+      "commonName": "Gladiolus",
+      "description": "Popular garden bulbs known for their tall flower spikes with funnel-shaped blooms. They are widely cultivated for summer and late-summer garden color.",
+      "bloomingSeason": "July to September",
+      "location": "Native to South Africa, widely cultivated in temperate regions globally",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "purple",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "The genus name Gladiolus is derived from the Latin word 'gladius' meaning sword, referring to the shape of its leaves."
+    }
+  ]
+}

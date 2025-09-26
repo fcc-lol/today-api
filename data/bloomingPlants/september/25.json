@@ -1,0 +1,59 @@
+{
+  "date": "September 25",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial native to North America, known for its vibrant yellow petals surrounding a dark brown central cone. Often found in meadows and prairies, it attracts pollinators like butterflies and bees.",
+      "bloomingSeason": "July to October",
+      "location": "Eastern and Central United States",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and symbolize encouragement and motivation."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A popular garden shrub native to Japan, China, and Korea with large, showy flower heads that can change color based on soil pH. Blooms can be pink, blue, or purple, adding vibrant color to late summer and early fall gardens.",
+      "bloomingSeason": "June to October",
+      "location": "Temperate regions worldwide (cultivated)",
+      "colors": [
+        "pink",
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The color change in hydrangea flowers is due to aluminum ion availability, which is influenced by soil acidity."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A thorny tree native to South America, particularly Argentina and Uruguay, producing striking bright red flowers shaped like a rooster's crest. It blooms in Southern Hemisphere's spring to early summer, corresponding to northern autumn months.",
+      "bloomingSeason": "September to December",
+      "location": "South America, cultivated in subtropical areas worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cockspur Coral Tree flowers are rich in nectar, attracting hummingbirds and bees."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "A hardy tuberous perennial native to the Mediterranean region, often blooming in late summer to autumn. Features upswept pink to mauve flowers with mottled heart-shaped leaves, carpeting woodland floors and rocky areas.",
+      "bloomingSeason": "August to October",
+      "location": "Mediterranean Basin",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Cyclamen leaves and flowers emerge together in autumn after summer dormancy, adapting to dry Mediterranean summers."
+    }
+  ]
+}

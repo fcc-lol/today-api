@@ -1,0 +1,62 @@
+{
+  "date": "October 5",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial wildflower native to North America, known for its bright yellow petals surrounding a dark brown central cone. It thrives in prairies and open woods and is popular in gardens for late summer and early autumn bloom.",
+      "bloomingSeason": "July to October",
+      "location": "North America (temperate regions)",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans attract butterflies and are often used in wildflower meadows to support pollinators."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Mum",
+      "description": "A widely cultivated flowering plant prized for its vibrant, usually daisy-like flower heads that bloom in late summer to autumn. Mums come in a variety of colors including yellow, red, white, and purple, and are a classic symbol of autumn in many cultures.",
+      "bloomingSeason": "September to November",
+      "location": "Cultivated worldwide, native to East Asia",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "In Japan, chrysanthemums are a symbol of the imperial family and are celebrated during the Festival of Happiness."
+    },
+    {
+      "name": "Salvia leucantha",
+      "commonName": "Mexican Bush Sage",
+      "description": "A perennial sage native to Mexico and Central America, known for its velvety violet-purple flower spikes and aromatic foliage. It blooms profusely in late summer to fall and attracts hummingbirds and butterflies.",
+      "bloomingSeason": "August to November",
+      "location": "Mexico, Central America, cultivated in warm climates",
+      "colors": [
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Mexican Bush Sage’s flowers have soft, fuzzy calyces that give the plant a distinctive texture and appearance."
+    },
+    {
+      "name": "Hibiscus syriacus",
+      "commonName": "Rose of Sharon",
+      "description": "A deciduous flowering shrub valued for its large, showy flowers that bloom late in the summer through fall. Flowers range in color from white to pink, purple, and blue, often with contrasting centers.",
+      "bloomingSeason": "July to October",
+      "location": "Native to East Asia, commonly cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "purple",
+        "blue"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rose of Sharon is the national flower of South Korea and is associated with endurance and determination."
+    }
+  ]
+}

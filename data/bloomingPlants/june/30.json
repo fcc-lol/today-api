@@ -1,0 +1,59 @@
+{
+  "date": "June 30",
+  "plants": [
+    {
+      "name": "Rosa rubiginosa",
+      "commonName": "Sweet Briar Rose",
+      "description": "A deciduous shrub native to Europe and western Asia, known for its fragrant pink flowers and aromatic foliage with a scent reminiscent of apples.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Europe, Mediterranean, temperate regions",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The leaves of Sweet Briar release a pleasant apple-like fragrance when bruised, a trait uncommon among roses."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A herbaceous perennial native to North America, this plant thrives in moist areas. It produces striking bright red tubular flowers that attract hummingbirds.",
+      "bloomingSeason": "Mid to late summer (July to September), sometimes starting late June",
+      "location": "Eastern and Central North America, wetlands and stream banks",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cardinal Flower is one of the few North American native flowers specialized for hummingbird pollination, using vivid red hues and nectar."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical evergreen shrub widely cultivated worldwide for its large and colorful flowers, commonly seen in warm, frost-free climates.",
+      "bloomingSeason": "Year-round in tropical climates; often in full bloom June onward in warmer zones",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers typically last only a day, but plants produce many blooms throughout the growing season."
+    },
+    {
+      "name": "Nicotiana alata",
+      "commonName": "Flowering Tobacco",
+      "description": "An ornamental plant from South America, appreciated for its fragrant, tubular flowers that often open in the evening, attracting nocturnal pollinators.",
+      "bloomingSeason": "Late spring to fall (May to October)",
+      "location": "Native to Brazil and Argentina; widely cultivated in gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its strong evening fragrance is designed to attract moths, which are its main pollinators."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "December 2",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is an evergreen shrub widely cultivated in warm climates for its showy, funnel-shaped flowers that bloom profusely in late spring through fall and often sporadically into early winter in mild climates.",
+      "bloomingSeason": "May to early December",
+      "location": "Mediterranean Basin, Southern United States, and other warm regions",
+      "colors": [
+        "Pink",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested but is commonly used in landscaping due to its drought tolerance and long blooming period."
+    },
+    {
+      "name": "Rhododendron simsii",
+      "commonName": "Indian Azalea",
+      "description": "This tropical azalea species blooms throughout the year in suitable climates, with flowers peaking in cooler months. It features trumpet-shaped flowers and glossy leaves, popular in gardens across Southeast Asia and subtropical regions.",
+      "bloomingSeason": "Year-round with peaks in cooler months including December",
+      "location": "Southeast Asia, tropical and subtropical gardens worldwide",
+      "colors": [
+        "Pink",
+        "Red",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Indian Azalea is often used in bonsai for its manageable growth and vibrant flowers."
+    },
+    {
+      "name": "Clivia miniata",
+      "commonName": "Clivia",
+      "description": "Clivia is a shade-loving evergreen perennial native to South Africa that blooms in late autumn and early winter. It produces clusters of trumpet-shaped orange flowers that brighten up shaded garden areas.",
+      "bloomingSeason": "April to December (Southern Hemisphere late spring to early summer, extending into December)",
+      "location": "South Africa; cultivated worldwide in shaded gardens",
+      "colors": [
+        "Orange"
+      ],
+      "emoji": "🟠",
+      "funFact": "Clivia is named after Lady Charlotte Clive, an 18th-century English aristocrat who first cultivated the plant."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Japanese Camellia is an evergreen shrub famous for its large, rose-like flowers that bloom from late autumn through winter. This species thrives in temperate climates and is a staple in East Asian gardens.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (Japan, Korea, China), cultivated worldwide in temperate zones",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌹",
+      "funFact": "Camellia japonica flowers have been appreciated in Japan for centuries and are often associated with the samurai culture."
+    }
+  ]
+}

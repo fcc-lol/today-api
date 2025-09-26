@@ -6,14 +6,22 @@
   "type": "module",
   "scripts": {
     "start": "node /home/fcc/services/today-api/server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "generate-yearly": "node scripts/runYearlyGeneration.js",
+    "generate-yearly-direct": "node scripts/generateYearlyHistory.js",
+    "generate-holidays": "node scripts/runWeirdHolidayGeneration.js",
+    "generate-holidays-direct": "node scripts/generateWeirdHolidays.js",
+    "generate-plants": "node scripts/runBloomingPlantsGeneration.js",
+    "generate-plants-direct": "node scripts/generateBloomingPlants.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.2.2",
     "express": "^4.19.2",
+    "openai": "^5.23.0",
     "path": "^0.12.7",
-    "url": "^0.11.3"
+    "url": "^0.11.3",
+    "zod": "^3.25.76"
   }
 }
-

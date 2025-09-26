@@ -1,0 +1,33 @@
+{
+  "date": "October 21",
+  "events": [
+    {
+      "year": 1805,
+      "title": "Battle of Trafalgar",
+      "description": "The British Royal Navy, under Admiral Horatio Nelson, decisively defeated the combined fleets of France and Spain, ensuring British naval supremacy.",
+      "category": "Military",
+      "significance": "This battle prevented Napoleon's plans to invade Britain and established British naval dominance for over a century."
+    },
+    {
+      "year": 1879,
+      "title": "First Successful Electric Light Bulb Demonstration",
+      "description": "Thomas Edison demonstrated the first practical incandescent light bulb that could be used commercially.",
+      "category": "Science and Technology",
+      "significance": "This invention revolutionized indoor lighting and paved the way for widespread electrical illumination."
+    },
+    {
+      "year": 1967,
+      "title": "Che Guevara Captured in Bolivia",
+      "description": "Revolutionary leader Che Guevara was captured by Bolivian forces assisted by the CIA.",
+      "category": "Political",
+      "significance": "Marked the end of Guevara's attempts to incite revolution in South America and his subsequent execution made him an iconic figure."
+    },
+    {
+      "year": 2011,
+      "title": "Facebook Goes Public",
+      "description": "Facebook held its initial public offering (IPO) on the NASDAQ stock exchange.",
+      "category": "Business and Technology",
+      "significance": "Represented one of the largest technology IPOs in history, highlighting the rise of social media companies."
+    }
+  ]
+}

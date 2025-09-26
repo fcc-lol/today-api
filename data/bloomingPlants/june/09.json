@@ -1,0 +1,61 @@
+{
+  "date": "June 9",
+  "plants": [
+    {
+      "name": "Rosa rubiginosa",
+      "commonName": "Sweet Briar Rose",
+      "description": "A deciduous wild rose species native to Europe and Western Asia, known for its fragrant leaves and pink flowers. It thrives in temperate climates and often blooms in late spring to early summer.",
+      "bloomingSeason": "May to June",
+      "location": "Temperate regions of Europe and North America (naturalized)",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The leaves emit a distinct apple-like fragrance when crushed, attracted to pollinators and predators alike."
+    },
+    {
+      "name": "Tropaeolum majus",
+      "commonName": "Nasturtium",
+      "description": "An annual or perennial climbing plant native to South America, prized for its bright, vibrant flowers and edible leaves and blossoms. It blooms profusely from late spring to early autumn in warm climates.",
+      "bloomingSeason": "May to September",
+      "location": "Native to the Andes; widely cultivated in temperate and subtropical regions globally",
+      "colors": [
+        "orange",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Nasturtium flowers and leaves are edible and have a peppery taste, often used in salads."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall, flowering perennial native to western North America, often planted in gardens and wild habitats. It blooms in late spring and early summer with erect spikes of colorful flowers attractive to bees and butterflies.",
+      "bloomingSeason": "May to July",
+      "location": "Western North America and cultivated worldwide",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines belong to the legume family and help fix nitrogen in the soil, improving soil fertility."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub native to the Mediterranean region and Asia, cultivated for its long blooming season and showy flowers. Despite its beauty, all parts of the plant are highly toxic.",
+      "bloomingSeason": "May to October",
+      "location": "Mediterranean climates, subtropical and tropical regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Oleander contains cardiac glycosides; ingestion can be fatal to humans and animals."
+    }
+  ]
+}

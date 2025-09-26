@@ -1,0 +1,61 @@
+{
+  "date": "March 24",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning clusters of delicate pink or white flowers that herald the arrival of spring in temperate regions.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blossoming of cherry trees is celebrated in Japan with Hanami festivals, marking a symbol of renewal and fleeting beauty."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub or small tree with clusters of fragrant, trumpet-shaped flowers commonly seen in Mediterranean climates.",
+      "bloomingSeason": "March to October",
+      "location": "Mediterranean Basin, Southern US, California",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, yet it has been used traditionally for medicinal purposes with extreme caution."
+    },
+    {
+      "name": "Lathyrus odoratus",
+      "commonName": "Sweet Pea",
+      "description": "A climbing plant grown for its fragrant, butterfly-shaped flowers often used in gardens and floral arrangements.",
+      "bloomingSeason": "March to June",
+      "location": "Mediterranean region, cultivated worldwide",
+      "colors": [
+        "pink",
+        "purple",
+        "red",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Sweet peas were first cultivated in the early 17th century and remain popular for their sweet scent and diverse colors."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A tree native to Australia with cylindrical flower spikes composed of hundreds of small individual flowers, often bright yellow or orange.",
+      "bloomingSeason": "February to May",
+      "location": "Eastern Australia coast",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias provide vital nectar for a variety of native birds and mammals and are important for Australian ecosystems."
+    }
+  ]
+}

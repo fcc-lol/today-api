@@ -1,0 +1,57 @@
+{
+  "date": "January 14",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern and southern Asia, known for its glossy dark green leaves and large, rose-like flowers that bloom in winter to early spring. Camellias are ornamental favorites for their bright, showy blooms during colder months.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated globally in temperate regions",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was the original source of the tea plant; the same genus (Camellia sinensis) is used to make tea."
+    },
+    {
+      "name": "Wattle (Acacia pycnantha)",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, this small tree or shrub produces abundant bright yellow fluffy flower clusters. It blooms in late winter through spring, often brightening the Australian landscape in the southern hemisphere's cooler months.",
+      "bloomingSeason": "July to November (varies regionally) but can bloom into January in northern Australia",
+      "location": "Southeastern Australia and northern regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Golden Wattle's vibrant yellow flowers inspired the colors of the Australian national flag."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant native to mountainous regions of Europe, the Christmas Rose blooms in winter. It has white or pinkish flowers that open in the coldest months, symbolizing endurance and hope through winter.",
+      "bloomingSeason": "December to February",
+      "location": "Europe, cultivated in temperate gardens",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Clivia miniata",
+      "commonName": "Natal Lily",
+      "description": "A shade-loving evergreen perennial from South Africa, Clivia miniata blooms in mid to late winter with vibrant orange to red trumpet-shaped flowers. It is a popular houseplant that flowers indoors during the northern hemisphere’s winter months.",
+      "bloomingSeason": "December to February",
+      "location": "South Africa, also cultivated worldwide as a houseplant",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Clivia miniata's flowers are pollinated mainly by sunbirds in its native South African habitat."
+    }
+  ]
+}

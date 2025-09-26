@@ -1,0 +1,33 @@
+{
+  "date": "July 1",
+  "events": [
+    {
+      "year": 1863,
+      "title": "Start of the Battle of Gettysburg",
+      "description": "The Battle of Gettysburg starts during the American Civil War. It was one of the largest battles and a turning point in the war.",
+      "category": "Military",
+      "significance": "The Union victory at Gettysburg marked a significant turning point in the Civil War, halting the Confederate invasion of the North."
+    },
+    {
+      "year": 1867,
+      "title": "Confederation of Canada",
+      "description": "The Dominion of Canada is formed as the British North America Act takes effect, uniting three colonies into one country.",
+      "category": "Political",
+      "significance": "This marks the birth of Canada as a self-governing dominion within the British Empire, laying the foundation of the modern Canadian state."
+    },
+    {
+      "year": 1963,
+      "title": "The ZIP code is introduced in the United States",
+      "description": "The United States Postal Service introduces the Zone Improvement Plan (ZIP) code system for mail delivery.",
+      "category": "Social/Technological",
+      "significance": "The ZIP code system improved mail sorting and delivery efficiency, becoming a crucial part of US postal services."
+    },
+    {
+      "year": 1997,
+      "title": "Hong Kong Handover",
+      "description": "Hong Kong is handed over from the United Kingdom to the People's Republic of China after 156 years of British colonial rule.",
+      "category": "Political",
+      "significance": "The handover marked the end of British colonialism in Hong Kong, starting a 'one country, two systems' governance arrangement."
+    }
+  ]
+}

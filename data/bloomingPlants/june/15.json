@@ -1,0 +1,61 @@
+{
+  "date": "June 15",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China that has contributed greatly to the development of modern roses. It produces profuse blooms that come in various shades of pink, red, and white. Known for its continuous flowering habit in warm climates.",
+      "bloomingSeason": "Late spring through summer (May to September)",
+      "location": "Subtropical and temperate regions worldwide, especially in East Asia and gardens globally",
+      "colors": [
+        "Pink",
+        "Red",
+        "White"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose is one of the ancestors of most modern garden roses and was introduced to Europe in the late 18th century."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A tall, perennial flowering plant that produces dense spikes of pea-like flowers. It enhances soil fertility by fixing nitrogen and is popular in wildflower meadows and gardens.",
+      "bloomingSeason": "Late spring to mid-summer (May to July)",
+      "location": "Native to western North America, widely naturalized in Europe and New Zealand",
+      "colors": [
+        "Purple",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Bigleaf Lupines have the ability to improve soil health through nitrogen fixation, benefiting surrounding plants."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Tall Delphinium",
+      "description": "These showy perennials produce tall spikes of vibrant flowers that attract pollinators. They prefer cooler temperate zones and thrive in garden borders.",
+      "bloomingSeason": "Early summer (June to July)",
+      "location": "Native to Europe and Asia, widely cultivated in temperate gardens",
+      "colors": [
+        "Blue",
+        "Purple",
+        "White",
+        "Pink"
+      ],
+      "emoji": "💐",
+      "funFact": "Delphiniums have toxic seeds and foliage, which help deter herbivores."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "White Water Lily",
+      "description": "An aquatic plant with large fragrant white flowers that float on the water’s surface. It's common in ponds and slow-moving water bodies.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "Native to temperate regions of Europe, North Africa, and Asia",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "Water lilies have specialized pads that can move water and light to optimize photosynthesis."
+    }
+  ]
+}

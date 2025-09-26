@@ -1,0 +1,62 @@
+{
+  "date": "September 13",
+  "plants": [
+    {
+      "name": "Aster amellus",
+      "commonName": "European Michaelmas Daisy",
+      "description": "A perennial herbaceous plant native to Europe, known for its vibrant star-shaped flowers that attract pollinators. It typically grows in meadows and grasslands.",
+      "bloomingSeason": "August to October",
+      "location": "Europe",
+      "colors": [
+        "purple",
+        "lavender",
+        "blue"
+      ],
+      "emoji": "🌸",
+      "funFact": "Michaelmas Daisies historically symbolize the arrival of autumn and were named after the Christian feast of Michaelmas on September 29."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "An annual plant recognized for its large flower heads and edible seeds. Widely cultivated, sunflowers follow the sun during the day before bloom maturity.",
+      "bloomingSeason": "July to September",
+      "location": "North America and cultivated worldwide",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism in their bud stage, turning their heads to follow the sun from east to west daily."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native ornamental tree with striking orange to red flowers appearing in large clusters, beloved by nectar-feeding birds.",
+      "bloomingSeason": "September to November",
+      "location": "Australia (especially eastern regions)",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name, Silky Oak is not an oak but is named for its timber's resemblance to oak wood."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Garden Dahlia",
+      "description": "A tuberous perennial known for abundant and colorful flowers appearing late summer through autumn, often used in gardens and floral arrangements.",
+      "bloomingSeason": "July to October",
+      "location": "Mexico and cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "purple",
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The dahlia is the national flower of Mexico and was originally classified as a genus of the sunflower family."
+    }
+  ]
+}

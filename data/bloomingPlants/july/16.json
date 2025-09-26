@@ -1,0 +1,60 @@
+{
+  "date": "July 16",
+  "plants": [
+    {
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A classic species of rose native to Europe, especially prized for its rich fragrance and deep pink to crimson flowers. It has been cultivated since medieval times and is often found blooming in summer gardens.",
+      "bloomingSeason": "June to July",
+      "location": "Temperate regions of Europe and North America (cultivated)",
+      "colors": [
+        "pink",
+        "crimson",
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rosa gallica is historically significant as it was used to make 'rose water' and early perfumes."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A tall, striking flowering plant with dense spikes of pea-like flowers. It is native to western North America and often blooms in summer, attracting numerous pollinators.",
+      "bloomingSeason": "June to August",
+      "location": "Western North America (Pacific Northwest)",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines fix nitrogen in the soil through symbiotic bacteria in their roots, improving soil fertility."
+    },
+    {
+      "name": "Nymphaea nouchali",
+      "commonName": "Star Lotus",
+      "description": "An aquatic plant with star-shaped blue or white flowers that float on the surface of ponds and lakes. Native to South and Southeast Asia, it blooms in warm summer months.",
+      "bloomingSeason": "June to August",
+      "location": "Tropical and subtropical Asia",
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "emoji": "💧",
+      "funFact": "The Star Lotus is the national flower of Sri Lanka and symbolizes purity and enlightenment."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy North American wildflower known for its large purple-pink petals and prominent cone-shaped center. Blooms peak in mid-summer and it is used medicinally and ornamentally.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and Central United States (wild and cultivated)",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌻",
+      "funFact": "Echinacea is valued in herbal medicine for boosting the immune system and treating colds."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "August 3",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "The common sunflower is a tall annual plant known for its large, bright yellow flower heads that track the sun. It is widely cultivated for its seeds and oil and also grows wild in many temperate regions.",
+      "bloomingSeason": "July to September",
+      "location": "North America, Europe, Temperate regions",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow to be over 3 meters tall, and their flower heads consist of thousands of tiny flowers called florets."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical evergreen shrub that produces large, colorful flowers often used in landscaping and gardens in warm climates. Flowers can be single or double and come in a variety of colors.",
+      "bloomingSeason": "Year-round in tropical climates, prominently blooming in summer",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers only last for a day but bloom continuously during the growing season."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A perennial herbaceous plant with dense spikes of pea-like flowers, popular in gardens and wildflower meadows. It enriches soil by fixing nitrogen.",
+      "bloomingSeason": "June to August",
+      "location": "North America, introduced in Europe and elsewhere",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines are known for their ability to improve soil fertility through nitrogen fixation."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This iconic South African shrub produces striking large flower heads resembling artichokes with pink bracts surrounding central florets. Often used in floral arrangements.",
+      "bloomingSeason": "June to September",
+      "location": "South Africa",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea is the national flower of South Africa and can live for decades in wild conditions."
+    }
+  ]
+}

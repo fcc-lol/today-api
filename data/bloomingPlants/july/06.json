@@ -1,0 +1,57 @@
+{
+  "date": "July 6",
+  "plants": [
+    {
+      "name": "Rosa 'Knock Out'",
+      "commonName": "Knock Out Rose",
+      "description": "A robust and disease-resistant rose variety widely cultivated in gardens, known for continuous blooming throughout summer.",
+      "bloomingSeason": "Late spring to fall",
+      "location": "Temperate regions worldwide (commonly North America and Europe)",
+      "colors": [
+        "red",
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Knock Out roses are prized for their ability to bloom repeatedly and resist common rose diseases, making them popular for low-maintenance gardens."
+    },
+    {
+      "name": "Nymphaea spp.",
+      "commonName": "Water Lily",
+      "description": "Aquatic plants that produce beautiful floating flowers on ponds and lakes, opening during the day and closing at night.",
+      "bloomingSeason": "Late spring through summer",
+      "location": "Temperate and tropical zones worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "emoji": "🌼",
+      "funFact": "Water lilies regulate their temperature and can generate heat to attract pollinators, similar to some tropical plants."
+    },
+    {
+      "name": "Tilia cordata",
+      "commonName": "Small-leaved Lime or Linden",
+      "description": "A deciduous tree whose fragrant flowers attract many pollinators and are often used to make herbal tea.",
+      "bloomingSeason": "Early to mid-summer (June to July)",
+      "location": "Europe and parts of western Asia",
+      "colors": [
+        "yellowish-green"
+      ],
+      "emoji": "🌳",
+      "funFact": "Linden flowers are a favorite of bees, leading to production of high-quality linden honey cherished in Europe."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing ornamental tree native to Australia, producing striking orange flowers that attract birds.",
+      "bloomingSeason": "Winter to summer months (June to December) depending on region",
+      "location": "Australia, also cultivated in subtropical regions worldwide",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite the name 'Silky Oak,' this plant is not an oak but a member of the Proteaceae family and produces nectar-rich flowers."
+    }
+  ]
+}

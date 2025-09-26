@@ -1,0 +1,58 @@
+{
+  "date": "August 17",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant native to North America, known for its large, bright yellow flower heads that follow the sun's movement throughout the day. Sunflowers are widely cultivated for ornamental use, seeds, and oil production.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their flower heads to track the sun during the day."
+    },
+    {
+      "name": "Lobelia siphilitica",
+      "commonName": "Great Blue Lobelia",
+      "description": "A herbaceous perennial native to eastern North America, known for its striking spikes of deep blue flowers that attract pollinators such as bees and hummingbirds.",
+      "bloomingSeason": "August to October",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "Blue"
+      ],
+      "emoji": "💙",
+      "funFact": "Historically, some Native American tribes used Great Blue Lobelia medicinally to treat respiratory ailments."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub prized for its large, vivid flowers. It blooms year-round in tropical climates and is widely grown as an ornamental plant in gardens worldwide.",
+      "bloomingSeason": "Year-round in tropical regions, peaks in summer",
+      "location": "Tropical Asia, cultivated worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and often used in herbal teas and beverages known as hibiscus tea."
+    },
+    {
+      "name": "Alstroemeria aurea",
+      "commonName": "Alstroemeria or Peruvian Lily",
+      "description": "A perennial plant native to South America, producing clusters of colorful, tiger-striped flowers. Commonly used in floral arrangements due to their long vase life.",
+      "bloomingSeason": "July to September",
+      "location": "Chile, Argentina, cultivated in temperate gardens",
+      "colors": [
+        "Orange",
+        "Yellow",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Alstroemeria petals can have reversible leaves, a unique feature not common in most flowers."
+    }
+  ]
+}

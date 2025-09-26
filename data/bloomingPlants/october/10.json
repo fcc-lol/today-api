@@ -1,0 +1,59 @@
+{
+  "date": "October 10",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular garden flowers known for their dense, colorful blooms that signify autumn. They have a wide range of flower shapes and colors and are often used in floral arrangements and autumn decorations.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in many Asian cultures and are often associated with the autumn festival season."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "This hardy wildflower produces bright yellow daisy-like flowers with dark brown centers. It thrives in prairies and open woods and is popular in gardens for late summer to fall color.",
+      "bloomingSeason": "June to October",
+      "location": "Eastern and central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and are loved by pollinators like bees and butterflies."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Guernsey Lily",
+      "description": "A bulbous perennial native to South Africa, Nerine bowdenii produces clusters of delicate, lily-like pink flowers on leafless stems, blooming in autumn.",
+      "bloomingSeason": "September to November",
+      "location": "South Africa; widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite the common name, the Guernsey Lily is not a true lily but belongs to the Amaryllis family."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub beloved for its glossy leaves and rose-like flowers that bloom in late fall through early spring, adding color during cooler months.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated worldwide in mild climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was historically grown in Japanese tea gardens, and its petals were sometimes used as a tea flavoring."
+    }
+  ]
+}

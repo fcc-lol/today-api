@@ -1,0 +1,62 @@
+{
+  "date": "June 12",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Garden Roses",
+      "description": "Roses are classic garden plants known for their fragrant, often multi-petaled blooms. Many varieties are in full flower during early summer, showcasing a wide range of colors from white to deep red.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Temperate regions worldwide, cultivated globally",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty worldwide."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This wildflower features tall spikes of densely packed pea-like flowers. It thrives in cooler climates and blooms profusely in late spring and early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Native to western North America, commonly found in meadows and along roadsides in temperate zones",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich the soil by fixing nitrogen, making them important for ecosystem health."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree known for its distinctive cylindrical flower spikes composed of hundreds of tiny individual flowers. It blooms mainly in late autumn to early summer.",
+      "bloomingSeason": "Autumn to early summer (March to June)",
+      "location": "Coastal regions of eastern Australia",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia flowers provide an important nectar source for Australian birds and mammals during blooming season."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "This aquatic plant produces large, fragrant, cup-shaped flowers that rise above the water surface. It typically blooms in warm summer months.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "Asia, cultivated in ponds and water gardens in tropical and subtropical regions",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The lotus flower is a symbol of purity and spiritual enlightenment in many Asian cultures."
+    }
+  ]
+}

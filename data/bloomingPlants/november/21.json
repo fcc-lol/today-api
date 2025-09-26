@@ -1,0 +1,60 @@
+{
+  "date": "November 21",
+  "plants": [
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular garden flowers known for their vibrant colors and variety of forms. They are widely cultivated as ornamental plants and often bloom in late autumn when many other plants have finished flowering.",
+      "bloomingSeason": "October to November",
+      "location": "Temperate regions worldwide, including East Asia, Europe, and North America",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are considered a symbol of autumn in many cultures and have been cultivated in China for over 2,500 years."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub that produces large, showy flowers in late autumn to early spring. Camellias are cherished in gardens for their glossy leaves and elegant blooms, thriving in mild temperate climates.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (Japan, Korea, China) and cultivated in similar climates worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is one of the earliest flowering camellias and is a symbol of purity and longevity in East Asian cultures."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A species of woody shrub or small tree native to Australia's east coast, producing dense flower spikes that attract numerous nectar-feeding birds and insects.",
+      "bloomingSeason": "Spring to late autumn (including November)",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "The Coast Banksia's flowers are rich in nectar and have historically been tapped by Indigenous Australians for a sweet drink."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, this wattle species features bright golden yellow fluffy flower clusters. It blooms in late winter to spring but can start flowering as early as November in some areas.",
+      "bloomingSeason": "November to September (peak in late winter and spring)",
+      "location": "South-Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Golden Wattle's bright color inspired the design of the Australian national flag's colors."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "September 14",
+  "plants": [
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial native to North America, known for its large, purple-pink daisy-like flowers with a spiny central cone. It attracts pollinators like bees and butterflies.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and Central United States",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is often used in herbal remedies believed to boost the immune system."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub that produces large, showy flowers with a prominent stamen. It blooms prolifically in warm climates, adding vibrant color to gardens.",
+      "bloomingSeason": "June to October",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and used to make refreshing teas and beverages."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "An annual plant known for its tall stems and large, bright yellow flower heads that follow the sun’s movement — a behavior called heliotropism.",
+      "bloomingSeason": "July to September",
+      "location": "Native to North America, widely cultivated globally",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and produce edible seeds rich in oil."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in early fall, producing smaller but fragrant flowers compared to other camellias, often used in ornamental gardens.",
+      "bloomingSeason": "September to November",
+      "location": "Native to Japan, cultivated in mild climates",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Sasanqua camellias bloom earlier in the season than other camellia species, heralding the arrival of autumn."
+    }
+  ]
+}

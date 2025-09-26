@@ -1,0 +1,56 @@
+{
+  "date": "June 5",
+  "plants": [
+    {
+      "name": "Rosa rubiginosa",
+      "commonName": "Sweet Briar Rose",
+      "description": "A species of wild rose known for its fragrant leaves and pale pink flowers, native to Europe and western Asia. It blooms profusely in late spring to early summer.",
+      "bloomingSeason": "May to June",
+      "location": "Europe, Western Asia, and widely naturalized elsewhere",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The leaves of Sweet Briar Rose emit a pleasant apple-like fragrance when crushed, due to the presence of abundant glandular hairs."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A perennial plant with tall spikes of colorful flowers, commonly found in North America’s temperate zones. Its vibrant blooms attract a range of pollinators during late spring and early summer.",
+      "bloomingSeason": "May to July",
+      "location": "North America",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines are nitrogen-fixing plants that help improve soil fertility by converting atmospheric nitrogen into forms usable by plants."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A woodland wildflower native to eastern North America, named for its mottled leaves resembling a trout’s skin. It flowers in early to mid-spring, often by early June in cooler climates.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Yellow Trout Lily forms large clonal colonies through underground bulbs, but the plants rarely flower every year."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "A fast-growing tree known for its spectacular display of tubular, bright violet-blue flowers that cover the tree in late spring to early summer.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Native to South America; widely cultivated in subtropical regions worldwide",
+      "colors": [
+        "violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Jacaranda trees can live up to 50 years and are widely admired for their ornamental beauty in cities like Pretoria, South Africa, and Sydney, Australia."
+    }
+  ]
+}

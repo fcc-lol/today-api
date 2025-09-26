@@ -1,0 +1,56 @@
+{
+  "date": "May 24",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub known for its large clusters of vibrant flowers, commonly found in the woodlands and heathlands of western Europe and western Asia. It blooms profusely in spring, attracting many pollinators.",
+      "bloomingSeason": "April to June",
+      "location": "Western Europe, Western Asia",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is an invasive species in some parts of the world, such as the UK, where it outcompetes native plants."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "A large evergreen tree native to the southeastern United States, notable for its huge, fragrant white flowers that bloom late spring through summer.",
+      "bloomingSeason": "May to July",
+      "location": "Southeastern United States",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and are a key source of nectar for bees."
+    },
+    {
+      "name": "Echium wildpretii",
+      "commonName": "Tower of Jewels",
+      "description": "A striking biennial plant native to the Canary Islands, characterized by its tall spikes packed densely with small red to pink flowers. It typically blooms in late spring to early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Canary Islands",
+      "colors": [
+        "red",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Echium wildpretii can attract thousands of bees owing to its abundant nectar."
+    },
+    {
+      "name": "Tabebuia heterophylla",
+      "commonName": "Pink Trumpet Tree",
+      "description": "A fast-growing tropical tree found in the Caribbean, producing abundant trumpet-shaped pink flowers in late spring. It is valued for its ornamental beauty and shade.",
+      "bloomingSeason": "April to June",
+      "location": "Caribbean Islands",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Its wood is highly regarded for quality furniture and construction in the Caribbean."
+    }
+  ]
+}

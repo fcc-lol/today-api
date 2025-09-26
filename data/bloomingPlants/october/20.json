@@ -1,0 +1,61 @@
+{
+  "date": "October 20",
+  "plants": [
+    {
+      "name": "Chrysanthemum spp.",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are hardy perennials known for their vibrant, daisy-like flowers. They bloom profusely in autumn, adding brilliant colors to gardens as temperatures cool down. Often cultivated, they come in a variety of shapes and sizes.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially Asia, North America, and Europe",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are sometimes called 'mums' and are symbols of longevity and rejuvenation in many cultures, especially in Japan."
+    },
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "American Witch Hazel",
+      "description": "A deciduous shrub native to eastern North America, witch hazel produces unique spidery, fragrant yellow flowers in late fall, often after leaves have dropped, adding color to otherwise bare woods.",
+      "bloomingSeason": "October to December",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "The plant’s extract is commonly used for medicinal and skincare purposes due to its astringent properties."
+    },
+    {
+      "name": "Brassica oleracea (Autumn flowering cultivars)",
+      "commonName": "Ornamental Kale",
+      "description": "Ornamental kale is grown for its broad, ruffled leaves which mature to brilliant shades of purple, pink, and white during cool autumn weather. It can be considered a flowering plant due to its floral beginnings and is popular in fall gardens.",
+      "bloomingSeason": "Late summer through autumn",
+      "location": "Cultivated widely in temperate climates worldwide",
+      "colors": [
+        "purple",
+        "pink",
+        "white",
+        "green"
+      ],
+      "emoji": "🥬",
+      "funFact": "Though typically grown as a leaf vegetable, ornamental kale is prized in horticulture for its vibrant, colorful foliage rather than its flowers."
+    },
+    {
+      "name": "Clitoria ternatea",
+      "commonName": "Butterfly Pea",
+      "description": "A tropical vine producing striking deep blue flowers with a unique shape resembling a butterfly. It blooms year-round in tropical climates but is especially prolific in late summer and autumn months in appropriate zones.",
+      "bloomingSeason": "Year-round in tropics, peaking in late summer to autumn",
+      "location": "Tropical Asia, parts of Africa, and tropical Americas",
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Butterfly pea flowers are used to make a natural blue tea which changes color based on pH when lemon is added."
+    }
+  ]
+}

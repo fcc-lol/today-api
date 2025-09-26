@@ -1,0 +1,61 @@
+{
+  "date": "September 19",
+  "plants": [
+    {
+      "name": "Aster amellus",
+      "commonName": "European Michaelmas Daisy",
+      "description": "A hardy perennial wildflower and garden plant native to Europe, known for its daisy-like violet-blue flowers. It thrives in temperate climates and is a common sight in meadows and gardens.",
+      "bloomingSeason": "August to October",
+      "location": "Europe, temperate zones",
+      "colors": [
+        "violet",
+        "blue",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Michaelmas Daisies often signal the approach of Michaelmas (September 29), traditionally marking the start of autumn in Europe."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A bright and cheerful wildflower native to North America, with golden yellow petals surrounding a dark brown central cone. It is widely cultivated in gardens and is drought-tolerant.",
+      "bloomingSeason": "June to September (sometimes into October)",
+      "location": "North America, temperate zones",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans attract pollinators like bees and butterflies and often bloom late into the growing season, including September."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub with large, vibrant flowers typically red, pink, or orange. Commonly cultivated in subtropical and tropical regions, blooming year-round with peak flowering in warm months.",
+      "bloomingSeason": "Year-round in tropics, peak late summer to fall",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Each hibiscus flower lasts only a day, but the plant produces many blooms throughout the warm seasons."
+    },
+    {
+      "name": "Callicarpa americana",
+      "commonName": "American Beautyberry",
+      "description": "A native shrub to the southeastern United States known for its striking clusters of bright purple berries in fall, following delicate lavender-pink flowers in late summer.",
+      "bloomingSeason": "August to September (flowers), berries appear in fall",
+      "location": "Southeastern USA",
+      "colors": [
+        "lavender",
+        "pink"
+      ],
+      "emoji": "🟣",
+      "funFact": "The beautyberry’s purple berries are a favorite food for many birds, which help disperse its seeds."
+    }
+  ]
+}

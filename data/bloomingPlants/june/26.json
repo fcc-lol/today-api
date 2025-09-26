@@ -1,0 +1,56 @@
+{
+  "date": "June 26",
+  "plants": [
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant perennial shrub known for its aromatic purple flower spikes and silvery-green foliage. English Lavender is popular in gardens and used in essential oils and dried flower arrangements.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean region, widely cultivated in temperate zones worldwide",
+      "colors": [
+        "Purple",
+        "Lavender"
+      ],
+      "emoji": "🌿",
+      "funFact": "Lavender has been used historically for its calming scent and was even buried with the dead in ancient Egypt."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "A large flowering shrub native to the Pacific Northwest of North America, producing large clusters of bell-shaped pink to reddish flowers. It thrives in moist, shaded forest areas.",
+      "bloomingSeason": "May to July",
+      "location": "Pacific Northwest, United States and Canada",
+      "colors": [
+        "Pink",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Pacific Rhododendron is the state flower of Washington and is valued for its ornamental beauty."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "Floating aquatic perennial with large, round leaves and fragrant white flowers that open during the day and close at night. It inhabits calm freshwater lakes and ponds.",
+      "bloomingSeason": "June to August",
+      "location": "Europe and parts of North Africa and Asia",
+      "colors": [
+        "White",
+        "Yellow center"
+      ],
+      "emoji": "💧",
+      "funFact": "White water lilies have been culturally significant for centuries, often symbolizing purity and tranquility in various mythologies."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A deciduous tree or shrub producing striking bright red, spiky flowers that attract hummingbirds and butterflies. Often found along riverbanks and in warm temperate climates.",
+      "bloomingSeason": "Late spring to summer",
+      "location": "South America, especially Argentina, Uruguay, and Brazil",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Cockspur Coral Tree is the national flower of Argentina and Uruguay and is admired for its vibrant and unusual flower shape."
+    }
+  ]
+}

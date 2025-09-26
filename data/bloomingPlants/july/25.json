@@ -1,0 +1,62 @@
+{
+  "date": "July 25",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are iconic flowering shrubs known for their fragrant and often large, beautiful blossoms. Many cultivated garden varieties bloom profusely during summer months.",
+      "bloomingSeason": "Late spring to early fall (depending on variety)",
+      "location": "Widely cultivated; native to temperate regions of the Northern Hemisphere",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange",
+        "purple"
+      ],
+      "emoji": "🌹",
+      "funFact": "Some rose species have been cultivated for over 5,000 years and have been symbols of love and beauty across many cultures."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A woody shrub with narrow grey-green leaves and fragrant purple flower spikes. Lavender is widely grown for its scent and essential oils.",
+      "bloomingSeason": "Mid to late summer",
+      "location": "Native to the Mediterranean but cultivated worldwide in temperate regions",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender oil has antiseptic and anti-inflammatory properties and has been used historically for healing and relaxation."
+    },
+    {
+      "name": "Plumeria rubra",
+      "commonName": "Frangipani",
+      "description": "A tropical tree known for its beautifully fragrant and waxy flowers, commonly used in Hawaiian leis.",
+      "bloomingSeason": "Late spring through summer",
+      "location": "Native to Central America, commonly grown in tropical and subtropical regions worldwide",
+      "colors": [
+        "white",
+        "yellow",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Plumeria flowers are often fragrant at night to attract moth pollinators."
+    },
+    {
+      "name": "Arnica montana",
+      "commonName": "Mountain Arnica",
+      "description": "A wildflower found in mountainous areas with bright yellow daisy-like flowers, known for medicinal properties.",
+      "bloomingSeason": "July to August",
+      "location": "Native to Europe in mountainous meadows and grasslands",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Arnica extract is used in herbal medicine to treat bruises, sprains, and muscle pain."
+    }
+  ]
+}

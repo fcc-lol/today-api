@@ -1,0 +1,40 @@
+{
+  "date": "May 18",
+  "events": [
+    {
+      "year": 1980,
+      "title": "Eruption of Mount St. Helens",
+      "description": "Mount St. Helens in Washington state erupted catastrophically causing massive destruction and loss of life.",
+      "category": "Natural Disaster",
+      "significance": "One of the most significant volcanic eruptions in US history with widespread environmental and economic impacts."
+    },
+    {
+      "year": 1896,
+      "title": "Opening of the First Modern Olympic Games",
+      "description": "The first modern Olympic Games were officially opened in Athens, Greece.",
+      "category": "Sports/Global Event",
+      "significance": "Marked the revival of the Olympic Games, leading to the global sporting tradition celebrated every four years."
+    },
+    {
+      "year": 1933,
+      "title": "First World Science Fiction Convention (Worldcon) Held",
+      "description": "The inaugural World Science Fiction Convention was held in New York City, establishing a major annual event for science fiction fans.",
+      "category": "Cultural Event",
+      "significance": "Foundational moment for the science fiction community and fandom worldwide."
+    },
+    {
+      "year": 1969,
+      "title": "Apollo 10 Returns to Earth",
+      "description": "The Apollo 10 spacecraft safely returned to Earth after a successful mission orbiting the Moon as a dress rehearsal for the Apollo 11 landing.",
+      "category": "Space Exploration",
+      "significance": "Critical precursor mission that helped ensure the success of the first human Moon landing."
+    },
+    {
+      "year": 1988,
+      "title": "Armenian Earthquake",
+      "description": "A devastating earthquake struck northern Armenia (then part of the Soviet Union), killing tens of thousands and causing widespread destruction.",
+      "category": "Natural Disaster",
+      "significance": "One of the deadliest earthquakes in the late 20th century, highlighting the need for improved disaster preparedness."
+    }
+  ]
+}

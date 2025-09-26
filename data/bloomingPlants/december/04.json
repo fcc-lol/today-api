@@ -1,0 +1,59 @@
+{
+  "date": "December 4",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub with fragrant, showy flowers ranging from white to pink and red, commonly found in Mediterranean and subtropical climates. It blooms profusely in warm climates even in early winter.",
+      "bloomingSeason": "Year-round in warm climates, typically spring to fall, extending into winter in mild areas",
+      "location": "Mediterranean Basin, Southern USA, California, and subtropical regions",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is highly toxic if ingested, but has been used ornamentally for thousands of years due to its vibrant blooms and resilience."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "A popular evergreen shrub admired for its large, ornate flowers that bloom in cooler months, often from late fall to early spring. It thrives in temperate climate zones and is widely cultivated in gardens.",
+      "bloomingSeason": "Fall to early spring (including December)",
+      "location": "East Asia (native), widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "The camellia flower was named after Jesuit botanist Georg Kamel, and its petals are used to produce tea in some species closely related to Camellia japonica."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial known for its white to pinkish flowers that bloom in late winter, sometimes starting in December. It is native to mountainous regions of Europe and thrives in shaded garden areas.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "White",
+        "Light Pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite its common name, the Christmas Rose is unrelated to roses and has medicinal uses historically, though it is toxic if consumed."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A flowering shrub or small tree native to New Zealand and southeastern Australia, producing small white or pink flowers in late spring to early summer in the Southern Hemisphere, which corresponds to December.",
+      "bloomingSeason": "November to January (Southern Hemisphere summer)",
+      "location": "New Zealand, Southeastern Australia",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "🌿🌸",
+      "funFact": "Manuka flowers are the source of manuka honey, famous worldwide for its unique antibacterial properties."
+    }
+  ]
+}

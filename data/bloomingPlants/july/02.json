@@ -1,0 +1,66 @@
+{
+  "date": "July 2",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are iconic flowering shrubs known for their fragrant, layered petals and wide variety of colors. Many species and cultivars reach peak bloom in early summer in temperate zones.",
+      "bloomingSeason": "Late spring to mid-summer",
+      "location": "Temperate regions worldwide, including North America, Europe, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses are one of the oldest cultivated flowers, with fossils dating back 35 million years."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Lupine",
+      "description": "Lupines are tall spikes of pea-like flowers often found in wild meadows and gardens. They fix nitrogen in soil, improving fertility.",
+      "bloomingSeason": "Late spring through early summer (May to July)",
+      "location": "Native to western North America; widely cultivated in temperate climates",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines can improve poor soils by fixing atmospheric nitrogen through root nodules."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub bearing large, showy, trumpet-shaped flowers. In warm climates, it blooms throughout summer and sometimes year-round.",
+      "bloomingSeason": "Summer to fall; can be year-round in tropical climates",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Some cultures use hibiscus flowers to make herbal teas believed to have health benefits."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, this striking plant has large, spiky flower heads with a central dome surrounded by colorful bracts.",
+      "bloomingSeason": "Winter to summer (varies by region – often blooming July in Southern Hemisphere)",
+      "location": "Southern Africa (fynbos biome)",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas are ancient plants dating back over 300 million years, predating the dinosaurs."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "April 11",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its spectacular springtime blooms of pale pink to white flowers, celebrated worldwide during cherry blossom festivals. It is native to East Asia and widely cultivated in temperate regions.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, Korea, China, temperate regions globally",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Japan, the fleeting cherry blossoms symbolize the transient nature of life, a concept known as 'mono no aware'."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree noted for its large, tulip-shaped flowers that appear in early spring before the leaves. The flowers range from white to deep pink, often with purple hues.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China, widely grown in North America and Europe",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolia flowers appeared on Earth long before bees evolved; they were originally pollinated by beetles."
+    },
+    {
+      "name": "Rhododendron",
+      "commonName": "Rhododendron",
+      "description": "A diverse genus of woody plants with large, showy flower clusters that bloom in spring. Species and cultivars can vary greatly, with flowers in many colors.",
+      "bloomingSeason": "April to June",
+      "location": "Asia, North America, Europe, especially in mountainous regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "purple",
+        "yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Rhododendrons can form large clonal colonies via root suckers, sometimes dominating entire hillsides."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A North American wildflower with nodding, yellow, lily-like flowers and mottled leaves resembling trout patterns. It blooms early in spring in deciduous forests.",
+      "bloomingSeason": "March to April",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Yellow Trout Lily spreads slowly and can live over 50 years, often growing in colonies of genetically identical plants."
+    }
+  ]
+}

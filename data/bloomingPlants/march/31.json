@@ -1,0 +1,58 @@
+{
+  "date": "March 31",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning and delicate pink flowers that signal the arrival of spring in many temperate regions. These blossoms create spectacular displays in parks and gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of Japan, Korea, China, and cultivated in many temperate zones worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese Cherry Blossom has inspired festivals (Hanami) celebrating transient beauty, as the flowers bloom briefly and fall quickly."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia known for its large, tulip-shaped flowers that bloom early in spring, often before the leaves emerge. They are prized ornamentals for gardens and parks.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China and cultivated widely in temperate regions of the Northern Hemisphere",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolia flowers evolved before bees existed; early magnolias were pollinated by beetles, one of the oldest pollinators."
+    },
+    {
+      "name": "Waratah (Telopea speciosissima)",
+      "commonName": "Waratah",
+      "description": "An iconic Australian native shrub bearing large, bright red flower heads that bloom in early spring. It is the floral emblem of New South Wales, Australia.",
+      "bloomingSeason": "September to November in Australia but blooms in the Southern Hemisphere spring, which corresponds to March in the Northern Hemisphere when cultivated under controlled conditions.",
+      "location": "Eastern Australia, especially New South Wales",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Waratah flowers are rich in nectar and attract birds and insects, playing a key role in local ecosystems."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial bulbous plant that produces cup-shaped flowers early in spring, often poking through snow. It is a classic harbinger of spring in temperate regions.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and Western Asia, also cultivated in gardens worldwide",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Some crocus species produce saffron from their stigmas, one of the most expensive spices globally."
+    }
+  ]
+}

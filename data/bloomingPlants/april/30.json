@@ -1,0 +1,60 @@
+{
+  "date": "April 30",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous tree known for its large, fragrant, tulip-shaped flowers that appear before the leaves. It is a very popular ornamental tree in temperate zones.",
+      "bloomingSeason": "March to May",
+      "location": "Temperate regions, widely cultivated in North America, Europe",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer Magnolia was one of the earliest hybrid magnolias developed in France in the 1820s, combining large blooms with hardiness."
+    },
+    {
+      "name": "Cherry Blossom (Prunus serrulata)",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Iconic ornamental cherry tree known for its spectacular ephemeral pink or white flowers, signaling spring in many parts of the world.",
+      "bloomingSeason": "Late March to early May depending on region",
+      "location": "East Asia (Japan, Korea, China), cultivated worldwide in temperate climates",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms only last about 1-2 weeks in full bloom, and their fleeting beauty is celebrated with annual festivals called Hanami in Japan."
+    },
+    {
+      "name": "Strelitzia reginae",
+      "commonName": "Bird of Paradise",
+      "description": "Tropical plant known for striking, bird-like flowers resembling a tropical bird in flight. It thrives in warm climates and often blooms year-round in ideal conditions.",
+      "bloomingSeason": "Year-round in frost-free areas, peaks from late winter to late spring",
+      "location": "Native to South Africa; cultivated in subtropical & tropical gardens worldwide",
+      "colors": [
+        "orange",
+        "blue"
+      ],
+      "emoji": "🦜",
+      "funFact": "The ‘beak’ of the Bird of Paradise flower is actually a specialized leaf bract protecting the flowers."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Garden Lupine",
+      "description": "A perennial wildflower often grown in gardens for its tall, dense spikes of pea-like flowers. It is a nitrogen-fixing legume which improves soil quality.",
+      "bloomingSeason": "April to June",
+      "location": "Native to western North America, widely naturalized in Europe and New Zealand",
+      "colors": [
+        "purple",
+        "blue",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Lupines have a unique structure allowing them to fix nitrogen in the soil via symbiotic bacteria, enriching poor soils."
+    }
+  ]
+}

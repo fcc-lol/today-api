@@ -1,0 +1,60 @@
+{
+  "date": "2024-05-11",
+  "plants": [
+    {
+      "name": "Iris germanica",
+      "commonName": "Bearded Iris",
+      "description": "A hardy perennial with large, showy flowers that come in a variety of colors including purples, blues, yellows, and whites. It has sword-shaped leaves and is a popular garden plant.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate gardens worldwide, especially North America and Europe",
+      "colors": [
+        "purple",
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Bearded Iris gets its name from the fuzzy 'beard' on the petals, which helps attract pollinators."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "A deciduous tree known for its stunning display of vibrant lavender-blue trumpet-shaped flowers covering the canopy. It blooms profusely in spring, creating beautiful purple carpets when petals fall.",
+      "bloomingSeason": "Spring (April to June)",
+      "location": "Subtropical regions such as southern USA, South America, Australia, and South Africa",
+      "colors": [
+        "lavender blue"
+      ],
+      "emoji": "🌿",
+      "funFact": "Jacaranda trees are often called the 'Lord Mayor's tree' as they are widely planted in urban areas for their spectacular floral display."
+    },
+    {
+      "name": "Erythronium hendersonii",
+      "commonName": "Henderson's Fawn Lily",
+      "description": "A wildflower native to the western United States with nodding, delicate flowers that are typically a rich purple or pink with yellowish tips. It emerges early in the spring before the forest canopy fully develops.",
+      "bloomingSeason": "April to May",
+      "location": "Pacific Northwest, USA",
+      "colors": [
+        "purple",
+        "pink",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Fawn lilies get their name because their leaves are mottled like a fawn’s coat, which helps them blend into the forest floor."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub that produces large, waxy flowers often blooming in late winter to spring. Flowers can be single or double and appear in colors ranging from white to deep red.",
+      "bloomingSeason": "January to May",
+      "location": "East Asia, also cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias have been cultivated in Japan and China for centuries and are highly prized for their elegant flowers and glossy leaves."
+    }
+  ]
+}

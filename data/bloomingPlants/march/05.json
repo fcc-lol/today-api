@@ -1,0 +1,58 @@
+{
+  "date": "March 5",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial flowering plant that produces cup-shaped flowers, often one of the first to bloom signaling the arrival of spring in temperate regions.",
+      "bloomingSeason": "February to March",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocus flowers are known for their vibrant colors and are sometimes confused with early blooming tulips."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot",
+      "description": "A deciduous tree prized for its fragrant and early blooming pink to white flowers, often blooming in late winter to early spring in East Asia.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia (China, Japan, Korea)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Prunus mume blossoms are celebrated in East Asian cultures for their beauty and symbolism of resilience amid winter."
+    },
+    {
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "A native Australian shrub producing striking orange-red inflorescences shaped like cylindrical flower spikes, attracting birds and pollinators.",
+      "bloomingSeason": "February to May",
+      "location": "Southeastern Australia",
+      "colors": [
+        "orange-red"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias have woody seed cones that open after fire or dry conditions, helping regeneration after bushfires."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous hybrid tree ornamental for its large, tulip-shaped flowers that bloom in early spring, often before the leaf emergence.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions worldwide (cultivated)",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Saucer magnolia flowers can be quite large, measuring up to 20 cm across, and emit a mild, pleasant fragrance."
+    }
+  ]
+}

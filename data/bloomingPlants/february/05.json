@@ -1,0 +1,58 @@
+{
+  "date": "February 5",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial flowering plant that often blooms in late winter to early spring, producing cup-shaped flowers that close at night.",
+      "bloomingSeason": "January to March",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the first flowers to bloom, sometimes even poking through snow."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A deciduous tree known for its beautiful and fragrant early spring blossoms that bloom in late winter to early spring before leaves appear.",
+      "bloomingSeason": "January to February",
+      "location": "East Asia (China, Japan, Korea)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Ume blossoms are celebrated in East Asia as a symbol of perseverance and hope."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A small ornamental tree with striking bright red flowers blooming in the Southern Hemisphere's late summer to early autumn, which corresponds to February in places like Argentina and Brazil.",
+      "bloomingSeason": "December to March",
+      "location": "South America (Argentina, Brazil, Uruguay)",
+      "colors": [
+        "bright red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The cockspur coral tree is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub famous for its large, showy flowers that bloom in late winter to early spring in temperate climates.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia and widely cultivated in temperate climates worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "Camellia oil from seeds has been historically used for hair care and cooking."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "May 18",
+  "plants": [
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "A tall biennial herbaceous plant known for its tubular, bell-shaped flowers that are typically purple with spotted throats. It is often found in woodlands and open meadows.",
+      "bloomingSeason": "May to June",
+      "location": "Europe, naturalized in North America",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Foxglove flowers are important for pollinators like bees, who crawl inside the tubular flowers to gather nectar."
+    },
+    {
+      "name": "Lagerstroemia indica",
+      "commonName": "Crape Myrtle",
+      "description": "A deciduous tree or shrub famous for its long summer blooming period and crinkly, crepe-like petals. It thrives in warm climates and is popular in urban landscapes.",
+      "bloomingSeason": "Late spring through summer (May to September)",
+      "location": "Native to Southeast Asia, widely cultivated in the southern United States and other warm temperate to tropical regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "The crape myrtle’s bark exfoliates year-round, giving the tree a mottled, multicolored trunk."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "An evergreen shrub with large clusters of pink to purple fragrant flowers, native to the Pacific Northwest. It prefers moist, acidic soils in forested areas.",
+      "bloomingSeason": "April to June",
+      "location": "Pacific Northwest, North America",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Rhododendron macrophyllum is the state flower of Washington state."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "A deciduous tree known for its stunning display of delicate, trumpet-shaped purple flowers appearing in spring to early summer, often lining streets and parks in warm climates.",
+      "bloomingSeason": "April to June (varies with location)",
+      "location": "Native to South America, widely planted in Australia, South Africa, and southern USA",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Jacaranda flowers carpet the ground when they fall, creating vivid purple carpets beneath the trees."
+    }
+  ]
+}

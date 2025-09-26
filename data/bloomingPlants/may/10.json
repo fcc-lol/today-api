@@ -1,0 +1,59 @@
+{
+  "date": "May 10",
+  "plants": [
+    {
+      "name": "Rhododendron spp.",
+      "commonName": "Rhododendron",
+      "description": "A genus of woody plants with large clusters of bell-shaped or funnel-shaped flowers, often found in temperate gardens and mountainous regions.",
+      "bloomingSeason": "April to June",
+      "location": "Northern Hemisphere temperate regions, including North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "purple",
+        "white",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons are important nectar sources for bees and many species are highly valued for their ornamental beauty."
+    },
+    {
+      "name": "Ipomoea pes-caprae",
+      "commonName": "Beach Morning Glory",
+      "description": "A fast-growing, sprawling vine with bright purple funnel-shaped flowers, commonly found on sandy beaches and coastal dunes.",
+      "bloomingSeason": "Year-round in tropical climates, peak blooming in spring to summer",
+      "location": "Tropical coastlines worldwide, including Florida, Australia, and Southeast Asia",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Beach Morning Glory helps stabilize sand dunes and prevent erosion thanks to its extensive root system."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A deciduous tree with striking bright red flowers shaped like a rooster's comb, popular in subtropical ornamental planting.",
+      "bloomingSeason": "Spring to early summer (September to November in Southern Hemisphere, April to June in Northern when cultivated)",
+      "location": "Native to South America; cultivated in warm subtropical gardens worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "The seeds of Erythrina crista-galli are toxic but have been used traditionally in some cultures for medicinal purposes."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A native wildflower with vibrant spikes of pea-like flowers, important for pollinators and native butterfly species.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern North America, especially in sandy soils and open woods",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Wild Lupine is the host plant for the endangered Karner Blue Butterfly, providing food for its larvae."
+    }
+  ]
+}

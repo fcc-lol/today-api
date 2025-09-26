@@ -1,0 +1,55 @@
+{
+  "date": "April 20",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous flowering cherry tree revered for its spectacular, fleeting clusters of fragrant pink to white blossoms that herald spring in temperate regions, especially in Japan and parts of the U.S.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, United States (Washington D.C., Pacific Northwest)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The bloom time of cherry blossoms is famously short, often just a week or two, marking the cultural phenomenon of 'Hanami' or flower viewing in Japan."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A native woodland wildflower with mottled, trout-like leaves and bright yellow nodding flowers, blooming early spring in deciduous forests in eastern North America.",
+      "bloomingSeason": "March to May",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Trout lilies reproduce both by seed and through underground bulbs, allowing them to form extensive colonies over time."
+    },
+    {
+      "name": "Magnolia liliiflora",
+      "commonName": "Mulan Magnolia",
+      "description": "A Chinese native deciduous magnolia with large, tulip-shaped magenta to purple flowers appearing early spring before the leaves fully unfurl.",
+      "bloomingSeason": "April to May",
+      "location": "China, cultivated worldwide in temperate gardens",
+      "colors": [
+        "purple",
+        "magenta"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the oldest flowering plant lineages, existing for over 95 million years."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree with cylindrical flower spikes made up of hundreds of tiny yellow flowers, blooming from late summer to winter but also sporadically in autumn and spring depending on the region.",
+      "bloomingSeason": "Varies by region; often including April",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers are an important nectar source for birds like honeyeaters in Australian ecosystems."
+    }
+  ]
+}

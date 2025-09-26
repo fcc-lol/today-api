@@ -1,0 +1,56 @@
+{
+  "date": "March 1",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "The Japanese Cherry Blossom is a famous ornamental tree known for its stunning clusters of pale pink to white blossoms. These flowers herald the arrival of spring and are culturally significant, especially in Japan, where cherry blossom festivals are celebrated.",
+      "bloomingSeason": "Late February to early April",
+      "location": "Temperate regions of Japan, Korea, and parts of the United States (Washington D.C.)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms bloom simultaneously over a short period, creating breathtaking landscapes that attract millions of visitors annually."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "Wild daffodils are spring-flowering bulbs with bright yellow, trumpet-shaped flowers. They commonly grow in meadows and open woods and are among the first flowers to bloom after winter, signaling the start of spring in many regions.",
+      "bloomingSeason": "February to April",
+      "location": "Western Europe, including the UK, and parts of North America",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils were once used medicinally to treat wounds and as a source of poison in ancient times."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "This evergreen tree native to eastern Australia produces cylindrical flower spikes composed of hundreds of tiny flowers. The blooms are a vital source of nectar for birds and insects during the Australian late summer and early autumn.",
+      "bloomingSeason": "January to March",
+      "location": "Coastal eastern Australia",
+      "colors": [
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "Banksia flowers are actually dense flower heads made up of hundreds of individual flowers."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "Helleborus niger is a perennial plant that often blooms in late winter to early spring, producing large, white, sometimes pink-tinged flowers. It is native to mountainous Europe and often found in shady woodland areas.",
+      "bloomingSeason": "December to March",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "❄️🌺",
+      "funFact": "Despite its name, the Christmas rose is not a true rose but a member of the buttercup family, Ranunculaceae."
+    }
+  ]
+}

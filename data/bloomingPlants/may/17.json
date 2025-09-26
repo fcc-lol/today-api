@@ -1,0 +1,58 @@
+{
+  "date": "May 17",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub native to southern Europe and southwest Asia, known for its large clusters of bell-shaped flowers that range from purple to pink hues. It thrives in temperate regions and is often found in woodland and heathland.",
+      "bloomingSeason": "April to June",
+      "location": "Europe (UK, Spain), Asia Minor",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The nectar of Rhododendron flowers contains grayanotoxins, which can be toxic to humans and animals if ingested."
+    },
+    {
+      "name": "Tibouchina urvilleana",
+      "commonName": "Princess Flower",
+      "description": "A tropical evergreen shrub native to Brazil with vibrant purple, velvety flowers and striking deep green leaves. Often grown in subtropical and warm temperate gardens worldwide.",
+      "bloomingSeason": "Spring to summer (April to August)",
+      "location": "Brazil, cultivated in subtropical regions worldwide",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Princess Flower attracts a variety of pollinators, including bees and butterflies, making it popular for garden biodiversity."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A North American native perennial wildflower with tall spikes adorned with pea-like flowers, typically in shades of blue, purple, or white. It grows well in sandy soils and open woods.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern USA and Canada",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wild Lupine is an important larval host plant for the endangered Karner Blue butterfly."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial native to North America, recognized by its large purple-pink daisy-like flowers with a spiny central cone. It is widely cultivated for its medicinal properties and attractiveness to pollinators.",
+      "bloomingSeason": "May to September",
+      "location": "Central and Eastern North America",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌻",
+      "funFact": "Echinacea is used traditionally to boost the immune system and is popular in herbal remedies."
+    }
+  ]
+}

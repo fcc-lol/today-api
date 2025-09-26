@@ -1,0 +1,56 @@
+{
+  "date": "May 26",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub native to parts of Southern Europe and Western Asia, noted for its clusters of bell-shaped flowers.",
+      "bloomingSeason": "April to June",
+      "location": "Southwestern Europe, Western Asia",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is known for its invasive characteristics in parts of the UK and Ireland, where it can dominate native ecosystems."
+    },
+    {
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "A species of lupine native to Texas, famous for its vibrant blue flowers forming dense fields in spring.",
+      "bloomingSeason": "March to May",
+      "location": "Southern United States, especially Texas",
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "emoji": "💙",
+      "funFact": "The bluebonnet is the state flower of Texas and is celebrated annually with bluebonnet festivals."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "A large evergreen tree known for its large, fragrant white flowers that bloom in late spring and early summer.",
+      "bloomingSeason": "May to June",
+      "location": "Southeastern United States",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and emit a strong lemony fragrance."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A deciduous tree native to South America, cherished for its bright red, coral-shaped flowers.",
+      "bloomingSeason": "Late spring to summer",
+      "location": "Argentina, Uruguay, Brazil",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The cockspur coral tree is the national flower of Argentina and Uruguay."
+    }
+  ]
+}

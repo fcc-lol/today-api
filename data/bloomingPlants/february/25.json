@@ -1,0 +1,58 @@
+{
+  "date": "February 25",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its large, fragrant white flowers that often appear in late winter, sometimes pushing through snow. It is native to the mountainous regions of Central and Southern Europe.",
+      "bloomingSeason": "December to March",
+      "location": "Europe (Alps and surrounding regions)",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️🌺",
+      "funFact": "Despite the common name, Christmas Rose often blooms in late winter and was historically prized for bringing color to gardens during cold months."
+    },
+    {
+      "name": "Crocus tommasinianus",
+      "commonName": "Early Crocus",
+      "description": "A small perennial bulb that naturalizes easily in lawns and woodlands. Its pale purple flowers are among the first crocuses to bloom, often signaling the approaching spring.",
+      "bloomingSeason": "February to March",
+      "location": "Europe (Balkan Peninsula) and cultivated worldwide",
+      "colors": [
+        "purple",
+        "white",
+        "yellow"
+      ],
+      "emoji": "💜🌸",
+      "funFact": "Early Crocus flowers close at night and reopen with the sunlight, an adaptation to protect pollen."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle or Mimosa",
+      "description": "A fast-growing evergreen tree or shrub with silvery foliage and bright yellow, fragrant, fluffy flower clusters. It thrives in Mediterranean climates and is often appreciated for winter and early spring blooms.",
+      "bloomingSeason": "January to March",
+      "location": "Australia; cultivated in Mediterranean climates worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌿💛",
+      "funFact": "Silver Wattle's bright yellow flowers were traditionally used in Europe to celebrate International Women's Day on March 8."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous tree with large, tulip-shaped flowers in shades of white, pink, and purple. It blooms early in spring, often before leaf-out, creating a spectacular floral display.",
+      "bloomingSeason": "February to April",
+      "location": "Cultivated widely in temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸🌷",
+      "funFact": "Saucer Magnolia was developed in France in the early 19th century and is one of the most popular magnolias in temperate gardens."
+    }
+  ]
+}

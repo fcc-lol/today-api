@@ -1,0 +1,33 @@
+{
+  "date": "July 18",
+  "events": [
+    {
+      "year": 64,
+      "title": "Great Fire of Rome begins",
+      "description": "A major fire breaks out in Rome, which lasts for six days and causes widespread destruction across the city.",
+      "category": "Disaster",
+      "significance": "The fire leads to significant rebuilding efforts under Emperor Nero and has long-lasting impacts on Roman urban planning and architecture."
+    },
+    {
+      "year": 1925,
+      "title": "Scopes Trial begins",
+      "description": "The trial of John T. Scopes starts in Dayton, Tennessee, for teaching evolution in a public school, challenging the Butler Act prohibiting such teachings.",
+      "category": "Legal/Science",
+      "significance": "The trial becomes a landmark case in the debate between science and religion in education and highlights issues of academic freedom."
+    },
+    {
+      "year": 1947,
+      "title": "Roswell UFO incident occurs",
+      "description": "An unidentified flying object reportedly crashes near Roswell, New Mexico, sparking conspiracy theories and government cover-up allegations.",
+      "category": "Science/Conspiracy",
+      "significance": "The incident fuels UFO lore and remains a popular subject in discussions on extraterrestrial life and government secrecy."
+    },
+    {
+      "year": 1994,
+      "title": "Comet Shoemaker-Levy 9 impacts Jupiter",
+      "description": "Fragments of the comet Shoemaker-Levy 9 collide with Jupiter, observed by telescopes worldwide, marking the first direct observation of extraterrestrial collisions.",
+      "category": "Science/Astronomy",
+      "significance": "The event provides valuable data on planetary impacts and Jupiter's atmosphere, advancing understanding of cometary dynamics."
+    }
+  ]
+}

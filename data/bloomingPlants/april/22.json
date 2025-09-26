@@ -1,0 +1,59 @@
+{
+  "date": "April 22",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Pontic Rhododendron",
+      "description": "An evergreen shrub known for its large clusters of fragrant, tubular flowers. It thrives in temperate climates and is often found in woodland edges and heathlands.",
+      "bloomingSeason": "March to May",
+      "location": "Western Europe, particularly mild Atlantic climates",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum can be invasive outside its native range, especially in parts of the UK and Ireland."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree famous for its large, tulip-shaped flowers that appear before the leaves, heralding spring's arrival in many temperate gardens.",
+      "bloomingSeason": "Early to late April",
+      "location": "Cultivated widely in temperate regions including North America, Europe, and parts of Asia",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Saucer Magnolia was created by crossing Magnolia denudata and Magnolia liliiflora in the early 19th century."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A striking tropical tree with vivid red, spiky flowers attracting hummingbirds and pollinators. It grows well in subtropical and tropical climates.",
+      "bloomingSeason": "Spring to early summer (September to April in Southern Hemisphere, including April)",
+      "location": "Native to South America, blooming in Southern Hemisphere spring regions",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina crista-galli is Argentina's national flower, symbolizing resilience and beauty."
+    },
+    {
+      "name": "Anemone nemorosa",
+      "commonName": "Wood Anemone",
+      "description": "A delicate spring wildflower of deciduous woodlands, producing star-shaped blooms that carpet forest floors in early spring.",
+      "bloomingSeason": "March to May",
+      "location": "Temperate regions of Europe and Asia",
+      "colors": [
+        "white",
+        "pale pink",
+        "blue"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wood Anemones spread primarily through underground rhizomes, allowing for large colonies to form."
+    }
+  ]
+}

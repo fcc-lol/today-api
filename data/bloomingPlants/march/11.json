@@ -1,0 +1,57 @@
+{
+  "date": "March 11",
+  "plants": [
+    {
+      "name": "Crocus sativus",
+      "commonName": "Saffron Crocus",
+      "description": "A small, perennial flowering plant known for its vibrant purple flowers and the valuable saffron spice obtained from its stigmas. It blooms early in the spring.",
+      "bloomingSeason": "Late February to April",
+      "location": "Mediterranean region, Southwest Asia, cultivated worldwide",
+      "colors": [
+        "purple",
+        "violet"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saffron crocus flowers are harvested by hand to extract stigmas, making saffron the world's most expensive spice by weight."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial known for its white or pink-tinged flowers that bloom in late winter to early spring, often before other plants start to flower.",
+      "bloomingSeason": "December to March, sometimes into April",
+      "location": "Europe, especially mountainous regions like the Alps",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, the Christmas rose typically blooms around Christmas but can bloom well into March, symbolizing hope in winter."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous tree admired for its large, tulip-shaped flowers that open before the leaves, marking early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Native to China but widely cultivated in temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolia flowers evolved before bees, so they are often pollinated by beetles, some of the oldest insect pollinators."
+    },
+    {
+      "name": "Prunus persica",
+      "commonName": "Peach Blossom",
+      "description": "The flowers of the peach tree are pink and bloom on bare or budding branches, heralding the arrival of spring and fruiting season.",
+      "bloomingSeason": "March to April",
+      "location": "East Asia originally; widely cultivated in temperate regions globally",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "In East Asian culture, peach blossoms are symbols of longevity, prosperity, and romance, especially around the Lunar New Year."
+    }
+  ]
+}

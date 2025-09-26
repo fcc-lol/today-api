@@ -1,0 +1,56 @@
+{
+  "date": "May 8",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Rhododendron",
+      "description": "A large, evergreen shrub producing dense clusters of bell-shaped flowers, often in shades of purple, pink, or white. It thrives in temperate regions and is popular in gardens and parks.",
+      "bloomingSeason": "April to June",
+      "location": "Native to southern Europe and southwest Asia; commonly found in the UK and parts of North America.",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendrons can be toxic to humans and animals due to grayanotoxins present in their nectar and leaves."
+    },
+    {
+      "name": "Acer palmatum",
+      "commonName": "Japanese Maple",
+      "description": "While primarily known for their stunning foliage, certain cultivars of Japanese Maple produce small reddish flowers in spring. These blooms are subtle but mark the tree's emerging leaves.",
+      "bloomingSeason": "April to May",
+      "location": "Native to Japan, Korea, and China; widely cultivated worldwide.",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🍁",
+      "funFact": "Japanese Maples are highly prized for their delicate leaf shapes and brilliant fall color, but their spring flowers are often overlooked."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "This deciduous tree produces large white or pink bracts surrounding small inconspicuous flowers, creating a showy floral display in spring.",
+      "bloomingSeason": "April to May",
+      "location": "Native to eastern North America",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Flowering Dogwood bracts, often mistaken for petals, serve to attract pollinators to the small central flowers."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A spring ephemeral wildflower with striking yellow, nodding flowers and mottled leaves resembling trout patterns. It grows in deciduous forests.",
+      "bloomingSeason": "April to May",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Yellow Trout Lilies spread primarily through underground rhizomes, forming large clonal colonies in woodland floors."
+    }
+  ]
+}

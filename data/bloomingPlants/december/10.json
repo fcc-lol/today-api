@@ -1,0 +1,59 @@
+{
+  "date": "December 10",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub widely cultivated in subtropical and Mediterranean climates. It produces clusters of fragrant, trumpet-shaped flowers that range from white to pink and red hues. Oleanders bloom from spring through fall and often into winter in warm climates.",
+      "bloomingSeason": "May to December",
+      "location": "Mediterranean region, Southern United States, parts of Australia",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its beautiful flowers, oleander is highly toxic if ingested by humans or animals."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "This evergreen shrub is cherished for its large, rose-like flowers and glossy dark green leaves. Japanese Camellias bloom in the cooler months, often starting in late autumn and continuing through winter, providing color when few other plants do.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, Southern United States, New Zealand",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were the inspiration for the famous Chanel No. 5 perfume bottle design."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "Helleborus niger is a perennial wildflower native to Europe, known for its white to pale pink flowers that bloom in mid-winter. It often flowers around Christmas, even pushing through snow, and is popular in winter gardens.",
+      "bloomingSeason": "December to February",
+      "location": "European mountainous regions, cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "The Christmas Rose was historically believed to have magical healing powers and was a symbol of hope during winter."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "Manuka is a New Zealand native shrub with small white or pink flowers blooming from late spring to early winter. In some regions, it continues blooming into early December. It is famous for being the source of Manuka honey.",
+      "bloomingSeason": "September to December",
+      "location": "New Zealand, southeastern Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🍯🌸",
+      "funFact": "Manuka honey has unique antibacterial properties due to compounds found in the plant's nectar."
+    }
+  ]
+}

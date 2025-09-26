@@ -1,0 +1,59 @@
+{
+  "date": "August 25",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun's movement across the sky. Native to North America, it is widely cultivated for its seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "North America, Europe, cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism when young, turning to face the sun throughout the day before their heads become fixed facing east."
+    },
+    {
+      "name": "Lilium lancifolium",
+      "commonName": "Tiger Lily",
+      "description": "A striking perennial lily species with bright orange flowers spotted with dark maroon, known for its hardiness and vibrant appearance.",
+      "bloomingSeason": "July to August",
+      "location": "East Asia (native), also cultivated worldwide",
+      "colors": [
+        "Orange",
+        "Black spots"
+      ],
+      "emoji": "🌺",
+      "funFact": "Tiger lilies have bulbils in their leaf axils, which can fall to the ground and sprout new plants, aiding in their spread."
+    },
+    {
+      "name": "Agapanthus africanus",
+      "commonName": "African Lily or Lily of the Nile",
+      "description": "An evergreen perennial plant with clusters of funnel-shaped blue or white flowers, native to South Africa and popular in ornamental gardening.",
+      "bloomingSeason": "Late summer (August to October)",
+      "location": "South Africa, cultivated in temperate regions",
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Agapanthus flowers are believed to be a symbol of love and are often used in wedding bouquets."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Delphinium",
+      "description": "Tall, showy perennial plants producing spiked flowers in various shades of blue, purple, pink, or white. Native to the Northern Hemisphere.",
+      "bloomingSeason": "July to August",
+      "location": "Europe, Asia, North America",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Delphiniums have a unique flower structure with a spur at the back, which is a nectar reservoir accessible only to long-tongued pollinators."
+    }
+  ]
+}

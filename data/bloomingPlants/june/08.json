@@ -1,0 +1,65 @@
+{
+  "date": "June 8",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China, widely cultivated and appreciated for its continuous blooming habit and variety of colors.",
+      "bloomingSeason": "Year-round in warm climates; especially prolific from spring to late fall",
+      "location": "Cultivated worldwide, native to China, blooms year-round in subtropical to tropical regions",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose was key in developing many modern rose cultivars and is one of the few roses that bloom continuously throughout the year in frost-free areas."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A wildflower native to Eastern North America, known for its tall spikes of pea-like flowers and its role as a food source for the endangered Karner blue butterfly.",
+      "bloomingSeason": "Late spring to early summer, typically May to June",
+      "location": "Eastern USA and Canada, blooming naturally in dry, sandy soils",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild Lupine enriches the soil by fixing nitrogen and supports rare butterfly species."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub with large, showy flowers that bloom throughout the year in tropical and subtropical regions, symbolizing delicate beauty.",
+      "bloomingSeason": "Year-round in tropical climates; especially abundant in spring and summer",
+      "location": "Tropical and subtropical regions worldwide; native to East Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "The hibiscus flower is the national flower of several countries, including Malaysia and South Korea."
+    },
+    {
+      "name": "Anemone coronaria",
+      "commonName": "Poppy Anemone",
+      "description": "A perennial wildflower with distinctive cup-shaped flowers, native to the Mediterranean region, blooming in late spring to early summer.",
+      "bloomingSeason": "April to June",
+      "location": "Mediterranean basin, often found in fields and rocky soils",
+      "colors": [
+        "red",
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "These flowers inspired the red poppy symbol for remembrance but belong to a different genus."
+    }
+  ]
+}

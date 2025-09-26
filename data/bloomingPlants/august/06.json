@@ -1,0 +1,55 @@
+{
+  "date": "August 6",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that track the sun. They thrive in temperate regions and are commonly cultivated for seeds and oil.",
+      "bloomingSeason": "Summer (July to September)",
+      "location": "Native to North America; widely cultivated globally",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day to maximize photosynthesis."
+    },
+    {
+      "name": "Rosa gallica",
+      "commonName": "Gallic Rose",
+      "description": "A species of rose native to Europe, Gallic roses bear fragrant pink to deep red flowers and are often used in perfumery and traditional medicine.",
+      "bloomingSeason": "Summer (June to August)",
+      "location": "Europe, especially southern and central parts",
+      "colors": [
+        "Pink",
+        "Red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Gallic rose was historically used to produce rosewater and is one of the earliest cultivated roses in Europe."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A perennial wildflower native to North America, known for striking bright red tubular flowers that attract hummingbirds.",
+      "bloomingSeason": "Summer to Early Fall (July to September)",
+      "location": "Eastern and Central North America (wetlands and riverbanks)",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🧡",
+      "funFact": "The vivid red flowers of cardinal flower are specifically adapted to attract hummingbirds, which are key pollinators."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The King Protea is South Africa's national flower, featuring large, dramatic flower heads resembling artichokes with spiky pink and white petals.",
+      "bloomingSeason": "Late Winter to Early Spring in Southern Hemisphere (July to September)",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas have ancient lineage dating back 300 million years, with unique flower structures adapted to fire-prone habitats."
+    }
+  ]
+}

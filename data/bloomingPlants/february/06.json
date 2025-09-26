@@ -1,0 +1,54 @@
+{
+  "date": "February 6",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub or small tree native to eastern North America, witch hazel produces fragrant, ribbon-like yellow flowers with a slight spicy scent. It blooms in late fall to winter, often brightening up the landscape in colder months.",
+      "bloomingSeason": "October to February",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel extract is popularly used for medicinal and cosmetic purposes, especially as an astringent for skin."
+    },
+    {
+      "name": "Crocus sativus",
+      "commonName": "Saffron Crocus",
+      "description": "A fall-planted bulbous perennial that flowers in late winter, the saffron crocus produces delicate purple flowers with vivid red stigmas, which are harvested to produce saffron spice.",
+      "bloomingSeason": "January to March",
+      "location": "Mediterranean region",
+      "colors": [
+        "purple",
+        "red"
+      ],
+      "emoji": "💜",
+      "funFact": "The saffron crocus’s stigmas are the world’s most expensive spice by weight."
+    },
+    {
+      "name": "Prunus persica",
+      "commonName": "Peach Blossom",
+      "description": "A fruit tree native to China, peach trees bloom with beautiful pink flowers in late winter to early spring. These blossoms herald the coming of spring in many temperate regions, often appearing as early as February in warm climates.",
+      "bloomingSeason": "February to April",
+      "location": "China, temperate regions worldwide",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peach blossoms are often celebrated culturally in East Asia as symbols of longevity and romance."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle / Mimosa",
+      "description": "An evergreen tree native to southeastern Australia, silver wattle bears bright yellow, fragrant, ball-shaped flowers in late winter and early spring. It is widely cultivated as an ornamental and used to signal the end of winter in many places.",
+      "bloomingSeason": "January to March",
+      "location": "Australia, also cultivated worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "In Australia, the blooming of silver wattle is celebrated as Wattle Day on September 1st, marking the beginning of spring."
+    }
+  ]
+}

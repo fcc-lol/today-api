@@ -1,0 +1,60 @@
+{
+  "date": "May 31",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Pontic Rhododendron",
+      "description": "An evergreen shrub native to southern Europe and Asia, featuring large clusters of vibrant, trumpet-shaped flowers. It thrives in woodland and mountainous areas and is prized for its showy spring blooms.",
+      "bloomingSeason": "April to June",
+      "location": "Europe, Western Asia",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is the ancestral species from which many garden rhododendrons were bred."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia’s national floral emblem, this small tree or shrub produces beautiful fluffy golden-yellow flower clusters, bringing brightness to Australian landscapes in late spring.",
+      "bloomingSeason": "May to September",
+      "location": "Southeastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The golden wattle’s vivid yellow flowers symbolize unity and resilience in Australia."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A hardy perennial wildflower native to western North America, known for its tall spikes packed with colorful pea-like flowers. It flourishes in meadows and along roadsides in late spring and early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Western North America",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Lupines improve soil fertility by fixing nitrogen, benefiting neighboring plants."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A popular hybrid magnolia cultivated worldwide for its large, showy flowers with a unique cup shape. It blooms spectacularly in late spring, heralding the end of the season.",
+      "bloomingSeason": "April to May",
+      "location": "Cultivated worldwide in temperate regions",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the oldest flowering plants, dating back over 95 million years."
+    }
+  ]
+}

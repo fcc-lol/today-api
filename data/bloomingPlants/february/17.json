@@ -1,0 +1,57 @@
+{
+  "date": "February 17",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial flowering plant known for its early spring blooms that often emerge through the snow. It features cup-shaped flowers with bright colors.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions of Europe and Western Asia",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocus flowers are some of the first signs of spring, sometimes blooming as early as February, and they're related to the saffron crocus used as a spice."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub celebrated for its large, showy flowers that bloom in late winter to early spring. Its lush foliage and striking blooms are popular in gardens.",
+      "bloomingSeason": "December to April",
+      "location": "East Asia (Japan, China, Korea) and cultivated worldwide in mild climates",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were introduced to Europe in the 18th century and have since become beloved ornamental plants, symbolizing admiration and perfection."
+    },
+    {
+      "name": "Mahonia aquifolium",
+      "commonName": "Oregon Grape",
+      "description": "A hardy evergreen shrub with holly-like leaves and clusters of bright yellow flowers appearing in late winter, followed by blue-black berries.",
+      "bloomingSeason": "February to April",
+      "location": "Pacific Northwest, North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Oregon grape is the state flower of Oregon and its berries are edible, often used to make jelly."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical plant famous for its delicate pink spherical flowers and leaves that fold inward when touched or shaken.",
+      "bloomingSeason": "December to March in tropical climates",
+      "location": "Native to South America, grown in tropical and subtropical regions worldwide",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🎋",
+      "funFact": "Its rapid leaf movement is a defense mechanism to deter herbivores and minimize damage from environmental stress."
+    }
+  ]
+}

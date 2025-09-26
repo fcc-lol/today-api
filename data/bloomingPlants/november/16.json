@@ -1,0 +1,62 @@
+{
+  "date": "November 16",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular autumn-blooming perennials known for their diverse flower forms and vibrant colors. They are widely cultivated in gardens and used as cut flowers.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, widely cultivated in East Asia, Europe, and North America",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are symbols of autumn in Japan and are celebrated during the annual Festival of Happiness."
+    },
+    {
+      "name": "Bougainvillea glabra",
+      "commonName": "Bougainvillea",
+      "description": "A tropical vine prized for its brilliant, papery bracts which surround the small white flowers. It thrives in subtropical and tropical climates, blooming year-round with peaks.",
+      "bloomingSeason": "Year-round with peaks in spring and fall",
+      "location": "Tropical and subtropical regions including South America, Southern USA, Southeast Asia",
+      "colors": [
+        "magenta",
+        "purple",
+        "red",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Bougainvillea bracts are often mistaken for petals; true flowers are small and white."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree known for its distinctive cylindrical flower spikes that attract nectar-feeding birds and insects.",
+      "bloomingSeason": "October to December",
+      "location": "Coastal regions of eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are important food sources for honeyeaters and are adapted to survive frequent Australian bushfires."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy leaves and beautiful, rose-like flowers that bloom in late autumn to winter.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (native), widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia japonica was the first camellia species introduced to Europe and is prized for its ornamental value."
+    }
+  ]
+}

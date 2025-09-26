@@ -1,0 +1,54 @@
+{
+  "date": "March 2",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its beautiful and abundant pink to white flowers that create spectacular spring displays.",
+      "bloomingSeason": "Late February to April",
+      "location": "Japan, East Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms have significant cultural importance in Japan, symbolizing the transient nature of life."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial bulbous plant producing bright yellow trumpet-shaped flowers often seen in woodlands and meadows.",
+      "bloomingSeason": "February to April",
+      "location": "Western Europe, Mediterranean",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils are often naturalized in woodland areas and are considered a sign of early spring."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An evergreen tree or shrub with cylindrical golden flower spikes that attract nectar-feeding birds and insects.",
+      "bloomingSeason": "Year-round, peak in late winter to early spring",
+      "location": "Eastern Australia",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias evolved unique flower spikes that provide abundant nectar, supporting local ecosystems."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A creeping annual or perennial herb known for its fern-like leaves that close when touched and bright pink spherical flowers.",
+      "bloomingSeason": "March to October in tropical regions",
+      "location": "South and Central America, widely cultivated in tropics",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Its rapid leaf folding is a defense mechanism to reduce damage from herbivores."
+    }
+  ]
+}

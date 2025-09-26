@@ -1,0 +1,59 @@
+{
+  "date": "January 23",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A hardy evergreen shrub known for its beautiful, large flowers that bloom in late winter to early spring. It thrives in temperate regions and is often cultivated in gardens for its ornamental value.",
+      "bloomingSeason": "December to April",
+      "location": "East Asia, commonly cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were the inspiration for the naming of the tea plant genus Camellia sinensis."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub or small tree found in Mediterranean regions that blooms profusely even in winter mild climates, producing clusters of fragrant flowers.",
+      "bloomingSeason": "May to November, but in mild climates can bloom almost year-round including January",
+      "location": "Mediterranean, subtropical regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "All parts of the Oleander plant are extremely poisonous if ingested."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant that blooms in the cold winter months, often around Christmas but can continue blooming into January. It is famous for flowering amid snow and frost.",
+      "bloomingSeason": "December to January",
+      "location": "Alpine regions of Europe",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite the name, the Christmas Rose is not a true rose; its scientific family is Ranunculaceae."
+    },
+    {
+      "name": "Acacia baileyana",
+      "commonName": "Cootamundra Wattle",
+      "description": "A fast-growing Australian native tree known for its bright yellow, fluffy flower heads that bloom in late winter, symbolizing the coming spring.",
+      "bloomingSeason": "July to January",
+      "location": "Australia, also cultivated in Mediterranean and subtropical climates",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wattles are an important source of pollen for native bees in Australia."
+    }
+  ]
+}

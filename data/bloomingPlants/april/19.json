@@ -1,0 +1,59 @@
+{
+  "date": "April 19",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub known for its large clusters of purple to pink trumpet-shaped flowers. It is widely found in temperate regions and often blooms in early to mid-spring.",
+      "bloomingSeason": "March to May",
+      "location": "Temperate regions of Europe and western Asia",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons are important nectar sources for bees and butterflies in spring."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree or large shrub with spectacular large, cup-shaped flowers that appear before the leaves in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions worldwide, commonly cultivated in gardens",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolia flowers predate bees; they evolved to be pollinated by beetles."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A native Australian tree or large shrub producing large cylindrical yellow flower spikes, known for attracting birds and mammals.",
+      "bloomingSeason": "April to August (autumn and winter in Australia)",
+      "location": "Coastal eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia flowers produce abundant nectar that supports a variety of wildlife."
+    },
+    {
+      "name": "Ipomoea purpurea",
+      "commonName": "Common Morning Glory",
+      "description": "A fast-growing vine producing trumpet-shaped flowers with vibrant colors, opening in the morning and closing by afternoon.",
+      "bloomingSeason": "April to September (warm climates)",
+      "location": "Tropical and subtropical regions worldwide, often cultivated",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Morning glories are known for their rapid growth and twining habit, often covering fences and trellises."
+    }
+  ]
+}

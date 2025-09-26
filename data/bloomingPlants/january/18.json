@@ -1,0 +1,58 @@
+{
+  "date": "January 18",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial known for its early spring blossoms, often poking through late winter snow, signaling the start of spring in temperate regions.",
+      "bloomingSeason": "January to March",
+      "location": "Native to Europe; cultivated in temperate gardens worldwide",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses can bloom through snow, warming the air around their flowers to melt the frost early."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub prized for its large, elegant flowers that bloom in the cooler months, providing vivid color in winter gardens.",
+      "bloomingSeason": "December to March",
+      "location": "Native to Japan, Korea, China; widely cultivated in mild climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, even though he never studied this plant."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical plant noted for its small, fluffy pink flower heads and its rapid leaf-folding movement when touched.",
+      "bloomingSeason": "Year-round in frost-free climates; often blooms in January in tropical areas",
+      "location": "Native to Central and South America; naturalized in tropical regions worldwide",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its leaflets fold inward and droop when touched, possibly as a defense mechanism against predators."
+    },
+    {
+      "name": "Banksia marginata",
+      "commonName": "Silver Banksia",
+      "description": "A shrub or small tree producing cylindrical flower spikes rich in nectar, important for native birds and mammals in Australia.",
+      "bloomingSeason": "December to February",
+      "location": "Australia, especially southern regions",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers open sequentially from the bottom up, which helps pollinators feed efficiently."
+    }
+  ]
+}

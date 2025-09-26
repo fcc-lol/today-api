@@ -1,0 +1,59 @@
+{
+  "date": "November 4",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A popular autumn-blooming flowering plant widely cultivated for its bright, pompom-like flowers. Chrysanthemums display a variety of colors, including yellow, red, orange, and white, and are often associated with fall gardens and floral arrangements worldwide.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (cultivated)",
+      "colors": [
+        "yellow",
+        "red",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are symbols of happiness and longevity in many cultures, and they were originally native to East Asia."
+    },
+    {
+      "name": "Plumeria rubra",
+      "commonName": "Frangipani",
+      "description": "A tropical tree known for its fragrant, waxy flowers that often bloom year-round in warmer climates but exhibit abundant blooming in late fall in subtropical areas. The flowers are used to make leis in Hawaii and are admired for their beautiful, pinwheel shape.",
+      "bloomingSeason": "Spring to late fall (peak bloom often extends into November)",
+      "location": "Tropical and subtropical regions including Hawaii, Central America, and South Asia",
+      "colors": [
+        "white",
+        "yellow",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Frangipani flowers, though beautiful and fragrant, are mildly toxic if ingested."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "An evergreen tree producing large, creamy white, fragrant blossoms that often bloom sporadically into the late fall. Well known in the southeastern United States, this tree’s blooms can be stunning against its glossy dark green leaves.",
+      "bloomingSeason": "Late spring to late fall (including sporadic blooms in November)",
+      "location": "Southeastern United States",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter, one of the largest flowers in North America."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree that blooms with showy orange flowers that resemble small spider webs or toothbrushes. It typically blooms in spring through late fall, often still flowering in November in its native and cultivated ranges.",
+      "bloomingSeason": "Spring to late fall",
+      "location": "Australia and cultivated in subtropical to warm temperate zones",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "The Silky Oak’s wood is prized for furniture making and has a beautiful grain pattern."
+    }
+  ]
+}

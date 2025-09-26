@@ -1,0 +1,56 @@
+{
+  "date": "June 7",
+  "plants": [
+    {
+      "name": "Rosa × centifolia",
+      "commonName": "Cabbage Rose",
+      "description": "A cultivated hybrid rose known for its large, fragrant pink flowers that bloom abundantly in early summer. Often used in perfumery and garden landscaping.",
+      "bloomingSeason": "May to June",
+      "location": "Temperate regions worldwide, especially Europe and North America",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "The Cabbage Rose has hundreds of petals per flower, making it one of the most layered roses, and was historically used to produce rose oil for perfumes."
+    },
+    {
+      "name": "Lilium lancifolium",
+      "commonName": "Tiger Lily",
+      "description": "A striking wild lily with orange petals adorned with dark spots, blooming in early summer. It grows in various habitats including meadows and woodlands.",
+      "bloomingSeason": "June to August",
+      "location": "East Asia (native), also naturalized in North America",
+      "colors": [
+        "orange",
+        "black spots"
+      ],
+      "emoji": "🌺",
+      "funFact": "Tiger Lilies are notable for their bright orange color and lack of fragrance, which attracts specific pollinators like butterflies."
+    },
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "A tall biennial wildflower with tubular purple to pink flowers spotted on the inside. It blooms profusely in late spring and early summer in woodlands and disturbed areas.",
+      "bloomingSeason": "May to June",
+      "location": "Europe, western Asia, and naturalized in North America",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Foxglove contains digitalis compounds used in heart medicines, but the plant itself is toxic if ingested."
+    },
+    {
+      "name": "Eucalyptus globulus",
+      "commonName": "Tasmanian Blue Gum",
+      "description": "A fast-growing evergreen tree with pale blue-green leaves and globular clusters of white flowers. It blooms primarily in late spring to early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Native to southeastern Australia, widely cultivated in Mediterranean climates",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌳",
+      "funFact": "Its flowers have no petals; the showy white flower clusters are composed of numerous stamens, which attract pollinators such as bees and birds."
+    }
+  ]
+}

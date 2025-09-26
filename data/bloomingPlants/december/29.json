@@ -1,0 +1,59 @@
+{
+  "date": "December 29",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern Asia, known for its beautiful, large, rose-like flowers. It blooms in cooler months and is prized in gardens for its winter and early spring flowers.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated worldwide in mild temperate zones",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were one of the favorite flowers of Queen Victoria and symbolize admiration and perfection."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant native to mountainous regions of Europe, noted for its white flowers that bloom in winter, often appearing around Christmas time.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Alps, Carpathians)",
+      "colors": [
+        "white",
+        "sometimes pinkish"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a rose but named for the rose-like shape of its flowers."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A cold-tolerant eucalyptus tree native to alpine regions of southeastern Australia, known to flower during the austral summer months including December, with clusters of white flowers attracting many pollinators.",
+      "bloomingSeason": "December to February",
+      "location": "Alpine Australia",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌳❄️",
+      "funFact": "Snow Gums withstand heavy snow and icy conditions where few other trees thrive."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub found in Mediterranean climates, Oleander blooms profusely in mild winter climates, including December in subtropical zones, producing clusters of fragrant tubular flowers.",
+      "bloomingSeason": "May to December (extended blooming in warm areas)",
+      "location": "Mediterranean basin, subtropical regions worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is extremely toxic if ingested but has been used historically in traditional medicine with care."
+    }
+  ]
+}

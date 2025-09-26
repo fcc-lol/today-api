@@ -1,0 +1,60 @@
+{
+  "date": "September 26",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy North American wildflower known for its bright yellow petals surrounding a dark brown central cone. Prefers open fields and attracts pollinators like bees and butterflies.",
+      "bloomingSeason": "June to October",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susans are often used as symbols of encouragement and motivation."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree bearing large, showy flowers. It blooms in early autumn in many temperate regions, prized in gardens for its glossy leaves and elegant flowers.",
+      "bloomingSeason": "September to December",
+      "location": "East Asia and cultivated worldwide in temperate climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree producing dense flower spikes with bright yellow, bottlebrush-like blossoms. Blooms in late winter to spring but can flower sporadically year-round in mild climates.",
+      "bloomingSeason": "May to October (can flower anytime)",
+      "location": "Coastal eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are important nectar sources for many native birds and mammals."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Mum",
+      "description": "A popular ornamental plant widely cultivated for its abundant, colorful flowers. Blooms often peak in early autumn, making it a traditional symbol of the season.",
+      "bloomingSeason": "September to November",
+      "location": "Cultivated worldwide, originally East Asia",
+      "colors": [
+        "white",
+        "yellow",
+        "red",
+        "purple",
+        "pink"
+      ],
+      "emoji": "💐",
+      "funFact": "Chrysanthemums are used in teas and traditional medicines in Asia."
+    }
+  ]
+}

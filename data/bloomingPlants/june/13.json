@@ -1,0 +1,60 @@
+{
+  "date": "June 13",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are widely cultivated flowering shrubs known for their large, fragrant blooms and thorny stems. They bloom prolifically in late spring through summer in temperate zones.",
+      "bloomingSeason": "May to July",
+      "location": "Northern Hemisphere temperate gardens, including North America, Europe, and parts of Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty in many cultures."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "Bigleaf lupines produce tall spikes covered in dense clusters of pea-like flowers. They are commonly found in wild meadows and garden settings, attracting pollinators.",
+      "bloomingSeason": "Late spring to mid-summer (May to July)",
+      "location": "Western North America, especially in the Pacific Northwest",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Lupines enrich the soil by fixing nitrogen via bacteria in their root nodules, improving soil fertility."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "Coast Banksia is a coastal Australian tree that produces cylindrical flower spikes composed of many tiny flowers, blooming profusely during early winter into late spring and sometimes into early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Coastal Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are important for native wildlife as their flowers provide nectar for birds and insects."
+    },
+    {
+      "name": "Nymphaea odorata",
+      "commonName": "American White Water Lily",
+      "description": "This aquatic plant features large, fragrant white flowers that float on the surface of ponds and lakes, blooming in warm months.",
+      "bloomingSeason": "June to August",
+      "location": "Freshwater bodies across much of North America",
+      "colors": [
+        "white"
+      ],
+      "emoji": "💧",
+      "funFact": "Water lilies have stomata only on the upper surface of their leaves to facilitate gas exchange while floating."
+    }
+  ]
+}

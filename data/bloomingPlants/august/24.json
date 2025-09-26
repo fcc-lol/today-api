@@ -1,0 +1,59 @@
+{
+  "date": "August 24",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall, iconic annual plant known for its large, bright yellow flower heads that follow the sun's path across the sky. Sunflowers are widely cultivated for their seeds and oil and provide food and habitat for many pollinators.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions worldwide, especially North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism during early growth stages, turning their heads to track the sun from east to west daily."
+    },
+    {
+      "name": "Rosa rugosa",
+      "commonName": "Rugosa Rose",
+      "description": "A hardy, fragrant shrub rose native to eastern Asia, often found in coastal areas. It produces large, fragrant pink or white blooms and bright red rose hips that persist into autumn.",
+      "bloomingSeason": "June to September",
+      "location": "Temperate coastal areas in East Asia, Europe, and North America (naturalized)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rosa rugosa's rose hips are rich in vitamin C and have long been used in traditional medicine and teas."
+    },
+    {
+      "name": "Lilium pardalinum",
+      "commonName": "Leopard Lily",
+      "description": "A striking wild lily with orange-red flowers spotted with darker markings resembling a leopard's spots. It grows in moist woodlands and stream banks in western North America.",
+      "bloomingSeason": "July to August",
+      "location": "Pacific Coast, Western North America",
+      "colors": [
+        "Orange",
+        "Red",
+        "Brown spots"
+      ],
+      "emoji": "🌺",
+      "funFact": "Its spotted flowers attract hummingbirds and other pollinators native to its habitat."
+    },
+    {
+      "name": "Kniphofia uvaria",
+      "commonName": "Red Hot Poker",
+      "description": "A perennial plant with tall spikes of tubular flowers ranging in color from red to yellow, resembling a glowing poker. It thrives in subtropical and temperate climates and is popular in gardens worldwide.",
+      "bloomingSeason": "June to September",
+      "location": "Native to South Africa; cultivated widely in temperate regions",
+      "colors": [
+        "Red",
+        "Orange",
+        "Yellow"
+      ],
+      "emoji": "🔥",
+      "funFact": "The nectar-rich flowers are a favorite of sunbirds and hummingbirds, acting as a food source during late summer."
+    }
+  ]
+}

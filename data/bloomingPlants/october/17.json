@@ -1,0 +1,62 @@
+{
+  "date": "October 17",
+  "plants": [
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "A popular garden flower known for its bright, bushy blossoms. Chrysanthemums are classic autumn bloomers in temperate regions, symbolizing longevity and joy.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate Northern Hemisphere (Europe, North America, East Asia)",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums were first cultivated in ancient China over 2,500 years ago and are now the official flower of several countries including Japan."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub that produces large, showy, rose-like flowers in mid to late autumn. Often grown in gardens for its elegant blooms during the cooler months.",
+      "bloomingSeason": "October to April",
+      "location": "East Asia (China, Japan, Korea) and cultivated in subtropical gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, though he never actually described the plant."
+    },
+    {
+      "name": "Poinsettia (Euphorbia pulcherrima)",
+      "commonName": "Poinsettia",
+      "description": "Renowned for its brilliant red and green foliage, poinsettias begin their display in autumn and are widely associated with holiday decorations.",
+      "bloomingSeason": "October to February",
+      "location": "Native to Mexico and Central America; widely cultivated in greenhouses worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "The bright red parts of poinsettias are actually bracts (modified leaves), not petals."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing Australian native tree which produces bright orange, spider-like flowers that attract birds and pollinators, typically blooming in spring and autumn.",
+      "bloomingSeason": "September to November",
+      "location": "Eastern Australia and cultivated in warm temperate to subtropical regions worldwide",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌳",
+      "funFact": "Despite the name 'oak', Grevillea robusta is not related to true oaks but is a member of the protea family."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "December 21",
+  "plants": [
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot",
+      "description": "A deciduous tree native to East Asia, noted for its fragrant and beautiful blossoms that often bloom in late winter to early spring, sometimes as early as December in milder climates. Its flowers are usually pink or white and symbolize resilience and hope in Japanese culture.",
+      "bloomingSeason": "December to February",
+      "location": "East Asia (Japan, China, Korea)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese apricot's blossoms are celebrated in traditional festivals called Ume Matsuri, and were historically admired by poets and artists."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial evergreen herbaceous plant native to mountainous regions of Europe, famous for blooming around Christmas time. Its large white to pinkish flowers bloom in late winter, often poking through snow or frost, bringing early color to gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Alps and surrounding areas)",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose; its toxic roots were historically thought to have medicinal properties."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "An evergreen tree native to alpine and subalpine regions of southeastern Australia, producing clusters of small white flowers in late spring and winter, including December in some high-altitude locations. It is well adapted to cold climates.",
+      "bloomingSeason": "November to January",
+      "location": "Australia (Alpine regions)",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow gums are known for their smooth, multicolored bark and are an iconic tree of Australian snowfields."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A shrub or small tree native to New Zealand and southeastern Australia, producing abundant white or pink flowers during late spring to summer, but in some coastal or mild climates flowering may begin as early as December. Famous for Manuka honey produced from its nectar.",
+      "bloomingSeason": "November to February",
+      "location": "New Zealand, Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Manuka honey has antibacterial properties and is highly valued globally for its medicinal uses."
+    }
+  ]
+}

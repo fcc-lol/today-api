@@ -1,0 +1,65 @@
+{
+  "date": "July 23",
+  "plants": [
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A perennial herbaceous plant native to western North America, known for its tall spikes of densely packed flowers. It often grows in meadows and along streams.",
+      "bloomingSeason": "June to August",
+      "location": "North America (USA, Canada)",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with bacteria in their roots."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub that produces large, showy flowers. It thrives in warm climates and is widely cultivated for ornamental purposes.",
+      "bloomingSeason": "Year-round in tropical climates, prominently blooming in summer months",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and used to make a popular tart herbal tea called 'sorrel' or 'agua de Jamaica'."
+    },
+    {
+      "name": "Alcea rosea",
+      "commonName": "Hollyhock",
+      "description": "A tall biennial or short-lived perennial plant with large, colorful flowers clustered along upright stems. Commonly grown in cottage gardens.",
+      "bloomingSeason": "June to August",
+      "location": "Temperate regions worldwide, native to Asia and Europe",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Hollyhocks are important nectar sources for pollinators like bees and butterflies."
+    },
+    {
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "A shrub endemic to coastal southeastern Australia, producing bright orange or red cylindrical flower spikes.",
+      "bloomingSeason": "June to August",
+      "location": "Australia (New South Wales coast)",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌿",
+      "funFact": "Banksias have woody seed cones that open to release seeds after fire, an adaptation to Australian bushfires."
+    }
+  ]
+}

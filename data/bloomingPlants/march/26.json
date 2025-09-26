@@ -1,0 +1,59 @@
+{
+  "date": "March 26",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its beautiful, delicate pink to white blossoms that herald the arrival of spring in many temperate regions, especially in Japan and parts of the United States like Washington D.C.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of East Asia, United States (Washington D.C.)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blooming period of cherry blossoms is very short, often lasting just one to two weeks, making them a cherished symbol of transient beauty in Japanese culture."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub with leathery leaves and clusters of vibrant funnel-shaped flowers that bloom profusely in warm climates, often planted for ornamental purposes along roads and in gardens.",
+      "bloomingSeason": "March to October (long blooming season starting early spring)",
+      "location": "Mediterranean Basin, Southwest Asia, cultivated worldwide in warm climates",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Although beautiful, all parts of oleander are highly toxic if ingested, containing compounds that can affect the heart."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree known for its large, tulip-shaped flowers that appear before the leaves and create stunning displays of pink, white, and purple hues in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate gardens worldwide, originally from China and cultivation in Europe and North America",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Magnolia flowers evolved before bees were common, and are pollinated mainly by beetles, making them some of the oldest flowering plants on Earth."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A striking deciduous tree with bright red, spiky flowers that bloom in late spring, common in subtropical and tropical regions, and often used as an ornamental plant.",
+      "bloomingSeason": "March to May",
+      "location": "South America (Argentina, Uruguay, Brazil), subtropical and tropical climates",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is the national flower of Argentina and Uruguay, representing resilience and beauty in harsh environments."
+    }
+  ]
+}

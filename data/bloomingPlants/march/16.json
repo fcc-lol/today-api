@@ -1,0 +1,58 @@
+{
+  "date": "March 16",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning springtime blossoms, the Japanese Cherry produces clusters of soft pink to white flowers. It is widely cultivated for ornamental purposes and symbolizes the arrival of spring in many cultures.",
+      "bloomingSeason": "March to April",
+      "location": "East Asia, cultivated worldwide in temperate regions",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Japan, the cherry blossom season is celebrated with Hanami, a festival of flower viewing that has been a cultural tradition for centuries."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial plant with bright yellow trumpet-shaped flowers, wild daffodils are among the first spring bulbs to bloom, often carpeting woodlands and meadows in early spring.",
+      "bloomingSeason": "February to April",
+      "location": "Western Europe, particularly the UK and Ireland",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Wild daffodils are different from cultivated varieties; their populations are declining in some areas due to habitat loss."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An evergreen tree or shrub native to Australia's east coast, the Coast Banksia produces cylindrical flower spikes composed of hundreds of tiny flowers, often creamy yellow or pale green, attracting bees and birds.",
+      "bloomingSeason": "February to April",
+      "location": "Eastern Australia",
+      "colors": [
+        "Cream",
+        "Pale Yellow",
+        "Green"
+      ],
+      "emoji": "🌿",
+      "funFact": "Banksia flowers provide an important nectar source for native wildlife and Aboriginal Australians used various Banksia species for tools and food."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia cultivar known for its large, fragrant, tulip-shaped flowers in shades of white, pink, and purple appearing before the leaves emerge.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated in temperate gardens globally, originally from China",
+      "colors": [
+        "Pink",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the oldest flowering plants in the world, dating back around 95 million years, predating bees; they originally relied on beetles for pollination."
+    }
+  ]
+}

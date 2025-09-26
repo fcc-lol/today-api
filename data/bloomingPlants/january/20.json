@@ -1,0 +1,57 @@
+{
+  "date": "January 20",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to eastern and southern Asia, producing large, showy flowers that bloom in winter and early spring. The flowers range in color from white, pink, to deep red, often fragrant and valued in gardens for winter color.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia, cultivated globally in mild temperate climates",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers influenced the naming of the tea plant Camellia sinensis, though they are different species."
+    },
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "American Witch Hazel",
+      "description": "A deciduous shrub or small tree native to eastern North America, witch hazel is notable for its yellow, spidery flowers that appear in late fall to winter. It is used in traditional medicine and skin care products.",
+      "bloomingSeason": "October to January",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Its winter flowers are pollinated by moths and flies, which are active in colder months when other flowers are scarce."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant native to mountainous regions of Europe. Famous for its white to pink flowers that bloom in winter, often near the Christmas season, bringing color to cold gardens.",
+      "bloomingSeason": "December to February",
+      "location": "European Alps, cultivated widely in temperate gardens",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, Christmas Rose is not a true rose but belongs to the buttercup family."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A shrub or small tree native to New Zealand and southeast Australia. Manuka blooms predominantly in summer, but in some mild microclimates flowering can begin as early as late winter or early spring, producing white to pink flowers.",
+      "bloomingSeason": "December to February",
+      "location": "New Zealand and southeast Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌿🌸",
+      "funFact": "Manuka honey, made from its nectar, is prized for its medicinal antibacterial properties."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "July 21",
+  "plants": [
+    {
+      "name": "Lilium auratum",
+      "commonName": "Golden-rayed Lily",
+      "description": "A striking lily with large, fragrant white flowers streaked with golden yellow stripes and reddish spots. Native to Japan, it thrives in temperate climates and blooms in midsummer, attracting pollinators like bees and butterflies.",
+      "bloomingSeason": "June to August",
+      "location": "Japan, temperate gardens worldwide",
+      "colors": [
+        "white",
+        "yellow",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Golden-rayed Lily is known for its intense fragrance and is often used in floral arrangements in Japan."
+    },
+    {
+      "name": "Agave americana",
+      "commonName": "Century Plant",
+      "description": "A large succulent plant known for its towering flower spike that can reach up to 9 meters tall. It rarely blooms, generally once after many years (often around 10-30 years), producing clustered yellow-green flowers in summer before dying afterward.",
+      "bloomingSeason": "June to August (when it blooms)",
+      "location": "Native to Mexico and Southwestern USA, cultivated worldwide in warm climates",
+      "colors": [
+        "yellow-green"
+      ],
+      "emoji": "🌵",
+      "funFact": "Despite its name, the Century Plant typically blooms once in a lifetime after decades of growth."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant shrub with spikes of small purple flowers that bloom profusely in summer. Widely cultivated for its essential oils and ornamental use, it attracts bees and butterflies.",
+      "bloomingSeason": "June to August",
+      "location": "Native to the Mediterranean, cultivated worldwide in temperate zones",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "English Lavender oil is extensively used in aromatherapy for its calming effects."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "Native to South Africa, this impressive flower features a large bloom with spiky petals resembling an artichoke. It blooms in mid to late summer and is known for its resilience in dry conditions.",
+      "bloomingSeason": "June to October",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea is the national flower of South Africa and is highly prized by florists worldwide."
+    }
+  ]
+}

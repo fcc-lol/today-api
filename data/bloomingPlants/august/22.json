@@ -1,0 +1,62 @@
+{
+  "date": "August 22",
+  "plants": [
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, vibrant flowers that can be red, pink, orange, yellow, or white. It blooms year-round in tropical climates and is widely cultivated as an ornamental plant.",
+      "bloomingSeason": "Year-round in tropical regions, peaks in summer",
+      "location": "Tropical regions worldwide, including Southeast Asia and Pacific Islands",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Each hibiscus flower blooms for just one day but is continuously replaced by new blooms."
+    },
+    {
+      "name": "Heliotropium arborescens",
+      "commonName": "Heliotrope",
+      "description": "A fragrant annual or perennial plant with clusters of small purple, white, or lavender flowers. It thrives in summer and early autumn gardens in temperate zones.",
+      "bloomingSeason": "Summer to early autumn (July-September)",
+      "location": "Originally from Peru, commonly grown in temperate gardens worldwide",
+      "colors": [
+        "purple",
+        "white",
+        "lavender"
+      ],
+      "emoji": "💜",
+      "funFact": "Heliotrope's name derives from 'helios' (sun) and 'tropos' (turn), as its flowers historically were thought to turn to face the sun."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub that produces large, ball-shaped clusters of flowers, with color depending on soil pH (blue in acidic soils, pink in alkaline). Typically blooms mid-summer through early autumn.",
+      "bloomingSeason": "Mid-summer to early autumn (June-September)",
+      "location": "Native to Japan, widely cultivated in temperate gardens",
+      "colors": [
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The flower color can be changed by adjusting soil pH—aluminum availability influences bloom color."
+    },
+    {
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A fast-growing wildflower with tall spikes of bright pink to purple flowers, common in disturbed areas and boreal forests. It blooms prolifically in late summer after forest fires or clearings.",
+      "bloomingSeason": "Mid to late summer (July-September)",
+      "location": "Boreal and temperate regions of North America and Eurasia",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Fireweed is one of the first plants to colonize areas after forest fires, hence the name."
+    }
+  ]
+}

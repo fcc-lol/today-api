@@ -1,0 +1,59 @@
+{
+  "date": "August 28",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower known for its bright yellow petals and dark brown central cone. It thrives in prairies and open woods, attracting pollinators like bees and butterflies.",
+      "bloomingSeason": "June to September",
+      "location": "North America (United States and Canada)",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are often used in traditional medicine and symbolize encouragement and motivation."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub widely cultivated in warm climates with large, showy flowers that come in red, pink, white, yellow, and orange. It is commonly grown in Asia, the Pacific Islands, and subtropical to tropical gardens worldwide.",
+      "bloomingSeason": "Year-round in tropical climates; peak bloom August to October in subtropical areas",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are used to make hibiscus tea, which is rich in antioxidants and vitamin C."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant famous for its large, bright yellow flower heads that track the sun's movement during the day (heliotropism). It is widely grown for its seeds and oil.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Native to North America but cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflower seeds are a favorite snack for many birds and humans, and the flower heads can contain up to 2,000 seeds."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A striking native wildflower featuring bright scarlet red tubular flowers that attract hummingbirds. It grows in moist areas like streambanks and wetlands across eastern North America.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The intense red color of the flowers is specially evolved to attract hummingbirds, which are its primary pollinators."
+    }
+  ]
+}

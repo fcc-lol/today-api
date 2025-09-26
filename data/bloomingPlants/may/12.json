@@ -1,0 +1,60 @@
+{
+  "date": "May 12",
+  "plants": [
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "A large evergreen shrub or small tree with spectacular clusters of bright red flowers, native to the Himalayas. It thrives in cool mountainous regions and is admired for its showy blooms in spring.",
+      "bloomingSeason": "April to June",
+      "location": "Himalayan region (India, Nepal, Bhutan)",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "The tree rhododendron is the national flower of Nepal, symbolizing beauty and resilience."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall perennial plant with densely packed spires of pea-like flowers in various colors. It prefers temperate climates and is often found blooming in meadows and roadsides.",
+      "bloomingSeason": "May to July",
+      "location": "Pacific Northwest USA, parts of Europe",
+      "colors": [
+        "Purple",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines fix nitrogen in the soil, improving fertility for surrounding plants."
+    },
+    {
+      "name": "Waratah (Telopea speciosissima)",
+      "commonName": "Waratah",
+      "description": "An iconic Australian shrub with large, bright red rounded flower heads composed of numerous small florets. It blooms in late spring and is the floral emblem of New South Wales.",
+      "bloomingSeason": "October to May",
+      "location": "Southeastern Australia",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Waratah flowers secrete nectar that attracts birds and animals, aiding pollination."
+    },
+    {
+      "name": "Common Lilac (Syringa vulgaris)",
+      "commonName": "Lilac",
+      "description": "A deciduous shrub with fragrant panicles of small tubular flowers, popular in gardens for its beautiful scent and springtime blossoms.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "Purple",
+        "White",
+        "Pink"
+      ],
+      "emoji": "💐",
+      "funFact": "Lilac scent is often used in perfumes and aromatherapy for its calming properties."
+    }
+  ]
+}

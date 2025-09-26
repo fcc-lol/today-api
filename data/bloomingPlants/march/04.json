@@ -1,0 +1,55 @@
+{
+  "date": "March 4",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree known for its beautiful and abundant pink or white flowers that herald the arrival of spring in Japan and many other temperate regions.",
+      "bloomingSeason": "Late March to early April (varies by location, some early blooms in late February or early March)",
+      "location": "Japan, temperate regions of North America and Europe",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The timing of cherry blossom blooming is celebrated annually in Japan with 'Hanami' festivals, symbolizing the transient nature of life."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial bulbous plant producing bright yellow, trumpet-shaped flowers in early spring, often found in woodlands and meadows.",
+      "bloomingSeason": "February to April",
+      "location": "Western and Central Europe, naturalized in parts of North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Daffodils are known to contain toxic compounds which help deter pests and herbivores."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, this shrub or small tree produces vibrant yellow fluffy flower clusters that bloom in late winter to early spring.",
+      "bloomingSeason": "June to September in southern hemisphere (approaching early spring), some early blooms in March in certain areas",
+      "location": "Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle flowers are rich in nectar and an important food source for native pollinators."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A small deciduous tree notable for its large, fragrant star-shaped white or pink flowers that bloom very early in spring, often before the leaves appear.",
+      "bloomingSeason": "Late February to April",
+      "location": "Japan, cultivated widely in temperate regions globally",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Star magnolia flowers have numerous narrow petals (tepals), typically between 12 and 18, which create a distinctive star-like shape."
+    }
+  ]
+}

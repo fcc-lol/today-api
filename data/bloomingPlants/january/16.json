@@ -1,0 +1,57 @@
+{
+  "date": "January 16",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy dark green leaves and large, showy flowers that bloom in midwinter to early spring. It thrives in temperate climates and is frequently cultivated in gardens.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia; cultivated in temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias have been cultivated in East Asia for centuries and are often featured in traditional gardens and artwork."
+    },
+    {
+      "name": "Witch Hazel (Hamamelis virginiana)",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub or small tree that produces unique, spidery yellow flowers in late fall through winter. It is native to eastern North America and often blooms when few other plants do.",
+      "bloomingSeason": "October to January",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel extracts are commonly used for medicinal and cosmetic purposes due to their astringent properties."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant that blooms in winter with large, white or pale pink cup-shaped flowers. It is native to mountainous regions of Europe and often used in winter gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, the Christmas rose is not a true rose but belongs to the buttercup family."
+    },
+    {
+      "name": "Kaffir Lily (Clivia miniata)",
+      "commonName": "Kaffir Lily",
+      "description": "An evergreen perennial with strap-shaped leaves and clusters of bright orange to red trumpet-shaped flowers. It blooms in late winter to early spring and is popular as a houseplant or in shaded gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Southern Africa",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Clivia miniata is hardy and shade-tolerant, making it ideal for indoor cultivation during winter months."
+    }
+  ]
+}

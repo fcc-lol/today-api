@@ -1,0 +1,56 @@
+{
+  "date": "July 28",
+  "plants": [
+    {
+      "name": "Lilium superbum",
+      "commonName": "Turk's Cap Lily",
+      "description": "A striking perennial lily native to eastern North America, known for its orange, recurved petals with prominent dark spots. It grows in moist woodlands and meadows.",
+      "bloomingSeason": "July to August",
+      "location": "Eastern North America",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Turk's Cap Lily flowers are highly attractive to butterflies and hummingbirds, which act as its primary pollinators."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub widely cultivated for its aromatic purple flower spikes and essential oils. It thrives in Mediterranean climates and is common in gardens worldwide.",
+      "bloomingSeason": "June to August",
+      "location": "Mediterranean region, cultivated worldwide",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender's essential oils are known for their calming properties and are often used in aromatherapy."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "A large evergreen shrub or small tree featuring clusters of bright red or crimson flowers. It grows in mountainous regions of the Himalayas, blooming mid-summer.",
+      "bloomingSeason": "June to August",
+      "location": "Himalayan mountains (South Asia)",
+      "colors": [
+        "red",
+        "crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendron arboreum is Nepal's national flower and can survive at high altitudes up to 3,500 meters."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree or shrub that produces cylindrical flower spikes with brush-like yellow blooms. It is common along eastern coastal areas.",
+      "bloomingSeason": "Winter to summer, including July",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias provide an important nectar source for birds and mammals during the Australian winter months."
+    }
+  ]
+}

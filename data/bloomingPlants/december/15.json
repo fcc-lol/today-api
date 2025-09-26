@@ -1,0 +1,61 @@
+{
+  "date": "December 15",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "An evergreen shrub admired for its large, showy flowers that bloom in late fall to early spring. It thrives in temperate zones and is widely cultivated in gardens.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were a favorite flower of Queen Victoria and have been symbols of admiration and perfection in many cultures."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub tolerant of heat and drought, oleander blooms profusely in mild winter climates assuring vibrant flowers in December in suitable regions.",
+      "bloomingSeason": "Late spring to early winter, can bloom year-round in warm climates",
+      "location": "Mediterranean Basin, subtropical regions worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "All parts of the oleander plant are highly toxic if ingested, but its beautiful flowers remain popular in landscaping."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant that blooms in midwinter, often around Christmas, producing white to pinkish flowers despite cold conditions.",
+      "bloomingSeason": "December to February",
+      "location": "European mountain regions, cultivated in temperate gardens",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌼",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose and has a folklore association with the nativity story."
+    },
+    {
+      "name": "Rhododendron simsii",
+      "commonName": "Azalea",
+      "description": "A species of azalea that blooms in tropical to subtropical climates during winter months, adding color to gardens and wild areas.",
+      "bloomingSeason": "November to January",
+      "location": "Southeast Asia, Southern China, and cultivated in similar climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Azaleas are known to be toxic to pets and humans but are widely prized for vibrant floral displays."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "December 8",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub native to eastern North America, Witch Hazel blooms in late fall to early winter, producing unique, fragrant yellow flowers with ribbon-like petals that appear after the leaves fall.",
+      "bloomingSeason": "October to December",
+      "location": "Eastern United States",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch Hazel extracts from the bark and leaves are widely used in skincare products for their anti-inflammatory properties."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial native to the mountainous regions of Europe, especially the Alps, it blooms in winter with large, white to pinkish flowers that often appear as early as December.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub widely cultivated in warm climates, Oleander produces clusters of highly fragrant, showy flowers that can bloom year-round in subtropical regions, including December.",
+      "bloomingSeason": "Year-round in warm climates, including December",
+      "location": "Mediterranean Basin, South Asia, and cultivated globally in subtropical areas",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of Oleander are highly toxic if ingested, yet it is popular as an ornamental plant due to its resilience and beauty."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A small tree or shrub native to New Zealand and southeast Australia, Manuka blooms profusely with white or pink flowers in late spring to early summer in the southern hemisphere, corresponding to December.",
+      "bloomingSeason": "November to January (Southern Hemisphere summer)",
+      "location": "New Zealand, Southeast Australia",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Manuka flowers produce nectar that is used to make Manuka honey, famed for its antibacterial and medicinal properties."
+    }
+  ]
+}

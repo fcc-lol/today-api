@@ -1,0 +1,60 @@
+{
+  "date": "September 4",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy perennial or biennial native to North America, recognized for its bright yellow ray florets surrounding a dark brown cone-shaped center. Black-eyed Susans thrive in late summer to early fall, attracting butterflies and bees.",
+      "bloomingSeason": "July to October",
+      "location": "Eastern and Central North America, cultivated worldwide",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and symbolize encouragement and motivation."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "An evergreen shrub or small tree native to East Asia, famous for its large, striking flowers that bloom year-round in tropical and subtropical climates. Flowers typically last a day but the plant continuously produces new blooms.",
+      "bloomingSeason": "Year-round in tropical regions, including September",
+      "location": "Tropical and subtropical regions worldwide, native to East Asia",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The hibiscus flower is the national flower of Malaysia and is also used in herbal teas."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A perennial wildflower native to eastern and central North America, noted for its large purple petals and spiny central cone. It blooms from midsummer to early fall and is valued for medicinal properties and for attracting pollinators.",
+      "bloomingSeason": "June to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea has been traditionally used to boost the immune system and as a remedy for colds."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing evergreen tree native to eastern coastal Australia known for its fern-like leaves and vibrant orange to golden flower clusters that bloom from late winter through early fall in warmer climates.",
+      "bloomingSeason": "August to October",
+      "location": "Eastern Australia, also cultivated in subtropical to tropical regions",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but belongs to the Proteaceae family."
+    }
+  ]
+}

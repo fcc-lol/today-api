@@ -1,0 +1,61 @@
+{
+  "date": "September 23",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads that follow the sun's movement. Commonly cultivated but also found wild in fields across North America.",
+      "bloomingSeason": "July to September",
+      "location": "North America, especially temperate regions",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism during early growth, turning to face the sun; mature flowers generally face east."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy wildflower with vibrant yellow to orange ray florets and distinctive dark brown centers, often found in meadows and prairies.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "Yellow",
+        "Orange",
+        "Brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susans attract butterflies and other pollinators, making them valuable for natural gardens."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous-rooted plant known for its diverse and striking flower shapes and colors, widely cultivated in gardens.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico and Central America, cultivated worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Purple",
+        "Yellow",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias are the national flower of Mexico and come in over 42 species with thousands of hybrids."
+    },
+    {
+      "name": "Ginkgo biloba",
+      "commonName": "Ginkgo / Maidenhair Tree",
+      "description": "A unique deciduous tree species renowned for its fan-shaped leaves that turn bright yellow in autumn; female trees produce distinctive fruit that ripens around this time.",
+      "bloomingSeason": "Male flowers in spring; female fruit ripens in September–October",
+      "location": "Originally native to China; widely planted worldwide",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Ginkgo biloba is a living fossil, with fossils dating back 270 million years, and is resistant to pollution and disease."
+    }
+  ]
+}

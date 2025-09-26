@@ -1,0 +1,59 @@
+{
+  "date": "December 28",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub admired for its large, showy flowers that bloom in winter. Its flowers range from white to deep red and often have a waxy texture. Camellias prefer acidic, well-drained soils and thrive in temperate to subtropical climates.",
+      "bloomingSeason": "November to March",
+      "location": "Native to eastern and southern Asia; commonly cultivated in the southeastern United States and parts of Europe",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was first introduced to Europe from Japan in the 18th century and became a symbol of elegance in Victorian gardens."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy, evergreen shrub known for its fragrant, showy flowers that bloom profusely in mild winter climates. Oleander is drought-tolerant and grows well in Mediterranean climates as well as subtropical regions.",
+      "bloomingSeason": "Spring to late autumn, but often still blooming in warm winter areas such as southern California and Mediterranean coastlines",
+      "location": "Native to the Mediterranean region and parts of Asia; widely cultivated in warm climates worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Although beautiful, all parts of the oleander plant are highly toxic if ingested."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot or Ume",
+      "description": "A deciduous tree treasured in East Asia for its fragrant, early-blooming flowers which appear in late winter or early spring. The delicate blossoms can range from white to pink and symbolize endurance and hope in Japanese and Chinese cultures.",
+      "bloomingSeason": "December to February",
+      "location": "Native to China, Japan, and Korea; widely cultivated in temperate Asia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "The ume blossom is celebrated in many East Asian festivals and marks the transition from winter to spring."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree known for its striking orange to golden flower clusters that attract birds and pollinators. It blooms in spring and sometimes during winter months in mild climates.",
+      "bloomingSeason": "August to December, occasionally into late December depending on local climate",
+      "location": "Native to eastern coastal Australia; cultivated in subtropical and warm temperate regions worldwide",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Despite its name, silky oak is not an oak but is named for its timber's resemblance to oak wood."
+    }
+  ]
+}

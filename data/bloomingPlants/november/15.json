@@ -1,0 +1,60 @@
+{
+  "date": "November 15",
+  "plants": [
+    {
+      "name": "Chrysanthemum indicum",
+      "commonName": "Chrysanthemum (Mums)",
+      "description": "Chrysanthemums are popular garden plants known for their vibrant and diverse flower forms. They bloom in late autumn to early winter, bringing color to gardens as many other plants fade.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially East Asia and North America",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums were first cultivated in China over 2,500 years ago and symbolize longevity and rejuvenation in many cultures."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "Camellias are evergreen shrubs prized for their large, elegant flowers that bloom in late autumn through winter, especially in mild climates. The blossoms can be single, semi-double, or double and are lush in appearance.",
+      "bloomingSeason": "October to March",
+      "location": "Eastern Asia, cultivated in gardens globally",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is the original species from which many hybrid tea camellias are derived, important in tea culture."
+    },
+    {
+      "name": "Hamelia patens",
+      "commonName": "Firebush",
+      "description": "A tropical shrub that blooms almost year-round in warm climates, its fiery red-orange flowers attract hummingbirds and butterflies. In subtropical zones, November marks a peak blooming period.",
+      "bloomingSeason": "Year-round, with peaks in late autumn and spring",
+      "location": "Southern USA, Mexico, Central and South America",
+      "colors": [
+        "red",
+        "orange"
+      ],
+      "emoji": "🔥",
+      "funFact": "Firebush flowers produce abundant nectar and are a valuable nectar source for pollinators in tropical gardens."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree that produces bright orange, spider-like flowers attracting nectar-feeding birds. In warmer parts of Australia, it can bloom in late spring and autumn, including November.",
+      "bloomingSeason": "September to November",
+      "location": "Eastern Australia and cultivated in similar climates globally",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its name, the Silky Oak is not an oak but a member of the Proteaceae family, famous for unique flower structures."
+    }
+  ]
+}

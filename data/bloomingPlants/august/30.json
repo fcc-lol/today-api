@@ -1,0 +1,60 @@
+{
+  "date": "August 30",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower known for its bright yellow petals surrounding a dark brown central cone. It thrives in prairies and open woods, attracting pollinators like bees and butterflies.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central United States",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and were traditionally used by Native Americans for medicinal purposes."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub popular in gardens around the world, renowned for large, showy flowers that open in the morning and last a single day. Often grown as ornamentals in subtropical and tropical regions.",
+      "bloomingSeason": "Year-round in tropical climates, notably prolific in late summer",
+      "location": "Native to East Asia; widely cultivated in tropical and subtropical regions",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and used to make hibiscus tea, which is rich in antioxidants."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant characterized by large flower heads with bright yellow petals surrounding a dark reproductive disk. Sunflowers follow the sun’s movement across the sky, a behavior called heliotropism.",
+      "bloomingSeason": "Mid-summer to early autumn",
+      "location": "Native to North America, cultivated worldwide",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflower seeds are harvested for oil andfood, and the plant also plays an important role in phytoremediation to clean contaminated soil."
+    },
+    {
+      "name": "Kniphofia uvaria",
+      "commonName": "Red Hot Poker",
+      "description": "A striking perennial with tall spikes of tubular flowers that transition in color from red at the top to yellow at the base. It attracts hummingbirds and butterflies and thrives in well-drained soils.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Native to South Africa; widely grown in temperate gardens",
+      "colors": [
+        "red",
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌶️",
+      "funFact": "Also known as torch lilies, their flower spikes can reach impressive heights of up to 1.5 meters."
+    }
+  ]
+}

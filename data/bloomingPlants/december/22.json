@@ -1,0 +1,57 @@
+{
+  "date": "December 22",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "The Christmas Rose is an evergreen perennial native to mountainous regions of Europe. It is known for its striking white flowers that often bloom in winter, sometimes even pushing through snow. This plant is popular in gardens for its ability to provide color during the coldest months.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (especially the Alps and Central Europe)",
+      "colors": [
+        "White",
+        "Pale Pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae). Its bloom often symbolizes hope and renewal in winter."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Japanese Camellias are evergreen shrubs native to East Asia. They produce beautiful, rose-like flowers throughout late fall to early spring, depending on the cultivar and climate. Their glossy leaves and bright blooms make them popular ornamental plants during the winter months.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated worldwide in temperate regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers do not produce a scent but are highly prized for their showy blooms, and historically the flower has been a symbol of admiration in Asian cultures."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "Southern Magnolia is an evergreen tree native to the southeastern United States that blooms large, fragrant white flowers. Though it blooms primarily in late spring to summer, in warmer climates, sporadic blooms can occur in winter months.",
+      "bloomingSeason": "Mainly May to June; sporadic winter blooms in warm climates",
+      "location": "Southeastern United States",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Southern Magnolia's flowers are incredibly fragrant and can grow up to 12 inches wide, making them among the largest flowering blooms in North America."
+    },
+    {
+      "name": "Brunia albiflora",
+      "commonName": "Brunia",
+      "description": "Brunia albiflora is a shrub native to South Africa from the fynbos biome, known for its unique, spherical flower heads with tiny white blossoms that bloom in winter. It thrives in Mediterranean-type climates and is often used in floral arrangements.",
+      "bloomingSeason": "June to December",
+      "location": "South Africa (Fynbos region)",
+      "colors": [
+        "White",
+        "Grey"
+      ],
+      "emoji": "🌿",
+      "funFact": "Brunia flowers are highly drought-tolerant and adapted to fire-prone environments, regenerating quickly after wildfires in their native habitat."
+    }
+  ]
+}

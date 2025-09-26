@@ -1,0 +1,63 @@
+{
+  "date": "November 14",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "A popular flowering plant known for its vibrant and diverse flower forms, chrysanthemums are often cultivated as ornamental plants. They have a rich history in East Asian cultures and bloom in late autumn.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (Asia, Europe, North America)",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are considered symbols of longevity and rejuvenation in many cultures, especially in Japan and China."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree with showy and intricate orange flowers that attract birds and insects. It blooms in late spring to early summer, but in subtropical regions, flowering can extend into November.",
+      "bloomingSeason": "October to November (can extend to December)",
+      "location": "Australia (subtropical regions) and cultivated in warm climates",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its name, the Silky Oak is not a true oak but is related to the Protea family."
+    },
+    {
+      "name": "Bougainvillea glabra",
+      "commonName": "Bougainvillea",
+      "description": "A tropical and subtropical vine or shrub known for its vibrant and colorful bracts that appear like flowers. It blooms year-round in ideal climates, with vivid displays commonly seen in November in many warm regions.",
+      "bloomingSeason": "Year-round in tropical/subtropical climates, including November",
+      "location": "Tropical and subtropical regions worldwide (South America, Mediterranean, southern US)",
+      "colors": [
+        "magenta",
+        "purple",
+        "red",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The colorful part of bougainvillea is not the flower itself, but specialized leaves called bracts surrounding the small white flowers."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "An evergreen shrub admired for its large, rose-like flowers which bloom in late autumn to early spring, making it one of the few large flowers blooming in November in temperate zones.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (Japan, China, Korea) and cultivated in temperate gardens worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica seeds are used to produce tea seed oil, a popular cooking oil in East Asia."
+    }
+  ]
+}

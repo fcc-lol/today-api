@@ -1,0 +1,60 @@
+{
+  "date": "November 17",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "Chrysanthemums are popular autumn-blooming garden flowers known for their vibrant colors and diverse forms. They often signal the arrival of late fall and are widely cultivated in temperate zones for decorative purposes.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (e.g., North America, Europe, East Asia)",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "In Japan, chrysanthemums symbolize the Emperor and the Imperial family and are celebrated during the 'Festival of Happiness'."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle",
+      "description": "A fast-growing evergreen tree with fluffy, fragrant yellow flowers that blanket the tree in late fall to early winter, offering early color in Mediterranean and subtropical climates.",
+      "bloomingSeason": "November to January",
+      "location": "Australia (native), cultivated in Mediterranean and subtropical regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Silver Wattle flowers are used to produce a fragrant honey highly prized in Australia."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy leaves and large, rose-like flowers that bloom from mid-fall through winter, often in shaded garden settings.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (native), cultivated in gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias are highly valued in East Asian culture, symbolizing admiration and perfection."
+    },
+    {
+      "name": "Leucadendron lanigerum",
+      "commonName": "Woolly Conebush",
+      "description": "A protea family shrub with woolly flower cones that bloom in spring to early summer in the Southern Hemisphere, sometimes extending into November in certain regions like coastal South Africa.",
+      "bloomingSeason": "September to November",
+      "location": "South Africa (Cape region)",
+      "colors": [
+        "green",
+        "yellow"
+      ],
+      "emoji": "🌾",
+      "funFact": "Leucadendrons are fire-adapted plants that regenerate vigorously after wildfires in their native fynbos ecosystem."
+    }
+  ]
+}

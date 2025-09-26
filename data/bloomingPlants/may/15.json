@@ -1,0 +1,57 @@
+{
+  "date": "May 15",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub known for its large clusters of bell-shaped flowers, typically found in woodland and mountainous regions. It thrives in temperate zones and is widely cultivated as an ornamental plant.",
+      "bloomingSeason": "April to June",
+      "location": "Western Europe, especially the UK and Ireland",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is an invasive species in parts of the UK where it forms dense thickets that outcompete native plants."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A fragrant, tall perennial lily with large white trumpet-shaped flowers, symbolizing purity and often associated with religious iconography.",
+      "bloomingSeason": "May to July",
+      "location": "Mediterranean region",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Madonna Lily has been cultivated since ancient times and was highly valued in Greco-Roman culture."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "Waratah",
+      "description": "An iconic Australian native shrub known for its bright red, dome-shaped flower clusters with striking stamens. It is the floral emblem of New South Wales.",
+      "bloomingSeason": "Spring (September to November) in Australia, corresponding to March-May in the Southern Hemisphere",
+      "location": "Southeastern Australia",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Waratahs regenerate following bushfires, as their seeds are adapted to heat and smoke to germinate."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous tree famed for its large, tulip-shaped flowers that bloom profusely in spring before leaves emerge.",
+      "bloomingSeason": "April to May",
+      "location": "Temperate regions worldwide, originally cultivated in France from Chinese species",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Saucer Magnolias bloom so early their flowers can tolerate frost, making them a spectacular spring sight."
+    }
+  ]
+}

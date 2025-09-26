@@ -1,0 +1,66 @@
+{
+  "date": "August 11",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that track the sun across the sky. They thrive in full sun and are widely cultivated for their seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and their flower heads can contain up to 2,000 individual flowers called florets."
+    },
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are woody perennial flowering plants well known for their fragrant and visually diverse flowers, often cultivated in gardens worldwide. Many rose species and cultivars bloom repeatedly through the summer months.",
+      "bloomingSeason": "Late spring to early autumn, including August",
+      "location": "Worldwide in temperate climates",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow",
+        "Orange",
+        "Purple"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rose hips, the fruit of the rose plant, are rich in vitamin C and have been used in herbal remedies."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "Dahlias are tuberous perennial plants known for their striking, multi-petaled flowers in a variety of shapes and vibrant colors. They bloom abundantly in late summer and early autumn.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico and Central America, widely cultivated globally",
+      "colors": [
+        "Red",
+        "Pink",
+        "Orange",
+        "Yellow",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Dahlias were declared the national flower of Mexico in 1963."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Lupine",
+      "description": "Lupines are tall, erect flowering plants with spikes covered in densely packed pea-like flowers. They bloom profusely in summer and are popular in wildflower meadows and gardens.",
+      "bloomingSeason": "June to August",
+      "location": "Native to North America and Europe, commonly found in temperate zones",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich soil by fixing nitrogen, which benefits other plants around them."
+    }
+  ]
+}

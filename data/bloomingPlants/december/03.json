@@ -1,0 +1,57 @@
+{
+  "date": "December 3",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub native to the Mediterranean region and parts of Asia. It produces clusters of fragrant, funnel-shaped flowers throughout mild winters, thriving in warm climates. The flowers range from white to pink and red, offering color when many other plants are dormant.",
+      "bloomingSeason": "May to December (peak bloom in late autumn in warmer regions)",
+      "location": "Mediterranean Basin, Southern United States, Australia",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, yet it has been used traditionally for its medicinal properties in controlled doses."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "The Christmas Rose is a hardy perennial native to mountainous regions of Europe. It typically blooms in late winter, often around Christmas, showcasing large white or pinkish flowers that can tolerate cold and snow. It is prized for blooming when most plants are dormant.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Alps, Balkans)",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "Silky Oak is a fast-growing evergreen tree native to eastern Australia that produces striking, bright orange, spider-like flowers in late spring to early winter. In mild climates, some flowering extends into December, attracting birds and pollinators.",
+      "bloomingSeason": "September to December",
+      "location": "Eastern Australia, cultivated in subtropical regions",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌳🍊",
+      "funFact": "The striking flowers of the Silky Oak are rich in nectar and attract a variety of bird species."
+    },
+    {
+      "name": "Clerodendrum thomsoniae",
+      "commonName": "Bleeding Heart Vine",
+      "description": "This tropical vine is native to West Africa and produces unique, two-tone flowers with white petals and bright red stamens that look like 'bleeding hearts.' It often blooms in warm regions during late autumn and early winter, including December.",
+      "bloomingSeason": "October to January",
+      "location": "West Africa, tropical and subtropical gardens worldwide",
+      "colors": [
+        "white",
+        "red"
+      ],
+      "emoji": "❤️🌿",
+      "funFact": "Despite its delicate appearance, the Bleeding Heart Vine is a vigorous climber used to add vibrant color to gardens in mild winter areas."
+    }
+  ]
+}

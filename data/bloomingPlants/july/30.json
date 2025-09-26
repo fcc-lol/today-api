@@ -1,0 +1,56 @@
+{
+  "date": "July 30",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking perennial lily with large, fragrant white flowers that have been cultivated since ancient times. It blooms in mid to late summer, producing elegant trumpet-shaped flowers.",
+      "bloomingSeason": "July to August",
+      "location": "Mediterranean region, cultivated worldwide",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Madonna lilies have long been symbols of purity and have appeared in religious art and symbolism across cultures."
+    },
+    {
+      "name": "Rhododendron ferrugineum",
+      "commonName": "Alpine Rose",
+      "description": "A hardy shrub native to the European Alps and Pyrenees, producing clusters of bell-shaped pink to reddish flowers. It thrives in high-altitude cooler climates and blooms in midsummer.",
+      "bloomingSeason": "July to August",
+      "location": "Alpine regions of Europe",
+      "colors": [
+        "Pink",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its name, the Alpine Rose is not a true rose but a rhododendron species adapted to harsh mountain environments."
+    },
+    {
+      "name": "Nymphaea lotus",
+      "commonName": "Tiger Lotus",
+      "description": "An aquatic plant with large, fragrant white to pink flowers that open during the day and close at night. It thrives in tropical and subtropical freshwater habitats.",
+      "bloomingSeason": "Year-round in tropical climates, with peak bloom in summer (July)",
+      "location": "Africa and parts of Southeast Asia",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "💧🌼",
+      "funFact": "The Tiger Lotus was historically sacred in ancient Egyptian culture, symbolizing rebirth and the sun."
+    },
+    {
+      "name": "Heliotropium arborescens",
+      "commonName": "Heliotrope",
+      "description": "A shrubby perennial known for its clusters of small, intensely fragrant purple flowers that attract pollinators like butterflies and bees. It blooms profusely in summer.",
+      "bloomingSeason": "June to September",
+      "location": "Native to Peru, popular in gardens worldwide",
+      "colors": [
+        "Purple",
+        "White"
+      ],
+      "emoji": "💜",
+      "funFact": "Heliotrope's name comes from Greek words meaning 'sun-turner' because its flowers were once believed to turn toward the sun."
+    }
+  ]
+}

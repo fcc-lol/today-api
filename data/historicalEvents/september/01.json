@@ -1,0 +1,33 @@
+{
+  "date": "September 1",
+  "events": [
+    {
+      "year": 1939,
+      "title": "Start of World War II",
+      "description": "Germany invades Poland, marking the official beginning of World War II.",
+      "category": "Military/War",
+      "significance": "This invasion triggered a global conflict that lasted six years and drastically changed the political landscape of the world."
+    },
+    {
+      "year": 1923,
+      "title": "Great Kanto Earthquake in Japan",
+      "description": "A massive earthquake strikes the Kanto region of Japan, including Tokyo and Yokohama, causing widespread destruction and loss of life.",
+      "category": "Natural Disaster",
+      "significance": "One of the deadliest earthquakes in Japanese history, it led to significant rebuilding efforts and changes in disaster management."
+    },
+    {
+      "year": 1985,
+      "title": "Belgian Airline Sabena Crash",
+      "description": "Sabena Flight 548 crashes near Brussels, killing all 73 people on board, including the entire U.S. figure skating team.",
+      "category": "Disaster/Aviation",
+      "significance": "The crash devastated the figure skating community and led to changes in aviation safety and sports team travel protocols."
+    },
+    {
+      "year": 1972,
+      "title": "Nixon Ends Selective Service Draft",
+      "description": "U.S. President Richard Nixon signs legislation ending the military draft, transitioning to an all-volunteer armed force.",
+      "category": "Political/Military",
+      "significance": "Marked a major shift in U.S. military policy and affected the composition and recruitment of the armed forces."
+    }
+  ]
+}

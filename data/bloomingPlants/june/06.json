@@ -1,0 +1,58 @@
+{
+  "date": "June 6",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China, known for its continuous blooming habit throughout the warm months. It bears fragrant, single or semi-double flowers that range in color from pink to red.",
+      "bloomingSeason": "Spring to Fall (April - October)",
+      "location": "Native to China, widely cultivated globally in temperate and subtropical gardens",
+      "colors": [
+        "Pink",
+        "Red"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose was instrumental in breeding many modern hybrid tea roses because of its recurrent blooming."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A perennial wildflower native to eastern North America, characterized by tall spikes densely packed with pea-shaped, blue-purple flowers. It often blooms in open sandy soils and pine barrens.",
+      "bloomingSeason": "Late Spring to Early Summer (May - June)",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "Blue",
+        "Purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild Lupine is the sole larval host for the endangered Karner blue butterfly, highlighting its ecological importance."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Elatum Larkspur",
+      "description": "A tall herbaceous perennial with showy racemes of deeply lobed blue, purple, or white flowers. Commonly grown in northern hemisphere gardens as a striking summer ornamental.",
+      "bloomingSeason": "Late Spring to Early Summer (May - June)",
+      "location": "Native to Europe and Asia, cultivated widely in temperate gardens",
+      "colors": [
+        "Blue",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🏵️",
+      "funFact": "The genus name Delphinium comes from the Greek word for dolphin, as the flower buds are said to resemble dolphins."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An evergreen tree native to eastern Australia, producing showy clusters of bright orange to golden-yellow spider-like flowers, attracting birds and insects.",
+      "bloomingSeason": "Late Spring to Early Summer (October - December in Southern Hemisphere)",
+      "location": "Eastern Australia (blooming in Southern Hemisphere spring), cultivated in subtropical regions worldwide",
+      "colors": [
+        "Orange",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Silky Oak wood is valued for its strength and rich color, often used in furniture making and veneer."
+    }
+  ]
+}

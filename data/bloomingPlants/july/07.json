@@ -1,0 +1,59 @@
+{
+  "date": "July 7",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A beloved garden rose species that blooms profusely in summer. It has fragrant, colorful flowers and is a parent to many modern roses.",
+      "bloomingSeason": "May to October",
+      "location": "Temperate gardens worldwide, especially in Asia and temperate North America",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Rose was one of the earliest rose species brought from China to Europe and greatly influenced modern rose breeding."
+    },
+    {
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "The state flower of Texas, these wildflowers bloom in vibrant blue spikes and carpet the landscape in spring to early summer, often still visible in early July in some areas.",
+      "bloomingSeason": "March to July",
+      "location": "South Central United States, especially Texas",
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "emoji": "💙",
+      "funFact": "Bluebonnets are named after their blue petals that resemble bonnets worn by pioneer women."
+    },
+    {
+      "name": "Dianthus superbus",
+      "commonName": "Fringed Pink",
+      "description": "A wildflower with fringed, sweetly-scented pink flowers that bloom in the summer, thriving in meadows and woodlands.",
+      "bloomingSeason": "June to August",
+      "location": "Europe and Northern Asia",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The fringed petals of Dianthus superbus have inspired its common name, referring to its delicate ‘fringed’ appearance."
+    },
+    {
+      "name": "Eucalyptus globulus",
+      "commonName": "Blue Gum Eucalyptus",
+      "description": "This fast-growing evergreen tree produces clusters of white aromatic flowers without petals. It blooms in summer and is iconic in Australian landscapes.",
+      "bloomingSeason": "June to September",
+      "location": "Australia and cultivated worldwide in suitable climates",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "The Blue Gum Eucalyptus is widely used for its oil and was one of the first Eucalyptus species introduced internationally."
+    }
+  ]
+}

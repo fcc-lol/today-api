@@ -1,0 +1,57 @@
+{
+  "date": "August 12",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads which track the movement of the sun during the day. Commonly cultivated for its seeds and oil, sunflowers also attract pollinators like bees and birds.",
+      "bloomingSeason": "July to September",
+      "location": "North America, widely cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow to over 3 meters tall and their flower heads are actually made up of hundreds of tiny individual flowers called florets."
+    },
+    {
+      "name": "Lilium lancifolium",
+      "commonName": "Tiger Lily",
+      "description": "A striking perennial lily featuring bright orange petals with dark spots. It is often found in gardens but also grows wild in parts of Asia and North America.",
+      "bloomingSeason": "July to August",
+      "location": "East Asia, North America",
+      "colors": [
+        "Orange",
+        "Black spots"
+      ],
+      "emoji": "🌺",
+      "funFact": "Tiger lilies produce bulbils along their stems which can drop and grow into new plants, allowing them to spread efficiently."
+    },
+    {
+      "name": "Agapanthus africanus",
+      "commonName": "African Lily",
+      "description": "An evergreen perennial with clusters of funnel-shaped flowers, commonly blue or white, which bloom in summer. Native to South Africa, widely grown as ornamental plants in temperate regions.",
+      "bloomingSeason": "June to August",
+      "location": "South Africa",
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "emoji": "💐",
+      "funFact": "Agapanthus means 'love flower' in Greek, referring to its attractive blooms often associated with love and romance."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial wildflower with purple petals and a distinctive spiny central cone. It is popular for its medicinal properties and easy cultivation in gardens.",
+      "bloomingSeason": "June to October",
+      "location": "Eastern North America",
+      "colors": [
+        "Purple",
+        "Brown"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is known for boosting the immune system and has been traditionally used in herbal remedies."
+    }
+  ]
+}

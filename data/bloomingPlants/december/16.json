@@ -1,0 +1,56 @@
+{
+  "date": "December 16",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial flowering plant known for its beautiful white to pinkish flowers that bloom in winter, often around Christmas time in temperate climates. It is native to mountainous regions of Central and Southern Europe.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Central and Southern mountainous regions)",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose; its flowers are prized for blooming in deep winter, sometimes through snow."
+    },
+    {
+      "name": "Cleistocactus winteri",
+      "commonName": "Golden Rat Tail Cactus",
+      "description": "A cactus species that produces vibrant red-orange tubular flowers during the cooler months, adapted to Andean high-altitude environments.",
+      "bloomingSeason": "November to January",
+      "location": "Central Andes, South America",
+      "colors": [
+        "Red",
+        "Orange"
+      ],
+      "emoji": "🌵🌺",
+      "funFact": "This cactus's striking flowers attract hummingbirds that serve as its primary pollinators during the Andes' dry, cool season."
+    },
+    {
+      "name": "Leucadendron 'Safari Sunset'",
+      "commonName": "Safari Sunset Leucadendron",
+      "description": "A cultivated hybrid shrub from the Proteaceae family, valued for its bright red bracts and autumn to early winter blooming period, native to South Africa’s Cape region.",
+      "bloomingSeason": "October to December",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "Bright Red",
+        "Orange"
+      ],
+      "emoji": "🌿🌺",
+      "funFact": "Leucadendrons are dioecious, meaning male and female flowers grow on separate plants, a rarity among flowering shrubs."
+    },
+    {
+      "name": "Acacia baileyana",
+      "commonName": "Cootamundra Wattle",
+      "description": "An Australian native tree known for its profuse display of bright yellow pom-pom flowers blooming in late autumn and early winter, providing vital nectar for pollinators.",
+      "bloomingSeason": "May to August in Australia (Southern Hemisphere winter), locally blooming anywhere depending on climate",
+      "location": "Australia (native to New South Wales)",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌳💛",
+      "funFact": "Wattles are Australia’s national floral emblem; their bright flowers symbolize resilience in harsh environments."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "May 1",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A popular deciduous flowering tree known for its large, tulip-shaped pink and white flowers that appear before the leaves in spring. Commonly found in temperate gardens worldwide, especially in North America and Europe.",
+      "bloomingSeason": "March to May",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer Magnolias are among the earliest trees to bloom in spring, often marking the arrival of the season."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking white lily species with large, fragrant trumpet-shaped flowers. It thrives in Mediterranean climates and is often cultivated in gardens for its elegant appearance and scent.",
+      "bloomingSeason": "April to June",
+      "location": "Mediterranean region and cultivated worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Historically, the Madonna Lily symbolizes purity and has been depicted in many religious artworks."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "The state flower of California, this wildflower has vibrant orange to yellow cup-shaped blooms that open in sunny weather. It grows in open fields and hillsides, often carpeting them in bright colors.",
+      "bloomingSeason": "March to May",
+      "location": "Western North America, especially California",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "California Poppies close their petals at night and reopen with morning sunlight, exhibiting nyctinastic movements."
+    },
+    {
+      "name": "Cassia fistula",
+      "commonName": "Golden Shower Tree",
+      "description": "A tropical flowering tree with spectacular hanging clusters of bright yellow flowers. It is prominent in South and Southeast Asia and blooms profusely during the dry season, signaling the arrival of summer.",
+      "bloomingSeason": "April to June",
+      "location": "India, Thailand, Sri Lanka, and surrounding regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "The Golden Shower Tree is the national tree of Thailand and symbolizes Thai royalty and prosperity."
+    }
+  ]
+}

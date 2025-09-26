@@ -1,0 +1,57 @@
+{
+  "date": "February 20",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "Witch Hazel",
+      "description": "A deciduous shrub or small tree known for its spidery yellow flowers that bloom in late winter. It's native to eastern North America and often blooms when few other plants do, providing early nectar for pollinators.",
+      "bloomingSeason": "January to March",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel is used medicinally for its astringent properties and is one of the few plants that bloom in winter."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and large, showy flowers that bloom in late winter to early spring. Commonly cultivated in temperate regions for its beautiful blooms and glossy foliage.",
+      "bloomingSeason": "January to March",
+      "location": "Native to Japan, Korea, and China; cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias are prized in Asian cultures and symbolize admiration and perfection."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical plant known for its small pink flower heads and unique leaves that fold when touched. It blooms in warm climates around late winter to spring and is often found in disturbed areas or gardens.",
+      "bloomingSeason": "February to May",
+      "location": "Native to South and Central America; naturalized in tropical regions globally",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its leaf-folding response is a rapid plant movement used to deter herbivores or reduce moisture loss."
+    },
+    {
+      "name": "Viola odorata",
+      "commonName": "Sweet Violet",
+      "description": "A small perennial wildflower known for its fragrant purple to blue flowers. It often blooms in late winter to early spring across Europe and parts of Asia, thriving in woodlands and shaded areas.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and Western Asia",
+      "colors": [
+        "purple",
+        "blue",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Sweet violets have been used historically in perfumes and traditional medicine for their soothing scent."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "March 23",
+  "events": [
+    {
+      "year": 1775,
+      "title": "Patrick Henry's 'Give me liberty, or give me death!' speech",
+      "description": "Patrick Henry delivered his famous speech to the Virginia Convention, urging the colonies to take up arms against British rule, marking a pivotal moment in the American Revolution.",
+      "category": "Political/Military",
+      "significance": "This speech galvanized colonial opposition to British rule and helped propel the American colonies towards revolutionary war."
+    },
+    {
+      "year": 1806,
+      "title": "Lewis and Clark Expedition returns",
+      "description": "Meriwether Lewis and William Clark led the Corps of Discovery back to St. Louis after exploring the newly acquired Louisiana Territory, completing their journey to the Pacific Ocean and back.",
+      "category": "Exploration",
+      "significance": "The expedition provided valuable information about the geography, biology, and indigenous peoples of the western United States."
+    },
+    {
+      "year": 1919,
+      "title": "Founding of the Italian Fascist Party",
+      "description": "Benito Mussolini founded the Fasci Italiani di Combattimento, the forerunner of the National Fascist Party, marking the birth of fascism in Italy.",
+      "category": "Political",
+      "significance": "This event heralded the rise of fascism and significantly impacted European and world political history in the 20th century."
+    },
+    {
+      "year": 1965,
+      "title": "Civil Rights Movement: The first Selma to Montgomery march begins",
+      "description": "After 'Bloody Sunday', approximately 3,200 civil rights activists began the march from Selma to Montgomery, Alabama, to demand voting rights for African Americans.",
+      "category": "Civil Rights",
+      "significance": "The march increased national awareness of racial injustice and helped lead to the passage of the Voting Rights Act of 1965."
+    },
+    {
+      "year": 1983,
+      "title": "Introduction of the first Internet domain name system (DNS)",
+      "description": "The Domain Name System (DNS), a key component in the functioning of the Internet, was implemented for the first time, allowing users to access websites using user-friendly domain names instead of IP addresses.",
+      "category": "Technology",
+      "significance": "The DNS revolutionized the usability of the internet and laid the foundation for its rapid expansion and global accessibility."
+    }
+  ]
+}

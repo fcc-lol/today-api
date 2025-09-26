@@ -1,0 +1,60 @@
+{
+  "date": "April 18",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous flowering tree known for its large, fragrant, tulip-shaped flowers appearing before the leaves. It thrives in temperate regions and is often one of the first magnolias to bloom in spring.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions worldwide, originally East Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Saucer Magnolia was one of the earliest magnolias hybridized for gardens and is famed for its spectacular early spring blooms."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub adapted to Mediterranean climates, producing clusters of showy, fragrant flowers throughout the growing season. Oleander is drought-tolerant and often blooms profusely in warmer springs.",
+      "bloomingSeason": "April to October",
+      "location": "Mediterranean Basin, widely cultivated in subtropical and tropical regions",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of oleander are highly toxic due to cardiac glycosides."
+    },
+    {
+      "name": "Erythronium japonicum",
+      "commonName": "Asian Fawn Lily",
+      "description": "A perennial wildflower native to East Asia with nodding, lily-like flowers that bloom in early spring under deciduous forests.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, Korea, northeastern China",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Asian fawn lily often grows in colonies and is known for its mottled leaves resembling a fawn’s coat."
+    },
+    {
+      "name": "Ceanothus thyrsiflorus",
+      "commonName": "Blue Blossom or California Lilac",
+      "description": "An evergreen shrub native to the western United States, particularly California. It produces dense clusters of small blue flowers that bloom in spring, attracting pollinators.",
+      "bloomingSeason": "March to May",
+      "location": "California coast and foothills",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "💙",
+      "funFact": "Ceanothus species fix nitrogen in the soil, enriching poor soils where they grow naturally."
+    }
+  ]
+}

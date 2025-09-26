@@ -1,0 +1,57 @@
+{
+  "date": "March 3",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant native to mountainous regions of Europe, the Christmas Rose blooms in late winter to early spring. It features elegant white to pale pink flowers that can tolerate frost and snow, often blooming through cold weather when few other plants do.",
+      "bloomingSeason": "January to March",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its common name, the Christmas Rose blooms around Christmas and early spring, symbolizing hope in winter."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle / Mimosa",
+      "description": "A fast-growing evergreen tree native to southeastern Australia, known for its bright yellow, fluffy, spherical flowers. It blossoms profusely in late winter to early spring and is widely cultivated in temperate regions for its ornamental value and fragrance.",
+      "bloomingSeason": "February to March",
+      "location": "Southeastern Australia; cultivated worldwide in Mediterranean climates",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Silver Wattle's flowers are a traditional symbol of spring in parts of Italy, where they are given on International Women's Day (March 8)."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial producing cup-shaped flowers, typically purple, white, or yellow, marking the onset of spring. It grows in meadows and woodlands of Europe and is cultivated widely in gardens as an early spring flowering bulb.",
+      "bloomingSeason": "February to April",
+      "location": "Europe",
+      "colors": [
+        "purple",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Crocuses often bloom through melting snow, signaling the end of winter to many gardeners."
+    },
+    {
+      "name": "Calla palustris",
+      "commonName": "Bog Arum / Marsh Calla",
+      "description": "A wetland plant native to boreal regions of the Northern Hemisphere, it blooms in early spring with elegant white spathes surrounding a yellow spadix. It thrives in peat bogs and wetlands, a rare sight in early March in its native cold habitats.",
+      "bloomingSeason": "March to May",
+      "location": "Northern Europe, Northern Asia, Northern North America",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "The Bog Arum's flower structure is an effective adaptation to attract specific pollinators in wet, cool environments."
+    }
+  ]
+}

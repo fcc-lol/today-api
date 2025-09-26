@@ -1,0 +1,59 @@
+{
+  "date": "December 1",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy leaves and large, showy flowers that bloom in late fall to early spring. Often grown in gardens for its stunning and colorful blooms amid winter months.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated worldwide in temperate regions",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after botanist Georg Kamel and have been cultivated in Japan for centuries, symbolizing admiration and perfection."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant that blooms in winter, often around Christmas, with white to pink flowers. It is beloved for bringing color to shady winter gardens.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe, cultivated in temperate gardens",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite the name 'rose,' Christmas Rose flowers are not true roses but are prized for their ability to bloom in snowy conditions."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that can bloom year-round in subtropical and Mediterranean climates, producing clusters of fragrant flowers. Blooms often continue into winter in mild climates.",
+      "bloomingSeason": "Spring to winter (year-round in suitable climates)",
+      "location": "Mediterranean region, southern United States, and subtropical areas",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is highly toxic if ingested, yet it is widely planted for its long-lasting blooms and drought tolerance."
+    },
+    {
+      "name": "Eucalyptus globulus",
+      "commonName": "Blue Gum Eucalyptus",
+      "description": "A fast-growing evergreen tree native to Australia, producing white flowers in clusters during winter months. Its flowers attract nectar-feeding birds and insects.",
+      "bloomingSeason": "April to December (varies by region, December blooming common in southern hemisphere)",
+      "location": "Australia, also cultivated globally in Mediterranean and subtropical climates",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Eucalyptus flowers lack petals; the showy part consists of the many long stamens that attract pollinators."
+    }
+  ]
+}

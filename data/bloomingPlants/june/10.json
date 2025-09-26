@@ -1,0 +1,62 @@
+{
+  "date": "June 10",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are woody perennial flowering plants known for their large, fragrant blossoms. They are widely cultivated in gardens worldwide and bloom profusely in late spring and early summer in temperate regions.",
+      "bloomingSeason": "May to July",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "There are over 300 species of roses and thousands of cultivars, making them one of the most popular and diverse garden flowers."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "Lupines are nitrogen-fixing plants that produce tall spikes of colorful pea-like flowers. They bloom in late spring to early summer and are native to western North America but widely cultivated elsewhere.",
+      "bloomingSeason": "May to July",
+      "location": "North America, cultivated in Europe and New Zealand",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines play an important role in improving soil fertility by fixing atmospheric nitrogen."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "White Water Lily",
+      "description": "This aquatic plant blooms on the surface of still and slow-moving freshwater bodies during the warmer months. The flowers open in early morning and close by afternoon.",
+      "bloomingSeason": "June to August",
+      "location": "Europe, North Africa, and parts of Asia",
+      "colors": [
+        "White",
+        "Yellow (center)"
+      ],
+      "emoji": "💧",
+      "funFact": "Water lilies have specially adapted leaves with waxy coatings to repel water and allow them to float."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A subtropical tree known for its spectacular display of purple-blue trumpet-shaped flowers appearing in late spring to early summer, particularly in the southern hemisphere.",
+      "bloomingSeason": "May to June",
+      "location": "South America (native), widely cultivated in Australia, South Africa, and California",
+      "colors": [
+        "Purple",
+        "Blue"
+      ],
+      "emoji": "🌺",
+      "funFact": "The jacaranda tree is often associated with springtime and university exam season in some countries like Australia and South Africa."
+    }
+  ]
+}

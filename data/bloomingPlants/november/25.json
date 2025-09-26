@@ -1,0 +1,58 @@
+{
+  "date": "November 25",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular evergreen shrub known for its large, glossy leaves and stunning rose-like flowers. It blooms in late autumn to early spring, bringing color during cooler months.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated worldwide in temperate climates",
+      "colors": [
+        "Pink",
+        "Red",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Japanese Camellia has been cultivated for centuries and its oil is used for hair care in Japan."
+    },
+    {
+      "name": "Erica arborea",
+      "commonName": "Tree Heath",
+      "description": "A woody shrub or small tree native to the Mediterranean region with white to pale pink bell-shaped flowers that bloom in late autumn and winter, often covering landscapes in bloom during this time.",
+      "bloomingSeason": "October to December",
+      "location": "Mediterranean Basin, parts of Africa",
+      "colors": [
+        "White",
+        "Pale Pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Tree Heath is an important nectar source for bees during late-season months when few other flowers are available."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "An evergreen tree notable for its large, fragrant white flowers that can bloom sporadically from spring through late autumn, often still showing blooms in November in warmer climates.",
+      "bloomingSeason": "Spring to November",
+      "location": "Southeastern United States",
+      "colors": [
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Southern Magnolia’s blooms are highly fragrant and have been used in traditional medicines."
+    },
+    {
+      "name": "Leucadendron rubrum",
+      "commonName": "Red Leucadendron",
+      "description": "A striking shrub from South Africa’s fynbos region with colorful bracts that appear in late autumn, adding splashes of red and yellow to the landscape.",
+      "bloomingSeason": "May to November",
+      "location": "South Africa",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "emoji": "🌿",
+      "funFact": "Leucadendrons have specialized seed capsules that open and disperse seeds after wildfires."
+    }
+  ]
+}

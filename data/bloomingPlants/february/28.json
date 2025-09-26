@@ -1,0 +1,58 @@
+{
+  "date": "February 28",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A perennial flowering plant known for its vibrant early spring blooms. It thrives in temperate climates and is often one of the first signs of spring.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and North America",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses were historically used to produce saffron, a valuable spice, though the culinary saffron comes from a related species."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub famous for its beautiful, rose-like flowers appearing in late winter and early spring. It prefers mild climates and acidic soils.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia, cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, though he never saw the plant himself."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical plant known for its fast-moving leaves that fold when touched. It produces small, fragrant, fluffy yellow flowers.",
+      "bloomingSeason": "Year-round in tropical climates, including February",
+      "location": "Central and South America, cultivated in tropics",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Besides its unique touch-sensitive leaves, Mimosa pudica is considered a pioneer species in disturbed soils."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree that blooms with distinctive golden flower spikes, attracting birds and insects during late summer and early autumn, but can bloom sporadically in mild coastal regions in February.",
+      "bloomingSeason": "January to April, with peak blooms varying",
+      "location": "Eastern Australia",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are important food sources for many Australian nectar-feeding wildlife species."
+    }
+  ]
+}

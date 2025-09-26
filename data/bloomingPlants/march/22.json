@@ -1,0 +1,56 @@
+{
+  "date": "March 22",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning clusters of pale pink to white flowers that bloom profusely in early spring. Widely celebrated in Japan during sakura festivals, these blossoms symbolize renewal and the transient beauty of life.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, East Asia, temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese Cherry Blossoms have a very short blooming period, usually lasting only one to two weeks before the petals fall, creating beautiful pink carpets on the ground."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub producing large, fragrant clusters of flowers ranging from white and pink to red. Oleanders are drought-tolerant and bloom from spring through fall in warm climates, often used in landscaping in Mediterranean and subtropical areas.",
+      "bloomingSeason": "March to October",
+      "location": "Mediterranean Basin, Southern USA, subtropical regions",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, containing cardiac glycosides that can affect the heart."
+    },
+    {
+      "name": "Wattle (Acacia pycnantha)",
+      "commonName": "Golden Wattle",
+      "description": "Australia’s national floral emblem, this tree sports bright yellow, fluffy, spherical flower clusters that bloom in late winter to early spring. It’s a hardy species adapted to dry conditions and poor soils.",
+      "bloomingSeason": "August to October (southern hemisphere late winter to spring, matching March Northern Hemisphere)",
+      "location": "Australia (southern hemisphere)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The golden wattle’s golden color and fragrance symbolize unity and resilience in Australian culture."
+    },
+    {
+      "name": "Forsythia × intermedia",
+      "commonName": "Forsythia",
+      "description": "A deciduous shrub known for one of the earliest and brightest yellow blooms in early spring. Forsythia’s flowers appear on bare branches before the leaves, creating vivid bursts of color in gardens and parks throughout temperate zones.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions globally; native to eastern Asia and southeastern Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Forsythia is often used as a natural indicator of spring’s arrival due to its early blooming."
+    }
+  ]
+}

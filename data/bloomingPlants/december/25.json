@@ -1,0 +1,59 @@
+{
+  "date": "December 25",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy, evergreen shrub known for its clusters of fragrant, colorful flowers. It thrives in warm Mediterranean climates and is frequently seen blooming in winter in milder regions such as Southern California and parts of the Mediterranean basin.",
+      "bloomingSeason": "May to December (often year-round in frost-free zones)",
+      "location": "Mediterranean region, Southern California, subtropical areas",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Camellia japonica is a classic winter-blooming shrub with large, showy flowers that brighten gardens during the colder months. It is native to eastern and southern Asia and thrives in temperate climates, blooming profusely from late fall to early spring.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, parts of the southeastern USA, temperate gardens worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized in Asia and have inspired art and poetry for centuries due to their elegant flowers."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "Manuka is a New Zealand native shrub famous for its small white or pink flowers that bloom in late spring and summer in the Southern Hemisphere, which corresponds to December in that region. It also produces nectar used to make manuka honey, acclaimed for its medicinal properties.",
+      "bloomingSeason": "November to January (Southern Hemisphere summer)",
+      "location": "New Zealand, parts of Australia",
+      "colors": [
+        "White",
+        "Pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Manuka honey, derived from this plant's nectar, has natural antimicrobial qualities and is used in wound care."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "The Christmas rose is named for its typical blooming time around Christmas in colder European climates. It's a hardy perennial with nodding white flowers that can tolerate snow and frost, making it one of the few ornamental plants flowering in midwinter.",
+      "bloomingSeason": "December to March",
+      "location": "Central and southern Europe",
+      "colors": [
+        "White",
+        "Greenish White"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, the Christmas rose is not a true rose but a member of the buttercup family."
+    }
+  ]
+}

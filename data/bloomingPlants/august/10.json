@@ -1,0 +1,56 @@
+{
+  "date": "August 10",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "Sunflowers are tall annual plants with large, bright yellow ray florets surrounding a central disc that matures into seeds. They are known for their heliotropism, turning to face the sun throughout the day.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Temperate regions worldwide, often cultivated but also naturalized in North America and Europe",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and their seeds are a nutritious food source for both people and wildlife."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "An evergreen shrub or small tree that produces clusters of bright red, trumpet-shaped flowers. It is the national flower of Nepal and grows in the Himalayan region.",
+      "bloomingSeason": "July to September",
+      "location": "Himalayan foothills and mountainous regions in South Asia",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "This species can grow over 20 meters tall and its flowers are used in traditional medicines."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial native to North America with large, purplish-pink petals surrounding a spiny, orange-brown central cone. Popular for medicinal uses and pollinator gardens.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Central and Eastern United States",
+      "colors": [
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, fragrant pink or white flowers that float above water on long stems. It holds cultural and religious significance in Asia.",
+      "bloomingSeason": "Summer to early fall (June to September)",
+      "location": "Wetlands and ponds across Asia, particularly India and China",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "Lotus seeds can remain viable for hundreds of years; one seed germinated after about 1,300 years."
+    }
+  ]
+}

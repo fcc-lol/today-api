@@ -1,0 +1,40 @@
+{
+  "date": "April 30",
+  "events": [
+    {
+      "year": 1789,
+      "title": "George Washington Inaugurated as First U.S. President",
+      "description": "George Washington took the oath of office in New York City, becoming the first President of the United States under the new Constitution.",
+      "category": "Political",
+      "significance": "Marked the beginning of the United States government under the Constitution and set a precedent for peaceful transition of power."
+    },
+    {
+      "year": 1945,
+      "title": "Death of Adolf Hitler",
+      "description": "Adolf Hitler committed suicide in his bunker in Berlin as Soviet forces closed in during World War II.",
+      "category": "War",
+      "significance": "Signaled the imminent end of Nazi Germany and World War II in Europe."
+    },
+    {
+      "year": 1975,
+      "title": "Fall of Saigon",
+      "description": "North Vietnamese forces captured Saigon, marking the end of the Vietnam War and leading to the reunification of Vietnam under communist control.",
+      "category": "War/Political",
+      "significance": "Ended decades of conflict in Vietnam and shifted geopolitical dynamics in Southeast Asia."
+    },
+    {
+      "year": 1803,
+      "title": "Louisiana Purchase Announced to the U.S. Senate",
+      "description": "President Thomas Jefferson announced the Louisiana Purchase, doubling the size of the United States.",
+      "category": "Political/Expansion",
+      "significance": "Significantly expanded U.S. territory and paved the way for westward expansion."
+    },
+    {
+      "year": 1993,
+      "title": "Czechoslovakia Peacefully Splits into Czech Republic and Slovakia",
+      "description": "The peaceful dissolution known as the Velvet Divorce officially took effect, creating two independent nations.",
+      "category": "Political",
+      "significance": "An example of a peaceful separation of states following political and nationalistic differences."
+    }
+  ]
+}

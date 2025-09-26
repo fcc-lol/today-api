@@ -1,0 +1,58 @@
+{
+  "date": "September 1",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flowers with a central brown disk. It thrives in temperate regions and is widely cultivated for its seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "Northern Hemisphere temperate regions, including North America and Europe",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, where young flower heads follow the sun from east to west during the day."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "An evergreen shrub with large, leathery leaves and clusters of pink to lavender bell-shaped flowers. It is native to the Pacific Northwest and blooms in late summer to early fall.",
+      "bloomingSeason": "August to September",
+      "location": "Pacific Northwest, USA",
+      "colors": [
+        "pink",
+        "lavender"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Pacific Rhododendron is the state flower of Washington."
+    },
+    {
+      "name": "Wattle (Acacia pycnantha)",
+      "commonName": "Golden Wattle",
+      "description": "A shrub or small tree with bright golden-yellow, fluffy flower clusters. It is the national floral emblem of Australia and blooms as winter transitions to spring in the Southern Hemisphere, but in some regions, blooms can start as early as August and continue into September.",
+      "bloomingSeason": "August to September (Southern Hemisphere)",
+      "location": "Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "The bright yellow flowers of the Golden Wattle were used by Aboriginal Australians as a source of food and medicine."
+    },
+    {
+      "name": "Ipomoea purpurea",
+      "commonName": "Common Morning Glory",
+      "description": "A fast-growing climbing vine with trumpet-shaped flowers that open in the morning and close in the afternoon. It blooms profusely in late summer to early autumn in many temperate regions.",
+      "bloomingSeason": "July to September",
+      "location": "Widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Morning Glories exhibit photoperiodism, blooming in response to day length, which makes them bloom in late summer and early fall."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "September 20",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "The common sunflower is an annual plant native to North America, known for its large, bright yellow flower heads that follow the sun's movement. It thrives in full sun and well-drained soil.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their flower heads to follow the sun across the sky during the day."
+    },
+    {
+      "name": "Lantana camara",
+      "commonName": "Lantana",
+      "description": "Lantana is a hardy, flowering shrub native to tropical regions of the Americas. It produces small, clustered flowers that change color as they mature, attracting butterflies and hummingbirds.",
+      "bloomingSeason": "Year-round in tropical regions; August to October in temperate zones",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "orange",
+        "red",
+        "yellow",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Lantana flowers can change color over several days, signaling different stages of nectar availability to pollinators."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "This tropical shrub is known for its large, showy flowers with five petals. It thrives in warm climates and is often used as an ornamental plant in gardens and landscapes.",
+      "bloomingSeason": "Year-round in tropical climates; peaks from late summer to early fall",
+      "location": "Tropical and subtropical Asia and Pacific islands",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers typically last only a single day but are produced abundantly throughout the blooming season."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial herb that produces masses of small yellow flowers in late summer and early fall. It is an important nectar source for bees and butterflies.",
+      "bloomingSeason": "August to October",
+      "location": "North America, especially eastern and central regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often mistakenly blamed for hay fever, but it is actually insect-pollinated; the real culprit is wind-pollinated ragweed."
+    }
+  ]
+}

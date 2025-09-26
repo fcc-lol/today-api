@@ -1,0 +1,56 @@
+{
+  "date": "February 13",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub popular for its large, showy, rose-like flowers with glossy foliage, often blooming in late winter to early spring.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia, cultivated widely in temperate gardens worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia flowers were prized by the Victorians and symbolize admiration and perfection."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant known for its white to pinkish flowers that often bloom in the coldest winter months, sometimes peeking through snow.",
+      "bloomingSeason": "December to February",
+      "location": "Alps and European mountain regions",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, Christmas Rose blooms mainly in mid-winter and its early flowers were used historically in traditional medicine."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical flowering plant famous for its rapid leaf movements when touched, producing small, pink, fluffy flower heads in late winter and early spring in warmer climates.",
+      "bloomingSeason": "February to May",
+      "location": "Tropical America, widely naturalized in tropical and subtropical regions",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "The leaves close up when disturbed to protect from harm, a defense mechanism called thigmonasty."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle or Mimosa",
+      "description": "A fast-growing tree with feathery silver foliage and bright yellow, fragrant spherical flower clusters blooming in late winter to early spring.",
+      "bloomingSeason": "January to March",
+      "location": "Australia, Mediterranean, and temperate regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Acacia dealbata flowers are often used in perfumery and celebrated for their vibrant color and scent."
+    }
+  ]
+}

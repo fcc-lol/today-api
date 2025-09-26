@@ -1,0 +1,60 @@
+{
+  "date": "June 22",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are perennial shrubs known for their large, fragrant flowers. They vary widely in size and color, making them beloved in gardens worldwide. In temperate climates, many rose varieties bloom profusely in late spring through summer.",
+      "bloomingSeason": "May to July (temperate regions)",
+      "location": "Widely cultivated globally, especially Northern Hemisphere temperate zones",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange",
+        "purple"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for millennia and have been cultivated for over 5,000 years."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "The sacred lotus is an aquatic perennial known for its large, fragrant pink or white flowers that bloom above the water surface. It is culturally significant in Asia and has unique thermoregulatory properties, maintaining flower temperature to attract pollinators.",
+      "bloomingSeason": "June to August",
+      "location": "Asia, especially Indian subcontinent and East Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Lotus flowers can regulate their internal temperature, staying warmer than the surrounding air to attract beetle pollinators."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A woodland wildflower featuring nodding yellow flowers with mottled leaves that resemble trout skin. It emerges in early spring, but in some northern and alpine regions, it can still be found blooming into late June.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Yellow Trout Lily can take up to 7 years to flower from seed and often spreads vegetatively via underground bulbs."
+    },
+    {
+      "name": "Puya chilensis",
+      "commonName": "Chilean Puya",
+      "description": "A striking bromeliad producing tall, spiky inflorescences with vibrant turquoise-blue flowers. Native to arid regions of Chile, it blooms in late spring through early summer, attracting hummingbirds and other pollinators.",
+      "bloomingSeason": "May to July",
+      "location": "Central Chile",
+      "colors": [
+        "turquoise",
+        "blue"
+      ],
+      "emoji": "🌵",
+      "funFact": "Puya chilensis can grow to over 3 meters tall and is one of the largest bromeliads in the world."
+    }
+  ]
+}

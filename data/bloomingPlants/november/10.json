@@ -1,0 +1,60 @@
+{
+  "date": "November 10",
+  "plants": [
+    {
+      "name": "Chrysanthemum indicum",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums, often called mums, are popular flowering plants renowned for their vibrant and dense flower heads. They thrive in autumn and early winter, producing a wide range of colors and forms. They are widely cultivated in gardens for late-season color.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions, widely cultivated globally",
+      "colors": [
+        "yellow",
+        "orange",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in many cultures, especially in East Asia."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "Camellia japonica is an evergreen shrub with glossy leaves and large, showy flowers. It blooms in late autumn to early winter, adding color and elegance to gardens when many other plants are dormant.",
+      "bloomingSeason": "October to March",
+      "location": "Eastern Asia; also cultivated in temperate gardens worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia oil, extracted from the seeds, is used in cooking and cosmetics in East Asia."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This striking flower features a large central bloom resembling an artichoke, surrounded by spiny petals. It blooms in the late spring to early summer in South Africa, but in some regions and cultivations, it can bloom intermittently around November.",
+      "bloomingSeason": "September to December",
+      "location": "South Africa",
+      "colors": [
+        "pink",
+        "cream"
+      ],
+      "emoji": "🌸",
+      "funFact": "The King Protea is the national flower of South Africa and symbolizes change and hope."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "A fast-growing evergreen tree with bright orange flowers that attract birds. It blooms mainly in spring and early summer but often extends into November in warmer climates.",
+      "bloomingSeason": "September to November",
+      "location": "Eastern Australia, subtropical regions",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "The wood of Silky Oak is valued for furniture making due to its attractive grain."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "August 20",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "Sunflowers are tall annual plants with large, bright yellow composite flower heads that track the sun. They are widely cultivated and also found in the wild, thriving in temperate regions.",
+      "bloomingSeason": "July to September",
+      "location": "North America, Europe, Asia (temperate regions)",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism in bud stage, turning to follow the sun throughout the day."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "This deciduous shrub is prized for its large, globe-shaped flower clusters, which can change color depending on soil pH.",
+      "bloomingSeason": "June to August",
+      "location": "East Asia and widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "blue",
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "💠",
+      "funFact": "Hydrangea flower color is influenced by aluminum availability, which is governed by soil acidity."
+    },
+    {
+      "name": "Lilium lancifolium",
+      "commonName": "Tiger Lily",
+      "description": "A hardy perennial with striking orange flowers marked with dark spots, often growing wild and cultivated in temperate and subtropical regions.",
+      "bloomingSeason": "July to September",
+      "location": "East Asia, also naturalized in parts of North America",
+      "colors": [
+        "orange",
+        "black"
+      ],
+      "emoji": "🌺",
+      "funFact": "Tiger lilies produce bulbils in leaf axils, allowing propagation without seeds."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree known for its bright orange, spider-like flowers that attract birds and insects.",
+      "bloomingSeason": "August to November",
+      "location": "Eastern Australia and widely cultivated in subtropical regions",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its common name, Silky Oak is not an oak but belongs to the Proteaceae family."
+    }
+  ]
+}

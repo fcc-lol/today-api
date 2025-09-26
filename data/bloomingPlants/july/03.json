@@ -1,0 +1,61 @@
+{
+  "date": "July 3",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are iconic flowering shrubs widely cultivated in gardens and landscapes worldwide. They produce large, fragrant flowers that come in many colors, often blooming repeatedly through the summer.",
+      "bloomingSeason": "Late spring to early autumn (May to September)",
+      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for thousands of years and can have over 300 species worldwide."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This tall perennial herb produces striking spikes of pea-like flowers, well known for their vivid colors and attractiveness to pollinators.",
+      "bloomingSeason": "June to August",
+      "location": "Native to western North America but cultivated widely in temperate regions",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines can fix nitrogen in the soil, enriching the ground and helping other plants grow."
+    },
+    {
+      "name": "Tibouchina urvilleana",
+      "commonName": "Glory Bush",
+      "description": "An evergreen shrub bearing large, velvety purple flowers that bloom profusely during summer in subtropical and tropical climates.",
+      "bloomingSeason": "Late spring to early autumn",
+      "location": "Native to Brazil, grown as ornamental shrub in warm climates including southern USA and Mediterranean",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Tibouchina flowers attract hummingbirds and butterflies, enhancing garden biodiversity."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "A large aquatic plant with round floating leaves and striking, fragrant flowers that open in the morning and close at night, often blooming during warm summer months.",
+      "bloomingSeason": "June to August",
+      "location": "Native to Asia and Australia, found in warm freshwater ponds and lakes",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Sacred Lotus flower is revered in many cultures symbolizing purity and spiritual awakening."
+    }
+  ]
+}

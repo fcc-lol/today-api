@@ -1,0 +1,58 @@
+{
+  "date": "December 9",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is an evergreen shrub known for its long-lasting and fragrant clusters of flowers. It thrives in warm climates and blooms almost year-round in Mediterranean and subtropical regions.",
+      "bloomingSeason": "May to December (sometimes longer in warm climates)",
+      "location": "Mediterranean Basin, Southern USA, India",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Although toxic if ingested, oleander has been used traditionally for its medicinal properties in controlled doses."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular ornamental shrub with glossy evergreen leaves and large, showy flowers. Camellias are winter bloomers, often flowering from late fall through early spring.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia (Japan, Korea, China), cultivated in temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia japonica was named after botanist Georg Kamel, and its leaves are related to tea plants (Camellia sinensis)."
+    },
+    {
+      "name": "Clivia miniata",
+      "commonName": "Natal Lily or Bush Lily",
+      "description": "A shade-loving perennial with strap-shaped leaves and clusters of trumpet-shaped flowers. Native to South Africa, it blooms in late winter to early spring but can flower in mild winters in other climates.",
+      "bloomingSeason": "December to February",
+      "location": "South Africa",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Clivia species are named after the Duchess of Northumberland, Lady Clive, who first received seeds from South Africa."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A hardy Australian tree that often flowers in winter, producing clusters of white flowers that attract many nectar-feeding birds and insects.",
+      "bloomingSeason": "November to January",
+      "location": "Alpine and subalpine regions of southeastern Australia",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow gums are adapted to survive frost and snow, making their winter blooming somewhat unusual among trees."
+    }
+  ]
+}

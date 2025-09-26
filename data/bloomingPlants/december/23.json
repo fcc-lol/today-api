@@ -1,0 +1,58 @@
+{
+  "date": "December 23",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub with clusters of fragrant, showy flowers that bloom in warm climates, often found in Mediterranean and subtropical regions.",
+      "bloomingSeason": "May to December (in warm climates)",
+      "location": "Mediterranean, Southern United States, subtropical regions",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, but it is widely cultivated for its beautiful, long-lasting flowers."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A eucalyptus species native to the high country of southeastern Australia, known for its attractive white to cream flowers that appear in late autumn to winter.",
+      "bloomingSeason": "May to December",
+      "location": "Southeastern Australia",
+      "colors": [
+        "White",
+        "Cream"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow Gums are adapted to cold alpine environments and their flowers provide important nectar sources in winter for native birds and insects."
+    },
+    {
+      "name": "Winter Jasmine (Jasminum nudiflorum)",
+      "commonName": "Winter Jasmine",
+      "description": "A deciduous shrub prized for its bright yellow flowers which bloom on bare stems in late winter to early spring, often starting in December in milder climates.",
+      "bloomingSeason": "December to March",
+      "location": "China (native), cultivated in temperate regions worldwide",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Winter Jasmine blooms vigorously even in cold weather and is often used to brighten winter gardens."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with large, glossy leaves and rose-like flowers that typically bloom in late fall through early spring, celebrated for its elegant blooms in winter gardens.",
+      "bloomingSeason": "October to March",
+      "location": "Japan, China, Korea; also widely cultivated in temperate regions",
+      "colors": [
+        "Pink",
+        "Red",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia japonica flowers have inspired East Asian art and culture for centuries, symbolizing purity and longevity."
+    }
+  ]
+}

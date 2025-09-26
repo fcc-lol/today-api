@@ -1,0 +1,58 @@
+{
+  "date": "March 13",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small perennial flowering plant that often emerges through late winter snow, heralding early spring. It produces cup-shaped flowers in vibrant purples, yellows, and whites.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocuses are among the first flowers to bloom, sometimes even snow can’t stop them, making them a true symbol of spring's arrival."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its spectacular groups of pale pink to white blossoms that create stunning floral displays in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "East Asia (Japan, Korea, China) and cultivated widely in temperate zones",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms bloom for only about one to two weeks, and their fleeting beauty is celebrated in festivals such as Japan’s Hanami."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "An iconic South African flowering shrub with large, dramatic flower heads resembling a giant artichoke, surrounded by colorful bracts.",
+      "bloomingSeason": "January to March",
+      "location": "South Africa (Fynbos biome)",
+      "colors": [
+        "pink",
+        "red",
+        "cream"
+      ],
+      "emoji": "🪻",
+      "funFact": "The King Protea is the national flower of South Africa and is known for its incredible drought tolerance and unique flower structure."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial producing bright yellow trumpet-shaped flowers, commonly found blooming in woodlands and meadows in early spring.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, particularly western and central regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils have inspired countless spring festivals and poems symbolizing renewal and new beginnings."
+    }
+  ]
+}

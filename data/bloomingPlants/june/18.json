@@ -1,0 +1,60 @@
+{
+  "date": "June 18",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are a globally beloved group of flowering plants known for their beautifully layered petals and fragrant blooms. They thrive in temperate climates and are commonly found in gardens and wild hedgerows. Many species and cultivars bloom profusely around mid-June, marking the classic peak of rose season in the Northern Hemisphere.",
+      "bloomingSeason": "May to July",
+      "location": "Temperate regions worldwide, including Europe, North America, and parts of Asia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "There are over 300 species of roses and thousands of cultivars, making them one of the most diverse groups of flowering plants."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "The waratah is a striking Australian native shrub known for its large, brilliantly red flower heads composed of many individual flowers. It usually blooms in late spring to early summer, offering a spectacular floral display that attracts birds and insects.",
+      "bloomingSeason": "October to December (Southern Hemisphere - spring to early summer)",
+      "location": "Southeast Australia (New South Wales)",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The waratah is the floral emblem of the state of New South Wales and is prized for its resilience and ornamental value."
+    },
+    {
+      "name": "Delphinium spp.",
+      "commonName": "Delphiniums",
+      "description": "Delphiniums are tall, stately perennials admired for their spiked inflorescences packed with numerous small, often blue or purple flowers. They commonly bloom in early to midsummer and are popular in cottage gardens.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Temperate regions worldwide, native to the Northern Hemisphere, especially mountains of North America and Europe",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "💐",
+      "funFact": "Delphiniums contain toxic alkaloids, so they should be handled with care, especially around pets and children."
+    },
+    {
+      "name": "Datura inoxia",
+      "commonName": "Moonflower",
+      "description": "Moonflower is a fast-growing vine known for its large, fragrant white flowers that open in the evening. It typically blooms in summer and is well-suited to warm temperate and subtropical climates, often enjoyed in gardens for its nocturnal bloom.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Native to the southwestern United States and Mexico, cultivated in warm temperate regions worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌙",
+      "funFact": "Moonflowers bloom at night and close by morning, attracting moths and other nocturnal pollinators."
+    }
+  ]
+}

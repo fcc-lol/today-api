@@ -1,0 +1,59 @@
+{
+  "date": "June 2",
+  "plants": [
+    {
+      "name": "Rosa species",
+      "commonName": "Rose",
+      "description": "Roses are woody perennial flowering plants, growing in a wide variety of shapes and sizes. Their flowers are known for their layered petals and fragrance, widely cultivated for ornamental and commercial purposes.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "The rose is the national flower of the United States and has been cultivated for over 5,000 years."
+    },
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "Foxglove is a biennial plant, famous for its tall spikes of tubular flowers that attract pollinators such as bees and hummingbirds.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Europe; widely naturalized in North America",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Foxglove contains digitalis, a cardiac glycoside used medically to treat heart conditions."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A woodland wildflower with nodding, yellow, bell-shaped flowers and mottled foliage that resembles trout skin.",
+      "bloomingSeason": "Spring (April to June)",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Yellow Trout Lily spreads predominantly by underground bulbs and can create large colonies."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A subtropical tree known for its striking, vibrant blue-purple trumpet-shaped flowers that bloom in late spring to early summer.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to South America; cultivated in subtropical areas worldwide",
+      "colors": [
+        "blue-purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Jacaranda trees can cover entire streets with their spectacular blossoms, often hailed as a sign of spring in places like Pretoria, South Africa."
+    }
+  ]
+}

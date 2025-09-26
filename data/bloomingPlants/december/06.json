@@ -1,0 +1,60 @@
+{
+  "date": "December 6",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub or small tree widely cultivated in warm climates for its fragrant and colorful flowers. It blooms nearly year-round in frost-free Mediterranean and subtropical climates, producing clusters of trumpet-shaped flowers.",
+      "bloomingSeason": "May to December (year-round in some warm climates)",
+      "location": "Mediterranean Basin, Southern United States, South Asia",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Although beautiful, oleander is highly toxic if ingested, containing cardiac glycosides that can affect heart rhythm."
+    },
+    {
+      "name": "Viola odorata",
+      "commonName": "Sweet Violet",
+      "description": "A small perennial plant known for its lovely scented purple or white flowers. In temperate climates, it often blooms from autumn through early spring, thriving in shaded woodland areas and gardens.",
+      "bloomingSeason": "October to March",
+      "location": "Europe, Western Asia, North Africa",
+      "colors": [
+        "Purple",
+        "White"
+      ],
+      "emoji": "💜",
+      "funFact": "Sweet violet flowers have been used historically to scent perfumes and even eaten candied in desserts."
+    },
+    {
+      "name": "Poinsettia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A popular evergreen shrub native to Mexico and Central America, known for its bright red and green foliage that appears as colorful bracts surrounding small yellow flowers. It blooms naturally during the late fall and winter months.",
+      "bloomingSeason": "November to February",
+      "location": "Mexico and Central America, cultivated worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias became a Christmas symbol in the U.S. due to their peak blooming coinciding with the holiday season."
+    },
+    {
+      "name": "Calluna vulgaris",
+      "commonName": "Heather",
+      "description": "A low-growing shrub common in heathlands and moorlands. It flowers late summer through early winter, with blooming often extending into December in milder climates.",
+      "bloomingSeason": "July to December",
+      "location": "Europe, parts of Asia",
+      "colors": [
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌿",
+      "funFact": "Heather honey, made by bees collecting nectar from heather flowers, is prized for its distinctive flavor and medicinal qualities."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "July 22",
+  "events": [
+    {
+      "year": 1298,
+      "title": "Battle of Falkirk",
+      "description": "Edward I of England defeated William Wallace's Scottish forces, a major battle in the First War of Scottish Independence.",
+      "category": "Military",
+      "significance": "The defeat significantly weakened the Scottish resistance against English rule during the Wars of Scottish Independence."
+    },
+    {
+      "year": 1499,
+      "title": "Battle of Dornach",
+      "description": "The Old Swiss Confederacy defeated the forces of the Swabian League, ending the Swabian War.",
+      "category": "Military",
+      "significance": "The Swiss victory secured de facto independence from the Holy Roman Empire for the Swiss Confederacy."
+    },
+    {
+      "year": 1793,
+      "title": "Montagnards execute Charlotte Corday",
+      "description": "Charlotte Corday was executed by guillotine for assassinating Jean-Paul Marat, a radical Jacobin leader, during the French Revolution.",
+      "category": "Political",
+      "significance": "Her execution exemplified the extreme political violence during the Reign of Terror in revolutionary France."
+    },
+    {
+      "year": 1946,
+      "title": "King David Hotel bombing",
+      "description": "A Zionist paramilitary group, the Irgun, bombed the King David Hotel in Jerusalem, killing 91 people in the deadliest attack during the British Mandate of Palestine.",
+      "category": "Terrorism",
+      "significance": "The attack intensified tensions leading to the end of British rule and the establishment of Israel."
+    },
+    {
+      "year": 2011,
+      "title": "Norway attacks",
+      "description": "Anders Behring Breivik carried out a bombing in Oslo and a mass shooting at a youth camp on Utøya island, killing 77 people and injuring many others.",
+      "category": "Terrorism",
+      "significance": "The attacks shocked Norway and the world, highlighting the threat of far-right terrorism in Europe."
+    }
+  ]
+}

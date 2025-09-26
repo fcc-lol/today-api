@@ -1,0 +1,59 @@
+{
+  "date": "April 2",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree known for its large, tulip-shaped flowers. It blooms early in spring before the leaves appear, creating a spectacular floral display in many temperate gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "The saucer magnolia was one of the first magnolias to be hybridized and is popular for its early blooms signaling spring's arrival."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub native to the Mediterranean and parts of Asia, oleander produces clusters of fragrant, funnel-shaped flowers. It thrives in warm climates and blooms over an extended period from spring through fall.",
+      "bloomingSeason": "April to October",
+      "location": "Mediterranean Basin, Southern United States, and subtropical regions",
+      "colors": [
+        "white",
+        "pink",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A wildflower native to eastern North American forests, it emerges in early spring with nodding yellow flowers and mottled leaves reminiscent of trout patterns, often forming colonies on forest floors.",
+      "bloomingSeason": "March to April",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The mottled leaves resemble the markings of a brook trout, hence the common name."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A subtropical tree famous for its striking display of purple-blue trumpet-shaped flowers that cover the tree in spring. In southern hemisphere countries, it blooms around this time, providing vibrant color to urban landscapes.",
+      "bloomingSeason": "March to May (Southern Hemisphere)",
+      "location": "Native to South America; cultivated in Australia, South Africa, and southern U.S. states",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "The jacaranda tree is often called the 'Tree of Fame' due to its spectacular, showy flowers."
+    }
+  ]
+}

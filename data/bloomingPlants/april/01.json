@@ -1,0 +1,55 @@
+{
+  "date": "April 1",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree known for its spectacular display of pink to white flowers that signal the arrival of spring in Japan and many temperate regions. It holds cultural significance and is celebrated with festivals called Hanami.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, temperate zones in Northern Hemisphere",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blooming of cherry blossoms is so significant in Japan that it is monitored closely, and forecasts are made annually to predict the best viewing times."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A small to medium-sized tree that produces vibrant red flowers shaped somewhat like cockscombs. It is popular in subtropical and tropical regions and valued for its ornamental beauty.",
+      "bloomingSeason": "Late summer to early autumn in Northern Hemisphere; in some Southern Hemisphere locations it blooms around March to April",
+      "location": "Native to South America, cultivated in subtropical regions worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia that produces large, tulip-shaped flowers ranging from white to deep pink. It is widely planted in temperate gardens and blooms early in the spring, often before leaves emerge.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated widely in temperate regions across both hemispheres",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Saucer Magnolia is a hybrid between Magnolia denudata and Magnolia liliiflora and was first bred in France in the 1820s."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree well known for its cylindrical golden flower spikes that provide nectar for birds and insects. It blooms mostly in the warmer months, including early autumn in Australia which aligns with April in the Southern Hemisphere.",
+      "bloomingSeason": "Summer to autumn (January to April)",
+      "location": "Eastern Australia coast",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias play a vital ecological role as a food source for nectar-feeding animals and are adapted to survive bushfires."
+    }
+  ]
+}

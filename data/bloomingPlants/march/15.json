@@ -1,0 +1,56 @@
+{
+  "date": "March 15",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial plant known for its vibrant, cup-shaped flowers that signal the arrival of early spring. Often one of the first flowers to bloom as snow melts, making it a cheerful sight in gardens and wild meadows.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocus flowers were historically used to produce saffron, a valuable spice, though the culinary saffron comes from Crocus sativus, a related species."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial with large, white to pale pink bowl-shaped flowers that bloom in late winter to early spring, often pushing through snow. Popular in shade gardens and woodland settings.",
+      "bloomingSeason": "December to March",
+      "location": "Mountainous regions of Europe, especially the Alps",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Despite the name 'Christmas Rose', it commonly blooms around spring in milder climates and is prized for winter garden color."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A coastal Australian tree famous for its cylindrical flower spikes composed of hundreds of tiny individual flowers, attracting nectar-feeding birds and insects.",
+      "bloomingSeason": "March to September",
+      "location": "Eastern Australian coast",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are vital for Australian ecosystems, serving as an important food source for nectarivores during periods when few other plants are flowering."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A spring-flowering wildflower with pale yellow trumpet-shaped flowers. It is often found in meadows, woodland edges, and grasslands, heralding the start of spring in Europe.",
+      "bloomingSeason": "March to May",
+      "location": "Western and Central Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Narcissus species contain toxic alkaloids which deter herbivores, and they are associated mythologically with the Greek tale of Narcissus."
+    }
+  ]
+}

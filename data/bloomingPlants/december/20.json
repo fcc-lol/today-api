@@ -1,0 +1,56 @@
+{
+  "date": "December 20",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub known for its abundant clusters of fragrant flowers. It thrives in warm Mediterranean climates and blooms profusely during mild winters, including December. The flowers can be pink, white, or red and attract nectar-feeding insects.",
+      "bloomingSeason": "May to December",
+      "location": "Mediterranean Basin, Southern US, California",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of the oleander plant are poisonous if ingested, but it’s still widely cultivated for ornamental purposes due to its resilience and striking blooms."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka or Tea Tree",
+      "description": "A native New Zealand shrub that produces small, white to pink flowers. Manuka blooms mostly in late spring to early summer, but in New Zealand’s mild coastal areas, some plants can bloom sporadically even in December. The flowers are important for Manuka honey production.",
+      "bloomingSeason": "Spring to summer (with some flowering into early summer months)",
+      "location": "New Zealand, Southeastern Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Manuka honey, produced from the nectar of Manuka flowers, is prized worldwide for its antibacterial properties."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "This striking tree is known for its vivid red, spiky flowers which bloom in late spring to early winter in suitable climates, often extending into December in subtropical Southern Hemisphere regions.",
+      "bloomingSeason": "Spring to early winter (up to December)",
+      "location": "South America (Argentina, Uruguay), subtropical areas worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The flowers are rich in nectar and attract hummingbirds and butterflies, playing a crucial role in local ecosystems."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant native to mountainous regions of Europe that famously blooms in midwinter, including December. Its white flowers with a delicate fragrance bloom even in frost or snow, symbolizing hope and endurance during winter.",
+      "bloomingSeason": "December to early spring",
+      "location": "Europe, particularly the Alps",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Despite the name, Christmas rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+    }
+  ]
+}

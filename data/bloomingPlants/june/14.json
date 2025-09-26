@@ -1,0 +1,61 @@
+{
+  "date": "June 14",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Rose",
+      "description": "Roses are popular flowering shrubs known for their fragrant and often brightly colored flowers. They thrive in temperate climates and bloom prolifically in late spring to early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for thousands of years and are cultivated in countless varieties worldwide."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A tall perennial with dense spires of pea-like flowers, lupines attract pollinators and thrive in temperate mountain and meadow environments.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "North America, Europe (temperate mountain regions)",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich the soil by fixing nitrogen through symbiosis with bacteria in their root nodules."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic plant with large, distinctive round leaves and showy pink or white flowers that float on the surface of ponds and lakes.",
+      "bloomingSeason": "June to August",
+      "location": "Asia, tropical and subtropical wetlands",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Sacred Lotus is revered in many Asian cultures and has remarkable heat and water-repellent properties on its leaves."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree or shrub with cylindrical flower spikes made of hundreds of tiny individual flowers, rich in nectar.",
+      "bloomingSeason": "All year but especially in early winter and late spring to early summer",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia flowers provide nectar for many native birds and mammals and are important in Australian ecosystems."
+    }
+  ]
+}

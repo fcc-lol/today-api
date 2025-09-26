@@ -1,0 +1,59 @@
+{
+  "date": "February 21",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree renowned for its stunning clusters of pink to white flowers, the Japanese Cherry Blossom heralds early spring in temperate regions, especially in Japan and parts of the United States.",
+      "bloomingSeason": "Late February to early April",
+      "location": "Japan, United States (Washington D.C.), South Korea",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms have inspired countless cultural festivals and are celebrated as a symbol of the transient nature of life."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A perennial bulbous plant that pushes through late winter snow to bloom with cup-shaped flowers, signaling the approach of spring in many temperate gardens.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "Crocus species are among the first flowers to bloom in spring, attracting early pollinators such as bees."
+    },
+    {
+      "name": "Banksia menziesii",
+      "commonName": "Firewood Banksia",
+      "description": "An Australian native shrub or small tree producing striking cylindrical flower spikes in vivid orange-red hues, blooming through late summer to early autumn in the Southern Hemisphere that corresponds to Northern Hemisphere winter.",
+      "bloomingSeason": "January to April",
+      "location": "Southwest Australia",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Banksias are important nectar sources for birds and small mammals, and their unique flower spikes have inspired artistic designs."
+    },
+    {
+      "name": "Erythronium dens-canis",
+      "commonName": "Dog's Tooth Violet",
+      "description": "A delicate woodland wildflower with nodding, pale lilac to pink flowers and distinctive mottled leaves, blooming in late winter to early spring in European forests.",
+      "bloomingSeason": "February to April",
+      "location": "Europe",
+      "colors": [
+        "pale purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The tuberous root resembles a dog's tooth, giving the plant its common name; it has been used medicinally in folk traditions."
+    }
+  ]
+}

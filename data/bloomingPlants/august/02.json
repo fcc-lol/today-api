@@ -1,0 +1,65 @@
+{
+  "date": "August 2",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads that track the sun. It is widely cultivated for its seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions of North America, cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day, maximizing photosynthesis."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This perennial plant features tall spikes densely packed with vibrant flowers, commonly blue, purple, or pink. It thrives in meadows and open woodlands.",
+      "bloomingSeason": "Late June to August",
+      "location": "Western North America, cultivated in temperate gardens",
+      "colors": [
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich soil nitrogen by hosting nitrogen-fixing bacteria in their root nodules."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub famous for its large, showy flowers that come in many colors. It blooms throughout warm seasons and is often grown as an ornamental plant.",
+      "bloomingSeason": "Year-round in tropical climates, peaks in summer",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and used to make herbal teas known for their tart flavor."
+    },
+    {
+      "name": "Alcea rosea",
+      "commonName": "Hollyhock",
+      "description": "A biennial or short-lived perennial with tall spikes covered in large, cup-shaped flowers. Commonly found in cottage gardens and along fences.",
+      "bloomingSeason": "June to August",
+      "location": "Native to Asia and Europe, widely cultivated",
+      "colors": [
+        "Pink",
+        "Red",
+        "White",
+        "Yellow",
+        "Purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Hollyhock flowers attract pollinators like bees and hummingbirds, promoting garden biodiversity."
+    }
+  ]
+}

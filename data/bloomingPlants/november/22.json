@@ -1,0 +1,62 @@
+{
+  "date": "November 22",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum",
+      "description": "Chrysanthemums are popular garden perennials known for their large, colorful flower heads. They bloom in late autumn and are prized for adding vibrant color to gardens when most other flowers have faded.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially East Asia, Europe, North America",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "In Japan, chrysanthemums are celebrated during the Festival of Happiness and are a symbol of the Emperor and the Imperial family."
+    },
+    {
+      "name": "Nicotiana alata",
+      "commonName": "Flowering Tobacco",
+      "description": "Nicotiana alata is a fragrant annual or perennial plant that blooms from late summer into autumn. The tubular flowers open in the evening and attract moths for pollination.",
+      "bloomingSeason": "August to November",
+      "location": "South America (native), cultivated worldwide in gardens",
+      "colors": [
+        "white",
+        "pink",
+        "red",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "The sweet scent of flowering tobacco is especially strong during the nighttime to attract nocturnal pollinators."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "Camellias are evergreen shrubs that provide stunning blooms in late autumn through early spring. They are beloved in gardens throughout Asia and temperate zones for their rose-like flowers.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica oil, extracted from the seeds, is used for cooking and cosmetic purposes in East Asia."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "Grevillea robusta is a fast-growing tree native to eastern Australia with bright orange-yellow spider-like flowers that bloom in spring and autumn, including November in parts of Australia.",
+      "bloomingSeason": "September to November",
+      "location": "Eastern Australia, cultivated as an ornamental in tropical and subtropical regions",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Despite its common name, Silky Oak is not a true oak but belongs to the Proteaceae family."
+    }
+  ]
+}

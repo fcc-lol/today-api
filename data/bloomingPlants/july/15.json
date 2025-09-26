@@ -1,0 +1,61 @@
+{
+  "date": "July 15",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Garden Roses",
+      "description": "Roses are one of the most popular flowering plants worldwide, cultivated in gardens and parks. In temperate zones of the Northern Hemisphere, many rose varieties bloom repeatedly throughout summer, displaying their large, fragrant flowers.",
+      "bloomingSeason": "Late spring to early autumn (May to October)",
+      "location": "Temperate regions globally, especially Northern Hemisphere",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for centuries, and some species have medicinal properties used in traditional remedies."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "An herbaceous perennial plant known for its tall spiky flower clusters composed of pea-like flowers. Lupines attract pollinators such as bees and butterflies and thrive in cooler climates.",
+      "bloomingSeason": "Late spring to mid-summer (June to July)",
+      "location": "North American and European temperate zones",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility naturally."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement during the day (a phenomenon called heliotropism). Commonly cultivated for seeds and oil production.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September)",
+      "location": "Native to North America but cultivated worldwide in temperate and subtropical climates",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow very tall—some varieties reaching over 3 meters—and their flower heads are actually composed of hundreds of tiny flowers called florets."
+    },
+    {
+      "name": "Dombeya wallichii",
+      "commonName": "Tropical Hydrangea",
+      "description": "A tropical flowering plant with large clusters of fragrant, pink to light purple flowers. Thrives in warm climates and often blooms in the summer months when temperatures are high.",
+      "bloomingSeason": "Summer (June to August)",
+      "location": "Tropical regions such as Madagascar and cultivated in subtropical gardens",
+      "colors": [
+        "pink",
+        "light purple"
+      ],
+      "emoji": "💐",
+      "funFact": "Dombeya wallichii is known as the 'pink ball tree' and is prized for its ornamental value in tropical and subtropical gardens."
+    }
+  ]
+}

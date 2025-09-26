@@ -1,0 +1,57 @@
+{
+  "date": "January 13",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial that blooms in winter, often in snowy conditions. It has striking white flowers that sometimes have a greenish tint and are known for blooming around Christmas to early spring in temperate climates.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (temperate regions)",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas rose is not a true rose but belongs to the buttercup family."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub famous for its large, showy flowers which bloom in late winter to early spring. The blossoms are usually red, pink, or white and appear when few other plants are in flower.",
+      "bloomingSeason": "December to March",
+      "location": "East Asia, cultivated worldwide in temperate areas",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers have been prized in Asian cultures for centuries and are often associated with the samurai."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A native Australian tree that flowers in winter. Its creamy white flowers cluster in groups and provide important nectar for birds and insects during colder months.",
+      "bloomingSeason": "December to February",
+      "location": "Alpine regions of southeastern Australia",
+      "colors": [
+        "white",
+        "cream"
+      ],
+      "emoji": "🌿🌼",
+      "funFact": "Snow gum is one of the few trees that can withstand harsh alpine conditions including snow and frost."
+    },
+    {
+      "name": "Witch Hazel (Hamamelis virginiana)",
+      "commonName": "Common Witch Hazel",
+      "description": "A deciduous shrub that blooms in late fall to early winter with unique yellow spidery flowers that emit a subtle fragrance. The flowers appear on bare branches before the leaves emerge in spring.",
+      "bloomingSeason": "January to February",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "✨🌼",
+      "funFact": "Witch hazel extracts are used medicinally for skin treatments due to their astringent properties."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "May 16",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub known for its lush clusters of vibrant flowers and large, leathery leaves. It thrives in woodland edges and is often found in temperate climates across Europe and parts of Asia.",
+      "bloomingSeason": "April to May",
+      "location": "Western Europe, parts of Asia",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is an important ornamental plant but can become invasive outside its native range."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "A large evergreen tree valued for its large, fragrant white flowers that appear in late spring and early summer. Native to the southeastern United States, its blossoms are a hallmark of warm temperate climates.",
+      "bloomingSeason": "May to June",
+      "location": "Southeastern USA",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and attract pollinators like beetles."
+    },
+    {
+      "name": "Erythronium americanum",
+      "commonName": "Yellow Trout Lily",
+      "description": "A spring ephemeral wildflower that blooms in rich, moist deciduous forests. It features nodding yellow flowers and mottled leaves resembling trout patterns, emerging as early spring turns to late spring in North America.",
+      "bloomingSeason": "April to May",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The mottled leaves camouflage the plant, making it less visible to herbivores."
+    },
+    {
+      "name": "Lagerstroemia indica",
+      "commonName": "Crape Myrtle",
+      "description": "A deciduous shrub or small tree that bursts into colorful bloom in late spring to summer, popular in warm temperate and subtropical gardens worldwide. Its flowers have a crinkled, crepe-paper-like texture.",
+      "bloomingSeason": "May to August",
+      "location": "Native to China, widely cultivated worldwide",
+      "colors": [
+        "pink",
+        "purple",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Crape Myrtle bark peels away in thin flakes, revealing a smooth, mottled trunk beneath."
+    }
+  ]
+}

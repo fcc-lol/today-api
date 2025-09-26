@@ -1,0 +1,57 @@
+{
+  "date": "March 9",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning springtime display of delicate pink or white flowers, signaling the start of spring in many temperate regions.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, Korea, parts of China, and temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossom festivals celebrate its fleeting bloom, which typically lasts only one to two weeks."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial producing bright yellow trumpet-shaped flowers. It often colonizes woodland edges and meadows in early spring.",
+      "bloomingSeason": "Late February to April",
+      "location": "Native to western Europe including the UK, Ireland, Spain, and Portugal",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The daffodil is associated with renewal and new beginnings and is a symbol used for cancer awareness campaigns."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree with cylindrical flower spikes composed of hundreds of tiny individual flowers, appearing in shades of yellow and orange.",
+      "bloomingSeason": "February to April",
+      "location": "Eastern coastal Australia",
+      "colors": [
+        "Yellow",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Banksias provide nectar and pollen resources crucial for native birds and mammals during late summer to early autumn."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree featuring large, tulip-shaped flowers in shades of pink, purple, and white, often appearing before the leaves fully develop.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated widely in temperate gardens worldwide, originally hybridized in France",
+      "colors": [
+        "Pink",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the oldest flowering plants, with fossil records dating back over 95 million years."
+    }
+  ]
+}

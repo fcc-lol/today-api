@@ -1,0 +1,64 @@
+{
+  "date": "July 27",
+  "plants": [
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, showy flowers with a prominent central staminal column. Commonly found in warm climates and used ornamentally in gardens and landscapes.",
+      "bloomingSeason": "Year-round in tropical climates, July included",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and used in teas and culinary dishes in many cultures."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Bigleaf Lupine",
+      "description": "A perennial wildflower native to western North America, producing tall spikes of pea-like flowers that attract pollinators.",
+      "bloomingSeason": "June to August",
+      "location": "Northwestern United States and Canada",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility naturally."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial wildflower with large daisy-like purple flowers and a spiny central cone, popular in gardens and known for medicinal properties.",
+      "bloomingSeason": "June through September",
+      "location": "Central and eastern North America",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub that blooms profusely during summer with clusters of fragrant flowers, often used in warm climate ornamental gardening.",
+      "bloomingSeason": "May to October",
+      "location": "Mediterranean, subtropical and tropical areas worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "Oleander is highly toxic if ingested; all parts of the plant contain poisonous compounds."
+    }
+  ]
+}

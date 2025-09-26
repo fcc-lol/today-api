@@ -1,0 +1,61 @@
+{
+  "date": "July 10",
+  "plants": [
+    {
+      "name": "Lilium bulbiferum",
+      "commonName": "Orange Lily",
+      "description": "A striking perennial lily native to Europe known for its vibrant orange flowers with red spots. It typically grows in meadows and hillsides and attracts butterflies and bees during summer.",
+      "bloomingSeason": "June to August",
+      "location": "Europe (Temperate regions)",
+      "colors": [
+        "Orange",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Orange Lily's bulbils on its stem allow it to propagate vegetatively, which is quite rare among lilies."
+    },
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A significant rose species cultivated worldwide, blooming multiple times during warm months. It has been fundamental in breeding the modern hybrid tea roses.",
+      "bloomingSeason": "June to October",
+      "location": "Native to China, cultivated worldwide in temperate and subtropical areas",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "China Roses are remontant, meaning they can bloom several times in a season, including mid-summer."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, notable for its enormous flower heads resembling artichokes. It thrives in Mediterranean-type climates and blooms during southern hemisphere winter to spring but can also bloom sporadically through July in some areas.",
+      "bloomingSeason": "June to November (in South Africa)",
+      "location": "South Africa (Mediterranean climate)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "The King Protea's flower head is actually a collection of many small flowers, surrounded by colorful bracts."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "This ornamental and wildflower species is native to western North America and commonly seen blooming in meadows and hills during midsummer, attractive to pollinators.",
+      "bloomingSeason": "June to August",
+      "location": "North America (Temperate zones)",
+      "colors": [
+        "Purple",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌿",
+      "funFact": "Lupines can fix nitrogen in the soil through their root nodules, improving soil fertility."
+    }
+  ]
+}

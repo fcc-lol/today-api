@@ -1,0 +1,64 @@
+{
+  "date": "September 9",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A native North American wildflower known for its bright yellow petals and dark brown central cone. Often found in meadows and prairies, it attracts pollinators like bees and butterflies.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "Black-eyed Susans are often used in wildflower mixes to restore native habitats and support biodiversity."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub with large, showy flowers that come in many colors. It blooms almost year-round in warm climates and is widely cultivated as an ornamental plant.",
+      "bloomingSeason": "Year-round in tropical climates; peaks in late summer and early fall",
+      "location": "Tropical and subtropical Asia, Hawaii, cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers are edible and often used to make herbal teas known as 'hibiscus tea' or 'agua de Jamaica.'"
+    },
+    {
+      "name": "Calluna vulgaris",
+      "commonName": "Heather",
+      "description": "A hardy flowering shrub that covers moorlands and heathlands with tiny pink or purple bell-shaped flowers. It is well adapted to acidic soils and blooms in late summer to early fall.",
+      "bloomingSeason": "July to September",
+      "location": "Europe, parts of Asia",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Heather is traditionally associated with good luck in Scotland and is an important nectar source for bees."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous-rooted plant admired for its wide variety of flower shapes and vibrant colors. It typically blooms from midsummer through fall and is popular in gardens worldwide.",
+      "bloomingSeason": "July to October",
+      "location": "Native to Mexico and Central America, widely cultivated",
+      "colors": [
+        "red",
+        "purple",
+        "white",
+        "yellow",
+        "pink",
+        "orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "The dahlia is the national flower of Mexico and was originally cultivated by the Aztecs for food and ornamental use."
+    }
+  ]
+}

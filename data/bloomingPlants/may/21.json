@@ -1,0 +1,57 @@
+{
+  "date": "May 21",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub known for its vibrant clusters of bell-shaped flowers. It thrives in temperate climates and is often found in woodlands and mountainous areas.",
+      "bloomingSeason": "April to June",
+      "location": "Europe and Western Asia",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum is known to form dense thickets that can dominate and reduce biodiversity in some regions where it is invasive."
+    },
+    {
+      "name": "Cassia fistula",
+      "commonName": "Golden Shower Tree",
+      "description": "A tropical to subtropical tree famous for its cascading clusters of bright yellow flowers that cover the entire tree, usually blooming spectacularly in late spring.",
+      "bloomingSeason": "April to June",
+      "location": "Indian subcontinent and Southeast Asia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Golden Shower Tree is the national tree of Thailand and its flowers are used in traditional medicine."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Bigleaf Lupine",
+      "description": "A native wildflower in North America with tall spikes covered in pea-like blossoms. Commonly found in sandy soils and pine barrens.",
+      "bloomingSeason": "May to July",
+      "location": "Eastern United States",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Lupines enrich the soil by fixing nitrogen, benefiting the surrounding plant community."
+    },
+    {
+      "name": "Magnolia grandiflora",
+      "commonName": "Southern Magnolia",
+      "description": "An evergreen tree with large, fragrant white flowers that bloom in late spring through summer. Common in warm temperate regions.",
+      "bloomingSeason": "May to July",
+      "location": "Southeastern United States",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and have a lemony fragrance."
+    }
+  ]
+}

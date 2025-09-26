@@ -1,0 +1,63 @@
+{
+  "date": "May 28",
+  "plants": [
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Delphinium",
+      "description": "Delphiniums are tall, striking perennials with spiked flower clusters that attract hummingbirds and bees. They thrive in cooler summer climates and are popular in garden borders.",
+      "bloomingSeason": "May to July",
+      "location": "Temperate regions of Northern Hemisphere, including Europe and North America",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Delphinium flowers are rich in alkaloids and have historically been used as a natural insecticide."
+    },
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Pontic Rhododendron",
+      "description": "An evergreen shrub with large clusters of fragrant bell-shaped flowers. It blooms profusely in late spring and early summer in woodland and hillside areas.",
+      "bloomingSeason": "April to June",
+      "location": "Native to the Iberian Peninsula and Western Asia, naturalized in UK and other parts of Europe",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "This species can form dense thickets that significantly alter local ecosystems when invasive."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous climbing vine known for its cascading racemes of fragrant flowers that create spectacular displays in late spring.",
+      "bloomingSeason": "April to June",
+      "location": "Native to China, widely cultivated in gardens in temperate regions worldwide",
+      "colors": [
+        "lavender",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wisteria blooms profusely but can take several years after planting to flower for the first time."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub or small tree popular in warm climates, producing abundant clusters of fragrant flowers throughout late spring and summer.",
+      "bloomingSeason": "May to September",
+      "location": "Mediterranean, Southern California, and other subtropical to tropical zones",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Despite its beauty, all parts of oleander are toxic if ingested, containing cardiac glycosides."
+    }
+  ]
+}

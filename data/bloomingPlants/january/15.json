@@ -1,0 +1,56 @@
+{
+  "date": "January 15",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its large, white flowers that often bloom in winter under snow. It is native to mountainous regions of Europe and is widely cultivated in gardens for early winter blooms.",
+      "bloomingSeason": "December to February",
+      "location": "Europe (Alps, mountainous areas)",
+      "colors": [
+        "white"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "The Christmas Rose can bloom through snow, giving a cheerful splash of color during the coldest months."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular evergreen shrub with glossy leaves and large, rose-like flowers. It blooms in late winter to early spring in mild climates and is especially prized in gardens of East Asia and the southeastern United States.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, Southeastern United States (cultivated)",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized by the samurai and often featured in Japanese art and culture."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Mimosa or Silver Wattle",
+      "description": "A fast-growing tree known for its bright yellow, fragrant pompom-like flowers that bloom in late winter. Native to southeastern Australia, it is widely planted worldwide as an ornamental tree.",
+      "bloomingSeason": "January to March",
+      "location": "Australia (native), Mediterranean (cultivated)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Mimosa flowers are used in the celebration of International Women's Day in some countries."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot or Chinese Plum",
+      "description": "A deciduous tree with fragrant pink or white blossoms that bloom in late winter to early spring. It is native to East Asia and is admired for its beautiful flowers that often bloom even before leaves appear.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Prunus mume blossoms symbolize perseverance and hope in East Asian cultures since they bloom in the coldest days."
+    }
+  ]
+}

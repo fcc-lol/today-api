@@ -1,0 +1,59 @@
+{
+  "date": "January 1",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "Witch Hazel",
+      "description": "Witch Hazel is a deciduous shrub native to eastern North America, known for its fragrant yellow flowers with crinkly petals that bloom in winter. It often flowers from late fall to early winter, making it one of the few plants blooming in cold climates during January.",
+      "bloomingSeason": "October to January",
+      "location": "Eastern North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch Hazel extracts are commonly used in traditional medicine and skin care products due to their astringent properties."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular evergreen shrub cultivated widely for its showy flowers that bloom in winter. In mild climates, particularly in parts of East Asia and southeastern United States, Camellia japonica blooms from late fall through early spring, producing large, rose-like flowers.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, Southeastern USA, Cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers appear before the leaves fully develop, creating striking displays in winter gardens."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka or Tea Tree",
+      "description": "A wild shrub native to New Zealand and southeast Australia, Manuka produces small white or pink flowers with numerous stamens. It often blooms in late summer through early winter in the Southern Hemisphere, corresponding to January in the Northern Hemisphere.",
+      "bloomingSeason": "November to January",
+      "location": "New Zealand, Southeast Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Manuka honey, derived from these flowers, is prized worldwide for its unique antibacterial properties."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub widely cultivated in Mediterranean and subtropical regions. Oleander blooms almost year-round in mild climates, including January, producing clusters of fragrant flowers in various colors.",
+      "bloomingSeason": "May to October, sometimes year-round in mild climates",
+      "location": "Mediterranean, California, subtropical regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of oleander are highly poisonous if ingested."
+    }
+  ]
+}

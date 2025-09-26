@@ -1,0 +1,62 @@
+{
+  "date": "July 22",
+  "plants": [
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical flowering plant known for its large, vibrant, trumpet-shaped flowers which attract butterflies and hummingbirds.",
+      "bloomingSeason": "Year-round in tropical climates; typically blooms profusely in summer in subtropical regions",
+      "location": "Tropical and subtropical regions worldwide, including Southeast Asia, Pacific Islands, and parts of the US like Florida and Hawaii",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers typically last only a day before wilting but are continuously replaced by new blooms."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A perennial herbaceous plant with tall spikes covered in dense clusters of pea-like flowers. Common in meadows and gardens for its nitrogen-fixing ability.",
+      "bloomingSeason": "June to August",
+      "location": "Native to western North America but widely cultivated and naturalized in Europe and New Zealand",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines improve soil fertility through symbiotic nitrogen fixation in root nodules."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "An evergreen shrub with large leathery leaves and spectacular clusters of bell-shaped flowers.",
+      "bloomingSeason": "April to July, sometimes extending into late July",
+      "location": "Native to the Pacific Northwest of the United States, especially coastal forests",
+      "colors": [
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌿",
+      "funFact": "The Pacific Rhododendron is the state flower of Washington State."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "A water plant famous for its large round floating leaves and elegant fragrant flowers that rise above the water surface.",
+      "bloomingSeason": "June through August",
+      "location": "Native to Asia, found in ponds and lakes across India, China, Japan, and Southeast Asia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "The sacred lotus flower can regulate the temperature of its blooms, similar to warm-blooded animals."
+    }
+  ]
+}

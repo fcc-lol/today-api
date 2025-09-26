@@ -1,0 +1,56 @@
+{
+  "date": "March 25",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning clusters of pale pink to white flowers that bloom profusely in early spring, often celebrated in festivals across Japan and other temperate regions.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate East Asia, cultivated worldwide in temperate climates",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms symbolize the fleeting nature of life in Japanese culture due to their very short blooming period."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial wildflower with bright yellow trumpet-shaped flowers, often found in meadows and woodlands, signaling the arrival of spring in many parts of Europe and North America.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, introduced to North America",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "The daffodil is associated with the mythical story of Narcissus, who was enchanted by his own reflection."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree or shrub that produces cylindrical spikes of golden yellow flowers, serving as an important nectar source for birds and insects in coastal regions.",
+      "bloomingSeason": "March to May",
+      "location": "Eastern Australia, coastal areas",
+      "colors": [
+        "Golden Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias have woody seed cones that only release seeds after exposure to fire or extreme heat, an adaptation to Australian bushfires."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree admired for its large, tulip-shaped flowers in shades of pink, purple, and white, blooming spectacularly in early spring before leaf emergence.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated in temperate zones worldwide, originally from China",
+      "colors": [
+        "Pink",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Saucer magnolias are among the earliest flowering magnolias and their large flowers attract early pollinators like bees."
+    }
+  ]
+}

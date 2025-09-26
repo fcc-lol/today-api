@@ -1,0 +1,64 @@
+{
+  "date": "October 15",
+  "plants": [
+    {
+      "name": "Dahlias",
+      "commonName": "Dahlia",
+      "description": "Dahlias are bushy, tuberous plants native to Mexico, known for their striking, colorful flowers in a wide range of shapes and sizes. They thrive in late summer to autumn gardens, producing large blooms even as the days shorten.",
+      "bloomingSeason": "July to October",
+      "location": "Temperate regions worldwide; originally Mexico and Central America",
+      "colors": [
+        "red",
+        "pink",
+        "purple",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias are Mexico's national flower and were once used as food by the Aztecs."
+    },
+    {
+      "name": "Chrysanthemums",
+      "commonName": "Mums",
+      "description": "Chrysanthemums are hardy perennial flowering plants popular in autumn gardens. They are known for their dense, pom-pom like flower clusters and are synonymous with fall in many temperate regions.",
+      "bloomingSeason": "September to November",
+      "location": "East Asia, widely cultivated in temperate climates worldwide",
+      "colors": [
+        "white",
+        "yellow",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "💐",
+      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many Asian cultures."
+    },
+    {
+      "name": "Goldenrod",
+      "commonName": "Goldenrod",
+      "description": "Goldenrod is a wildflower common throughout North America, recognized for its tall spikes of small, bright yellow flowers. It often blooms in late summer and autumn, providing important nectar for pollinators preparing for winter.",
+      "bloomingSeason": "August to October",
+      "location": "North America, especially eastern and central USA and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is wrongly blamed for allergies caused by ragweed, which blooms simultaneously."
+    },
+    {
+      "name": "Japanese Maple",
+      "commonName": "Japanese Maple (in bloom)",
+      "description": "While primarily admired for their striking autumn foliage, some species of Japanese maple produce small, delicate flowers in early to mid-autumn. These inconspicuous blooms attract pollinators and precede seed development.",
+      "bloomingSeason": "October to November",
+      "location": "East Asia, widely cultivated in temperate gardens globally",
+      "colors": [
+        "red",
+        "purple",
+        "greenish"
+      ],
+      "emoji": "🍁",
+      "funFact": "Japanese maple flowers are small and often overlooked but are essential for seed production."
+    }
+  ]
+}

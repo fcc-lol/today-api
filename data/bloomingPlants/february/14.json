@@ -1,0 +1,57 @@
+{
+  "date": "February 14",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial flowering plant often among the first to bloom in late winter or early spring, producing cup-shaped flowers that brighten early gardens.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, temperate regions",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Crocuses are one of the first flowers to bloom, often emerging through snow, signaling the approaching spring."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "A flowering shrub prized for its large, showy blooms and glossy evergreen leaves, often blooming in late winter to early spring in mild climates.",
+      "bloomingSeason": "December to March",
+      "location": "Eastern Asia (native), cultivated in mild temperate regions worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias are important in Japanese culture and have been cultivated for centuries for their ornamental beauty."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant that blooms from late winter to early spring, known for its nodding white flowers which sometimes appear during snow cover.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite the name, it is not a rose but its white flowers resembling roses bloom around the Christmas season or shortly after."
+    },
+    {
+      "name": "Mimosa pudica",
+      "commonName": "Sensitive Plant",
+      "description": "A tropical plant famous for its leaves that fold when touched, it flowers in the warm season with small pink spherical blooms typically seen from late winter to summer in the tropics.",
+      "bloomingSeason": "February to June",
+      "location": "Tropical Americas and widely cultivated in tropical and subtropical areas",
+      "colors": [
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its rapid leaf movements are a defense mechanism against herbivores and environmental stress."
+    }
+  ]
+}

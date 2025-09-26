@@ -1,0 +1,63 @@
+{
+  "date": "June 29",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are woody perennial flowering plants known for their large, often fragrant flowers. They bloom widely during late spring and summer and can be found in many varieties worldwide.",
+      "bloomingSeason": "May to July (northern hemisphere) and November to January (southern hemisphere)",
+      "location": "Temperate regions globally, cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for centuries, and there are over 300 species and thousands of cultivars worldwide."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A perennial wildflower with tall spikes of pea-like flowers, often seen in wild or cultivated settings. It blooms in late spring and early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Western North America, cultivated in temperate gardens",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich soil by fixing nitrogen with symbiotic bacteria in their roots, benefiting the surrounding plants."
+    },
+    {
+      "name": "Nymphaea spp.",
+      "commonName": "Water Lilies",
+      "description": "Aquatic plants rooted in soil in bodies of water, displaying large floating leaves and attractive blossoms that open during the day.",
+      "bloomingSeason": "June to August",
+      "location": "Worldwide in temperate and tropical climates",
+      "colors": [
+        "white",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "emoji": "💧",
+      "funFact": "Many water lily species have flowers that open in early morning and close by afternoon, repeating this cycle for several days."
+    },
+    {
+      "name": "Eucalyptus globulus",
+      "commonName": "Blue Gum Eucalyptus",
+      "description": "A fast-growing evergreen tree native to Australia, known for its peeling bark and clusters of white flowers that bloom in late spring to mid-summer.",
+      "bloomingSeason": "October to January (Southern Hemisphere), can bloom variably in other regions",
+      "location": "Native to southeastern Australia, also cultivated worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Blue Gum eucalyptus produces eucalyptus oil used in medicinal and industrial applications, known for its strong scent."
+    }
+  ]
+}

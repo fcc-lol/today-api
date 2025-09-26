@@ -1,0 +1,61 @@
+{
+  "date": "July 11",
+  "plants": [
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "A perennial wildflower and garden favorite with tall spikes covered in pea-like flowers. It thrives in temperate climates and can be found blooming in meadows and along roadsides.",
+      "bloomingSeason": "June to August",
+      "location": "Northern Hemisphere, North America and Europe",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines are nitrogen-fixing plants that improve soil fertility by converting atmospheric nitrogen into a usable form."
+    },
+    {
+      "name": "Nicotiana alata",
+      "commonName": "Flowering Tobacco",
+      "description": "An ornamental plant with fragrant tubular flowers that often bloom in summer evenings, attracting pollinators such as moths.",
+      "bloomingSeason": "June to September",
+      "location": "Originally from South America, cultivated worldwide in warm temperate to tropical gardens",
+      "colors": [
+        "white",
+        "pink",
+        "red",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its name, flowering tobacco is primarily grown for its attractive, fragrant blossoms and is not used for smoking."
+    },
+    {
+      "name": "Rhododendron ferrugineum",
+      "commonName": "Alpenrose",
+      "description": "A woody shrub found in alpine regions, with bell-shaped flowers that bloom in mid to late summer among rocky mountain slopes.",
+      "bloomingSeason": "June to July",
+      "location": "Alpine regions of Europe such as the Alps and Pyrenees",
+      "colors": [
+        "pink",
+        "red"
+      ],
+      "emoji": "🌷",
+      "funFact": "Alpenrose thrives in acidic, nutrient-poor soils and is an important part of alpine plant communities."
+    },
+    {
+      "name": "Strelitzia reginae",
+      "commonName": "Bird of Paradise",
+      "description": "Tropical plant famous for its striking, bird-like orange and blue flower structure, symbolizing paradise and exotic beauty.",
+      "bloomingSeason": "April to August",
+      "location": "Native to South Africa, cultivated worldwide in warm climates and greenhouses",
+      "colors": [
+        "orange",
+        "blue"
+      ],
+      "emoji": "🦜",
+      "funFact": "The bird of paradise flower is pollinated by sunbirds in its native habitat, attracted to its bright colors and nectar."
+    }
+  ]
+}

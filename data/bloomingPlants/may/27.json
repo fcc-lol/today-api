@@ -1,0 +1,55 @@
+{
+  "date": "May 27",
+  "plants": [
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking white lily native to the Balkans and the eastern Mediterranean, known for its elegant trumpet-shaped flowers and strong fragrance. It’s often found blooming in late spring to early summer in temperate climates.",
+      "bloomingSeason": "May to July",
+      "location": "Mediterranean region, cultivated in temperate gardens worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Madonna Lily has been cultivated since ancient times and is often associated with purity and the Virgin Mary in Christian symbolism."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron",
+      "description": "A large evergreen shrub or small tree with brilliant clusters of red to orange-red bell-shaped flowers. It thrives in the Himalayan region and blooms dramatically in the late spring.",
+      "bloomingSeason": "April to June",
+      "location": "Himalayas, South Asia",
+      "colors": [
+        "red",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendron arboreum is the national flower of Nepal and is very important culturally and ecologically in the Himalayan foothills."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A popular fragrant herb with spikes of purple flowers, widely cultivated for its aromatic oils and decorative appeal. It blooms prominently in late spring and early summer in temperate climates.",
+      "bloomingSeason": "June to August (starts blooming in late May in warmer climates)",
+      "location": "Native to the Mediterranean, commonly grown in gardens worldwide",
+      "colors": [
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender was prized by ancient Egyptians for mummification and by the Romans for bathing and scenting their homes."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree known for its cylindrical flower spikes composed of hundreds of tiny individual flowers, ranging from cream to yellow shades. It blooms in autumn and spring depending on the region along the coast.",
+      "bloomingSeason": "March to May and again in spring in some areas",
+      "location": "Eastern coastal Australia",
+      "colors": [
+        "cream",
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias are an important food source for many nectar-feeding birds and mammals in Australia."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "date": "August 21",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that follow the sun's movement throughout the day. They are widely cultivated for their seeds and oil.",
+      "bloomingSeason": "Summer to early autumn (July to September)",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow to heights over 3 meters and their flower heads can be over 30 cm in diameter!"
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub or small tree with large, showy flowers often cultivated as an ornamental plant. Flowers are trumpet-shaped and can be found in various colors.",
+      "bloomingSeason": "Year-round in tropical climates, including August",
+      "location": "Tropical Asia, Pacific Islands, widely cultivated in tropical and subtropical regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Each hibiscus flower lasts only a day, but the plant blooms continuously during its season."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A North American native wildflower with bright yellow petals surrounding a dark brown cone-shaped center. Often found in meadows and prairies.",
+      "bloomingSeason": "Summer to early fall (July to September)",
+      "location": "Eastern and central North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Black-eyed Susan is the state flower of Maryland."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, the King Protea has large, distinctive flower heads with spiky pink and white bracts resembling a crown.",
+      "bloomingSeason": "Winter to spring in South Africa (July to October), blooming still visible in August",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "The King Protea is named after the Greek god Proteus, symbolizing its diverse forms."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "December 24",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial flowering plant native to mountainous regions of Europe, the Christmas Rose blooms in winter, often around Christmas time. It produces beautiful white or pinkish flowers that brighten up gardens during the cold months.",
+      "bloomingSeason": "December to February",
+      "location": "Europe, particularly Alpine regions",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but is named for its rose-like flowers blooming in winter."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its large, rose-like flowers which bloom in late autumn through winter. It thrives in mild temperate regions and is widely cultivated in gardens for its ornamental value.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia, cultivated globally in mild climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized in ancient China and Japan for tea and ornamental uses; the tea plant Camellia sinensis is a close relative."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka or Tea Tree",
+      "description": "A shrub or small tree native to New Zealand and southeast Australia, known for its small, attractive flowers and medicinal properties. Manuka flowers mostly bloom from late spring to early summer in the Southern Hemisphere, which corresponds with December.",
+      "bloomingSeason": "November to January",
+      "location": "New Zealand and southeast Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Manuka honey, produced from the nectar of this plant, is famous for its unique antibacterial properties."
+    },
+    {
+      "name": "Acacia baileyana",
+      "commonName": "Cootamundra Wattle",
+      "description": "A fast-growing ornamental shrub native to Australia that blooms profusely with bright yellow spherical flower heads in late winter to early spring, often starting in December in mild climates.",
+      "bloomingSeason": "December to September (early blooms in December)",
+      "location": "Australia, also cultivated in warm temperate regions worldwide",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "This wattle species is often used in floral arrangements and is the emblem of several Australian communities."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "March 17",
+  "holidays": [
+    {
+      "name": "St. Patrick's Day",
+      "description": "A lively celebration of Irish culture marked by parades, green attire, and festive foods and drinks.",
+      "origin": "Commemorates St. Patrick, the patron saint of Ireland, who is credited with bringing Christianity to the Irish people.",
+      "category": "Cultural/Religious",
+      "emoji": "🍀",
+      "funFact": "Originally, St. Patrick's Day was a solemn religious occasion until it evolved into the boisterous celebrations known today, complete with green beer and shamrocks!"
+    },
+    {
+      "name": "Submarine Day",
+      "description": "A day to honor the invention and service of submarines and their crews.",
+      "origin": "Marks the anniversary of the first successful military use of a submarine, the USS Holland, in 1900.",
+      "category": "Technology/History",
+      "emoji": "� submarines aren’t often celebrated, but they’ve changed naval warfare forever!",
+      "funFact": "The first military submarine was nicknamed 'The Fenian Ram' and was designed to attack enemy ships stealthily underwater."
+    },
+    {
+      "name": "Everything You Think Is Wrong Day",
+      "description": "A humorous day dedicated to challenging our assumptions and opening our minds to new perspectives.",
+      "origin": "Started as a quirky internet holiday encouraging people to question their biases and beliefs.",
+      "category": "Humor/Philosophy",
+      "emoji": "🤔",
+      "funFact": "On this day, it's perfectly acceptable – even encouraged – to admit when you're wrong about something trivial, like pineapple on pizza!"
+    },
+    {
+      "name": "Corned Beef and Cabbage Day",
+      "description": "A tasty tribute to the classic Irish-American dish enjoyed especially on St. Patrick's Day.",
+      "origin": "Celebrates the traditional meal often served in the U.S. to honor Irish heritage on March 17.",
+      "category": "Food",
+      "emoji": "🥩🥬",
+      "funFact": "Corned beef and cabbage became popular among Irish immigrants in America, even though it's not as traditional in Ireland itself!"
+    }
+  ]
+}

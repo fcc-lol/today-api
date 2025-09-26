@@ -1,0 +1,61 @@
+{
+  "date": "October 9",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Mum",
+      "description": "A popular flowering plant known for its vibrant, daisy-like blooms that signal the arrival of autumn in many temperate gardens.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (commonly cultivated)",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are highly symbolic in East Asia, representing longevity and rejuvenation, and are often featured in traditional festivals."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower, it features large, striking blooms with a central cone surrounded by spiky petals, often resembling a giant artichoke.",
+      "bloomingSeason": "September to November",
+      "location": "Fynbos region, South Africa",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The King Protea is named after the Greek god Proteus, symbolizing diversity and transformation because of its varied forms."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, herbaceous perennial with bright yellow flower clusters that attract bees and butterflies in late summer and fall.",
+      "bloomingSeason": "August to October",
+      "location": "North America (wild), naturalized in parts of Europe and Asia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Although sometimes blamed for hay fever, goldenrod pollen is too heavy to be airborne; ragweed blooming at the same time is the usual culprit."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub valued for its fragrant, delicate flowers that appear in early autumn, brightening gardens before most other camellias bloom.",
+      "bloomingSeason": "September to November",
+      "location": "Japan, East Asia; widely cultivated in temperate zones",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Sasanqua camellias were originally used in Japan for oil extraction before becoming favored ornamental plants."
+    }
+  ]
+}

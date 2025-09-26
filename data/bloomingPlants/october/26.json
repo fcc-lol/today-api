@@ -1,0 +1,59 @@
+{
+  "date": "October 26",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A popular autumn-blooming ornamental plant known for its large, colorful flower heads in shades of yellow, red, white, and purple. Often used in floral displays and celebrated in festivals such as Japan's 'Chrysanthemum Day'.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in many cultures and have been cultivated for over 2,500 years."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub admired for its glossy leaves and large, rose-like flowers that bloom in late autumn to early winter. Flowers range from white to pink to red and bloom before the first frost in mild climates.",
+      "bloomingSeason": "October to March",
+      "location": "Native to East Asia; widely cultivated in subtropical and temperate gardens globally",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was introduced to Europe in the 18th century and became a symbol of southern charm in places like the American South."
+    },
+    {
+      "name": "Clerodendrum thomsoniae",
+      "commonName": "Bleeding Heart Vine",
+      "description": "A tropical vine known for its striking red and white heart-shaped flowers, blooming in late summer through autumn in suitable climates. It thrives in warm tropical and subtropical regions and is grown as a decorative plant in gardens and greenhouses.",
+      "bloomingSeason": "August to November",
+      "location": "Native to tropical West Africa; cultivated in tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its delicate appearance, the Bleeding Heart Vine is drought tolerant and can attract hummingbirds and butterflies."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A wildflower native to North America which typically blooms in late summer through autumn. It produces tall clusters of small yellow flowers that provide an important nectar source for pollinators preparing for winter.",
+      "bloomingSeason": "August to October",
+      "location": "Widely distributed in North America; naturalized in parts of Europe and Asia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Goldenrod is often mistakenly blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time."
+    }
+  ]
+}

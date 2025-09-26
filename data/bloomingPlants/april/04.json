@@ -1,0 +1,57 @@
+{
+  "date": "April 4",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree famous for its large, fragrant, tulip-shaped flowers that burst open in early spring before the leaves appear. Its blooms range from white to pink and purple, creating a spectacular floral display.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Magnolia flowers are considered ancient; fossils dating back 95 million years show similar blooms, predating bees. They are pollinated by beetles."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A species of daffodil with bright yellow, trumpet-shaped flowers that commonly grow in woodlands, meadows, and grasslands. They are among the first wildflowers signaling spring in the Northern Hemisphere.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, especially UK and Ireland",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Wild daffodils are known to naturalize and can form large colonies in the wild, sometimes marking ancient woodland boundaries."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "A tropical and subtropical tree noted for its stunning display of violet-blue trumpet-shaped flowers that blanket streets and parks, especially in places like Australia and South America.",
+      "bloomingSeason": "Late March to May",
+      "location": "Subtropical regions like Australia, South America, Southern Africa",
+      "colors": [
+        "violet-blue"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Jacaranda's striking bloom usually lasts about three to four weeks, and fallen flowers create a beautiful purple carpet on the ground."
+    },
+    {
+      "name": "Erica carnea",
+      "commonName": "Winter Heath",
+      "description": "A low-growing evergreen shrub that blooms in late winter to early spring, forming clusters of small, bell-shaped flowers often seen in alpine and mountainous areas of Europe.",
+      "bloomingSeason": "February to April",
+      "location": "Mountainous regions of Central and Southern Europe",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Unlike many other heath species, Erica carnea can tolerate cold winter conditions and often flowers through snow cover."
+    }
+  ]
+}

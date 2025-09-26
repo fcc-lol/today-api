@@ -1,0 +1,61 @@
+{
+  "date": "August 19",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow flower heads that follow the sun's movement. Widely cultivated and also found wild, sunflowers typically bloom in mid to late summer.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "The sunflower's head is actually composed of hundreds of tiny flowers called florets, each capable of producing a seed."
+    },
+    {
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "Perennial herbaceous plant with spikes of pea-like flowers often found in shades of purple, blue, pink, or white. They thrive in temperate climates and are common in meadows and along roadsides.",
+      "bloomingSeason": "July to August",
+      "location": "Pacific Northwest (USA), parts of Europe and New Zealand (introduced)",
+      "colors": [
+        "purple",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines enrich soil by fixing nitrogen, benefiting nearby plants and ecosystems."
+    },
+    {
+      "name": "Plumeria rubra",
+      "commonName": "Frangipani",
+      "description": "Tropical deciduous tree known for its highly fragrant and colorful flowers, often used in Hawaiian leis. Blooms profusely in warm climates during late summer.",
+      "bloomingSeason": "June to September",
+      "location": "Tropical Americas, cultivated in tropical regions worldwide",
+      "colors": [
+        "white",
+        "yellow",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Frangipani flowers close at night and open anew in the morning, releasing their sweet fragrance in the evening."
+    },
+    {
+      "name": "Alstroemeria aurea",
+      "commonName": "Peruvian Lily",
+      "description": "A bushy perennial with lily-like flowers marked with streaks and spots. It thrives in temperate South American climates and blooms in late summer.",
+      "bloomingSeason": "July to September",
+      "location": "Chile, Argentina",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "💐",
+      "funFact": "Alstroemeria flowers are popular in floral arrangements because of their long vase life and vibrant colors."
+    }
+  ]
+}

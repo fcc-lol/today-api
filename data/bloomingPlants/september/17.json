@@ -1,0 +1,63 @@
+{
+  "date": "September 17",
+  "plants": [
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy North American wildflower with bright yellow ray florets and a dark brown central cone. Commonly found in prairies and meadows, it attracts pollinators like bees and butterflies.",
+      "bloomingSeason": "July to October",
+      "location": "North America (Temperate regions)",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans were named after the resemblance of their dark centers to a pupil surrounded by yellow petals."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub known for its large, showy flowers that bloom all year round in warm climates, but prominently during late summer into autumn. Flowers come in a range of vibrant colors.",
+      "bloomingSeason": "Year-round in tropical climates, peaks in late summer to autumn",
+      "location": "Tropical and subtropical Asia, cultivated worldwide in warm regions",
+      "colors": [
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Each hibiscus flower typically lasts only a single day, opening in the morning and closing by sunset."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "Originating from Mexico, dahlias are tuberous plants that bloom in late summer to autumn. They have diverse flower forms and colors, making them popular in ornamental gardens.",
+      "bloomingSeason": "July to October",
+      "location": "Mexico and Central America; widely cultivated worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "purple",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Dahlias were declared the national flower of Mexico in 1963."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, perennial wildflower with bright yellow plume-like clusters of flowers. It blooms in late summer through autumn and is common in meadows and along roadsides in temperate North America.",
+      "bloomingSeason": "August to October",
+      "location": "North America, especially Canada and northern U.S.",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Goldenrod pollen is heavy and sticky and is not a major cause of hay fever; ragweed pollen, which blooms at the same time, is the real culprit."
+    }
+  ]
+}

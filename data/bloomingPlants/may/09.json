@@ -1,0 +1,57 @@
+{
+  "date": "May 9",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "An evergreen shrub native to the British Isles and parts of Europe, known for its large clusters of bell-shaped flowers that bloom profusely in spring.",
+      "bloomingSeason": "April to June",
+      "location": "Western Europe, especially UK and Ireland",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendron ponticum can form dense thickets that shade out native plants, making it invasive in some areas."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A deciduous shrub or small tree native to Japan, producing fragrant, white star-shaped flowers early in spring before leaves emerge.",
+      "bloomingSeason": "March to May",
+      "location": "East Asia (native); cultivated globally in temperate climates",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Star magnolia flowers have between 12 and 18 narrow tepals, giving them their distinctive star-like appearance."
+    },
+    {
+      "name": "Nicotiana alata",
+      "commonName": "Jasmine Tobacco",
+      "description": "A species of flowering plant widely grown as an ornamental for its fragrant tubular flowers that usually open at dusk, attracting pollinators like moths.",
+      "bloomingSeason": "Late spring through summer",
+      "location": "Native to South America; widely cultivated in gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Nicotiana alata emits a strong sweet fragrance during the evening to attract nocturnal pollinators."
+    },
+    {
+      "name": "Elders (Sambucus nigra)",
+      "commonName": "European Elder",
+      "description": "A deciduous shrub or small tree native to Europe and North America, known for its large clusters of tiny white flowers that bloom in late spring.",
+      "bloomingSeason": "April to June",
+      "location": "Europe, North America",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Elderflowers have been used traditionally to make elderflower cordial and elderflower wines due to their distinctive flavor."
+    }
+  ]
+}

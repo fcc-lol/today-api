@@ -1,0 +1,63 @@
+{
+  "date": "May 20",
+  "plants": [
+    {
+      "name": "Rhododendron spp.",
+      "commonName": "Rhododendron",
+      "description": "Rhododendrons are woody shrubs known for their large clusters of showy flowers and glossy evergreen leaves. They thrive in temperate zones and are popular in gardens and wild mountain forests.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "purple",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The name 'Rhododendron' means 'rose tree' in Greek, reflecting the rose-like appearance of its flowers."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda Tree",
+      "description": "A tropical to subtropical tree famous for its stunning, vibrant violet-blue trumpet-shaped flowers that form panicles covering the tree, creating a spectacular floral display.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Native to South America, widely planted in Australia, South Africa, and southern USA",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "The Jacaranda tree can live up to 50 years and is a symbol of spring in many cities like Pretoria, South Africa, known as the 'Jacaranda City'."
+    },
+    {
+      "name": "Lupinus spp.",
+      "commonName": "Lupine",
+      "description": "Lupines are herbaceous plants or shrubs bearing tall, spike-like clusters of pea-shaped flowers. They fix nitrogen in the soil, improving fertility and are favorite wildflowers in many regions.",
+      "bloomingSeason": "Spring to early summer",
+      "location": "North and South America, Mediterranean",
+      "colors": [
+        "blue",
+        "purple",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lupines have specialized root nodules that host nitrogen-fixing bacteria, making them important in ecological restoration."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "This hybrid magnolia tree produces large, fragrant, tulip-shaped flowers early in spring, often still blooming around late May in cooler climates.",
+      "bloomingSeason": "March to May",
+      "location": "Cultivated widely in temperate gardens worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolias evolved before bees existed and are pollinated primarily by beetles, some of the Earth's oldest pollinators."
+    }
+  ]
+}

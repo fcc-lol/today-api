@@ -1,0 +1,59 @@
+{
+  "date": "June 25",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A popular garden rose species known for its recurrent blooming habit and delicate fragrant flowers. It features a classic rose shape and is one of the ancestors of modern garden roses.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "Widely cultivated in temperate to subtropical regions worldwide, native to Southwest China",
+      "colors": [
+        "Pink",
+        "Red",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose is one of the few rose species that bloom repeatedly throughout the growing season, unlike many wild roses that bloom only once."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A perennial herbaceous plant that produces tall spikes of pea-like flowers. It is vital for the Karner blue butterfly which relies on it as its larval host plant.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Eastern North America, particularly in sandy soils and pine barrens",
+      "colors": [
+        "Blue",
+        "Purple"
+      ],
+      "emoji": "🟦",
+      "funFact": "Wild Lupine fixes nitrogen in the soil through a symbiotic relationship with bacteria, enriching nutrient-poor environments."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A striking flowering tree or shrub admired for its vibrant red, uniquely shaped flowers resembling a rooster's crest; culturally significant in South America.",
+      "bloomingSeason": "Late spring to summer (November to March in Southern Hemisphere, so June flowering is more typical in Northern Hemisphere botanical gardens)",
+      "location": "Native to South America (Argentina, Uruguay, Brazil), cultivated in subtropical regions worldwide",
+      "colors": [
+        "Bright Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina flowers attract hummingbirds and have adapted their shape for pollination by these birds."
+    },
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "Biennial herbaceous plant with tall spikes of tubular flowers that are highly attractive to bees, used medicinally as a source of cardiac glycosides.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "Native to Europe but widely naturalized in North America and other temperate regions",
+      "colors": [
+        "Purple",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Foxglove's cardiac glycosides (digoxin) have been used medicinally to treat heart conditions, but the plant is toxic if ingested improperly."
+    }
+  ]
+}

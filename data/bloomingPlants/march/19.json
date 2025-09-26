@@ -1,0 +1,59 @@
+{
+  "date": "March 19",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning, delicate pink or white flowers that bloom in early spring, marking the arrival of the season in many parts of East Asia and temperate areas worldwide.",
+      "bloomingSeason": "Late March to April",
+      "location": "Japan, Korea, China, Temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese Cherry Blossoms are so culturally significant that Japan has a traditional 'hanami' festival dedicated to viewing these blooms each spring."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub known for its attractive, showy clusters of flowers that can be white, pink, red, or yellow, commonly blooming from spring through autumn, especially in Mediterranean and subtropical climates.",
+      "bloomingSeason": "March to October",
+      "location": "Mediterranean Basin, Southern United States, Subtropics",
+      "colors": [
+        "Pink",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, but it has been used medicinally in some cultures despite the risk."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A small to medium-sized tree with striking bright red flowers shaped like a rooster’s crest, blooming in late winter to early spring, found in subtropical and tropical regions of South America.",
+      "bloomingSeason": "February to April",
+      "location": "Argentina, Uruguay, Brazil",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A perennial bulbous plant producing cup-shaped blooms that appear early in spring, often poking through snow in temperate climates; colors vary from purple to white and yellow.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, North America",
+      "colors": [
+        "Purple",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Crocus species are among the first flowers to bloom after winter, signaling the start of spring in many gardens."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "October 18",
+  "plants": [
+    {
+      "name": "Cypripedium calceolus",
+      "commonName": "Lady's Slipper Orchid",
+      "description": "A striking wild orchid known for its unique slipper-shaped yellow pouch and mottled leaves. It typically grows in temperate European woodlands.",
+      "bloomingSeason": "Late spring to mid-October",
+      "location": "Europe, temperate woodlands",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌼",
+      "funFact": "The Lady's Slipper Orchid traps insects temporarily in its pouch to aid in pollination."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A popular cultivated autumn-blooming plant often used in floral displays, known for its dense, pompom-like flowers and variety of colors.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide, cultivated",
+      "colors": [
+        "yellow",
+        "red",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Chrysanthemums are symbolic of autumn in many cultures and are the flower emblem of Japan."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree with bright orange to yellow spider-like flowers that provide nectar for birds.",
+      "bloomingSeason": "Spring to mid-autumn (September to October)",
+      "location": "Australia (native) and cultivated subtropics",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Silky Oak wood is prized for its attractive grain and used in furniture making."
+    },
+    {
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A wildflower native to North America, known for its vibrant purple daisy-like flowers with yellow centers, blooming late into autumn.",
+      "bloomingSeason": "August to October",
+      "location": "Eastern North America",
+      "colors": [
+        "purple",
+        "pink",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "New England Asters attract butterflies and are important late-season nectar sources."
+    }
+  ]
+}

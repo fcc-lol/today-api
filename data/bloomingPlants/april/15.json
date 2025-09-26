@@ -1,0 +1,57 @@
+{
+  "date": "April 15",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree known for its large, saucer-shaped flowers that appear before the leaves. The blooms are fragrant and come in shades of white, pink, and purple.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer magnolias bloom early in spring and are some of the first trees to flower, often before other leaves emerge."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A wildflower species producing bright yellow trumpet-shaped flowers in early spring. It grows naturally in woodland and grassland areas.",
+      "bloomingSeason": "March to May",
+      "location": "Europe, especially the UK and western Europe",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wild daffodils are important early nectar sources for bees emerging from winter dormancy."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its stunning pink to white blossoms that bloom briefly in spring. It is highly celebrated in Japan and many temperate climates worldwide.",
+      "bloomingSeason": "Late March to mid-April",
+      "location": "Japan, East Asia, and cultivated worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cherry blossoms symbolize the transient nature of life due to their short blooming period."
+    },
+    {
+      "name": "Grevillea rosmarinifolia",
+      "commonName": "Rosemary Grevillea",
+      "description": "An Australian shrub with needle-like leaves and spider-like red or pink flowers, blooming prominently in spring.",
+      "bloomingSeason": "September to April (Southern Hemisphere)",
+      "location": "Southeastern Australia",
+      "colors": [
+        "red",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Grevilleas are bird-pollinated, attracting honeyeaters with their nectar-rich flowers."
+    }
+  ]
+}

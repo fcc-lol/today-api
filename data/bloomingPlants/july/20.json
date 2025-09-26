@@ -1,0 +1,62 @@
+{
+  "date": "July 20",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are classic garden shrubs known for their fragrant and diverse flowers. Many varieties bloom repeatedly throughout summer, including midsummer in the Northern Hemisphere. The flowers vary widely in form and color.",
+      "bloomingSeason": "Late spring through summer (May to August)",
+      "location": "Temperate regions worldwide, commonly cultivated in gardens",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for thousands of years and are among the most cultivated flowers globally."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A native wildflower of North America, Echinacea purpurea produces large, daisy-like purple to pink flowers with a spiny central cone. It is popular for its medicinal uses and attracts pollinators.",
+      "bloomingSeason": "Summer to early fall (June to September)",
+      "location": "Eastern and central United States, also widely cultivated",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is widely used in herbal remedies to boost immune health."
+    },
+    {
+      "name": "Banksia menziesii",
+      "commonName": "Firewood Banksia",
+      "description": "An Australian wild shrub with large cylindrical flower spikes composed of hundreds of tiny flowers that bloom in bright shades, attracting birds and insects. It blooms in late winter to summer depending on region.",
+      "bloomingSeason": "June to September (Southern Hemisphere winter to early spring)",
+      "location": "Southwestern Australia (native)",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Banksia flowers are rich in nectar and were used by Indigenous Australians as a sweet treat."
+    },
+    {
+      "name": "Nymphaea spp.",
+      "commonName": "Water Lilies",
+      "description": "Aquatic plants with large floating leaves and fragrant flowers that open by day and close by night. Many species bloom during warm summer months in temperate to tropical climates.",
+      "bloomingSeason": "Summer (June to August)",
+      "location": "Temperate and tropical freshwater habitats worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "yellow",
+        "blue"
+      ],
+      "emoji": "🌼",
+      "funFact": "Water lilies were featured prominently in Monet’s paintings, symbolizing tranquility and beauty."
+    }
+  ]
+}

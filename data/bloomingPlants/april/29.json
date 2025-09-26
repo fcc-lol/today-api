@@ -1,0 +1,59 @@
+{
+  "date": "April 29",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid deciduous magnolia known for its large, fragrant, tulip-shaped flowers that bloom in early spring before the leaves appear. It is popular in temperate gardens and parks.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer magnolia flowers often appear before the leaves, creating a spectacular floral display that signals the arrival of spring."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "A hardy wildflower native to the western United States that produces vibrant cup-shaped flowers. It is drought-tolerant and adapts well to dry, sandy soils.",
+      "bloomingSeason": "March to June",
+      "location": "Western North America, especially California",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "California poppies close their petals at night and during cold or windy weather, protecting their reproductive organs."
+    },
+    {
+      "name": "Rhododendron spp.",
+      "commonName": "Rhododendron or Azalea",
+      "description": "A genus comprising many species and cultivars that bloom profusely in spring, bearing clusters of bell-shaped flowers. They thrive in acidic soils and shaded spots.",
+      "bloomingSeason": "April to June",
+      "location": "Worldwide in temperate and subtropical regions",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Rhododendrons attract pollinators like bees and hummingbirds, and some species are adapted to specific altitudes in mountainous regions."
+    },
+    {
+      "name": "Callistemon citrinus",
+      "commonName": "Crimson Bottlebrush",
+      "description": "An Australian native shrub notable for its bright red, brush-shaped flower spikes resembling a bottlebrush. It blooms mainly in spring and is popular in warm temperate gardens.",
+      "bloomingSeason": "Spring (September to November in Southern Hemisphere, around April in Northern Hemisphere cultivation)",
+      "location": "Australia; cultivated in subtropical gardens worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🧴",
+      "funFact": "The unique bottlebrush flowers are adapted to bird pollination, with nectar feeding birds attracted to their vivid colors and shape."
+    }
+  ]
+}

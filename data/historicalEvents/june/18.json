@@ -1,0 +1,40 @@
+{
+  "date": "June 18",
+  "events": [
+    {
+      "year": 1815,
+      "title": "Battle of Waterloo",
+      "description": "Napoleon Bonaparte was defeated by the Duke of Wellington and Prussian forces under Gebhard Leberecht von Blücher, ending the Napoleonic Wars.",
+      "category": "Military",
+      "significance": "This battle marked the end of the Napoleonic Wars and reshaped the political landscape of Europe for decades."
+    },
+    {
+      "year": 1812,
+      "title": "United States Declares War on Britain (War of 1812)",
+      "description": "The United States Congress declared war on the United Kingdom due to trade restrictions and maritime rights violations.",
+      "category": "Political",
+      "significance": "Start of the War of 1812, a pivotal conflict that asserted U.S. sovereignty and affected North American geopolitics."
+    },
+    {
+      "year": 1940,
+      "title": "Winston Churchill's 'This was their finest hour' Speech",
+      "description": "British Prime Minister Winston Churchill delivered a famous speech to the House of Commons rallying the British people during the Battle of Britain.",
+      "category": "Political / Cultural",
+      "significance": "This speech helped boost British morale during World War II amid the threat of Nazi invasion."
+    },
+    {
+      "year": 1983,
+      "title": "Sally Ride Becomes First American Woman in Space",
+      "description": "Astronaut Sally Ride flew aboard the Space Shuttle Challenger, becoming the first American woman to travel into space.",
+      "category": "Science/Exploration",
+      "significance": "A major milestone in space exploration and gender equality in STEM fields."
+    },
+    {
+      "year": 1948,
+      "title": "Aswan High Dam Agreement Signed",
+      "description": "Egypt signed a plan to build the Aswan Dam with Soviet assistance amid Western refusal to finance the project.",
+      "category": "Infrastructure / Political",
+      "significance": "Marked an important point in Cold War politics and Egyptian modernization efforts."
+    }
+  ]
+}

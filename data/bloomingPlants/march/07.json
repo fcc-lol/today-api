@@ -1,0 +1,56 @@
+{
+  "date": "March 7",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A small tree known for its stunning pink to white flowers that herald the arrival of spring. It is widely cultivated in temperate regions and celebrated in festivals like Japan's Hanami.",
+      "bloomingSeason": "Late March to April (varies by region, some early bloomers in March)",
+      "location": "Temperate East Asia, cultivated worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossoms have been an important cultural symbol in Japan for centuries, representing the ephemeral nature of life."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its white flowers that often bloom in late winter to early spring. Despite its common name, it blooms around Christmas and into early March in some areas.",
+      "bloomingSeason": "December to March",
+      "location": "Mountainous regions of Central and Southern Europe",
+      "colors": [
+        "white"
+      ],
+      "emoji": "❄️",
+      "funFact": "The Christmas rose can bloom through snow, adding early-season interest to gardens."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that produces clusters of fragrant flowers throughout the warmer months. In Mediterranean climates, it can begin blooming as early as March.",
+      "bloomingSeason": "March to October",
+      "location": "Mediterranean Basin, cultivated in subtropical and tropical regions worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, this tree produces bright yellow, fluffy flower clusters in late winter to early spring, signaling seasonal change in southern Australia.",
+      "bloomingSeason": "July to November in Australia (Southern Hemisphere late winter to spring, meaning it blooms from July-November; not March in Australia). However, Acacia species bloom variably worldwide.",
+      "location": "Southeastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle flowers contain numerous stamens that give the blossoms their characteristic fluffy appearance."
+    }
+  ]
+}

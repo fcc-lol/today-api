@@ -1,0 +1,58 @@
+{
+  "date": "May 5",
+  "plants": [
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A deciduous tree known for its large, fragrant, tulip-shaped flowers that appear before the leaves, creating a spectacular early spring display.",
+      "bloomingSeason": "Early to mid-spring (April to May)",
+      "location": "Temperate regions of the Northern Hemisphere; widely cultivated in gardens across Europe, North America, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Saucer Magnolia blooms before its leaves emerge, ensuring its showy flowers are highly visible and accessible to early pollinators."
+    },
+    {
+      "name": "Clintonia borealis",
+      "commonName": "Bluebead Lily",
+      "description": "A perennial wildflower native to North American deciduous forests, featuring clusters of small yellow-green flowers that give way to striking bright blue berries.",
+      "bloomingSeason": "Late spring (April to May)",
+      "location": "Northeastern United States and Canada, in cool, shaded woodlands",
+      "colors": [
+        "yellow-green"
+      ],
+      "emoji": "🌿",
+      "funFact": "Despite its common name, the blue 'beads' are actually berries that mature after blooming, giving the plant a second seasonal interest."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy, evergreen shrub known for its clusters of highly fragrant, showy flowers that bloom profusely during warm months.",
+      "bloomingSeason": "Spring through fall (April to October)",
+      "location": "Mediterranean region, subtropical and tropical zones worldwide; often cultivated as an ornamental plant",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is extremely toxic if ingested, yet it has been used historically in traditional medicines with great caution."
+    },
+    {
+      "name": "Erythrina crista-galli",
+      "commonName": "Cockspur Coral Tree",
+      "description": "A striking flowering tree with bright red, spiky blossoms resembling a rooster's comb; it thrives in subtropical regions and is celebrated as a national flower in Argentina and Uruguay.",
+      "bloomingSeason": "Late spring to summer (May to August)",
+      "location": "South America (Argentina, Uruguay); also grown in subtropical gardens worldwide",
+      "colors": [
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The vibrant red flowers attract hummingbirds and other pollinators, playing a vital role in the local ecosystem."
+    }
+  ]
+}

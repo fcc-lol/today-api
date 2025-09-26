@@ -1,0 +1,60 @@
+{
+  "date": "May 29",
+  "plants": [
+    {
+      "name": "Rosa spp.",
+      "commonName": "Roses",
+      "description": "Roses are one of the most popular and widely cultivated flowering plants globally. Many species and varieties bloom abundantly in late spring, producing fragrant flowers that come in a spectrum of colors including red, pink, white, and yellow. They are often found in temperate gardens and wild habitats.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "Roses have been symbols of love and beauty for thousands of years and are used extensively in perfumes and cosmetics."
+    },
+    {
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A striking white lily native to the Middle East and Mediterranean regions, blooming in late spring with large, trumpet-shaped fragrant flowers. Often grown in gardens and used in religious symbolism.",
+      "bloomingSeason": "May to June",
+      "location": "Mediterranean climate zones and cultivated worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Madonna Lilies have been cultivated since ancient times and are associated with purity and virtue."
+    },
+    {
+      "name": "Delphinium elatum",
+      "commonName": "Delphinium",
+      "description": "Tall spikes of blue, purple, white, or pink flowers bloom in late spring to early summer. Delphiniums prefer cooler climates and are popular in temperate gardens for their dramatic floral display.",
+      "bloomingSeason": "Late spring to early summer",
+      "location": "Temperate regions of the Northern Hemisphere",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "💐",
+      "funFact": "The name 'Delphinium' comes from the Greek word for dolphin, as the flower buds are said to resemble a dolphin’s shape."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous climbing vine producing cascading clusters of fragrant blue to violet flowers. It typically blooms in late spring in mild temperate climates, transforming gardens and woodlands with its lovely flower clusters.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern Asia native; cultivated widely in temperate zones",
+      "colors": [
+        "violet",
+        "blue"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wisteria can live for over 100 years and some ancient specimens have massive woody trunks and spectacular floral displays."
+    }
+  ]
+}

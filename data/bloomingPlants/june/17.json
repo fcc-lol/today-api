@@ -1,0 +1,57 @@
+{
+  "date": "June 17",
+  "plants": [
+    {
+      "name": "Rosa chinensis",
+      "commonName": "China Rose",
+      "description": "A species of rose native to Southwest China known for its continuous blooming habit and fragrant flowers. It is a key ancestor of modern garden roses, often blooming profusely in early summer through autumn in temperate zones.",
+      "bloomingSeason": "May to October",
+      "location": "China, cultivated worldwide in temperate climates",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌹",
+      "funFact": "The China Rose was one of the first roses to be brought to Europe in the 18th century, introducing remontant (repeat) blooming to rose varieties."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "An aquatic plant with large floating leaves and fragrant white flowers that open during the day and close at night. It grows in freshwater lakes and ponds across Europe and parts of Asia.",
+      "bloomingSeason": "June to August",
+      "location": "Europe and parts of Asia, freshwater habitats",
+      "colors": [
+        "white"
+      ],
+      "emoji": "💧",
+      "funFact": "Water lilies have water-repellent leaves that help them stay afloat, and their flowers provide habitat for butterflies and dragonflies."
+    },
+    {
+      "name": "Lupinus perennis",
+      "commonName": "Wild Lupine",
+      "description": "A perennial wildflower native to eastern North America that forms dense spikes of pea-like flowers. It is important as a host plant for the Karner blue butterfly and blooms in late spring to early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Eastern United States, sandy soils and open pine barrens",
+      "colors": [
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Wild Lupine fixes nitrogen in the soil, improving fertility and benefiting other plants in its ecosystem."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree or shrub with distinctive cylindrical flower spikes that bloom throughout much of the year but are plentiful in late autumn to winter in native regions. On the east coast, it often blooms in June, providing nectar for birds and insects.",
+      "bloomingSeason": "Year-round, peaks in autumn and winter in Australia (Southern Hemisphere winter is June-August)",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias have unique flower structures adapted to attract pollinating birds with large nectar supplies."
+    }
+  ]
+}

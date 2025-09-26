@@ -1,0 +1,58 @@
+{
+  "date": "December 11",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub or small tree that blooms profusely in warm climates, producing clusters of fragrant, funnel-shaped flowers.",
+      "bloomingSeason": "May to December",
+      "location": "Mediterranean Basin, Southern United States, and tropical/subtropical regions",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested, containing cardiac glycosides."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "The Christmas Rose is a perennial flowering plant that blooms in winter, even through snow in some regions, with white flowers often tinged with pink or purple.",
+      "bloomingSeason": "December to February",
+      "location": "Alpine regions of Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "The Christmas Rose has been used in folk medicine despite its poisonous properties and is historically associated with the holiday season."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A popular ornamental shrub or small tree known for its large, glossy leaves and showy, rose-like flowers that bloom in colder months.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia and cultivated worldwide in mild climates",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "Camellia japonica flowers are highly valued in East Asian cultures and are a symbol of admiration and perfection."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "A cold-tolerant eucalyptus species native to the Australian Alps, producing small, creamy white flowers that attract pollinators even in winter.",
+      "bloomingSeason": "Winter (June to August in Southern Hemisphere, i.e., December to February in Northern Hemisphere)",
+      "location": "Australia, especially alpine regions",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌿",
+      "funFact": "Snow gums have adapted to survive harsh alpine climates, with smooth bark that changes color as it sheds."
+    }
+  ]
+}

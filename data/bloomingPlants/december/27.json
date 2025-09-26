@@ -1,0 +1,60 @@
+{
+  "date": "December 27",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy leaves and beautiful, rose-like flowers that bloom in late fall through winter. Commonly cultivated in gardens in temperate regions.",
+      "bloomingSeason": "October to March",
+      "location": "Temperate regions worldwide, native to East Asia (Japan, Korea, China)",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica flowers were prized by Victorian gardeners and symbolize admiration and perfection."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant flowering in midwinter, often near Christmas, known for its white or pinkish blooms that brighten shady garden spots.",
+      "bloomingSeason": "December to February",
+      "location": "Alpine regions of Europe, cultivated in temperate gardens",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose and can bloom through snow."
+    },
+    {
+      "name": "Grevillea rosmarinifolia",
+      "commonName": "Rosemary Grevillea",
+      "description": "A native Australian shrub that blooms sporadically year-round, with heightened flowering in winter, producing spider-like flowers attractive to birds.",
+      "bloomingSeason": "Winter to early spring (June to September in Southern Hemisphere)",
+      "location": "Eastern Australia, cultivated in similar climates worldwide",
+      "colors": [
+        "red",
+        "orange",
+        "pink"
+      ],
+      "emoji": "🌿🌺",
+      "funFact": "Grevilleas are known for their unique flower structure adapted for bird pollination."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that flowers in mild winter climates, producing clusters of fragrant flowers commonly found in Mediterranean and subtropical gardens.",
+      "bloomingSeason": "May to December (can bloom year-round in frost-free areas)",
+      "location": "Mediterranean, southern USA, and subtropical/tropical regions",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is highly toxic if ingested but widely used as an ornamental plant due to its beauty and drought tolerance."
+    }
+  ]
+}

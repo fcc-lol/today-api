@@ -1,0 +1,61 @@
+{
+  "date": "October 16",
+  "plants": [
+    {
+      "name": "Cyclamen persicum",
+      "commonName": "Persian Cyclamen",
+      "description": "A tuberous herbaceous perennial plant, Cyclamen persicum produces charming upswept, heart-shaped flowers that bloom in shades of white, pink, and magenta with darker markings. It thrives in Mediterranean climates and is often found blooming indoors or in gardens during autumn.",
+      "bloomingSeason": "September to November",
+      "location": "Mediterranean Basin, cultivated worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "magenta"
+      ],
+      "emoji": "🌸",
+      "funFact": "The flower petals are reflexed backwards giving the flower a delicate, butterfly-like appearance."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A hardy biennial or short-lived perennial wildflower, Black-eyed Susan is characterized by bright yellow ray florets surrounding a dark brown central disc. It often blooms late summer through autumn, adding vibrant color to meadows and prairies in North America.",
+      "bloomingSeason": "June to October",
+      "location": "Native to North America, widespread in meadows and gardens",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Black-eyed Susans are the state flower of Maryland and widely used in pollinator-supportive plantings."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Cornish Lily",
+      "description": "This South African bulb produces clusters of showy, pink to salmon funnel-shaped flowers with wavy petals during autumn, often after the foliage has died back. It is cultivated in mild climates and celebrated for autumn garden color.",
+      "bloomingSeason": "September to November",
+      "location": "Native to South Africa; cultivated in Mediterranean and temperate gardens",
+      "colors": [
+        "pink",
+        "salmon"
+      ],
+      "emoji": "💐",
+      "funFact": "Nerine bowdenii was named after the collector Harry Bowden’s daughter, Nerine."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Highly popular garden shrubs, Chrysanthemums bloom profusely in various forms and colors during autumn. They are widely cultivated globally and often symbolize autumn in temperate regions.",
+      "bloomingSeason": "September to November",
+      "location": "Cultivated worldwide; native to East Asia",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are often associated with death and funerals in some cultures, while in others they symbolize life and rebirth."
+    }
+  ]
+}

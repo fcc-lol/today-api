@@ -1,0 +1,56 @@
+{
+  "date": "May 22",
+  "plants": [
+    {
+      "name": "Rhododendron ponticum",
+      "commonName": "Rhodedendron",
+      "description": "A large evergreen shrub native to western Asia and southeast Europe, thriving in temperate climates. It produces clusters of trumpet-shaped flowers that can range from purple to white.",
+      "bloomingSeason": "April to June",
+      "location": "Temperate forests of Europe and western Asia",
+      "colors": [
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Rhododendrons can have toxic nectar that affects some pollinators, making their ecology fascinating."
+    },
+    {
+      "name": "Lilium auratum",
+      "commonName": "Golden-rayed Lily",
+      "description": "This strikingly beautiful lily species is native to Japan and bears large white flowers with gold stripes and a sweet fragrance. It blooms in late spring to early summer.",
+      "bloomingSeason": "May to July",
+      "location": "Japan",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Lilium auratum is highly prized in Japanese gardens and can grow up to 2 meters tall."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An Australian native tree known for its fern-like leaves and spectacular, bright orange-red flowers that attract birds and insects.",
+      "bloomingSeason": "April to June",
+      "location": "Eastern Australia and cultivated globally",
+      "colors": [
+        "orange",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name, Silky Oak is not related to oak trees; its timber is valued for furniture making."
+    },
+    {
+      "name": "Mimulus guttatus",
+      "commonName": "Seep Monkeyflower",
+      "description": "A wildflower commonly found near streams and moist environments in western North America. It has yellow, spotted flowers that attract a variety of pollinators.",
+      "bloomingSeason": "April to July",
+      "location": "Western North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The flowers of Mimulus guttatus are known for their diverse pollination strategies involving both bees and hummingbirds."
+    }
+  ]
+}

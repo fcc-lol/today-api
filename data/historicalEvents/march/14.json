@@ -1,0 +1,33 @@
+{
+  "date": "March 14",
+  "events": [
+    {
+      "year": 1879,
+      "title": "Birth of Albert Einstein",
+      "description": "Albert Einstein, the theoretical physicist renowned for the theory of relativity, was born in Ulm, Germany.",
+      "category": "Birth",
+      "significance": "Einstein's work revolutionized modern physics and profoundly influenced the scientific understanding of space, time, and energy."
+    },
+    {
+      "year": 1951,
+      "title": "Trial of Julius and Ethel Rosenberg",
+      "description": "The Rosenbergs were convicted of espionage for allegedly passing atomic secrets to the Soviet Union.",
+      "category": "Criminal Trial",
+      "significance": "Their trial and subsequent execution became iconic during the Cold War, highlighting fears of communism and espionage."
+    },
+    {
+      "year": 2018,
+      "title": "Death of Stephen Hawking",
+      "description": "Famed theoretical physicist Stephen Hawking passed away at the age of 76, known for his contributions to cosmology and black hole physics.",
+      "category": "Death",
+      "significance": "Hawking's work advanced understanding of the universe and brought science to a global audience."
+    },
+    {
+      "year": 1878,
+      "title": "First Successful Telephone Call by Alexander Graham Bell",
+      "description": "Alexander Graham Bell made the first successful variable resistance telephone call in Boston, demonstrating a key improvement in telephony.",
+      "category": "Technology",
+      "significance": "This innovation was crucial in making telephone communication practical and reliable, impacting global communication."
+    }
+  ]
+}

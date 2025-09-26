@@ -1,0 +1,57 @@
+{
+  "date": "July 13",
+  "plants": [
+    {
+      "name": "Lilium auratum",
+      "commonName": "Golden-rayed Lily",
+      "description": "A stunning lily native to Japan known for its large, fragrant white flowers with golden stripes and freckled spots. It blooms in summer and is highly prized in horticulture.",
+      "bloomingSeason": "June to August",
+      "location": "Japan, temperate gardens worldwide",
+      "colors": [
+        "white",
+        "golden yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Lilium auratum is often called the 'King of Lilies' due to its majestic size and striking fragrance."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant characterized by its large flower heads with bright yellow ray florets and dark brown centers. Sunflowers track the sun’s movement across the sky during the day (heliotropism) especially in bud stage.",
+      "bloomingSeason": "July to September",
+      "location": "Native to North America, widely cultivated globally",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow exceptionally tall, some varieties exceeding 3 meters (10 feet) in height."
+    },
+    {
+      "name": "Eryngium maritimum",
+      "commonName": "Sea Holly",
+      "description": "A spiny, silver-blue wildflower found on sandy sea coasts of Europe. It adds a unique architectural element to coastal dunes and blooms midsummer.",
+      "bloomingSeason": "June to August",
+      "location": "European coastal dunes, Mediterranean to Atlantic coasts",
+      "colors": [
+        "blue",
+        "silver"
+      ],
+      "emoji": "🌿",
+      "funFact": "The name 'Eryngium' originates from the Greek word 'Eryngion', where it was believed to have medicinal properties."
+    },
+    {
+      "name": "Grevillea robusta",
+      "commonName": "Silky Oak",
+      "description": "An evergreen flowering tree native to Australia that produces bright orange to yellow brush-like flowers, popular in subtropical gardens.",
+      "bloomingSeason": "June to August",
+      "location": "Eastern Australia, also cultivated in similar climates worldwide",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Despite its common name 'Silky Oak', this tree is not a true oak, and its wood is prized for furniture making due to its durability and attractive grain."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "August 14",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Sunflower",
+      "description": "An iconic tall annual plant with large, bright yellow flower heads that track the sun's movement. Sunflowers are cultivated worldwide and often bloom in late summer, adding vibrant color to fields and gardens.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions worldwide, especially North America",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day to maximize photosynthesis."
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "commonName": "Cardinal Flower",
+      "description": "A striking native North American perennial with vibrant red tubular flowers that attract hummingbirds. It blooms in moist habitats such as stream banks and wetlands during late summer.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Cardinal flowers are favored by hummingbirds due to their bright red color and tubular shape."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, notable for its huge flower heads resembling a large artichoke. King Proteas blossom mainly in late winter to early spring in the Southern Hemisphere, which corresponds to August in South Africa.",
+      "bloomingSeason": "June to October",
+      "location": "South Africa",
+      "colors": [
+        "Pink",
+        "White",
+        "Green"
+      ],
+      "emoji": "🌸",
+      "funFact": "The King Protea's large inflorescence is actually a cluster of hundreds of tiny flowers packed together in a flower head."
+    },
+    {
+      "name": "Rhododendron falconeri",
+      "commonName": "Falconer's Rhododendron",
+      "description": "A majestic evergreen rhododendron native to the eastern Himalayas, with large clusters of fragrant white to pale yellow flowers blooming in late summer to early autumn.",
+      "bloomingSeason": "August to September",
+      "location": "Eastern Himalayas (India, Nepal, Bhutan)",
+      "colors": [
+        "White",
+        "Pale Yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "This rhododendron species grows at high altitudes and can reach tree-like sizes, providing important habitat in mountain forests."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "July 4",
+  "plants": [
+    {
+      "name": "Lilium canadense",
+      "commonName": "Canada Lily",
+      "description": "A North American wildflower native to eastern regions, featuring bright orange to yellow trumpet-shaped flowers with dark spots. It thrives in meadows and open woodlands.",
+      "bloomingSeason": "June to July",
+      "location": "Eastern North America",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Canada Lily bulbs were traditionally used by Native Americans for food and medicine."
+    },
+    {
+      "name": "Rhododendron ferrugineum",
+      "commonName": "Alpenrose",
+      "description": "An evergreen shrub found in the European Alps, known for its clusters of vivid pink to red bell-shaped flowers. It prefers acidic alpine soils and blooms in mid-summer.",
+      "bloomingSeason": "June to August",
+      "location": "European Alps",
+      "colors": [
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Alpenrose can survive harsh alpine conditions and is often used as an indicator of the timberline."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub with large, showy flowers lasting a single day each. Flowers come in various vivid colors and are widely cultivated in warm climates worldwide.",
+      "bloomingSeason": "Year-round in tropical climates, notably in summer",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "Hibiscus flowers have edible petals and are used to make herbal teas in many cultures."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial native to North America, valued for its daisy-like purple petals and distinctive central cone. Commonly found in prairies and gardens for its medicinal properties.",
+      "bloomingSeason": "June to September",
+      "location": "Central and Eastern United States",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is widely used in traditional medicine for its immune-boosting effects."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "November 19",
+  "plants": [
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Chrysanthemum (Mum)",
+      "description": "Chrysanthemums are popular garden plants that bloom in late autumn, often used to brighten up gardens with their abundant, colorful flowers. They have a wide range of flower forms and colors.",
+      "bloomingSeason": "September to November",
+      "location": "Temperate regions worldwide (cultivated)",
+      "colors": [
+        "yellow",
+        "white",
+        "red",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures and are the official flower of the city of Chicago."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy leaves and large, showy flowers that bloom in late autumn to winter. Widely cultivated in gardens, it thrives in mild climates.",
+      "bloomingSeason": "October to March",
+      "location": "Eastern Asia, cultivated in temperate gardens globally",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized by Victorian gardeners and are the flower featured in Alexandre Dumas' novel 'The Lady of the Camellias'."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub that blooms profusely with funnel-shaped flowers mostly in warm climates, often extending into late autumn in mild areas.",
+      "bloomingSeason": "May to November",
+      "location": "Mediterranean region, subtropical and tropical areas",
+      "colors": [
+        "pink",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "All parts of the oleander plant are toxic, yet it remains a popular ornamental plant in warm climate gardens."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The national flower of South Africa, this striking plant features large, unique flower heads composed of many small flowers surrounded by colorful bracts, blooming during the late spring to early summer but, in its native habitat, can bloom intermittently into late autumn.",
+      "bloomingSeason": "September to November",
+      "location": "South Africa (fynbos biome)",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "The King Protea has one of the largest flower heads of any plant species in the world, and its name derives from the Greek god Proteus, who could change his form at will."
+    }
+  ]
+}

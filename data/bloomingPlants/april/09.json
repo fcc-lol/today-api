@@ -1,0 +1,56 @@
+{
+  "date": "April 9",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous tree famous for its spectacular spring display of pale pink to white flowers, often blooming before the leaves emerge. These blossoms are central to traditional cherry blossom festivals and symbolize the transient nature of life in Japanese culture.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate regions of Japan, Korea, China, and also cultivated in temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese cherry blossom trees have over 200 different cultivars, each with distinct flower shapes and blooming times."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A perennial bulbous plant producing fragrant, trumpet-shaped yellow flowers in early spring. Wild daffodils are native to woodlands and meadows, often forming natural carpets of bright yellow during blooming season.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, particularly the UK and France",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Wild daffodils are toxic if ingested and have been used historically as insect repellents."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A hybrid magnolia tree with large, tulip-shaped flowers that appear on bare branches before leafing out. Its blooms range in color from white to deep pink and can emit a sweet fragrance.",
+      "bloomingSeason": "March to April",
+      "location": "Cultivated widely in temperate regions, native hybrid originally from China",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Saucer magnolia is one of the first trees to bloom in early spring, making it an important nectar source for early pollinators."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An evergreen tree native to eastern Australia with cylindrical flower spikes composed of many small flowers, ranging from creamy yellow to orange. It blooms through autumn, winter and into spring, including April, providing important food for native birds and mammals.",
+      "bloomingSeason": "Autumn to Spring (March to May included)",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "yellow",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksias have woody cones that open after exposure to fire, adapted to survive in fire-prone environments."
+    }
+  ]
+}

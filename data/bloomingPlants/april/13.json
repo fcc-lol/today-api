@@ -1,0 +1,60 @@
+{
+  "date": "April 13",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Japanese Cherry Blossom is famous for its stunning, delicate pink to white flowers that herald spring in Japan and many temperate parts of the world. This ornamental tree is often planted in parks and gardens and is celebrated during cherry blossom festivals.",
+      "bloomingSeason": "March to April",
+      "location": "Japan, temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "The bloom period of the cherry blossoms in Japan is very short, often just about one week, symbolizing the fleeting nature of life."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub that produces clusters of fragrant flowers in various colors. It thrives in warm climates and is widely used in Mediterranean and subtropical landscaping.",
+      "bloomingSeason": "April to October",
+      "location": "Mediterranean, Southwestern USA, subtropical regions",
+      "colors": [
+        "Pink",
+        "White",
+        "Red",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested, but its beauty and tolerance to dry conditions make it a popular ornamental plant."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "Saucer Magnolia is a popular early spring blooming tree with large, tulip-shaped flowers in shades of white, pink, and purple. It blooms before the leaves fully emerge, creating a spectacular display.",
+      "bloomingSeason": "March to April",
+      "location": "China (native), temperate regions worldwide",
+      "colors": [
+        "Pink",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolia flowers are some of the oldest flowering plants, dating back over 95 million years to the time of the dinosaurs."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Daffodil",
+      "description": "Daffodils are bulbous perennials famous for their bright yellow or white trumpet-shaped flowers, signaling the arrival of spring in many regions of the Northern Hemisphere.",
+      "bloomingSeason": "March to April",
+      "location": "Europe, North America, temperate regions",
+      "colors": [
+        "Yellow",
+        "White"
+      ],
+      "emoji": "💐",
+      "funFact": "Daffodils contain a toxic alkaloid called lycorine, which deters herbivores from eating them."
+    }
+  ]
+}

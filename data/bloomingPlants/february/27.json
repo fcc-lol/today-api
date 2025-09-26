@@ -1,0 +1,56 @@
+{
+  "date": "February 27",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its large, white to pinkish flowers that bloom during winter and early spring. It often grows wild in mountainous regions and is popular in shaded garden beds.",
+      "bloomingSeason": "December to March",
+      "location": "Central and Southern Europe, cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, Christmas Rose often blooms well beyond Christmas, sometimes lasting until early spring, thriving in cold, snowy conditions."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A deciduous tree native to China and Japan, celebrated for its fragrant pink or white flowers that appear in late winter before the leaves emerge. It is culturally significant in East Asia, symbolizing perseverance and hope.",
+      "bloomingSeason": "January to March",
+      "location": "East Asia (China, Japan, Korea)",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸🍑",
+      "funFact": "Prunus mume blossoms herald the coming of spring and are featured in traditional poems and festivals in Japan and China."
+    },
+    {
+      "name": "Crocus sativus",
+      "commonName": "Saffron Crocus",
+      "description": "A small perennial flowering plant with vivid purple petals and bright orange stigmas, which are harvested as the spice saffron. It blooms in late winter to early spring, often before many other plants.",
+      "bloomingSeason": "October to February (in some areas blooming can extend to late February)",
+      "location": "Mediterranean region, Middle East, South Asia",
+      "colors": [
+        "purple",
+        "orange"
+      ],
+      "emoji": "💜🌼",
+      "funFact": "The saffron crocus is one of the most expensive spices in the world due to the labor-intensive harvesting of its stigmas."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree that flowers irregularly but often blooms in late summer to early autumn and can sometimes bloom in late winter in mild coastal climates. It produces cylindrical flower spikes composed of hundreds of tiny flowers, attracting many nectar-feeding birds and insects.",
+      "bloomingSeason": "Autumn to Spring, with some regional variation",
+      "location": "Eastern Australia (coastal regions)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻🦜",
+      "funFact": "Banksia flowers are a crucial nectar source for honeyeaters and other wildlife during times when few other plants are flowering."
+    }
+  ]
+}

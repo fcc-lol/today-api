@@ -1,0 +1,57 @@
+{
+  "date": "December 13",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "Oleander is a hardy evergreen shrub that produces clusters of fragrant, funnel-shaped flowers. It thrives in Mediterranean climates and blooms profusely in late autumn and early winter in warm regions.",
+      "bloomingSeason": "October to December",
+      "location": "Mediterranean Basin, Southern United States, and tropical to subtropical regions worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "All parts of oleander are toxic if ingested, yet it's widely grown for its long-lasting blooms and drought tolerance."
+    },
+    {
+      "name": "Eucalyptus pauciflora",
+      "commonName": "Snow Gum",
+      "description": "Snow Gum is a species of eucalyptus native to high-altitude regions of southeastern Australia. It often flowers in early summer and again sporadically through winter, featuring creamy white flowers.",
+      "bloomingSeason": "December to February and sometimes in winter",
+      "location": "Australian Alps",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Snow Gum's bark peels in colorful ribbons, and it is one of the few trees flowering in winter in its native alpine habitat."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Camellia",
+      "description": "Camellias are evergreen shrubs known for their large, rose-like flowers. Many cultivars bloom from late fall through winter, thriving in temperate climates.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia, cultivated worldwide in gardens for winter blooms",
+      "colors": [
+        "red",
+        "pink",
+        "white"
+      ],
+      "emoji": "💮",
+      "funFact": "Camellia flowers are edible and occasionally used to garnish dishes in East Asia."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant found in Europe, the Christmas Rose blooms in winter, often around Christmas time. It has striking white flowers that can tolerate frost.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe, especially in mountainous regions",
+      "colors": [
+        "white"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its name, Christmas Rose is not a rose but a member of the buttercup family (Ranunculaceae)."
+    }
+  ]
+}

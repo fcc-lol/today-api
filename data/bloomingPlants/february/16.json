@@ -1,0 +1,57 @@
+{
+  "date": "February 16",
+  "plants": [
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small, early-blooming bulbous plant often among the first signs of spring in temperate regions. It produces cup-shaped flowers that emerge even through late winter snow.",
+      "bloomingSeason": "February to April",
+      "location": "Europe, North America (cultivated)",
+      "colors": [
+        "purple",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Crocus flowers are one of the earliest bloomers and their emergence marks the unofficial start of spring in many cultures."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial that blooms in winter and early spring with large white flowers often tinged with pink. It is commonly found in gardens as well as wild in mountainous areas.",
+      "bloomingSeason": "December to February",
+      "location": "Central and southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite its common name, the Christmas Rose is not a rose but a member of the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Michelia champaca",
+      "commonName": "Champak",
+      "description": "A tropical tree producing highly fragrant orange-yellow flowers that bloom year-round, peaking in late winter and early spring in many regions.",
+      "bloomingSeason": "Year-round, peak February to May",
+      "location": "South and Southeast Asia",
+      "colors": [
+        "orange",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "The Champak flower is prized in perfumery and traditional ceremonies for its intense fragrance."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle",
+      "description": "A fast-growing tree known for its bright, fluffy yellow flower clusters, often blooming in late winter to early spring in Mediterranean climates.",
+      "bloomingSeason": "January to March",
+      "location": "Australia (native), Mediterranean areas (cultivated)",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Silver Wattle blooms provide an important source of nectar for bees during the late winter when few other flowers are available."
+    }
+  ]
+}

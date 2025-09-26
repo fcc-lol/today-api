@@ -1,0 +1,56 @@
+{
+  "date": "March 10",
+  "plants": [
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial known for its early winter to early spring blooming period, often flowering through late winter into March. Its white to pinkish flowers bring color to gardens before many other plants bloom.",
+      "bloomingSeason": "December to March",
+      "location": "Europe, particularly in mountainous regions",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A small deciduous tree that bursts into star-shaped white flowers in early spring, sometimes blooming as early as late February through March, often before the leaves emerge.",
+      "bloomingSeason": "Late February to April",
+      "location": "Native to Japan, widely cultivated in temperate regions worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🌼✨",
+      "funFact": "Star Magnolia flowers are among the earliest magnolias to bloom and are prized for their showy, fragrant flowers that herald spring."
+    },
+    {
+      "name": "Wattle (Acacia pycnantha)",
+      "commonName": "Golden Wattle",
+      "description": "Australia’s national floral emblem, this shrub or small tree produces bright golden-yellow, fluffy spherical flowers that bloom in late winter to early spring.",
+      "bloomingSeason": "July to October (Southern Hemisphere late winter to spring, overlapping March in northern Australia)",
+      "location": "Southeastern Australia",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌿💛",
+      "funFact": "The Golden Wattle’s bright color inspired Australia’s national colors, green and gold."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A bulbous perennial flowering plant that produces vibrant cup-shaped flowers in shades of purple, white, and yellow. One of the earliest signifiers of spring in temperate gardens and meadows.",
+      "bloomingSeason": "February to April",
+      "location": "Europe and parts of the Middle East, widely naturalized elsewhere",
+      "colors": [
+        "purple",
+        "white",
+        "yellow"
+      ],
+      "emoji": "💜🌷",
+      "funFact": "Crocuses are known for their edible stigmas, which are harvested to create the spice saffron, though this is specific to Crocus sativus."
+    }
+  ]
+}

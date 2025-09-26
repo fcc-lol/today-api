@@ -1,0 +1,57 @@
+{
+  "date": "December 7",
+  "plants": [
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "A hardy evergreen shrub or small tree common in Mediterranean and subtropical regions, known for its prolific clusters of fragrant flowers that bloom year-round in mild climates.",
+      "bloomingSeason": "May to December (year-round in frost-free areas)",
+      "location": "Mediterranean Basin, Southern US, parts of Australia",
+      "colors": [
+        "Pink",
+        "White",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Oleander is highly toxic if ingested, but its beautiful colorful flowers make it a popular ornamental plant in warmer climates."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial plant native to mountainous regions of Europe, famous for blooming in winter, often around Christmas, with striking white flowers that brighten the cold months.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "White"
+      ],
+      "emoji": "❄️🌹",
+      "funFact": "Despite the common name, the Christmas Rose is not a true rose and can bloom through snow, symbolizing hope in winter."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy leaves and large, showy flowers that bloom from late fall through early spring, widely cultivated in temperate and subtropical gardens.",
+      "bloomingSeason": "October to March",
+      "location": "Japan, Korea, China; widely cultivated worldwide",
+      "colors": [
+        "Pink",
+        "Red",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were highly prized in ancient China and Japan, often featured in traditional art and tea ceremonies."
+    },
+    {
+      "name": "Posidonia oceanica",
+      "commonName": "Neptune Grass",
+      "description": "An underwater seagrass species native to the Mediterranean Sea, not a flowering plant in the traditional sense but produces flowers underwater during late autumn to early winter.",
+      "bloomingSeason": "November to December",
+      "location": "Mediterranean Sea",
+      "colors": [
+        "Green"
+      ],
+      "emoji": "🌿",
+      "funFact": "Neptune Grass is crucial for marine ecosystems, providing habitat and oxygen, and its underwater flowers are pollinated by water currents."
+    }
+  ]
+}

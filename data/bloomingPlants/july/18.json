@@ -1,0 +1,61 @@
+{
+  "date": "July 18",
+  "plants": [
+    {
+      "name": "Lilium spp.",
+      "commonName": "Lily",
+      "description": "Lilies are popular flowering plants known for their large, fragrant, trumpet-shaped flowers. They thrive in temperate regions and often bloom in mid to late summer. Lilies come in diverse colors and are common in gardens worldwide.",
+      "bloomingSeason": "June to August",
+      "location": "Temperate regions worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "orange",
+        "red",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Some lilies are highly fragrant and have been cultivated for their scent for centuries."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "The Sacred Lotus is an aquatic plant found in tropical and subtropical Asia. It produces large, showy flowers that bloom during warm summer months, including July, floating on the surface of still waters.",
+      "bloomingSeason": "June to August",
+      "location": "Asia, tropical and subtropical wetlands",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The lotus flower is a symbol of purity and rebirth in many Asian cultures."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A North American native wildflower, Echinacea blooms long into summer and is beloved for its daisy-like purple petals and spiky central cone. It attracts pollinators like butterflies and bees.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central North America",
+      "colors": [
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Echinacea is widely used in herbal remedies to support the immune system."
+    },
+    {
+      "name": "Banksia spinulosa",
+      "commonName": "Hairpin Banksia",
+      "description": "A native Australian shrub, Banksia spinulosa produces unique cylindrical flower spikes of densely packed small flowers that bloom in winter to mid-summer months, including July in the Southern Hemisphere.",
+      "bloomingSeason": "May to August",
+      "location": "Eastern Australia",
+      "colors": [
+        "orange",
+        "yellow",
+        "red"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers provide an important nectar source for Australian wildlife during winter."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "September 15",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement across the sky (heliotropism). Sunflowers are widely cultivated for their seeds and oil and are native to North America.",
+      "bloomingSeason": "July to September",
+      "location": "North America, cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers can grow up to 3 meters tall and their seeds are a popular snack and source of oil."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A native North American wildflower popular in gardens for its purple daisy-like flowers with prominent cones. It attracts pollinators and has medicinal uses related to the immune system.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and Central North America",
+      "colors": [
+        "Purple",
+        "Pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea is used in traditional herbal medicine to help reduce symptoms of the common cold."
+    },
+    {
+      "name": "Dahlia pinnata",
+      "commonName": "Dahlia",
+      "description": "A tuberous perennial plant cultivated for its large, colorful, intricate flowers that bloom late summer into fall. Native to Mexico, dahlias come in a variety of forms and colors.",
+      "bloomingSeason": "August to October",
+      "location": "Native to Mexico, cultivated worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "White",
+        "Orange",
+        "Purple"
+      ],
+      "emoji": "💐",
+      "funFact": "Dahlias are the national flower of Mexico and were originally cultivated by the Aztecs."
+    },
+    {
+      "name": "Salvia leucantha",
+      "commonName": "Mexican Bush Sage",
+      "description": "A semi-evergreen shrub with velvety purple flower spikes and silvery white bracts. It blooms late summer to fall, thriving in warm climates and attracting hummingbirds and butterflies.",
+      "bloomingSeason": "August to November",
+      "location": "Central and Southern Mexico",
+      "colors": [
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌿",
+      "funFact": "Mexican Bush Sage is drought tolerant and often used in xeriscaping gardens."
+    }
+  ]
+}

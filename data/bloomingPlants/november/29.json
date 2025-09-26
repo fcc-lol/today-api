@@ -1,0 +1,61 @@
+{
+  "date": "November 29",
+  "plants": [
+    {
+      "name": "Hamamelis virginiana",
+      "commonName": "American Witch Hazel",
+      "description": "A deciduous shrub native to eastern North America, known for its unique yellow, spindle-shaped flowers that bloom in late fall and early winter, often after the leaves have dropped. It is valued for its medicinal properties and distinctive fragrance.",
+      "bloomingSeason": "October to December",
+      "location": "Eastern United States and Canada",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel flowers bloom in late fall to early winter, making it one of the few plants that bloom during the colder months."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A woody shrub or small tree native to New Zealand and southeastern Australia, known for its profuse white to pink flowers. It blooms mainly in spring and summer, but in mild climates or specific cultivars it can bloom sporadically into late autumn.",
+      "bloomingSeason": "Primarily November to January, sometimes extending into November in some regions",
+      "location": "New Zealand and southeastern Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Manuka produces nectar used to make manuka honey, which is prized for its antibacterial properties."
+    },
+    {
+      "name": "Bougainvillea glabra",
+      "commonName": "Paperflower",
+      "description": "A thorny ornamental vine known for its vibrant, papery bracts that come in colors such as magenta, purple, red, orange, white, or pink. In tropical and subtropical climates, Bougainvillea can bloom year-round, including late November.",
+      "bloomingSeason": "Year-round in tropical/subtropical climates",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "magenta",
+        "purple",
+        "red",
+        "orange",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "The colorful parts of Bougainvillea are actually modified leaves called bracts; the true flowers are small and white."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub native to Japan, Korea, and China, producing large, rose-like flowers typically in shades of pink, red, and white. It generally blooms in late fall through early spring, making November a peak blooming period in many temperate regions.",
+      "bloomingSeason": "October to March",
+      "location": "East Asia; widely cultivated worldwide in temperate climates",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias are prized in Asian cultures and were historically symbols of refinement and excellence in Japan."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "March 27",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "A deciduous flowering cherry tree known for its stunning and abundant pink to white blossoms that create iconic spring landscapes in Japan and other temperate regions.",
+      "bloomingSeason": "March to April",
+      "location": "East Asia (Japan, Korea, China) and temperate zones worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Japanese cherry blossom is celebrated annually in festivals called 'Hanami' where people gather to appreciate transient beauty and the arrival of spring."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A popular hybrid magnolia tree characterized by large, cup-shaped flowers that appear before the leaves, displaying shades of white, pink, and purple.",
+      "bloomingSeason": "Late February to April",
+      "location": "Temperate regions of North America, Europe, and Asia",
+      "colors": [
+        "white",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Saucer magnolias bloom on old wood, so heavy pruning can reduce flowering in the spring."
+    },
+    {
+      "name": "Nerium oleander",
+      "commonName": "Oleander",
+      "description": "An evergreen shrub with striking clusters of flowers ranging from white to pink to red, often blooming prolifically in Mediterranean climates and subtropical areas.",
+      "bloomingSeason": "March to October",
+      "location": "Mediterranean Basin, southern USA, and other subtropical regions",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oleander is highly toxic if ingested but has been used traditionally in folk medicine and for ornamental purposes."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A native Australian tree producing cylindrical yellow flower spikes that attract nectar-feeding birds and mammals during the southern hemisphere's early spring.",
+      "bloomingSeason": "March to May",
+      "location": "Eastern Australia coastal areas",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers are arranged in dense cylindrical spikes containing hundreds of small individual flowers."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "January 24",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy dark green leaves and large, showy flowers which bloom in mid-winter to early spring. The flowers can be single or double and range from white to deep pink or red.",
+      "bloomingSeason": "December to March",
+      "location": "Temperate regions of East Asia, widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica was a highly prized flower in Victorian England and is the symbol of perfection and excellence in some cultures."
+    },
+    {
+      "name": "Erica carnea",
+      "commonName": "Winter Heath",
+      "description": "A low-growing evergreen shrub with bell-shaped flowers, often found blooming in late winter and early spring. It thrives in colder climates and rocky soils.",
+      "bloomingSeason": "December to March",
+      "location": "Alps and other mountainous regions of Europe",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Winter Heath is one of the earliest flowering plants in Europe and is often used in rock gardens and winter flower beds."
+    },
+    {
+      "name": "Mahonia aquifolium",
+      "commonName": "Oregon Grape",
+      "description": "An evergreen shrub with holly-like leaves and bright yellow flower clusters that bloom in late winter. Its berries resemble grapes and turn blue-purple when ripe.",
+      "bloomingSeason": "January to March",
+      "location": "Pacific Northwest, North America",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "The flowers of Oregon Grape are an important early nectar source for bees emerging in late winter."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant with large white flowers that often bloom in late winter, sometimes around Christmas and extending into January. It prefers shaded areas.",
+      "bloomingSeason": "December to February",
+      "location": "Mountainous regions of Europe, cultivated in gardens worldwide",
+      "colors": [
+        "white"
+      ],
+      "emoji": "🥀",
+      "funFact": "Despite its name, the Christmas Rose is not a true rose and its flowers are toxic if ingested."
+    }
+  ]
+}

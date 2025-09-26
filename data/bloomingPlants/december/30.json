@@ -1,0 +1,57 @@
+{
+  "date": "December 30",
+  "plants": [
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub known for its glossy leaves and large, rose-like flowers that bloom in winter, providing vibrant color in colder months.",
+      "bloomingSeason": "November to March",
+      "location": "East Asia (Japan, China, Korea); also widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "pink",
+        "red",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, and their blooms are often used in traditional Japanese tea ceremonies."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A hardy perennial that produces white to pinkish flowers often blooming around Christmas in Europe, thriving in shady garden areas and woodland edges.",
+      "bloomingSeason": "December to February",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌸",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family and can bloom through snow."
+    },
+    {
+      "name": "Leptospermum scoparium",
+      "commonName": "Manuka",
+      "description": "A small tree or shrub native to New Zealand and southeastern Australia, known for its delicate white or pink flowers and its honey, which is prized for medicinal properties.",
+      "bloomingSeason": "Late spring to late summer in Southern Hemisphere (November to February)",
+      "location": "New Zealand and Southeastern Australia",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "🌼🐝",
+      "funFact": "Manuka honey, derived from the nectar of Manuka flowers, is renowned worldwide for its antibacterial qualities."
+    },
+    {
+      "name": "Acacia dealbata",
+      "commonName": "Silver Wattle",
+      "description": "A fast-growing tree that produces bright yellow, fluffy flowers in late winter to early spring, commonly used in floristry and as an ornamental plant.",
+      "bloomingSeason": "January to March in Southern Hemisphere",
+      "location": "Native to southeastern Australia; cultivated in Mediterranean climates",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌿💛",
+      "funFact": "The Silver Wattle was traditionally used by Indigenous Australians for wood and dyes and is also associated with International Women's Day in some countries due to its vivid yellow flowers."
+    }
+  ]
+}

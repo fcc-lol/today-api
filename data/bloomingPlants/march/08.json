@@ -1,0 +1,56 @@
+{
+  "date": "March 8",
+  "plants": [
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Daffodil",
+      "description": "A popular spring-flowering bulb with bright yellow trumpet-shaped flowers. Daffodils are among the first flowers to bloom in temperate regions, signaling the end of winter.",
+      "bloomingSeason": "February to April",
+      "location": "Temperate regions of Europe and North America",
+      "colors": [
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodils contain lycorine, making them toxic if ingested by humans or pets."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Famous ornamental cherry tree known for its stunning mass of pink or white blossoms that herald the arrival of spring in Japan and other temperate areas.",
+      "bloomingSeason": "Late March to early April, sometimes late February in warmer areas",
+      "location": "East Asia (Japan, Korea, China), also cultivated worldwide in temperate zones",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The blooming period of cherry blossoms only lasts about one to two weeks before petals fall."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "An Australian native tree producing cylindrical flower spikes with bright yellow flowers that attract many pollinators such as birds and insects.",
+      "bloomingSeason": "Year-round, with peaks in late summer and also in early autumn and early spring",
+      "location": "Eastern Australia coastal regions",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers produce large amounts of nectar and are a crucial food source for many Australian birds."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A perennial herbaceous plant that blooms in late winter and early spring with white or pale pink flowers, often flowering through snow in temperate regions.",
+      "bloomingSeason": "December to March",
+      "location": "Central and Southern Europe mountainous regions",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "emoji": "❄️🌷",
+      "funFact": "Despite its common name, the Christmas Rose is not a true rose and can be toxic if ingested."
+    }
+  ]
+}

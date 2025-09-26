@@ -1,0 +1,58 @@
+{
+  "date": "December 19",
+  "plants": [
+    {
+      "name": "Wintersweet",
+      "commonName": "Wintersweet",
+      "description": "A deciduous shrub known for its fragrant, bright yellow flowers that bloom in the depths of winter, often before the leaves emerge. It adds a cheerful splash of color and scent to cold, gray days.",
+      "bloomingSeason": "December to February",
+      "location": "Native to China, cultivated in temperate gardens worldwide, especially in East Asia and North America",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Wintersweet flowers open in late autumn and winter, attracting early-season pollinators despite the cold."
+    },
+    {
+      "name": "Poinsettia (Euphorbia pulcherrima)",
+      "commonName": "Poinsettia",
+      "description": "A popular ornamental plant often associated with Christmas. The bright red bracts are commonly mistaken for flower petals and provide vibrant color in winter when many other plants are dormant.",
+      "bloomingSeason": "November to February",
+      "location": "Native to Mexico and Central America; widely cultivated indoors and in warmer climates globally",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🎄",
+      "funFact": "The poinsettia’s red 'petals' are actually modified leaves called bracts that change color in response to shorter daylight hours."
+    },
+    {
+      "name": "Hellebore (Helleborus spp.)",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial that produces delicate, nodding flowers in shades of white, pink, and purple, often blooming in December and January, enduring cold and snow.",
+      "bloomingSeason": "December to February",
+      "location": "Native to Europe and Asia; popular in temperate gardens in the Northern Hemisphere",
+      "colors": [
+        "White",
+        "Pink",
+        "Purple",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Hellebores contain toxic compounds and were historically used as herbal remedies with caution due to their potency."
+    },
+    {
+      "name": "Waratah (Telopea speciosissima)",
+      "commonName": "Waratah",
+      "description": "An iconic Australian native shrub with striking large red flower heads that bloom in late spring to early summer in Australia, corresponding to December-January in the Southern Hemisphere.",
+      "bloomingSeason": "October to December",
+      "location": "Native to southeastern Australia, particularly New South Wales",
+      "colors": [
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Waratah flowers are made up of hundreds of tiny individual flowers clustered together, creating their impressive appearance."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "August 4",
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant known for its large, bright yellow composite flowers with a dark central disc. It turns to follow the sun and is widely cultivated for seeds and oil.",
+      "bloomingSeason": "July to September",
+      "location": "Temperate regions worldwide, native to North America",
+      "colors": [
+        "yellow",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Sunflowers exhibit heliotropism, where their flower heads track the sun across the sky during the day."
+    },
+    {
+      "name": "Lilium bulbiferum",
+      "commonName": "Orange Lily",
+      "description": "A striking perennial lily with bright orange flowers often with dark spots. It thrives in meadows and mountain slopes in Europe.",
+      "bloomingSeason": "July to August",
+      "location": "Central and Southern Europe",
+      "colors": [
+        "orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "The orange lily has bulbils in leaf axils which help the plant propagate vegetatively."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower, this protea has a large, rounded inflorescence resembling an artichoke with pink and cream colored bracts.",
+      "bloomingSeason": "June to September",
+      "location": "South Africa (Cape Floristic Region)",
+      "colors": [
+        "pink",
+        "cream"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas are pollinated by birds and are well adapted to the nutrient-poor soils of fynbos vegetation."
+    },
+    {
+      "name": "Hibiscus rosa-sinensis",
+      "commonName": "Chinese Hibiscus",
+      "description": "A tropical shrub or small tree with large, trumpet-shaped flowers in various colors, often red, thriving in warm climates worldwide.",
+      "bloomingSeason": "All year in tropical climates, including August",
+      "location": "Tropical and subtropical regions worldwide",
+      "colors": [
+        "red",
+        "pink",
+        "yellow",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The hibiscus flower is the national flower of Malaysia and is used symbolically in many cultures."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "October 4",
+  "plants": [
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "A perennial flowering plant native to Europe, known for its crocus-like flowers that bloom in fall when the leaves have died back, showcasing large, lily-like flowers.",
+      "bloomingSeason": "September to October",
+      "location": "Europe, temperate regions",
+      "colors": [
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its common name, Autumn Crocus is not a true crocus and contains colchicine, a toxic compound with medical applications."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus",
+      "description": "An evergreen shrub or small tree famous for its intensely fragrant small flowers that bloom in autumn.",
+      "bloomingSeason": "September to November",
+      "location": "East Asia, especially China and Japan",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Sweet Osmanthus flowers are used to scent tea and make perfumed oils in traditional Chinese culture."
+    },
+    {
+      "name": "Rosa 'Paul Neyron'",
+      "commonName": "Paul Neyron Rose",
+      "description": "A cultivated garden rose variety that often blooms into early fall, producing very large, full-petaled pink flowers.",
+      "bloomingSeason": "May to October",
+      "location": "Worldwide cultivated gardens",
+      "colors": [
+        "deep pink"
+      ],
+      "emoji": "🌹",
+      "funFact": "Known as one of the largest roses, Paul Neyron blooms continuously and is valued for its ornamental appeal."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria (seed pods blooming)",
+      "description": "Though famous for spring blooms, the seed pods of Wisteria can mature and become quite prominent and aesthetically interesting by October, adding unique interest to gardens.",
+      "bloomingSeason": "Spring flowering, seed pods visible in fall",
+      "location": "East Asia, cultivated worldwide",
+      "colors": [
+        "purple flowers in spring; seed pods brown in fall"
+      ],
+      "emoji": "🌱",
+      "funFact": "Wisteria vines can live over 100 years and their twisted trunks and branches add architectural beauty year-round."
+    }
+  ]
+}

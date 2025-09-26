@@ -1,0 +1,55 @@
+{
+  "date": "March 14",
+  "plants": [
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Cherry Blossom",
+      "description": "Japanese Cherry Blossom trees produce elegant, delicate flowers that range from pale pink to white, symbolizing the arrival of spring in many East Asian cultures. These blossoms appear before the leaves fully develop, creating stunning floral displays that attract many visitors each year.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, Korea, parts of China, and cultivated in the United States and Europe",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The ephemeral beauty of cherry blossoms has inspired centuries of art and poetry and is celebrated annually in festivals called Hanami."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "Wild Daffodils are early spring bloomers found in meadows and woodlands. Their bright yellow, trumpet-shaped flowers signal the end of winter. Unlike cultivated daffodils, wild varieties can be smaller but still add vibrant color to the landscape.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western and Central Europe, particularly the UK",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodils are toxic to deer and rodents, which helps protect them in natural settings."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "Chinese Wisteria produces cascading clusters of fragrant purple-blue flowers in early spring. It is a climbing vine that can decorate pergolas and walls with its beautiful blossoms and lush foliage appearing shortly after flowering.",
+      "bloomingSeason": "March to May",
+      "location": "China and widely cultivated in temperate regions worldwide",
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "emoji": "🌿",
+      "funFact": "Wisteria flowers contain a gas that can temporarily render bees dizzy, earning it the nickname 'drunken vines' in some cultures."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "Coast Banksia is an Australian native tree known for its striking cylindrical flower spikes that appear during late summer through early spring. Its golden-yellow flowers attract a variety of birds and mammals that feed on the nectar, playing a crucial role in the ecosystem.",
+      "bloomingSeason": "Late summer to early spring (including March)",
+      "location": "Eastern Australia coast",
+      "colors": [
+        "yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "Banksia flowers are made up of hundreds of tiny individual flowers packed together in a cone-like spike."
+    }
+  ]
+}
