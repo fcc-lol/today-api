@@ -45,21 +45,21 @@ registerEndpoint(
   "GET",
   "/historical-events",
   historicalEvents,
-  "Get significant historical events for today's date from saved files"
+  "Get significant events that happened on this date throughout history"
 );
 
 registerEndpoint(
   "GET",
   "/weird-holidays",
   weirdHolidays,
-  "Get weird, quirky, and unusual holidays for today's date from saved files"
+  "Get weird and unusual holidays for today's date"
 );
 
 registerEndpoint(
   "GET",
   "/blooming-plants",
   bloomingPlants,
-  "Get plants that are currently blooming around the world for today's date"
+  "Get plants that are currently blooming around the world"
 );
 
 app.listen(port, () => {
