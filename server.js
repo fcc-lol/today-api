@@ -1,10 +1,14 @@
 import "dotenv/config";
 import express from "express";
+import cors from "cors";
 import { historicalEvents } from "./endpoints/historicalEvents.js";
 import { weirdHolidays } from "./endpoints/weirdHolidays.js";
 import { bloomingPlants } from "./endpoints/bloomingPlants.js";
 
 const app = express();
+
+// Enable CORS for all origins
+app.use(cors());
 const port = 3117;
 
 // Endpoint registry to track available endpoints
