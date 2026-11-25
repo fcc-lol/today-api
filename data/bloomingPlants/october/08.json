@@ -2,59 +2,60 @@
   "date": "October 8",
   "plants": [
     {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Autumn Cyclamen",
-      "description": "A charming perennial with heart-shaped, variegated leaves and delicate pink to magenta flowers that bloom in autumn. Native to woodlands and rocky areas in the Mediterranean basin, it thrives in shady gardens and natural settings.",
-      "bloomingSeason": "September to November",
-      "location": "Mediterranean region, also cultivated in temperate gardens worldwide",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that produces goblet-shaped flowers in autumn, long after its leaves have died back. The blooms emerge directly from the soil without foliage, which is why it is sometimes called 'naked ladies'. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Late summer to mid-autumn (September-October in the Northern Hemisphere)",
+      "location": "Meadows and woodland edges of Europe and North Africa; widely cultivated in temperate gardens",
       "colors": [
-        "pink",
-        "magenta",
-        "white"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
-      "emoji": "🌸",
-      "funFact": "Cyclamen hederifolium is one of the few cyclamens that bloom in autumn, with flowers sometimes appearing before the leaves."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "Widely cultivated for its bright, showy flowers, chrysanthemums bloom in late summer to autumn, providing vibrant color when many other plants fade. They come in a variety of shapes and colors, often used as decorative garden or cut flowers.",
-      "bloomingSeason": "September to November",
-      "location": "Cultivated worldwide; native to East Asia",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust native wildflower with dense clusters of daisy-like flowers with yellow centers. It thrives in moist meadows and roadsides and is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to autumn (August-October)",
+      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are symbols of autumn and longevity in many cultures, especially in Japan and China."
+      "funFact": "New England Asters are a key fuel stop for migrating monarch butterflies heading to Mexico in early October."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower producing bright yellow, plume-like flower clusters in late summer and autumn. It is native to North America and often found in meadows and prairies, providing nectar for pollinators in fall.",
-      "bloomingSeason": "August to October",
-      "location": "Eastern and central North America",
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of apricots and peaches. It is widely planted in gardens, temples, and parks across East Asia.",
+      "bloomingSeason": "Autumn (September-October)",
+      "location": "Native to China, Japan, and the Himalayas; cultivated in Asia and the southern United States",
       "colors": [
-        "yellow"
+        "Pale yellow",
+        "Cream",
+        "Orange"
       ],
-      "emoji": "💛",
-      "funFact": "Goldenrod is often mistakenly blamed for hay fever, but the real culprit is ragweed which blooms at the same time."
+      "emoji": "🌸",
+      "funFact": "In China, osmanthus blossoms are celebrated during the Mid-Autumn Festival and used to flavor tea, cakes, wine, and jam."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern Australia, notable for its striking bright orange to reddish flowers that bloom in spring and can extend into autumn in some regions. Its flowers attract birds and insects due to abundant nectar.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia and cultivated as an ornamental in subtropical and tropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular deciduous to semi-evergreen tree that covers itself with clouds of trumpet-shaped lavender-blue flowers before the new leaves emerge. It is a signature street tree in subtropical cities of the Southern Hemisphere.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October-November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
       "colors": [
-        "orange",
-        "red"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its name, Silky Oak is not a true oak but belongs to the Proteaceae family and is valued for its timber and ornamental flowers."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, the jacaranda bloom is so iconic that the city is nicknamed 'Jacaranda City', and an old student superstition says a falling blossom on your head brings good luck in exams."
     }
   ]
 }
