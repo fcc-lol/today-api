@@ -2,36 +2,44 @@
   "date": "December 11",
   "holidays": [
     {
+      "name": "National Have a Bagel Day",
+      "description": "A day devoted to the chewy, boiled-then-baked ring of bread. Toast one, slather it with cream cheese, or pile on lox and call it a day.",
+      "origin": "Bagels were popularized in the United States by Jewish immigrants from Eastern Europe, and this unofficial food holiday grew out of the modern calendar of food observances.",
+      "category": "Food Day",
+      "emoji": "🥯",
+      "funFact": "Traditional bagels are boiled in water before baking, which gives them their signature shiny crust and dense, chewy texture."
+    },
+    {
       "name": "International Mountain Day",
-      "description": "A day dedicated to raising awareness about the importance of mountains and promoting sustainable mountain development.",
-      "origin": "Established by the United Nations in 2003 to highlight the environmental, cultural, and economic significance of mountain regions worldwide.",
-      "category": "Environmental Awareness",
+      "description": "A United Nations observance that celebrates the world's peaks, highlights their importance to freshwater, biodiversity, and communities, and encourages everyone to appreciate and protect them.",
+      "origin": "The UN General Assembly designated December 11 as International Mountain Day in 2003, after the 2002 International Year of Mountains.",
+      "category": "Awareness Day",
       "emoji": "🏔️",
-      "funFact": "Mountains cover about 22% of the Earth's land surface and are home to over half of all terrestrial biodiversity species!"
+      "funFact": "Mountains cover about a quarter of Earth's land surface and provide fresh water for roughly half of humanity."
     },
     {
-      "name": "National App Day (USA)",
-      "description": "Celebrate the app developers and the amazing applications on your phone or computer that make life easier and more fun!",
-      "origin": "An unofficial modern holiday that recognizes the massive impact of mobile and computer apps on daily life.",
-      "category": "Technology Pop Culture",
-      "emoji": "📱",
-      "funFact": "The first app store was launched in 2008 by Apple, revolutionizing how we download and use software."
+      "name": "National Noodle Ring Day",
+      "description": "A nostalgic food observance honoring the noodle ring, a retro dish in which cooked noodles are molded into a ring shape and often filled with creamed vegetables or meats.",
+      "origin": "Noodle rings were a popular mid-20th-century home-cooking dish, and the day was added to the calendar of food observances to celebrate this vintage creation.",
+      "category": "Food Day",
+      "emoji": "🍝",
+      "funFact": "Molded dishes like noodle rings were all the rage in mid-century American cookbooks, right alongside gelatin salads."
     },
     {
-      "name": "National Deluxe Holiday Meal Day (USA)",
-      "description": "Celebrate by enjoying a luxuriously extravagant meal with all the trimmings and maybe a little something extra!",
-      "origin": "An informal food holiday encouraging indulgence in festive feasts during the holiday season.",
-      "category": "Food Celebration",
-      "emoji": "🍽️",
-      "funFact": "In preparation for the holidays, Americans consume about 46 million turkeys annually — talk about a deluxe meal!"
+      "name": "UNICEF Day",
+      "description": "A day marking the anniversary of the founding of the United Nations Children's Fund, celebrating efforts to protect children's health, education, and rights around the world.",
+      "origin": "UNICEF was created by the UN General Assembly on December 11, 1946, to provide emergency food and healthcare to children in countries devastated by World War II.",
+      "category": "Awareness Day",
+      "emoji": "🧒",
+      "funFact": "UNICEF was originally called the United Nations International Children's Emergency Fund, and it kept the well-known acronym even after the name was shortened."
     },
     {
-      "name": "Chupacabra Awareness Day",
-      "description": "An unofficial day to dive into the legends and lore of the infamous Chupacabra, the mythical goat-sucking creature.",
-      "origin": "Rooted in Latin American folklore, this day celebrates the mystery and entertainment surrounding this cryptid.",
-      "category": "Cryptid / Folklore",
-      "emoji": "🦇",
-      "funFact": "The Chupacabra was first reported in Puerto Rico in the 1990s and quickly became a pop culture icon for strange phenomena."
+      "name": "Many Moods Day",
+      "description": "A day to embrace every mood you have, whether you are cheerful, cranky, sleepy, or somewhere in between, and to show a little patience for everyone else's emotional weather.",
+      "origin": "This is an unofficial observance in the calendar of quirky holidays, inviting people to acknowledge that having different moods is perfectly normal.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🎭",
+      "funFact": "Some people say the day is also a great excuse to wear a mood ring and see if it can keep up with you."
     }
   ]
 }

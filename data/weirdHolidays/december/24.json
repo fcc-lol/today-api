@@ -3,27 +3,43 @@
   "holidays": [
     {
       "name": "National Eggnog Day",
-      "description": "A festive celebration of the creamy, spiced holiday staple known as eggnog. Perfect for indulging in this rich, sweet drink often topped with a sprinkle of nutmeg.",
-      "origin": "This unofficial food holiday has grown popular in the United States as part of the Christmas season traditions, dating back to colonial times when eggnog originated.",
-      "category": "Food Holiday",
+      "description": "A day devoted to sipping the thick, creamy, spiced holiday drink that people either adore or flee from. Raise a mug, grate some nutmeg on top, and decide whether yours gets a splash of rum.",
+      "origin": "Eggnog traces back to medieval Britain, where a hot milk and wine drink called posset was popular among the aristocracy. It crossed the Atlantic to the American colonies, where rum replaced pricey brandy and sherry. The modern food holiday is an unofficial observance, usually listed on December 24.",
+      "category": "Food & Drink",
       "emoji": "🥛",
-      "funFact": "Eggnog was originally made with expensive ingredients like rum, eggs, and milk, making it a luxurious holiday treat in early America."
+      "funFact": "In 1826, George Washington's rumored recipe aside, West Point cadets staged the 'Eggnog Riot' after smuggling whiskey in for a Christmas party, leading to about 70 cadets being implicated and Jefferson Davis nearly getting expelled."
     },
     {
-      "name": "Christmas Eve",
-      "description": "The evening or entire day before Christmas Day, often celebrated with family gatherings, festive dinners, and gift exchanges around the world.",
-      "origin": "Rooted in Christian tradition as the vigil before the birth of Jesus, Christmas Eve has evolved with various cultural customs across different countries.",
-      "category": "Cultural/Religious Holiday",
-      "emoji": "🎄",
-      "funFact": "In many countries, like Poland and Sweden, Christmas Eve is the main event for gift-giving rather than Christmas Day itself."
+      "name": "Festivus Eve (Airing of Grievances Prep)",
+      "description": "The night before Festivus for the rest of us, when fans set up an unadorned aluminum pole and rehearse their list of grievances against friends and family. No tinsel allowed, because it's distracting.",
+      "origin": "Festivus was invented by writer Dan O'Keefe's father, Daniel, who celebrated it in the 1960s and 70s. It went mainstream with the 1997 Seinfeld episode 'The Strike.' The official date is December 23, so December 24 is when many fans are gearing up or wrapping up the feats of strength.",
+      "category": "Pop Culture",
+      "emoji": "🗼",
+      "funFact": "The original family Festivus began with a clock in a bag nailed to the wall, and the aluminum pole was a later addition by the TV writers because of its high strength-to-weight ratio."
     },
     {
-      "name": "Friendly Sons of St. Patrick Society Day",
-      "description": "A quirky, lesser-known observance by a Philadelphia-based group celebrating Irish heritage and community service just before Christmas.",
-      "origin": "Founded in the 18th century, this society organizes festive events and charitable activities, and December 24 marks their traditional gathering date.",
-      "category": "Cultural Heritage",
-      "emoji": "🍀",
-      "funFact": "The Friendly Sons of St. Patrick helped establish early Irish-American social and cultural traditions long before St. Patrick's Day became widely celebrated."
+      "name": "National Chocolate-Covered Cherry Day",
+      "description": "A sweet salute to the gooey, syrupy cherry hiding inside a chocolate shell. Some people love the liquid center, while others consider it a holiday gift-box betrayal.",
+      "origin": "Chocolate-covered cherries were made possible by an enzyme called invertase, which liquefies the fondant filling after the candy is dipped and sealed. They became a staple of holiday candy boxes in the 20th century, and the food day is an unofficial observance on December 25 in some calendars and December 24 in others.",
+      "category": "Food & Drink",
+      "emoji": "🍒",
+      "funFact": "The runny center isn't injected. The candy maker dips a solid fondant-wrapped cherry that contains invertase, and the filling slowly turns to liquid over a couple of weeks in the box."
+    },
+    {
+      "name": "Christmas Eve Tracking of Santa (NORAD Tracks Santa Day)",
+      "description": "Kids and adults around the world watch a military radar organization follow Santa's sleigh across the globe, complete with live updates and phone hotlines staffed by volunteers.",
+      "origin": "In 1955, a Colorado Springs newspaper misprinted a Sears ad with the wrong phone number, and kids calling Santa reached the Continental Air Defense Command instead. Colonel Harry Shoup had his staff play along, and NORAD continued the tradition after it was founded in 1958.",
+      "category": "Pop Culture",
+      "emoji": "🎅",
+      "funFact": "Volunteers answer tens of thousands of calls and emails every year, and the operation now involves over a thousand volunteers working from a military base."
+    },
+    {
+      "name": "Night of the Radishes (Noche de Rábanos)",
+      "description": "Oaxaca, Mexico, hosts a competition where artists carve enormous radishes into elaborate scenes, nativity displays, and fantastical figures. Crowds line up to see vegetable art that lasts only a few hours.",
+      "origin": "The festival began in 1897 when Oaxaca's mayor, Francisco Vasconcelos Flores, organized a radish-carving contest to promote the city's Christmas market. Farmers had already been carving radishes to attract buyers. It is held annually on December 23, with the Christmas Eve season of Oaxaca festivities continuing right after.",
+      "category": "Cultural Festival",
+      "emoji": "🥕",
+      "funFact": "Farmers grow special oversized radishes for the contest and leave them in the ground long past normal harvest time, which makes them gnarled and up to a meter long."
     }
   ]
 }

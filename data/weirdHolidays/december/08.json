@@ -2,36 +2,44 @@
   "date": "December 8",
   "holidays": [
     {
-      "name": "Pretend To Be A Time Traveler Day",
-      "description": "A quirky day where people are encouraged to dress, talk, and act like they’ve traveled from a different era—past or future. It’s a fun way to spark creativity and imaginings about time travel!",
-      "origin": "Unofficial, born from online communities and time travel fiction fandoms celebrating their favorite sci-fi themes.",
-      "category": "Pop Culture",
-      "emoji": "🕰️",
-      "funFact": "Some participants even write elaborate backstories for their time traveler persona, blending humor and history."
-    },
-    {
-      "name": "Festivus",
-      "description": "An alternative holiday invented as a satirical take on holiday traditions, featuring the infamous 'Airing of Grievances' and 'Feats of Strength'.",
-      "origin": "Created by writer Dan O'Keefe and popularized by the TV show Seinfeld in the 1990s.",
-      "category": "Pop Culture/Holiday Parody",
-      "emoji": "🎄",
-      "funFact": "Festivus is celebrated on December 23rd, but fans often start festivities early, including December 8, to stretch out the fun!"
-    },
-    {
       "name": "National Brownie Day",
-      "description": "A delicious day dedicated to celebrating the beloved chocolatey baked treat known as the brownie.",
-      "origin": "Origin unclear, but it’s been a popular unofficial food holiday celebrated by dessert fans across the U.S.",
-      "category": "Food Holiday",
+      "description": "A day to celebrate the fudgy, chewy, chocolatey square that has ended many diets. Whether you're a corner-piece hoarder or a gooey-center devotee, today you are encouraged to eat brownies without shame.",
+      "origin": "An unofficial American food holiday, widely listed on food calendars. The brownie itself is often traced to the late 1800s, with early recipes appearing in the 1896 Fannie Farmer Boston Cooking-School Cook Book.",
+      "category": "Food Day",
       "emoji": "🍫",
-      "funFact": "The first known brownie recipe was published in the late 19th century, and National Brownie Day invites everyone to enjoy creative brownie variations!"
+      "funFact": "One popular legend says the brownie was invented by accident when a baker forgot to add baking powder to a chocolate cake, though there's little evidence for it."
     },
     {
-      "name": "Bicycle Day",
-      "description": "Commemorates the first intentional LSD trip by Albert Hofmann on April 19, 1943, famously experienced while riding his bicycle home – but some communities observe quirky related events on December 8 as an offbeat celebration.",
-      "origin": "Marked by psychedelic culture and enthusiasts of Hofmann's work.",
-      "category": "Awareness/Psychedelic Culture",
-      "emoji": "🚴‍♂️",
-      "funFact": "Hofmann’s bicycle ride is considered a landmark in the history of psychedelics and counterculture."
+      "name": "Pretend to Be a Time Traveler Day",
+      "description": "A day for dropping hints that you're from the future, wearing suspiciously out-of-date or out-of-time outfits, and warning strangers about vaguely terrible events to come. Bonus points for confidently mispronouncing current slang.",
+      "origin": "An unofficial, internet-era observance that has circulated on quirky holiday calendars, inspired by the enduring pop-culture love of time travel in works like Back to the Future and Doctor Who.",
+      "category": "Pop Culture",
+      "emoji": "⏳",
+      "funFact": "Stephen Hawking once held a party for time travelers in 2009 but sent out the invitations only after the party ended. No one showed up, which he took as evidence that time travel isn't possible."
+    },
+    {
+      "name": "Bodhi Day",
+      "description": "A Buddhist observance commemorating the day Siddhartha Gautam achieved enlightenment under the Bodhi tree and became the Buddha. Celebrants meditate, chant, and decorate ficus trees with lights.",
+      "origin": "Traditionally observed in Japan and other Mahayana Buddhist traditions on December 8, with the date set according to the lunar calendar in some countries.",
+      "category": "Religious Observance",
+      "emoji": "🌳",
+      "funFact": "Some Buddhists celebrate with a meal of tea, cake, and milk and rice pudding, and decorate a ficus tree with colored lights and shiny ornaments that symbolize the many paths to enlightenment."
+    },
+    {
+      "name": "Feast of the Immaculate Conception",
+      "description": "A Roman Catholic feast day that is also a public holiday in several countries, including Spain, Italy, Portugal, and Argentina. In many places it also marks the unofficial start of the Christmas season, when people put up their trees and lights.",
+      "origin": "The dogma was defined by Pope Pius IX in 1854, though the feast had been celebrated in the Church for centuries before that.",
+      "category": "Religious Observance",
+      "emoji": "⛪",
+      "funFact": "In Colombia, the night before, December 7, is the Día de las Velitas, when families fill streets and balconies with thousands of candles and paper lanterns to kick off the Christmas season."
+    },
+    {
+      "name": "Lard Day",
+      "description": "A day dedicated to the humble, creamy pig fat that makes flaky pie crusts, tender biscuits, and crispy fried chicken. It's a chance to give a once-maligned ingredient some well-deserved respect.",
+      "origin": "An unofficial food observance that surfaced on culinary calendars, riding a modern revival of traditional cooking fats.",
+      "category": "Food Day",
+      "emoji": "🐖",
+      "funFact": "Before vegetable shortening was introduced in the early 1900s, lard was the primary cooking fat in many American kitchens."
     }
   ]
 }

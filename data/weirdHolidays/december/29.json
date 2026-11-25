@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Tick Tock Day",
-      "description": "A quirky reminder that the year is running out and those last-minute goals and resolutions should get going! It’s perfect for urging procrastinators to finally stop putting things off before the calendar flips.",
-      "origin": "Observed unofficially to motivate people to take action on their year's pending goals, emerging as a popular internet meme and social media prompt.",
-      "category": "Motivational/Procrastination Awareness",
+      "description": "A day to celebrate the clock and the passage of time, just as the year winds down. Fans of timepieces, watchmakers, and the chronically late alike are invited to pause and reflect on every tick and every tock.",
+      "origin": "An unofficial observance that appears in quirky holiday calendars, placed at the end of the year to prompt reflection on the final days before the New Year.",
+      "category": "Unofficial Observance",
       "emoji": "⏰",
-      "funFact": "Tick Tock Day gained traction through viral posts urging people to 'get a move on' before the year ends, making it a favorite among last-minute planners."
+      "funFact": "The phrase 'tick tock' is an onomatopoeia that mimics the sound of the escapement in mechanical clocks, which releases the gear train in small, regular steps."
     },
     {
-      "name": "Card Playing Day",
-      "description": "Dedicated to the timeless joy of playing cards—whether it's poker, bridge, solitaire, or any other card game. A great day to shuffle, deal, and enjoy some friendly competition!",
-      "origin": "Unofficial observance to celebrate the social and entertainment value of card games, with roots in various traditional games worldwide.",
-      "category": "Games & Recreation",
-      "emoji": "🃏",
-      "funFact": "Card games date back over 1,000 years, originating in China before spreading globally, and December 29 is the perfect chill day for indoor games."
+      "name": "Pepper Pot Day",
+      "description": "A day to honor Philadelphia Pepper Pot, a thick, peppery tripe and beef soup. Home cooks are encouraged to simmer a big pot of spicy goodness to warm up a cold winter day.",
+      "origin": "Legend says that during the harsh winter of 1777-78 at Valley Forge, a cook for George Washington's army whipped up a soup from scraps of tripe, peppercorns, and whatever else was available to feed the starving troops.",
+      "category": "Food Holiday",
+      "emoji": "🍲",
+      "funFact": "Philadelphia street vendors, often Black women, sold pepper pot soup in the 1800s with a famous cry of 'All hot! All hot! Pepper pot!' and it became one of the city's earliest fast foods."
     },
     {
-      "name": "Chilean Sheep Shearing Festival",
-      "description": "A traditional Chilean celebration marking the annual shearing of sheep, highlighting the cultural and economic importance of wool farming in rural communities.",
-      "origin": "Local festival turned cultural event celebrated mainly in southern Chile during late December, showcasing sheep shearing competitions and folk music.",
-      "category": "Cultural/Farming Festival",
-      "emoji": "🐑",
-      "funFact": "Some communities hold lively sheep-shearing contests on this day, drawing crowds and emphasizing sustainable wool practices."
+      "name": "Constitution Day in Ireland",
+      "description": "Ireland marks the anniversary of the day its current constitution, Bunreacht na hÉireann, came into force. It is a civic observance more than a day off, but it is a good excuse to appreciate the document that governs the Emerald Isle.",
+      "origin": "The Irish Constitution was approved by a public referendum in July 1937 and took effect on December 29, 1937, replacing the 1922 Irish Free State constitution.",
+      "category": "Historical Observance",
+      "emoji": "🇮🇪",
+      "funFact": "The Irish Constitution can only be amended by a public referendum, which means that every change to it has to be voted on directly by the people."
     },
     {
-      "name": "Bacon Day",
-      "description": "An unofficial but beloved food holiday honoring everyone's favorite crispy, savory treat. Perfect for indulging in bacon-wrapped anything and celebrating this breakfast staple.",
-      "origin": "Pop culture food holiday created by bacon enthusiasts and social media foodies to celebrate bacon's versatility and popularity.",
-      "category": "Food Celebration",
-      "emoji": "🥓",
-      "funFact": "Bacon Day sparks a surge in creative recipes from bacon-wrapped desserts to bacon cocktails, fueling a meaty frenzy online."
+      "name": "Unofficial Still Want to Be Thankful Day",
+      "description": "A day to keep the gratitude going after the holiday rush by writing thank-you notes for gifts, and perhaps a few for the people who gave you terrible sweaters.",
+      "origin": "A modern, informal observance that grew out of etiquette traditions of sending thank-you notes after Christmas, since many people are still mid-vacation and have time to put pen to paper.",
+      "category": "Pop Culture Celebration",
+      "emoji": "💌",
+      "funFact": "Etiquette experts commonly suggest sending thank-you notes within about two weeks of receiving a gift, which makes this day a last-minute lifeline for procrastinators."
+    },
+    {
+      "name": "Fruitcake Toss Remembrance Day",
+      "description": "A day for those who still have an unwanted holiday fruitcake sitting in the pantry to think about its fate. Some fling it, some regift it, and some hold funerals for it.",
+      "origin": "The fruitcake-tossing tradition thrives in the post-Christmas week, with events like Manitou Springs, Colorado's Great Fruitcake Toss, which is held in January and has contestants fling fruitcakes with catapults and cannons.",
+      "category": "Food Holiday",
+      "emoji": "🎂",
+      "funFact": "Fruitcake can last for years thanks to its sugar and alcohol content, and one fruitcake baked in 1878 was reportedly still around over a century later."
     }
   ]
 }

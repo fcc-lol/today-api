@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Crossword Puzzle Day",
-      "description": "A day dedicated to celebrating the beloved word game that challenges your vocabulary and problem-solving skills.",
-      "origin": "First crosswords appeared in the early 20th century; this day honors their impact on literacy and entertainment.",
-      "category": "Puzzle/Game",
+      "description": "A day for pencil-chewing, brain-scratching word nerds to fill in little white squares and argue over whether a seven-letter word for 'ancient Roman road' is really 'APPIAN'. Bonus points if you do it in pen and show off.",
+      "origin": "The first crossword puzzle was published on December 21, 1913, in the New York World newspaper, created by journalist Arthur Wynne, who called it a 'word-cross'.",
+      "category": "Pop Culture / Games",
       "emoji": "🧩",
-      "funFact": "The first-ever crossword puzzle was published in 1913, and December 21 was chosen because it's the birthday of the inventor, Arthur Wynne."
+      "funFact": "A printer's typo reportedly flipped the name from 'word-cross' to 'cross-word', and the name stuck for over a century."
     },
     {
-      "name": "Winter Solstice",
-      "description": "The shortest day and longest night of the year in the Northern Hemisphere, marking the official start of winter.",
-      "origin": "Ancient cultures worldwide held rituals and festivals to honor the sun's rebirth on this astronomical event.",
-      "category": "Seasonal/Festival",
-      "emoji": "❄️",
-      "funFact": "Many modern holidays, including Christmas and New Year, have roots in ancient solstice celebrations."
+      "name": "Winter Solstice (Yule / Alban Arthan)",
+      "description": "The shortest day and longest night of the year in the Northern Hemisphere, celebrated with bonfires, Yule logs, all-night vigils to greet the sunrise, and general rebellion against the darkness.",
+      "origin": "Observed for thousands of years by cultures worldwide, including Stonehenge builders, Norse Yule traditions, Roman Saturnalia, and Iranian Yalda Night. The solstice falls on December 21 or 22 depending on the year.",
+      "category": "Astronomical / Cultural",
+      "emoji": "🌞",
+      "funFact": "At Stonehenge, thousands gather each solstice, because the monument's main axis aligns with the winter solstice sunset."
     },
     {
-      "name": "Ugly Christmas Sweater Day",
-      "description": "A quirky, fun day where people proudly wear the most hilariously hideous Christmas sweaters they can find.",
-      "origin": "Started in the early 2000s as a humorous way to celebrate the holiday season with kitschy fashion.",
-      "category": "Pop Culture/Fashion",
-      "emoji": "🧥",
-      "funFact": "Ugly Christmas sweater parties have become so popular they've even sparked international competitions with outrageous designs."
+      "name": "National French Fried Shrimp Day",
+      "description": "A crunchy, golden celebration of shrimp that took a hot oil bath. Dip them in cocktail sauce, tartar sauce, or whatever condiment suits your questionable mood.",
+      "origin": "A food-industry observance that celebrates a classic seafood dish, popular in diners and seaside shacks. The exact founder of the day is unclear, which is typical for many food holidays.",
+      "category": "Food",
+      "emoji": "🍤",
+      "funFact": "Shrimp are the most popular seafood in the United States, with the average American eating about 4 to 5 pounds per year."
     },
     {
-      "name": "National Flashlight Day",
-      "description": "A tribute to the handy portable light source that helps us navigate the dark and discover hidden corners.",
-      "origin": "Commemorates the invention and widespread use of the flashlight, vital for safety and emergencies.",
-      "category": "Invention/Utility",
-      "emoji": "🔦",
-      "funFact": "The first flashlight was developed in the late 19th century and used non-rechargeable batteries that only lasted a few hours!"
+      "name": "Humbug Day",
+      "description": "A day dedicated to embracing your inner Scrooge and grumbling about the forced cheer of the holiday season. Permission granted to say 'Bah! Humbug!' at carolers, tinsel, and mandatory office parties.",
+      "origin": "Inspired by Ebenezer Scrooge's famous catchphrase in Charles Dickens' 1843 novella A Christmas Carol. It's an unofficial observance that gives holiday-weary folks a chance to vent.",
+      "category": "Pop Culture / Literary",
+      "emoji": "🎩",
+      "funFact": "Humbug originally meant a hoax or sham, and it was slang in the 1750s before Dickens made it forever tied to Scrooge."
+    },
+    {
+      "name": "Forefathers' Day",
+      "description": "A New England tradition commemorating the landing of the Pilgrims at Plymouth Rock, often marked with dinners, speeches, and a lot of historical hat-wearing.",
+      "origin": "Celebrated since 1769 by the Old Colony Club in Plymouth, Massachusetts, to honor the Pilgrims' arrival in December 1620, using the date December 21 after a calendar conversion.",
+      "category": "Historical / Regional",
+      "emoji": "⛵",
+      "funFact": "The date was set as December 21 due to a calendar miscalculation. The correct conversion should have been December 22, but tradition won."
     }
   ]
 }

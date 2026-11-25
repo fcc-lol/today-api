@@ -2,36 +2,44 @@
   "date": "December 18",
   "holidays": [
     {
-      "name": "Bake Cookies Day 🍪",
-      "description": "A perfect day to whip up some homemade goodies and fill your home with the sweet smells of freshly baked cookies. Whether classic chocolate chip or exotic flavors, it's a day for dough and delight!",
-      "origin": "Informal foodie tradition celebrated by baking enthusiasts to enjoy the comfort and joy of homemade cookies during the winter season.",
-      "category": "Food",
+      "name": "National Bake Cookies Day",
+      "description": "A sweet day for rolling up your sleeves, preheating the oven, and filling the kitchen with the smell of fresh cookies just in time for the holiday rush. Chocolate chip, sugar, gingerbread, and oatmeal raisin all get their moment.",
+      "origin": "This is an unofficial food holiday, popular in the United States, that grew out of the tradition of holiday cookie baking in December. Its exact creator is unknown, and it spread mostly through food blogs and social media.",
+      "category": "Food Holiday",
       "emoji": "🍪",
-      "funFact": "Did you know Americans consume approximately 30 billion cookies annually? On Bake Cookies Day, cookie sales soar as people indulge and gift sweet treats!"
+      "funFact": "The chocolate chip cookie was invented by accident in the 1930s by Ruth Wakefield at the Toll House Inn in Massachusetts. Her recipe became so popular that it was printed on the Nestlé chocolate chip package."
     },
     {
-      "name": "Answer The Phone Like Buddy The Elf Day ☎️🎄",
-      "description": "Channel your inner Buddy the Elf from the movie 'Elf' and answer your phone with boundless enthusiasm and cheer. Spread Christmas spirit by saying something like, 'Buddy the Elf, what's your favorite color?','",
-      "origin": "Started by fans of the 2003 holiday film 'Elf' looking to share quirky Christmas joy throughout December.",
+      "name": "International Migrants Day",
+      "description": "A United Nations observance that honors the contributions of migrants around the world and calls attention to their rights, safety, and dignity. Communities mark it with cultural events, storytelling, and food festivals.",
+      "origin": "The UN General Assembly proclaimed it in 2000, after adopting the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families on December 18, 1990.",
+      "category": "Awareness Day",
+      "emoji": "🌍",
+      "funFact": "Roughly 1 in 30 people in the world lives outside the country where they were born, which means a lot of the foods, songs, and words you love have traveled."
+    },
+    {
+      "name": "Arabic Language Day",
+      "description": "A celebration of the Arabic language, spoken by hundreds of millions of people, with its flowing calligraphy, rich poetry, and words that have shaped many other languages. Fans celebrate with calligraphy workshops and poetry readings.",
+      "origin": "The UN designated it in 2010 to celebrate multilingualism and cultural diversity. December 18 was chosen because it marks the day in 1973 when the UN General Assembly made Arabic an official UN language.",
+      "category": "Language and Culture",
+      "emoji": "✍️",
+      "funFact": "English borrowed many everyday words from Arabic, including coffee, sugar, algebra, magazine, and sofa."
+    },
+    {
+      "name": "Answer the Telephone Like Buddy the Elf Day",
+      "description": "A pop culture holiday where you answer every call with the cheerful line from Elf: 'Buddy the Elf, what's your favorite color?' Spreading cheer by phone is the whole point, even if the person on the other end is confused.",
+      "origin": "This is an unofficial, fan-driven celebration inspired by the 2003 Christmas comedy Elf starring Will Ferrell. It circulates on social media and holiday calendars each December.",
       "category": "Pop Culture",
-      "emoji": "☎️🎄",
-      "funFact": "The actor Will Ferrell, who plays Buddy, ad-libbed many of Buddy’s eccentric lines, making the character a beloved quirky holiday icon!"
+      "emoji": "🧝",
+      "funFact": "Will Ferrell's Buddy the Elf famously eats spaghetti topped with maple syrup, a combination that fans of the movie try for themselves."
     },
     {
-      "name": "National Vichyssoise Day 🥣",
-      "description": "Celebrate the cold creamy potato and leek soup known as Vichyssoise. Often served chilled, this French classic is perfect for winter savory sipping.",
-      "origin": "Attributed to French chef Louis Diat, who popularized the chilled soup in the United States in the early 20th century.",
-      "category": "Food",
-      "emoji": "🥣",
-      "funFact": "Vichyssoise is typically served cold, a rarity for potato soups, which are usually warm and hearty."
-    },
-    {
-      "name": "Underdog Day 🐶",
-      "description": "Honor the 'underdogs' of life — the overlooked, underestimated, or just plain quirky individuals and animals who win hearts and stories against the odds.",
-      "origin": "Inspired by the animated TV series 'Underdog' from the 1960s; the day encourages rooting for the unlikely heroes.",
-      "category": "Pop Culture/Inspirational",
-      "emoji": "🐶",
-      "funFact": "The Underdog cartoon originally aired in New York and became popular for its humorous 'fighting' against big bad villains with classic cheesy catchphrases!"
+      "name": "Maple Syrup Day (Unofficial Sticky Celebration)",
+      "description": "A day for pouring maple syrup over pancakes, waffles, and anything else that can stand a little stickiness.",
+      "origin": "This is an informal food observance promoted by syrup lovers and food calendars. Maple syrup has been made by Indigenous peoples of North America for centuries, long before it became a breakfast staple.",
+      "category": "Food Holiday",
+      "emoji": "🍁",
+      "funFact": "It takes about 40 gallons of maple sap to boil down into just 1 gallon of maple syrup."
     }
   ]
 }

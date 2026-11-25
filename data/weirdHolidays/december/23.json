@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Festivus",
-      "description": "A holiday invented as a humorous alternative to the pressures and commercialism of the Christmas season, featuring the iconic 'Airing of Grievances' and 'Feats of Strength.'",
-      "origin": "Created by writer Dan O'Keefe and popularized by the TV show \"Seinfeld\" in 1997.",
-      "category": "Pop Culture Celebration",
-      "emoji": "🎉",
-      "funFact": "Festivus became so popular that it inspired actual celebrations around the world, complete with an unadorned aluminum pole instead of a Christmas tree."
+      "description": "The 'Festivus for the rest of us' is celebrated with an unadorned aluminum pole, the Airing of Grievances, and Feats of Strength, where the head of the household must be pinned in wrestling. Celebrants skip the tinsel and gather around the pole for dinner.",
+      "origin": "Created by writer Dan O'Keefe's father, Daniel, who started celebrating it in 1966. Dan later wrote it into the 1997 Seinfeld episode 'The Strike', which made the holiday famous.",
+      "category": "Pop Culture",
+      "emoji": "🗼",
+      "funFact": "In the real O'Keefe family version, the original Festivus tradition involved the family placing a clock in a bag nailed to the wall, not an aluminum pole. The pole came from the TV show because it requires 'very little decoration.'"
     },
     {
       "name": "National Pfeffernusse Day",
-      "description": "A celebration of the tiny spicy German cookies called Pfeffernusse, traditionally enjoyed during the holiday season.",
-      "origin": "Pfeffernusse cookies hail from Germany and the name means 'pepper nut,' referencing the warm spices used in the recipe.",
-      "category": "Food Holiday",
+      "description": "A day to enjoy pfeffernusse, small spiced German cookies packed with warm spices like cinnamon, cloves, and anise, often dusted with powdered sugar. They are a classic Christmas cookie, and some versions are hard enough to be a workout for your teeth.",
+      "origin": "The cookies come from Germany, the Netherlands, and Denmark, dating back to at least the 1850s and probably earlier. Their name roughly means 'pepper nuts,' since pepper was once a general word for spice.",
+      "category": "Food",
       "emoji": "🍪",
-      "funFact": "Pfeffernusse cookies can last for weeks, making them perfect for long holiday celebrations and sharing with friends and family!"
+      "funFact": "Despite the name, many pfeffernusse recipes contain black pepper, which gives them a subtle kick alongside the sweetness."
     },
     {
-      "name": "Roots Day",
-      "description": "A day to honor and celebrate family roots, heritage, and genealogy, encouraging people to explore their ancestry and traditions.",
-      "origin": "An informal observance without a clear origin, rising in popularity with genealogy enthusiasts especially during the holiday season.",
-      "category": "Awareness/Heritage Day",
-      "emoji": "🌳",
-      "funFact": "Many people embark on family history research during Roots Day, inspired by the idea of 'coming home for the holidays' and connecting with their past."
+      "name": "Roc Day",
+      "description": "Also known as Distaff Day's cousin in some traditions, it marks the day women traditionally returned to spinning after the Christmas holidays, though in the old days it was more about playful pranks than work. Men would set fire to the flax and the women would douse the men with water.",
+      "origin": "A medieval English tradition tied to the spinning of wool and flax, celebrated after Twelfth Night in some places and at other dates in others.",
+      "category": "Historical Folk Tradition",
+      "emoji": "🧶",
+      "funFact": "The 'distaff' is the stick that holds the unspun fiber, and the term 'distaff side' still means the female side of a family."
     },
     {
-      "name": "DNA Day",
-      "description": "A lesser-known informal day to appreciate DNA and genetics, often marked by quirky science events and discussions of what makes each person unique.",
-      "origin": "Coinciding with the completion of the Human Genome Project announced in April 2003, some communities celebrate this in December for quirky fun.",
-      "category": "Science Awareness Day",
-      "emoji": "🧬",
-      "funFact": "DNA Day sometimes features events where participants look at their own genetic traits, like why some people roll their tongues or have attached earlobes!"
+      "name": "Night of the Radishes (Noche de Rábanos)",
+      "description": "In Oaxaca, Mexico, artists carve giant radishes into elaborate nativity scenes, animals, and figures, then display them in the town square. The radishes are specially grown and left to get oversized, and crowds line up for a look at the vegetable art.",
+      "origin": "Began in 1897 when Oaxaca's mayor, Francisco Vasconcelos Flores, organized a radish-carving contest at the Christmas market to boost sales. It has been a city tradition ever since.",
+      "category": "Festival",
+      "emoji": "🌶️",
+      "funFact": "The radishes are grown for months, and some reach as long as 50 centimeters and weigh several kilograms. They are left in the ground past the normal harvest time on purpose, and the displays only last a few hours before wilting."
+    },
+    {
+      "name": "Human Light",
+      "description": "A secular humanist winter holiday celebrating reason, compassion, hope, and human achievement. Celebrants light candles, share a meal, and reflect on the good people have done for one another without any religious element.",
+      "origin": "Established by the New Jersey Humanist Network in 2001 as a nonreligious alternative to winter holidays, with the date chosen near the solstice season.",
+      "category": "Awareness",
+      "emoji": "🕯️",
+      "funFact": "The three colors of candles used traditionally represent reason, compassion, and hope, and the ceremony includes lighting each of them in turn."
     }
   ]
 }

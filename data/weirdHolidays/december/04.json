@@ -2,36 +2,44 @@
   "date": "December 4",
   "holidays": [
     {
-      "name": "Santa Claus Day",
-      "description": "Celebrate the jolliest man in a red suit by honoring Saint Nicholas, the original inspiration behind Santa Claus.",
-      "origin": "This day marks the feast day of Saint Nicholas, a 4th-century bishop known for his generosity, especially to children, which evolved into the modern Santa Claus legend.",
-      "category": "Cultural/Festive 🎅",
-      "emoji": "🎅",
-      "funFact": "Saint Nicholas was known for secretly giving gifts; one story tells of him dropping gold coins down a chimney to help a poor family!"
-    },
-    {
-      "name": "National Cookie Day (USA)",
-      "description": "Indulge your sweet tooth by baking, sharing, or devouring delicious cookies of every variety!",
-      "origin": "The holiday began as a fun food celebration in the United States to appreciate cookies and the joy they bring.",
-      "category": "Food 🍪",
+      "name": "National Cookie Day",
+      "description": "A day devoted to the glory of cookies in all shapes, from chocolate chip to snickerdoodle. Bakeries and cookie fans mark it with giveaways, swaps, and tray after tray of warm treats.",
+      "origin": "Founded by Cookie Cottage founder Ann Warner as a promotional observance in the 1980s and 90s. It lands in the middle of holiday baking season and grew into an annual tradition.",
+      "category": "Food",
       "emoji": "🍪",
-      "funFact": "The chocolate chip cookie was invented in 1938 by Ruth Wakefield, who ran the Toll House Inn."
+      "funFact": "The word 'cookie' comes from the Dutch 'koekje,' meaning 'little cake.' Early cookies were test cakes: bakers dropped small bits of batter in the oven to check its temperature."
     },
     {
-      "name": "World Computer Literacy Day",
-      "description": "A day to promote digital literacy and encourage people of all ages to explore the wonders of computers and technology.",
-      "origin": "Founded in 2001 by the Indian computer company NIIT to raise awareness about computer literacy around the globe.",
-      "category": "Awareness/Technology 💻",
-      "emoji": "💻",
-      "funFact": "Despite being founded in 2001, millions around the world still lack basic computer skills, making this day crucial for digital inclusion."
+      "name": "National Sock Day",
+      "description": "A day to celebrate the humble sock, the unsung hero of cozy feet. People show off wild patterns, buy new pairs, and donate socks to those in need.",
+      "origin": "An informal, pop-culture observance that spread through social media and sock brands, who encourage people to wear fun socks and to give pairs to shelters.",
+      "category": "Pop Culture",
+      "emoji": "🧦",
+      "funFact": "Socks are among the most requested items at homeless shelters, because they are rarely donated and wear out fast."
     },
     {
-      "name": "National Dice Day",
-      "description": "Roll the dice and celebrate the tiny cubes that have determined board game fates for centuries!",
-      "origin": "This unofficial day celebrates the invention and use of dice, believed to be one of the oldest gaming tools dating back thousands of years.",
-      "category": "Games/Recreation 🎲",
-      "emoji": "🎲",
-      "funFact": "The oldest known dice were excavated from a site in Mesopotamia and are over 5,000 years old!"
+      "name": "Wear Brown Shoes Day",
+      "description": "A day for dusting off your brown footwear, and for pondering whether you've been wearing black shoes out of habit. It is a small but sincere salute to the earthy tones of the shoe world.",
+      "origin": "A little-known unofficial observance of uncertain origin. It circulates through calendar lists of quirky days and is popular among shoe enthusiasts.",
+      "category": "Fashion",
+      "emoji": "👞",
+      "funFact": "An old menswear rule says 'no brown in town,' meaning brown shoes were once considered too casual for formal city business."
+    },
+    {
+      "name": "International Day of Banks",
+      "description": "A day recognizing banks, which keep money moving and give piggy banks a day of rest. It is also a good time to reflect on how and where we save.",
+      "origin": "Listed on the United Nations-related calendars and in observance lists as a day to acknowledge the role of banking institutions. Its international status has made it a recurring entry in global observance calendars.",
+      "category": "Awareness",
+      "emoji": "🏦",
+      "funFact": "The word 'bank' comes from the Italian 'banca,' meaning bench, after the benches where medieval Italian money changers worked in the marketplace."
+    },
+    {
+      "name": "Santa's Workshop Day",
+      "description": "A cheerful December day for imagining the North Pole at full production, with elves, toy builders, and sleigh repairs. Families and crafters get festive with DIY toy-making and workshop-themed fun.",
+      "origin": "An informal seasonal observance growing out of Christmas folklore and pop culture, popularized in 19th-century American stories and poems about Santa's toy shop.",
+      "category": "Seasonal",
+      "emoji": "🎅",
+      "funFact": "Early Santa illustrations by cartoonist Thomas Nast in the 1860s and 70s helped establish the idea of a North Pole workshop."
     }
   ]
 }

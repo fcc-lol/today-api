@@ -2,36 +2,44 @@
   "date": "December 26",
   "holidays": [
     {
-      "name": "Boxing Day",
-      "description": "A day traditionally dedicated to giving to the less fortunate and to the exchange of boxed gifts to service workers and others.",
-      "origin": "Originates in the UK where boxes of money or goods were given to those in service or the poor the day after Christmas.",
-      "category": "Cultural/Traditional",
-      "emoji": "📦",
-      "funFact": "Boxing Day is a major shopping holiday in many countries, similar to Black Friday in the US!"
+      "name": "National Thank You Note Day",
+      "description": "A day dedicated to sitting down with a pen and paper to thank everyone who gave you a gift, ideally before you forget who gave you the mysterious fondue set.",
+      "origin": "An unofficial observance in the United States that falls the day after Christmas, when gift-receiving is fresh and etiquette guilt is at its peak.",
+      "category": "Etiquette and Gratitude",
+      "emoji": "💌",
+      "funFact": "Etiquette experts have long advised sending thank-you notes within a couple of weeks of receiving a gift, and a handwritten note is still considered the gold standard."
     },
     {
-      "name": "National Candy Cane Day (USA)",
-      "description": "A sweet celebration honoring the iconic red-and-white-striped peppermint candy cane that's a holiday staple.",
-      "origin": "Established to recognize the Christmas candy that dates back to the 17th century, originally used to keep children quiet during church.",
-      "category": "Food/Pop Culture",
+      "name": "National Candy Cane Day",
+      "description": "A celebration of the peppermint-striped hook of sugar that decorates trees and sticks to coat pockets across the holiday season.",
+      "origin": "An unofficial food observance in the United States, tied to the candy cane's role as a classic Christmas treat.",
+      "category": "Food Holiday",
       "emoji": "🍬",
-      "funFact": "Candy canes were originally all white and their red stripes were added in the 20th century for festive appeal!"
+      "funFact": "Candy canes are often said to have been created in 1670 by a choirmaster in Germany who bent sugar sticks to resemble shepherd's crooks, though historians consider the story more legend than documented fact."
     },
     {
-      "name": "St. Stephen’s Day",
-      "description": "A Christian feast day to honor St. Stephen, known as the first Christian martyr.",
-      "origin": "Named after St. Stephen, the first Christian martyr said to have been stoned to death, this day is recognized mainly in Ireland, parts of Europe, and among some Christian denominations.",
-      "category": "Religious/Traditional",
-      "emoji": "⛪",
-      "funFact": "In Ireland, St. Stephen’s Day is also called 'Wren Day' where people dress in colorful costumes and parade outdoors with a fake wren bird."
+      "name": "Boxing Day",
+      "description": "A public holiday in the UK, Canada, Australia, and other Commonwealth countries, where people recover from Christmas by shopping sales, watching sports, and eating leftovers. No actual boxing is required.",
+      "origin": "Traditionally linked to giving boxes of money or gifts to servants, tradespeople, and the less fortunate the day after Christmas. Church alms boxes opened on St. Stephen's Day are also part of the story.",
+      "category": "Traditional Holiday",
+      "emoji": "🥊",
+      "funFact": "Despite the name, Boxing Day has nothing to do with the sport. It is also a huge day for football matches in England and for the start of the Sydney to Hobart yacht race in Australia."
     },
     {
-      "name": "National Thank You Note Day (USA)",
-      "description": "An unofficial holiday encouraging people to send thank you notes for the holiday gifts and kindnesses received during Christmas.",
-      "origin": "Began as a reminder to spread gratitude and practice good manners during the hectic post-Christmas season.",
-      "category": "Social Courtesy",
-      "emoji": "✉️",
-      "funFact": "Despite the rise of digital messaging, writing thank you notes on paper is shown to make the sender feel happier too!"
+      "name": "Kwanzaa Begins (Umoja Day)",
+      "description": "The first day of the seven-day Kwanzaa celebration, focused on Umoja, meaning unity, with the lighting of the first candle on the kinara.",
+      "origin": "Created in 1966 by Dr. Maulana Karenga as a celebration of African American culture and heritage, drawing on African harvest festivals.",
+      "category": "Cultural Celebration",
+      "emoji": "🕯️",
+      "funFact": "The name Kwanzaa comes from the Swahili phrase 'matunda ya kwanza,' meaning 'first fruits,' and the extra 'a' was added to give the word seven letters, one for each of the seven principles."
+    },
+    {
+      "name": "Festivus Aftermath: Boxing Day Leftovers Day",
+      "description": "An informal day of reinventing yesterday's feast into sandwiches, casseroles, and questionable turkey-cranberry-stuffing towers.",
+      "origin": "An informal tradition rooted in the practice of eating holiday meal remnants the day after Christmas.",
+      "category": "Food Holiday",
+      "emoji": "🦃",
+      "funFact": "Many families swear the best sandwich of the whole year is the next-day turkey, stuffing, and cranberry stack, which some fans say rivals the original dinner."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "December 6",
   "holidays": [
     {
-      "name": "St. Nicholas Day",
-      "description": "A celebration honoring St. Nicholas, the patron saint of children and gift-giving, often marked by leaving shoes out to be filled with treats and small gifts.",
-      "origin": "Rooted in the traditions of St. Nicholas of Myra, a 4th-century Greek bishop known for his generosity, this day has inspired many modern gift-giving customs, including Santa Claus.",
-      "category": "Cultural/Religious",
-      "emoji": "🎅",
-      "funFact": "In some countries, children clean their shoes the night before, hoping St. Nicholas will leave candy or small toys inside!"
-    },
-    {
-      "name": "National Pawnbrokers Day",
-      "description": "A day to recognize the important role pawnbrokers play in communities by providing financial services and loans secured by personal property.",
-      "origin": "Established by the National Pawnbrokers Association to celebrate their contributions and raise public awareness about the industry.",
-      "category": "Industry/Business",
-      "emoji": "💰",
-      "funFact": "The pawnbroker symbol of three gold balls is said to originate from the Medici family crest in medieval Italy!"
+      "name": "National Gazpacho Day",
+      "description": "A day to celebrate the chilled tomato-based soup that proves soup doesn't need to be hot to be wonderful. Perfect for anyone who wants to eat a salad through a straw.",
+      "origin": "Gazpacho originated in the Andalusian region of southern Spain, where farmers blended stale bread, garlic, olive oil, and vinegar to stay cool in the heat. Tomatoes and peppers were added after they arrived from the Americas.",
+      "category": "Food Day",
+      "emoji": "🍅",
+      "funFact": "Early versions of gazpacho were white, not red, because tomatoes hadn't yet arrived in Europe. The white almond-and-garlic soup ajo blanco is considered its ancestor."
     },
     {
       "name": "National Microwave Oven Day",
-      "description": "A quirky day celebrating the invention and convenience of the microwave oven, which revolutionized cooking and reheating food.",
-      "origin": "Commemorates the patent filing by Percy Spencer, who discovered microwave cooking in 1945, changing kitchen life forever.",
-      "category": "Technology/Food",
-      "emoji": "🍲",
-      "funFact": "Percy Spencer realized microwave cooking when a candy bar in his pocket melted while standing near a magnetron!"
+      "description": "A salute to the humble box that reheats your leftover pizza and has launched a million exploded potatoes. Celebrate by finally cleaning that splattered ceiling.",
+      "origin": "The day honors the birthday of Percy Spencer, the engineer who noticed that a candy bar in his pocket melted while he stood near a magnetron at Raytheon in the 1940s, leading to the invention of the microwave oven.",
+      "category": "Invention Day",
+      "emoji": "📡",
+      "funFact": "The first commercial microwave oven, the Radarange, stood nearly 6 feet tall, weighed about 750 pounds, and was water-cooled."
     },
     {
-      "name": "Repeat Day",
-      "description": "A playful observance inviting people to do things twice to enjoy, reflect, or get a second chance at fun, conversation, or indulgence.",
-      "origin": "Unofficial and modern, this day encourages embracing repetition for amusement or better outcomes in everyday life.",
-      "category": "Unusual/Fun",
-      "emoji": "🔁",
-      "funFact": "Some use Repeat Day as an excuse to have their second breakfast, twice as much coffee, or rewatch a favorite movie!"
+      "name": "St. Nicholas Day",
+      "description": "A beloved European tradition where children leave shoes or boots out overnight in hopes of waking to candy, fruit, and small gifts. Be good, or risk getting a lump of coal or a bundle of twigs.",
+      "origin": "It honors Saint Nicholas of Myra, a 4th-century bishop famous for secret gift-giving, including the story of him tossing gold coins through a window to save three sisters from hardship. His legend later inspired Santa Claus.",
+      "category": "Cultural Tradition",
+      "emoji": "🎅",
+      "funFact": "In the Netherlands and parts of Central Europe, St. Nicholas is accompanied by sidekicks like Krampus, a horned, chain-rattling beast who punishes naughty children."
+    },
+    {
+      "name": "Put Candles in the Window Day",
+      "description": "A cozy, glowing observance in which people place candles in their windows to welcome travelers, brighten the dark, and add some festive charm to the long winter nights.",
+      "origin": "The custom is rooted in Irish tradition, where a candle in the window symbolized welcome to strangers and wandering travelers, and in the Christmas season it came to represent hospitality for Mary and Joseph.",
+      "category": "Folk Tradition",
+      "emoji": "🕯️",
+      "funFact": "In Irish lore, the candle was traditionally lit by the youngest member of the household, and on Christmas Eve it was left burning all night."
+    },
+    {
+      "name": "Miners' Day",
+      "description": "A day to celebrate the people who dig deep, literally, to supply the materials that power the modern world. Hard hats off, and maybe say thanks to a rock.",
+      "origin": "Miners' Day is observed on December 6 in the United States to recognize the 1907 Monongah mine disaster in West Virginia, the worst mining disaster in U.S. history, which killed 362 men and boys.",
+      "category": "Remembrance Day",
+      "emoji": "⛏️",
+      "funFact": "The Monongah disaster helped spur the creation of the U.S. Bureau of Mines in 1910 and major improvements in mine safety laws."
     }
   ]
 }

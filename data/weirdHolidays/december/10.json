@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Lager Day",
-      "description": "A day to raise a cold glass to lagers — those crisp, refreshing beers that keep holiday parties lively!",
-      "origin": "Celebrated mostly in the U.S., this unofficial day is all about appreciating the versatility and smooth taste of lager beer varieties.",
+      "description": "A day to raise a frosty glass to the crisp, clean, golden beer that dominates bars, barbecues, and ballgames worldwide. Lager lovers celebrate by sampling pilsners, bocks, and Märzens.",
+      "origin": "An unofficial U.S. beer-lover observance. Lagers trace back to 15th-century Bavaria, where brewers discovered that storing beer in cold caves produced a smoother, longer-lasting brew.",
       "category": "Food & Drink",
       "emoji": "🍺",
-      "funFact": "Lager requires cold fermentation, which was only possible to do reliably after refrigeration was invented."
+      "funFact": "Lager comes from the German word 'lagern,' meaning 'to store.' The yeast that makes lager is a hybrid of ale yeast and a wild Patagonian yeast, which likely hitchhiked to Europe on trade ships."
+    },
+    {
+      "name": "National Dewey Decimal System Day",
+      "description": "A tribute to the numbering system that keeps libraries organized. Fans celebrate by browsing the stacks, sorting their bookshelves, or arranging their spice racks by category.",
+      "origin": "Observed on the approximate birthday of Melvil Dewey, born December 10, 1851, who invented the Dewey Decimal Classification in 1876 while working as a librarian.",
+      "category": "Pop Culture & Education",
+      "emoji": "📚",
+      "funFact": "Melvil Dewey was so obsessed with efficiency that he campaigned to simplify English spelling and even shortened his own first name from 'Melville' to 'Melvil.'"
     },
     {
       "name": "Human Rights Day",
-      "description": "Commemorates the adoption of the Universal Declaration of Human Rights by the United Nations General Assembly in 1948.",
-      "origin": "Established by the UN to promote global human rights awareness and encourage action worldwide.",
-      "category": "Awareness",
+      "description": "A global observance honoring the adoption of the Universal Declaration of Human Rights. People mark it with events, speeches, and campaigns promoting dignity and equality for everyone.",
+      "origin": "The United Nations General Assembly adopted the Universal Declaration of Human Rights on December 10, 1948, and formally established the observance in 1950.",
+      "category": "Awareness Day",
       "emoji": "🕊️",
-      "funFact": "The Universal Declaration has inspired more than 60 human rights instruments that together constitute an international standard of human rights."
-    },
-    {
-      "name": "Wear Brown Shoes Day",
-      "description": "A humorous fashion reminder to retire your brown shoes for winter — since December is the last month to sport them before switching to boots!",
-      "origin": "An unofficial fashion quip among style enthusiasts noting that brown shoes are considered a warm-season staple.",
-      "category": "Fashion & Style",
-      "emoji": "👞",
-      "funFact": "Traditionally, brown shoes are less formal than black shoes and are often associated with spring and summer wardrobes."
+      "funFact": "The Declaration is the most translated document in the world, available in over 500 languages. The Nobel Peace Prize is also traditionally awarded on this date in Oslo."
     },
     {
       "name": "Nobel Prize Day",
-      "description": "Honors the anniversary of Alfred Nobel's death and celebrates the announcement of Nobel Prize laureates for outstanding contributions in Physics, Chemistry, Medicine, Literature, Peace, and Economics.",
-      "origin": "The prize ceremonies are held annually on December 10th in Stockholm and Oslo, established by Nobel's will in 1895.",
-      "category": "Cultural & Science",
-      "emoji": "🏆",
-      "funFact": "The Nobel Peace Prize is actually awarded in Oslo, Norway, rather than Stockholm where the other prizes are presented."
+      "description": "The glitziest day on the science and literature calendar, when laureates don fancy formalwear and collect medals in Stockholm, with banquets featuring elaborate multi-course dinners.",
+      "origin": "Held every December 10 since 1901 to commemorate the death of Alfred Nobel in 1896, the Swedish inventor of dynamite who endowed the prizes in his will.",
+      "category": "Pop Culture & Education",
+      "emoji": "🏅",
+      "funFact": "A Nobel medal is made of 18-karat gold, and the banquet's dessert is often kept secret until the night. Nobel reportedly was horrified by a premature obituary calling him a 'merchant of death,' which inspired his legacy."
+    },
+    {
+      "name": "Dewey Decimal Day Companion: Festival of Sleep Day (Unofficial)",
+      "description": "A tongue-in-cheek day for burrowing under blankets and sleeping in during the busiest season of the year. Participants celebrate by napping guilt-free and ignoring their to-do lists.",
+      "origin": "An informal internet-born observance that grew from the idea that December's holiday rush leaves everyone exhausted and in need of an excuse to rest.",
+      "category": "Unofficial & Fun",
+      "emoji": "😴",
+      "funFact": "Studies show a 20-minute nap can boost alertness by up to 100 percent, and NASA research found a 26-minute nap improved pilot performance by 34 percent."
     }
   ]
 }
