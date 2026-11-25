@@ -2,57 +2,58 @@
   "date": "January 25",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A hardy perennial bulbous plant known for its early blooming, often appearing through late winter snow. It features cup-shaped flowers in vibrant shades of purple, yellow, or white, heralding the coming spring in temperate regions.",
-      "bloomingSeason": "January to April",
-      "location": "Temperate regions of Europe and North America",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that flowers on bare branches in the depths of winter, producing fragrant blossoms. It is widely cultivated in Japan, China, and Korea and is prized in gardens and bonsai. The flowers are followed by sour fruits used for pickling and liqueur.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "East Asia (China, Japan, Korea); cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocus flowers are among the earliest bloomers, sometimes flowering under snow, symbolizing hope and renewal."
+      "funFact": "Ume blossoms are a symbol of perseverance and hope in East Asian culture because they bloom while snow may still be on the ground."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree valued for its large, glossy leaves and showy flowers. Camellias bloom from late autumn through early spring, adding vibrant red, pink, or white flowers to gardens in mild climates.",
-      "bloomingSeason": "October to April",
-      "location": "Eastern Asia and cultivated worldwide in mild climates",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A large deciduous shrub with spidery, ribbon-like petals that bloom on leafless branches in winter. The flowers have a strong, sweet spicy fragrance and tolerate frost by curling up in the cold and unfurling again when it warms.",
+      "bloomingSeason": "Winter (December to February)",
+      "location": "Central and eastern China; cultivated in temperate gardens in Europe and North America",
       "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were treasured in East Asia as symbols of purity and longevity for centuries."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking South African native with enormous flower heads characterized by spiky outer bracts and a dense center of small flowers. The King Protea blooms during the southern hemisphere summer and offers a bold spectacle in floral arrangements.",
-      "bloomingSeason": "December to March",
-      "location": "South Africa (Cape Floristic Region)",
-      "colors": [
-        "pink",
-        "red"
-      ],
-      "emoji": "🌻",
-      "funFact": "The King Protea is South Africa's national flower and can live up to 100 years in the wild."
-    },
-    {
-      "name": "Witch Hazel (Hamamelis virginiana)",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub native to North America, witch hazel stands out by blooming in late fall to winter, often flowering when few other plants do, with fragrant yellow flowers featuring strap-like petals.",
-      "bloomingSeason": "October to January",
-      "location": "Eastern North America",
-      "colors": [
-        "yellow"
+        "Yellow",
+        "Gold",
+        "Orange"
       ],
       "emoji": "🌼",
-      "funFact": "Witch hazel's extract is widely used in skincare for its astringent and anti-inflammatory properties."
+      "funFact": "Witch hazel petals curl into tight spirals during freezing weather to protect themselves, then relax again once temperatures rise."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad-canopied tropical tree that produces spectacular clusters of large flowers. In parts of the Southern Hemisphere, such as Australia and southern Africa, it blooms in the summer heat, making a striking display against its fern-like foliage.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February); other tropical regions at different times",
+      "location": "Native to Madagascar; widely planted in Australia, southern Africa, South America, and tropical regions",
+      "colors": [
+        "Scarlet",
+        "Orange-red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The royal poinciana is native to Madagascar but is now endangered in the wild, even though it is one of the most commonly planted ornamental trees in the tropics."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial whose nodding white flowers push up through snow and frozen ground. In mild parts of Britain, Europe, and the Pacific Northwest, snowdrops are often in full bloom by late January, carpeting woodlands and gardens.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe and southwest Asia; naturalized in the UK and North America",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
     }
   ]
 }

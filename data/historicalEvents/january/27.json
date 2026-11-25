@@ -2,39 +2,39 @@
   "date": "January 27",
   "events": [
     {
-      "year": 1756,
-      "title": "Birth of Wolfgang Amadeus Mozart",
-      "description": "Wolfgang Amadeus Mozart, the prolific and influential composer of the Classical era, was born in Salzburg, Austria.",
-      "category": "Birth",
-      "significance": "Mozart's compositions have had a profound impact on classical music, influencing countless composers and shaping Western music traditions."
+      "year": 1945,
+      "title": "Liberation of Auschwitz",
+      "description": "Soviet Red Army troops of the 60th Army entered the Auschwitz-Birkenau concentration and extermination camp complex in occupied Poland, finding roughly 7,000 emaciated survivors left behind after the Nazis forced tens of thousands of prisoners on death marches.",
+      "category": "War",
+      "significance": "Auschwitz became the symbol of the Holocaust, where over one million people, mostly Jews, were murdered. The date is now observed as International Holocaust Remembrance Day."
     },
     {
-      "year": 1945,
-      "title": "Soviet Troops Liberate Auschwitz Concentration Camp",
-      "description": "Soviet forces liberated the Auschwitz-Birkenau Nazi concentration and extermination camp in Poland, revealing the extent of the Holocaust atrocities.",
-      "category": "World War II",
-      "significance": "The liberation marked a pivotal moment in World War II and brought global awareness to the horrors of the Holocaust."
+      "year": 1756,
+      "title": "Birth of Wolfgang Amadeus Mozart",
+      "description": "Wolfgang Amadeus Mozart was born in Salzburg, in the Archbishopric of Salzburg. A child prodigy, he composed prolifically from the age of five and went on to write over 600 works, including operas, symphonies, concertos and chamber music.",
+      "category": "Birth",
+      "significance": "Mozart is regarded as one of the greatest composers in Western music history, and his works helped define the Classical style and influenced generations of composers."
     },
     {
       "year": 1967,
-      "title": "Apollo 1 Tragedy",
-      "description": "A cabin fire during a launch rehearsal test for the Apollo 1 mission killed all three astronauts aboard: Gus Grissom, Ed White, and Roger B. Chaffee.",
-      "category": "Space Exploration",
-      "significance": "The disaster led to major redesigns in spacecraft safety and procedures, significantly impacting the U.S. space program."
+      "title": "Apollo 1 Fire",
+      "description": "During a launch rehearsal test at Cape Kennedy, a fire broke out in the command module of Apollo 1, killing astronauts Virgil 'Gus' Grissom, Edward White and Roger Chaffee. The cabin's pure oxygen atmosphere and flammable materials contributed to the rapid spread of the fire.",
+      "category": "Disaster",
+      "significance": "The tragedy led to a major redesign of the Apollo spacecraft and stricter safety standards, paving the way for the later success of the Apollo program and the 1969 Moon landing."
+    },
+    {
+      "year": 1967,
+      "title": "Outer Space Treaty Signed",
+      "description": "The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, was opened for signature in Washington, London and Moscow by the United States, the United Kingdom and the Soviet Union, among others.",
+      "category": "Politics",
+      "significance": "It established the foundation of international space law, banning nuclear weapons in orbit and declaring that celestial bodies cannot be claimed by any nation."
     },
     {
       "year": 1973,
-      "title": "End of U.S. Involvement in Vietnam War",
-      "description": "The Paris Peace Accords were signed, leading to a ceasefire and the withdrawal of U.S. troops from Vietnam.",
+      "title": "Paris Peace Accords Signed",
+      "description": "The United States, North Vietnam, South Vietnam and the Provisional Revolutionary Government signed the Paris Peace Accords, formally ending direct U.S. military involvement in the Vietnam War and providing for a ceasefire and the withdrawal of American troops.",
       "category": "War",
-      "significance": "Marked a major step toward ending the Vietnam War and shifting U.S. foreign policy."
-    },
-    {
-      "year": 2010,
-      "title": "Chile Miners Rescue Completed",
-      "description": "The rescue of 33 miners trapped underground for 69 days in the San José mine was successfully completed.",
-      "category": "Disaster and Rescue",
-      "significance": "The event was a global media sensation, symbolizing human endurance and international cooperation."
+      "significance": "The agreement ended U.S. combat involvement in Vietnam after more than a decade, although fighting between North and South continued until the fall of Saigon in 1975."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "January 28",
   "events": [
     {
-      "year": 1915,
-      "title": "Lusitania Sinking",
-      "description": "The British ocean liner RMS Lusitania was sunk by a German U-boat off the coast of Ireland during World War I, resulting in the deaths of 1,198 passengers and crew.",
-      "category": "War/Maritime Disaster",
-      "significance": "The sinking increased anti-German sentiment and contributed to the United States' eventual decision to enter World War I."
+      "year": 1547,
+      "title": "Accession of Edward VI of England",
+      "description": "Henry VIII died on this date and his nine-year-old son Edward VI became King of England and Ireland. His death was kept secret for a few days before being announced to Parliament.",
+      "category": "Politics",
+      "significance": "Edward's reign brought the English Reformation to a more Protestant direction under regents like the Duke of Somerset, shaping the religious identity of England, including the introduction of the Book of Common Prayer."
+    },
+    {
+      "year": 814,
+      "title": "Death of Charlemagne",
+      "description": "Charlemagne, King of the Franks and the first Emperor of the Romans in the West since antiquity, died in Aachen and was succeeded by his son Louis the Pious.",
+      "category": "Death",
+      "significance": "His death marked the end of an era of unification across Western Europe. The Carolingian Empire he built shaped the political and cultural foundations of medieval Europe, and it was later divided among his grandsons."
     },
     {
       "year": 1986,
       "title": "Space Shuttle Challenger Disaster",
-      "description": "The NASA Space Shuttle Challenger broke apart 73 seconds after launch, killing all seven astronauts on board, including Christa McAuliffe, the first teacher selected to fly in space.",
-      "category": "Space Exploration/Disaster",
-      "significance": "The disaster led to a reevaluation of the space program's safety protocols and a 32-month hiatus in the shuttle program."
+      "description": "Space Shuttle Challenger broke apart 73 seconds after liftoff from Kennedy Space Center, killing all seven crew members, including schoolteacher Christa McAuliffe. The cause was the failure of an O-ring seal in a solid rocket booster in cold weather.",
+      "category": "Disaster",
+      "significance": "The tragedy led to a 32-month grounding of the shuttle fleet, the Rogers Commission investigation, and major changes to NASA's safety culture and decision-making processes."
     },
     {
-      "year": 1933,
-      "title": "Construction of the Golden Gate Bridge Begins",
-      "description": "Work commenced on the Golden Gate Bridge in San Francisco, which would become one of the most iconic suspension bridges in the world.",
-      "category": "Infrastructure/Engineering",
-      "significance": "The bridge became an important transportation link and an engineering marvel that symbolized innovation and progress."
+      "year": 1393,
+      "title": "Bal des Ardents",
+      "description": "At a masquerade ball in Paris, King Charles VI of France and several courtiers dressed as wild men were set on fire when a torch ignited their flax costumes. Several died, while the king was saved by the Duchess of Berry.",
+      "category": "Disaster",
+      "significance": "The incident worsened Charles VI's mental instability and deepened the political rivalry between French noble factions, contributing to the conflicts that weakened France during the Hundred Years' War."
     },
     {
-      "year": 1813,
-      "title": "Jane Austen's 'Pride and Prejudice' Published",
-      "description": "Jane Austen's novel 'Pride and Prejudice' was published for the first time in the United Kingdom.",
-      "category": "Literature",
-      "significance": "The novel became one of the most popular and enduring works of English literature, influencing countless adaptations and studies."
+      "year": 1932,
+      "title": "Japanese Attack on Shanghai Begins",
+      "description": "Japanese forces attacked Chinese forces in Shanghai in what became known as the January 28 Incident, following tensions over anti-Japanese boycotts and the earlier Japanese occupation of Manchuria.",
+      "category": "War",
+      "significance": "The conflict was an early escalation of Japanese aggression in China and a precursor to the full-scale Second Sino-Japanese War, which began in 1937."
     }
   ]
 }

@@ -2,55 +2,59 @@
   "date": "January 21",
   "plants": [
     {
-      "name": "Hamamelis virginiana",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub or small tree native to eastern North America, Witch Hazel blooms in winter with bright yellow, spidery flowers emitting a strong, spicy fragrance. It is often found in woodlands and is valued for winter interest in gardens.",
-      "bloomingSeason": "January to March",
-      "location": "Eastern United States",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch Hazel flowers appear on bare branches, often after leaves have fallen, adding color and fragrance to winter landscapes."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub prized for its large, showy flowers that bloom in winter and early spring. Camellias are native to eastern and southern Asia and bloom profusely even during colder months in mild climates.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated widely in temperate gardens worldwide",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers that bloom in the cool season. It is widely cultivated in temperate gardens and prized for blooms that appear when most other plants are dormant.",
+      "bloomingSeason": "Late autumn to early spring (peak in January in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; cultivated in the southeastern United States, Europe, and Australia",
       "colors": [
         "red",
         "pink",
         "white"
       ],
       "emoji": "🌺",
-      "funFact": "The camellia flower is a symbol of admiration and perfection in East Asian cultures."
+      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant used to make tea, and thousands of cultivars have been bred in Japan over centuries."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A hardy perennial native to mountainous regions of central and southern Europe. It blooms in winter, often around Christmas but lasting into January, with large white to pinkish flowers that brighten cold gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing perennial with leathery evergreen leaves and nodding, cup-shaped flowers with golden stamens. It braves frost and snow, blooming in the depths of winter in woodland and shade gardens.",
+      "bloomingSeason": "Midwinter to early spring",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens worldwide",
       "colors": [
         "white",
-        "pink"
+        "pale pink"
       ],
       "emoji": "❄️",
-      "funFact": "Despite the name, Christmas Rose is not a true rose but a member of the buttercup family, Ranunculaceae."
+      "funFact": "Despite its name, it is not a true rose. All parts of the plant are toxic, and flowers can bloom through snow cover."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silk Oak",
-      "description": "An evergreen tree native to eastern Australia that flowers profusely in late winter and spring. The bright orange flowers resemble spider webs and attract birds and insects.",
-      "bloomingSeason": "July to January (Southern Hemisphere winter to summer)",
-      "location": "Eastern Australia, cultivated in subtropical regions worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub bearing the largest flower head of any protea, with a bowl of stiff, colorful bracts surrounding a center of fuzzy florets. It thrives in the fynbos habitat of South Africa and is a popular cut flower.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowering often occurring from December through February in some areas",
+      "location": "Southwestern and southern coastal regions of South Africa",
       "colors": [
-        "orange"
+        "pink",
+        "cream",
+        "red"
       ],
       "emoji": "🌸",
-      "funFact": "Silk Oak's flowers provide nectar for many bird species, playing an important role in local ecosystems."
+      "funFact": "The king protea is South Africa's national flower, and the protea family is so ancient that it dates back to before the supercontinent Gondwana broke apart."
+    },
+    {
+      "name": "Eucalyptus leucoxylon",
+      "commonName": "Yellow Gum",
+      "description": "A medium-sized Australian tree with smooth mottled bark and clusters of nectar-rich flowers that attract honeyeaters, lorikeets, and bees. In the Southern Hemisphere summer it provides food for countless native animals.",
+      "bloomingSeason": "Late summer, with flowering occurring from autumn to winter in some forms; flowers may appear around January in some populations",
+      "location": "South-eastern Australia, including South Australia and Victoria",
+      "colors": [
+        "cream",
+        "pink",
+        "red"
+      ],
+      "emoji": "🌳",
+      "funFact": "Cultivated forms with deep red or pink flowers are widely planted as street trees, and the nectar is important for producing eucalyptus honey."
     }
   ]
 }

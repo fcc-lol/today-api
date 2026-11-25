@@ -2,32 +2,39 @@
   "date": "January 30",
   "events": [
     {
-      "year": 1649,
-      "title": "Execution of King Charles I of England",
-      "description": "King Charles I was executed for treason, marking the first time a reigning English monarch was legally tried and executed by his own subjects.",
-      "category": "Political",
-      "significance": "This event led to the temporary abolition of the monarchy and the establishment of the Commonwealth of England, profoundly impacting English governance and constitutional history."
+      "year": 1933,
+      "title": "Adolf Hitler Appointed Chancellor of Germany",
+      "description": "President Paul von Hindenburg appointed Adolf Hitler as Chancellor of Germany, leading a coalition government between the Nazi Party and the conservative German National People's Party.",
+      "category": "Politics",
+      "significance": "Marked the start of the Nazi regime, which rapidly dismantled German democracy and led to World War II and the Holocaust."
     },
     {
       "year": 1948,
       "title": "Assassination of Mahatma Gandhi",
-      "description": "Mahatma Gandhi, leader of the Indian independence movement and advocate of non-violence, was assassinated in New Delhi.",
-      "category": "Social/Political",
-      "significance": "Gandhi's assassination was a pivotal moment in Indian history, marking the loss of a key leader who shaped the nation's identity and philosophy post-independence."
+      "description": "Mohandas Karamchand Gandhi was shot and killed by Nathuram Godse while walking to a prayer meeting at Birla House in New Delhi, five months after India gained independence.",
+      "category": "Death",
+      "significance": "The death of the leader of India's nonviolent independence movement shocked the world and prompted national mourning; January 30 is observed in India as Martyrs' Day."
     },
     {
-      "year": 1933,
-      "title": "Adolf Hitler appointed Chancellor of Germany",
-      "description": "Adolf Hitler was appointed Chancellor, beginning the Nazi regime and leading to profound changes in Germany and the world.",
-      "category": "Political",
-      "significance": "This appointment set the stage for World War II and the Holocaust, dramatically altering global history."
+      "year": 1649,
+      "title": "Execution of King Charles I of England",
+      "description": "Charles I was beheaded outside the Banqueting House in Whitehall, London, after being convicted of high treason by a High Court of Justice during the aftermath of the English Civil War.",
+      "category": "Politics",
+      "significance": "The only public execution of an English monarch, it led to the abolition of the monarchy and the establishment of the Commonwealth under Oliver Cromwell."
     },
     {
-      "year": 1972,
-      "title": "Bloody Sunday in Northern Ireland",
-      "description": "British soldiers shot 26 unarmed civilians during a peaceful civil rights march in Derry, Northern Ireland.",
-      "category": "Conflict",
-      "significance": "The event intensified the conflict known as The Troubles, impacting Northern Ireland's political landscape for decades."
+      "year": 1968,
+      "title": "Start of the Tet Offensive",
+      "description": "North Vietnamese and Viet Cong forces launched coordinated surprise attacks on cities and military bases across South Vietnam during the Tet lunar new year holiday.",
+      "category": "Military",
+      "significance": "Though a military defeat for the communists, the offensive shattered American public confidence in the war's progress and became a turning point in US opinion and policy on Vietnam."
+    },
+    {
+      "year": 1882,
+      "title": "Birth of Franklin D. Roosevelt",
+      "description": "Franklin Delano Roosevelt, the future 32nd President of the United States, was born in Hyde Park, New York.",
+      "category": "Birth",
+      "significance": "Roosevelt led the US through the Great Depression and most of World War II, and his New Deal programs reshaped the role of the federal government."
     }
   ]
 }

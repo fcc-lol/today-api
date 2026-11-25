@@ -3,58 +3,59 @@
   "plants": [
     {
       "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub known for its large, showy flowers that appear in late winter through early spring. Camellias are prized in gardens for their glossy leaves and long-lasting blooms during cold months.",
-      "bloomingSeason": "November to March",
-      "location": "Temperate regions worldwide, native to East Asia (Japan, China, Korea)",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a cherished winter bloomer in gardens across the region.",
+      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and the Pacific Northwest",
       "colors": [
-        "white",
+        "red",
         "pink",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica was named after the Jesuit botanist Georg Kamel and was one of the first Asian plants introduced to Europe in the 18th century."
-    },
-    {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub that blooms in late winter to early spring, often when snow still covers the ground. Known for small bell-shaped flowers that brighten winter gardens.",
-      "bloomingSeason": "December to April",
-      "location": "Central and Southern Europe, in mountainous and heathland areas",
-      "colors": [
-        "pink",
-        "purple",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Winter Heath is one of the few plants that can flower under snow, providing vital nectar for bees early in the year."
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true tea, and Camellia japonica is the official state flower of Alabama."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that can bloom in mild winter climates. In subtropical to tropical regions, it may flower nearly year-round, including January.",
-      "bloomingSeason": "May to October, but often year-round in frost-free areas",
-      "location": "Mediterranean Basin, parts of California, Australia, and India",
+      "name": "Prunus mume",
+      "commonName": "Chinese Plum / Japanese Apricot",
+      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the depths of winter. It is a powerful symbol of perseverance and hope in East Asian culture.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Native to southern China; cultivated in Japan, Korea, and Taiwan, and in mild-winter gardens worldwide",
       "colors": [
         "white",
         "pink",
-        "red"
+        "deep red"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of the oleander plant are toxic if ingested, containing cardiac glycosides."
+      "emoji": "🌸",
+      "funFact": "In Chinese culture, plum blossom is one of the 'Three Friends of Winter' along with pine and bamboo, and it blooms through snow."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A native Australian tree that flowers in various seasons depending on climate, including summer and winter months. Its cylindrical flower spikes attract nectar-feeding birds and mammals.",
-      "bloomingSeason": "Year-round, with peaks in summer and winter",
-      "location": "Eastern Australia coast",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with the largest flower head of any protea, featuring a bowl of pointed pink bracts surrounding a central cluster of fuzzy florets. It is adapted to nutrient-poor, fire-prone fynbos habitats.",
+      "bloomingSeason": "Southern Hemisphere late spring to summer, with blooms from late spring through to autumn; peak around December to February in some regions",
+      "location": "Western and Southern Cape of South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "yellow",
-        "orange"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksias are named after Sir Joseph Banks, botanist on Captain Cook’s first voyage to Australia."
+      "emoji": "🌼",
+      "funFact": "The King Protea is South Africa's national flower, and the plant's genus is named after the Greek god Proteus, who could change his shape."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A low-growing perennial with cup-shaped white flowers that open in winter, sometimes pushing up through snow. The blooms age to a soft pinkish-green and last for weeks.",
+      "bloomingSeason": "Winter (December to March)",
+      "location": "Native to the mountains of central and southern Europe; popular in temperate gardens in Europe and North America",
+      "colors": [
+        "white",
+        "pale pink",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its common name, it is not a true rose, and all parts of the plant are toxic, which is why it was historically associated with folk medicine and witchcraft."
     }
   ]
 }
