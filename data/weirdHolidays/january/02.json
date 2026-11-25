@@ -2,36 +2,44 @@
   "date": "January 2",
   "holidays": [
     {
+      "name": "National Cream Puff Day",
+      "description": "A day to indulge in light, airy pastry shells stuffed with whipped cream or custard. Bakeries and dessert fans celebrate by eating as many of these fluffy bites as their willpower allows.",
+      "origin": "Cream puffs trace back to the 16th century, when chef Panterelli created pâte à choux dough in the kitchen of Catherine de' Medici. The exact origin of the national day is unclear, as with many food holidays.",
+      "category": "Food",
+      "emoji": "🥐",
+      "funFact": "The dough has no chemical leavening. Steam alone puffs it up, which creates the hollow center for the filling."
+    },
+    {
       "name": "Science Fiction Day",
-      "description": "A day to celebrate imaginative worlds, futuristic technology, and the creative minds that explore the possibilities of tomorrow through science fiction.",
-      "origin": "Celebrated on the birthday of famed sci-fi author Isaac Asimov (January 2, 1920).",
+      "description": "A day for fans of spaceships, time travel, robots, and alien encounters to celebrate the genre by reading, watching, or debating their favorite stories.",
+      "origin": "The day is observed on January 2 because it is the birthday of Isaac Asimov, one of the most prolific science fiction authors, born in 1920 (by his own reckoning; the exact date is uncertain).",
       "category": "Pop Culture",
       "emoji": "🚀",
-      "funFact": "Isaac Asimov wrote or edited over 500 books during his lifetime, shaping much of modern science fiction."
+      "funFact": "Asimov wrote or edited more than 500 books, and his Three Laws of Robotics still shape how people talk about artificial intelligence."
     },
     {
-      "name": "Motivation and Inspiration Day",
-      "description": "Kickstart your year by finding motivation and inspiration to achieve your goals and dreams!",
-      "origin": "An unofficial day recognized by motivational speakers and self-help communities to inspire positivity early in the new year.",
-      "category": "Self-Improvement",
-      "emoji": "💡",
-      "funFact": "Many people set New Year's resolutions on January 1, but January 2 helps keep motivation alive after the initial excitement passes."
+      "name": "National Run Up the Stairs Day",
+      "description": "A day for tackling every staircase in sight at top speed, whether in an office building, an apartment complex, or an iconic movie location. It is meant as a New Year fitness kickstart.",
+      "origin": "This is an unofficial fitness-themed observance that appeared early in the year as people started their resolutions. Its exact founder is unknown.",
+      "category": "Fitness",
+      "emoji": "🏃",
+      "funFact": "Climbing stairs burns more calories per minute than jogging, according to many fitness estimates, which makes the holiday more serious than it sounds."
     },
     {
-      "name": "Buffet Day",
-      "description": "A fun holiday celebrating the joy of endless food options laid out in a buffet style — eat as much as you like!",
-      "origin": "Unofficial food day honoring the concept of buffets, which became popular in the mid-20th century in the U.S.",
+      "name": "Happy Mew Year for Cats",
+      "description": "A feline-focused day that celebrates cats and gives them a fresh start for the year with treats, new toys, and extra cuddles. It is cat-ified New Year's cheer.",
+      "origin": "The day was created by pet lovers and cat enthusiasts, most notably Colleen Paige, a pet and family lifestyle expert who invented many pet holidays.",
+      "category": "Animals",
+      "emoji": "🐱",
+      "funFact": "Cats sleep around 12 to 16 hours a day, so they will probably spend most of their own celebration napping."
+    },
+    {
+      "name": "National Buffet Day",
+      "description": "A day to celebrate all-you-can-eat spreads, with a heaping plate or three of everything from salad to dessert. Strategy matters, and pacing yourself is for amateurs.",
+      "origin": "The holiday honors the buffet tradition, which comes from the Swedish smörgåsbord and became popular in America in the 20th century, notably through Las Vegas casinos in the 1940s.",
       "category": "Food",
       "emoji": "🍽️",
-      "funFact": "The first known buffet originated in Sweden during the 16th century, called 'smörgåsbord,' a spread of cold dishes."
-    },
-    {
-      "name": "Crepe Day",
-      "description": "A delightful day to enjoy crepes — thin French pancakes that can be filled with everything from chocolate to cheese!",
-      "origin": "Unofficial food holiday inspired by French culinary tradition celebrating crepes.",
-      "category": "Food",
-      "emoji": "🥞",
-      "funFact": "In France, crepes are so beloved that February 2nd is also celebrated as 'La Chandeleur' or Crepe Day, but January 2 offers an early winter treat!"
+      "funFact": "The first Las Vegas buffet was the El Rancho Vegas Buckaroo Buffet in 1946, designed to keep gamblers in the casino late at night."
     }
   ]
 }

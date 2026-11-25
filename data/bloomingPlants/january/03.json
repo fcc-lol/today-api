@@ -4,53 +4,61 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to eastern Asia, famous for its glossy leaves and large, beautiful flowers that bloom in winter. It thrives in mild climates and is often found in gardens and parks.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia, Southeastern USA, parts of Europe",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. Early and mid-season cultivars open in winter, brightening gardens when little else is in flower.",
+      "bloomingSeason": "Late autumn to early spring (peak winter)",
+      "location": "Native to Japan, Korea and China; widely cultivated in the southeastern United States, Europe's mild coastal regions and Australia",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers inspired the logo of the famous French fashion house Chanel."
+      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea. In Japan, camellias are associated with samurai because the flower drops whole instead of shedding petals."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial herbaceous plant native to mountainous regions of Europe, notable for its early winter blooming often around Christmas and New Year, with white to pink flowers that bring color to cold, shady areas.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers that age to pinkish tones, with golden stamens at the center. It flowers through snow and frost in temperate Northern Hemisphere gardens.",
+      "bloomingSeason": "Early winter to late winter",
+      "location": "Native to the mountain woodlands of central and southern Europe, including the Alps and northern Apennines; cultivated in Europe and North America",
       "colors": [
         "white",
+        "pale pink",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Despite its name, it is not a rose but a member of the buttercup family. All parts of the plant are toxic, and it was historically used in folk medicine with dangerous results."
+    },
+    {
+      "name": "Delosperma cooperi",
+      "commonName": "Hardy Ice Plant",
+      "description": "Not actually in bloom in the north, but in the Southern Hemisphere summer, relatives like Lampranthus and Delosperma carpet slopes in daisy-like blooms. This low succulent has fleshy leaves and vivid magenta flowers that open in strong sun.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
+      "location": "Native to South Africa's Eastern Cape and Lesotho highlands; cultivated in Australia, New Zealand and dry regions worldwide",
+      "colors": [
+        "magenta",
+        "purple",
         "pink"
       ],
-      "emoji": "❄️🌸",
-      "funFact": "Despite its common name and rose-like flowers, Helleborus niger is not a rose but belongs to the buttercup family."
+      "emoji": "🌸",
+      "funFact": "The flowers close on cloudy days and at night, and the succulent leaves have glistening bladder cells that look like ice crystals, giving the plant its name."
     },
     {
-      "name": "Acacia baileyana",
-      "commonName": "Cootamundra Wattle",
-      "description": "An Australian native small tree or shrub with fern-like leaves and bright golden-yellow ball-shaped flowers, blooming in early to mid-summer, often extending into January in southern Australia.",
-      "bloomingSeason": "December to January",
-      "location": "Southeastern Australia",
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous plant with tall, sturdy stalks bearing several huge trumpet-shaped flowers. It is a famous winter bloomer indoors in the Northern Hemisphere and also blooms outdoors in warm climates.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; outdoors in mild climates in winter to spring",
+      "location": "Parent species native to the tropical Andes and Brazil; grown worldwide as a potted holiday plant and in frost-free gardens",
       "colors": [
-        "yellow"
+        "red",
+        "white",
+        "pink",
+        "orange",
+        "striped"
       ],
-      "emoji": "💛",
-      "funFact": "The fragrant flowers of Acacia baileyana are used by birds to build their nests."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "A large evergreen tree native to the southeastern United States, known for its large, creamy-white, fragrant flowers that bloom sporadically and can appear in winter months, especially in milder climates.",
-      "bloomingSeason": "Mostly late spring to summer but can bloom sporadically in winter",
-      "location": "Southeastern USA",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "Southern Magnolia flowers can reach up to 30 centimeters (12 inches) in diameter, among the largest of any native plant in North America."
+      "emoji": "🌷",
+      "funFact": "Bulbs can be forced into bloom in about 6 to 8 weeks, and a single large bulb can send up several flower stalks in one season."
     }
   ]
 }

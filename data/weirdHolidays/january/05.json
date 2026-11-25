@@ -2,36 +2,44 @@
   "date": "January 5",
   "holidays": [
     {
-      "name": "National Whipped Cream Day",
-      "description": "A delightful day dedicated to celebrating the fluffy, sweet topping that brings joy to pies, hot chocolate, and desserts everywhere.",
-      "origin": "Started as a fun promotional day by whipped cream companies, it has become a favorite among dessert lovers.",
-      "category": "Food Holiday",
-      "emoji": "🍰",
-      "funFact": "Did you know that the first can of aerosol whipped cream was invented in 1948 by a dairy company? Now that's some serious innovation for dessert fans!"
-    },
-    {
-      "name": "Bird Day",
-      "description": "A day to appreciate and protect our feathered friends, encouraging bird watching and conservation efforts worldwide.",
-      "origin": "First observed in 1894, Bird Day was created to promote the protection and appreciation of birds and their habitats.",
-      "category": "Environmental Awareness",
-      "emoji": "🐦",
-      "funFact": "Bird Day predates Earth Day by over 75 years, making it one of the earliest days dedicated to environmental conservation!"
-    },
-    {
       "name": "National Bird Day",
-      "description": "Another avian appreciation day but observed specifically to support bird adoption from shelters and educate on pet bird needs.",
-      "origin": "Established in 2002 by the Avian Welfare Coalition to increase awareness of pet birds and avian rescue.",
-      "category": "Animal Welfare",
-      "emoji": "🦜",
-      "funFact": "On National Bird Day, many bird shelters see an increase in adoptions due to heightened awareness and education efforts."
+      "description": "A day to appreciate our feathered friends and to raise awareness about the plight of captive and wild birds. Break out the binoculars, refill the feeder, and give a respectful nod to the next pigeon you see.",
+      "origin": "Started in 2002 by bird advocacy groups, including the Avian Welfare Coalition, to highlight threats to birds such as habitat loss and the pet trade.",
+      "category": "Awareness Day",
+      "emoji": "🐦",
+      "funFact": "There are roughly 10,000 bird species in the world, and scientists estimate there are about 50 billion individual wild birds, or around six for every human."
     },
     {
-      "name": "Epiphany Eve/ Twelfth Night",
-      "description": "The night before Epiphany, celebrated with various cultural traditions marking the end of the Christmas season, often involving parties and unique customs.",
-      "origin": "Rooted in Christian tradition, Twelfth Night marks the eve before Epiphany, when the Three Wise Men visited baby Jesus.",
-      "category": "Cultural/Religious",
-      "emoji": "⭐",
-      "funFact": "In some cultures, eating a 'Twelfth Night Cake' with a hidden bean or coin is traditional; whoever finds it becomes 'king' or 'queen' for the night!"
+      "name": "National Whipped Cream Day",
+      "description": "A fluffy, sugary salute to the cloud-like topping that makes pies, hot chocolate, and sundaes better. Spraying it directly into your mouth is unofficially permitted.",
+      "origin": "An unofficial food holiday, probably cooked up by dairy fans and food-calendar enthusiasts as a way to celebrate the sweet start to the new year after the holidays.",
+      "category": "Food Holiday",
+      "emoji": "🍦",
+      "funFact": "Whipped cream is basically a foam: whisking traps tiny air bubbles in butterfat, which can double the volume of the cream."
+    },
+    {
+      "name": "Twelfth Night",
+      "description": "The traditional end of the Twelve Days of Christmas, when decorations come down and revelers historically indulged in feasting, wassailing, and general merriment. Some say it is bad luck to leave your tree up after this night.",
+      "origin": "A Christian festival with medieval roots, celebrated on the eve of Epiphany. In Tudor England it was a raucous party where a Lord of Misrule was appointed to preside over the fun.",
+      "category": "Traditional Festival",
+      "emoji": "👑",
+      "funFact": "Traditional Twelfth Night cakes hid a bean or pea inside, and whoever found it in their slice was crowned king or queen of the night."
+    },
+    {
+      "name": "National Keep a Diary Day",
+      "description": "A day to dust off a notebook and record your thoughts, secrets, and the dramatic events of your life, ideally before you forget them or deny they ever happened.",
+      "origin": "An informal observance that lines up with new year resolutions, encouraging people to start the year with a habit of daily journaling.",
+      "category": "Hobby Day",
+      "emoji": "📔",
+      "funFact": "Samuel Pepys kept one of the most famous diaries in history, from 1660 to 1669, and it documented the Great Fire of London and the plague."
+    },
+    {
+      "name": "National Screenwriters Day",
+      "description": "A day to honor the people who write the movies and shows we love, and who rarely get credit for the best lines. Quote your favorite movie at someone to celebrate.",
+      "origin": "Observed to recognize the craft of screenwriting, and often tied to the start of the new year when writers set fresh goals and scripts.",
+      "category": "Pop Culture",
+      "emoji": "🎬",
+      "funFact": "A standard screenplay page is typically timed at about one minute of screen time, so a 120-page script makes roughly a two-hour film."
     }
   ]
 }

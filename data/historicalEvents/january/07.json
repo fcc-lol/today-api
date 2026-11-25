@@ -3,24 +3,38 @@
   "events": [
     {
       "year": 1610,
-      "title": "Galileo discovers the Galilean moons of Jupiter",
-      "description": "Galileo Galilei observes four moons—Io, Europa, Ganymede, and Callisto—around Jupiter using a telescope, marking the first known observations of moons orbiting another planet.",
-      "category": "Science/Astronomy",
-      "significance": "A landmark in astronomy that expanded understanding of the solar system and provided crucial evidence supporting heliocentrism."
+      "title": "Galileo Observes Jupiter's Moons",
+      "description": "Galileo Galilei first observed three of Jupiter's four largest moons (Io, Europa, and Callisto/Ganymede) through his telescope, and on subsequent nights identified the fourth. Together they became known as the Galilean moons.",
+      "category": "Science",
+      "significance": "The discovery provided strong evidence against the geocentric model, showing that celestial bodies could orbit something other than Earth, and supported the Copernican heliocentric view."
     },
     {
       "year": 1789,
-      "title": "Electoral College votes to elect George Washington as the first U.S. president",
-      "description": "In the first U.S. presidential election, electors met and cast their votes, resulting in George Washington being unanimously elected as the first President of the United States.",
-      "category": "Politics/US History",
-      "significance": "Established the precedent for the U.S. presidency and the peaceful transfer of power under a new constitutional framework."
+      "title": "First U.S. Presidential Election Held",
+      "description": "The first United States presidential election took place, with electors chosen in several states. George Washington was subsequently elected unanimously by the Electoral College as the first President.",
+      "category": "Politics",
+      "significance": "It established the foundations of American presidential succession and democratic practice under the new Constitution."
     },
     {
-      "year": 1839,
-      "title": "Daguerre announces the daguerreotype, first practical photograph",
-      "description": "Louis Daguerre publicly reveals the daguerreotype process (developed with Niépce), inaugurating the era of practical photography.",
-      "category": "Technology/Photography",
-      "significance": "Birth of modern photography, transforming visual culture, documentation, and communication."
+      "year": 1927,
+      "title": "First Commercial Transatlantic Telephone Service",
+      "description": "Commercial transatlantic telephone service opened between New York and London, with calls carried by radio telephone.",
+      "category": "Technology",
+      "significance": "It marked a major step in global communications, paving the way for the international telephone network."
+    },
+    {
+      "year": 1955,
+      "title": "Marian Anderson Debuts at the Metropolitan Opera",
+      "description": "Contralto Marian Anderson became the first African American singer to perform at the Metropolitan Opera in New York, appearing as Ulrica in Verdi's Un ballo in maschera.",
+      "category": "Arts and Culture",
+      "significance": "Her debut broke a significant racial barrier in classical music and was an important milestone in the broader civil rights era."
+    },
+    {
+      "year": 1979,
+      "title": "Vietnamese Forces Capture Phnom Penh",
+      "description": "Vietnamese troops and Cambodian allies captured the Cambodian capital, Phnom Penh, overthrowing the Khmer Rouge regime led by Pol Pot.",
+      "category": "Military",
+      "significance": "It ended the Khmer Rouge's brutal rule, during which an estimated 1.5 to 2 million people died, and began a period of Vietnamese occupation."
     }
   ]
 }

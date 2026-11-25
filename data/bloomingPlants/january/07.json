@@ -4,55 +4,58 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its glossy leaves and beautiful, rose-like flowers that bloom in winter, often starting in late fall and continuing through early spring. It thrives in temperate climates and is a popular ornamental plant in gardens.",
-      "bloomingSeason": "November to March",
-      "location": "Temperate East Asia, cultivated in temperate gardens worldwide",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It is a favorite winter-blooming ornamental in mild climates, with thousands of cultivars ranging from single to fully double forms.",
+      "bloomingSeason": "Late autumn to early spring (peak in winter)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Mediterranean Europe, and Australia",
       "colors": [
         "red",
         "pink",
         "white"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica was the original source of the name for the tea plant genus Camellia (Camellia sinensis), although the latter is mainly used for brewing tea."
+      "funFact": "Camellia sinensis, a close relative, produces the leaves used to make all true tea."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial herbaceous plant that produces cup-shaped white flowers often appearing in late winter around Christmas time, sometimes extending into January. It favors shaded woodland habitats in mountainous Europe.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens that often fade to pink. It blooms in the cold of winter, sometimes pushing up through snow.",
+      "bloomingSeason": "Midwinter to early spring",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens worldwide",
       "colors": [
-        "white"
+        "white",
+        "pale pink",
+        "green"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas Rose is not a rose but is a member of the buttercup family (Ranunculaceae). Its toxic roots have been used historically for medicinal purposes."
+      "funFact": "Despite its name it is not a rose; all parts of the plant are toxic, and it was historically used in folk medicine and associated with legends of Christmas."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub widely cultivated in subtropical and Mediterranean climates, known for its clusters of fragrant, showy flowers blooming during mild winters and spring. In warmer areas, it can bloom sporadically year-round.",
-      "bloomingSeason": "December to October in mild climates",
-      "location": "Mediterranean region, subtropical Asia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with giant flower heads made of colorful bracts surrounding a central cone of tiny flowers. In the Southern Hemisphere summer it is among the showiest of the fynbos plants.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere (Dec–Feb in many areas)",
+      "location": "South Africa's Western and Eastern Cape fynbos; cultivated in Australia, Hawaii, and California",
       "colors": [
         "pink",
-        "red",
-        "white",
-        "yellow"
+        "cream",
+        "red"
       ],
       "emoji": "🌸",
-      "funFact": "Oleander is highly toxic if ingested, yet it has been used medicinally in traditional medicine; all parts contain poisonous cardiac glycosides."
+      "funFact": "It is the national flower of South Africa and can have flower heads up to 30 cm across."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A coastal tree native to eastern Australia that produces creamy yellow cylindrical flower spikes. It blooms during the cooler months, providing an important winter nectar source for birds and insects.",
-      "bloomingSeason": "January to April",
-      "location": "Eastern Australia coast",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A deciduous shrub that bears spidery, fragrant, ribbon-like petals on bare branches in winter. The scented flowers tolerate frost by curling up in severe cold and unfurling again when it warms.",
+      "bloomingSeason": "Winter (December to February)",
+      "location": "Native to central and eastern China; grown in temperate gardens of Europe and North America",
       "colors": [
-        "yellow"
+        "yellow",
+        "gold",
+        "orange"
       ],
       "emoji": "🌼",
-      "funFact": "Banksia flowers are composed of hundreds of tiny individual flowers packed densely together, attracting a variety of pollinators including birds and mammals."
+      "funFact": "Its flowers can curl up their petals to protect themselves during freezing weather and open again once temperatures rise."
     }
   ]
 }

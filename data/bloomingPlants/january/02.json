@@ -2,55 +2,63 @@
   "date": "January 2",
   "plants": [
     {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial with leathery, dark green, palmate leaves and nodding, cup-shaped flowers that open pure white and often age to a soft pink. Its blooms appear in the depths of winter, bringing welcome color to dormant gardens.",
+      "bloomingSeason": "Late autumn to late winter (November to March in the Northern Hemisphere)",
+      "location": "Native to the mountainous woodlands of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
+      "colors": [
+        "white",
+        "pale pink",
+        "green"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its name, the Christmas Rose is not a true rose but a member of the buttercup family, and all parts of the plant are toxic. It can bloom through snow."
+    },
+    {
       "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub valued for its large, showy flowers that bloom in winter, often used as ornamental plants in gardens and parks.",
-      "bloomingSeason": "December to March",
-      "location": "Temperate regions of East Asia, cultivated worldwide in mild climates",
+      "commonName": "Japanese Camellia",
+      "description": "A broadleaf evergreen shrub or small tree with glossy dark green leaves and large, showy, rose-like flowers. Hundreds of cultivars exist with single, semi-double, or fully double blooms.",
+      "bloomingSeason": "Winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Western Europe, and mild climates worldwide",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias are among the few plants that bloom during the cold winter months, providing important nectar for pollinators in scarce conditions."
+      "funFact": "Camellia japonica is the state flower of Alabama, and in Japan it is called 'tsubaki' and has long been associated with the tea ceremony and samurai culture."
     },
     {
-      "name": "Cistus (Rockrose)",
-      "commonName": "Rockrose",
-      "description": "A genus of drought-tolerant shrubs with papery flowers that open in the cooler months, commonly found in Mediterranean climates.",
-      "bloomingSeason": "Late autumn to early spring",
-      "location": "Mediterranean Basin",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head of any protea, up to 30 cm across, made of a central cone of tiny flowers surrounded by showy, petal-like bracts. It thrives in the fynbos of the Cape region.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak blooming from December to February in some regions and cultivars",
+      "location": "Native to the fynbos of the southwestern and southern Cape of South Africa; cultivated in Australia, Hawaii, and California",
       "colors": [
         "pink",
-        "white"
+        "cream",
+        "crimson",
+        "silver"
       ],
       "emoji": "🌸",
-      "funFact": "Rockroses produce sticky resins historically used in varnishes and perfumes."
+      "funFact": "The King Protea is the national flower of South Africa, and its genus is named after the Greek god Proteus because of the remarkable variety of its forms."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial evergreen plant with white flowers often blooming in the depths of winter, traditionally associated with Christmas time.",
-      "bloomingSeason": "December to February",
-      "location": "Mountainous regions of Europe, cultivated in temperate gardens",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tropical tree with feathery, fern-like leaves and spectacular clusters of large flowers that nearly cover the canopy. Each flower has four spreading scarlet petals and one larger petal streaked with white and yellow.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February), with seasonal blooming in tropical and subtropical regions",
+      "location": "Native to Madagascar; widely planted in Australia, southern Africa, South America, and the tropics worldwide",
       "colors": [
+        "scarlet",
+        "orange-red",
+        "yellow",
         "white"
       ],
-      "emoji": "🌼",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose; it has been used medicinally in traditional European herbal medicine."
-    },
-    {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle",
-      "description": "A fast-growing tree known for its bright yellow, fragrant flower clusters that bloom in late winter to early spring.",
-      "bloomingSeason": "January to March",
-      "location": "Australia, also widely cultivated in Mediterranean climates",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Silver Wattle flowers are often used in floral arrangements during winter due to their cheerful color and fragrance."
+      "emoji": "🔥",
+      "funFact": "In its native Madagascar the Royal Poinciana is critically endangered in the wild, even though it is one of the most widely planted ornamental trees on Earth."
     }
   ]
 }

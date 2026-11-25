@@ -3,24 +3,38 @@
   "events": [
     {
       "year": 1492,
-      "title": "Granada surrenders to the Crown of Castile",
-      "description": "The Emirate of Granada signs its surrender to King Ferdinand II of Aragon and Queen Isabella I of Castile, effectively ending Moorish rule in the Iberian Peninsula after centuries of conflict.",
-      "category": "Politics/Conquest",
-      "significance": "Marked the completion of the Reconquista and enabled the rise of a unified Spanish crown, with long-term implications for Iberian and global exploration."
+      "title": "Granada Surrenders, Ending the Reconquista",
+      "description": "Muhammad XII (Boabdil), the last Nasrid emir of Granada, surrendered the city to Ferdinand II of Aragon and Isabella I of Castile, ending nearly eight centuries of Muslim rule on the Iberian Peninsula.",
+      "category": "Politics and Warfare",
+      "significance": "The fall of Granada completed the Christian Reconquista and consolidated Spain as a unified Catholic monarchy. Later that year the monarchs sponsored Columbus's voyage, setting the stage for Spanish colonial expansion in the Americas."
     },
     {
       "year": 1788,
-      "title": "Georgia ratifies the United States Constitution",
-      "description": "The state of Georgia becomes the fourth to ratify the U.S. Constitution, following Delaware, Pennsylvania, and New Jersey.",
-      "category": "Politics/Constitution",
-      "significance": "Accelerated the ratification process for the new framework of the U.S. government, contributing to the formation of the United States as a constitutional federation."
+      "title": "Georgia Ratifies the U.S. Constitution",
+      "description": "Georgia became the fourth state to ratify the United States Constitution, doing so unanimously. It followed Delaware, Pennsylvania, and New Jersey.",
+      "category": "Politics",
+      "significance": "Georgia's ratification was an early step toward the Constitution taking effect, which required approval by nine states, and helped establish the federal government of the United States."
     },
     {
       "year": 1920,
       "title": "Birth of Isaac Asimov",
-      "description": "Isaac Asimov, a Russian-born American writer and biochemist, is born in Petrovichi, Russia (later immigrates to the United States).",
-      "category": "Births/Literature",
-      "significance": "One of the most influential science fiction writers of the 20th century; his Foundation and Robot series helped shape the genre and popular science writing."
+      "description": "Isaac Asimov, the Russian-born American writer and biochemist, was born (the exact date is uncertain but is generally given as January 2, 1920) in Petrovichi, Russia. He wrote or edited more than 500 books, including the Foundation and Robot series.",
+      "category": "Arts and Literature",
+      "significance": "Asimov became one of the most influential science fiction authors of the twentieth century, shaping the genre and popularizing science. His Three Laws of Robotics influenced how people think about artificial intelligence and ethics."
+    },
+    {
+      "year": 1959,
+      "title": "Luna 1 Launched",
+      "description": "The Soviet Union launched Luna 1, the first spacecraft to reach the vicinity of the Moon and the first to achieve escape velocity from Earth's gravity. It passed within about 5,995 km of the lunar surface and went into orbit around the Sun.",
+      "category": "Science and Technology",
+      "significance": "Luna 1 was a landmark in the Space Race and in deep space exploration. It also provided the first direct measurements of the solar wind."
+    },
+    {
+      "year": 1935,
+      "title": "Bruno Hauptmann's Trial Begins for the Lindbergh Kidnapping",
+      "description": "The trial of Bruno Richard Hauptmann began in Flemington, New Jersey, for the 1932 kidnapping and murder of the infant son of aviator Charles Lindbergh. It drew intense press coverage and was called the 'trial of the century.'",
+      "category": "Crime and Law",
+      "significance": "The case led to the Federal Kidnapping Act, known as the Lindbergh Law, and sparked lasting debate over media conduct in high-profile trials."
     }
   ]
 }
