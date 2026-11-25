@@ -2,36 +2,44 @@
   "date": "January 24",
   "holidays": [
     {
-      "name": "Opposite Day",
-      "description": "A playful day where everything you say or do is the opposite of what you mean, creating hilarious confusion and mischief all around!",
-      "origin": "The exact origin is unclear, but it became popular among schoolchildren and in pop culture as a day to mix things up.",
-      "category": "Fun/Play",
-      "emoji": "🔄",
-      "funFact": "Some schools and workplaces join in on Opposite Day antics, leading to topsy-turvy meetings and reverse conversations!"
+      "name": "National Peanut Butter Day",
+      "description": "A day devoted to the sticky, glorious spread that glues the roof of your mouth shut. Celebrate by slathering it on toast, celery, bananas, or straight off a spoon with zero shame.",
+      "origin": "An unofficial American food holiday promoted by food-observance calendars; peanut butter itself was popularized in the U.S. in the early 1900s, with John Harvey Kellogg patenting a peanut paste process in 1895.",
+      "category": "Food Day",
+      "emoji": "🥜",
+      "funFact": "It takes about 540 peanuts to make a single 12-ounce jar of peanut butter, and the average American kid eats roughly 1,500 peanut butter and jelly sandwiches before graduating high school."
+    },
+    {
+      "name": "Beer Can Appreciation Day",
+      "description": "A day to salute the humble aluminum beer can, the portable, stackable, crushable vessel of refreshment. Fans toast its convenience, its clever design, and its starring role in countless backyard barbecues.",
+      "origin": "It commemorates the first canned beer sold to the public on January 24, 1935, when the Gottfried Krueger Brewing Company of Richmond, Virginia, delivered cans of its beer to loyal drinkers for a trial run.",
+      "category": "Food & Drink Day",
+      "emoji": "🍺",
+      "funFact": "The first canned beer was a hit: about 91 percent of drinkers in the Richmond test market said they approved of the new packaging, which helped launch the canned beer industry."
+    },
+    {
+      "name": "Eskimo Pie Day",
+      "description": "A celebration of the chocolate-coated ice cream bar that made frozen treats on a stick a childhood icon. It's a perfect excuse to eat ice cream in the dead of winter.",
+      "origin": "Tied to the January 24, 1922 patent date of the chocolate-coated ice cream bar, invented by Christian Kent Nelson, a schoolteacher and candy store owner in Iowa who was inspired by a boy who couldn't decide between ice cream and chocolate.",
+      "category": "Food Day",
+      "emoji": "🍦",
+      "funFact": "Nelson originally called his creation the 'I-Scream Bar' before it was renamed; the brand later dropped its original name in 2020 and became Edy's Pie."
+    },
+    {
+      "name": "International Day of Education",
+      "description": "A serious-but-wonderful day that celebrates learning, teachers, and the power of education to change lives. Nerds of the world, rejoice and go crack open a book.",
+      "origin": "Proclaimed by the United Nations General Assembly in December 2018 and first observed on January 24, 2019, to highlight education's role in peace and development.",
+      "category": "Awareness Day",
+      "emoji": "📚",
+      "funFact": "The UN resolution creating this day was co-sponsored by a record-breaking 58 countries, making it one of the more popular proposals for a new international day."
     },
     {
       "name": "Compliment Day",
-      "description": "Ditch the grump and spread some joy by giving genuine compliments to friends, family, or even strangers.",
-      "origin": "Started in the late 20th century to encourage kindness and positive communication.",
-      "category": "Social/Wellness",
+      "description": "A day for handing out sincere praise to coworkers, strangers, and that person whose haircut looks fantastic. Bonus points for complimenting someone who has no idea you're doing a holiday.",
+      "origin": "Observed unofficially on January 24 in some calendars and popularized by feel-good observance lists encouraging small acts of kindness to brighten the dead of winter.",
+      "category": "Feel-Good Observance",
       "emoji": "💬",
-      "funFact": "A simple compliment can boost someone’s mood and even improve their productivity for the day!"
-    },
-    {
-      "name": "National Peanut Butter Day",
-      "description": "A crunchy, creamy celebration dedicated to one of America's favorite spreads – peanut butter!",
-      "origin": "Established in the US to honor this beloved pantry staple, enjoyed in sandwiches, desserts, and snacks.",
-      "category": "Food",
-      "emoji": "🥜",
-      "funFact": "Americans consume over 270 million pounds of peanut butter annually, enough to spread on 72 million sandwiches daily!"
-    },
-    {
-      "name": "Burro Day",
-      "description": "A quirky festival held in Ignacio, Colorado, celebrating the humble burro with races, costume contests, and local crafts.",
-      "origin": "Honors the burros that were essential pack animals during the mining days in the 1800s.",
-      "category": "Cultural/Festival",
-      "emoji": "🐴",
-      "funFact": "Burro Day draws visitors who come to cheer on these sure-footed pack animals and enjoy a slice of heritage!"
+      "funFact": "Studies in psychology suggest people consistently underestimate how good a compliment will make the receiver feel, so the real challenge is just getting over your own awkwardness."
     }
   ]
 }

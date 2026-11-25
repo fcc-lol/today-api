@@ -4,55 +4,59 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A popular evergreen shrub with glossy leaves and large, showy flowers that bloom in mid-winter to early spring. It thrives in temperate climates and is commonly cultivated in gardens for its ornamental value.",
-      "bloomingSeason": "December to March",
-      "location": "Japan, China, southeastern United States, temperate gardens worldwide",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that open in the cool season. It is widely grown in gardens and parks and has thousands of cultivars with single, semi-double, and fully double blooms.",
+      "bloomingSeason": "Late winter to early spring (December to March in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Western Europe, and Australia",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers are edible and sometimes used in teas, especially the related Camellia sinensis species which is the source of tea leaves."
+      "funFact": "Camellia sinensis, a close relative, is the plant that gives us tea, and camellia seed oil has been used for centuries in East Asia for cooking and hair care."
     },
     {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub that blooms in late winter to early spring, producing bell-shaped flowers. It is well-suited to alpine and subalpine regions and ornamental rockeries.",
-      "bloomingSeason": "December to April",
-      "location": "Central and southern Europe mountainous regions",
-      "colors": [
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Winter heath can survive harsh winter conditions and often requires snow cover for protection."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A herbaceous perennial that blooms in mid-winter with large white flowers that sometimes have a pinkish tint. It grows naturally in the mountainous regions of central and southern Europe.",
-      "bloomingSeason": "December to February",
-      "location": "Alps and other mountainous areas of Europe",
-      "colors": [
-        "white",
-        "pink"
-      ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite its common name, Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae). Its flowers can bloom through snow."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A coastal tree native to eastern Australia that produces cylindrical golden flower spikes. It blooms sporadically throughout the year, often including summer and winter months.",
-      "bloomingSeason": "Year-round, with peak flowering in summer and winter",
-      "location": "Coastal eastern Australia",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A deciduous large shrub or small tree that flowers on bare branches in the depths of winter. Its spidery, ribbon-like petals curl up in freezing weather and unfurl again when it warms, and the blooms give off a sweet spicy fragrance.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Native to central and eastern China; grown in temperate gardens across Europe and North America",
       "colors": [
         "yellow",
+        "gold",
         "orange"
       ],
       "emoji": "🌼",
-      "funFact": "Banksia integrifolia is important for local wildlife, providing nectar for birds and mammals during times when few other flowers are available."
+      "funFact": "Witch hazel flowers can curl their petals tightly to protect themselves from frost and then reopen, and extracts from related species are used in astringent skin products."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and tall stems topped with rounded clusters of trumpet-shaped flowers. In the Southern Hemisphere it is at its peak in midsummer and is a common sight in gardens, roadsides, and coastal areas.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
+      "location": "Native to South Africa; widely planted and naturalized in Australia, New Zealand, and parts of South America",
+      "colors": [
+        "blue",
+        "violet",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek words for 'love' and 'flower'."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that blooms on bare branches in the coldest part of the year, often when snow is still on the ground. Its fragrant five-petaled blossoms are among the earliest signs that spring is coming in East Asia.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Native to southern China; cultivated across Japan, Korea, and China, as well as in botanical gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
+      ],
+      "emoji": "🌸",
+      "funFact": "In East Asian culture the plum blossom symbolizes perseverance and hope, and it is one of the 'Three Friends of Winter' along with pine and bamboo."
     }
   ]
 }

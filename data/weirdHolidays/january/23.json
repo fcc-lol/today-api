@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Handwriting Day",
-      "description": "A day to celebrate the personal touch and art of handwriting in an increasingly digital world. People are encouraged to put pen to paper and appreciate their unique script.",
-      "origin": "Established in 1977 by the Writing Instrument Manufacturers Association to promote the use of pens and pencils.",
+      "description": "A day to dust off your pens and pencils and celebrate the lost art of putting actual ink to paper. Write a letter, doodle a grocery list, or practice your fanciest cursive signature.",
+      "origin": "Established in 1977 by the Writing Instrument Manufacturers Association to promote handwriting. It was set on January 23 to coincide with the birthday of John Hancock, famed for his large signature on the Declaration of Independence.",
       "category": "Awareness Day",
       "emoji": "✍️",
-      "funFact": "The date was chosen because it’s the birthday of John Hancock, famous for his flamboyant signature on the U.S. Declaration of Independence."
+      "funFact": "John Hancock's signature was so large and flamboyant that 'put your John Hancock here' became American slang for signing your name."
+    },
+    {
+      "name": "National Pie Day",
+      "description": "A glorious day for pie lovers everywhere, dedicated to flaky crusts and sweet or savory fillings. Apple, pecan, pot pie, and cream pie all qualify, so there are no wrong answers.",
+      "origin": "Created by Charlie Papazian, founder of the American Pie Council, in 1986 to celebrate his love of pie. The American Pie Council later promoted the day, and it became a popular unofficial food holiday.",
+      "category": "Food Holiday",
+      "emoji": "🥧",
+      "funFact": "Early pie crusts, called 'coffins,' were sturdy containers that were often not eaten and were used mainly to hold and bake the filling."
     },
     {
       "name": "Measure Your Feet Day",
-      "description": "An odd but useful day dedicated to encouraging people to actually measure their feet to ensure proper shoe sizing, preventing blisters and discomfort.",
-      "origin": "Unofficial observance that surfaced online as a quirky reminder to check shoe sizes, especially after holiday shopping.",
-      "category": "Quirky Holiday",
-      "emoji": "👣",
-      "funFact": "Studies show that many adults wear improper shoe sizes; this day helps people avoid common foot problems!"
-    },
-    {
-      "name": "Pie Day (U.S.)",
-      "description": "Not to be confused with Pi Day in March, this day celebrates the deliciousness of pies in all shapes, sizes, and flavors – sweet or savory!",
-      "origin": "Unofficial food holiday that encourages baking and enjoying pie to beat the winter blues.",
-      "category": "Food Holiday",
-      "emoji": "🥧",
-      "funFact": "Some pie bakers claim a good pie can fix just about anything — especially on a cold winter day."
-    },
-    {
-      "name": "National Compliment Day",
-      "description": "A day intended to spread kindness and make people smile by giving sincere compliments to friends, strangers, and even yourself.",
-      "origin": "Started on social media in the early 2000s to promote positivity and improve mental well-being through simple acts of kindness.",
+      "description": "A quirky day inviting everyone to find out how big their feet really are. Many people wear the wrong shoe size for years, so grab a ruler and get to know your soles.",
+      "origin": "An unofficial observance that appears on January 23 calendars of offbeat holidays, encouraging people to check their foot size and shoe fit for comfort and foot health.",
       "category": "Awareness Day",
-      "emoji": "😊",
-      "funFact": "A genuine compliment can boost someone’s mood for hours – try complimenting a stranger today!"
+      "emoji": "📏",
+      "funFact": "Feet can change size over a lifetime, and they often get longer and wider with age because ligaments and tendons loosen."
+    },
+    {
+      "name": "Rubber Ducky Day",
+      "description": "A squeaky celebration of the iconic yellow bath toy. Float a rubber duck in your tub, display your collection, or just give one a cheerful squeeze.",
+      "origin": "Rubber Ducky Day is linked to the January 23 birthday of Ernie from Sesame Street fame by fans, and ties into the song 'Rubber Duckie' that Ernie sang in 1970. It has grown as a playful pop culture observance.",
+      "category": "Pop Culture",
+      "emoji": "🦆",
+      "funFact": "In 1992, a shipping container of about 28,800 plastic bath toys fell overboard in the Pacific Ocean, and the drifting toys helped oceanographers study ocean currents."
+    },
+    {
+      "name": "Rhubarb Pie Day",
+      "description": "A tart and tangy twist on pie celebrations, honoring the unusual stalky plant that turns sweet when baked with sugar. Pair it with strawberries if you want to be traditional.",
+      "origin": "An unofficial food holiday that falls on January 23 in some calendars, which gives rhubarb its own spotlight alongside National Pie Day.",
+      "category": "Food Holiday",
+      "emoji": "🍰",
+      "funFact": "Rhubarb leaves are toxic due to high oxalic acid content, so only the stalks are eaten."
     }
   ]
 }
