@@ -6,11 +6,11 @@ import { generateBloomingPlants } from "./generateBloomingPlants.js";
 // Load environment variables
 dotenv.config();
 
-// Check if OpenAI API key is available
-if (!process.env.OPENAI_API_KEY) {
-  console.error("❌ Error: OPENAI_API_KEY environment variable is not set");
+// Check if Anthropic API key is available
+if (!process.env.ANTHROPIC_API_KEY) {
+  console.error("❌ Error: ANTHROPIC_API_KEY environment variable is not set");
   console.log(
-    "Please set your OpenAI API key in your .env file or environment variables"
+    "Please set your Anthropic API key in your .env file or environment variables"
   );
   process.exit(1);
 }
