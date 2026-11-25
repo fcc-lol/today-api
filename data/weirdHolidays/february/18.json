@@ -2,36 +2,44 @@
   "date": "February 18",
   "holidays": [
     {
-      "name": "Pet Theft Awareness Day",
-      "description": "A day to raise awareness about the rising problem of pet theft and to encourage pet owners to take steps to protect their furry friends.",
-      "origin": "Started in the UK by animal welfare groups to spotlight the growing issue of pet thefts and illegal pet sales.",
-      "category": "Awareness",
-      "emoji": "🐾",
-      "funFact": "Pet theft rates tend to spike around Valentine's Day, making mid-February crucial for pet safety vigilance."
-    },
-    {
-      "name": "Battery Day (Not Tesla's)",
-      "description": "A quirky salute to the humble battery, celebrating the invention that powers our gadgets and keeps our world ticking.",
-      "origin": "Informally recognized by tech enthusiasts to appreciate battery technology innovation, not to be confused with commercial 'Battery Day' events.",
-      "category": "Tech Celebration",
-      "emoji": "🔋",
-      "funFact": "The first electrochemical battery, the Voltaic Pile, was invented in 1800 by Alessandro Volta — the 'volt' is named after him!"
-    },
-    {
-      "name": "National Drink Wine Day (Unofficial)",
-      "description": "A perfect reason to swirl, sip, and savor your favorite wine varietal with friends or solo indulgence.",
-      "origin": "An informal food and drink holiday celebrated primarily on social media by wine lovers around the world.",
-      "category": "Food & Drink",
+      "name": "National Drink Wine Day",
+      "description": "A day dedicated to uncorking a bottle and raising a glass, whether it's a bold red, a crisp white, or a sparkling bubbly. Wine lovers around the country swirl, sniff, and sip while pretending to detect notes of 'blackberry and leather.'",
+      "origin": "An unofficial food-and-drink observance popularized by wine enthusiasts and the beverage industry, listed on many national day calendars. Its exact founder is unclear.",
+      "category": "Food & Drink Day",
       "emoji": "🍷",
-      "funFact": "Despite its name, the biggest consumption of wine on this day happens in the US, not traditional wine-producing countries."
+      "funFact": "Archaeologists have found evidence of wine production in Georgia dating back about 8,000 years, making it one of the oldest known alcoholic beverages still enjoyed today."
     },
     {
-      "name": "World Pangolin Day (Second Saturday of February, but sometimes observed around this date)",
-      "description": "A day dedicated to celebrating and protecting the pangolin, the world's most trafficked mammal, known for its unique scaly armor.",
-      "origin": "Created by conservation groups to spotlight pangolin conservation efforts globally.",
-      "category": "Awareness/Wildlife",
-      "emoji": "🦔",
-      "funFact": "Pangolins are the only mammals wholly covered in scales, which they use like armor to protect themselves from predators."
+      "name": "National Crab Stuffed Flounder Day",
+      "description": "A celebration of the delightfully layered seafood dish in which a flaky flounder fillet is wrapped around or topped with a rich, buttery crab-meat stuffing. It's basically a fish hugging a crab.",
+      "origin": "Part of the many unofficial national food days observed on social media and food calendars, with the exact origin unknown. The dish is a classic of Mid-Atlantic and Chesapeake Bay cooking.",
+      "category": "Food Day",
+      "emoji": "🦀",
+      "funFact": "Flounder are born with an eye on each side of the head, but as they mature one eye migrates across the skull so both end up on the same side of the body."
+    },
+    {
+      "name": "Pluto Day",
+      "description": "A day to honor the little planet-turned-dwarf-planet that could. Space fans celebrate the discovery of Pluto with themed parties, memes, and heated debates about whether it deserves its planet status back.",
+      "origin": "Pluto was discovered on February 18, 1930, by astronomer Clyde Tombaugh at Lowell Observatory in Flagstaff, Arizona, after he compared photographic plates of the night sky.",
+      "category": "Science & Space Observance",
+      "emoji": "🪐",
+      "funFact": "Pluto's name was suggested by an 11-year-old English schoolgirl named Venetia Burney, who was inspired by the Roman god of the underworld."
+    },
+    {
+      "name": "Thumb Appreciation Day",
+      "description": "A day to give a big thumbs up to the humble opposable thumb, which makes texting, gripping, hitchhiking, and high-fiving possible. Participants are encouraged to thank their thumbs for all their hard work.",
+      "origin": "A lighthearted unofficial observance with no clear founder, spread through novelty holiday listings that encourage people to celebrate the body part that separates us from many other animals.",
+      "category": "Body Appreciation Day",
+      "emoji": "👍",
+      "funFact": "The thumb has its own set of muscles and gives humans the precision grip that is crucial for using tools, and some primates like the koala have even evolved extra opposable digits."
+    },
+    {
+      "name": "National Battery Day",
+      "description": "A day for celebrating the little power sources that run remote controls, flashlights, toys, and phones. It's also a nudge to recycle old batteries properly rather than hiding them in the junk drawer.",
+      "origin": "Observed on February 18 in honor of the birthday of Alessandro Volta, the Italian physicist who invented the first chemical battery, the voltaic pile, around 1800.",
+      "category": "Science & Technology Day",
+      "emoji": "🔋",
+      "funFact": "The unit of electric potential, the volt, is named after Alessandro Volta, so every time you check a voltage you're quietly name-dropping him."
     }
   ]
 }

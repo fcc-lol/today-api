@@ -2,36 +2,44 @@
   "date": "February 11",
   "holidays": [
     {
-      "name": "Make a Friend Day",
-      "description": "A perfect day to reach out and make a new friend. Whether in person or online, it's all about kindness and connection!",
-      "origin": "The exact origin is unclear, but it’s celebrated as a way to promote social connection and goodwill.",
-      "category": "Social/Relationship",
-      "emoji": "🤝",
-      "funFact": "Studies show making new friends can boost happiness and mental health, so today’s holiday is scientifically proven to be good for you!"
+      "name": "National Peppermint Patty Day",
+      "description": "A cool, minty celebration of the chocolate-covered peppermint patty. Folks around the US unwrap one of these refreshing treats and enjoy the snap of dark chocolate giving way to a creamy mint center.",
+      "origin": "Like many food holidays, it grew out of confectionery enthusiasts and snack-food calendars rather than an official proclamation. It is often tied to the popularity of York Peppermint Pattie, which was first sold in 1940 by the York Cone Company in Pennsylvania.",
+      "category": "Food Day",
+      "emoji": "🍫",
+      "funFact": "The York Peppermint Pattie's famous ad slogan, 'Get the sensation,' became a pop culture staple in the 1990s, showing people leaping into snowy, icy scenes of cool refreshment."
     },
     {
-      "name": "National Don’t Cry Over Spilled Milk Day",
-      "description": "An unofficial day reminding us not to sweat the small stuff, especially when things go wrong!",
-      "origin": "Thought to have originated from the old proverb encouraging people to move on from minor mishaps.",
-      "category": "Motivational/Philosophical",
+      "name": "Make a Friend Day",
+      "description": "A day dedicated to stepping outside your comfort zone and turning a stranger, coworker, or neighbor into a new buddy. Say hello, start a chat, and see where it leads.",
+      "origin": "It is an informal observance that appears on unofficial holiday calendars, promoted as a friendly counterpoint to Valentine's Day, which arrives just a few days later, so that people who feel left out of romance can still celebrate connection.",
+      "category": "Social Observance",
+      "emoji": "🤝",
+      "funFact": "Research on social psychology suggests that people consistently underestimate how much strangers will enjoy talking to them, a phenomenon sometimes called the 'liking gap.'"
+    },
+    {
+      "name": "Don't Cry Over Spilled Milk Day",
+      "description": "A day to let go of small mistakes, minor disasters, and kitchen mishaps. The idea is to shrug off what can't be undone and move on with a smile, preferably without a mop.",
+      "origin": "It is based on the centuries-old proverb 'Don't cry over spilled milk,' which dates back to at least the 1600s. The proverb was recorded in James Howell's 1659 collection of proverbs, and the day is a lighthearted, unofficial way of honoring that wisdom.",
+      "category": "Quirky Unofficial Holiday",
       "emoji": "🥛",
-      "funFact": "Spilled milk has been the subject of many idioms, but no one actually cries over it on this day—just laughs!"
+      "funFact": "The saying has equivalents in many languages, including the Portuguese phrase 'Não adianta chorar sobre o leite derramado,' showing that spilled-milk sorrow is a truly universal experience."
     },
     {
       "name": "International Day of Women and Girls in Science",
-      "description": "A UN observance celebrating the role of women and girls in science and technology fields.",
-      "origin": "Established by the United Nations in 2015 to promote gender equality in STEM.",
-      "category": "Awareness/Education",
+      "description": "A United Nations observance that celebrates the achievements of women and girls in science, technology, engineering, and math, and pushes for equal access and participation in these fields.",
+      "origin": "The UN General Assembly established it in December 2015 to promote full and equal access to science for women and girls. It is observed every year on February 11.",
+      "category": "Awareness Day",
       "emoji": "🔬",
-      "funFact": "Despite growing participation, women still make up less than 30% of researchers worldwide—even with this empowering day!"
+      "funFact": "Marie Curie remains the only person to have won Nobel Prizes in two different scientific fields, Physics in 1903 and Chemistry in 1911."
     },
     {
-      "name": "National Clean Out Your Refrigerator Day",
-      "description": "An odd but strangely satisfying day encouraging people to clean and organize their fridges.",
-      "origin": "Created by household tips enthusiasts and promoted on social media to encourage food safety and reduce waste.",
-      "category": "Household/Organizational",
-      "emoji": "🧹",
-      "funFact": "Cleaning out your fridge can reduce food waste and even save money—plus the bonus of discovering expired mystery items!"
+      "name": "Inventors' Day",
+      "description": "A tinkerer's holiday honoring inventors, gadget-makers, and everyday people who dream up clever solutions. It is celebrated by brainstorming, building, or simply appreciating the gizmos around you.",
+      "origin": "In the US, Inventors' Day is observed on February 11, the birthday of Thomas Edison, who was born in 1847 in Milan, Ohio. The date was chosen to honor his legacy of invention and persistence.",
+      "category": "Pop Culture & History",
+      "emoji": "💡",
+      "funFact": "Thomas Edison held 1,093 US patents, and he reportedly said that genius is one percent inspiration and ninety-nine percent perspiration."
     }
   ]
 }

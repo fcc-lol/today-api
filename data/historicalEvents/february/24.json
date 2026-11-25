@@ -2,39 +2,39 @@
   "date": "February 24",
   "events": [
     {
-      "year": 1525,
-      "title": "Battle of Pavia",
-      "description": "The Battle of Pavia took place during the Italian Wars, where Imperial forces led by Charles V defeated the French army, capturing King Francis I of France.",
-      "category": "Military",
-      "significance": "This battle marked a decisive shift in power in Italy and solidified Habsburg dominance in Europe."
-    },
-    {
       "year": 1582,
-      "title": "Pope Gregory XIII Announces the Gregorian Calendar",
-      "description": "Pope Gregory XIII issued a papal bull that introduced the Gregorian calendar, reforming the Julian calendar to correct for inaccuracies in the calculation of leap years and the calendar year length.",
-      "category": "Cultural/Religious",
-      "significance": "The Gregorian calendar became the internationally accepted civil calendar and remains in use today."
+      "title": "Pope Gregory XIII Issues Inter gravissimas",
+      "description": "Pope Gregory XIII promulgated the papal bull Inter gravissimas, which reformed the Julian calendar and introduced the Gregorian calendar. The reform dropped 10 days to realign the calendar with the solar year and adjusted the leap year rules.",
+      "category": "Science and Religion",
+      "significance": "The Gregorian calendar became the most widely used civil calendar in the world, standardizing timekeeping and the calculation of Easter."
     },
     {
-      "year": 1868,
-      "title": "The Meiji Restoration Begins",
-      "description": "Emperor Meiji was restored to power in Japan, ending the Tokugawa shogunate.",
-      "category": "Political",
-      "significance": "This event marked the beginning of Japan's rapid modernization and westernization."
+      "year": 1803,
+      "title": "Marbury v. Madison Decided",
+      "description": "The U.S. Supreme Court, led by Chief Justice John Marshall, ruled in Marbury v. Madison that a section of the Judiciary Act of 1789 was unconstitutional. The decision established the principle that courts can strike down laws that conflict with the Constitution.",
+      "category": "Law and Politics",
+      "significance": "It established judicial review in the United States, a cornerstone of American constitutional law and the separation of powers."
     },
     {
-      "year": 1917,
-      "title": "February Revolution Begins in Russia",
-      "description": "Strikes and protests in Petrograd erupted, marking the beginning of the February Revolution which eventually led to the abdication of Tsar Nicholas II.",
-      "category": "Political",
-      "significance": "This revolution led to the fall of the Russian monarchy and paved the way for the rise of the Soviet Union."
+      "year": 1955,
+      "title": "Birth of Steve Jobs",
+      "description": "Steve Jobs was born in San Francisco, California. He went on to co-found Apple Inc., lead Pixar Animation Studios, and oversee products such as the Macintosh, iPod, iPhone, and iPad.",
+      "category": "Birth",
+      "significance": "Jobs transformed personal computing, music, mobile communications, and animation, and became one of the most influential figures in modern technology and design."
     },
     {
-      "year": 1986,
-      "title": "People Power Revolution in the Philippines",
-      "description": "Ferdinand Marcos fled the Philippines after 20 years in power, ending his dictatorship and restoring democracy under Corazon Aquino.",
-      "category": "Political",
-      "significance": "The revolution became a model for peaceful demonstrations effecting political change worldwide."
+      "year": 1848,
+      "title": "Abdication of King Louis-Philippe of France",
+      "description": "Amid the February Revolution in Paris, King Louis-Philippe abdicated and fled to England. The Second Republic was proclaimed shortly afterward.",
+      "category": "Politics and Revolution",
+      "significance": "The event ended the July Monarchy, sparked a wave of revolutions across Europe in 1848, and led to Louis-Napoleon Bonaparte's eventual rise to power."
+    },
+    {
+      "year": 2022,
+      "title": "Russia Launches Full-Scale Invasion of Ukraine",
+      "description": "Russian forces began a large-scale military invasion of Ukraine, attacking from the north, east, and south, including strikes on Kyiv and other major cities.",
+      "category": "War and Conflict",
+      "significance": "It became the largest military conflict in Europe since World War II, triggering a major refugee crisis, sweeping international sanctions, and a realignment of European security policy."
     }
   ]
 }

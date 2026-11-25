@@ -2,39 +2,39 @@
   "date": "April 16",
   "events": [
     {
-      "year": 73,
-      "title": "Fall of Masada",
-      "description": "The Roman Empire captures the fortress of Masada in present-day Israel after a lengthy siege, marking the end of the First Jewish–Roman War.",
-      "category": "Military/Ancient History",
-      "significance": "This event symbolizes Jewish resistance and has become a significant cultural and historical symbol in Jewish history."
-    },
-    {
       "year": 1746,
       "title": "Battle of Culloden",
-      "description": "The Battle of Culloden takes place in Scotland, where British government forces defeat the Jacobite uprising led by Charles Edward Stuart (Bonnie Prince Charlie).",
-      "category": "Military/European History",
-      "significance": "This battle effectively ends the Jacobite rising of 1745 and leads to the consolidation of British control over Scotland."
+      "description": "The Jacobite army of Charles Edward Stuart was decisively defeated near Inverness, Scotland, by government forces led by the Duke of Cumberland. The battle lasted less than an hour and was the last pitched battle fought on British soil.",
+      "category": "Military",
+      "significance": "It ended the Jacobite risings and the Stuart claim to the British throne, and led to the suppression of the Highland clan system and traditional Gaelic culture."
+    },
+    {
+      "year": 1853,
+      "title": "First Passenger Train in India",
+      "description": "The first passenger railway in India ran 34 kilometres from Bori Bunder in Bombay to Thane, carrying about 400 guests in 14 carriages hauled by three locomotives.",
+      "category": "Transportation",
+      "significance": "It marked the start of the Indian railway network, which became one of the largest in the world and transformed the country's economy and mobility."
     },
     {
       "year": 1912,
-      "title": "Titanic Sets Sail",
-      "description": "The RMS Titanic departs Southampton, England, on its maiden voyage towards New York City.",
-      "category": "Maritime History",
-      "significance": "The Titanic would famously sink on April 15, 1912, after hitting an iceberg, becoming one of the deadliest peacetime maritime disasters."
+      "title": "Harriet Quimby Flies the English Channel",
+      "description": "American aviator Harriet Quimby became the first woman to pilot an aircraft solo across the English Channel, flying from Dover to Calais in a Blériot monoplane.",
+      "category": "Aviation",
+      "significance": "Her flight was a landmark for women in aviation, though news coverage was overshadowed by the Titanic sinking the day before."
     },
     {
-      "year": 1943,
-      "title": "Sicilian Mafia Arrests",
-      "description": "In a major crackdown, the Italian police arrest key members of the Sicilian Mafia, signaling aggressive attempts to weaken organized crime during World War II.",
-      "category": "Crime/World War II",
-      "significance": "This marked an important development in combating organized crime in Italy during a tumultuous period."
+      "year": 1963,
+      "title": "Martin Luther King Jr. Writes 'Letter from Birmingham Jail'",
+      "description": "While jailed for taking part in nonviolent protests against segregation in Birmingham, Alabama, King wrote an open letter answering eight white clergymen who had criticized the demonstrations as unwise and untimely.",
+      "category": "Civil Rights",
+      "significance": "The letter became one of the most influential statements of the civil rights movement, defending nonviolent civil disobedience and the moral duty to oppose unjust laws."
     },
     {
-      "year": 2007,
-      "title": "Virginia Tech Shooting",
-      "description": "One of the deadliest school shootings in U.S. history occurs at Virginia Tech University, where a gunman kills 32 people before taking his own life.",
-      "category": "Modern History/Crime",
-      "significance": "The tragedy sparked nationwide debates about gun control, campus safety, and mental health awareness."
+      "year": 1947,
+      "title": "Texas City Disaster",
+      "description": "The cargo ship SS Grandcamp, loaded with ammonium nitrate fertilizer, exploded in the port of Texas City, Texas, setting off chain-reaction fires and further explosions that killed at least 581 people.",
+      "category": "Disaster",
+      "significance": "It remains the deadliest industrial accident in United States history and led to major reforms in the handling and regulation of hazardous materials and in disaster response."
     }
   ]
 }

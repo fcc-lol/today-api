@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Tortilla Chip Day",
-      "description": "A crunchy celebration honoring the delicious, salty snack that turns just about any dip into a fiesta!",
-      "origin": "This unofficial food holiday celebrates the tortilla chip, which originated in Mexico and became popular in the United States during the 20th century.",
-      "category": "Food",
-      "emoji": "� tortilla chip emoji not available but here is a taco 🌮",
-      "funFact": "Did you know tortilla chips were allegedly invented by Rebecca Webb Carranza in the 1940s when she decided to fry leftover tortillas for her husband's restaurant customers?"
+      "description": "A crunchy celebration of the triangular snack that makes salsa, guacamole, and queso possible. Fans mark the day by dipping, crunching, and debating the ideal chip-to-dip ratio.",
+      "origin": "The tortilla chip is widely credited to Rebecca Webb Carranza, who ran a Los Angeles tortilla factory in the late 1940s and began selling bags of misshapen tortilla scraps that had been fried. The commemorative day is an informal food observance popularized through food-holiday calendars.",
+      "category": "Food Day",
+      "emoji": "🌮",
+      "funFact": "Rebecca Webb Carranza's family business, El Zarape Tortilla Factory, reportedly sold the chips for about a dime a bag, and her scrap-saving idea helped popularize the snack across the U.S."
     },
     {
       "name": "World Bartender Day",
-      "description": "A day to tip your hat and your glass to the bartenders mixing magic behind the bar.",
-      "origin": "Started in 2009 by the International Bartenders Association to recognize and celebrate bartenders worldwide.",
-      "category": "Professional Appreciation",
+      "description": "A toast to the people who pour, shake, stir, and listen to your life stories at the bar. Patrons are encouraged to tip well, order something creative, and appreciate the craft of mixology.",
+      "origin": "It is an informal industry observance that grew out of the modern cocktail and hospitality community, aimed at recognizing the skill and hard work behind the bar.",
+      "category": "Occupation Appreciation",
       "emoji": "🍸",
-      "funFact": "The longest recorded bar "
+      "funFact": "Professional bartenders sometimes train to pour precise measures by counting in their heads, and flair competitions have bartenders juggling bottles and shakers like circus performers."
     },
     {
-      "name": "Rare Disease Day (February 24 in some years)",
-      "description": "Raising awareness for the millions of people worldwide affected by rare diseases, often overlooked by medical research.",
-      "origin": "Established in 2008 by EURORDIS, the European rare disease organization, observed on the last day of February unless in leap years falling on the 24th.",
-      "category": "Awareness",
-      "emoji": "🎗️",
-      "funFact": "Despite being individually rare, there are over 7,000 known rare diseases affecting approximately 400 million people globally."
+      "name": "National Skip the Straw Day",
+      "description": "A day for sipping directly from the glass and giving single-use plastic straws a break. It encourages people to rethink small habits that add up to a lot of waste.",
+      "origin": "The observance arose from the broader anti-plastic movement of the 2010s, which gained momentum after viral awareness campaigns about plastic straws and marine pollution.",
+      "category": "Awareness Day",
+      "emoji": "🥤",
+      "funFact": "Drinking straws date back thousands of years, and the ancient Sumerians reportedly used gold and lapis lazuli straws to sip beer."
     },
     {
-      "name": "National Tortellini Day",
-      "description": "An ode to the tiny ring-shaped pasta stuffed with savory fillings that is a staple in Italian cuisine.",
-      "origin": "An unofficial food holiday celebrating tortellini, inspired by its Italian culinary heritage dating back to the Middle Ages.",
-      "category": "Food",
-      "emoji": "🍝",
-      "funFact": "Legend has it tortellini was inspired by the shape of Venus’s navel, according to folklore from the Emilia-Romagna region of Italy."
+      "name": "Flag Day in Mexico (Día de la Bandera)",
+      "description": "A patriotic celebration in which Mexicans honor their green, white, and red flag with ceremonies, parades in schools, and salutes to the national eagle emblem.",
+      "origin": "The day was established in 1937 by President Lázaro Cárdenas. It commemorates the Plan of Iguala, which was proclaimed in 1821 and introduced the tricolor design during the Mexican War of Independence.",
+      "category": "National Holiday",
+      "emoji": "🇲🇽",
+      "funFact": "The Mexican flag features an eagle perched on a cactus devouring a snake, referencing the Aztec legend of the founding of Tenochtitlan."
+    },
+    {
+      "name": "Estonian Independence Day",
+      "description": "A national celebration featuring concerts, military parades, flag-raisings, and a presidential reception for guests dressed in their finest, marking Estonia's declaration of independence.",
+      "origin": "Estonia declared independence from Russia on February 24, 1918, a day before German forces arrived, and the date has been commemorated as the nation's birthday ever since.",
+      "category": "National Holiday",
+      "emoji": "🇪🇪",
+      "funFact": "Estonia is known as one of the most digitally advanced countries in the world and pioneered e-residency, letting people around the globe start a business there online."
     }
   ]
 }

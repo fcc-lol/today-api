@@ -2,56 +2,59 @@
   "date": "March 23",
   "plants": [
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A spring-flowering bulb producing bright yellow trumpet-shaped flowers. Often found in woodlands and meadows, heralding the early spring in temperate climates.",
-      "bloomingSeason": "February to April",
-      "location": "Europe, particularly UK and Western Europe",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful deciduous tree that produces clouds of delicate, fragrant blossoms before its leaves emerge. It is the most celebrated cherry blossom cultivar and a centerpiece of spring festivals, planted widely in parks and along rivers and avenues.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of the Northern Hemisphere",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Wild daffodils have inspired numerous cultural festivals in spring across Europe and are often considered symbols of rebirth and new beginnings."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Deciduous trees with stunning clusters of pale pink to white flowers that bloom profusely in early spring, celebrated for their spectacular ornamental display.",
-      "bloomingSeason": "March to April",
-      "location": "East Asia (Japan, Korea, China) and cultivated worldwide in temperate regions",
-      "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The cherry blossom is a national symbol of Japan, celebrated during Hanami festivals where people gather to admire these fleeting blooms."
+      "funFact": "The Yoshino cherry trees around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An evergreen tree native to eastern Australia with bright orange to red spider-like flowers, blooming in late summer to early autumn but often earlier in warmer regions like Queensland.",
-      "bloomingSeason": "March to May",
-      "location": "Australia (Eastern coast, Queensland, New South Wales)",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and slender blue-green leaves. It thrives in meadows, woodlands, and gardens, and is one of the most recognizable heralds of spring in temperate Europe.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, especially England, Wales, France, and Spain; widely naturalized in North America",
       "colors": [
-        "orange",
-        "red"
+        "yellow",
+        "pale yellow",
+        "cream"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, the Silky Oak is not a true oak but belongs to the Proteaceae family and is valued for both ornament and timber."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain toxic alkaloids, but one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
       "name": "Magnolia × soulangeana",
       "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous magnolia tree producing large, fragrant, tulip-shaped flowers ranging from white to deep pink, often one of the first substantial blooms of spring in temperate gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated widely in temperate regions worldwide",
+      "description": "A small deciduous tree or large shrub bearing large, tulip-shaped goblet flowers on bare branches in early spring. It is a popular ornamental in gardens and streets across mild temperate climates.",
+      "bloomingSeason": "Early to mid spring (March to April)",
+      "location": "Cultivated across the southeastern United States, the United Kingdom, Europe, and Australia",
       "colors": [
-        "white",
         "pink",
-        "deep pink"
+        "white",
+        "purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Saucer magnolia flowers often bloom before the leaves emerge, creating a striking floral display that lasts only a few weeks in early spring."
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the most ancient flowering plants, having evolved before bees existed, and their flowers are thought to have been pollinated by beetles."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Though named for autumn, a close relative group in the Southern Hemisphere and autumn-flowering bulbs such as Sternbergia and Zephyranthes bloom now as the season turns there. Colchicum bears goblet-shaped lilac flowers that emerge directly from the ground without leaves.",
+      "bloomingSeason": "Autumn in the Northern Hemisphere; March flowering for Southern Hemisphere cultivated plantings with autumn bloom",
+      "location": "Cultivated in South Africa, Australia, and New Zealand; native to Europe",
+      "colors": [
+        "lilac",
+        "pink",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and in plant breeding to double chromosome numbers."
     }
   ]
 }

@@ -2,56 +2,60 @@
   "date": "February 17",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial flowering plant known for its early spring blooms that often emerge through the snow. It features cup-shaped flowers with bright colors.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions of Europe and Western Asia",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is widely cultivated in Japan, China, and Korea, and its flowers are a traditional symbol of perseverance and the coming of spring.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "East Asia (Japan, China, Korea); cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocus flowers are some of the first signs of spring, sometimes blooming as early as February, and they're related to the saffron crocus used as a spice."
+      "funFact": "Ume blossoms are celebrated in Japan with ume matsuri festivals, and the fruit is pickled to make umeboshi and also used to make plum wine."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It pushes up through frost and snow in woodlands and gardens, and often forms large carpets in naturalized areas.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "🤍",
+      "funFact": "Snowdrops produce a compound called galantamine, which is used in medicine to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the Protea genus, made up of a central cone surrounded by showy pink bracts. It thrives in the fynbos vegetation of the Cape region, where it is adapted to nutrient-poor soils and periodic fires.",
+      "bloomingSeason": "Late summer to early spring in the Southern Hemisphere, with peak bloom in spring and some flowering in February",
+      "location": "Southwestern and southern South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "silvery-white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and its thick underground stem lets it resprout after fires."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub celebrated for its large, showy flowers that bloom in late winter to early spring. Its lush foliage and striking blooms are popular in gardens.",
-      "bloomingSeason": "December to April",
-      "location": "East Asia (Japan, China, Korea) and cultivated worldwide in mild climates",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers that bloom in the cooler months. It is a favorite in the gardens of the southeastern United States, Japan, and the mild maritime climates of Europe and the Pacific Northwest.",
+      "bloomingSeason": "Winter to early spring (December to April)",
+      "location": "Japan, Korea, and China; widely cultivated in the southeastern USA, Europe, and Australia",
       "colors": [
-        "pink",
         "red",
-        "white"
+        "pink",
+        "white",
+        "variegated"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellias were introduced to Europe in the 18th century and have since become beloved ornamental plants, symbolizing admiration and perfection."
-    },
-    {
-      "name": "Mahonia aquifolium",
-      "commonName": "Oregon Grape",
-      "description": "A hardy evergreen shrub with holly-like leaves and clusters of bright yellow flowers appearing in late winter, followed by blue-black berries.",
-      "bloomingSeason": "February to April",
-      "location": "Pacific Northwest, North America",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Oregon grape is the state flower of Oregon and its berries are edible, often used to make jelly."
-    },
-    {
-      "name": "Mimosa pudica",
-      "commonName": "Sensitive Plant",
-      "description": "A tropical plant famous for its delicate pink spherical flowers and leaves that fold inward when touched or shaken.",
-      "bloomingSeason": "December to March in tropical climates",
-      "location": "Native to South America, grown in tropical and subtropical regions worldwide",
-      "colors": [
-        "pink"
-      ],
-      "emoji": "🎋",
-      "funFact": "Its rapid leaf movement is a defense mechanism to deter herbivores and minimize damage from environmental stress."
+      "emoji": "🌹",
+      "funFact": "Camellia japonica is related to Camellia sinensis, the plant that gives us tea, and there are thousands of registered cultivars."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "March 3",
   "holidays": [
     {
-      "name": "If Pets Had Thumbs Day",
-      "description": "A whimsical day to imagine what our pets would do if they had opposable thumbs.",
-      "origin": "Started by pet enthusiasts and social media users as a fun way to celebrate the cleverness of animals, this unofficial holiday inspires hilarious memes and creative photos.",
-      "category": "Humor/Animal Appreciation",
-      "emoji": "🐾👍",
-      "funFact": "Though cats and dogs can’t hold thumbs, many use their paws in impressively dexterous ways—like opening doors or keyboards!"
+      "name": "National Cold Cuts Day",
+      "description": "A salute to sliced deli meats and the sandwiches they fill. Pile your rye high with turkey, ham, salami, and bologna, and consider it a patriotic duty.",
+      "origin": "This is an unofficial American food day. Its origins are murky, but it is widely listed on food holiday calendars and is mostly promoted by deli fans and food brands.",
+      "category": "Food Day",
+      "emoji": "🥪",
+      "funFact": "Bologna, a classic cold cut, takes its name from the Italian city of Bologna, whose famous mortadella was the inspiration for the American version."
     },
     {
       "name": "World Wildlife Day",
-      "description": "A day dedicated to celebrating and raising awareness of the world's wild animals and plants.",
-      "origin": "Declared by the United Nations to be observed every March 3rd, honoring the date of the adoption of the CITES treaty in 1973.",
-      "category": "Environmental Awareness",
-      "emoji": "🦁🌿",
-      "funFact": "The day helps highlight endangered species and encourages global efforts to protect biodiversity."
+      "description": "A global day to celebrate the planet's wild animals and plants and to raise awareness about the threats they face. Expect everything from pandas to pangolins to get their moment in the spotlight.",
+      "origin": "The United Nations General Assembly proclaimed it in 2013. March 3 was chosen because it is the anniversary of the signing of CITES, the Convention on International Trade in Endangered Species, in 1973.",
+      "category": "Awareness Day",
+      "emoji": "🐼",
+      "funFact": "Each year has a theme, and the day is one of the most widely observed UN international days, with events held in countries around the world."
     },
     {
-      "name": "National Mulled Wine Day (UK)",
-      "description": "A cozy celebration of warm, spiced mulled wine, perfect for chilly March evenings.",
-      "origin": "Emerging from British food culture, this day celebrates the traditional winter beverage that lingers into early spring.",
-      "category": "Food & Drink",
-      "emoji": "🍷✨",
-      "funFact": "Mulled wine recipes often date back to medieval times, combining wine with spices like cinnamon, cloves, and nutmeg for a taste of history."
+      "name": "World Hearing Day",
+      "description": "A day to promote ear health and prevent hearing loss. It is a good excuse to turn down your headphones and get your ears checked.",
+      "origin": "The World Health Organization launched it in 2007 as International Ear Care Day and later renamed it World Hearing Day. The date is written 3/3, which is said to resemble two ears.",
+      "category": "Awareness Day",
+      "emoji": "👂",
+      "funFact": "The WHO estimates that over a billion young people are at risk of hearing loss from unsafe listening habits like loud music through earbuds."
     },
     {
-      "name": "National Anthem Day (USA)",
-      "description": "Commemorates the adoption of the US national anthem, 'The Star-Spangled Banner' in 1931 on March 3rd.",
-      "origin": "Officially recognized in 1931 by the US Congress to honor the patriotic song written during the War of 1812.",
-      "category": "Patriotic Celebration",
-      "emoji": "🇺🇸🎶",
-      "funFact": "The anthem was originally a poem titled 'Defence of Fort M'Henry' written by Francis Scott Key in 1814."
+      "name": "Hinamatsuri (Girls' Day / Doll Festival)",
+      "description": "A Japanese festival where families display elaborate tiered platforms of ornamental dolls dressed in ancient imperial court costumes, and enjoy sweet treats like hishimochi and chirashi sushi.",
+      "origin": "It grew out of ancient Heian-period Chinese-influenced purification rituals, in which paper dolls were thought to carry away bad spirits and misfortune. It evolved into the doll display tradition during the Edo period.",
+      "category": "Cultural Festival",
+      "emoji": "🎎",
+      "funFact": "Superstition says that if the dolls are not put away promptly after the festival, the daughter of the house will marry late."
+    },
+    {
+      "name": "I Want You to Be Happy Day",
+      "description": "A cheerful day for spreading happiness to others. You are encouraged to wish well for the people around you and do something kind to brighten their day.",
+      "origin": "It is an unofficial observance, widely listed on novelty holiday calendars, designed to encourage people to focus on the happiness of others rather than their own.",
+      "category": "Feel-Good Observance",
+      "emoji": "😊",
+      "funFact": "Psychologists have found that doing kind things for others often boosts the giver's own happiness as much as the receiver's."
     }
   ]
 }

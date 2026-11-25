@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1865,
-      "title": "Assassination of President Abraham Lincoln",
-      "description": "President Abraham Lincoln was shot by John Wilkes Booth at Ford's Theatre in Washington, D.C.",
-      "category": "Political",
-      "significance": "Marked the first assassination of a U.S. president and had a profound impact on the nation during the Reconstruction era."
+      "title": "Assassination of Abraham Lincoln",
+      "description": "President Abraham Lincoln was shot by John Wilkes Booth while attending a performance of Our American Cousin at Ford's Theatre in Washington, D.C. He died the following morning, April 15.",
+      "category": "Politics",
+      "significance": "Lincoln's death, days after the Confederate surrender at Appomattox, was the first assassination of a U.S. president and profoundly shaped Reconstruction and the post-Civil War nation."
     },
     {
       "year": 1912,
       "title": "RMS Titanic Strikes an Iceberg",
-      "description": "The RMS Titanic collided with an iceberg during its maiden voyage, leading to the sinking of the ship.",
-      "category": "Maritime Disaster",
-      "significance": "Resulted in the deaths of over 1,500 passengers and crew, leading to major reforms in maritime safety regulations."
+      "description": "At 11:40 p.m. ship's time, the British ocean liner RMS Titanic struck an iceberg in the North Atlantic on her maiden voyage from Southampton to New York. She sank in the early hours of April 15, with more than 1,500 lives lost.",
+      "category": "Disaster",
+      "significance": "The tragedy led to major reforms in maritime safety, including the International Convention for the Safety of Life at Sea, requirements for sufficient lifeboats, and continuous radio watch."
     },
     {
-      "year": 1939,
-      "title": "Death of Sigmund Freud",
-      "description": "Sigmund Freud, the father of psychoanalysis, passed away in London, England.",
-      "category": "Deaths",
-      "significance": "Marked the loss of a pioneering figure in psychology whose theories shaped modern mental health practice."
+      "year": 1828,
+      "title": "Noah Webster Publishes the American Dictionary of the English Language",
+      "description": "Noah Webster published his landmark two-volume dictionary containing about 70,000 entries, with distinctly American spellings and usages.",
+      "category": "Culture",
+      "significance": "The dictionary helped standardize American English and established the Webster name as a lasting authority on language."
     },
     {
-      "year": 1986,
-      "title": "United States Bombs Libya",
-      "description": "In retaliation for terrorist attacks, the U.S. conducted airstrikes against targets in Libya during Operation El Dorado Canyon.",
-      "category": "Military",
-      "significance": "Heightened tensions during the Cold War era and drew international attention to state-sponsored terrorism."
+      "year": 1935,
+      "title": "Black Sunday Dust Storm",
+      "description": "A massive dust storm swept across the Great Plains of the United States, carrying topsoil in huge black clouds over Oklahoma, Texas, Kansas, and neighboring states during the Dust Bowl.",
+      "category": "Environment",
+      "significance": "Black Sunday became a symbol of the Dust Bowl disaster, drawing national attention to soil erosion and leading to federal soil conservation efforts."
+    },
+    {
+      "year": 1990,
+      "title": "Prime Minister Hun Sen era milestone: Not applicable",
+      "description": "Replaced entry placeholder: On this date in 1894, Kinetoscope parlors opened to the public; the first commercial showing of Edison's motion picture device took place at 1155 Broadway, New York City.",
+      "category": "Technology",
+      "significance": "The public Kinetoscope exhibition marked an early step in the commercialization of motion pictures and the birth of the film industry."
     }
   ]
 }

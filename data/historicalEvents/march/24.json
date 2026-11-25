@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1603,
-      "title": "Union of the Crowns",
-      "description": "James VI of Scotland also becomes James I of England and Ireland, uniting the crowns of the three kingdoms under a single monarch for the first time.",
-      "category": "Political",
-      "significance": "This event marked the beginning of a personal union between Scotland, England, and Ireland, which eventually led to the formation of the United Kingdom."
+      "title": "Union of the Crowns: James VI of Scotland Becomes James I of England",
+      "description": "Queen Elizabeth I of England died in the early hours of March 24, 1603, and James VI of Scotland, her cousin's son, was proclaimed her successor as James I of England and Ireland, bringing the thrones of England and Scotland under one monarch.",
+      "category": "Politics",
+      "significance": "Marked the beginning of the personal union of the Scottish and English crowns, a key step toward the eventual formation of Great Britain and the end of the Tudor dynasty."
     },
     {
       "year": 1882,
-      "title": "Robert Koch announces discovery of the tuberculosis bacillus",
-      "description": "Robert Koch presents his discovery of Mycobacterium tuberculosis, the bacterium that causes tuberculosis.",
-      "category": "Scientific",
-      "significance": "This discovery was crucial in understanding and combating tuberculosis, a devastating disease at the time."
+      "title": "Robert Koch Announces the Discovery of the Tuberculosis Bacterium",
+      "description": "German physician Robert Koch presented his discovery of Mycobacterium tuberculosis, the bacterium that causes tuberculosis, to the Berlin Physiological Society.",
+      "category": "Science and Medicine",
+      "significance": "The discovery enabled the diagnosis and later treatment of a leading cause of death in the 19th century and earned Koch the 1905 Nobel Prize in Physiology or Medicine. World Tuberculosis Day is observed on this date to commemorate it."
     },
     {
-      "year": 1976,
-      "title": "Tupolev Tu-144 crashes at the Paris Air Show",
-      "description": "The Soviet supersonic airliner crashes while attempting a demonstration flight, leading to the death of six people.",
-      "category": "Aviation Accident",
-      "significance": "The crash highlighted the risks associated with supersonic passenger aircraft development and impacted the Soviet aviation program."
+      "year": 1944,
+      "title": "The Great Escape from Stalag Luft III",
+      "description": "On the night of March 24-25, 1944, 76 Allied prisoners of war escaped through a tunnel from the German camp Stalag Luft III. Most were recaptured, and 50 were executed on Hitler's orders.",
+      "category": "War",
+      "significance": "The escape became one of the most famous prisoner-of-war breakouts of World War II and was later dramatized in the 1963 film The Great Escape. The executions were prosecuted as war crimes after the war."
+    },
+    {
+      "year": 1980,
+      "title": "Assassination of Archbishop Óscar Romero",
+      "description": "Salvadoran Archbishop Óscar Romero was shot dead while celebrating Mass in San Salvador, a day after he had called on soldiers to stop obeying orders to repress and kill civilians.",
+      "category": "Politics and Human Rights",
+      "significance": "His killing intensified the tensions that led to the Salvadoran Civil War. Romero became a symbol of resistance to oppression and was canonized by Pope Francis in 2018."
     },
     {
       "year": 1989,
-      "title": "Exxon Valdez oil spill",
-      "description": "The oil tanker Exxon Valdez runs aground in Prince William Sound, Alaska, spilling millions of gallons of crude oil into the environment.",
-      "category": "Environmental Disaster",
-      "significance": "One of the worst oil spills in U.S. history, it led to major changes in environmental policy and oil transportation regulations."
+      "title": "Exxon Valdez Oil Spill",
+      "description": "The tanker Exxon Valdez ran aground on Bligh Reef in Prince William Sound, Alaska, spilling roughly 11 million gallons of crude oil.",
+      "category": "Environment",
+      "significance": "One of the largest oil spills in U.S. history, it devastated wildlife and local fishing communities and led to the Oil Pollution Act of 1990, strengthening spill prevention and response regulation."
     }
   ]
 }

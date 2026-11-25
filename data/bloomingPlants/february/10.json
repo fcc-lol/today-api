@@ -2,56 +2,60 @@
   "date": "February 10",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small bulbous perennial known for its early bloom in late winter to early spring. It features cup-shaped flowers that emerge from the ground when snow is still present in some regions.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Europe, North America (cultivated)",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a classic winter bloomer in gardens across Japan, the southeastern United States, and Europe's Atlantic coast.",
+      "bloomingSeason": "Late autumn to early spring, peaking January to March",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern US, UK, Portugal, and New Zealand",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "red",
+        "pink",
+        "white",
+        "variegated"
       ],
-      "emoji": "🌸",
-      "funFact": "Crocus flowers were historically used to produce saffron spice, though the culinary saffron comes from a different species, Crocus sativus."
+      "emoji": "🌺",
+      "funFact": "Thousands of cultivars exist, and the camellia is closely related to Camellia sinensis, the plant that gives us tea."
     },
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot or Chinese Plum Blossom",
-      "description": "A deciduous tree known for its fragrant early blossoms appearing in winter before the leaves unfold. It holds cultural significance in East Asia as a symbol of resilience and perseverance.",
-      "bloomingSeason": "January to February",
-      "location": "East Asia (China, Japan, Korea)",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree producing fragrant five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is a beloved symbol of perseverance in East Asian culture.",
+      "bloomingSeason": "Late January to March",
+      "location": "Native to southern China; cultivated in Japan, Korea, and Taiwan, and in temperate gardens worldwide",
       "colors": [
+        "white",
         "pink",
-        "white"
+        "deep red"
       ],
-      "emoji": "🌺",
-      "funFact": "Plum blossoms are celebrated in traditional festivals in Japan and China, often representing hope and renewal."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms appear weeks before cherry blossoms, and in Japan ume viewing parties are a long-standing tradition that predates hanami."
     },
     {
-      "name": "Daphne mezereum",
-      "commonName": "February Daphne",
-      "description": "A small deciduous shrub with intensely fragrant, pink to purple flowers appearing in late winter before the leaves develop. It is often a source of early nectar for pollinators.",
-      "bloomingSeason": "February to March",
-      "location": "Europe and western Asia",
+      "name": "Galanthus nivalis",
+      "commonName": "Snowdrop",
+      "description": "A small bulbous perennial with drooping white bell-shaped flowers marked with green on the inner petals. It often pushes up through frost and snow, carpeting woodlands and gardens in late winter.",
+      "bloomingSeason": "Late January to March",
+      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and temperate gardens",
       "colors": [
-        "pink",
-        "purple"
+        "white",
+        "green"
       ],
-      "emoji": "💐",
-      "funFact": "Despite its beauty and fragrance, all parts of Daphne mezereum are toxic if ingested."
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of mild to moderate Alzheimer's disease."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree that flowers in the southern hemisphere's late summer through winter, producing bright yellow flower spikes that attract birds and insects.",
-      "bloomingSeason": "December to February",
-      "location": "Eastern Australia",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "Large spreading tree with fern-like leaves and an umbrella-shaped crown. In the Southern Hemisphere summer, it is covered with brilliant clusters of flowers, followed by long woody seed pods.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the tropics in the dry season",
+      "location": "Native to Madagascar; widely planted in Australia, Brazil, South Africa, and tropical regions worldwide",
       "colors": [
-        "yellow"
+        "scarlet",
+        "orange",
+        "red"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksias have woody flower spikes that develop into seed cones, and they are important for Australian ecosystems."
+      "emoji": "🌳",
+      "funFact": "Despite being widely planted across the tropics, the royal poinciana is endangered in its native Madagascar."
     }
   ]
 }

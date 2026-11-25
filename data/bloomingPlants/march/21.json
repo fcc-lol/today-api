@@ -2,55 +2,58 @@
   "date": "March 21",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning springtime display of pale pink to white flowers that herald the arrival of spring in Japan and parts of temperate climates worldwide.",
-      "bloomingSeason": "Late March to Early April",
-      "location": "Japan, Temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous tree that produces abundant clusters of delicate, fragrant, five-petaled blossoms before its leaves emerge, creating a cloud-like canopy of pale flowers. It is the most famous ornamental cherry in Japan and is widely planted in parks and along rivers.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions of the Northern Hemisphere",
       "colors": [
-        "Pink",
-        "White"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Japanese Cherry Blossoms (Sakura) have inspired centuries of art and poetry in Japan, symbolizing the fleeting nature of life."
+      "funFact": "The Yoshino cherry is the centerpiece of Japan's hanami tradition, and the Japan Meteorological Agency publishes an annual 'cherry blossom forecast' tracking the bloom front as it moves northward."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A perennial bulbous plant with trumpet-shaped yellow flowers that emerge early in spring, often found in meadows and woodlands across Europe.",
-      "bloomingSeason": "February to April",
-      "location": "Europe, Mediterranean",
+      "description": "A bulbous perennial with trumpet-shaped golden flowers and paler outer petals, rising above strap-like blue-green leaves. It grows in woodlands and meadows and is the ancestor of many cultivated daffodil varieties.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, especially the United Kingdom, France, and Spain; naturalized in North America",
       "colors": [
-        "Yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild Daffodils were historically used as a spring indicator and are an important food source for early pollinators."
-    },
-    {
-      "name": "Banksia menziesii",
-      "commonName": "Firewood Banksia",
-      "description": "An Australian shrub or small tree with distinctive bright orange cylindrical flower spikes that bloom mainly in late summer to early autumn but can extend into early spring in some regions.",
-      "bloomingSeason": "February to April",
-      "location": "Southwest Australia",
-      "colors": [
-        "Orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Banksias are a vital nectar source for Australian honeyeaters and other wildlife."
+      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, which deter grazing animals, and galantamine from related Narcissus species is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
       "name": "Magnolia × soulangeana",
       "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree with large cup-shaped flowers in shades of white, pink, and purple. It typically blooms in early spring, often before its leaves fully develop.",
+      "description": "A small deciduous tree or large shrub bearing large, goblet-shaped flowers on bare branches in early spring. The blossoms are often tinged with pink or purple at the base and are a hallmark of spring in temperate gardens.",
       "bloomingSeason": "March to April",
-      "location": "Temperate regions worldwide",
+      "location": "Cultivated across temperate Europe, the eastern and western United States, and East Asia",
       "colors": [
         "Pink",
-        "Purple",
-        "White"
+        "White",
+        "Purple"
       ],
-      "emoji": "🏵️",
-      "funFact": "Saucer Magnolias are hybrids between Magnolia denudata and Magnolia liliiflora, prized for their early showy blossoms."
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the most ancient flowering plants, having evolved before bees existed, and their flowers are thought to have been pollinated by beetles."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Despite its name, in the Southern Hemisphere this bulb flowers in autumn, when its goblet-shaped, crocus-like blooms emerge leafless from the ground. Its flowers appear without foliage, which has earned it the nickname 'naked ladies'.",
+      "bloomingSeason": "March to April in the Southern Hemisphere (autumn); September to October in the Northern Hemisphere",
+      "location": "Cultivated in Australia, New Zealand, and South Africa; native to Europe",
+      "colors": [
+        "Pink",
+        "Lilac",
+        "Pale purple"
+      ],
+      "emoji": "💜",
+      "funFact": "This plant is the source of colchicine, a compound used to treat gout and also used by plant breeders to induce chromosome doubling in crops."
     }
   ]
 }

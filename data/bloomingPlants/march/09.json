@@ -2,56 +2,59 @@
   "date": "March 9",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning springtime display of delicate pink or white flowers, signaling the start of spring in many temperate regions.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, Korea, parts of China, and temperate regions worldwide",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before leaves emerge. It is widely cultivated in East Asian gardens and valued for both its ornamental flowers and its fruit, used in pickles and liqueurs.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
+        "White",
         "Pink",
-        "White"
+        "Deep Red"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossom festivals celebrate its fleeting bloom, which typically lasts only one to two weeks."
+      "funFact": "Ume blossoms are celebrated in Japan as heralds of spring, and they bloom earlier than cherry blossoms, sometimes opening amid lingering snow."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial producing bright yellow trumpet-shaped flowers. It often colonizes woodland edges and meadows in early spring.",
-      "bloomingSeason": "Late February to April",
-      "location": "Native to western Europe including the UK, Ireland, Spain, and Portugal",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "The daffodil is associated with renewal and new beginnings and is a symbol used for cancer awareness campaigns."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree with cylindrical flower spikes composed of hundreds of tiny individual flowers, appearing in shades of yellow and orange.",
-      "bloomingSeason": "February to April",
-      "location": "Eastern coastal Australia",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and slender gray-green leaves. It naturalizes in meadows, woodlands, and gardens, and numerous cultivars have been bred from it.",
+      "bloomingSeason": "Late winter to early spring (March to April)",
+      "location": "Western Europe, especially the UK, France, and Spain; naturalized in North America",
       "colors": [
         "Yellow",
-        "Orange"
+        "Pale Yellow",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "Banksias provide nectar and pollen resources crucial for native birds and mammals during late summer to early autumn."
+      "emoji": "🌼",
+      "funFact": "Daffodils contain toxic alkaloids such as galantamine, which has been developed into a medication for Alzheimer's symptoms."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree featuring large, tulip-shaped flowers in shades of pink, purple, and white, often appearing before the leaves fully develop.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated widely in temperate gardens worldwide, originally hybridized in France",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen Australian tree or large shrub that covers itself in fluffy, fragrant golden flower balls. It grows in woodlands and dry forests and is a common sight in southern Australia as winter ends.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October), with some blooming into early autumn in cooler regions",
+      "location": "Southeastern Australia",
       "colors": [
-        "Pink",
-        "White",
-        "Purple"
+        "Golden Yellow"
       ],
-      "emoji": "🌷",
-      "funFact": "Magnolias are among the oldest flowering plants, with fossil records dating back over 95 million years."
+      "emoji": "🌿",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A low-growing cormous perennial with goblet-shaped flowers that emerge in grassy areas, often through melting snow. Crocuses provide an important early nectar and pollen source for bees emerging from winter.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Alps and Pyrenees mountains of Europe; widely cultivated in temperate gardens",
+      "colors": [
+        "Purple",
+        "Lilac",
+        "White",
+        "Striped"
+      ],
+      "emoji": "💜",
+      "funFact": "Although it is a spring bloomer, Crocus vernus is related to Crocus sativus, the source of saffron, which flowers in autumn."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "February 28",
   "holidays": [
     {
-      "name": "National Public Sleeping Day",
-      "description": "A humorous holiday encouraging people to take a nap anywhere they want — on the bus, in a park, or even at the office (if your boss allows!). It celebrates the art of catching some unexpected Zzzs in public.",
-      "origin": "This quirky observance started as an internet meme and social media challenge spreading around the early 2010s, encouraging people to share photos of themselves napping in odd public places.",
-      "category": "Quirky / Lifestyle",
-      "emoji": "😴",
-      "funFact": "In Japan, ‘inemuri’ (sleeping on the job or in public) is actually seen as a sign of diligence rather than laziness!"
-    },
-    {
       "name": "National Chocolate Soufflé Day",
-      "description": "Celebrate the deliciously delicate and airy dessert known as the chocolate soufflé. Perfect day to indulge in some French-inspired baking or enjoy it at a fancy restaurant.",
-      "origin": "Chocolate soufflé has been a French culinary classic since the 18th century, but this food day was created by dessert enthusiasts to honor the soufflé’s magical rise and melt-in-your-mouth texture.",
-      "category": "Food",
+      "description": "A day to celebrate the airy, delicate French dessert that has terrified home cooks for centuries. Bakers are encouraged to whip up a soufflé and hold their breath as it rises, and to avoid slamming the oven door.",
+      "origin": "One of the many unofficial American food observances listed on food holiday calendars. The soufflé itself dates to early 18th-century France, and the name comes from the French word 'souffler,' meaning 'to blow' or 'to puff up.'",
+      "category": "Food Day",
       "emoji": "🍫",
-      "funFact": "The word 'soufflé' comes from the French verb 'souffler,' meaning 'to blow' or 'to puff,' which perfectly describes how the dessert rises!"
+      "funFact": "Traditional kitchen lore says a soufflé can collapse if someone makes a loud noise nearby, which is why French chefs were once said to demand perfect silence while one baked."
     },
     {
-      "name": "Rare Disease Day (sometimes observed on Feb 28)",
-      "description": "A day to raise awareness for rare diseases and advocate for better research, treatment, and support for individuals affected by them. It highlights the challenges faced by people with conditions affecting very few worldwide.",
-      "origin": "Established in 2008 by EURORDIS, a European rare disease alliance, February 28 (or 29 in leap years) was chosen to emphasize rarity — just like the date itself!",
-      "category": "Awareness",
-      "emoji": "🎗️",
-      "funFact": "There are over 7,000 known rare diseases, but only a fraction have approved treatments, which is why awareness days like this are vital."
+      "name": "Public Sleeping Day",
+      "description": "A day dedicated to the art of napping in public places, without shame. Parks, benches, and commuter trains become prime real estate for guilt-free snoozing.",
+      "origin": "An unofficial holiday that gained popularity through online holiday lists. It pokes fun at the idea that sleeping in public is odd, while also nodding to the real need for more rest in a sleep-deprived world.",
+      "category": "Unofficial Fun Holiday",
+      "emoji": "😴",
+      "funFact": "In Japan, sleeping in public is so common that it has its own name, 'inemuri,' which means 'sleeping while present' and is often seen as a sign of hard work."
+    },
+    {
+      "name": "Rare Disease Day (Last Day of February)",
+      "description": "An international awareness day held on the last day of February to raise awareness about rare diseases and improve access to treatment and medical representation for those affected.",
+      "origin": "Launched in Europe in 2008 by EURORDIS, the European Organisation for Rare Diseases. February was chosen because the rarest date, February 29, only occurs in leap years, and on other years the last day of the month is used.",
+      "category": "Awareness Day",
+      "emoji": "🦓",
+      "funFact": "The zebra is the unofficial mascot of rare diseases because of the medical saying 'when you hear hoofbeats, think horses, not zebras,' which reminds doctors that rare conditions can be overlooked."
+    },
+    {
+      "name": "National Tooth Fairy Day",
+      "description": "A day to honor the magical, coin-slipping visitor who swaps lost baby teeth for cash. Kids and parents celebrate by leaving a tooth under a pillow and maybe writing a thank-you note to the fairy.",
+      "origin": "The Tooth Fairy is a folk tradition that grew from older European customs of burying or tossing lost teeth for good luck. The modern American Tooth Fairy figure became widely popular in the early 20th century, and this day celebrates her. Some calendars place the observance on February 28, with another on August 22.",
+      "category": "Folklore & Pop Culture",
+      "emoji": "🧚",
+      "funFact": "Surveys by dental insurers have reported that the average payout per tooth in the U.S. has risen to several dollars in recent years, outpacing inflation in some years."
     },
     {
       "name": "Floral Design Day",
-      "description": "A celebration of the art and creativity involved in designing floral arrangements, encouraging people to appreciate, create, and gift beautiful bouquets.",
-      "origin": "This day originated from floral industry organizations to promote the profession and inspire people to explore floral design as a form of artistic expression.",
-      "category": "Art / Hobby",
+      "description": "A day to appreciate the craft of arranging flowers, from fancy bouquets to a handful of daisies stuck in a jam jar. People are encouraged to make or gift a floral arrangement.",
+      "origin": "Floral Design Day was created in 2012 by Marc Kennedy, an American floral industry figure, to highlight the artistry of floral designers and the work that goes into creating arrangements.",
+      "category": "Arts & Crafts Observance",
       "emoji": "💐",
-      "funFact": "The oldest known floral arrangement dates back to ancient Egyptian tombs, around 2500 BCE, showing humanity's long love affair with flowers."
+      "funFact": "Victorian-era people used 'floriography,' a secret language of flowers, to send coded messages, so a bouquet could deliver either a compliment or a pointed insult."
     }
   ]
 }

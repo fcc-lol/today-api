@@ -2,57 +2,59 @@
   "date": "March 13",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial flowering plant that often emerges through late winter snow, heralding early spring. It produces cup-shaped flowers in vibrant purples, yellows, and whites.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions of Europe and North America",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree producing fragrant five-petaled blossoms on bare branches, often before the leaves emerge. Widely cultivated in East Asia for ornament and fruit, and a key subject in traditional painting and poetry.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocuses are among the first flowers to bloom, sometimes even snow can’t stop them, making them a true symbol of spring's arrival."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its spectacular groups of pale pink to white blossoms that create stunning floral displays in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "East Asia (Japan, Korea, China) and cultivated widely in temperate zones",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Cherry blossoms bloom for only about one to two weeks, and their fleeting beauty is celebrated in festivals such as Japan’s Hanami."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An iconic South African flowering shrub with large, dramatic flower heads resembling a giant artichoke, surrounded by colorful bracts.",
-      "bloomingSeason": "January to March",
-      "location": "South Africa (Fynbos biome)",
-      "colors": [
-        "pink",
-        "red",
-        "cream"
-      ],
-      "emoji": "🪻",
-      "funFact": "The King Protea is the national flower of South Africa and is known for its incredible drought tolerance and unique flower structure."
+      "funFact": "Ume blossoms herald the end of winter in East Asia and bloom before cherry blossoms; the fruit is pickled as umeboshi and used to make plum wine."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial producing bright yellow trumpet-shaped flowers, commonly found blooming in woodlands and meadows in early spring.",
-      "bloomingSeason": "February to April",
-      "location": "Europe, particularly western and central regions",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and slender blue-green leaves. It naturalizes in meadows, woodlands, and grassy banks and is a classic harbinger of spring in the Northern Hemisphere.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
       "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild daffodils have inspired countless spring festivals and poems symbolizing renewal and new beginnings."
+      "funFact": "All parts of the plant contain toxic alkaloids, and galantamine, a compound derived from daffodil-family plants, is used in medication for Alzheimer's disease."
+    },
+    {
+      "name": "Magnolia x soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A large deciduous shrub or small tree with goblet-shaped flowers up to 25 cm across that open on bare branches in early spring. It is a hybrid widely planted in parks and gardens in mild temperate climates.",
+      "bloomingSeason": "Early spring (March to April)",
+      "location": "Cultivated across the southeastern United States, Europe, and East Asia; originated in France",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "This hybrid was created in the 1820s by French army officer Étienne Soulange-Bodin, and magnolias are among the most ancient flowering plant lineages, predating bees."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Naked Lady",
+      "description": "A bulbous perennial that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped pink flowers in late summer to autumn in the Southern Hemisphere. The strap-like leaves appear after flowering.",
+      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere (February to April)",
+      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, and Chile",
+      "colors": [
+        "pink",
+        "rose",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "It is called 'naked lady' because the flower stalks emerge without any leaves, and it is the only species in the genus Amaryllis."
     }
   ]
 }

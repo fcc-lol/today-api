@@ -2,39 +2,39 @@
   "date": "March 15",
   "events": [
     {
-      "year": 44,
+      "year": -44,
       "title": "Assassination of Julius Caesar",
-      "description": "Julius Caesar was assassinated by a group of Roman senators led by Brutus and Cassius on the Ides of March, ending his rule as dictator of Rome.",
-      "category": "Political",
-      "significance": "This event marked a turning point in Roman history, leading to the end of the Roman Republic and the rise of the Roman Empire."
+      "description": "Roman dictator Julius Caesar was stabbed to death by a group of senators led by Marcus Junius Brutus and Gaius Cassius Longinus during a meeting of the Senate on the Ides of March.",
+      "category": "Death/Politics",
+      "significance": "Caesar's assassination triggered a series of civil wars that destroyed the Roman Republic and led to the rise of Augustus and the Roman Empire."
     },
     {
       "year": 1493,
-      "title": "Christopher Columbus Returns to Spain",
-      "description": "After his first voyage across the Atlantic, Christopher Columbus returned to Spain to report his discoveries in the New World to Queen Isabella and King Ferdinand.",
+      "title": "Columbus Returns from His First Voyage",
+      "description": "Christopher Columbus arrived back in Palos de la Frontera, Spain, after his first voyage across the Atlantic, bringing news of lands in the Americas to the Spanish crown.",
       "category": "Exploration",
-      "significance": "Columbus's return paved the way for Spanish colonization of the Americas and changed the course of world history through the Age of Discovery."
+      "significance": "His return opened the era of sustained European contact with the Americas, with profound consequences for global trade, colonization, and the peoples of both hemispheres."
     },
     {
       "year": 1820,
-      "title": "The Missouri Compromise Passed",
-      "description": "The United States Congress passed the Missouri Compromise, admitting Missouri as a slave state and Maine as a free state to maintain the balance of power between slave and free states.",
-      "category": "Legislative",
-      "significance": "The compromise was an early attempt to resolve sectional tensions over slavery, which continued to shape U.S. political conflicts leading up to the Civil War."
+      "title": "Maine Admitted as the 23rd U.S. State",
+      "description": "Maine became the 23rd state of the United States as part of the Missouri Compromise, separating from Massachusetts and entering the Union as a free state.",
+      "category": "Politics",
+      "significance": "The admission balanced the entry of slave-holding Missouri and temporarily preserved the sectional balance between free and slave states in the U.S. Senate."
     },
     {
       "year": 1917,
-      "title": "Tsar Nicholas II Abdicates Russian Throne",
-      "description": "Facing mounting unrest, Tsar Nicholas II abdicated the throne, ending centuries of Romanov dynastic rule in Russia and leading to the Russian Provisional Government.",
-      "category": "Political",
-      "significance": "This event marked a significant moment in the Russian Revolution, eventually leading to the rise of the Soviet Union."
+      "title": "Abdication of Tsar Nicholas II",
+      "description": "Amid the February Revolution, Tsar Nicholas II abdicated the Russian throne (March 15 by the Gregorian calendar), ending more than three centuries of Romanov rule.",
+      "category": "Politics/Revolution",
+      "significance": "The abdication ended the Russian monarchy, led to the Provisional Government, and set the stage for the Bolshevik Revolution and the creation of the Soviet Union."
     },
     {
-      "year": 1965,
-      "title": "Government Announces Escalation of U.S. Troops in Vietnam",
-      "description": "President Lyndon B. Johnson announced the deployment of additional 50,000 U.S. troops to Vietnam, escalating the American involvement in the Vietnam War.",
-      "category": "Military",
-      "significance": "The escalation marked a major intensification of U.S. military efforts in Vietnam, impacting domestic and international politics for years."
+      "year": 1939,
+      "title": "German Occupation of Czechoslovakia",
+      "description": "Nazi Germany invaded and occupied the remaining Czech lands of Czechoslovakia, establishing the Protectorate of Bohemia and Moravia in violation of the Munich Agreement.",
+      "category": "War/Politics",
+      "significance": "The occupation demonstrated the failure of appeasement and prompted Britain and France to abandon that policy, hastening the outbreak of World War II."
     }
   ]
 }

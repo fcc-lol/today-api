@@ -2,39 +2,39 @@
   "date": "April 11",
   "events": [
     {
-      "year": 1961,
-      "title": "First Human Spaceflight by Yuri Gagarin",
-      "description": "Soviet cosmonaut Yuri Gagarin became the first human to travel into space and orbit the Earth aboard Vostok 1.",
-      "category": "Science and Technology",
-      "significance": "Marked the beginning of human space exploration and intensified the Space Race during the Cold War."
+      "year": 1814,
+      "title": "Napoleon Abdicates and Signs the Treaty of Fontainebleau",
+      "description": "Following the capture of Paris by Coalition forces, Napoleon Bonaparte signed the Treaty of Fontainebleau, confirming his abdication as Emperor of the French. The treaty exiled him to the Mediterranean island of Elba, where he was granted sovereignty over the island.",
+      "category": "Politics and War",
+      "significance": "Marked the end of Napoleon's first reign and the apparent close of the Napoleonic Wars, though he would escape Elba in 1815 and return for the Hundred Days before his final defeat at Waterloo."
+    },
+    {
+      "year": 1912,
+      "title": "Titanic Departs Queenstown on Her Maiden Voyage",
+      "description": "RMS Titanic made her final port call at Queenstown (now Cobh), Ireland, where she picked up additional passengers and mail before heading into the Atlantic Ocean. It was the last stop before the ship struck an iceberg on the night of April 14.",
+      "category": "Maritime History",
+      "significance": "The sinking of the Titanic, which killed more than 1,500 people, led to major reforms in maritime safety, including the International Convention for the Safety of Life at Sea (SOLAS)."
     },
     {
       "year": 1945,
-      "title": "President Franklin D. Roosevelt Dies",
-      "description": "Franklin D. Roosevelt, the 32nd President of the United States, died while in office. Vice President Harry S. Truman succeeded him.",
-      "category": "Politics",
-      "significance": "Roosevelt's death marked the end of an era during World War II and led to leadership changes affecting post-war policies."
+      "title": "Liberation of Buchenwald Concentration Camp",
+      "description": "Prisoners at Buchenwald took control of the camp as American forces of the US Third Army approached, and soldiers of the 6th Armored Division entered the camp shortly afterward. Tens of thousands of surviving inmates were freed.",
+      "category": "World War II",
+      "significance": "The liberation revealed the scale of Nazi atrocities to the Allied world and became a key part of the documentation of the Holocaust, shaping post-war justice and memory."
+    },
+    {
+      "year": 1968,
+      "title": "Civil Rights Act of 1968 Signed into Law",
+      "description": "President Lyndon B. Johnson signed the Civil Rights Act of 1968, known as the Fair Housing Act, which prohibited discrimination in the sale, rental, and financing of housing based on race, religion, and national origin. It was signed days after the assassination of Martin Luther King Jr.",
+      "category": "Civil Rights and Law",
+      "significance": "Extended federal civil rights protections to housing and remains a cornerstone of US anti-discrimination law, later expanded to cover sex, disability, and familial status."
     },
     {
       "year": 1970,
-      "title": "Apollo 13 Mission Launch",
-      "description": "Apollo 13 launched from Kennedy Space Center, intended to be the third crewed Moon landing mission, but it was aborted after an oxygen tank exploded en route.",
-      "category": "Science and Technology",
-      "significance": "Demonstrated NASA's ability to manage critical in-flight emergencies and safely return astronauts to Earth."
-    },
-    {
-      "year": 1954,
-      "title": "First Mass Vaccination Using Polio Vaccine",
-      "description": "The first mass vaccination campaign using Jonas Salk's polio vaccine began in Pittsburgh, Pennsylvania.",
-      "category": "Medicine and Public Health",
-      "significance": "Pivotal moment in the fight against polio, leading to drastic reductions in cases worldwide."
-    },
-    {
-      "year": 1512,
-      "title": "Michelangelo Completes the Sistine Chapel Ceiling",
-      "description": "Michelangelo finished painting the ceiling of the Sistine Chapel in Vatican City after about four years of work.",
-      "category": "Art and Culture",
-      "significance": "Regarded as one of the greatest achievements of Renaissance art and a masterpiece of human creativity."
+      "title": "Apollo 13 Launches",
+      "description": "NASA launched Apollo 13 from Kennedy Space Center with astronauts Jim Lovell, Jack Swigert, and Fred Haise, intended as the third crewed lunar landing. An oxygen tank exploded two days later, forcing the mission to abort the landing.",
+      "category": "Science and Exploration",
+      "significance": "The safe return of the crew became a landmark in crisis management and engineering ingenuity, often called a 'successful failure,' and it led to safety improvements in the space program."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1789,
-      "title": "First United States Congress Convenes",
-      "description": "The first Congress of the United States under the new Constitution met in New York City, marking the beginning of the federal government under the U.S. Constitution.",
-      "category": "Political",
-      "significance": "This event established the functioning U.S. federal government, shaping the nation's future governance."
+      "title": "U.S. Constitution Takes Effect",
+      "description": "The First Congress of the United States met in New York City and declared the new Constitution to be in operation, officially beginning government under the Constitution, although a quorum was not reached until later in the spring.",
+      "category": "Politics",
+      "significance": "Marked the formal start of the federal government under the U.S. Constitution, which remains the foundation of American governance."
+    },
+    {
+      "year": 1861,
+      "title": "Abraham Lincoln Inaugurated as 16th U.S. President",
+      "description": "Abraham Lincoln was sworn in as President amid the secession of seven Southern states. In his first inaugural address he appealed to national unity, declaring 'We are not enemies, but friends,' while asserting that the Union was perpetual.",
+      "category": "Politics",
+      "significance": "Lincoln's presidency guided the United States through the Civil War, preserved the Union, and led to the abolition of slavery."
     },
     {
       "year": 1933,
-      "title": "Franklin D. Roosevelt Inaugurated as 32nd U.S. President",
-      "description": "Franklin D. Roosevelt was sworn in as President of the United States and famously declared 'the only thing we have to fear is fear itself' during the Great Depression.",
-      "category": "Political",
-      "significance": "Roosevelt's presidency marked the start of significant reforms and New Deal policies to combat the Great Depression."
+      "title": "Franklin D. Roosevelt Inaugurated; Frances Perkins Becomes First Female Cabinet Member",
+      "description": "Franklin D. Roosevelt took office as the 32nd U.S. President during the depths of the Great Depression, declaring that 'the only thing we have to fear is fear itself.' Frances Perkins was named Secretary of Labor, becoming the first woman in a U.S. cabinet.",
+      "category": "Politics",
+      "significance": "Launched the New Deal era, which dramatically expanded the role of the federal government in the economy and social welfare, and broke a barrier for women in government."
     },
     {
-      "year": 1917,
-      "title": "Jeannette Rankin Becomes First Woman in U.S. Congress",
-      "description": "Jeannette Rankin of Montana was sworn into the U.S. House of Representatives, becoming the first woman to serve in Congress.",
-      "category": "Social",
-      "significance": "This milestone represented a major advance for women's political rights in the United States."
+      "year": 1877,
+      "title": "Rutherford B. Hayes Inaugurated After Disputed Election",
+      "description": "Rutherford B. Hayes was publicly sworn in as the 19th U.S. President after the contested 1876 election was resolved by the Compromise of 1877, following a private oath on March 3.",
+      "category": "Politics",
+      "significance": "The compromise led to the withdrawal of federal troops from the South, ending Reconstruction and ushering in the Jim Crow era."
     },
     {
-      "year": 1665,
-      "title": "First Publication of the Philosophical Transactions of the Royal Society",
-      "description": "The Royal Society of London began publishing the Philosophical Transactions, the first scientific journal in the world.",
-      "category": "Scientific",
-      "significance": "This event marked a key development in the formal communication and dissemination of scientific knowledge."
+      "year": 1952,
+      "title": "Birth of the Modern Era of Vietnam War Era Context: Not Applicable",
+      "description": "On March 4, 1681, King Charles II of England granted a royal charter to William Penn for the territory that became Pennsylvania, in repayment of a debt owed to Penn's father.",
+      "category": "Exploration and Colonization",
+      "significance": "The charter led to the founding of Pennsylvania, a colony based on religious tolerance and representative government that influenced American democratic ideals."
     }
   ]
 }

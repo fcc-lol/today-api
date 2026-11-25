@@ -2,36 +2,44 @@
   "date": "January 31",
   "holidays": [
     {
+      "name": "National Hot Chocolate Day",
+      "description": "A cozy day to wrap your hands around a steaming mug of cocoa, ideally topped with a mountain of marshmallows or whipped cream, as an excuse to ward off the last bitter chill of January.",
+      "origin": "Like many American food observances, it grew out of informal food-lover and marketing traditions rather than an official proclamation. Its placement in late January targets the heart of cold-weather season.",
+      "category": "Food and Drink",
+      "emoji": "☕",
+      "funFact": "The Aztecs drank a bitter, spicy chocolate beverage long before sugar was added. Europeans later sweetened it with sugar and milk, creating the hot chocolate we know today."
+    },
+    {
+      "name": "National Brandy Alexander Day",
+      "description": "A salute to the creamy, dessert-like cocktail made with brandy, crème de cacao, and cream, usually finished with a dusting of nutmeg. It is a sweet send-off to the first month of the year.",
+      "origin": "The cocktail dates to the early 20th century and was popular in the 1920s and beyond. The unofficial day is a cocktail-lover observance created to celebrate its rich flavor.",
+      "category": "Food and Drink",
+      "emoji": "🍸",
+      "funFact": "The Brandy Alexander is said to have been a favorite of John Lennon, who reportedly drank many during his famous 'Lost Weekend' period in the 1970s."
+    },
+    {
       "name": "Inspire Your Heart with Art Day",
-      "description": "A day to appreciate all forms of art and let creativity warm your soul.",
-      "origin": "Started by the nonprofit organization Customs House in Australia to encourage people to reflect on the impact of art in our lives.",
-      "category": "Art & Culture",
+      "description": "A day for letting a painting, sculpture, song, or doodle touch your soul. You are encouraged to visit a gallery, create something, or simply admire art that moves you.",
+      "origin": "The observance was founded by artist and author Katherine Lee-Gabbert to encourage people to connect emotionally with art, and it is celebrated each year on January 31.",
+      "category": "Arts and Culture",
       "emoji": "🎨",
-      "funFact": "This day was created in 2004 and pushes people to visit galleries or create their own art for emotional inspiration."
+      "funFact": "Studies have suggested that looking at art can trigger pleasure responses in the brain similar to those produced by seeing someone you love."
     },
     {
-      "name": "Hot Chocolate Day",
-      "description": "Celebrate the cozy, chocolaty goodness of hot chocolate to beat the January chill.",
-      "origin": "An informal food holiday celebrated mainly in the U.S. during the cold winter months to enjoy this soothing drink.",
-      "category": "Food & Drink",
-      "emoji": "☕️",
-      "funFact": "The Aztecs were among the first to drink a chilly version of hot chocolate, often spiced up with chili peppers!"
-    },
-    {
-      "name": "Backwards Day",
-      "description": "A quirky observance where people do things backward — wear clothes inside out, say goodbye instead of hello, or walk backward!",
-      "origin": "Created in 1998 by a man named Clarence Shulock to bring silliness and fun to everyday life.",
-      "category": "Fun & Games",
+      "name": "Backward Day",
+      "description": "A topsy-turvy day when people wear their clothes backward, eat dessert before dinner, say goodbye instead of hello, and walk in reverse, all in the name of silliness.",
+      "origin": "Backward Day is an informal, humor-driven observance with no single documented founder. It spread through novelty-holiday calendars and school activities, since it is easy for classrooms and offices to join in.",
+      "category": "Silly and Novelty",
       "emoji": "🔄",
-      "funFact": "Some schools participate by having students write backward or speak in reverse sentences on this day."
+      "funFact": "Many people celebrate by eating breakfast for dinner, which is likely the easiest and tastiest way to take part in the day."
     },
     {
-      "name": "Blame Someone Else Day",
-      "description": "A tongue-in-cheek holiday encouraging people to pass the blame and have a laugh instead of stressing out about mistakes.",
-      "origin": "Invented in 1982 by Dale and Laura Dowling after the January blues as a humorous way to shift responsibility temporarily.",
-      "category": "Humor & Satire",
-      "emoji": "🤷",
-      "funFact": "This day is unofficial but beloved by pranksters and office workers everywhere looking for a lighthearted excuse."
+      "name": "Gorilla Suit Day",
+      "description": "A gloriously ridiculous holiday on which people are encouraged to put on a gorilla suit and go about their business as if nothing is unusual, from grocery shopping to office meetings.",
+      "origin": "Gorilla Suit Day is an unofficial novelty observance that appears in lists of offbeat holidays. Its origins are murky, but it has endured thanks to the timeless comedic appeal of a person in an ape costume.",
+      "category": "Pop Culture and Silly",
+      "emoji": "🦍",
+      "funFact": "Early gorilla suits were popular in classic Hollywood films, and in many cases the actors inside them were human performers rather than real apes, which made 'a man in a gorilla suit' a long-running movie trope."
     }
   ]
 }

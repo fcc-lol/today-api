@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1917,
-      "title": "February Revolution begins in Russia",
-      "description": "Protests and strikes in Petrograd escalate into the February Revolution, leading to the abdication of Tsar Nicholas II and the end of the Romanov dynasty.",
-      "category": "Political Revolution",
-      "significance": "Led to the establishment of a provisional government and set the stage for the Russian Civil War and eventual rise of the Soviet Union."
+      "title": "February Revolution Begins in Petrograd",
+      "description": "On March 8, 1917 (February 23 in the Julian calendar then used in Russia), International Women's Day demonstrations by women textile workers in Petrograd grew into mass strikes and protests against food shortages and the war. Within days, the unrest spread among workers and soldiers.",
+      "category": "Politics",
+      "significance": "The protests escalated into the February Revolution, which forced Tsar Nicholas II to abdicate and ended the Romanov dynasty's three-century rule, paving the way for the Bolshevik takeover later that year."
     },
     {
-      "year": 1910,
-      "title": "International Women's Day proclaimed",
-      "description": "The International Socialist Women's Conference designated March 8 as International Women's Day to honor women's rights and promote gender equality.",
-      "category": "Social Movement",
-      "significance": "Became a global day recognizing women's achievements and campaigning for women's rights and equality."
+      "year": 1948,
+      "title": "U.S. Supreme Court Rules on Religious Instruction in Public Schools",
+      "description": "In McCollum v. Board of Education, the U.S. Supreme Court ruled 8-1 that a program allowing religious instruction in public school classrooms in Champaign, Illinois violated the Establishment Clause of the First Amendment.",
+      "category": "Law",
+      "significance": "The decision strengthened the principle of separation of church and state in American public education and shaped later rulings on religion in schools."
     },
     {
-      "year": 1939,
-      "title": "Spanish Civil War ends",
-      "description": "Madrid falls to Francisco Franco's forces, marking the end of the Spanish Civil War and the start of Franco's dictatorship.",
-      "category": "Military/Political",
-      "significance": "Led to nearly four decades of fascist rule in Spain and shaped political dynamics in Europe pre-World War II."
+      "year": 1965,
+      "title": "First U.S. Combat Troops Land in South Vietnam",
+      "description": "About 3,500 U.S. Marines came ashore at Da Nang, South Vietnam, becoming the first American combat troops deployed in the country, ostensibly to protect the nearby air base.",
+      "category": "Military",
+      "significance": "The landing marked a major escalation of U.S. involvement in the Vietnam War, which grew to hundreds of thousands of troops and became one of the most divisive conflicts in American history."
+    },
+    {
+      "year": 1979,
+      "title": "Philips Demonstrates the Compact Disc Prototype",
+      "description": "Philips publicly demonstrated its prototype digital audio compact disc to the press in Eindhoven, Netherlands, showcasing optical disc technology for music playback. Philips later partnered with Sony to set the CD standard.",
+      "category": "Technology",
+      "significance": "The demonstration was a key step toward the commercial launch of the CD in 1982, which transformed the music industry and popularized digital media storage."
     },
     {
       "year": 2014,
-      "title": "Malaysia Airlines Flight MH370 disappears",
-      "description": "Flight MH370 vanished en route from Kuala Lumpur to Beijing, sparking one of the largest aviation search efforts in history.",
-      "category": "Aviation Disaster",
-      "significance": "The disappearance remains one of the greatest aviation mysteries, leading to changes in aircraft tracking and international aviation protocols."
+      "title": "Disappearance of Malaysia Airlines Flight 370",
+      "description": "Malaysia Airlines Flight 370, a Boeing 777 carrying 239 people from Kuala Lumpur to Beijing, vanished from radar shortly after takeoff. Investigators concluded it diverted from its route and likely ended in the southern Indian Ocean.",
+      "category": "Disaster",
+      "significance": "It became one of the greatest mysteries in aviation history, prompting the largest and most expensive search in aviation history and leading to reforms in aircraft tracking requirements."
     }
   ]
 }

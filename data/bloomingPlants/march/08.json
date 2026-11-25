@@ -2,55 +2,59 @@
   "date": "March 8",
   "plants": [
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Daffodil",
-      "description": "A popular spring-flowering bulb with bright yellow trumpet-shaped flowers. Daffodils are among the first flowers to bloom in temperate regions, signaling the end of winter.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions of Europe and North America",
-      "colors": [
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "Daffodils contain lycorine, making them toxic if ingested by humans or pets."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Famous ornamental cherry tree known for its stunning mass of pink or white blossoms that herald the arrival of spring in Japan and other temperate areas.",
-      "bloomingSeason": "Late March to early April, sometimes late February in warmer areas",
-      "location": "East Asia (Japan, Korea, China), also cultivated worldwide in temperate zones",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "The blooming period of cherry blossoms only lasts about one to two weeks before petals fall."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree producing cylindrical flower spikes with bright yellow flowers that attract many pollinators such as birds and insects.",
-      "bloomingSeason": "Year-round, with peaks in late summer and also in early autumn and early spring",
-      "location": "Eastern Australia coastal regions",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers produce large amounts of nectar and are a crucial food source for many Australian birds."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial herbaceous plant that blooms in late winter and early spring with white or pale pink flowers, often flowering through snow in temperate regions.",
-      "bloomingSeason": "December to March",
-      "location": "Central and Southern Europe mountainous regions",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree prized in East Asia that produces fragrant five-petaled blossoms on bare branches, often while frost or snow is still present. It is a cherished harbinger of spring in gardens, temples, and orchards.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
         "white",
-        "pink"
+        "pink",
+        "deep red"
       ],
-      "emoji": "❄️🌷",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose and can be toxic if ingested."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms bloom earlier than cherry blossoms and symbolize perseverance and hope in East Asian culture because they flower in the cold."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals, found in woodlands and meadows. Its blue-green strap-like leaves emerge in late winter, and flowers carpet the ground in early spring.",
+      "bloomingSeason": "Late winter to early spring (March to April)",
+      "location": "Western Europe, including the UK, France, and Spain; widely naturalized in North America",
+      "colors": [
+        "yellow",
+        "pale yellow",
+        "cream"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodils contain the compound galantamine, which is used in medication for Alzheimer's disease, and the flower is the national emblem of Wales, celebrated on March 1."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An Australian evergreen shrub or small tree covered in fluffy, fragrant golden ball-shaped flower clusters. It grows in woodlands and open forests and is a major nectar and pollen source for native insects and birds.",
+      "bloomingSeason": "Late winter to spring in Australia, with some flowering from July to October; scattered bloom can occur in other seasons depending on region and conditions",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+    },
+    {
+      "name": "Crocus vernus",
+      "commonName": "Spring Crocus",
+      "description": "A small cormous perennial that pushes up goblet-shaped flowers through lingering snow in alpine meadows and lawns. The blooms open in sunshine and close in cloudy weather or at night.",
+      "bloomingSeason": "Early spring (late February to April)",
+      "location": "Mountain meadows of the Alps and Pyrenees in Europe; widely cultivated in temperate gardens",
+      "colors": [
+        "purple",
+        "lilac",
+        "white",
+        "striped"
+      ],
+      "emoji": "💜",
+      "funFact": "Spring crocuses are an important early food source for emerging bees, though they are not the source of saffron, which comes from the autumn-flowering Crocus sativus."
     }
   ]
 }

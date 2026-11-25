@@ -4,30 +4,37 @@
     {
       "year": 1912,
       "title": "Sinking of the RMS Titanic",
-      "description": "The RMS Titanic, a British passenger liner, sank in the North Atlantic Ocean after hitting an iceberg during its maiden voyage from Southampton to New York City. Over 1,500 passengers and crew lost their lives.",
-      "category": "Maritime Disaster",
-      "significance": "One of the deadliest maritime disasters in history, it led to improvements in maritime safety regulations, including lifeboat requirements."
+      "description": "The British passenger liner RMS Titanic sank in the North Atlantic at about 2:20 a.m., after striking an iceberg late the previous night on her maiden voyage from Southampton to New York. More than 1,500 of the roughly 2,200 people aboard died.",
+      "category": "Disaster",
+      "significance": "The tragedy exposed critical gaps in maritime safety, leading to the 1914 International Convention for the Safety of Life at Sea, which required enough lifeboats for all aboard and 24-hour radio watch."
     },
     {
       "year": 1865,
-      "title": "Assassination of Abraham Lincoln",
-      "description": "U.S. President Abraham Lincoln died after being shot by John Wilkes Booth the previous evening at Ford's Theatre in Washington, D.C.",
-      "category": "Political Assassination",
-      "significance": "Marked a pivotal moment in American history during the Reconstruction era and deeply affected the nation's healing after the Civil War."
+      "title": "Death of Abraham Lincoln",
+      "description": "President Abraham Lincoln died at 7:22 a.m. in the Petersen House in Washington, D.C., the morning after being shot by John Wilkes Booth at Ford's Theatre. Vice President Andrew Johnson was sworn in as the 17th president later that day.",
+      "category": "Politics",
+      "significance": "Lincoln's assassination, days after the Confederate surrender at Appomattox, removed the leader who guided the Union through the Civil War and shaped the course of Reconstruction."
+    },
+    {
+      "year": 1452,
+      "title": "Birth of Leonardo da Vinci",
+      "description": "Leonardo da Vinci was born near the town of Vinci in the Republic of Florence. He became a painter, engineer, scientist, and inventor, creating works such as the Mona Lisa and The Last Supper.",
+      "category": "Birth",
+      "significance": "Leonardo is regarded as the archetype of the Renaissance polymath, and his art and notebooks on anatomy, engineering, and nature continue to influence art and science."
     },
     {
       "year": 1947,
-      "title": "Roswell UFO Incident",
-      "description": "An object crashed near Roswell, New Mexico, initially reported as a 'flying disc,' sparking speculation and conspiracy theories about extraterrestrial life.",
-      "category": "Science and Technology",
-      "significance": "Became a cornerstone event in UFO lore and modern popular culture regarding alien visitation."
+      "title": "Jackie Robinson Breaks Major League Baseball's Color Barrier",
+      "description": "Jackie Robinson debuted for the Brooklyn Dodgers at Ebbets Field, becoming the first African American to play in the modern Major League Baseball era.",
+      "category": "Sports and Civil Rights",
+      "significance": "Robinson's debut began the end of segregation in professional baseball and became a landmark moment in the American civil rights movement. MLB honors him each year on April 15 as Jackie Robinson Day."
     },
     {
-      "year": 1955,
-      "title": "Opening of Disneyland",
-      "description": "The Disneyland theme park officially opened in Anaheim, California, introduced by Walt Disney, becoming the first-ever theme park of its kind.",
-      "category": "Cultural Milestone",
-      "significance": "Pioneered modern theme parks and significantly impacted entertainment and tourism industries worldwide."
+      "year": 1989,
+      "title": "Hillsborough Disaster",
+      "description": "A human crush occurred at Hillsborough Stadium in Sheffield, England, during an FA Cup semi-final between Liverpool and Nottingham Forest. Ultimately 97 Liverpool supporters died.",
+      "category": "Disaster",
+      "significance": "The tragedy led to the Taylor Report and the move to all-seater stadiums in top English football, and the long campaign for justice by the families led to major scrutiny of police conduct and accountability."
     }
   ]
 }

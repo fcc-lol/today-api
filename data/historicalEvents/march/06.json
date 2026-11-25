@@ -2,32 +2,39 @@
   "date": "March 6",
   "events": [
     {
-      "year": 1857,
-      "title": "Dred Scott Decision",
-      "description": "The U.S. Supreme Court delivered its decision in Dred Scott v. Sandford, ruling that African Americans could not be American citizens and that Congress had no authority to prohibit slavery in U.S. territories.",
-      "category": "Legal/Political",
-      "significance": "This decision intensified national divisions over slavery, contributing to the tensions leading up to the American Civil War."
+      "year": 1836,
+      "title": "Fall of the Alamo",
+      "description": "After a 13-day siege, Mexican forces under General Antonio López de Santa Anna stormed the Alamo Mission in San Antonio, Texas, killing nearly all of the Texian defenders, including William B. Travis, Jim Bowie, and Davy Crockett.",
+      "category": "Military",
+      "significance": "The battle became a rallying symbol of the Texas Revolution; 'Remember the Alamo!' inspired Texian forces to defeat Santa Anna at San Jacinto in April 1836, securing Texan independence."
     },
     {
-      "year": 1899,
-      "title": "The Painkiller Aspirin is Trademarked",
-      "description": "The pharmaceutical company Bayer registered the trademark for Aspirin, marking a significant development in medicine and pain management.",
-      "category": "Science/Medicine",
-      "significance": "Aspirin became one of the most widely used medications worldwide, helping millions with pain relief and cardiovascular conditions."
+      "year": 1857,
+      "title": "Dred Scott v. Sandford Decision",
+      "description": "The U.S. Supreme Court, led by Chief Justice Roger B. Taney, ruled that African Americans could not be American citizens and that Congress lacked authority to prohibit slavery in the territories.",
+      "category": "Law",
+      "significance": "One of the most infamous Supreme Court rulings, it intensified sectional tensions over slavery and is widely seen as a contributing cause of the American Civil War. It was later overturned by the 13th and 14th Amendments."
+    },
+    {
+      "year": 1475,
+      "title": "Birth of Michelangelo",
+      "description": "Michelangelo di Lodovico Buonarroti Simoni was born in Caprese, Republic of Florence. He became one of the greatest artists of the Italian Renaissance, creating the sculptures David and the Pietà and painting the Sistine Chapel ceiling.",
+      "category": "Births",
+      "significance": "Michelangelo's work defined High Renaissance art and has had an enduring influence on Western art, sculpture, and architecture."
     },
     {
       "year": 1957,
       "title": "Ghana Gains Independence",
-      "description": "Ghana, formerly the British Gold Coast colony, became the first sub-Saharan African country to gain independence from colonial rule.",
-      "category": "Political/Colonial History",
-      "significance": "Ghana’s independence marked a pivotal moment in the decolonization of Africa and inspired independence movements across the continent."
+      "description": "The Gold Coast became the independent nation of Ghana, ending British colonial rule. Kwame Nkrumah became its first prime minister.",
+      "category": "Politics",
+      "significance": "Ghana was the first sub-Saharan African country to gain independence from European colonial rule, inspiring independence movements across Africa."
     },
     {
-      "year": 1987,
-      "title": "The Worst Air Disaster in the UK",
-      "description": "The flight of British Airtours Flight 28M caught fire on takeoff at Manchester Airport, resulting in 55 deaths and highlighting issues in airline safety and emergency response protocols.",
-      "category": "Disaster/Aviation",
-      "significance": "This tragedy led to improved aircraft safety standards and evacuation procedures internationally."
+      "year": 1992,
+      "title": "Michelangelo Computer Virus Triggers",
+      "description": "The Michelangelo virus, a computer virus programmed to overwrite hard disk data on March 6 (Michelangelo's birthday), activated amid massive media attention and predictions of widespread data loss.",
+      "category": "Technology",
+      "significance": "Although actual damage was far less than predicted, the event raised public awareness of computer viruses and helped spur growth of the antivirus software industry."
     }
   ]
 }

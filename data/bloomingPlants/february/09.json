@@ -2,55 +2,58 @@
   "date": "February 9",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A bulbous perennial flowering plant that produces vibrant cup-shaped flowers signaling the start of spring in many temperate regions.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Europe and parts of North America",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter. It is widely cultivated in Japan, China, and Korea, and ume plum festivals draw large crowds at this time of year.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "East Asia (China, Japan, Korea); cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocus flowers are among the first to emerge in late winter, often blooming through the snow, heralding the coming spring."
+      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom in the cold, often while snow is still on the ground."
     },
     {
-      "name": "Mahonia aquifolium",
-      "commonName": "Oregon Grape",
-      "description": "An evergreen shrub known for its holly-like leaves and bright yellow flower clusters that bloom in late winter to early spring, attracting early pollinators.",
-      "bloomingSeason": "January to March",
-      "location": "Pacific Northwest, North America",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes through snow and carpets woodlands and gardens in the Northern Hemisphere's late winter.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, naturalized in the UK and North America",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Despite its common name, Oregon grape is not a grape but produces blue-black berries that are edible and used to make jams."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial plant prized for its white flowers that bloom very early, often in winter, surviving cold conditions in woodland gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
-      "colors": [
-        "white"
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "The Christmas rose was a popular plant in Victorian-era gardens and symbolizes hope during the darkest months of the year."
+      "funFact": "Snowdrops produce galantamine, a compound used in medications to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Tillandsia ionantha",
-      "commonName": "Air Plant",
-      "description": "A small epiphytic bromeliad that can bloom indoors or in warmer climates naturally in winter to early spring, with striking pink bracts and purple flowers.",
-      "bloomingSeason": "January to March",
-      "location": "Central America and Mexico",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, a small tree or large shrub with fluffy, ball-shaped, fragrant golden flower clusters and sickle-shaped phyllodes. Some wattles bloom from late winter, and in the Southern Hemisphere summer many other natives are also flowering.",
+      "bloomingSeason": "Late winter to spring (July to October); some Acacia species flower in other months",
+      "location": "Southeastern Australia",
       "colors": [
-        "pink",
-        "purple"
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Australia celebrates National Wattle Day on September 1, and the green and gold of the national sporting colors come from wattle."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that open in the cooler months. It thrives in mild, humid climates and is popular in gardens in the southeastern United States, Japan, and western Europe.",
+      "bloomingSeason": "Winter to early spring (December to April)",
+      "location": "Japan, Korea, China; cultivated in the southern US, UK, and Mediterranean regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Air plants absorb moisture and nutrients through their leaves and don't require soil to grow, making them popular houseplants."
+      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant used to make tea."
     }
   ]
 }

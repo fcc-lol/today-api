@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1912,
-      "title": "Titanic Sets Sail on Maiden Voyage",
-      "description": "The RMS Titanic, the largest ocean liner afloat at the time, departs from Southampton, England, heading towards New York City on its first and only voyage.",
-      "category": "Transportation/Maritime",
-      "significance": "Highlighting the era's technological advancements and the tragic disaster that led to improved maritime safety regulations."
+      "title": "RMS Titanic Departs Southampton",
+      "description": "The RMS Titanic began her maiden voyage from Southampton, England, bound for New York City, with stops planned at Cherbourg, France, and Queenstown, Ireland. She carried over 2,200 passengers and crew.",
+      "category": "Maritime History",
+      "significance": "The voyage ended in tragedy on April 15, 1912, when the ship struck an iceberg and sank, killing more than 1,500 people and leading to major reforms in maritime safety regulations."
     },
     {
-      "year": 1866,
-      "title": "The Last Battle of the American Civil War",
-      "description": "Union and Confederate forces clash at the Battle of Columbus, Georgia, considered one of the last battles of the American Civil War.",
-      "category": "Military",
-      "significance": "Marking the final military confrontation of the Civil War, symbolizing the end of conflict and the start of national reconstruction."
+      "year": 1815,
+      "title": "Eruption of Mount Tambora Begins Its Peak",
+      "description": "The massive eruption of Mount Tambora on the island of Sumbawa in present-day Indonesia reached its climax on April 10, 1815, after beginning on April 5. It was the most powerful volcanic eruption in recorded history.",
+      "category": "Natural Disaster",
+      "significance": "The eruption killed tens of thousands directly and caused global climate disruption, leading to 1816 being known as the Year Without a Summer, with widespread crop failures and famine."
     },
     {
-      "year": 1970,
-      "title": "Paul McCartney Announces The Beatles' Breakup",
-      "description": "Paul McCartney publicly announces he is leaving The Beatles, effectively signaling the end of the iconic band's career.",
-      "category": "Culture/Music",
-      "significance": "Representing the dissolution of one of the most influential bands in music history, impacting pop culture worldwide."
+      "year": 1998,
+      "title": "Good Friday Agreement Reached",
+      "description": "After marathon negotiations led by US Senator George Mitchell, the British and Irish governments and most Northern Irish political parties agreed to the Good Friday (Belfast) Agreement.",
+      "category": "Politics",
+      "significance": "The agreement established a framework for power-sharing and largely brought an end to The Troubles, a decades-long conflict in Northern Ireland that had claimed over 3,500 lives."
     },
     {
-      "year": 2010,
-      "title": "Polish Air Force Tu-154 Crash",
-      "description": "A plane carrying the Polish President Lech Kaczyński and other high-ranking officials crashes near Smolensk, Russia, killing all onboard.",
-      "category": "Disaster/Political",
-      "significance": "A national tragedy for Poland, leading to significant political and social ramifications."
+      "year": 1829,
+      "title": "Birth of William Booth",
+      "description": "William Booth, the English Methodist preacher who founded The Salvation Army, was born in Sneinton, Nottingham, England.",
+      "category": "Birth",
+      "significance": "Booth built The Salvation Army into a global Christian charitable organization providing aid to the poor, homeless, and disadvantaged in over 130 countries."
+    },
+    {
+      "year": 1925,
+      "title": "The Great Gatsby Published",
+      "description": "F. Scott Fitzgerald's novel The Great Gatsby was first published by Charles Scribner's Sons in New York.",
+      "category": "Literature",
+      "significance": "Initially a modest commercial success, the novel became regarded as one of the greatest works of American literature and a defining portrait of the Jazz Age and the American Dream."
     }
   ]
 }

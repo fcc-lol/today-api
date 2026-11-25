@@ -4,30 +4,37 @@
     {
       "year": 1879,
       "title": "Birth of Albert Einstein",
-      "description": "Albert Einstein, the theoretical physicist renowned for the theory of relativity, was born in Ulm, Germany.",
+      "description": "Albert Einstein was born in Ulm, in the Kingdom of Württemberg, German Empire. He would go on to develop the theory of special relativity in 1905 and the theory of general relativity in 1915, and received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect.",
       "category": "Birth",
-      "significance": "Einstein's work revolutionized modern physics and profoundly influenced the scientific understanding of space, time, and energy."
+      "significance": "Einstein revolutionized modern physics and our understanding of space, time, gravity, and energy, and became one of the most influential scientists in history."
     },
     {
-      "year": 1951,
-      "title": "Trial of Julius and Ethel Rosenberg",
-      "description": "The Rosenbergs were convicted of espionage for allegedly passing atomic secrets to the Soviet Union.",
-      "category": "Criminal Trial",
-      "significance": "Their trial and subsequent execution became iconic during the Cold War, highlighting fears of communism and espionage."
+      "year": 1794,
+      "title": "Eli Whitney Patents the Cotton Gin",
+      "description": "Eli Whitney received a U.S. patent for his cotton gin, a machine that mechanically separated cotton fibers from their seeds far faster than hand labor.",
+      "category": "Invention",
+      "significance": "The cotton gin transformed Southern agriculture and made cotton hugely profitable, but it also greatly intensified the demand for enslaved labor in the United States."
+    },
+    {
+      "year": 1883,
+      "title": "Death of Karl Marx",
+      "description": "Karl Marx, the German philosopher, economist, and political theorist, died in London at age 64 and was buried at Highgate Cemetery. He had co-authored The Communist Manifesto with Friedrich Engels in 1848 and written Das Kapital.",
+      "category": "Death",
+      "significance": "Marx's ideas on class struggle and capitalism became the foundation of Marxism and profoundly shaped political movements, economics, and social theory worldwide in the 20th century."
+    },
+    {
+      "year": 1943,
+      "title": "Liquidation of the Kraków Ghetto Begins",
+      "description": "During World War II, Nazi German forces began the liquidation of the Kraków Ghetto in occupied Poland on March 13-14, 1943, deporting many residents to the Płaszów camp and Auschwitz and killing many others.",
+      "category": "War/Atrocity",
+      "significance": "The event was part of the Holocaust's systematic destruction of Jewish communities in Europe and is remembered as an example of the brutality of Nazi occupation."
     },
     {
       "year": 2018,
       "title": "Death of Stephen Hawking",
-      "description": "Famed theoretical physicist Stephen Hawking passed away at the age of 76, known for his contributions to cosmology and black hole physics.",
+      "description": "Stephen Hawking, the English theoretical physicist and cosmologist, died at age 76 in Cambridge, England. He was known for his work on black holes, Hawking radiation, and for his popular science book A Brief History of Time. His death occurred on Einstein's birthday and Pi Day.",
       "category": "Death",
-      "significance": "Hawking's work advanced understanding of the universe and brought science to a global audience."
-    },
-    {
-      "year": 1878,
-      "title": "First Successful Telephone Call by Alexander Graham Bell",
-      "description": "Alexander Graham Bell made the first successful variable resistance telephone call in Boston, demonstrating a key improvement in telephony.",
-      "category": "Technology",
-      "significance": "This innovation was crucial in making telephone communication practical and reliable, impacting global communication."
+      "significance": "Hawking advanced understanding of black holes and cosmology, and inspired the public with science despite living with ALS for decades."
     }
   ]
 }

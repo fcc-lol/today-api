@@ -2,28 +2,44 @@
   "date": "March 11",
   "holidays": [
     {
-      "name": "Oatmeal Cookie Day",
-      "description": "A delightful celebration dedicated to the chewy, sweet, and sometimes nutty oatmeal cookie! Perfect for those who adore this classic comfort treat.",
-      "origin": "While not officially established as a national holiday, this day gained popularity among food lovers and bakers who wanted to honor the humble oatmeal cookie as a delicious snack.",
-      "category": "Food Holiday",
-      "emoji": "🍪",
-      "funFact": "Oatmeal cookies were originally created in Scotland and often included raisins or currants, making them a healthier alternative in early recipes."
-    },
-    {
       "name": "Johnny Appleseed Day",
-      "description": "Honoring the legendary American folk hero Johnny Appleseed, who famously planted apple trees across the United States, spreading apples and stories wherever he went.",
-      "origin": "Johnny Appleseed (real name John Chapman) was a nurseryman and missionary in the early 19th century, and March 11 is believed to be his birthday.",
-      "category": "Historical/Pop Culture",
+      "description": "A day honoring the barefoot, tin-pot-hatted legend who wandered America planting apple trees. Celebrate by eating apples, baking pies, or planting a tree.",
+      "origin": "Honors John Chapman, born September 26, 1774. Some observe it on March 11, the date traditionally linked to his death in 1845, while others celebrate on his birthday in September.",
+      "category": "Historical/Folk Hero",
       "emoji": "🍎",
-      "funFact": "Johnny Appleseed was not just about apples—he was known for his kindness, environmentalism, and eccentric lifestyle, often going barefoot and wearing a tin pot on his head!"
+      "funFact": "Many of Johnny Appleseed's apples were not for eating. They were small, tart 'spitters' mostly used to make hard cider, which was the popular drink on the frontier."
     },
     {
-      "name": "World Plumbing Day",
-      "description": "A day dedicated to recognizing the importance of plumbing in maintaining public health and sanitation around the world. Celebrate your plumber or appreciate your pipes!",
-      "origin": "Established in 2010 by the World Plumbing Council to highlight the crucial role plumbing plays in society.",
-      "category": "Awareness/Industry",
-      "emoji": "🚰",
-      "funFact": "Good plumbing is credited with dramatically reducing deadly diseases like cholera and typhoid, making it a silent hero of modern health."
+      "name": "Plant a Flower Day",
+      "description": "A day for getting your hands dirty and sticking some blossoms in the ground, brightening up your yard, balcony, or windowsill as spring approaches.",
+      "origin": "An informal gardening observance that grew out of early spring planting traditions and is promoted by garden centers and flower enthusiasts.",
+      "category": "Nature/Gardening",
+      "emoji": "🌸",
+      "funFact": "Sunflowers can track the sun across the sky when young, a movement called heliotropism, so a planted sunflower really does follow the light."
+    },
+    {
+      "name": "Worship of Tools Day",
+      "description": "A tongue-in-cheek day to show appreciation for your trusty hammers, wrenches, and screwdrivers. Give your tools some love by cleaning, oiling, and organizing them.",
+      "origin": "A humorous, informal observance among DIYers and handy folks. It nods to the real tool-worshipping traditions of Ayudha Puja in India, where tools and instruments are honored.",
+      "category": "Humorous/Unofficial",
+      "emoji": "🔧",
+      "funFact": "The oldest known stone tools are about 3.3 million years old, found in Kenya, which predates the earliest known members of our own genus, Homo."
+    },
+    {
+      "name": "Panic Day",
+      "description": "A day for letting loose a little controlled freak-out and then laughing at how much you worried. Think of it as a permission slip to run around in circles for a minute.",
+      "origin": "An unofficial and lighthearted observance, often tied to the idea of releasing stress and recognizing that panic is a normal human reaction.",
+      "category": "Humorous/Unofficial",
+      "emoji": "😱",
+      "funFact": "The word 'panic' comes from Pan, the Greek god of the wild, whose sudden shouts in the woods were said to cause irrational terror in travelers and animals."
+    },
+    {
+      "name": "Oatmeal Nut Waffles Day",
+      "description": "A cozy breakfast holiday dedicated to waffles studded with oats and crunchy nuts. Fire up the waffle iron and top them with syrup, fruit, or butter.",
+      "origin": "A food-calendar observance popularized by recipe sites and breakfast lovers, celebrating a hearty twist on the classic waffle.",
+      "category": "Food",
+      "emoji": "🧇",
+      "funFact": "Waffle irons were patented in the US in 1869 by Cornelius Swarthout, long after medieval Europeans were cooking waffles between ornate patterned iron plates."
     }
   ]
 }

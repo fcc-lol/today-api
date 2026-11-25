@@ -2,32 +2,39 @@
   "date": "March 19",
   "events": [
     {
-      "year": 721,
-      "title": "Death of Charles Martel",
-      "description": "Charles Martel, Frankish statesman and military leader, died. Known for his role in the Battle of Tours where he halted the advance of Islamic forces into Western Europe.",
-      "category": "Death",
-      "significance": "His leadership laid the groundwork for the Carolingian Empire and the rise of Charlemagne."
+      "year": 1279,
+      "title": "Battle of Yamen",
+      "description": "The Song dynasty navy was decisively defeated by the Mongol Yuan dynasty fleet at Yamen in present-day Guangdong. The Song chancellor Lu Xiufu carried the child emperor Zhao Bing into the sea, where both drowned.",
+      "category": "Military",
+      "significance": "The battle ended the Song dynasty and completed Kublai Khan's conquest of China, establishing Yuan rule over the whole country."
     },
     {
-      "year": 1931,
-      "title": "Completion of the Statue of Liberty's Pedestal",
-      "description": "The pedestal supporting the Statue of Liberty was completed in New York Harbor, allowing for the official dedication of the monument later that year.",
-      "category": "Milestone",
-      "significance": "Marked the final stage in making the Statue of Liberty a symbol of freedom and democracy in the United States."
+      "year": 1687,
+      "title": "Death of explorer René-Robert Cavelier, Sieur de La Salle",
+      "description": "While leading an expedition in present-day Texas, La Salle was murdered by mutinous members of his own party. He had earlier claimed the Mississippi River basin for France and named it Louisiana.",
+      "category": "Exploration",
+      "significance": "His explorations underpinned French colonial claims in North America, and his death marked the collapse of his ill-fated Gulf Coast colony."
+    },
+    {
+      "year": 1916,
+      "title": "First U.S. Air Combat Operations Under Pershing",
+      "description": "The 1st Aero Squadron of the U.S. Army Signal Corps flew in support of General John J. Pershing's Punitive Expedition into Mexico, the first American use of an air unit in a military operation.",
+      "category": "Military",
+      "significance": "It was an early milestone in U.S. military aviation and showed the potential of aircraft for reconnaissance in warfare."
+    },
+    {
+      "year": 1918,
+      "title": "U.S. Congress Establishes Standard Time and Daylight Saving Time",
+      "description": "Congress passed the Standard Time Act, which formalized time zones across the United States and introduced daylight saving time as a wartime measure during World War I.",
+      "category": "Politics",
+      "significance": "The law set the foundation for national timekeeping standards and for the daylight saving practices still debated and used today."
     },
     {
       "year": 2003,
       "title": "Start of the Iraq War",
-      "description": "The United States, along with coalition forces, began the invasion of Iraq, initiating the Iraq War aimed at toppling Saddam Hussein's regime.",
-      "category": "Military/Conflict",
-      "significance": "Led to significant geopolitical changes in the Middle East and had lasting impacts on international relations."
-    },
-    {
-      "year": 1918,
-      "title": "Anglo–French Declaration",
-      "description": "The United Kingdom and France issued a joint declaration promising to establish a free and independent Arab state post-World War I.",
-      "category": "Political",
-      "significance": "Influenced the post-war political landscape of the Middle East and colonial mandates."
+      "description": "The United States, joined by the United Kingdom and other allies, launched military strikes on Iraq, beginning the invasion that toppled Saddam Hussein's government. The campaign began in the early hours of March 20 in Iraq, which was still March 19 in U.S. time.",
+      "category": "Military",
+      "significance": "The invasion reshaped the Middle East, triggered a prolonged conflict and insurgency, and had lasting effects on global politics and international relations."
     }
   ]
 }

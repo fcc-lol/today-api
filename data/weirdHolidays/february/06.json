@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Frozen Yogurt Day",
-      "description": "A delicious day to celebrate the creamy, tangy delight that is frozen yogurt. Cool off and enjoy this healthier alternative to ice cream!",
-      "origin": "This day originated in the early 2000s when frozen yogurt shops started booming in the U.S., capitalizing on the health-conscious trends of the time.",
-      "category": "Food Holiday",
+      "description": "A day to celebrate the tangy, creamy, swirl-it-yourself dessert that lets you feel virtuous while piling on a mountain of gummy bears and cookie dough. Self-serve toppings bars are the true stars of the celebration.",
+      "origin": "An unofficial food holiday observed in the United States, popularized by food-day calendars and frozen yogurt shops that use it to promote deals and free samples.",
+      "category": "Food",
       "emoji": "🍦",
-      "funFact": "Frozen yogurt was first popularized in the 1970s but saw a resurgence with probiotic claims in the 2000s."
+      "funFact": "Frozen yogurt surged in popularity in the 1980s when it was marketed as a healthier alternative to ice cream, and the self-serve frozen yogurt boom of the 2010s made 'pay by weight' a household concept."
     },
     {
-      "name": "Waitangi Day (New Zealand)",
-      "description": "Commemorating the signing of the Treaty of Waitangi in 1840, considered New Zealand's founding document between Maori chiefs and the British Crown.",
-      "origin": "Treaty signed on February 6, 1840, establishing cooperation and a legal framework between indigenous Maori and British settlers.",
-      "category": "Historical/Political",
+      "name": "Take Your Child to the Library Day",
+      "description": "Held on the first Saturday of February, this observance encourages families to visit the library together, get library cards, and discover that books, movies, and free Wi-Fi are all waiting there for the borrowing.",
+      "origin": "Started in 2002 by author Mary Jo Fedorko? No: it was launched by librarians and literacy advocates in the United States to promote early reading habits and make libraries part of family routines.",
+      "category": "Awareness",
+      "emoji": "📚",
+      "funFact": "Many libraries now lend far more than books, including tools, board games, telescopes, seeds, and even fishing poles."
+    },
+    {
+      "name": "Bubble Gum Day",
+      "description": "A sticky-sweet day for blowing bubbles, popping them loudly, and contemplating the eternal question of whether you should really stick gum under a table. Contests for the biggest bubble are encouraged, face-splatters are not.",
+      "origin": "An unofficial food and candy observance that appears on novelty holiday calendars, celebrating the chewy treat that has been a pop culture staple for generations.",
+      "category": "Food",
+      "emoji": "🫧",
+      "funFact": "The Guinness World Record for the largest bubble gum bubble blown is over 20 inches in diameter, and it was blown without using hands."
+    },
+    {
+      "name": "Waitangi Day",
+      "description": "New Zealand's national day, marked with ceremonies, cultural performances, community events, and plenty of barbecues, held on the anniversary of a founding document in the country's history.",
+      "origin": "It commemorates the signing of the Treaty of Waitangi on February 6, 1840, between representatives of the British Crown and many Māori chiefs. It became a public holiday in the 1970s.",
+      "category": "Cultural",
       "emoji": "🇳🇿",
-      "funFact": "It's also a day of peaceful protest and reflection for many Maori communities, making it both a celebration and a reminder of ongoing issues."
+      "funFact": "The Treaty exists in both English and Māori versions, and differences between the two texts have been debated and examined by courts and tribunals for generations."
     },
     {
-      "name": "Lame Duck Day",
-      "description": "A humorous observance marking the period when elected officials who aren’t returning to office have limited power and influence.",
-      "origin": "The term 'lame duck' dates back to 18th century British Parliament and became political slang for officials serving out a term with diminished authority.",
-      "category": "Pop Culture/Political",
+      "name": "Ldevelopment Day: Lame Duck Day",
+      "description": "A day to salute the lame duck: that outgoing politician or lagging project with limited time left. It is a gentle reminder to give a little grace to anyone limping toward the finish line.",
+      "origin": "Observed on February 6 in some novelty calendars, tied to the 20th Amendment ratification on February 6, 1933, which shortened the period between US elections and the start of new terms.",
+      "category": "Pop Culture",
       "emoji": "🦆",
-      "funFact": "The phrase 'lame duck' originally referred to businessmen who defaulted on their debts — how’s that for political insult roots?"
-    },
-    {
-      "name": "Berry Fast Day",
-      "description": "A quirky celebration reminding us to slow down and appreciate fresh berries, one of nature’s juiciest treats.",
-      "origin": "This lesser-known observance encourages enjoying and promoting the health benefits of berries during their season, especially in regions where February is harvest time.",
-      "category": "Food/Nature",
-      "emoji": "🍓",
-      "funFact": "Berries are packed with antioxidants; eating them slowly might just make the flavor last longer and your brain happier!"
+      "funFact": "The 20th Amendment moved Inauguration Day from March 4 to January 20, cutting the 'lame duck' period of presidents by about six weeks."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "February 15",
   "events": [
     {
+      "year": 1564,
+      "title": "Birth of Galileo Galilei",
+      "description": "Galileo Galilei was born in Pisa, in the Duchy of Florence. He became an astronomer, physicist, and engineer who made pioneering telescopic observations of the Moon, the phases of Venus, and the moons of Jupiter.",
+      "category": "Birth",
+      "significance": "Often called the father of observational astronomy and modern physics, Galileo helped establish the scientific method and challenged geocentric views of the universe, leading to his famous conflict with the Catholic Church."
+    },
+    {
       "year": 1898,
-      "title": "Explosion of the USS Maine",
-      "description": "The USS Maine exploded in Havana Harbor, Cuba, killing 266 men. This event escalated tensions that led to the Spanish-American War.",
+      "title": "Sinking of the USS Maine in Havana Harbor",
+      "description": "The American battleship USS Maine exploded and sank in Havana Harbor, Cuba, killing about 260 crew members. The ship had been sent to protect American interests during the Cuban struggle for independence from Spain.",
       "category": "Military",
-      "significance": "The sinking of the Maine inflamed US public opinion against Spain, serving as a catalyst for the war that expanded U.S. influence overseas."
+      "significance": "The incident inflamed American public opinion, fueled by sensational 'yellow journalism' and the rallying cry 'Remember the Maine!', and helped precipitate the Spanish-American War later that year."
+    },
+    {
+      "year": 1942,
+      "title": "Fall of Singapore",
+      "description": "British forces under Lieutenant-General Arthur Percival surrendered Singapore to the Imperial Japanese Army led by General Tomoyuki Yamashita. About 80,000 British, Indian, and Australian troops became prisoners of war.",
+      "category": "Military",
+      "significance": "Winston Churchill called it the worst disaster and largest capitulation in British military history. It marked the collapse of British power in Southeast Asia and the start of a brutal Japanese occupation."
+    },
+    {
+      "year": 1989,
+      "title": "Soviet Union Completes Withdrawal from Afghanistan",
+      "description": "The last Soviet troops crossed the Friendship Bridge out of Afghanistan, ending nearly a decade of military intervention that began in December 1979.",
+      "category": "Politics",
+      "significance": "The withdrawal marked a major defeat for the Soviet Union, contributed to its economic and political decline, and left Afghanistan in continued civil war, setting the stage for the rise of the Taliban."
     },
     {
       "year": 1965,
-      "title": "Canada's New Flag Unveiled",
-      "description": "Canada revealed its new national flag, featuring the maple leaf design, replacing the Red Ensign as the official flag.",
-      "category": "Culture",
-      "significance": "The new flag became a symbol of Canadian identity and unity, emphasizing a distinct national culture separate from colonial ties."
-    },
-    {
-      "year": 2003,
-      "title": "Global Day of Protest Against the Iraq War",
-      "description": "Millions of people around the world participated in demonstrations opposing the impending invasion of Iraq by the United States and its allies.",
-      "category": "Political",
-      "significance": "Represented one of the largest coordinated global protests in history, highlighting widespread public opposition to the Iraq War."
-    },
-    {
-      "year": 1919,
-      "title": "Washington Naval Treaty Signed",
-      "description": "Major naval powers signed the Washington Naval Treaty to limit naval construction and prevent an arms race after World War I.",
-      "category": "Diplomacy",
-      "significance": "Aimed at promoting peace and curbing militarization, it marked an important early 20th-century disarmament effort."
+      "title": "Canada Adopts the Maple Leaf Flag",
+      "description": "The new red-and-white maple leaf flag of Canada was inaugurated at a ceremony on Parliament Hill in Ottawa, replacing the Canadian Red Ensign as the national flag.",
+      "category": "Politics",
+      "significance": "The flag became a lasting symbol of Canadian national identity and independence, following a lengthy national debate during Lester B. Pearson's government."
     }
   ]
 }

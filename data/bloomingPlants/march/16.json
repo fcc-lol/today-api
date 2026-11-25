@@ -2,57 +2,58 @@
   "date": "March 16",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning springtime blossoms, the Japanese Cherry produces clusters of soft pink to white flowers. It is widely cultivated for ornamental purposes and symbolizes the arrival of spring in many cultures.",
-      "bloomingSeason": "March to April",
-      "location": "East Asia, cultivated worldwide in temperate regions",
+      "name": "Prunus yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous tree that produces masses of delicate, fragrant, five-petaled flowers before its leaves emerge, creating clouds of blossom. It is the iconic cherry of Japanese hanami celebrations and widely planted in temperate parks.",
+      "bloomingSeason": "Late March to mid April in Japan; early to mid March in warmer parts of its range such as Kyushu and southern regions",
+      "location": "Japan (Kyushu and southern Honshu), also cultivated in Washington D.C., Korea, and temperate regions worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "In Japan, the cherry blossom season is celebrated with Hanami, a festival of flower viewing that has been a cultural tradition for centuries."
+      "funFact": "The cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and their bloom forecast is watched closely each spring."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A perennial plant with bright yellow trumpet-shaped flowers, wild daffodils are among the first spring bulbs to bloom, often carpeting woodlands and meadows in early spring.",
-      "bloomingSeason": "February to April",
-      "location": "Western Europe, particularly the UK and Ireland",
+      "description": "A bulbous perennial with a trumpet-shaped central corona surrounded by six petal-like tepals. It carpets woodlands and meadows and is the parent of many garden daffodil varieties.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
       "colors": [
-        "Yellow"
+        "Yellow",
+        "Pale yellow"
       ],
-      "emoji": "💛",
-      "funFact": "Wild daffodils are different from cultivated varieties; their populations are declining in some areas due to habitat loss."
+      "emoji": "🌼",
+      "funFact": "Daffodils contain lycorine and galantamine; galantamine is extracted from related Amaryllidaceae plants to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An evergreen tree or shrub native to Australia's east coast, the Coast Banksia produces cylindrical flower spikes composed of hundreds of tiny flowers, often creamy yellow or pale green, attracting bees and birds.",
-      "bloomingSeason": "February to April",
-      "location": "Eastern Australia",
-      "colors": [
-        "Cream",
-        "Pale Yellow",
-        "Green"
-      ],
-      "emoji": "🌿",
-      "funFact": "Banksia flowers provide an important nectar source for native wildlife and Aboriginal Australians used various Banksia species for tools and food."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia cultivar known for its large, fragrant, tulip-shaped flowers in shades of white, pink, and purple appearing before the leaves emerge.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated in temperate gardens globally, originally from China",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large Himalayan tree that bears huge, goblet-shaped flowers on bare branches in late winter and early spring. Individual blossoms can reach 25 cm across and are strikingly showy.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayan foothills (Nepal, Bhutan, northeast India, southwest China); cultivated in mild temperate gardens in the UK, New Zealand, and the Pacific Northwest",
       "colors": [
         "Pink",
-        "White",
-        "Purple"
+        "Deep rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Magnolias are among the oldest flowering plants in the world, dating back around 95 million years, predating bees; they originally relied on beetles for pollination."
+      "funFact": "Magnolias are among the most ancient flowering plants, and their flowers evolved before bees existed, so they are pollinated by beetles."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "An evergreen shrub producing the largest flower head in the Protea genus, with a bowl-shaped crown of silky pink-tipped bracts surrounding a center of tiny true flowers. It is adapted to fire-prone fynbos habitats.",
+      "bloomingSeason": "Late summer through early winter, with peak flowering in autumn in the Southern Hemisphere; some blooms appear in March",
+      "location": "Western and Southern Cape of South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silver-white"
+      ],
+      "emoji": "🌷",
+      "funFact": "The king protea is the national flower of South Africa, and its heads can reach up to 30 cm in diameter."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "February 27",
   "events": [
     {
-      "year": 380,
-      "title": "Edict of Thessalonica issued",
-      "description": "Emperor Theodosius I, along with Gratian and Valentinian II, issued the Edict of Thessalonica, declaring Nicene Christianity the state religion of the Roman Empire.",
-      "category": "Religion/Politics",
-      "significance": "This edict was a pivotal moment in the establishment of Christianity as the dominant religion in Europe, shaping religious and political landscapes for centuries."
-    },
-    {
-      "year": 1594,
-      "title": "Henry IV crowned King of France",
-      "description": "Henry IV was crowned king in the Cathedral of Chartres, marking the beginning of the Bourbon dynasty's rule over France.",
-      "category": "Politics/Monarchy",
-      "significance": "Henry IV's reign helped to restore stability to France after the Wars of Religion, leading to major reforms and the eventual rise of France as a European power."
-    },
-    {
       "year": 1933,
-      "title": "Reichstag Fire occurs in Germany",
-      "description": "The German parliament building (Reichstag) was set on fire, an event used by the Nazi Party to justify the suspension of civil liberties and consolidate power.",
-      "category": "Political History",
-      "significance": "The Reichstag Fire was a critical event that enabled Adolf Hitler to establish a totalitarian regime, leading to World War II and the Holocaust."
+      "title": "Reichstag Fire",
+      "description": "The German parliament building (Reichstag) in Berlin was set on fire on the night of February 27. Dutch communist Marinus van der Lubbe was arrested at the scene, and the Nazi leadership blamed a communist conspiracy.",
+      "category": "Politics",
+      "significance": "The following day Hitler persuaded President Hindenburg to sign the Reichstag Fire Decree, suspending civil liberties and accelerating the Nazi consolidation of dictatorial power."
+    },
+    {
+      "year": 1844,
+      "title": "Dominican Republic Declares Independence",
+      "description": "Led by Juan Pablo Duarte and the secret society La Trinitaria, Dominican patriots declared independence from Haitian rule, which had lasted since 1822.",
+      "category": "Independence",
+      "significance": "The date is celebrated as Dominican Independence Day and marks the founding of the modern Dominican Republic as a sovereign nation."
+    },
+    {
+      "year": 1932,
+      "title": "Discovery of the Neutron Announced",
+      "description": "British physicist James Chadwick reported his discovery of the neutron, an uncharged particle in the atomic nucleus, in a paper submitted to the journal Nature in February 1932.",
+      "category": "Science",
+      "significance": "The discovery transformed nuclear physics, enabled the understanding of nuclear fission, and earned Chadwick the 1935 Nobel Prize in Physics."
     },
     {
       "year": 1991,
-      "title": "The Warsaw Pact officially disbands",
-      "description": "The military alliance of communist states led by the Soviet Union was officially dissolved, marking the end of Cold War military alignments in Eastern Europe.",
-      "category": "International Relations",
-      "significance": "The disbandment symbolized the end of the Cold War era and the collapse of Soviet influence in Eastern Europe, paving the way for new political dynamics."
+      "title": "Gulf War Ends with Ceasefire Announcement",
+      "description": "President George H. W. Bush declared that Kuwait was liberated and announced the suspension of offensive combat operations after a 100-hour ground campaign by the US-led coalition against Iraqi forces.",
+      "category": "War",
+      "significance": "The announcement effectively ended Operation Desert Storm, and a formal ceasefire followed, shaping Middle East geopolitics for decades."
+    },
+    {
+      "year": 2010,
+      "title": "Magnitude 8.8 Earthquake Strikes Chile",
+      "description": "A massive earthquake struck off the coast of central Chile near Maule, triggering a tsunami that devastated coastal communities and killed more than 500 people.",
+      "category": "Natural Disaster",
+      "significance": "It was one of the strongest earthquakes ever recorded, prompting global tsunami warnings and a major re-evaluation of Chile's disaster preparedness and reconstruction efforts."
     }
   ]
 }

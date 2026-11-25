@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1962,
-      "title": "John Glenn Orbits Earth",
-      "description": "John Glenn becomes the first American astronaut to orbit the Earth aboard Friendship 7 during NASA's Mercury-Atlas 6 mission.",
-      "category": "Space Exploration",
-      "significance": "This event marked a major milestone in the United States' space program during the Space Race, boosting national pride and advancing human spaceflight."
-    },
-    {
-      "year": 1792,
-      "title": "United States Postal Service Established",
-      "description": "The United States government establishes the United States Post Office Department (now USPS).",
-      "category": "Government and Infrastructure",
-      "significance": "The creation of an organized postal service significantly improved communication across the young nation and laid the foundation for the modern postal system."
+      "title": "John Glenn Orbits the Earth",
+      "description": "Aboard the Mercury spacecraft Friendship 7, astronaut John Glenn became the first American to orbit the Earth, completing three orbits in about 4 hours and 55 minutes before splashing down in the Atlantic Ocean.",
+      "category": "Science and Space Exploration",
+      "significance": "Glenn's flight helped restore American confidence in the Space Race against the Soviet Union and was a key step toward the Apollo program and crewed lunar missions."
     },
     {
       "year": 1872,
-      "title": "Britain’s Victoria Bridge Opens in Canada",
-      "description": "The Victoria Bridge, the first bridge to span the St. Lawrence River, officially opens, connecting Montreal and the South Shore in Canada.",
-      "category": "Engineering and Infrastructure",
-      "significance": "It was one of the longest bridges in the world at the time and played a crucial role in developing Canada's railway network and economy."
+      "title": "Metropolitan Museum of Art Opens in New York City",
+      "description": "The Metropolitan Museum of Art opened to the public in its first location at 681 Fifth Avenue in Manhattan, after being founded in 1870 by a group of American businessmen, artists, and philanthropists.",
+      "category": "Arts and Culture",
+      "significance": "The museum grew into one of the largest and most visited art museums in the world, with a collection spanning five thousand years of human creativity."
     },
     {
       "year": 1943,
-      "title": "Battle of the Kasserine Pass Begins",
-      "description": "First major battle between American and Axis forces in World War II's North African campaign begins.",
-      "category": "Military History",
-      "significance": "Though initially a setback for American forces, the battle provided valuable combat experience that helped improve their effectiveness in subsequent campaigns."
+      "title": "Battle of Kasserine Pass Concludes",
+      "description": "The Battle of Kasserine Pass in Tunisia, which began on February 19, continued through February 20 as Axis forces under Erwin Rommel pushed back American and Allied troops in the first major engagement between U.S. and German forces in the North African campaign.",
+      "category": "Military",
+      "significance": "Although a setback for the Americans, the battle exposed weaknesses in U.S. command and tactics, leading to significant reforms that improved performance in later campaigns."
+    },
+    {
+      "year": 1965,
+      "title": "Ranger 8 Crashes into the Moon",
+      "description": "NASA's Ranger 8 spacecraft impacted the lunar surface in the Sea of Tranquility after transmitting over 7,000 high-resolution photographs of the Moon's surface.",
+      "category": "Science and Space Exploration",
+      "significance": "The images helped NASA scout and evaluate potential landing sites for the Apollo missions, contributing directly to the planning of the first crewed Moon landing."
+    },
+    {
+      "year": 1976,
+      "title": "Birth of Ground-Breaking Era in Spanish Politics Continues",
+      "description": "On February 20, 1976, Spain was in the midst of its transition following Franco's declining rule, a period leading to democratic reform after his death in November 1975.",
+      "category": "Politics",
+      "significance": "This period set the stage for Spain's peaceful transition to democracy under King Juan Carlos I."
     }
   ]
 }

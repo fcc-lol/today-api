@@ -2,32 +2,39 @@
   "date": "March 21",
   "events": [
     {
-      "year": 1556,
-      "title": "Earthquake in Shaanxi, China",
-      "description": "One of the deadliest earthquakes in history struck Shaanxi province in China, killing approximately 830,000 people.",
-      "category": "Natural Disaster",
-      "significance": "Marked as the most catastrophic earthquake by death toll, highlighting the vulnerability of ancient populations to seismic disasters."
-    },
-    {
-      "year": 1804,
-      "title": "Napoleon Bonaparte crowns himself Emperor",
-      "description": "Napoleon Bonaparte crowned himself Emperor of the French in a ceremony held at Notre-Dame Cathedral in Paris, bypassing the Pope's traditional role.",
-      "category": "Political Event",
-      "significance": "Signified the rise of Napoleon's power and the establishment of the First French Empire."
+      "year": 1685,
+      "title": "Birth of Johann Sebastian Bach",
+      "description": "Composer and organist Johann Sebastian Bach was born in Eisenach, Thuringia, in the Holy Roman Empire (by the Gregorian calendar; March 11 in the Julian calendar then used locally). He became one of the most celebrated composers in Western music history, known for works such as the Brandenburg Concertos, the Mass in B minor, and The Well-Tempered Clavier.",
+      "category": "Birth",
+      "significance": "Bach's mastery of counterpoint, harmony, and form shaped the foundations of Western classical music and influenced generations of composers."
     },
     {
       "year": 1960,
-      "title": "Sharpeville Massacre in South Africa",
-      "description": "South African police opened fire on a crowd of peaceful protesters against apartheid pass laws in Sharpeville, killing 69 people.",
-      "category": "Political Event/Social Movement",
-      "significance": "Brought international attention to apartheid and became a catalyst for the anti-apartheid movement."
+      "title": "Sharpeville Massacre",
+      "description": "South African police opened fire on a crowd of Black protesters demonstrating against apartheid pass laws in the township of Sharpeville, killing 69 people and wounding many more.",
+      "category": "Political Event",
+      "significance": "The massacre drew worldwide condemnation of apartheid, led to a state of emergency and the banning of the ANC and PAC, and prompted the UN to establish March 21 as the International Day for the Elimination of Racial Discrimination."
+    },
+    {
+      "year": 1963,
+      "title": "Alcatraz Federal Penitentiary Closes",
+      "description": "The notorious federal prison on Alcatraz Island in San Francisco Bay was closed by order of Attorney General Robert F. Kennedy after nearly 30 years of operation, largely due to high operating costs and deteriorating facilities.",
+      "category": "Crime and Justice",
+      "significance": "Alcatraz became a symbol of American incarceration and later a popular national park and tourist site; its closure marked the end of an era in the U.S. federal prison system."
+    },
+    {
+      "year": 1990,
+      "title": "Namibia Becomes Independent",
+      "description": "Namibia gained independence from South Africa, which had administered the territory since World War I. Sam Nujoma was sworn in as the country's first president, and the Namibian flag was raised in Windhoek.",
+      "category": "Independence",
+      "significance": "Namibia's independence ended decades of colonial and South African rule and was one of the last major decolonization events in Africa, marking a key step in the broader dismantling of white minority rule in the region."
     },
     {
       "year": 2006,
-      "title": "Twitter launched to the public",
-      "description": "The social media platform Twitter was launched publicly, enabling users to post short messages called tweets.",
-      "category": "Technological Milestone",
-      "significance": "Revolutionized social communication and information sharing in the digital age."
+      "title": "Twitter Is Founded",
+      "description": "Jack Dorsey sent the first message on Twitter, 'just setting up my twttr', launching the microblogging platform that he co-founded with Biz Stone, Evan Williams, and Noah Glass.",
+      "category": "Technology",
+      "significance": "Twitter became a major global platform for news, politics, and public discourse, transforming how information spreads and how public figures communicate."
     }
   ]
 }

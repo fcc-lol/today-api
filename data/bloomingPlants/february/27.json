@@ -2,55 +2,60 @@
   "date": "February 27",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial known for its large, white to pinkish flowers that bloom during winter and early spring. It often grows wild in mountainous regions and is popular in shaded garden beds.",
-      "bloomingSeason": "December to March",
-      "location": "Central and Southern Europe, cultivated in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink"
-      ],
-      "emoji": "❄️🌸",
-      "funFact": "Despite its common name, Christmas Rose often blooms well beyond Christmas, sometimes lasting until early spring, thriving in cold, snowy conditions."
-    },
-    {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A deciduous tree native to China and Japan, celebrated for its fragrant pink or white flowers that appear in late winter before the leaves emerge. It is culturally significant in East Asia, symbolizing perseverance and hope.",
-      "bloomingSeason": "January to March",
-      "location": "East Asia (China, Japan, Korea)",
+      "description": "A small deciduous tree that bears fragrant, five-petaled blossoms on bare branches in the last weeks of winter. It is widely cultivated in ornamental gardens and orchards and is often celebrated at ume festivals.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "East Asia, especially Japan, China, and Korea",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Ume blossoms are valued as a symbol of perseverance because they bloom while snow and cold can still linger, and the fruit is used to make umeshu liqueur and pickled umeboshi."
+    },
+    {
+      "name": "Hamamelis x intermedia",
+      "commonName": "Witch Hazel",
+      "description": "A spreading deciduous shrub whose spidery, ribbon-like petals appear on bare stems in winter and persist into early spring. Many cultivars have a spicy, sweet fragrance and some show good autumn foliage color.",
+      "bloomingSeason": "Winter to early spring (December to March)",
+      "location": "Temperate gardens of Europe and North America",
+      "colors": [
+        "yellow",
+        "orange",
+        "copper-red"
+      ],
+      "emoji": "🌼",
+      "funFact": "The petals curl up tightly in freezing weather to protect themselves and then unfurl again when temperatures rise."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A large evergreen shrub producing the biggest flower heads in the Protea genus, with a bowl of showy pink bracts surrounding a central cluster of tiny flowers. It is adapted to nutrient-poor, fire-prone fynbos habitats.",
+      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere, with flowering from late summer into autumn (February to May) in some populations",
+      "location": "Western and Southern Cape, South Africa",
       "colors": [
         "pink",
-        "white"
+        "cream",
+        "red"
       ],
-      "emoji": "🌸🍑",
-      "funFact": "Prunus mume blossoms herald the coming of spring and are featured in traditional poems and festivals in Japan and China."
+      "emoji": "🌺",
+      "funFact": "It is the national flower of South Africa, and its flower heads can reach about 30 cm (12 in) across."
     },
     {
-      "name": "Crocus sativus",
-      "commonName": "Saffron Crocus",
-      "description": "A small perennial flowering plant with vivid purple petals and bright orange stigmas, which are harvested as the spice saffron. It blooms in late winter to early spring, often before many other plants.",
-      "bloomingSeason": "October to February (in some areas blooming can extend to late February)",
-      "location": "Mediterranean region, Middle East, South Asia",
+      "name": "Crocus tommasinianus",
+      "commonName": "Woodland Crocus (Tommasini's Crocus)",
+      "description": "A small corm-forming perennial that produces goblet-shaped flowers and thin grassy leaves. It naturalizes readily in lawns and woodland, forming drifts of color as the winter fades.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "Native to the Balkans; naturalized across Europe and cultivated in North American gardens",
       "colors": [
-        "purple",
-        "orange"
+        "lilac",
+        "pale purple",
+        "silvery mauve"
       ],
-      "emoji": "💜🌼",
-      "funFact": "The saffron crocus is one of the most expensive spices in the world due to the labor-intensive harvesting of its stigmas."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree that flowers irregularly but often blooms in late summer to early autumn and can sometimes bloom in late winter in mild coastal climates. It produces cylindrical flower spikes composed of hundreds of tiny flowers, attracting many nectar-feeding birds and insects.",
-      "bloomingSeason": "Autumn to Spring, with some regional variation",
-      "location": "Eastern Australia (coastal regions)",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻🦜",
-      "funFact": "Banksia flowers are a crucial nectar source for honeyeaters and other wildlife during times when few other plants are flowering."
+      "emoji": "💜",
+      "funFact": "Its flowers open only in sunshine and are a vital early nectar and pollen source for bees emerging from winter."
     }
   ]
 }

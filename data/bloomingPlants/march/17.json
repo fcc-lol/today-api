@@ -2,56 +2,57 @@
   "date": "March 17",
   "plants": [
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A perennial bulbous plant native to Europe, characterized by its bright yellow trumpet-shaped flowers and long, slender leaves. It often signals the arrival of spring in temperate zones.",
-      "bloomingSeason": "February to April",
-      "location": "Western Europe, especially the United Kingdom, France",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree that covers its branches in clouds of pale pink-white, almond-scented blossoms before the leaves emerge. It is the most widely planted cherry for hanazakura festivals and is a hallmark of early spring in temperate regions.",
+      "bloomingSeason": "Late March to mid April in Japan and the mid-Atlantic US; earlier in warmer areas of southern Japan and Korea",
+      "location": "Japan, South Korea, Washington D.C. (USA), and temperate regions worldwide",
       "colors": [
-        "Yellow"
+        "pale pink",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "The Yoshino cherry trees around the Tidal Basin in Washington D.C. were a 1912 gift from Tokyo, and in warm years they can begin blooming around mid-March."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and blue-green strap-like leaves. It naturalizes in woodlands and meadows and is a classic harbinger of spring in Western Europe, with countless garden cultivars derived from it.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
+      "colors": [
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild daffodils can naturalize in woodlands and meadows, growing in large carpets of yellow in early spring."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub prized for its large, rose-like flowers. It blooms from late winter to spring with lush, glossy green leaves and flowers in various shades, including pink, red, and white.",
-      "bloomingSeason": "January to April",
-      "location": "East Asia, widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "Pink",
-        "Red",
-        "White"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellias are related to tea plants and have been cultivated in Asia for centuries for ornamental purposes."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia’s national floral emblem, this small tree produces vibrant yellow, fluffy flower clusters. It blooms in late winter to early spring and is adapted to dry climates.",
-      "bloomingSeason": "July to October in Australia (Southern Hemisphere). However, in some subtropical regions, cultivated plants may bloom sporadically around March.",
-      "location": "Southeastern Australia",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "The golden wattle’s flowering period varies geographically; while it naturally blooms in Southern Hemisphere winter to spring, some cultivated specimens in different climates may bloom off-season."
+      "funFact": "Daffodils contain lycorine and other alkaloids that make them toxic to most animals, which is why deer and rodents usually leave them alone. One alkaloid, galantamine, is used in medicine for Alzheimer's disease."
     },
     {
       "name": "Magnolia × soulangeana",
       "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia notable for its large, tulip-shaped flowers that emerge before the leaves in early spring. Flowers range from white to pink and deep purple.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated in temperate regions globally, originally from Asia",
+      "description": "A deciduous small tree or large shrub bearing large, tulip-shaped goblet flowers on bare branches in early spring. The blooms are white to pink-purple, often flushed darker at the base, and they can be spectacular in gardens and parks.",
+      "bloomingSeason": "Late February to April",
+      "location": "Cultivated across temperate Asia, Europe, and North America (hybrid originated in France)",
       "colors": [
-        "Pink",
-        "White",
-        "Purple"
+        "pink",
+        "white",
+        "purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Magnolia flowers have existed for millions of years, even before bees, and are pollinated by beetles."
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the most ancient flowering plants, and their flowers evolved before bees existed, so they are pollinated by beetles. The hybrid was first raised in France in the 1820s by Étienne Soulange-Bodin."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda (Blue Jacaranda)",
+      "description": "A fast-growing subtropical tree with fern-like leaves and dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere, some trees still carry late-season blooms in early autumn, and the carpets of fallen petals are striking.",
+      "bloomingSeason": "Mainly October to December in the Southern Hemisphere, with a secondary or lingering bloom into March in some locations; spring (April to June) in the Northern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and California",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "In Sydney, Australia, jacaranda blooms are a signature of the end of the year, and in Pretoria, South Africa, the city is nicknamed the Jacaranda City because of its tens of thousands of trees."
     }
   ]
 }

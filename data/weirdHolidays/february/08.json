@@ -2,36 +2,44 @@
   "date": "February 8",
   "holidays": [
     {
-      "name": "Kite Flying Day",
-      "description": "A whimsical day to dust off your kite and send it soaring high into the winter winds! Celebrate the simple joy of kite flying and enjoy a breeze-blown adventure.",
-      "origin": "Tracing back to ancient China where kites were used for military and scientific purposes, Kite Flying Day celebrates that timeless pastime that brings people together.",
-      "category": "Outdoor Activity",
-      "emoji": "🪁",
-      "funFact": "Did you know the world’s largest kite was over 6,000 square feet and flew in Hong Kong? That’s a giant canvas in the sky!"
-    },
-    {
-      "name": "Laugh and Get Rich Day",
-      "description": "Embrace the power of laughter today! This quirky holiday inspires giggles and guffaws as a way to attract good fortune and positive vibes.",
-      "origin": "Popularized by a motivational book emphasizing laughter’s role in success, this fun day encourages you to boost your wealth by smiling.",
-      "category": "Self-Improvement",
-      "emoji": "😂",
-      "funFact": "Laughter can boost your immune system and even burn calories—so laughing your way to riches might just be scientifically valid!"
-    },
-    {
-      "name": "Pizza Day (United Kingdom)",
-      "description": "A savory celebration dedicated to everyone’s favorite cheesy pie—whether thin crust, deep dish, or loaded with toppings, today is your excuse to indulge.",
-      "origin": "Gained popularity in the UK as a special day to honor pizza’s deliciousness, this unofficial food holiday brings pizza lovers together nationwide.",
-      "category": "Food",
-      "emoji": "🍕",
-      "funFact": "February 8th is different from the US National Pizza Day on February 9th—so pizza fans get to party two days in a row!"
-    },
-    {
       "name": "Boy Scouts Day",
-      "description": "Honoring the founding of the Boy Scouts of America in 1910, this day celebrates youth development, outdoor skills, and community service.",
-      "origin": "Commemorates the birthday of the Boy Scouts, an organization created to empower young people through adventure and education.",
-      "category": "Historical/Youth Organization",
-      "emoji": "🪖",
-      "funFact": "The Boy Scouts of America was directly inspired by the Scouting movement started by Robert Baden-Powell in the UK just a few years earlier."
+      "description": "A day honoring the founding of the Boy Scouts of America, celebrated with knot-tying, campfire stories, and a fresh round of 'be prepared' energy.",
+      "origin": "The Boy Scouts of America was incorporated on February 8, 1910, by William D. Boyce, a Chicago publisher, after the Scouting movement began in Britain.",
+      "category": "Commemorative",
+      "emoji": "🏕️",
+      "funFact": "Boyce reportedly got the idea after a London fog-bound encounter with a Scout who helped him find his way and refused a tip."
+    },
+    {
+      "name": "Kite Flying Day",
+      "description": "A day to take a kite outside and let the wind do the work. Ideal for anyone who wants to feel like a kid again or lose a kite in a tree.",
+      "origin": "An informal, unofficial observance that grew out of kite enthusiast communities and the generally breezy weather of late winter in many regions.",
+      "category": "Unofficial Fun Day",
+      "emoji": "🪁",
+      "funFact": "Kites have been flown in China for over 2,000 years, and early ones were used to measure distances and send military signals."
+    },
+    {
+      "name": "Molasses Bread Day",
+      "description": "A celebration of dark, sticky, slightly bitter baked goodness. Slather it with butter and pretend you live on a 1700s farmstead.",
+      "origin": "A food observance that celebrates molasses bread, a staple of colonial American kitchens when molasses was cheaper and more available than refined sugar.",
+      "category": "Food Holiday",
+      "emoji": "🍞",
+      "funFact": "Molasses was so central to colonial trade that the Molasses Act of 1733 taxed imports and helped stoke tensions leading to the American Revolution."
+    },
+    {
+      "name": "Safer Internet Day",
+      "description": "A global day for promoting safer and more responsible use of technology, especially among kids. It is a good excuse to finally change that password that is just your pet's name.",
+      "origin": "It began in 2004 as an initiative of the EU SafeBorders project and was taken up by the Insafe network. It is now celebrated in well over 100 countries, typically on the second Tuesday of February.",
+      "category": "Awareness Day",
+      "emoji": "🔐",
+      "funFact": "It is a movable observance, so it only falls on February 8 in some years, such as 2022 and 2028."
+    },
+    {
+      "name": "Just Because Day",
+      "description": "A day to do something nice, silly, or random for absolutely no reason. No explanation or occasion required.",
+      "origin": "Greeting card companies and online holiday lists popularized this occasion as a catch-all celebration, giving people permission to send gifts or compliments without a motive.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🎁",
+      "funFact": "The phrase 'just because' is so flexible that it works as a full answer to the question 'why?' in nearly every English conversation."
     }
   ]
 }

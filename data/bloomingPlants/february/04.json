@@ -2,56 +2,58 @@
   "date": "February 4",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial flowering plant growing from a bulb, often one of the first signs of spring in temperate climates. It produces goblet-shaped flowers that can be purple, yellow, or white.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Europe and North America (cultivated in gardens)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the depths of winter. It is prized in East Asian gardens and is a classic subject of poetry and painting.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocuses are among the earliest bloomers and can even push through snow to bloom, signaling the approaching spring."
+      "funFact": "Ume blossoms are a symbol of perseverance in East Asia because they bloom while snow may still be on the ground."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its large, showy flowers, often blooming during the winter months and early spring. It has glossy leaves and blooms in shades of red, pink, and white.",
-      "bloomingSeason": "Winter to spring (November to March)",
-      "location": "East Asia (native); widely cultivated in temperate gardens worldwide",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often forms dense carpets in woodlands and gardens, pushing through frost and snow.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, naturalized in the UK and North America",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "White",
+        "Green"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellias were highly prized in Japan and China and are symbols of admiration and perfection."
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound developed into a medication used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A medium-sized tree or shrub with distinctive cylindrical flower spikes that bloom in winter through spring. The flowers provide important nectar for birds and insects.",
-      "bloomingSeason": "Winter to spring (June to September in Southern Hemisphere, overlapping with February in Northern Hemisphere subtropics)",
-      "location": "Eastern Australia (native)",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A large deciduous shrub with spidery, ribbon-like flowers that unfurl on leafless branches and release a sweet, spicy fragrance. The petals curl up in extreme cold to protect themselves and unfurl again when it warms.",
+      "bloomingSeason": "Mid to late winter (December to March)",
+      "location": "Central and eastern China; widely cultivated in temperate gardens",
       "colors": [
-        "yellow"
+        "Golden yellow",
+        "Orange"
       ],
       "emoji": "🌼",
-      "funFact": "Banksias are named after Sir Joseph Banks, the botanist who accompanied Captain Cook on his voyage to Australia."
+      "funFact": "Witch hazel flowers can curl their petals tightly in freezing weather and then reopen without damage."
     },
     {
-      "name": "Mahonia aquifolium",
-      "commonName": "Oregon Grape",
-      "description": "An evergreen shrub with holly-like leaves and bright yellow flowers that bloom in late winter, followed by dark blue berries.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Northwestern North America (native)",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub whose enormous flower heads, composed of showy bracts around a central cluster of true flowers, can reach 30 cm across. It thrives in the fynbos vegetation of South Africa's Cape region.",
+      "bloomingSeason": "Southern Hemisphere late summer, with blooms from late winter to summer in some regions; flowers can appear around February in cultivated areas",
+      "location": "Southwestern and southern South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "yellow"
+        "Pink",
+        "Cream",
+        "Crimson"
       ],
-      "emoji": "💐",
-      "funFact": "Oregon grape is a common ornamental plant and also used in traditional medicine by Indigenous peoples."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and its genus is named after the Greek god Proteus because of the plant's many forms."
     }
   ]
 }

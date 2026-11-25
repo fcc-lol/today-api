@@ -2,57 +2,57 @@
   "date": "February 24",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A perennial bulbous plant known for signaling the start of spring with its cup-shaped flowers that emerge through late winter snow in temperate regions.",
-      "bloomingSeason": "February to April",
-      "location": "Native to central and southern Europe, widely cultivated in temperate gardens worldwide",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter, before its leaves emerge. It is widely cultivated in ume groves and gardens and is a classic subject of East Asian art and poetry.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocuses were among the first flowers cultivated by ancient humans and have been used historically as a source of saffron from a related species."
+      "funFact": "Ume blossoms often open while snow is still on the ground, so they symbolize perseverance and hope. The fruit is pickled to make umeboshi and used in plum wine."
     },
     {
-      "name": "Rhododendron ferrugineum",
-      "commonName": "Alpenrose",
-      "description": "An evergreen shrub that thrives in acidic, alpine soils and produces bright pink to red bell-shaped flowers during late winter to early spring in mountainous regions.",
-      "bloomingSeason": "February to May",
-      "location": "Alps and Pyrenees mountain ranges of Europe",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, often pushing up through frost and snow.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, naturalized in the UK and North America",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic evergreen shrub of the fynbos with huge flower heads made of showy bracts surrounding a central cluster of tiny flowers. Its blooming peaks in the southern hemisphere's late summer into autumn, so it is often seen in flower around this date.",
+      "bloomingSeason": "Late summer to autumn in the southern hemisphere (peak February to May, with some blooms in spring)",
+      "location": "Southwestern and southern South Africa",
       "colors": [
         "pink",
+        "cream",
         "red"
       ],
       "emoji": "🌺",
-      "funFact": "The Alpenrose is the floral emblem of the Swiss canton of Valais, symbolizing the beauty and resilience of alpine flora."
+      "funFact": "The king protea is South Africa's national flower, and its flower heads can reach over 30 cm across. It is adapted to fire and resprouts after bushfires."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle",
-      "description": "A fast-growing evergreen tree famous for its fluffy, fragrant yellow flower clusters that brighten late winter landscapes in Mediterranean and subtropical climates.",
-      "bloomingSeason": "January to March",
-      "location": "Native to southeastern Australia; widely planted in Mediterranean, California, and southern Europe climates",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A fast-growing Australian tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. Although it peaks in late winter and spring, some wattles and other acacias are in bloom across Australia in late February in cooler, higher or southern regions.",
+      "bloomingSeason": "Late winter to spring (July to October), with some wattle species flowering in other months",
+      "location": "Southeastern Australia",
       "colors": [
-        "yellow"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The Silver Wattle is celebrated in parts of Europe, such as Italy and France, where its blooming is associated with international women’s day in early March."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy leaves and large, showy flowers blooming in winter to early spring, popular in shaded garden areas of temperate regions.",
-      "bloomingSeason": "December to April",
-      "location": "Native to Japan, Korea, and China; widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia flowers were historically prized in East Asia not only as ornamental plants but also as symbols of purity and longevity."
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
     }
   ]
 }

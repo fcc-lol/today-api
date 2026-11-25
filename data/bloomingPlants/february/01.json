@@ -2,54 +2,60 @@
   "date": "February 1",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A perennial bulbous plant known for its early bright and colorful cup-shaped flowers emerging from the ground often through snow, signaling early spring in temperate climates.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Europe and North America (temperate zones)",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a mainstay of winter gardens in warm temperate regions.",
+      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "red",
+        "pink",
+        "white",
+        "variegated"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea, including green, black, and oolong."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, heralding the end of winter.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and elsewhere",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce galantamine, a compound used in medication to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the depths of winter. It is highly valued in East Asian culture and often blooms before the leaves emerge.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Native to southern China; cultivated across China, Japan, Korea, and Vietnam",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocuses are among the first flowers to bloom after winter, often poking through late snow, making them a traditional symbol of new beginnings."
+      "funFact": "In Chinese culture, plum blossom is one of the 'Three Friends of Winter' along with pine and bamboo, symbolizing perseverance and resilience."
     },
     {
-      "name": "Mahonia aquifolium",
-      "commonName": "Oregon Grape",
-      "description": "An evergreen shrub with holly-like leaves and clusters of bright yellow flowers appearing in early spring, providing nectar for early pollinators.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "Pacific Northwest, USA and Canada",
+      "name": "Delonix regia",
+      "commonName": "Flamboyant Tree (Royal Poinciana)",
+      "description": "A spreading tropical tree with fern-like leaves and a canopy covered in brilliant clusters of flowers. In the Southern Hemisphere summer it is in full display, followed by long woody seed pods.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February) and in the dry season in some tropical regions",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions, including northern Australia, Brazil, and southern Africa",
       "colors": [
-        "yellow"
+        "scarlet",
+        "orange",
+        "red"
       ],
-      "emoji": "🌼",
-      "funFact": "Mahonia flowers are an important early nectar source for bees emerging after winter dormancy."
-    },
-    {
-      "name": "Acacia dealbata",
-      "commonName": "Mimosa or Silver Wattle",
-      "description": "A fast-growing tree known for its fragrant, bright yellow, fluffy flower clusters that bloom in late winter, heralding spring in Mediterranean and subtropical climates.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Mediterranean Basin, Australia, and subtropical regions",
-      "colors": [
-        "bright yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "The yellow blooms of Acacia dealbata are traditionally celebrated in many Mediterranean countries during winter festivals."
-    },
-    {
-      "name": "Winter Jasmine (Jasminum nudiflorum)",
-      "commonName": "Winter Jasmine",
-      "description": "A deciduous shrub producing bright yellow, trumpet-shaped flowers directly on green arching stems during the winter months when few other plants bloom.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "China and widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Winter Jasmine flowers on bare green stems before leaves appear, making it very distinctive and valuable for winter color in gardens."
+      "emoji": "🌳",
+      "funFact": "Despite its global popularity, the flamboyant tree is endangered in its native Madagascar because of habitat loss."
     }
   ]
 }
