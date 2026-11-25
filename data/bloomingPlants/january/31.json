@@ -2,56 +2,63 @@
   "date": "January 31",
   "plants": [
     {
-      "name": "Witch Hazel",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub known for its fragrant, spidery yellow flowers that often bloom in late winter before the leaves appear. It thrives in temperate regions and is often found in woodland gardens.",
-      "bloomingSeason": "January to March",
-      "location": "Eastern North America, Japan, China",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch Hazel flowers release their pollen explosively in a rapid motion to aid pollination."
-    },
-    {
       "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub widely appreciated for its large, rose-like flowers which bloom in the winter and early spring. Commonly found in gardens across East Asia and cultivated globally.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated worldwide",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. It is a classic winter bloomer in mild climates and is widely cultivated in gardens and parks, with thousands of cultivars.",
+      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; cultivated in the southeastern United States, Western Europe, Australia, and New Zealand",
       "colors": [
-        "Pink",
-        "Red",
-        "White"
+        "red",
+        "pink",
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia oil, extracted from the seeds, is used in cooking and cosmetics in Asia."
+      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true teas, including green, black, and oolong."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing, frost-tender tree native to eastern Australia with bright orange to yellow spider-like flowers. It blooms during the southern hemisphere summer and early autumn, continuing into January.",
-      "bloomingSeason": "September to January",
-      "location": "Eastern Australia",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the coldest part of winter. It is celebrated in East Asian art and poetry as a symbol of perseverance and the coming spring.",
+      "bloomingSeason": "Late January to March",
+      "location": "Native to southern China; widely grown in Japan, Korea, and Taiwan, and in temperate gardens elsewhere",
       "colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but is valued for its decorative timber."
-    },
-    {
-      "name": "Almond Tree",
-      "commonName": "Almond Blossom",
-      "description": "This deciduous tree produces delicate pale pink to white flowers that appear in late winter to early spring, heralding the coming growing season. It is widely cultivated for its nuts.",
-      "bloomingSeason": "January to March",
-      "location": "Mediterranean Basin, California, Middle East",
-      "colors": [
-        "Pink",
-        "White"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Almond blossoms are one of the earliest flowering trees in Mediterranean climates, often blooming even before leaves emerge."
+      "funFact": "The blossoms often open while snow is still on the ground, which is why the tree is one of the 'Three Friends of Winter' in Chinese culture."
+    },
+    {
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial with huge trumpet-shaped flowers on tall hollow stalks. In the Northern Hemisphere it is commonly forced indoors for winter blooms, while in the Southern Hemisphere it blooms outdoors in summer gardens.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; late spring to summer outdoors in the Southern Hemisphere",
+      "location": "Native to South America and the Andes; cultivated worldwide",
+      "colors": [
+        "red",
+        "white",
+        "pink",
+        "orange",
+        "striped"
+      ],
+      "emoji": "❤️",
+      "funFact": "Amaryllis bulbs can bloom again year after year, and a single bulb may produce several flower stalks in a season."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of blue trumpet-shaped flowers on tall stems. It thrives in the warm summer conditions of the Southern Hemisphere.",
+      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
+      "location": "Native to South Africa; naturalized and widely planted in Australia, New Zealand, and coastal California",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, it is not a true lily, and the genus name comes from the Greek words for 'love' and 'flower'."
     }
   ]
 }

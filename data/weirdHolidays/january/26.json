@@ -2,36 +2,44 @@
   "date": "January 26",
   "holidays": [
     {
-      "name": "Spouse's Day",
-      "description": "A day to appreciate, love, and thank your spouse for putting up with you, and to celebrate your unique partnership.",
-      "origin": "Started to encourage married couples to take a moment to acknowledge their significant other and the commitment they share.",
-      "category": "Relationship Appreciation",
-      "emoji": "❤️",
-      "funFact": "Spouse's Day is unofficial, but many couples use it as an excuse to spoil each other with silly gifts and surprise dates."
+      "name": "National Peanut Brittle Day",
+      "description": "A crunchy, sweet celebration of the hard candy made of caramelized sugar and roasted peanuts. Time to risk your dental work for a good cause!",
+      "origin": "Part of the American tradition of unofficial national food days, promoted by candy lovers and food-day calendars. Peanut brittle itself is a Southern classic, said to have been invented in the 1800s when a cook accidentally added baking soda to a candy batch.",
+      "category": "Food",
+      "emoji": "🥜",
+      "funFact": "Peanut brittle is often said to have been born from a kitchen mistake, and its signature airy crunch comes from baking soda reacting with hot sugar syrup to create tiny bubbles."
     },
     {
-      "name": "Opposite Day",
-      "description": "A quirky day when everything you say or do is taken in reverse meaning: yes means no, up means down, and left means right!",
-      "origin": "A playful invention by children that has grown into a weird cultural phenomenon across schools and social circles.",
-      "category": "Fun/Playful Tradition",
-      "emoji": "🔄",
-      "funFact": "Philosophers have jokingly pondered if Opposite Day creates paradoxes—like if you say 'Opposite Day is today' on Opposite Day, is it really?!"
-    },
-    {
-      "name": "Potato Day",
-      "description": "A day to honor and celebrate the humble potato, one of the world’s most versatile and beloved foods.",
-      "origin": "Observed by many regions that rely heavily on potatoes as a staple crop, it’s become a fun culinary holiday worldwide.",
-      "category": "Food Holiday",
-      "emoji": "🥔",
-      "funFact": "The world's largest potato weighed over 11 pounds—about as much as a small bowling ball!"
+      "name": "National Spouse's Day",
+      "description": "A day set aside to appreciate your husband, wife, or life partner, ideally with more effort than remembering to take out the trash.",
+      "origin": "Celebrated in the United States on January 26 as an unofficial observance encouraging people to show appreciation for their spouses, and often listed among national days in popular calendars.",
+      "category": "Relationships",
+      "emoji": "💑",
+      "funFact": "It falls just a few weeks before Valentine's Day, making it the perfect low-pressure warm-up round for romantic gestures."
     },
     {
       "name": "Australia Day",
-      "description": "National day of Australia celebrating the arrival of the First Fleet at Sydney Cove in 1788. Marked by festivities, citizenship ceremonies, and sometimes debate.",
-      "origin": "Commemorates the establishment of the first British colony in Australia and is both a celebration and a day of reflection on its history.",
+      "description": "Australia's national day, marked with barbecues, fireworks, citizenship ceremonies, and the beloved tradition of the Australia Day lamington. It is also a day of reflection, protest, and debate, known by many Aboriginal and Torres Strait Islander people as Survival Day or Invasion Day.",
+      "origin": "Commemorates the 1788 arrival of the First Fleet of British ships at Sydney Cove and the raising of the British flag. It became a national public holiday in all states and territories in 1994.",
       "category": "National Holiday",
       "emoji": "🇦🇺",
-      "funFact": "Australia Day is celebrated with 'barbie' (barbecue) gatherings where locals grill everything from sausages to kangaroo meat!"
+      "funFact": "Each year, Australians celebrate with an unofficial tradition of the 'Hottest 100' countdown on the radio station Triple J, which is one of the world's largest annual music polls."
+    },
+    {
+      "name": "Republic Day (India)",
+      "description": "A grand national holiday in India featuring a massive parade in New Delhi with military marches, elaborate cultural floats, camel contingents, and flypasts.",
+      "origin": "Marks the day in 1950 when the Constitution of India came into effect, replacing the Government of India Act 1935 and making India a sovereign republic.",
+      "category": "National Holiday",
+      "emoji": "🇮🇳",
+      "funFact": "The celebrations end with the 'Beating Retreat' ceremony, and each year a different world leader is invited as the chief guest of honor."
+    },
+    {
+      "name": "Letter to an Elder Day",
+      "description": "A sweet observance encouraging people to write a heartfelt handwritten letter to an older person in their life, which is a rare treat in the age of text messages.",
+      "origin": "A lesser-known awareness observance promoted by community and senior-care groups to fight loneliness among older adults and revive the lost art of letter writing.",
+      "category": "Awareness",
+      "emoji": "✉️",
+      "funFact": "Many older adults say a physical letter is something they keep and re-read for years, making it a gift that outlasts any emoji."
     }
   ]
 }

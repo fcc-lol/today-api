@@ -2,56 +2,61 @@
   "date": "January 30",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial flowering plant with cup-shaped, showy flowers that often bloom in late winter to early spring, signaling the end of winter. These bulbs produce vibrant flowers emerging through snow in cooler climates.",
-      "bloomingSeason": "January to April",
-      "location": "Europe, particularly Mediterranean regions and temperate zones",
-      "colors": [
-        "purple",
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Crocuses are among the first bulbs to bloom after winter, sometimes even poking through snow!"
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its large, rose-like blooms that appear during winter and early spring. Popular in gardens for its glossy foliage and striking flowers.",
-      "bloomingSeason": "December to April",
-      "location": "East Asia (Japan, China, Korea) and cultivated worldwide in temperate regions",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is widely cultivated in gardens, with thousands of cultivars in many forms.",
+      "bloomingSeason": "Late winter to early spring (December to March in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Pacific coastal regions",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers have been used in traditional East Asian art and tea ceremonies."
+      "funFact": "Camellia japonica is a close relative of the tea plant (Camellia sinensis), and in Japan its blooms are linked to samurai culture because the whole flower drops at once."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A tree native to eastern Australia that produces striking cylindrical flower spikes containing hundreds of tiny flowers. It blooms in the austral summer and can last into the early autumn months.",
-      "bloomingSeason": "January to April",
-      "location": "Eastern Australia",
+      "name": "Prunus mume",
+      "commonName": "Chinese Plum / Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the cold of winter, before the leaves emerge. It is a cherished symbol of perseverance and hope in East Asian culture.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Native to southern China; cultivated across China, Japan, Korea, and Taiwan",
       "colors": [
-        "yellow"
+        "White",
+        "Pink",
+        "Deep red"
       ],
-      "emoji": "🌼",
-      "funFact": "Banksias are an important nectar source for many Australian birds and mammals."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms appear weeks before cherry blossoms, and the fruit is used to make umeboshi (pickled plums) and umeshu (plum wine)."
     },
     {
-      "name": "Winter Jasmine",
-      "commonName": "Winter Jasmine",
-      "description": "A hardy deciduous shrub known for its bright yellow flowers that bloom in late winter, often before leaf emergence. It adds color to gardens during the dull winter months.",
-      "bloomingSeason": "January to March",
-      "location": "Native to China and Korea; cultivated in temperate regions globally",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with large, bowl-shaped flower heads made of colorful bracts surrounding a central cluster of tiny flowers. It is adapted to fire-prone, nutrient-poor fynbos soils.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak flowering from November to February, and some blooms through autumn",
+      "location": "Native to the southwestern and southern Cape regions of South Africa",
       "colors": [
-        "yellow"
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
       "emoji": "🌼",
-      "funFact": "Winter jasmine blooms on leafless stems, making its yellow flowers particularly prominent against a winter landscape."
+      "funFact": "The King Protea is South Africa's national flower, and the genus Protea was named after the Greek god Proteus, who could change shape, because of the plant's great diversity."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, heralding the end of winter.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and elsewhere",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of Alzheimer's disease."
     }
   ]
 }

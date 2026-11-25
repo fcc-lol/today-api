@@ -2,32 +2,39 @@
   "date": "February 7",
   "events": [
     {
-      "year": 1497,
-      "title": "First Italian War Begins",
-      "description": "King Charles VIII of France crosses the Alps with an army, initiating the First Italian War aiming to claim the Kingdom of Naples.",
-      "category": "War",
-      "significance": "Marked the beginning of prolonged French involvement in Italy and numerous European conflicts."
-    },
-    {
       "year": 1812,
-      "title": "Charles Dickens Born",
-      "description": "Charles Dickens, the influential English novelist and social critic, is born in Portsmouth, England.",
+      "title": "Birth of Charles Dickens",
+      "description": "Charles Dickens, one of the greatest English novelists of the Victorian era, was born in Landport, Portsmouth, England. He went on to write works such as Oliver Twist, A Christmas Carol, David Copperfield, and Great Expectations.",
       "category": "Birth",
-      "significance": "Dickens' works shaped Victorian literature and highlighted social issues of his time."
+      "significance": "Dickens shaped English literature and brought public attention to poverty, child labor, and social inequality in industrial Britain."
     },
     {
-      "year": 1964,
-      "title": "The Beatles Arrive in the United States",
-      "description": "The Beatles land at JFK Airport in New York, marking the start of Beatlemania in America.",
-      "category": "Culture",
-      "significance": "This event triggered a cultural revolution in music and youth culture globally."
+      "year": 1904,
+      "title": "Great Baltimore Fire Begins",
+      "description": "A fire broke out in the Hayman Building in downtown Baltimore, Maryland, and burned for about 30 hours. It destroyed more than 1,500 buildings across roughly 140 acres of the city's commercial core.",
+      "category": "Disaster",
+      "significance": "The fire led to major improvements in firefighting and fire codes, including standardization of fire hydrant couplings, after outside fire companies could not connect their hoses to Baltimore's hydrants."
     },
     {
-      "year": 1969,
-      "title": "Russian Soyuz 4 and Soyuz 5 Manned Spaceflight and Docking",
-      "description": "The Soviet spacecraft Soyuz 4 and Soyuz 5 successfully docked, allowing crew transfer in orbit.",
-      "category": "Science and Technology",
-      "significance": "First successful docking and crew transfer between two manned spacecraft, a milestone in space exploration."
+      "year": 1943,
+      "title": "Rationing of Shoes Announced in the United States",
+      "description": "The U.S. Office of Price Administration announced that shoe rationing would begin during World War II, limiting civilians to three pairs of leather shoes per year. The policy was part of broader wartime conservation efforts.",
+      "category": "Politics",
+      "significance": "It showed how deeply the war effort affected daily civilian life on the American home front and the scale of resource mobilization."
+    },
+    {
+      "year": 1974,
+      "title": "Grenada Gains Independence from Britain",
+      "description": "Grenada became an independent nation within the Commonwealth, with Eric Gairy as its first prime minister. The Caribbean island had been a British colony since 1763.",
+      "category": "Politics",
+      "significance": "Grenada's independence was part of the broader decolonization of the Caribbean. Its later political turmoil, including the 1979 revolution and 1983 U.S. invasion, drew international attention."
+    },
+    {
+      "year": 1992,
+      "title": "Maastricht Treaty Signed",
+      "description": "Representatives of the twelve member states of the European Community signed the Treaty on European Union in Maastricht, Netherlands. It created the European Union and laid the groundwork for a common currency.",
+      "category": "Politics",
+      "significance": "The treaty established the framework for the euro, common foreign and security policy, and EU citizenship, deepening European integration."
     }
   ]
 }
