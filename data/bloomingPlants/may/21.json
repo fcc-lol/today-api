@@ -2,56 +2,77 @@
   "date": "May 21",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub known for its vibrant clusters of bell-shaped flowers. It thrives in temperate climates and is often found in woodlands and mountainous areas.",
-      "bloomingSeason": "April to June",
-      "location": "Europe and Western Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to double flowers on sturdy stems above glossy, deeply divided foliage. A beloved cottage garden and cut-flower favorite that can live for decades.",
+      "bloomingSeason": "Late spring (May to early June in the Northern Hemisphere)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "coral"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peonies are often visited by ants that feed on sugary nectar on the buds, but contrary to myth, the ants are not required for the flowers to open."
+    },
+    {
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub bearing dense, cone-shaped clusters of intensely fragrant tiny flowers. In cooler northern regions, late-blooming varieties are at peak or finishing around this date.",
+      "bloomingSeason": "Mid to late spring (late April to late May in cooler northern regions)",
+      "location": "Native to the Balkan Peninsula; cultivated throughout cool temperate regions of Europe, North America, and northern Asia",
+      "colors": [
+        "lavender",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "💜",
+      "funFact": "Lilac belongs to the olive family (Oleaceae), making it a relative of jasmine and ash trees."
+    },
+    {
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A compact, suckering shrub rose with fragrant, semi-double to double flowers and golden stamens. One of the oldest cultivated roses, it blooms in a single glorious flush in late spring.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to central and southern Europe and western Asia; grown in heritage gardens worldwide",
+      "colors": [
+        "deep pink",
+        "crimson",
+        "magenta",
+        "purple"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rosa gallica was used by ancient Romans and later medieval apothecaries, and dried petals retain their fragrance for years, making them prized for potpourri."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful tree with fern-like foliage that bursts into billowing clusters of trumpet-shaped lavender-blue flowers, carpeting the ground beneath. In the Northern Hemisphere subtropics it blooms in late spring.",
+      "bloomingSeason": "Late spring to early summer (May to June) in the Northern Hemisphere; October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in Los Angeles, Mexico City, Pretoria, Lisbon, Sydney, and other warm regions",
+      "colors": [
+        "lavender",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Mexico City, jacaranda blossoms in spring turn the streets purple, and in Pretoria, South Africa, the tree is so abundant that the city is nicknamed the Jacaranda City."
+    },
+    {
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "A biennial with tall spires of tubular, bell-shaped flowers spotted inside, adored by bumblebees. It thrives in woodland clearings, hedgerows, and cottage gardens.",
+      "bloomingSeason": "Late spring to midsummer (May to July)",
+      "location": "Native to western and southwestern Europe and northwest Africa; naturalized in parts of North America, New Zealand, and Australia",
       "colors": [
         "purple",
         "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is known to form dense thickets that can dominate and reduce biodiversity in some regions where it is invasive."
-    },
-    {
-      "name": "Cassia fistula",
-      "commonName": "Golden Shower Tree",
-      "description": "A tropical to subtropical tree famous for its cascading clusters of bright yellow flowers that cover the entire tree, usually blooming spectacularly in late spring.",
-      "bloomingSeason": "April to June",
-      "location": "Indian subcontinent and Southeast Asia",
-      "colors": [
+        "white",
         "yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "The Golden Shower Tree is the national tree of Thailand and its flowers are used in traditional medicine."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Bigleaf Lupine",
-      "description": "A native wildflower in North America with tall spikes covered in pea-like blossoms. Commonly found in sandy soils and pine barrens.",
-      "bloomingSeason": "May to July",
-      "location": "Eastern United States",
-      "colors": [
-        "blue",
-        "purple",
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Lupines enrich the soil by fixing nitrogen, benefiting the surrounding plant community."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "An evergreen tree with large, fragrant white flowers that bloom in late spring through summer. Common in warm temperate regions.",
-      "bloomingSeason": "May to July",
-      "location": "Southeastern United States",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and have a lemony fragrance."
+      "emoji": "🔔",
+      "funFact": "All parts of foxglove are highly toxic, yet it is the original source of digoxin, a heart medication still used today."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "October 8",
   "holidays": [
     {
-      "name": "Fluffernutter Day",
-      "description": "Celebrate the iconic sandwich made from peanut butter and marshmallow fluff! It's a delightfully sticky and sweet treat beloved mostly in the Northeastern U.S.",
-      "origin": "This quirky food holiday originated to honor the marshmallow fluff created in the early 1900s and the classic sandwich combinations that followed.",
+      "name": "International Octopus Day",
+      "description": "A day to celebrate the eight-armed, three-hearted, blue-blooded geniuses of the sea. Fans honor octopuses for their intelligence, camouflage skills, and talent for escaping aquarium tanks.",
+      "origin": "The date, 10/8, was chosen as a pun on the octopus's eight arms (October is the 8th... well, 10 and 8 - 'Octo'). It is an unofficial observance promoted by ocean lovers and marine conservation fans.",
+      "category": "Animal Appreciation",
+      "emoji": "🐙",
+      "funFact": "An octopus has three hearts and blue blood, and two of its hearts stop beating when it swims, which is partly why it prefers crawling."
+    },
+    {
+      "name": "National Fluffernutter Day",
+      "description": "A celebration of the sticky, sweet sandwich made with peanut butter and marshmallow creme on white bread. It is nostalgic comfort food at its gooiest.",
+      "origin": "The Fluffernutter was popularized in New England in the early 20th century, after Durkee-Mower of Lynn, Massachusetts began marketing Marshmallow Fluff. The sandwich name came from a 1960s promotional campaign.",
       "category": "Food Holiday",
       "emoji": "🥪",
-      "funFact": "During World War II, marshmallow fluff was packed in soldiers' rations alongside peanut butter, making the fluffernutter a wartime favorite!"
+      "funFact": "In 2006, a Massachusetts state senator proposed making a school-lunch limit on Fluffernutters, which sparked a 'Fluffernutter Rebellion' and a counter-bill to make it the official state sandwich."
     },
     {
-      "name": "National Smile Day",
-      "description": "A day to share your brightest, quirkiest, or goofiest grin with the world. Smiling not only boosts your mood but can be downright contagious!",
-      "origin": "Created by a smile enthusiast to encourage positivity and happiness worldwide.",
+      "name": "National Pierogi Day",
+      "description": "A day to enjoy stuffed dumplings filled with potato, cheese, sauerkraut, meat, or even fruit. Pierogi fans mark the day by boiling, pan-frying, and topping them with sour cream and onions.",
+      "origin": "Pierogi are rooted in Eastern European cuisine, especially Poland, and the day is an American food observance created to celebrate the beloved dumpling.",
+      "category": "Food Holiday",
+      "emoji": "🥟",
+      "funFact": "Pierogi are so popular in Cleveland, Ohio, and Whiting, Indiana, that both host festivals, and Cleveland's baseball stadium hosts pierogi races between costumed dumplings."
+    },
+    {
+      "name": "Free Thought Day",
+      "description": "A day for questioning, reasoning, and celebrating independent thinking without dogma. It encourages people to explore ideas freely and thoughtfully.",
+      "origin": "Observed in some secular and humanist circles, it grew out of freethought movements that began in earnest during the Enlightenment era and spread through 19th century societies.",
       "category": "Awareness Day",
-      "emoji": "😊",
-      "funFact": "Psychologists have found that simply smiling—even if you’re not happy—can trick your brain into feeling better."
+      "emoji": "🧠",
+      "funFact": "The 'freethinker' label dates back to the late 1600s, when it was first used to describe people who formed opinions by reason rather than authority."
     },
     {
-      "name": "World Octopus Day",
-      "description": "Celebrate the fascinating sea creature known for its intelligence and eight arms. It's a day to appreciate octopuses in oceans, aquariums, and mythologies!",
-      "origin": "An unofficial global observance embraced by marine biologists and sea lovers to raise awareness about ocean conservation.",
-      "category": "Environmental Awareness",
-      "emoji": "🐙",
-      "funFact": "Octopuses have three hearts and blue blood, making them some of the most uniquely endowed creatures on the planet."
-    },
-    {
-      "name": "Do Something Nice Day",
-      "description": "A gentle nudge to spread kindness, perform random acts of generosity, or brighten someone's day with a smile or helpful gesture.",
-      "origin": "An unofficial day promoted by various kindness organizations to encourage goodwill year-round.",
-      "category": "Social Good",
-      "emoji": "🤗",
-      "funFact": "Acts of kindness release endorphins in the brain, creating what’s called the “helper’s high.” Doing good feels good!"
+      "name": "Underdog Day",
+      "description": "A day to cheer for the long shots, the little guys, and anyone overlooked, from sports teams to cartoon dogs with capes. It encourages rooting for unlikely heroes.",
+      "origin": "This unofficial observance is tied to the cartoon superhero dog 'Underdog,' who first aired in 1964 and made the phrase a pop culture staple.",
+      "category": "Pop Culture",
+      "emoji": "🐶",
+      "funFact": "Underdog, a humble shoeshine boy dog who fights villains in rhyming speech, was a balloon in the Macy's Thanksgiving Day Parade for years."
     }
   ]
 }

@@ -2,59 +2,73 @@
   "date": "June 16",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Garden Rose",
-      "description": "Roses are a classic garden favorite, known for their large, fragrant, and colorful flowers. They bloom abundantly in late spring and early summer in temperate regions around the world.",
-      "bloomingSeason": "May to June (Northern Hemisphere)",
-      "location": "Temperate regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with narrow gray-green leaves and dense spikes of small tubular flowers held on slender stems. It is widely cultivated in gardens and fields and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, southern France, England, and cultivated worldwide in the Northern Hemisphere",
       "colors": [
-        "red",
+        "purple",
+        "lavender",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender oil has been used since Roman times, and the plant's name likely comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
+    },
+    {
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, forming a low, suckering shrub with prickly stems and richly scented, semi-double flowers. Along with many other old garden roses, it peaks in mid-June in temperate gardens.",
+      "bloomingSeason": "Late spring to early summer (June in temperate Northern Hemisphere)",
+      "location": "Central and southern Europe, western Asia; cultivated in temperate gardens worldwide",
+      "colors": [
         "pink",
-        "white",
-        "yellow",
-        "orange"
+        "crimson",
+        "magenta"
       ],
       "emoji": "🌹",
-      "funFact": "There are over 300 species of roses, and they have been cultivated for thousands of years for their beauty and fragrance."
+      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally in the Middle Ages and its petals keep their fragrance even when dried."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This wildflower is known for its tall, spiky flower clusters that are often blue or purple. It blooms in late spring and early summer, commonly found in meadows and along roadsides in temperate zones.",
-      "bloomingSeason": "May to July",
-      "location": "North America, especially Pacific Northwest",
+      "name": "Leucospermum cordifolium",
+      "commonName": "Nodding Pincushion Protea",
+      "description": "An evergreen shrub with leathery leaves and spectacular rounded flower heads packed with long, curved styles that resemble pins stuck in a cushion. It thrives in fynbos habitat and blooms as the Southern Hemisphere winter turns toward spring.",
+      "bloomingSeason": "Late winter to spring (peak around August to November, with early blooms in winter months in the Southern Hemisphere)",
+      "location": "Western Cape, South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
+        "orange",
+        "red",
+        "yellow",
+        "apricot"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines can fix nitrogen in the soil, improving soil fertility for surrounding plants."
+      "emoji": "🌺",
+      "funFact": "Pincushion proteas are pollinated by birds such as sunbirds, and their seeds are carried off and buried by ants, which protects them from fire."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree that produces large, cylindrical flower spikes made up of hundreds of tiny flowers. It blooms in early to mid-summer along the east coast of Australia.",
-      "bloomingSeason": "December to June (Southern Hemisphere)",
-      "location": "Coastal eastern Australia",
+      "name": "Lilium candidum",
+      "commonName": "Madonna Lily",
+      "description": "A tall bulbous perennial with pure white, trumpet-shaped, intensely fragrant flowers on upright stems. It is among the earliest lilies to bloom in the northern summer garden.",
+      "bloomingSeason": "Early summer (June to July)",
+      "location": "Eastern Mediterranean and Balkans; naturalized and cultivated across Europe and North America",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksias are important nectar sources for birds and insects in Australian ecosystems."
-    },
-    {
-      "name": "Tussilago farfara",
-      "commonName": "Coltsfoot",
-      "description": "A small wildflower that blooms before its leaves appear, often in early spring to early summer in temperate regions. It has bright yellow, dandelion-like flowers and typically grows in disturbed soils and roadsides.",
-      "bloomingSeason": "March to June",
-      "location": "Europe, Asia, and parts of North America",
-      "colors": [
-        "yellow"
+        "white",
+        "golden-yellow center"
       ],
       "emoji": "🌼",
-      "funFact": "Coltsfoot was once used as a herbal remedy for coughs and respiratory ailments."
+      "funFact": "Depictions of this lily appear in Minoan frescoes about 3,500 years old, making it one of the oldest known cultivated flowers."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful tree with fern-like foliage that is covered in clouds of lilac-blue trumpet-shaped flowers. In the Southern Hemisphere it is late autumn to early winter, but in warm Northern Hemisphere regions such as the southern United States, it is in full flower in June.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America (Argentina, Bolivia); planted in Florida, California, Texas, Mediterranean regions, Africa, and Australia",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas create purple-covered streets, and a local superstition says that a blossom falling on your head brings good luck."
     }
   ]
 }

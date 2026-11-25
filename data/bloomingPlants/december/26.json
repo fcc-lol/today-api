@@ -2,58 +2,62 @@
   "date": "December 26",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub widely cultivated in warm climates, producing clusters of fragrant, tubular flowers. Oleander flowers can range in color from white and pink to red and yellow. It is drought-tolerant and often used in landscaping in Mediterranean and subtropical regions.",
-      "bloomingSeason": "Late spring to winter in mild climates; blooms can persist into December especially in warmer areas",
-      "location": "Mediterranean basin, southern United States, India",
-      "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested but has been used historically in traditional medicine with caution."
-    },
-    {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "A hardy evergreen tree native to Australian alpine and subalpine regions. It produces clusters of creamy white flowers during the cooler months, providing nectar for native birds and insects.",
-      "bloomingSeason": "Late autumn to early winter (May to August in Southern Hemisphere; December blooms in Northern Hemisphere environments or cultivated zones)",
-      "location": "Australia (high-altitude regions)",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Snow gums are prized for their adaptability to cold and high altitudes, often growing near or above the snowline."
-    },
-    {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial known for its attractive white to pinkish flowers appearing in winter, often around Christmas time. It thrives in shaded garden areas and blooms even under snow cover in temperate areas.",
-      "bloomingSeason": "December to February",
-      "location": "Central and southern Europe",
+      "description": "An evergreen perennial with nodding, cup-shaped white flowers that age to pink, set against dark leathery leaves. It thrives in woodland gardens and blooms in the depths of winter, often pushing through snow.",
+      "bloomingSeason": "Late autumn to late winter (December to March)",
+      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens of Europe and North America",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink",
+        "Green"
       ],
-      "emoji": "🌸",
-      "funFact": "Despite its common name and rose-like flowers, it is not a true rose and belongs to the buttercup family."
+      "emoji": "🌹",
+      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic. Legend says it sprang up from the tears of a girl who had no gift for the Christ child."
+    },
+    {
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub whose showy colored bracts, not true petals, surround tiny yellow flowers called cyathia. In frost-free climates it grows into a large landscape shrub several meters tall, flowering as the days shorten.",
+      "bloomingSeason": "Winter (December to February in the Northern Hemisphere)",
+      "location": "Native to southern Mexico and Central America; grown outdoors in tropical and subtropical regions and as a holiday houseplant worldwide",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Cream"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias are short-day plants that need long uninterrupted nights to color up. The Aztecs used them to make a reddish dye and called them cuetlaxochitl."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tree with fern-like leaves that becomes covered in clusters of brilliant orange-red blossoms. Each flower has one petal streaked with white and yellow.",
+      "bloomingSeason": "Summer in the Southern Hemisphere tropics and subtropics, including December in places such as northern Australia, and in some tropical regions with a long flowering period",
+      "location": "Native to Madagascar; cultivated in tropical regions including Australia, the Caribbean, India, and Africa",
+      "colors": [
+        "Scarlet",
+        "Orange-red",
+        "Yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "The species is endangered in its native Madagascar even though it is among the most widely planted ornamental trees in the tropics."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A popular ornamental evergreen shrub bearing large, showy flowers that typically bloom in late autumn through winter. Flowers come in shades of red, pink, and white, often with yellow stamens.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia (Japan, China, Korea) and widely cultivated elsewhere",
+      "description": "A glossy-leaved evergreen shrub that produces rose-like flowers with many layered petals. Many cultivars bloom in the cool months, brightening winter gardens when little else is flowering.",
+      "bloomingSeason": "Late autumn to early spring (December to March in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and eastern China; grown in mild temperate gardens in the southeastern United States, Europe, Japan, and elsewhere",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were historically used to make an oil for moisturizing and hair care in Japan."
+      "emoji": "🌸",
+      "funFact": "Camellia sinensis, a close relative, is the source of all true tea. Camellia japonica is a symbol of winter and enduring love in Japan, where it is called tsubaki."
     }
   ]
 }

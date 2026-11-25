@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1066,
-      "title": "Battle of Stamford Bridge",
-      "description": "King Harold Godwinson of England defeated the invading Norwegian forces led by King Harald Hardrada, ending the Viking Age invasions of England.",
+      "title": "William the Conqueror Lands at Pevensey",
+      "description": "Norman forces led by William, Duke of Normandy, landed at Pevensey on the southern coast of England, beginning his invasion to claim the English throne following the death of Edward the Confessor.",
       "category": "Military",
-      "significance": "Marked the end of Viking invasions in England and paved the way for the Norman Conquest shortly thereafter."
+      "significance": "The landing led to the Battle of Hastings on October 14, 1066, and the Norman Conquest, which transformed English language, law, culture, and aristocracy."
     },
     {
       "year": 1542,
-      "title": "Death of Explorer Juan Rodríguez Cabrillo",
-      "description": "Juan Rodríguez Cabrillo, the first European to explore the west coast of present-day United States, died after an expedition in California.",
+      "title": "Juan Rodríguez Cabrillo Reaches California",
+      "description": "Portuguese-born explorer Juan Rodríguez Cabrillo, sailing for Spain, landed at San Diego Bay and claimed the area for the Spanish Crown.",
       "category": "Exploration",
-      "significance": "His explorations led to early European knowledge of the West Coast of North America."
+      "significance": "Cabrillo's voyage was the first European expedition to explore the coast of present-day California, laying the groundwork for later Spanish colonization of the region."
+    },
+    {
+      "year": 1789,
+      "title": "Congress Sends the Bill of Rights to the States",
+      "description": "The U.S. Congress voted to send twelve proposed constitutional amendments to the states for ratification, following their approval in the House and Senate.",
+      "category": "Politics",
+      "significance": "Ten of these amendments were ratified in 1791 and became the Bill of Rights, guaranteeing fundamental freedoms and individual protections in the United States."
     },
     {
       "year": 1928,
-      "title": "Alexander Fleming Discovers Penicillin",
-      "description": "Scottish bacteriologist Alexander Fleming discovered penicillin, the world's first widely effective antibiotic, by observing mold killing bacteria.",
-      "category": "Science/Medicine",
-      "significance": "Revolutionized medicine and led to the development of antibiotics, saving millions of lives."
+      "title": "Alexander Fleming Observes Penicillin",
+      "description": "Scottish bacteriologist Alexander Fleming noticed that a mold contaminating a Staphylococcus culture plate at St Mary's Hospital in London had killed the surrounding bacteria.",
+      "category": "Science",
+      "significance": "The discovery of penicillin launched the age of antibiotics, revolutionizing medicine and saving millions of lives; Fleming shared the 1945 Nobel Prize for the work."
     },
     {
-      "year": 1978,
-      "title": "Pope John Paul I Dies",
-      "description": "Pope John Paul I died suddenly after only 33 days as pope, one of the shortest papacies in history.",
-      "category": "Religion",
-      "significance": "His death led to the election of Pope John Paul II, one of the most influential popes of the 20th century."
-    },
-    {
-      "year": 1995,
-      "title": "The Dayton Peace Agreement is initialed",
-      "description": "The leaders of Bosnia, Croatia, and Serbia initialed the Dayton Peace Agreement to end the Bosnian War.",
-      "category": "Politics/Diplomacy",
-      "significance": "Ended a brutal conflict in the Balkans and laid the foundation for peace and reconstruction."
+      "year": 1970,
+      "title": "Death of Egyptian President Gamal Abdel Nasser",
+      "description": "Gamal Abdel Nasser died of a heart attack in Cairo at age 52, just after brokering a ceasefire between Jordan and the PLO during the Black September crisis.",
+      "category": "Politics",
+      "significance": "Nasser was a leading figure of Arab nationalism and the Non-Aligned Movement. His death brought Anwar Sadat to power and shifted Egypt's direction in regional and Cold War politics."
     }
   ]
 }

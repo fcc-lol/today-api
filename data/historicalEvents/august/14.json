@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1945,
-      "title": "Victory over Japan Day (V-J Day) Announcement",
-      "description": "Japan announces its surrender in World War II, effectively ending the war.",
-      "category": "Military/World War II",
-      "significance": "Marked the end of World War II, leading to peace and the beginning of post-war reconstruction globally."
-    },
-    {
-      "year": 1900,
-      "title": "Boxer Rebellion Ends",
-      "description": "The Boxer Protocol is signed by China, ending the Boxer Rebellion against foreign influence.",
-      "category": "Diplomatic/Conflict Resolution",
-      "significance": "Restored foreign powers' influence in China and had lasting effects on Chinese sovereignty and foreign relations."
+      "title": "Japan Announces Surrender to End World War II",
+      "description": "Emperor Hirohito's decision to accept the Allied terms of the Potsdam Declaration was announced to the Japanese public by radio on August 15 Japan time, which was August 14 in the United States, when President Truman announced the surrender. This brought World War II to a close after nearly six years of global conflict.",
+      "category": "War",
+      "significance": "Marked the end of World War II, the deadliest conflict in human history, and the beginning of the postwar order and the occupation of Japan."
     },
     {
       "year": 1947,
-      "title": "Pakistan Independence Day",
-      "description": "Pakistan gains independence from British rule and is established as a separate nation.",
-      "category": "Political/Independence",
-      "significance": "Signaled the creation of Pakistan as a sovereign state, leading to major geopolitical changes in South Asia."
+      "title": "Pakistan Gains Independence from British Rule",
+      "description": "Pakistan was established as an independent dominion at the time of the partition of British India, with Muhammad Ali Jinnah becoming its first Governor-General. Independence was accompanied by massive population movements and communal violence.",
+      "category": "Politics",
+      "significance": "Created one of the world's most populous Muslim-majority nations and reshaped South Asia, with the partition displacing millions of people and shaping regional relations to the present day."
     },
     {
       "year": 1935,
-      "title": "President Roosevelt Signs Social Security Act",
-      "description": "The U.S. Social Security Act is signed into law, creating a system of old-age benefits and unemployment insurance.",
-      "category": "Social Policy",
-      "significance": "Laid the groundwork for the American welfare state and social security system still in place today."
+      "title": "Social Security Act Signed into Law",
+      "description": "President Franklin D. Roosevelt signed the Social Security Act, creating a system of old-age benefits, unemployment insurance, and aid to dependent children and the disabled in the United States.",
+      "category": "Politics",
+      "significance": "Established the foundation of the American social safety net and became a cornerstone of New Deal reforms."
+    },
+    {
+      "year": 1941,
+      "title": "Atlantic Charter Issued",
+      "description": "Franklin D. Roosevelt and Winston Churchill, after meeting off the coast of Newfoundland, issued the Atlantic Charter, a joint declaration of principles for the postwar world, including self-determination, free trade, and freedom from fear and want.",
+      "category": "Diplomacy",
+      "significance": "Laid out Allied war aims before the U.S. entered World War II and influenced the creation of the United Nations."
+    },
+    {
+      "year": 1980,
+      "title": "Solidarity Strike Begins at Gdańsk Shipyard",
+      "description": "Workers at the Lenin Shipyard in Gdańsk, Poland, led by electrician Lech Wałęsa, began a strike after the dismissal of crane operator Anna Walentynowicz, demanding workers' rights and independent trade unions.",
+      "category": "Politics",
+      "significance": "The strike led to the formation of Solidarity, the first independent trade union in the Eastern Bloc, which played a pivotal role in the eventual fall of communism in Europe."
     }
   ]
 }

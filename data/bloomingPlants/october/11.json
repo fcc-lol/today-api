@@ -2,62 +2,58 @@
   "date": "October 11",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their vibrant blooms in various shapes and colors. They are a symbol of autumn in many cultures and are often used in floral arrangements during fall.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (native to East Asia)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that produces goblet-shaped, crocus-like flowers in autumn, long after its strap-like leaves have died back in summer. Flowers emerge directly from the ground without foliage, giving it the nickname 'naked ladies'.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Europe, in damp meadows and open woodlands; widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the flower of the Japanese emperor and the imperial family, symbolizing longevity and rejuvenation."
-    },
-    {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub that produces small bell-shaped flowers. It is one of the earliest blooming heathers, often starting to bloom in autumn and continuing into winter.",
-      "bloomingSeason": "October to April",
-      "location": "Central and Southern Europe, cultivars grown in temperate gardens worldwide",
-      "colors": [
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Winter Heath can bloom even under snow, making it a symbol of perseverance in harsh winter conditions."
-    },
-    {
-      "name": "Nicotiana alata",
-      "commonName": "Flowering Tobacco",
-      "description": "An ornamental plant with fragrant tubular flowers that open in the evening and attract pollinators such as moths. Widely grown in gardens for its pleasant scent and colorful flowers.",
-      "bloomingSeason": "Summer to October (in warm climates)",
-      "location": "South America (native), cultivated widely in subtropical and temperate gardens",
-      "colors": [
-        "white",
-        "pink",
-        "red",
+        "pale pink",
+        "lilac",
         "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The flower's scent intensifies at night to attract nocturnal pollinators."
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing tree with bright orange to yellow spider-like flowers. Native to eastern Australia, it blooms in spring to autumn, providing nectar for birds and insects.",
-      "bloomingSeason": "September to November",
-      "location": "Australia, cultivated in subtropical and Mediterranean climates worldwide",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust native perennial with hairy stems and masses of daisy-like flowers with yellow centers. It is a vital late-season nectar source for pollinators, including migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America, in prairies, meadows, and roadsides",
       "colors": [
-        "orange",
-        "yellow"
+        "purple",
+        "violet",
+        "pink",
+        "magenta"
       ],
-      "emoji": "🌻",
-      "funFact": "Despite its common name, Silky Oak is not an oak but a member of the Proteaceae family."
+      "emoji": "💜",
+      "funFact": "New England Asters are a key fuel stop for migrating monarch butterflies, and the flower heads close up at night and on cloudy days."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular deciduous to semi-evergreen tree with fern-like leaves and large panicles of trumpet-shaped flowers that carpet streets and gardens with fallen blooms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
+      "colors": [
+        "lavender",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
+    },
+    {
+      "name": "Sternbergia lutea",
+      "commonName": "Winter Daffodil (Autumn Daffodil)",
+      "description": "A bulbous perennial bearing bright, crocus-like golden flowers in autumn, accompanied by dark green strap-shaped leaves. It thrives in hot, dry summers followed by autumn moisture.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Mediterranean region, from Spain to Iran, in rocky hillsides and olive groves; cultivated in dry gardens worldwide",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Many scholars believe this is the 'lily of the field' referenced in the Bible, owing to its bright golden flowers appearing after the first autumn rains."
     }
   ]
 }

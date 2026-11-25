@@ -2,58 +2,58 @@
   "date": "June 4",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Rose",
-      "description": "Roses are iconic flowering shrubs known for their large, often fragrant blooms and thorny stems. They are widely cultivated worldwide and have thousands of varieties.",
-      "bloomingSeason": "Late spring to early summer (May to June in temperate zones)",
-      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with deeply lobed green foliage. A beloved cottage garden staple that can live for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens of North America and Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty in many cultures."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "Wild lupine is a perennial wildflower with tall spikes of pea-like flowers that attract pollinators like bees and butterflies.",
-      "bloomingSeason": "Spring to early summer (May to June)",
-      "location": "Eastern North America, especially in sandy soils and open woodlands",
-      "colors": [
-        "blue",
-        "purple"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Wild lupine is critical for the endangered Karner blue butterfly, which depends on it as a larval host plant."
+      "funFact": "Peonies are often hosted by ants, which feed on the sugary nectar on the buds, but the ants are not required for the flowers to open. Some peony plants can live and bloom for more than 50 years."
     },
     {
-      "name": "Tibouchina urvilleana",
-      "commonName": "Princess Flower",
-      "description": "A tropical evergreen shrub famous for its vibrant purple flowers with prominent stamens, often grown as ornamental plants in frost-free climates.",
-      "bloomingSeason": "Late spring to early fall (May to October)",
-      "location": "Native to Brazil and cultivated in subtropical to tropical gardens worldwide",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching, thorny deciduous shrub of hedgerows and woodland edges with delicate, five-petaled, lightly scented flowers, followed by bright red rose hips in autumn.",
+      "bloomingSeason": "Late spring to midsummer (late May to July)",
+      "location": "Hedgerows, scrub and woodland margins across Europe, northwest Africa, and western Asia",
       "colors": [
-        "purple"
+        "Pale pink",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "The genus Tibouchina is named after a Guiana Amerindian name for one of the species."
+      "emoji": "🌹",
+      "funFact": "Rose hips from the dog rose are extremely rich in vitamin C and were made into syrup in Britain during World War II when citrus fruits were scarce."
     },
     {
-      "name": "Erythronium japonicum",
-      "commonName": "Asian Fawn Lily",
-      "description": "A spring ephemeral wildflower with delicate nodding bell-shaped pink to lavender flowers and mottled leaves, blooming briefly in early spring to early summer.",
-      "bloomingSeason": "March to June",
-      "location": "East Asia, including Japan, Korea, and parts of China",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A graceful, semi-deciduous tree with fern-like foliage that bursts into spectacular clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they drop.",
+      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in subtropical regions including California, Mexico, Florida, the Mediterranean, and parts of Africa",
       "colors": [
-        "pink",
-        "lavender"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌷",
-      "funFact": "The mottled leaves resemble a fawn's spots, hence the common name."
+      "emoji": "🪻",
+      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname Jacaranda City, though these trees bloom there in October."
+    },
+    {
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A rugged, gnarled Australian tree or shrub with serrated, leathery leaves and tall, cylindrical flower spikes made of thousands of tiny individual flowers, which later develop into woody seed cones.",
+      "bloomingSeason": "Autumn to winter in Australia (roughly February to August), including early June",
+      "location": "Eastern coast of Australia, in coastal heath, dunes, and open woodland from Queensland to Victoria and Tasmania",
+      "colors": [
+        "Golden yellow",
+        "Greenish-yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia seed cones are adapted to fire, often holding seeds for years until a bushfire heats them to release the seeds, and the 'Banksia men' of May Gibbs' children's stories were based on these cones."
     }
   ]
 }

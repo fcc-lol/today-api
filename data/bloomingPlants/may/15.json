@@ -2,56 +2,60 @@
   "date": "May 15",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub known for its large clusters of bell-shaped flowers, typically found in woodland and mountainous regions. It thrives in temperate zones and is widely cultivated as an ornamental plant.",
-      "bloomingSeason": "April to June",
-      "location": "Western Europe, especially the UK and Ireland",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double flowers atop sturdy stems with deeply lobed dark green foliage. A beloved cut flower and garden staple in temperate regions.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in North America, Europe, and East Asia",
       "colors": [
-        "purple",
         "pink",
-        "white"
+        "white",
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is an invasive species in parts of the UK where it forms dense thickets that outcompete native plants."
+      "funFact": "Peonies can live for more than 100 years, and ants are often seen on the buds feeding on sugary nectar, though they are not required for blooming."
     },
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A fragrant, tall perennial lily with large white trumpet-shaped flowers, symbolizing purity and often associated with religious iconography.",
-      "bloomingSeason": "May to July",
-      "location": "Mediterranean region",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub with dense, cone-shaped clusters of intensely fragrant flowers and heart-shaped leaves. It thrives in cold-winter climates and is a hallmark of mid-spring gardens.",
+      "bloomingSeason": "Mid to late spring (typically May in temperate Northern Hemisphere regions)",
+      "location": "Native to the Balkan Peninsula; cultivated across Europe, North America, and northern Asia",
       "colors": [
+        "lavender",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "💜",
+      "funFact": "Lilac flowers are edible and have a floral, slightly bitter taste; they are used to flavor syrups, sugars, and baked goods."
+    },
+    {
+      "name": "Rosa banksiae",
+      "commonName": "Lady Banks' Rose",
+      "description": "A vigorous, nearly thornless climbing rose that forms cascades of small, clustered, lightly violet-scented flowers. It is evergreen to semi-evergreen in warm climates and can cover entire buildings.",
+      "bloomingSeason": "Mid-spring to early summer (April to May, peaking around mid-May in many areas)",
+      "location": "Native to central and western China; naturalized in the southern United States and Mediterranean regions",
+      "colors": [
+        "yellow",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Madonna Lily has been cultivated since ancient times and was highly valued in Greco-Roman culture."
+      "emoji": "🌼",
+      "funFact": "The largest rose plant in the world is a Lady Banks' rose in Tombstone, Arizona, planted in 1885, which covers over 8,000 square feet."
     },
     {
-      "name": "Telopea speciosissima",
-      "commonName": "Waratah",
-      "description": "An iconic Australian native shrub known for its bright red, dome-shaped flower clusters with striking stamens. It is the floral emblem of New South Wales.",
-      "bloomingSeason": "Spring (September to November) in Australia, corresponding to March-May in the Southern Hemisphere",
-      "location": "Southeastern Australia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, fast-growing tree with fern-like leaves that bursts into masses of trumpet-shaped flowers, carpeting the ground beneath when they fall. In the tropics and subtropics it blooms in the local spring; in parts of the Northern Hemisphere subtropics, such as Florida, Mexico, and southern California, it peaks around May.",
+      "bloomingSeason": "Late spring (May to June in the Northern Hemisphere subtropics; October to November in the Southern Hemisphere)",
+      "location": "Native to South America (Argentina, Bolivia); cultivated in Mexico, the southern US, Africa, Australia, and the Mediterranean",
       "colors": [
-        "red"
+        "purple",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Waratahs regenerate following bushfires, as their seeds are adapted to heat and smoke to germinate."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous tree famed for its large, tulip-shaped flowers that bloom profusely in spring before leaves emerge.",
-      "bloomingSeason": "April to May",
-      "location": "Temperate regions worldwide, originally cultivated in France from Chinese species",
-      "colors": [
-        "white",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "Saucer Magnolias bloom so early their flowers can tolerate frost, making them a spectacular spring sight."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed the Jacaranda City, and falling blossoms are said in folklore to bring good luck."
     }
   ]
 }

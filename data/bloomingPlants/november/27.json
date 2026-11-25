@@ -2,62 +2,66 @@
   "date": "November 27",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its glossy leaves and large, roselike flowers. It blooms from late fall to early spring, providing vibrant color in mild winters.",
-      "bloomingSeason": "October to March",
-      "location": "Eastern Asia, also widely cultivated in temperate regions globally",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with flat, segmented, scalloped stems and arching, zygomorphic flowers. Widely grown as a houseplant, it flowers in response to shorter days and cool nights.",
+      "bloomingSeason": "Late autumn to early winter (November–January in the Northern Hemisphere)",
+      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
       "colors": [
-        "pink",
-        "red",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were once used to produce tea before Camellia sinensis became popular."
-    },
-    {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Mum",
-      "description": "Popular garden chrysanthemums bloom profusely in late autumn, celebrated in festivals particularly in East Asia. They have a variety of flower forms and colors.",
-      "bloomingSeason": "October to November",
-      "location": "Native to East Asia, widely cultivated worldwide",
-      "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many Asian cultures."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that blooms in warm climates. In Mediterranean and subtropical zones, it flowers from spring through late fall, often extending into November depending on conditions.",
-      "bloomingSeason": "Spring to late fall",
-      "location": "Mediterranean Basin, South Asia, cultivated in subtropical regions worldwide",
-      "colors": [
-        "pink",
-        "white",
-        "red"
+        "Pink",
+        "Red",
+        "Magenta",
+        "White",
+        "Orange",
+        "Yellow"
       ],
       "emoji": "🌸",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+      "funFact": "Unlike desert cacti, it grows on trees in humid Brazilian forests, and it can be told apart from the Christmas cactus by the pointed teeth on its stem segments."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub with large, showy flowers that can bloom year-round in frost-free climates, including November in many tropical and subtropical areas.",
-      "bloomingSeason": "Year-round in frost-free climates",
-      "location": "Native to East Asia, tropical and subtropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves and large panicles of trumpet-shaped lavender-blue flowers that carpet streets and gardens when they fall.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October–December)",
+      "location": "Native to South America; widely planted in Australia, South Africa, and Argentina",
       "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white"
+        "Lavender",
+        "Purple",
+        "Blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In parts of Australia, jacaranda bloom coincides with university exams, and students traditionally joke that if a flower falls on your head you will pass."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and slightly fragrant, delicate single or semi-double flowers. It is among the earliest camellias to bloom and thrives in mild climates.",
+      "bloomingSeason": "Autumn to early winter (October–December)",
+      "location": "Native to Japan and southern China; cultivated across the southeastern United States, Europe, and Australia",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "Hibiscus flowers are used to make a popular tart-infused tea called 'agua de Jamaica' in Latin America."
+      "funFact": "Oil pressed from sasanqua seeds is used in Japan for cooking and cosmetics, and its leaves can be used to make a tea."
+    },
+    {
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub whose showy colored bracts, which are modified leaves, surround small yellow true flowers called cyathia. Outdoors in warm climates it forms large shrubs, while elsewhere it is a popular potted holiday plant.",
+      "bloomingSeason": "Late autumn to winter (November–February)",
+      "location": "Native to Mexico and Central America; grown outdoors in subtropical regions and indoors worldwide",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Cream",
+        "Marbled"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias need long nights of about 12 hours or more for several weeks to develop colored bracts, and in the wild they can grow up to 4 meters tall."
     }
   ]
 }

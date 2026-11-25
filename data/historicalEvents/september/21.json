@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1937,
-      "title": "J.R.R. Tolkien's \"The Hobbit\" Published",
-      "description": "The first edition of J.R.R. Tolkien's fantasy novel \"The Hobbit\" was published, introducing readers to Middle-earth and characters like Bilbo Baggins.",
+      "title": "Publication of The Hobbit",
+      "description": "J.R.R. Tolkien's fantasy novel The Hobbit, or There and Back Again, was published by George Allen & Unwin in London. It follows the hobbit Bilbo Baggins on a quest with a group of dwarves and the wizard Gandalf to reclaim treasure guarded by the dragon Smaug.",
       "category": "Literature",
-      "significance": "This work laid the groundwork for modern fantasy literature and led to the creation of the larger Middle-earth legendarium, including \"The Lord of the Rings.\""
+      "significance": "The book became a classic of children's literature and led to the creation of The Lord of the Rings, shaping the modern fantasy genre."
     },
     {
       "year": 1792,
-      "title": "French First Republic Proclaimed",
-      "description": "The French National Convention declared France a republic, abolishing the monarchy and initiating the First French Republic.",
-      "category": "Political History",
-      "significance": "This marked a pivotal shift in French governance during the French Revolution, ending centuries of monarchy and influencing republican movements worldwide."
+      "title": "France Abolishes the Monarchy",
+      "description": "The newly convened National Convention voted to abolish the monarchy, ending the reign of Louis XVI and establishing the way for the First French Republic, which was proclaimed the following day.",
+      "category": "Politics",
+      "significance": "This marked a turning point of the French Revolution, ending centuries of monarchical rule and influencing republican movements across Europe."
     },
     {
       "year": 1981,
-      "title": "Sandra Day O'Connor Appointed to the U.S. Supreme Court",
-      "description": "Sandra Day O'Connor was confirmed as the first woman to serve as a Justice on the United States Supreme Court.",
-      "category": "Civil Rights / Gender Equality",
-      "significance": "Her appointment was a milestone in gender equality in the U.S., paving the way for more female representation in the highest court."
+      "title": "Belize Gains Independence",
+      "description": "Belize, formerly British Honduras, became fully independent from the United Kingdom, with George Cadle Price serving as its first Prime Minister.",
+      "category": "Politics",
+      "significance": "Independence completed decolonization of mainland British territories in Central America, though a territorial dispute with Guatemala continued."
     },
     {
-      "year": 1939,
-      "title": "The Battle of the River Plate Begins",
-      "description": "The first naval battle of World War II occurred between British naval forces and the German pocket battleship Admiral Graf Spee off the coast of South America.",
-      "category": "Military History",
-      "significance": "This early naval engagement set the stage for Allied control of sea routes and demonstrated the global reach of World War II."
+      "year": 1866,
+      "title": "Birth of H.G. Wells",
+      "description": "Herbert George Wells, English writer, was born in Bromley, Kent. He wrote pioneering science fiction works including The Time Machine, The War of the Worlds, and The Invisible Man.",
+      "category": "Births",
+      "significance": "Wells is regarded as one of the fathers of science fiction, and his works shaped the genre and public thinking about the future and technology."
+    },
+    {
+      "year": 1938,
+      "title": "Great New England Hurricane",
+      "description": "A powerful Category 3 hurricane struck Long Island and southern New England without much warning, killing around 600 people and destroying thousands of homes and boats.",
+      "category": "Natural Disasters",
+      "significance": "One of the deadliest and most destructive hurricanes in U.S. northeastern history, it spurred improvements in weather forecasting and hurricane warning systems."
     }
   ]
 }

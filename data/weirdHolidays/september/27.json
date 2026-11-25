@@ -2,36 +2,44 @@
   "date": "September 27",
   "holidays": [
     {
-      "name": "Crush a Can Day",
-      "description": "A day dedicated to the simple yet satisfying act of crushing an empty can. Perfect for venting stress or just enjoying a little hands-on fun!",
-      "origin": "Started as an informal environmental awareness stunt encouraging recycling and minimizing trash volume.",
-      "category": "Environmental/Quirky",
-      "emoji": "🗑️",
-      "funFact": "Despite its silliness, crushing cans saves significant landfill space and is surprisingly therapeutic for many!"
+      "name": "World Tourism Day",
+      "description": "A global day when people are encouraged to pack a bag, wander somewhere new, and remember that sitting in an airport eating overpriced pretzels counts as cultural exchange.",
+      "origin": "Established in 1979 by the United Nations World Tourism Organization (UNWTO), with the date chosen to mark the anniversary of the adoption of the UNWTO Statutes in 1970.",
+      "category": "International Observance",
+      "emoji": "🧳",
+      "funFact": "Each year the day has a different theme, and a different host country holds the official celebrations."
     },
     {
-      "name": "Chocolate Milkshake Day",
-      "description": "Celebrate one of the most delicious and refreshing beverages by enjoying a rich, creamy chocolate milkshake.",
-      "origin": "A classic American treat day that grew from diner culture and the rise of soda fountains in the early 20th century.",
-      "category": "Food",
-      "emoji": "🥤",
-      "funFact": "The first chocolate milkshake is said to have been invented in the early 1900s, long before blenders existed — bartenders used shakers!"
+      "name": "National Chocolate Milk Day",
+      "description": "A day to raise a frosty glass of cocoa-infused dairy and relive the glory of the cafeteria lunch line, this time with no one judging your milk mustache.",
+      "origin": "An unofficial food holiday, popularized by food-observance calendars and dairy fans, celebrating the sweet marriage of milk and chocolate.",
+      "category": "Food Holiday",
+      "emoji": "🍫",
+      "funFact": "Chocolate milk is often credited to Sir Hans Sloane, who in the late 1600s reportedly encountered cocoa in Jamaica and found it nauseating until it was mixed with milk."
+    },
+    {
+      "name": "Crush a Can Day",
+      "description": "A day dedicated to the deeply satisfying crunch of flattening an empty aluminum can, combining stress relief with recycling responsibility.",
+      "origin": "An unofficial observance that encourages recycling by making it as fun as possible, since a crushed can takes up less space in the bin.",
+      "category": "Environmental/Unofficial",
+      "emoji": "🥫",
+      "funFact": "Aluminum cans can be recycled indefinitely, and a recycled can may be back on the store shelf in as little as 60 days."
     },
     {
       "name": "National Corned Beef Hash Day",
-      "description": "A day to savor the hearty breakfast favorite of corned beef, potatoes, and onions all fried up to golden perfection.",
-      "origin": "Derived from traditional Irish-American cuisine, celebrated mainly in the US.",
-      "category": "Food",
+      "description": "A salute to the humble breakfast skillet of crispy potatoes and chopped corned beef, the ultimate leftover-fixing hero of diner menus everywhere.",
+      "origin": "An unofficial food observance, born from the long tradition of turning leftover corned beef into a hearty second-act meal.",
+      "category": "Food Holiday",
       "emoji": "🍳",
-      "funFact": "Corned beef hash was a popular way for Irish immigrants to stretch costly meat with inexpensive potatoes, creating a beloved dish!"
+      "funFact": "Canned corned beef hash became a staple of military rations and Depression-era kitchens because it was cheap, filling, and long-lasting."
     },
     {
-      "name": "World Tourism Day",
-      "description": "An international observance promoting the importance of tourism and its social, cultural, political, and economic value worldwide.",
-      "origin": "Established by the United Nations World Tourism Organization in 1980.",
-      "category": "Awareness",
-      "emoji": "🌍",
-      "funFact": "Each year, World Tourism Day highlights a different theme; in recent years it has focused on sustainable and accessible tourism."
+      "name": "Google Day",
+      "description": "A day when the internet celebrates the search engine that taught us all to ask a machine questions we are too embarrassed to ask people.",
+      "origin": "Google has marked September 27 as its birthday in many years, based on a date it used for celebrations, though the company was incorporated on September 4, 1998.",
+      "category": "Pop Culture/Tech",
+      "emoji": "🔍",
+      "funFact": "Google has celebrated its birthday on different dates over the years, including September 4, 7, 8, 26, and 27."
     }
   ]
 }

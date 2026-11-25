@@ -2,36 +2,44 @@
   "date": "November 5",
   "holidays": [
     {
-      "name": "Guy Fawkes Night",
-      "description": "Also known as Bonfire Night, this British celebration marks the failed Gunpowder Plot of 1605, when Guy Fawkes tried to blow up the Houses of Parliament. People light bonfires, set off fireworks, and burn effigies of Guy Fawkes.",
-      "origin": "Originated in England after Parliament was saved from the Gunpowder Plot.",
-      "category": "Historical/Traditional",
+      "name": "Guy Fawkes Night (Bonfire Night)",
+      "description": "Brits light enormous bonfires, set off fireworks, and burn effigies of a 17th-century man who tried to blow up Parliament. It's basically a national barbecue with gunpowder and a side of treason.",
+      "origin": "Commemorates the foiled Gunpowder Plot of 1605, when Guy Fawkes was caught guarding barrels of gunpowder beneath the House of Lords. Parliament passed the Observance of 5th November Act in 1606, ordering annual thanksgiving for the king's survival.",
+      "category": "Historical / Cultural Festival",
       "emoji": "🎆",
-      "funFact": "The phrase 'Remember, remember the 5th of November' comes from a traditional rhyme associated with this day."
-    },
-    {
-      "name": "National Doughnut Day (UK)",
-      "description": "While National Doughnut Day is usually in June in the U.S., in the UK November 5th is celebrated by some as a day to enjoy doughnuts, especially the jam-filled and custard varieties that go great with Bonfire Night treats.",
-      "origin": "Derived from a British spin on celebrating beloved sweet treats during November festivities.",
-      "category": "Food",
-      "emoji": "🍩",
-      "funFact": "Doughnuts have been enjoyed in the UK for centuries, and special doughnut stands pop up around bonfire celebrations."
-    },
-    {
-      "name": "Knock Before You Talk Day",
-      "description": "A quirky awareness day reminding us all to show common courtesy by knocking before entering someone's room or space, ensuring privacy and respect!",
-      "origin": "An unofficial modern observance encouraging good manners and personal boundaries.",
-      "category": "Social Etiquette/Awareness",
-      "emoji": "🚪",
-      "funFact": "Many people admit they’ve been 'caught off guard' by someone barging in—today’s ideal to break that habit!"
+      "funFact": "Fawkes is probably the only person ever described as the 'last man to enter Parliament with honest intentions' - and the word 'guy' for a fellow comes from the effigies burned in his name."
     },
     {
       "name": "World Tsunami Awareness Day",
-      "description": "An international day aimed at promoting awareness and preparedness for tsunamis, commemorating efforts to reduce tsunami risk worldwide.",
-      "origin": "Designated by the United Nations to honor the 2004 Indian Ocean tsunami and encourage resilience.",
-      "category": "Awareness/Environmental",
+      "description": "A day when the globe collectively remembers that the ocean can occasionally decide to leave its designated area. It promotes early warning systems, preparedness, and not turning your back on the sea when the water suddenly vanishes.",
+      "origin": "Designated by the United Nations General Assembly in 2015, inspired by the Japanese story of 'Inamura-no-hi' (the burning of the rice sheaves), in which a villager set fire to his own rice harvest to lure neighbors uphill to safety before a tsunami struck in 1854.",
+      "category": "Awareness Day",
       "emoji": "🌊",
-      "funFact": "The 2004 tsunami was one of the deadliest natural disasters in history, leading to better early warning systems globally."
+      "funFact": "The word 'tsunami' is Japanese for 'harbor wave,' because fishermen would return from sea to find their harbors destroyed, having never noticed the wave out in deep water."
+    },
+    {
+      "name": "National Doughnut Day (Fall Edition) / National Love Your Red Hair Day Alternative: Love Your Red Hair Day",
+      "description": "Redheads of the world unite on this day to celebrate their fiery locks, which make up only 1-2% of the human population. Ginger pride is in full swing, with sunscreen and freckles proudly on display.",
+      "origin": "Founded in 2013 by Danish-born Dutch photographer Bart Rouwenhorst, who held the first Redhead Day in the Netherlands, though the unofficial 'Love Your Red Hair Day' celebration took on the November 5 date through social media and redhead communities.",
+      "category": "Pop Culture / Appreciation Day",
+      "emoji": "🧑‍🦰",
+      "funFact": "Redheads reportedly need more anesthesia on average, thanks to a variant of the MC1R gene, and some studies say they're more sensitive to temperature changes."
+    },
+    {
+      "name": "National Donut Day Rival: National Doughnut Day Is Not Today, But It's National Love Your Red Hair Day's Sweet Neighbor – National Eating Free Cake Day",
+      "description": "A day dedicated to the noble pursuit of accepting free cake whenever it's offered, no questions asked. Office breakrooms across the land become sacred ground.",
+      "origin": "A grassroots, unofficial observance popularized by food-day calendars, built on the universally accepted principle that free cake is the best kind of cake.",
+      "category": "Food Holiday",
+      "emoji": "🍰",
+      "funFact": "The tradition of the 'wedding cake' dates to ancient Rome, where a loaf of barley bread was broken over the bride's head for good luck."
+    },
+    {
+      "name": "Bonfire Toffee Day",
+      "description": "Sticky, dark, tooth-challenging toffee is eaten alongside the bonfires, as a rock-hard sweet companion to a night of fireworks. Dentists observe this day with a mixture of pride and dread.",
+      "origin": "A British culinary tradition tied to Bonfire Night, with recipes for treacle toffee or 'bonfire toffee' passed down in Northern England, especially Yorkshire and Lancashire, for generations.",
+      "category": "Food Holiday",
+      "emoji": "🍬",
+      "funFact": "Traditional bonfire toffee, also called 'Plot Toffee' in parts of Lancashire, is made with black treacle and is hard enough that it's traditionally cracked with a small hammer."
     }
   ]
 }

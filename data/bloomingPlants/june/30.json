@@ -2,58 +2,61 @@
   "date": "June 30",
   "plants": [
     {
-      "name": "Rosa rubiginosa",
-      "commonName": "Sweet Briar Rose",
-      "description": "A deciduous shrub native to Europe and western Asia, known for its fragrant pink flowers and aromatic foliage with a scent reminiscent of apples.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Europe, Mediterranean, temperate regions",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with narrow gray-green leaves and dense spikes of small tubular flowers. It is widely cultivated for its essential oil and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "pink"
+        "purple",
+        "lavender",
+        "blue"
       ],
-      "emoji": "🌹",
-      "funFact": "The leaves of Sweet Briar release a pleasant apple-like fragrance when bruised, a trait uncommon among roses."
+      "emoji": "💜",
+      "funFact": "The name lavender comes from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A herbaceous perennial native to North America, this plant thrives in moist areas. It produces striking bright red tubular flowers that attract hummingbirds.",
-      "bloomingSeason": "Mid to late summer (July to September), sometimes starting late June",
-      "location": "Eastern and Central North America, wetlands and stream banks",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy sepals. It thrives in partial shade and moist soil and is a staple of cottage and woodland gardens.",
+      "bloomingSeason": "Late June through September",
+      "location": "Native to Japan; widely grown in temperate gardens across Europe, North America, and the Azores",
       "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Cardinal Flower is one of the few North American native flowers specialized for hummingbird pollination, using vivid red hues and nectar."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical evergreen shrub widely cultivated worldwide for its large and colorful flowers, commonly seen in warm, frost-free climates.",
-      "bloomingSeason": "Year-round in tropical climates; often in full bloom June onward in warmer zones",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "red",
+        "blue",
         "pink",
-        "yellow",
-        "orange",
+        "purple",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers typically last only a day, but plants produce many blooms throughout the growing season."
+      "emoji": "💠",
+      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms while alkaline soils produce pink."
     },
     {
-      "name": "Nicotiana alata",
-      "commonName": "Flowering Tobacco",
-      "description": "An ornamental plant from South America, appreciated for its fragrant, tubular flowers that often open in the evening, attracting nocturnal pollinators.",
-      "bloomingSeason": "Late spring to fall (May to October)",
-      "location": "Native to Brazil and Argentina; widely cultivated in gardens worldwide",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A spreading tropical tree with fern-like leaves and a canopy covered in brilliant clusters of orange-red flowers. It is often planted as a shade tree along streets and in parks.",
+      "bloomingSeason": "May through July in the Northern Hemisphere tropics",
+      "location": "Native to Madagascar; widely cultivated in India, the Caribbean, Southeast Asia, Africa, and Florida",
       "colors": [
-        "white",
-        "pink",
-        "purple"
+        "scarlet",
+        "orange-red",
+        "yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Its strong evening fragrance is designed to attract moths, which are its main pollinators."
+      "emoji": "🌺",
+      "funFact": "Despite being one of the most celebrated tropical trees worldwide, it is endangered in its native Madagascar."
+    },
+    {
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A rugged Australian tree or shrub with serrated leathery leaves and cylindrical flower spikes made of thousands of tiny flowers. It provides nectar for birds, bats, and insects during the cooler months.",
+      "bloomingSeason": "Winter in the Southern Hemisphere, with flowers present from late autumn through July",
+      "location": "Eastern Australia, from Queensland through New South Wales to Victoria and Tasmania",
+      "colors": [
+        "golden yellow",
+        "greenish-yellow",
+        "cream"
+      ],
+      "emoji": "🌼",
+      "funFact": "The woody seed cones inspired the 'Banksia men' characters in May Gibbs' classic Australian children's book Snugglepot and Cuddlepie."
     }
   ]
 }

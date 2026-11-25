@@ -2,32 +2,39 @@
   "date": "February 3",
   "events": [
     {
-      "year": 1913,
-      "title": "Grand Central Terminal Opens in New York City",
-      "description": "Grand Central Terminal, a landmark railway terminal in New York City, officially opened to the public, becoming a major transportation hub and architectural icon.",
-      "category": "Infrastructure/Transportation",
-      "significance": "It revolutionized train travel in the U.S. and remains an important cultural and historical site."
-    },
-    {
       "year": 1959,
       "title": "The Day the Music Died",
-      "description": "A tragic plane crash near Clear Lake, Iowa, killed musicians Buddy Holly, Ritchie Valens, and J.P. \"The Big Bopper\" Richardson.",
-      "category": "Music/Tragedy",
-      "significance": "This event marked a significant loss in the rock and roll era and deeply impacted the music industry."
+      "description": "A small plane crashed near Clear Lake, Iowa, killing rock and roll musicians Buddy Holly, Ritchie Valens, and J.P. 'The Big Bopper' Richardson, along with pilot Roger Peterson.",
+      "category": "Disaster / Music",
+      "significance": "The crash was a defining tragedy in early rock and roll history, cutting short the careers of three influential artists and later immortalized in Don McLean's song 'American Pie' (1971)."
     },
     {
-      "year": 1995,
-      "title": "Romania Joins NATO's Partnership for Peace Program",
-      "description": "Romania became a member of NATO's Partnership for Peace, a program aimed at building trust and cooperation with former Eastern Bloc countries.",
-      "category": "International Relations/Politics",
-      "significance": "This was a key step in Romania's integration into Western political and security structures after the Cold War."
+      "year": 1913,
+      "title": "Ratification of the 16th Amendment",
+      "description": "Delaware, Wyoming, and New Mexico's ratification brought the Sixteenth Amendment to the U.S. Constitution to the required number of states, authorizing Congress to levy a federal income tax without apportioning it among the states.",
+      "category": "Politics / Law",
+      "significance": "The amendment fundamentally reshaped U.S. federal finance, enabling the modern income tax system that funds the federal government."
     },
     {
-      "year": 1783,
-      "title": "Preliminary Treaty of Paris Signed",
-      "description": "Great Britain and the United States signed preliminary articles of peace, ending the American Revolutionary War.",
-      "category": "Diplomacy/Warfare",
-      "significance": "This treaty laid the groundwork for the formal end of the war and recognition of American independence."
+      "year": 1870,
+      "title": "Ratification of the 15th Amendment",
+      "description": "The Fifteenth Amendment to the U.S. Constitution was ratified, prohibiting the denial of voting rights based on race, color, or previous condition of servitude.",
+      "category": "Politics / Civil Rights",
+      "significance": "It was a landmark Reconstruction-era achievement extending suffrage to Black men, though its promise was undermined for decades by discriminatory state practices until the Voting Rights Act of 1965."
+    },
+    {
+      "year": 1966,
+      "title": "Luna 9 Soft Lands on the Moon",
+      "description": "The Soviet spacecraft Luna 9 became the first probe to achieve a controlled soft landing on the Moon and transmitted panoramic photographs from the lunar surface.",
+      "category": "Science / Space Exploration",
+      "significance": "The success proved the lunar surface could support a lander, providing crucial information for later crewed missions including Apollo."
+    },
+    {
+      "year": 1809,
+      "title": "Birth of Felix Mendelssohn",
+      "description": "German composer, pianist, and conductor Felix Mendelssohn was born in Hamburg. He became a leading figure of the Romantic era, composing works such as A Midsummer Night's Dream overture and the Violin Concerto in E minor.",
+      "category": "Birth / Arts",
+      "significance": "Mendelssohn revived interest in the music of J.S. Bach and helped shape 19th-century concert life, including founding the Leipzig Conservatory."
     }
   ]
 }

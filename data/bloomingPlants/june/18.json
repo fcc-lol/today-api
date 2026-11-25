@@ -2,59 +2,61 @@
   "date": "June 18",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are a globally beloved group of flowering plants known for their beautifully layered petals and fragrant blooms. They thrive in temperate climates and are commonly found in gardens and wild hedgerows. Many species and cultivars bloom profusely around mid-June, marking the classic peak of rose season in the Northern Hemisphere.",
-      "bloomingSeason": "May to July",
-      "location": "Temperate regions worldwide, including Europe, North America, and parts of Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant purple flowers on slender stems. It thrives in full sun and well-drained soil and is widely grown in gardens and for commercial oil production.",
+      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, southern France, England, and cultivated across temperate zones worldwide",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "blue",
+        "white"
       ],
-      "emoji": "🌹",
-      "funFact": "There are over 300 species of roses and thousands of cultivars, making them one of the most diverse groups of flowering plants."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing, and medicine; the name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "The waratah is a striking Australian native shrub known for its large, brilliantly red flower heads composed of many individual flowers. It usually blooms in late spring to early summer, offering a spectacular floral display that attracts birds and insects.",
-      "bloomingSeason": "October to December (Southern Hemisphere - spring to early summer)",
-      "location": "Southeast Australia (New South Wales)",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub producing large rounded clusters of showy flowers. Blooms open in early summer and persist for weeks, making it a staple of cottage and woodland gardens.",
+      "bloomingSeason": "Early summer to early fall (June to September)",
+      "location": "Native to Japan; widely cultivated in the eastern United States, Europe, the Azores, and New Zealand",
       "colors": [
+        "blue",
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "An aquatic perennial with floating round leaves and fragrant, star-shaped white flowers that rest on the water's surface. Flowers open in the morning and close in the afternoon.",
+      "bloomingSeason": "Early summer to late summer (June to August)",
+      "location": "Ponds, lakes, and slow rivers across Europe, North Africa, and parts of western Asia",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🪷",
+      "funFact": "The flower stalks can grow several meters long to reach the surface, and the blooms track the sun, opening and closing in a daily rhythm."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the genus, a bowl-shaped bloom of pointed pink bracts surrounding a center of fuzzy florets. It is adapted to fire-prone, nutrient-poor fynbos habitat.",
+      "bloomingSeason": "Late autumn to early spring in the Southern Hemisphere, with peak blooms from May to August",
+      "location": "Western and Southern Cape of South Africa, in fynbos shrublands",
+      "colors": [
+        "pink",
+        "cream",
         "red"
       ],
       "emoji": "🌺",
-      "funFact": "The waratah is the floral emblem of the state of New South Wales and is prized for its resilience and ornamental value."
-    },
-    {
-      "name": "Delphinium spp.",
-      "commonName": "Delphiniums",
-      "description": "Delphiniums are tall, stately perennials admired for their spiked inflorescences packed with numerous small, often blue or purple flowers. They commonly bloom in early to midsummer and are popular in cottage gardens.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Temperate regions worldwide, native to the Northern Hemisphere, especially mountains of North America and Europe",
-      "colors": [
-        "blue",
-        "purple",
-        "white",
-        "pink"
-      ],
-      "emoji": "💐",
-      "funFact": "Delphiniums contain toxic alkaloids, so they should be handled with care, especially around pets and children."
-    },
-    {
-      "name": "Datura inoxia",
-      "commonName": "Moonflower",
-      "description": "Moonflower is a fast-growing vine known for its large, fragrant white flowers that open in the evening. It typically blooms in summer and is well-suited to warm temperate and subtropical climates, often enjoyed in gardens for its nocturnal bloom.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Native to the southwestern United States and Mexico, cultivated in warm temperate regions worldwide",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌙",
-      "funFact": "Moonflowers bloom at night and close by morning, attracting moths and other nocturnal pollinators."
+      "funFact": "The king protea is the national flower of South Africa, and its genus is named after the Greek god Proteus, who could change shape, reflecting the many forms of proteas."
     }
   ]
 }

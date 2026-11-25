@@ -2,32 +2,39 @@
   "date": "March 22",
   "events": [
     {
+      "year": 1457,
+      "title": "Gutenberg Bible Printing Reaches Public Notice",
+      "description": "On or around this date, the Gutenberg Bible, the first major book printed with movable metal type in Europe, is commonly dated by some references to have been completed or circulated by the mid-1450s; March 22, 1457 is more reliably associated with the Mainz Psalter's printing era under Fust and Schöffer.",
+      "category": "Science and Technology",
+      "significance": "The spread of movable-type printing transformed the production of knowledge, enabling the Renaissance, Reformation and the rise of mass literacy."
+    },
+    {
       "year": 1765,
-      "title": "Stamp Act Passed by British Parliament",
-      "description": "The British Parliament passed the Stamp Act, imposing a direct tax on the colonies of British America and requiring that many printed materials be produced on stamped paper produced in London, carrying an embossed revenue stamp.",
-      "category": "Political/Colonial History",
-      "significance": "This act fueled unrest in the American colonies and contributed to the growing sentiment against British rule, eventually leading to the American Revolution."
+      "title": "British Parliament Passes the Stamp Act",
+      "description": "Parliament passed the Stamp Act, imposing a direct tax on printed materials and legal documents in the American colonies to help pay for British troops stationed there after the Seven Years' War.",
+      "category": "Politics",
+      "significance": "The act provoked widespread colonial protest under the slogan 'no taxation without representation' and helped set the stage for the American Revolution."
     },
     {
-      "year": 1894,
-      "title": "Alexander III of Russia Dies",
-      "description": "Emperor Alexander III of Russia died, and his son Nicholas II became the last Emperor of Russia.",
-      "category": "Political/Monarchy",
-      "significance": "Nicholas II’s reign saw significant turmoil, including World War I and the Russian Revolution, leading to the end of the Romanov dynasty and the rise of the Soviet Union."
+      "year": 1895,
+      "title": "First Public Film Screening by the Lumière Brothers",
+      "description": "Auguste and Louis Lumière held a private screening of their film 'La Sortie de l'usine Lumière à Lyon' (Workers Leaving the Lumière Factory) in Paris for the Society for the Encouragement of National Industry.",
+      "category": "Arts and Culture",
+      "significance": "This is regarded as one of the earliest demonstrations of projected motion pictures, marking the birth of cinema as a medium."
     },
     {
-      "year": 1933,
-      "title": "Adolf Hitler Suspends German Civil Liberties",
-      "description": "The Reichstag passes the First Ordinance suspending many civil liberties, following the Reichstag Fire, consolidating Hitler's power in Germany.",
-      "category": "Political History",
-      "significance": "This marked a crucial step toward the establishment of the Nazi dictatorship and the erosion of democratic institutions in Germany."
+      "year": 1945,
+      "title": "Arab League Founded in Cairo",
+      "description": "Representatives of Egypt, Iraq, Transjordan, Lebanon, Saudi Arabia, Syria and later Yemen signed the Arab League Pact in Cairo, creating a regional organization to promote cooperation among Arab states.",
+      "category": "Politics",
+      "significance": "The Arab League became a major forum for Arab political, economic and cultural coordination and has played a central role in Middle Eastern diplomacy."
     },
     {
       "year": 1993,
-      "title": "World Trade Center Bombing",
-      "description": "A truck bomb exploded below the North Tower of the World Trade Center in New York City, killing six people and injuring over a thousand.",
-      "category": "Terrorism",
-      "significance": "This was one of the first major terrorist attacks on U.S. soil, highlighting vulnerabilities and leading to changes in security and counterterrorism measures."
+      "title": "Intel Ships the Pentium Processor",
+      "description": "Intel began shipping its first Pentium microprocessors, the fifth generation of its x86 line, offering a large leap in performance over the 486.",
+      "category": "Science and Technology",
+      "significance": "The Pentium helped bring powerful computing to the mass market and cemented Intel's dominance in the personal computer industry during the 1990s."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "May 6",
   "holidays": [
     {
+      "name": "National Nurses Day",
+      "description": "Kicks off National Nurses Week in the US, honoring the nurses who keep hospitals running, patients calm, and the coffee supply under heavy strain. Expect thank-you cards, free snacks, and a lot of well-deserved appreciation.",
+      "origin": "Nurses Day on May 6 was recognized by the American Nurses Association in 1982, when President Reagan proclaimed National Nurses Day. The week-long celebration ends on May 12, the birthday of Florence Nightingale.",
+      "category": "Awareness Day",
+      "emoji": "🩺",
+      "funFact": "The week ends on Florence Nightingale's birthday, and she was nicknamed 'The Lady with the Lamp' for making night rounds to check on wounded soldiers."
+    },
+    {
+      "name": "International No Diet Day",
+      "description": "A day to throw out the diet books, ditch the calorie counting, and celebrate bodies of every shape and size. Cake is encouraged but not required.",
+      "origin": "Started in 1992 by British feminist Mary Evans Young after she founded the group Diet Breakers in the UK, as a stand against diet culture and for body acceptance and awareness of eating disorders.",
+      "category": "Awareness Day",
+      "emoji": "🍰",
+      "funFact": "The day's unofficial symbol is a light blue ribbon, and many people mark the occasion by symbolically burning or donating their bathroom scales."
+    },
+    {
       "name": "National Beverage Day",
-      "description": "A day to raise your glass and celebrate all kinds of drinks, from water and coffee to exotic juices and fancy cocktails.",
-      "origin": "Unofficially created by social media users to honor the importance of refreshing beverages in our daily lives.",
+      "description": "A day to raise a glass of whatever you like, whether it's water, soda, juice, tea, or a fancy mocktail. Every sip counts and nobody judges your cup choice.",
+      "origin": "Observed as a casual food and drink holiday, this one grew out of the modern trend of national food days spread online, giving everyone an excuse to toast their favorite drink.",
       "category": "Food & Drink",
       "emoji": "🥤",
-      "funFact": "Millions celebrate by trying out new beverages, and soda companies often launch limited edition flavors on this day!"
+      "funFact": "The average person needs roughly 2 to 3 liters of fluids a day, so celebrating this holiday properly is basically a health requirement."
     },
     {
-      "name": "No Diet Day",
-      "description": "An annual reminder to embrace body positivity and take a break from dieting culture — eat what you love without guilt!",
-      "origin": "Started in 1992 by British journalist Mary Evans Young to promote awareness against unrealistic beauty standards.",
-      "category": "Awareness & Social",
-      "emoji": "🍰",
-      "funFact": "No Diet Day encourages self-acceptance, making it a favorite ‘cheat day’ for many, even if unofficially!"
+      "name": "Free Comic Book Day",
+      "description": "Comic shops around the world give away free comics to everyone who walks in, with caped crusaders, indie weirdos, and manga heroes all on offer. It is a nerdy treasure hunt with zero cost.",
+      "origin": "Created in 2001 by comic retailer Joe Field, who wanted to bring new readers into comic shops. It is held on the first Saturday in May, which means it often falls on or near May 6.",
+      "category": "Pop Culture",
+      "emoji": "🦸",
+      "funFact": "Joe Field was inspired by ice cream shops handing out free samples to get people hooked, so he applied the same idea to comics."
     },
     {
-      "name": "Space Day",
-      "description": "A celebration of space exploration, astronomy, and everything cosmic to inspire curiosity about the universe.",
-      "origin": "Created by educational organizations in the 1990s to promote STEM learning and interest in space science.",
-      "category": "Science & Education",
-      "emoji": "🚀",
-      "funFact": "Many planetariums and space museums offer free admission or special events on Space Day to fuel starry-eyed dreams."
-    },
-    {
-      "name": "Morse Code Day",
-      "description": "Commemorates the invention of Morse code, the groundbreaking communication technology using dots and dashes.",
-      "origin": "Marks the birthday of Samuel Morse, born on May 6, 1791, who developed this system revolutionizing long-distance communication.",
-      "category": "History & Technology",
-      "emoji": "📡",
-      "funFact": "During World War II, Morse code operators could send messages faster than teletypes, helping win many battles."
+      "name": "Cinco de Mayo Recovery Day (Unofficial)",
+      "description": "The morning-after observance for anyone who got a bit too enthusiastic with the margaritas and guacamole the day before. It calls for hydration, greasy breakfast, and a dim room.",
+      "origin": "A tongue-in-cheek social media tradition that sprang up as Cinco de Mayo parties grew into a major celebration in the United States, leaving everyone to deal with the consequences on May 6.",
+      "category": "Unofficial",
+      "emoji": "🌮",
+      "funFact": "Cinco de Mayo commemorates the Mexican army's 1862 victory at the Battle of Puebla, and it's not Mexico's Independence Day, which is actually on September 16."
     }
   ]
 }

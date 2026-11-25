@@ -4,54 +4,60 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to East Asia, known for its large, showy flowers that bloom in winter and early spring. The flowers can be single or double and come in various shades of pink, red, and white.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia, cultivated worldwide in temperate climates",
+      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like flowers. It thrives in mild, humid climates and is a popular ornamental in gardens and parks, with thousands of cultivars in many forms.",
+      "bloomingSeason": "Late autumn to early spring (peak in winter)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were prized by the Empress of Japan and have been symbols of longevity and faithfulness in Asian cultures."
+      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
     },
     {
-      "name": "Witch Hazel (Hamamelis virginiana)",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub native to eastern North America, witch hazel blooms in late fall to early winter with unique, ribbon-like yellow flowers that emit a mild fragrance.",
-      "bloomingSeason": "October to January",
-      "location": "Eastern North America",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A spreading tree with fern-like leaves and a broad umbrella-shaped canopy that becomes covered in clusters of vivid blossoms. It blooms in the Southern Hemisphere summer, when it is a spectacular sight in warm regions.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February); spring to summer in the tropics of the north",
+      "location": "Native to Madagascar; cultivated in tropical and subtropical regions including Australia, South Africa, and Brazil",
       "colors": [
-        "yellow"
+        "Scarlet",
+        "Orange-red"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel is used medicinally as an astringent extracted from its bark and leaves."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "The national flower of South Africa, the king protea has large, dramatic flower heads with spiky pink bracts surrounding a central dome. It blooms in the southern hemisphere summer, including January.",
-      "bloomingSeason": "December to February",
-      "location": "South Africa",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Proteas are ancient flowering plants, dating back millions of years, and their unique flower structure is adapted to attract bird pollinators."
+      "emoji": "🌳",
+      "funFact": "Despite its abundance around the world, the royal poinciana is endangered in its native Madagascar because of habitat loss."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial plant native to mountainous regions of Europe, especially the Alps. It blooms in midwinter, often around Christmas and early January, with white flowers that sometimes have a pink tinge.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It flowers in the cold of winter, often pushing through snow in woodlands and gardens.",
+      "bloomingSeason": "Winter (December to March)",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens in Europe and North America",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink",
+        "Green-tinged"
       ],
-      "emoji": "❄️🌼",
-      "funFact": "Despite the name, the Christmas rose is not a true rose but belongs to the buttercup family and has been associated with winter healing traditions."
+      "emoji": "🤍",
+      "funFact": "Although it is called a rose, it is actually a member of the buttercup family and all parts of the plant are poisonous."
+    },
+    {
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial producing tall, sturdy stalks topped with several giant trumpet-shaped flowers. Outdoors it blooms in the Southern Hemisphere summer, and in the north it is widely forced indoors for winter display.",
+      "bloomingSeason": "Southern Hemisphere summer; indoors in Northern Hemisphere winter",
+      "location": "Native to South America (Andes and Brazil); cultivated worldwide as a houseplant and garden bulb",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Orange",
+        "Striped"
+      ],
+      "emoji": "🌷",
+      "funFact": "A single amaryllis bulb can send up flower stalks that grow several centimeters in a single day, and it can rebloom for many years with proper care."
     }
   ]
 }

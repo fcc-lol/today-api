@@ -2,39 +2,39 @@
   "date": "April 25",
   "events": [
     {
-      "year": 1792,
-      "title": "Mutiny on the Bounty",
-      "description": "The HMS Bounty, under the command of Lieutenant William Bligh, faced a famous mutiny led by Masters' Mate Fletcher Christian in the South Pacific.",
-      "category": "Maritime History",
-      "significance": "This event became one of the most well-known mutinies in naval history and has been widely depicted in literature and film."
-    },
-    {
-      "year": 1859,
-      "title": "The First Groundbreaking of the Suez Canal",
-      "description": "Construction began on the Suez Canal, which would connect the Mediterranean Sea to the Red Sea, significantly impacting global maritime trade routes.",
-      "category": "Engineering/Infrastructure",
-      "significance": "The canal revolutionized international shipping by drastically reducing travel distance between Europe and Asia."
-    },
-    {
       "year": 1915,
-      "title": "Gallipoli Campaign Commences in World War I",
-      "description": "Allied forces began the Gallipoli Campaign with landings on the Gallipoli peninsula in Turkey, aiming to secure a sea route to Russia.",
-      "category": "Military History",
-      "significance": "Despite being a significant military operation, it ended in heavy losses and withdrawal, shaping national identities, especially in Australia and New Zealand (ANZAC Day)."
+      "title": "Allied Landings at Gallipoli",
+      "description": "Australian, New Zealand, British, and French forces landed on the Gallipoli Peninsula in the Ottoman Empire during World War I, aiming to open a sea route to Russia by capturing Constantinople. The campaign bogged down into months of stalemate and ended in Allied withdrawal in January 1916.",
+      "category": "Military",
+      "significance": "The date is commemorated as ANZAC Day in Australia and New Zealand, a national day of remembrance that helped shape the national identities of both countries."
     },
     {
-      "year": 1945,
-      "title": "Liberation of Italy's Capital Rome",
-      "description": "Allied forces liberated Rome from Nazi occupation during World War II.",
-      "category": "World War II",
-      "significance": "This was the first Axis capital to fall to the Allies, marking a major turning point in the Italian Campaign."
+      "year": 1953,
+      "title": "Watson and Crick Publish the Structure of DNA",
+      "description": "James Watson and Francis Crick published their paper in the journal Nature proposing the double-helix structure of DNA, building on X-ray diffraction work by Rosalind Franklin and Maurice Wilkins.",
+      "category": "Science",
+      "significance": "The discovery explained how genetic information is stored and replicated, launching the era of modern molecular biology, genetics, and biotechnology."
     },
     {
       "year": 1974,
       "title": "Carnation Revolution in Portugal",
-      "description": "A nearly bloodless military coup in Portugal led to the overthrow of the Estado Novo dictatorship, initiating a transition to democracy.",
-      "category": "Political History",
-      "significance": "This event ended decades of authoritarian rule and prompted decolonization in Portuguese colonies."
+      "description": "A military coup led by the Movement of the Armed Forces overthrew the Estado Novo dictatorship in Lisbon, largely without bloodshed. Civilians placed carnations in soldiers' rifle barrels, giving the revolution its name.",
+      "category": "Politics",
+      "significance": "It ended nearly 50 years of authoritarian rule, led to democracy in Portugal, and hastened the independence of Portuguese colonies in Africa such as Angola and Mozambique."
+    },
+    {
+      "year": 1982,
+      "title": "Israel Completes Withdrawal from the Sinai Peninsula",
+      "description": "Israel completed its withdrawal from the Sinai Peninsula, returning the territory to Egypt as required by the 1979 Egypt-Israel Peace Treaty, which followed the Camp David Accords.",
+      "category": "Politics",
+      "significance": "It was a landmark step in Arab-Israeli peace efforts, demonstrating that land-for-peace agreements could be implemented and solidifying the first peace treaty between Israel and an Arab state."
+    },
+    {
+      "year": 1990,
+      "title": "Hubble Space Telescope Deployed",
+      "description": "The Hubble Space Telescope was deployed into low Earth orbit from the Space Shuttle Discovery during mission STS-31. After a repair mission in 1993 corrected its flawed primary mirror, it began returning extraordinarily sharp images.",
+      "category": "Science and Technology",
+      "significance": "Hubble transformed astronomy by helping determine the age of the universe, revealing deep-field galaxies, and providing evidence for the universe's accelerating expansion."
     }
   ]
 }

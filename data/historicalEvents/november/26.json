@@ -2,32 +2,39 @@
   "date": "November 26",
   "events": [
     {
+      "year": 1789,
+      "title": "First National Thanksgiving Day in the United States",
+      "description": "Following a proclamation by President George Washington, Americans observed the first national Thanksgiving Day under the new Constitution, set aside as a day of public thanksgiving and prayer for the favorable conclusion of the American Revolution and the establishment of the new government.",
+      "category": "Politics and Culture",
+      "significance": "Established a precedent for national days of thanksgiving, which later evolved into the annual U.S. holiday formally set by Abraham Lincoln in 1863."
+    },
+    {
       "year": 1922,
-      "title": "Discovery of the Tomb of Tutankhamun",
-      "description": "British archaeologist Howard Carter and his team unearthed the entrance to the tomb of the Egyptian Pharaoh Tutankhamun in the Valley of the Kings, one of the most significant archaeological discoveries of the 20th century.",
+      "title": "Howard Carter Enters the Tomb of Tutankhamun",
+      "description": "British archaeologist Howard Carter, financed by Lord Carnarvon, looked through a small breach in the sealed doorway of Tutankhamun's tomb in the Valley of the Kings and, asked if he could see anything, famously replied 'Yes, wonderful things.'",
       "category": "Archaeology",
-      "significance": "Offered unprecedented insights into Ancient Egyptian culture and funerary practices, and sparked widespread public interest in Egyptology."
+      "significance": "The discovery of the nearly intact tomb of the pharaoh became one of the most important archaeological finds in history and sparked worldwide fascination with ancient Egypt."
     },
     {
       "year": 1942,
-      "title": "Stalingrad: Soviet Counteroffensive Begins",
-      "description": "The Soviet Red Army launched Operation Uranus, a major counteroffensive during the Battle of Stalingrad in World War II, encircling the German 6th Army.",
-      "category": "Warfare",
-      "significance": "Marked a turning point on the Eastern Front, leading to the eventual defeat of Nazi Germany, and shifted the momentum in favor of the Allies."
+      "title": "Premiere of the Film Casablanca",
+      "description": "The Warner Bros. film Casablanca, starring Humphrey Bogart and Ingrid Bergman and directed by Michael Curtiz, had its world premiere in New York City, shortly after the Allied landings in North Africa.",
+      "category": "Arts and Entertainment",
+      "significance": "The film won the Academy Award for Best Picture and is widely regarded as one of the greatest films in cinema history."
     },
     {
-      "year": 2008,
-      "title": "Mumbai Terror Attacks End",
-      "description": "The coordinated terrorist attacks in Mumbai, India that began on November 26 concluded after three days, resulting in the deaths of over 170 people.",
-      "category": "Terrorism",
-      "significance": "Highlighted global terrorism threats, led to enhanced counter-terrorism measures in India, and impacted international security policies."
+      "year": 1949,
+      "title": "India's Constituent Assembly Adopts the Constitution",
+      "description": "The Constituent Assembly of India adopted the Constitution of India, drafted under the chairmanship of B. R. Ambedkar, after nearly three years of deliberation. It came into force on January 26, 1950.",
+      "category": "Politics and Law",
+      "significance": "The adoption laid the foundation for the world's largest democracy; the date is commemorated in India as Constitution Day (Samvidhan Divas)."
     },
     {
-      "year": 1626,
-      "title": "Traditionally Marked Purchase of Manhattan Island",
-      "description": "Peter Minuit, director of the Dutch colony of New Netherland, traditionally is recorded as having purchased Manhattan Island from Native Americans for goods worth 60 guilders.",
-      "category": "Colonial History",
-      "significance": "Symbolic beginning of European settlement in what became New York City, pivotal for the development of colonial America."
+      "year": 1983,
+      "title": "Brink's-Mat Robbery at Heathrow Airport",
+      "description": "Armed robbers broke into the Brink's-Mat warehouse near London's Heathrow Airport and stole about 6,800 kg of gold bullion, diamonds, and cash, worth roughly 26 million pounds at the time.",
+      "category": "Crime",
+      "significance": "Dubbed the 'crime of the century' in Britain, it led to long-running investigations and money-laundering cases, and little of the gold was ever recovered."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "November 11",
   "holidays": [
     {
-      "name": "Singles' Day",
-      "description": "Originally a Chinese unofficial holiday celebrating single people, Singles' Day has transformed into the world's largest online shopping extravaganza, surpassing Black Friday with insane sales and deals.",
-      "origin": "Began in the 1990s among students in China as a day to celebrate being single; popularized commercially by Alibaba in the 2000s.",
+      "name": "Pocky & Presto Day",
+      "description": "A snack celebration in Japan and beyond where people exchange long, skinny biscuit sticks coated in chocolate. The date 11/11 looks like four sticks standing in a row, so fans snack in formation.",
+      "origin": "Glico, the Japanese confectioner behind Pocky, registered November 11 as Pocky Day in 1999, since the numerals 1111 resemble the sticks.",
+      "category": "Food Holiday",
+      "emoji": "🍫",
+      "funFact": "Pocky was introduced in 1966, and in some countries it is sold as Mikado. The name comes from the Japanese onomatopoeia 'poki,' the sound of snapping a stick."
+    },
+    {
+      "name": "Singles' Day (Guanggun Jie)",
+      "description": "A holiday that began as a celebration of being single and has grown into the biggest online shopping event on Earth. People treat themselves to discounts, gifts, and plenty of 'self-love' purchases.",
+      "origin": "It began in the 1990s among students at Nanjing University, who picked 11/11 because the four 1s look like 'bare sticks,' or single people. Alibaba turned it into a shopping festival in 2009.",
       "category": "Pop Culture / Shopping",
       "emoji": "🛍️",
-      "funFact": "On Singles' Day, Alibaba once raked in sales exceeding $30 billion in just 24 hours!"
+      "funFact": "Singles' Day sales have reached tens of billions of dollars in a single day, dwarfing Black Friday and Cyber Monday combined by some measures."
     },
     {
       "name": "Origami Day",
-      "description": "A day to honor the traditional Japanese art of paper folding, Origami Day encourages creativity and precision by transforming flat sheets of paper into intricate shapes and figures.",
-      "origin": "Japan; the exact origin is unclear, but the day is recognized to promote this beautiful craft worldwide.",
+      "description": "A day for folding paper into cranes, frogs, and fancy boxes, with an unreasonable number of paper cuts as the price of admission.",
+      "origin": "Observed in Japan and among paper-folding enthusiasts, it was linked to November 11 partly because of the date's tidy straight-line look and the long tradition of the art of 'ori' (folding) and 'kami' (paper).",
       "category": "Arts & Crafts",
-      "emoji": "📄",
-      "funFact": "Did you know? The word 'origami' comes from 'ori' meaning folding, and 'kami' meaning paper."
+      "emoji": "🦢",
+      "funFact": "A traditional goal in Japan is folding 1,000 paper cranes, called senbazuru, which legend says earns the folder a wish."
     },
     {
-      "name": "National French Dip Day",
-      "description": "Celebrate this delicious sandwich featuring thinly sliced roast beef dipped in savory au jus. It's a carnivore's delight and a lesser-known but beloved American food holiday.",
-      "origin": "The French dip sandwich was reportedly invented in Los Angeles in the early 1900s, with claims from multiple eateries about its origin.",
-      "category": "Food",
-      "emoji": "🥪",
-      "funFact": "Contrary to what the name suggests, the sandwich isn’t French — it’s an American invention named for the style of sandwich rather than nationality."
+      "name": "Sundae Day",
+      "description": "A day for piling ice cream, syrup, whipped cream, nuts, and a cherry into a glorious dish of dessert indulgence. Eating the cherry first is considered a bold strategic choice.",
+      "origin": "National Sundae Day is celebrated in the US in the fall, with November 11 observed in some years by dessert fans. The sundae itself has disputed roots, with Ithaca, New York, and Two Rivers, Wisconsin, both claiming to have invented it in the 1890s.",
+      "category": "Food Holiday",
+      "emoji": "🍨",
+      "funFact": "One popular theory says the dish was spelled 'sundae' to avoid offending religious sensibilities about serving a treat called a 'Sunday.'"
     },
     {
-      "name": "Veterans Day (U.S.)",
-      "description": "A federal holiday dedicated to honoring military veterans who served in the United States Armed Forces. Though solemn, many quirky celebrations and parades happen nationwide.",
-      "origin": "Originally Armistice Day, marking the end of World War I on November 11, 1918; renamed Veterans Day in 1954 to honor all U.S. veterans.",
-      "category": "Awareness / National Holiday",
-      "emoji": "🎖️",
-      "funFact": "November 11 was chosen because the armistice ending WWI went into effect on the 11th hour of the 11th day of the 11th month."
+      "name": "Veterans Day Quirk: The 11th Hour Moment of Silence",
+      "description": "Beyond the parades, many places observe a quiet moment at 11:11 a.m., marking the instant the World War I armistice took effect. It is a solemn tradition with a peculiar numeric symmetry.",
+      "origin": "The armistice that ended fighting in World War I took effect at the 11th hour of the 11th day of the 11th month in 1918, and Armistice Day later became Veterans Day in the US and Remembrance Day in the Commonwealth.",
+      "category": "Observance",
+      "emoji": "🌺",
+      "funFact": "The red poppy became the symbol of Remembrance Day thanks to the poem 'In Flanders Fields,' and poppies were among the first flowers to bloom on churned-up battlefields."
     }
   ]
 }

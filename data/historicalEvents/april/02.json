@@ -2,32 +2,39 @@
   "date": "April 2",
   "events": [
     {
-      "year": 1805,
-      "title": "Napoleon Bonaparte crowned King of Italy",
-      "description": "Napoleon Bonaparte formally crowned himself King of Italy, solidifying his control over the Italian Peninsula during his reign as Emperor of the French.",
-      "category": "Political",
-      "significance": "This event marked Napoleon's expansion of power and influence in Europe, shaping the political landscape of the continent in the early 19th century."
+      "year": 1513,
+      "title": "Ponce de León Sights Florida",
+      "description": "Spanish explorer Juan Ponce de León spotted and then landed on the Florida coast near present-day St. Augustine, naming the land La Florida during the Easter season (Pascua Florida).",
+      "category": "Exploration",
+      "significance": "Marked the first well-documented European arrival in what is now the continental United States and began Spanish colonization efforts in North America."
     },
     {
-      "year": 1917,
-      "title": "United States enters World War I",
-      "description": "The United States formally declared war on Germany, joining the Allies in World War I after years of remaining neutral.",
-      "category": "Military",
-      "significance": "This was a turning point in World War I, as the entry of the U.S. significantly bolstered the Allied powers and influenced the outcome of the war."
+      "year": 1792,
+      "title": "U.S. Coinage Act Establishes the Mint",
+      "description": "President George Washington signed the Coinage Act, creating the United States Mint in Philadelphia and establishing the U.S. dollar as the national currency on a decimal system.",
+      "category": "Economics",
+      "significance": "Established the foundations of the American monetary system and national control over coinage."
+    },
+    {
+      "year": 1805,
+      "title": "Birth of Hans Christian Andersen",
+      "description": "Danish author Hans Christian Andersen was born in Odense, Denmark. He went on to write fairy tales such as The Little Mermaid, The Ugly Duckling, and The Emperor's New Clothes.",
+      "category": "Birth / Literature",
+      "significance": "His tales became some of the most widely translated and enduring works of world literature, influencing children's literature and popular culture worldwide."
     },
     {
       "year": 1982,
-      "title": "Falklands War begins",
-      "description": "Argentina invaded the Falkland Islands, a British overseas territory, triggering the Falklands War between Argentina and the United Kingdom.",
-      "category": "Military",
-      "significance": "This conflict highlighted issues of sovereignty and colonialism and had lasting political effects for both Argentina and the United Kingdom."
+      "title": "Argentina Invades the Falkland Islands",
+      "description": "Argentine forces landed on the Falkland Islands, a British overseas territory in the South Atlantic, beginning the Falklands War between Argentina and the United Kingdom.",
+      "category": "War / Conflict",
+      "significance": "The 74-day conflict ended in British victory, contributed to the fall of Argentina's military junta, and strengthened Margaret Thatcher's government in the UK."
     },
     {
-      "year": 1945,
-      "title": "U.S. forces liberate Buchenwald concentration camp",
-      "description": "American troops liberated the Buchenwald concentration camp in Germany, freeing thousands of prisoners held by the Nazis.",
-      "category": "Human Rights",
-      "significance": "This liberation exposed the atrocities of the Holocaust to the world and became a symbol of the fight against fascism and genocide."
+      "year": 2005,
+      "title": "Death of Pope John Paul II",
+      "description": "Pope John Paul II died in Vatican City at age 84 after a long illness, ending a pontificate of nearly 27 years that began in 1978.",
+      "category": "Death / Religion",
+      "significance": "As the first non-Italian pope in centuries and a major global figure, he influenced the end of Cold War communism in Europe and interfaith relations; his funeral drew one of the largest gatherings in history."
     }
   ]
 }

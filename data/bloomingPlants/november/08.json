@@ -2,58 +2,63 @@
   "date": "November 8",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are flowering plants native to East Asia and northeastern Europe, well-known for their vibrant autumn blooms. They are widely cultivated in gardens and as potted plants, symbolizing longevity and joy in many cultures.",
-      "bloomingSeason": "October to November",
-      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool autumn temperatures and is among the last garden plants to flower before hard frost.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide, especially in East Asia, Europe, and North America",
       "colors": [
         "yellow",
-        "red",
         "white",
+        "bronze",
         "purple",
-        "orange"
+        "red",
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in China as a flowering herb as far back as the 15th century BC."
+      "funFact": "Chrysanthemums are the national flower of Japan and the focus of the annual Chrysanthemum Festival. They bloom in response to shortening days, a trait called photoperiodism."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "Camellias are evergreen shrubs known for their stunning, delicate flowers that bloom in late autumn through winter. They thrive in subtropical climates and are popular for their glossy leaves and rose-like flowers.",
-      "bloomingSeason": "October to December",
-      "location": "East Asia (Japan, China, Korea); cultivated in subtropical gardens worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A large, semi-deciduous tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In spring it carpets streets and parks with fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in Australia, South Africa, Argentina, and New Zealand",
+      "colors": [
+        "lavender",
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname 'Jacaranda City'. Students in Australia traditionally associate the bloom with exam season."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in autumn and early winter, earlier than the more familiar Camellia japonica. Its delicate, often fragrant flowers appear on glossy dark green foliage and attract late-season pollinators.",
+      "bloomingSeason": "Late autumn to early winter (October to December)",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
+      "colors": [
+        "white",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis, and its seeds are pressed to make camellia oil, used in cooking and cosmetics in Japan."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily",
+      "description": "A bulbous perennial that produces sturdy stems topped with umbels of narrow, wavy-petaled pink flowers that sparkle in the light. It flowers after its leaves have mostly died back, giving a surprising splash of color in the late autumn garden.",
+      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
+      "location": "Native to South Africa's Eastern Cape and Drakensberg; naturalized and cultivated in the UK and Europe",
       "colors": [
         "pink",
-        "red",
-        "white"
+        "deep rose"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia flowers have a unique double-layered petal arrangement that resembles roses, and the tea plant Camellia sinensis is a close relative."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree famous for its fern-like foliage and bright orange flowers that attract nectar-feeding birds. It blooms in spring and early summer in Australia but extends into November in some subtropical areas.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia; also cultivated in subtropical regions worldwide",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🧡",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but is valued for its timber and ornamental flowers."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "A large evergreen tree native to the southeastern United States, known for its large, fragrant white flowers that bloom from late spring through fall and sometimes sporadically into early winter in warmer areas.",
-      "bloomingSeason": "May to November (sporadic bloom in November in mild climates)",
-      "location": "Southeastern United States",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "Southern Magnolia flowers can be up to 12 inches (30 cm) wide and emit a lemony scent that attracts beetles for pollination."
+      "funFact": "The petals have a shimmering, glittering surface, which is why related species are called 'Guernsey lilies' and 'diamond lilies'. They bloom best when bulbs are left crowded and baked in summer sun."
     }
   ]
 }

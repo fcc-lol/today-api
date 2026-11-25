@@ -2,59 +2,60 @@
   "date": "June 21",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose known for its ability to bloom repeatedly throughout the warm months. It produces fragrant, colorful flowers that attract pollinators.",
-      "bloomingSeason": "April to October",
-      "location": "Native to Southwest China, cultivated worldwide in temperate to subtropical gardens",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of small, fragrant flowers. It thrives in full sun and well-drained soil, and is a favorite of bees and butterflies. Widely cultivated in gardens and for essential oil production.",
+      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow"
+        "purple",
+        "lavender",
+        "blue"
       ],
-      "emoji": "🌹",
-      "funFact": "China Rose is one of the ancestors of modern hybrid tea roses, prized for its recurrent blooming."
+      "emoji": "💜",
+      "funFact": "Lavender fields in Provence are often at peak bloom around the summer solstice, and the name comes from the Latin 'lavare', meaning 'to wash', since Romans used it in their baths."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A tall perennial herbaceous plant with dense spikes of pea-like flowers. It thrives in temperate regions and often blooms in early to midsummer.",
-      "bloomingSeason": "June to July",
-      "location": "Native to western North America, widely naturalized in Europe and New Zealand",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flowers above broad, glossy green leaves. It prefers partial shade and moist, rich soil, and is popular in cottage gardens and along coastlines.",
+      "bloomingSeason": "Early summer to early autumn (June to September)",
+      "location": "Native to Japan; widely cultivated in temperate regions including the eastern United States, the UK, the Azores, and Western Europe",
       "colors": [
         "blue",
-        "purple",
         "pink",
+        "purple",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines enrich soil by fixing nitrogen, aiding in ecological restoration."
+      "emoji": "💠",
+      "funFact": "The flower color depends on soil pH: acidic soils with available aluminum produce blue blooms, while alkaline soils produce pink ones."
     },
     {
       "name": "Nymphaea alba",
       "commonName": "European White Water Lily",
-      "description": "An aquatic plant with large floating leaves and fragrant white flowers that open during the day and close at night.",
-      "bloomingSeason": "June to August",
-      "location": "Native across Europe and parts of North Africa and temperate Asia",
+      "description": "A hardy aquatic perennial with large round floating leaves and fragrant, star-shaped flowers that float on the surface of still or slow-moving fresh water. The blooms open in the morning and close in the afternoon.",
+      "bloomingSeason": "Summer (June to August)",
+      "location": "Lakes, ponds, and slow rivers across Europe, North Africa, and parts of western Asia",
       "colors": [
-        "white"
+        "white",
+        "yellow"
       ],
-      "emoji": "💧",
-      "funFact": "Water lilies regulate their temperature to attract pollinators, sometimes heating flowers above ambient temperature."
+      "emoji": "🪷",
+      "funFact": "The flower stalks can lengthen or shorten to follow changes in water depth, and after pollination the stem coils downward to ripen seeds underwater."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A shrub or tree species with dense spikes of yellow-orange flowers, common along the Australian east coast. Flowers provide nectar to many native birds and mammals.",
-      "bloomingSeason": "June to November",
-      "location": "Coastal regions of eastern Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the Protea genus, made of showy bracts surrounding a central cone of true flowers. It grows in fynbos vegetation and is adapted to nutrient-poor soils and periodic fires.",
+      "bloomingSeason": "Late autumn to spring in the Southern Hemisphere, with peak flowering from about May to September, so it is in bloom around the June solstice",
+      "location": "Southwestern and southern Cape regions of South Africa",
       "colors": [
-        "yellow",
-        "orange"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksias are named after botanist Sir Joseph Banks and are key species in Australian ecosystems."
+      "emoji": "🌺",
+      "funFact": "The king protea is the national flower of South Africa, and its lineage is ancient: Proteas existed before the supercontinent Gondwana broke apart."
     }
   ]
 }

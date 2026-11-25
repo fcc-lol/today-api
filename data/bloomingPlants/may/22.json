@@ -2,55 +2,61 @@
   "date": "May 22",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Rhodedendron",
-      "description": "A large evergreen shrub native to western Asia and southeast Europe, thriving in temperate climates. It produces clusters of trumpet-shaped flowers that can range from purple to white.",
-      "bloomingSeason": "April to June",
-      "location": "Temperate forests of Europe and western Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, often fragrant, bowl-shaped to fully double blooms atop sturdy stems with deeply lobed, glossy green foliage. A classic cottage garden favorite that thrives in cold-winter climates.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
-        "purple",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendrons can have toxic nectar that affects some pollinators, making their ecology fascinating."
+      "funFact": "Peonies can live and bloom for more than 100 years, and ants are often seen on the buds feeding on nectar, though they are not needed for the flowers to open."
     },
     {
-      "name": "Lilium auratum",
-      "commonName": "Golden-rayed Lily",
-      "description": "This strikingly beautiful lily species is native to Japan and bears large white flowers with gold stripes and a sweet fragrance. It blooms in late spring to early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Japan",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A compact, suckering deciduous shrub and one of the oldest cultivated roses, bearing richly fragrant, semi-double flowers with golden stamens. It is the ancestor of many old garden roses.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to southern and central Europe and western Asia; cultivated in temperate gardens worldwide",
       "colors": [
-        "white",
-        "yellow"
+        "Deep pink",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Lilium auratum is highly prized in Japanese gardens and can grow up to 2 meters tall."
+      "emoji": "🌹",
+      "funFact": "Its dried petals retain their fragrance exceptionally well, so the Apothecary's Rose (Rosa gallica 'Officinalis') was used in medieval medicine and perfumery."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree known for its fern-like leaves and spectacular, bright orange-red flowers that attract birds and insects.",
-      "bloomingSeason": "April to June",
-      "location": "Eastern Australia and cultivated globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tree with fern-like foliage that is covered in clusters of trumpet-shaped lavender-blue flowers, which carpet the ground when they fall. It prefers warm subtropical climates.",
+      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); cultivated in Mexico, the southern United States, the Mediterranean, South Africa, and Australia",
       "colors": [
-        "orange",
-        "red"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, Silky Oak is not related to oak trees; its timber is valued for furniture making."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, there are tens of thousands of these trees, and in Mexico City they bloom in spring, turning streets purple."
     },
     {
-      "name": "Mimulus guttatus",
-      "commonName": "Seep Monkeyflower",
-      "description": "A wildflower commonly found near streams and moist environments in western North America. It has yellow, spotted flowers that attract a variety of pollinators.",
-      "bloomingSeason": "April to July",
-      "location": "Western North America",
+      "name": "Digitalis purpurea",
+      "commonName": "Common Foxglove",
+      "description": "A biennial or short-lived perennial that produces tall spikes of tubular, bell-shaped flowers with spotted throats, which are heavily visited by bumblebees. All parts of the plant are toxic.",
+      "bloomingSeason": "Late spring to midsummer (May to July)",
+      "location": "Native to western and southwestern Europe and northwest Africa; naturalized in woodland clearings and roadsides in North America, Australia, and New Zealand",
       "colors": [
-        "yellow"
+        "Purple",
+        "Pink",
+        "White",
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "The flowers of Mimulus guttatus are known for their diverse pollination strategies involving both bees and hummingbirds."
+      "emoji": "🔔",
+      "funFact": "Foxglove is the source of digoxin, a heart medication still in use today, derived from compounds first described medically by William Withering in 1785."
     }
   ]
 }

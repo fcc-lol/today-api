@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1807,
-      "title": "Abolition of the British Slave Trade Act",
-      "description": "The British Parliament passed the Abolition of the Slave Trade Act, banning the transatlantic slave trade in the British Empire.",
-      "category": "Legislation",
-      "significance": "Marked a crucial step toward the eventual abolition of slavery and human trafficking in the British Empire, influencing global movements against slavery."
+      "title": "British Parliament Abolishes the Slave Trade",
+      "description": "The Slave Trade Act 1807 received royal assent, making the transatlantic slave trade illegal throughout the British Empire. It prohibited the trading of enslaved people, though slavery itself continued in British colonies until 1833.",
+      "category": "Politics and Law",
+      "significance": "A landmark step in the global abolitionist movement, it led Britain to use its navy to suppress the slave trade and paved the way for the later abolition of slavery in the empire."
+    },
+    {
+      "year": 1821,
+      "title": "Greek War of Independence Begins",
+      "description": "Traditionally dated to March 25, Bishop Germanos of Patras is said to have raised the banner of revolt at the monastery of Agia Lavra, signaling the start of the Greek uprising against Ottoman rule.",
+      "category": "War and Revolution",
+      "significance": "The revolt led to the establishment of an independent Greek state and is celebrated annually as Greek Independence Day, inspiring other nationalist movements in Europe."
+    },
+    {
+      "year": 1911,
+      "title": "Triangle Shirtwaist Factory Fire",
+      "description": "A fire broke out at the Triangle Shirtwaist Factory in New York City, killing 146 garment workers, mostly young immigrant women. Locked exit doors and inadequate fire escapes contributed to the high death toll.",
+      "category": "Disaster and Labor",
+      "significance": "One of the deadliest industrial disasters in U.S. history, it spurred major reforms in workplace safety laws, fire codes, and the growth of labor unions."
     },
     {
       "year": 1957,
-      "title": "Signing of the Treaty of Rome",
-      "description": "The Treaty of Rome was signed by six European countries, establishing the European Economic Community (EEC), a precursor to the European Union.",
-      "category": "International Relations",
-      "significance": "Laid the foundation for European integration, fostering economic cooperation and political unity in Europe."
-    },
-    {
-      "year": 1975,
-      "title": "The Sex Discrimination Act 1975 comes into effect in the UK",
-      "description": "This UK law made it illegal to discriminate against individuals on the basis of sex or marital status in employment, education, and provision of goods and services.",
-      "category": "Civil Rights",
-      "significance": "Significant advancement in promoting gender equality and women's rights within the United Kingdom."
+      "title": "Treaty of Rome Signed",
+      "description": "Six nations, Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany, signed the Treaty of Rome, establishing the European Economic Community and Euratom.",
+      "category": "Politics and Diplomacy",
+      "significance": "The treaty laid the foundation for the modern European Union by creating a common market and deepening economic integration in postwar Europe."
     },
     {
       "year": 1965,
-      "title": "The Bloody Sunday March in Selma, Alabama",
-      "description": "Although the main Bloody Sunday event occurred on March 7, other related civil rights marches and activities occurred on March 25, as activists continued to push for voting rights.",
+      "title": "Selma to Montgomery Marches Conclude",
+      "description": "Led by Martin Luther King Jr., thousands of civil rights marchers reached the Alabama State Capitol in Montgomery after a five-day march from Selma, demanding equal voting rights for African Americans.",
       "category": "Civil Rights",
-      "significance": "Part of the broader Civil Rights Movement efforts that led to the Voting Rights Act of 1965, securing voting rights for African Americans."
+      "significance": "The march built momentum that helped secure passage of the Voting Rights Act of 1965, a milestone in the American civil rights movement."
     }
   ]
 }

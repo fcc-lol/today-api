@@ -4,23 +4,37 @@
     {
       "year": 1941,
       "title": "Attack on Pearl Harbor",
-      "description": "The Japanese military launched a surprise attack on the United States naval base at Pearl Harbor, Hawaii, leading to the United States' entry into World War II.",
-      "category": "Military/War",
-      "significance": "This attack marked a turning point in WWII by bringing the US into the conflict, significantly impacting the course of the war and global history."
+      "description": "The Imperial Japanese Navy launched a surprise air attack on the U.S. Pacific Fleet at Pearl Harbor, Hawaii, killing more than 2,400 Americans and damaging or destroying numerous warships and aircraft.",
+      "category": "Military",
+      "significance": "The attack brought the United States into World War II; the next day Congress declared war on Japan, transforming the conflict into a truly global war."
     },
     {
       "year": 1787,
-      "title": "Delaware becomes the first U.S. state",
-      "description": "Delaware ratified the United States Constitution, becoming the first state to join the newly formed United States of America.",
-      "category": "Political/National",
-      "significance": "Delaware's ratification was pivotal in establishing the United States as a unified nation under the Constitution."
+      "title": "Delaware Ratifies the U.S. Constitution",
+      "description": "Delaware became the first state to ratify the United States Constitution, doing so by a unanimous vote of its convention in Dover.",
+      "category": "Politics",
+      "significance": "Delaware earned the nickname 'The First State' and its ratification began the process that established the federal government of the United States."
     },
     {
       "year": 1972,
-      "title": "Apollo 17 returns to Earth",
-      "description": "Apollo 17, the last manned mission to the Moon of NASA's Apollo program, returned safely to Earth after a successful mission including lunar exploration and scientific experiments.",
-      "category": "Science/Space Exploration",
-      "significance": "It marked the end of the Apollo lunar missions and expanded human knowledge of the Moon."
+      "title": "Apollo 17 Launched and 'Blue Marble' Photograph Taken",
+      "description": "Apollo 17, the final crewed mission to the Moon, launched from Kennedy Space Center at night. En route, the crew photographed the fully illuminated Earth, an image known as 'The Blue Marble.'",
+      "category": "Science and Space",
+      "significance": "Apollo 17 was the last time humans traveled beyond low Earth orbit for decades, and the Blue Marble became one of the most reproduced images in history, influencing the environmental movement."
+    },
+    {
+      "year": 43,
+      "title": "Death of Cicero",
+      "description": "Roman statesman, orator, and philosopher Marcus Tullius Cicero was killed on orders of the Second Triumvirate after being proscribed for his opposition to Mark Antony.",
+      "category": "Death",
+      "significance": "Cicero's death marked the end of the Republic's most eloquent defender, and his writings continue to shape Western political thought, rhetoric, and philosophy."
+    },
+    {
+      "year": 1982,
+      "title": "First Execution by Lethal Injection in the United States",
+      "description": "Charles Brooks Jr. was executed in Texas, becoming the first person in the U.S. put to death by lethal injection.",
+      "category": "Law and Society",
+      "significance": "The event established lethal injection as the dominant method of execution in the United States and sparked ongoing legal and ethical debate."
     }
   ]
 }

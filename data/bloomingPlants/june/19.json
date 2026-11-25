@@ -2,61 +2,60 @@
   "date": "June 19",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are woody perennial flowering plants known for their large, often fragrant flowers. They come in a wide variety of colors and are beloved worldwide in gardens and landscapes.",
-      "bloomingSeason": "Late spring to early summer",
-      "location": "Temperate regions worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange",
-        "multi-colored"
-      ],
-      "emoji": "🌹",
-      "funFact": "Some rose species can bloom repeatedly throughout the growing season, and rose hips are rich in vitamin C."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A tall flowering plant with dense, colorful spikes of pea-like flowers commonly found in wild and cultivated settings. It is popular for its ornamental value and nitrogen-fixing ability.",
-      "bloomingSeason": "Late spring to mid-summer",
-      "location": "Pacific Northwest of North America but widely naturalized and cultivated in temperate regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant purple flowers held above the leaves on slender stems. It thrives in full sun and well-drained soil and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
+      "location": "Native to the Mediterranean; widely cultivated in southern France, England, the United States, and Tasmania",
       "colors": [
         "purple",
-        "blue",
-        "pink",
-        "white"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines improve soil fertility by fixing nitrogen; they have specialized root nodules with bacteria for this purpose."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', since the Romans scented their baths with it."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial that produces large, showy flowers floating above the water surface. It holds cultural and religious significance in Asia.",
-      "bloomingSeason": "Late spring to summer",
-      "location": "South Asia, Southeast Asia, parts of Australia and cultivated worldwide in suitable climates",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching, thorny shrub of hedgerows and woodland edges bearing delicate, five-petaled, lightly scented flowers. The blooms are followed by bright red rose hips that are rich in vitamin C.",
+      "bloomingSeason": "Late spring to midsummer (June to July)",
+      "location": "Europe, northwest Africa, and western Asia; naturalized in North America and Australia",
+      "colors": [
+        "pale pink",
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "During World War II, British children collected dog rose hips to make vitamin C-rich syrup when citrus fruits were scarce."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and tall, leafless stems topped with rounded umbels of trumpet-shaped blue flowers. Its early-summer bloom makes it popular in gardens and along roadsides in warm climates.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere in cultivation)",
+      "location": "Native to South Africa; cultivated worldwide in mild climates such as California, the Mediterranean, and Australia",
+      "colors": [
+        "blue",
+        "violet",
+        "white"
+      ],
+      "emoji": "🔵",
+      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek 'agape' (love) and 'anthos' (flower)."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic evergreen shrub with the largest flower head in the Protea genus, made up of showy pink bracts surrounding a central cone of tiny flowers. It grows in nutrient-poor, acidic soils in fynbos vegetation.",
+      "bloomingSeason": "Late autumn to early summer in the Southern Hemisphere, with peak bloom around May to September",
+      "location": "Western and Southern Cape regions of South Africa",
       "colors": [
         "pink",
-        "white"
+        "cream",
+        "silvery-white",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "The lotus flower’s seeds can remain viable for over 1,000 years, one of the longest seed longevity records."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree or shrub with cylindrical flower spikes that bloom with numerous small flowers packed densely. Often blooms throughout the year including early summer.",
-      "bloomingSeason": "Year-round with peak flowering in autumn and early summer",
-      "location": "Eastern Australia coastline",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksias are important nectar sources for many Australian birds and mammals, especially honeyeaters."
+      "funFact": "The King Protea is South Africa's national flower, and the genus is named after the Greek god Proteus, who could change his shape, reflecting the plant's great diversity."
     }
   ]
 }

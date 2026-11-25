@@ -2,36 +2,44 @@
   "date": "November 1",
   "holidays": [
     {
-      "name": "World Vegan Day",
-      "description": "A day celebrating the benefits of veganism for health, animals, and the environment. It encourages people to embrace a cruelty-free lifestyle.",
-      "origin": "Established in 1994 by the vegan society to mark 50 years since coining the term 'vegan'.",
-      "category": "Awareness Day",
-      "emoji": "🥦",
-      "funFact": "World Vegan Day not only promotes plant-based diets but also initiates vegan festivals, potlucks, and clothing swaps worldwide."
+      "name": "National Cook for Your Pets Day",
+      "description": "A day for pet owners to put down the kibble bag and whip up a homemade meal for their furry, feathered, or scaly companions. Think chicken-and-rice bowls for Fido and tuna treats for Whiskers.",
+      "origin": "Created by pet lifestyle author and animal enthusiast Colleen Paige, who founded many of the unofficial national pet holidays, to encourage owners to prepare healthy homemade meals for their animals.",
+      "category": "Pet Holiday",
+      "emoji": "🐶",
+      "funFact": "Before commercial pet food took off in the early 1900s, most pets ate table scraps and home-cooked meals, so your dog's great-great-grandpup was basically a home-cooking connoisseur."
     },
     {
-      "name": "Day of the Dead (Dia de los Muertos)",
-      "description": "A vibrant Mexican holiday honoring deceased loved ones with altars, marigolds, and sugar skulls to celebrate their lives joyfully.",
-      "origin": "An ancient indigenous tradition blended with Catholicism, observed since pre-Columbian times.",
-      "category": "Cultural/Festive Holiday",
-      "emoji": "💀",
-      "funFact": "Sugar skulls are personalized with the names of departed souls and placed on altars as a joyful remembrance rather than mournful symbol."
-    },
-    {
-      "name": "All Saints' Day",
-      "description": "A solemn Christian feast honoring all saints, known and unknown, who have attained heaven, reflecting on the continuity of the faithful.",
-      "origin": "Celebrated since the 4th century, officially established by Pope Gregory III in the 8th century.",
-      "category": "Religious Holiday",
-      "emoji": "🕯️",
-      "funFact": "In some countries, people visit cemeteries to clean graves and decorate them with flowers and candles, creating a glowing tribute."
-    },
-    {
-      "name": "National Cook Something Bold and Pungent Day (USA)",
-      "description": "A quirky food holiday inviting home cooks to embrace bold and pungent flavors in their culinary experiments today!",
-      "origin": "Unofficial day created to encourage culinary creativity and daring flavor combinations.",
+      "name": "National Vinegar Day",
+      "description": "A tangy tribute to the sour liquid that cleans your windows, pickles your cucumbers, and dresses your salad. Celebrate by cooking with it, cleaning with it, or just sniffing it dramatically.",
+      "origin": "An unofficial food observance celebrating vinegar, one of humanity's oldest condiments, with a history that stretches back roughly 10,000 years to ancient Babylon, where it was made from dates.",
       "category": "Food Holiday",
-      "emoji": "🌶️",
-      "funFact": "This day inspires using ingredients like garlic, onions, fish sauce, and spicy peppers that might clear a room—but delight taste buds!"
+      "emoji": "🧪",
+      "funFact": "The word vinegar comes from the French 'vin aigre,' meaning 'sour wine,' because it was originally what happened when wine was accidentally left out too long."
+    },
+    {
+      "name": "World Vegan Day",
+      "description": "A global celebration of plant-based living, when people try out dairy-free and meat-free meals, share recipes, and show off that jackfruit really can pretend to be pulled pork.",
+      "origin": "Established in 1994 by Louise Wallis, then president of The Vegan Society UK, to mark the organization's 50th anniversary. November 1 was chosen as it fell around Halloween and the end of the Celtic harvest festival season.",
+      "category": "Awareness Day",
+      "emoji": "🌱",
+      "funFact": "The term 'vegan' was coined in 1944 by Donald Watson, who took the first three and last two letters of 'vegetarian' because veganism was 'the beginning and end of vegetarianism.'"
+    },
+    {
+      "name": "Día de los Muertos (Day of the Dead) Begins",
+      "description": "A vibrant Mexican holiday where families welcome back the spirits of deceased loved ones with colorful altars, marigolds, sugar skulls, and their favorite foods. It is a joyful party for the departed rather than a sad occasion.",
+      "origin": "Rooted in Aztec rituals honoring the dead, blended with Catholic All Saints' Day traditions after the Spanish arrived. November 1 traditionally honors deceased children, and November 2 honors adults.",
+      "category": "Cultural Celebration",
+      "emoji": "💀",
+      "funFact": "The bright orange cempasúchil marigolds used on the altars are believed to guide spirits home with their vivid color and strong scent."
+    },
+    {
+      "name": "National Author's Day",
+      "description": "A day to appreciate the people who stare at blank pages for a living. Celebrate by reading a favorite book, thanking a writer, or finally admitting you will never finish your own novel.",
+      "origin": "Established in 1928 when Nellie Verne Walker Burt of Bement, Illinois, proposed the day to the General Federation of Women's Clubs, and the U.S. Department of Commerce recognized it in 1949.",
+      "category": "Literary Observance",
+      "emoji": "✍️",
+      "funFact": "November 1 also kicks off National Novel Writing Month (NaNoWriMo) tradition for many hopeful writers, who attempt to write 50,000 words in 30 days."
     }
   ]
 }

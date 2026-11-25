@@ -2,56 +2,60 @@
   "date": "January 13",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A hardy perennial that blooms in winter, often in snowy conditions. It has striking white flowers that sometimes have a greenish tint and are known for blooming around Christmas to early spring in temperate climates.",
-      "bloomingSeason": "December to February",
-      "location": "Europe (temperate regions)",
-      "colors": [
-        "white",
-        "green"
-      ],
-      "emoji": "❄️🌸",
-      "funFact": "Despite its common name, the Christmas rose is not a true rose but belongs to the buttercup family."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub famous for its large, showy flowers which bloom in late winter to early spring. The blossoms are usually red, pink, or white and appear when few other plants are in flower.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia, cultivated worldwide in temperate areas",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that bloom in the cool season. It is widely cultivated in gardens and also grows wild in woodlands.",
+      "bloomingSeason": "Late autumn to early spring (peak in winter)",
+      "location": "Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
       "colors": [
         "red",
         "pink",
         "white"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers have been prized in Asian cultures for centuries and are often associated with the samurai."
+      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true tea, and camellia seed oil has been used in East Asia for centuries for cooking and hair care."
     },
     {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "A native Australian tree that flowers in winter. Its creamy white flowers cluster in groups and provide important nectar for birds and insects during colder months.",
-      "bloomingSeason": "December to February",
-      "location": "Alpine regions of southeastern Australia",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens that emerge in the depths of winter, often pushing through snow. It prefers shaded, calcareous woodland soils.",
+      "bloomingSeason": "Midwinter to early spring",
+      "location": "Mountain woodlands of the Alps and northern Apennines in Europe; cultivated in temperate gardens in the Northern Hemisphere",
       "colors": [
         "white",
-        "cream"
+        "pale pink"
       ],
-      "emoji": "🌿🌼",
-      "funFact": "Snow gum is one of the few trees that can withstand harsh alpine conditions including snow and frost."
+      "emoji": "❄️",
+      "funFact": "Despite its name, it is not a true rose; it belongs to the buttercup family, and all parts of the plant are toxic."
     },
     {
-      "name": "Witch Hazel (Hamamelis virginiana)",
-      "commonName": "Common Witch Hazel",
-      "description": "A deciduous shrub that blooms in late fall to early winter with unique yellow spidery flowers that emit a subtle fragrance. The flowers appear on bare branches before the leaves emerge in spring.",
-      "bloomingSeason": "January to February",
-      "location": "Eastern North America",
+      "name": "Delonix regia",
+      "commonName": "Flamboyant Tree (Royal Poinciana)",
+      "description": "A spreading tree with fern-like leaves and spectacular clusters of large flame-colored flowers. In the Southern Hemisphere summer, it puts on a fiery display.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the tropics during the dry season",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and southern Africa",
       "colors": [
+        "red",
+        "orange",
         "yellow"
       ],
-      "emoji": "✨🌼",
-      "funFact": "Witch hazel extracts are used medicinally for skin treatments due to their astringent properties."
+      "emoji": "🌳",
+      "funFact": "This species is endangered in its native Madagascar even though it is one of the most commonly planted ornamental trees in the world."
+    },
+    {
+      "name": "Hippeastrum puniceum",
+      "commonName": "Amaryllis (Barbados Lily)",
+      "description": "A bulbous perennial producing tall, hollow stalks topped by large trumpet-shaped flowers. Native plants flower in the tropical summer, while potted bulbs are forced to bloom indoors in northern winters.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; summer in the Southern Hemisphere",
+      "location": "Native to Central and South America and the Caribbean; grown worldwide as a houseplant",
+      "colors": [
+        "red",
+        "orange",
+        "white",
+        "pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Hippeastrum is often mistakenly called amaryllis, but the true Amaryllis genus is a different group native to South Africa."
     }
   ]
 }

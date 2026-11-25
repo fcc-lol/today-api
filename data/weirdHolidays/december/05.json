@@ -2,36 +2,44 @@
   "date": "December 5",
   "holidays": [
     {
-      "name": "International Ninja Day 🥷",
-      "description": "A day to celebrate the mysterious and stealthy warriors of feudal Japan — the ninjas! Fans worldwide honor their skills, costumes, and secretive ways with parties, cosplay, and ninja-themed activities.",
-      "origin": "International Ninja Day traces its roots back to the fascination with ninja culture popularized by movies and martial arts schools; it gained traction online in the early 2000s.",
-      "category": "Pop Culture",
-      "emoji": "🥷",
-      "funFact": "The date December 5 was chosen because it honors the death anniversary of Hatsuse Magosaburo, a famous ninja master."
-    },
-    {
-      "name": "National Repeal Day 🍸",
-      "description": "This day marks the anniversary of the repeal of Prohibition in the United States, where people celebrate freedom to enjoy alcoholic beverages and raise a toast to legal cocktails!",
-      "origin": "December 5, 1933, the 21st Amendment was ratified, officially ending Prohibition that had banned alcohol since 1920.",
-      "category": "Historical/Food & Drink",
-      "emoji": "🍸",
-      "funFact": "After Prohibition ended, alcohol sales skyrocketed, and speakeasy culture transformed into legal bars almost overnight."
-    },
-    {
-      "name": "Bathtub Party Day 🛁",
-      "description": "A quirky celebration encouraging people to throw themselves a bubbly party in the bathtub — think candles, rubber ducks, and relaxing tunes! It's all about unwinding and self-care.",
-      "origin": "Originating from online communities promoting self-care rituals, Bathtub Party Day gained popularity as a whimsical way to de-stress during busy December schedules.",
-      "category": "Wellness/Fun",
+      "name": "Bathtub Party Day",
+      "description": "A bubbly observance encouraging people to turn their bathtub into a personal party zone, complete with bubbles, rubber duckies, snacks, and maybe a beverage or two.",
+      "origin": "Bathtub Party Day is an unofficial, folksy holiday with murky origins. It is often linked to the end of Prohibition on December 5, 1933, when the 21st Amendment was ratified, since people had been making bathtub gin during the dry years.",
+      "category": "Unofficial Fun Day",
       "emoji": "🛁",
-      "funFact": "The world's longest bathtub party was held with over 200 people celebrating simultaneously!"
+      "funFact": "The term 'bathtub gin' came from the fact that bottles were often too tall to fit under a sink faucet, so people topped off the homemade booze with water from the bathtub tap."
     },
     {
-      "name": "International Volunteer Day for Economic and Social Development 🌍",
-      "description": "A day recognizing the role volunteers play in fostering social and economic development around the globe, inspiring acts of kindness and community support.",
-      "origin": "Established by the United Nations in 1985 to promote volunteerism worldwide.",
-      "category": "Awareness/Social Good",
-      "emoji": "🌍",
-      "funFact": "Each year, International Volunteer Day highlights different themes, with past focuses including education, environment, and youth engagement."
+      "name": "Repeal Day",
+      "description": "A toast-worthy occasion celebrating the end of Prohibition in the United States, when the nation's ban on alcohol was finally lifted.",
+      "origin": "On December 5, 1933, Utah became the 36th state to ratify the 21st Amendment, which repealed the 18th Amendment and ended nationwide Prohibition after nearly 14 years.",
+      "category": "Historical Observance",
+      "emoji": "🥃",
+      "funFact": "The 21st Amendment is the only amendment in US history that was ratified by state conventions instead of state legislatures, and the only one that repealed another amendment."
+    },
+    {
+      "name": "Krampusnacht",
+      "description": "A spooky night in Alpine folklore when the horned, hairy, chain-rattling Krampus roams the streets to punish naughty children, the dark counterpart to Saint Nicholas.",
+      "origin": "Krampusnacht comes from Central European traditions in Austria, Bavaria, Hungary, Slovenia, and nearby regions. It is celebrated on the eve of St. Nicholas Day, December 6, and has roots that may reach back to pre-Christian winter customs.",
+      "category": "Folklore Celebration",
+      "emoji": "😈",
+      "funFact": "In many towns, groups of locals dress as Krampus in giant carved wooden masks in a Krampuslauf, or Krampus run, and some participants have been known to playfully swat spectators with bundles of birch twigs."
+    },
+    {
+      "name": "Special Kids Day",
+      "description": "A day to celebrate children with special needs, encouraging people to recognize their unique talents, resilience, and joy, and to make the world more inclusive.",
+      "origin": "Special Kids Day is observed on the first Friday of December by some organizations, but it is also commonly noted on December 5 in lists of awareness days. It grew out of grassroots efforts to promote acceptance and appreciation for kids with disabilities.",
+      "category": "Awareness Day",
+      "emoji": "🌈",
+      "funFact": "Many families and schools mark the day with sensory-friendly activities, such as quiet craft sessions and music games designed so every child can take part."
+    },
+    {
+      "name": "International Ninja Day",
+      "description": "A stealthy salute to shadowy warriors, when fans are encouraged to dress in black, sneak up on friends silently, and perhaps leave a few mysterious surprises.",
+      "origin": "International Ninja Day is an internet-era unofficial holiday said to be celebrated on December 5, inspired by the legendary spies and assassins of feudal Japan known as shinobi.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🥷",
+      "funFact": "The popular image of ninjas in all-black outfits probably comes from stagehands in Japanese theater called kuroko, who wore black to signal they were invisible to the audience."
     }
   ]
 }

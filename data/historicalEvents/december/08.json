@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1941,
-      "title": "United States and United Kingdom Declare War on Japan",
-      "description": "Following the attack on Pearl Harbor on December 7, 1941, the United States and the United Kingdom declared war on Japan, bringing them fully into World War II.",
-      "category": "War and Conflict",
-      "significance": "This marked the official entry of the United States into World War II, significantly altering the course and scale of the conflict globally."
+      "title": "United States Declares War on Japan",
+      "description": "The day after the Japanese attack on Pearl Harbor (December 7 in Hawaii), the U.S. Congress declared war on Japan with only one dissenting vote, and President Franklin D. Roosevelt signed the declaration. On the same day in Asia (December 8 local time), Japan attacked Malaya, Hong Kong, the Philippines, and other targets.",
+      "category": "War",
+      "significance": "Marked the formal entry of the United States into World War II, shifting the balance of global industrial and military power toward the Allies."
     },
     {
       "year": 1980,
-      "title": "Death of John Lennon",
-      "description": "John Lennon, former member of The Beatles and influential musician and peace activist, was assassinated in New York City.",
-      "category": "Cultural Milestone/Death",
-      "significance": "Lennon's death was a major shock worldwide, marking the loss of a cultural icon whose music and activism had a profound impact on popular culture and social movements."
+      "title": "Assassination of John Lennon",
+      "description": "Former Beatles member John Lennon was shot and killed outside the Dakota apartment building in New York City by Mark David Chapman. Lennon was 40 years old.",
+      "category": "Death",
+      "significance": "His death triggered worldwide mourning and remains a defining moment in music history, strengthening his legacy as a cultural icon and peace advocate."
     },
     {
       "year": 1991,
-      "title": "Ukraine Declares Independence from the Soviet Union",
-      "description": "Ukraine formally declared its independence, a key event in the dissolution of the Soviet Union.",
-      "category": "Political Event",
-      "significance": "This was a crucial step in the end of the Soviet Union, leading to the establishment of an independent Ukrainian state and impacting global geopolitics."
+      "title": "Belovezha Accords Signed",
+      "description": "The leaders of Russia, Ukraine, and Belarus signed the Belovezha Accords, declaring that the Soviet Union had ceased to exist as a subject of international law and establishing the Commonwealth of Independent States.",
+      "category": "Politics",
+      "significance": "Effectively dissolved the Soviet Union, ending the Cold War era and reshaping the political map of Eurasia."
     },
     {
-      "year": 1949,
-      "title": "First Round-the-World Nonstop Flight Completed",
-      "description": "The United States Air Force completed the first nonstop round-the-world flight with four B-50 bombers in a project named Lucky Lady II.",
-      "category": "Aviation Milestone",
-      "significance": "This achievement demonstrated the advances in aviation technology and strategic military capabilities during the early Cold War era."
+      "year": 1854,
+      "title": "Proclamation of the Immaculate Conception",
+      "description": "Pope Pius IX issued the apostolic constitution Ineffabilis Deus, defining as dogma that the Virgin Mary was conceived without original sin.",
+      "category": "Religion",
+      "significance": "It was a landmark moment in Roman Catholic doctrine and one of the few instances of a pope formally defining a dogma through papal authority."
+    },
+    {
+      "year": 1987,
+      "title": "INF Treaty Signed in Washington",
+      "description": "U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev signed the Intermediate-Range Nuclear Forces (INF) Treaty at the White House, agreeing to eliminate an entire class of nuclear missiles.",
+      "category": "Diplomacy",
+      "significance": "It was the first agreement between the superpowers to reduce, rather than merely limit, their nuclear arsenals, and it helped ease Cold War tensions."
     }
   ]
 }

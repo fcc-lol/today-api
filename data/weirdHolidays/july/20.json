@@ -2,36 +2,44 @@
   "date": "July 20",
   "holidays": [
     {
-      "name": "Moon Day",
-      "description": "Celebrates humanity’s first steps on the Moon during the Apollo 11 mission in 1969.",
-      "origin": "Established to honor astronaut Neil Armstrong’s historic moonwalk on July 20, 1969.",
-      "category": "Space/History",
-      "emoji": "🌕🚀",
-      "funFact": "Buzz Aldrin took communion on the moon, making it the first religious sacrament performed on another world!"
-    },
-    {
-      "name": "Friendship Day (Selected Countries)",
-      "description": "A day to celebrate friendships and honor those special people in our lives.",
-      "origin": "1970s movement promoted by the greeting card industry and recognized officially in some countries on July 20.",
-      "category": "Social/Cultural",
-      "emoji": "💖🤝",
-      "funFact": "Some countries celebrate Friendship Day on other dates; the quirky July 20 version has grown popular in places like India."
+      "name": "National Fortune Cookie Day",
+      "description": "A day to crack open a crispy, vanilla-flavored cookie and find out whether your future holds great fortune or just a vague hint about 'a stranger bringing good news.' Bonus points for adding 'in bed' to the end of your fortune.",
+      "origin": "An unofficial American food holiday, one of many days created to celebrate snack foods. Despite their association with Chinese cuisine, fortune cookies are generally credited to early 20th-century Japanese-American and Chinese-American bakers in California.",
+      "category": "Food Day",
+      "emoji": "🥠",
+      "funFact": "Fortune cookies are virtually unknown in China. In 2005, a Powerball drawing had 110 players win second prize because they used the same lucky numbers printed on a fortune cookie fortune."
     },
     {
       "name": "National Lollipop Day",
-      "description": "A sweet holiday dedicated to the beloved sugary-on-a-stick treat—the lollipop!",
-      "origin": "Created by candy enthusiasts who wanted to honor this classic confection.",
-      "category": "Food/Candy",
+      "description": "A sweet celebration of the candy on a stick, perfect for licking your way through the day. Everyone from toddlers to bankers is encouraged to pop one in their mouth.",
+      "origin": "An unofficial candy holiday of uncertain origin. The modern lollipop is often credited to George Smith of New Haven, Connecticut, who trademarked the name 'Lolly Pop' in 1908, reportedly naming it after a racehorse.",
+      "category": "Food Day",
       "emoji": "🍭",
-      "funFact": "The word 'lollipop' first appeared in English dictionaries as early as 1931, but similar sweets date back centuries!"
+      "funFact": "The name 'Lolly Pop' may have come from a racehorse named Lolly Pop, owned by George Smith, who was also credited with popularizing the treat in the US."
     },
     {
       "name": "International Chess Day",
-      "description": "Commemorates the founding of the International Chess Federation (FIDE) on July 20, 1924, and celebrates the game of chess worldwide.",
-      "origin": "Established by FIDE in 1966 to promote chess as a universal language.",
-      "category": "Games/Strategy",
+      "description": "A day for pawns, knights, and dramatic 'checkmate' declarations, celebrated by chess fans in over 100 countries. Expect pop-up tournaments, park-bench showdowns, and people pretending they planned that blunder.",
+      "origin": "Proclaimed by the United Nations General Assembly in 2019 to recognize chess as a game that promotes fairness, understanding, and mutual respect. The date marks the founding of FIDE, the World Chess Federation, in Paris on July 20, 1924.",
+      "category": "Games & Culture",
       "emoji": "♟️",
-      "funFact": "The longest chess game theoretically possible is 5,949 moves!"
+      "funFact": "The number of possible unique chess games is greater than the number of atoms in the observable universe, a figure often called the Shannon number, roughly 10^120."
+    },
+    {
+      "name": "Moon Day",
+      "description": "A day to gaze skyward and remember when humans first walked on the Moon. Celebrants often watch moon-landing documentaries, eat astronaut ice cream, and argue with relatives about conspiracy theories.",
+      "origin": "Marks the anniversary of July 20, 1969, when Apollo 11 landed on the Moon and Neil Armstrong and Buzz Aldrin became the first humans to walk on its surface. The U.S. has observed it in various forms, and it was also recognized by presidential proclamation as National Moon Day.",
+      "category": "Science & History",
+      "emoji": "🌕",
+      "funFact": "Armstrong and Aldrin left behind a plaque, an American flag, and bags of human waste. Collectively, the Apollo missions left about 96 bags of poop, vomit, and urine on the Moon."
+    },
+    {
+      "name": "Great Prairie Dog Day Pretend",
+      "description": "Not an official observance, but a fun excuse for people to celebrate Pokémon-style 'Pokémon Go Day' energy... Actually, a better entry: National Ice Cream Month's Third Sunday vibes aside, July 20 is also Space Exploration Day, celebrated by nerds and dreamers alike.",
+      "origin": "Space Exploration Day is observed on July 20 in honor of the Apollo 11 landing and also the 1976 Viking 1 landing on Mars, which took place on the same date seven years later.",
+      "category": "Science & History",
+      "emoji": "🚀",
+      "funFact": "Viking 1 landed on Mars on July 20, 1976, exactly seven years after Apollo 11, and operated on the Martian surface for over six years."
     }
   ]
 }

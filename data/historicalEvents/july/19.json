@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1848,
-      "title": "First Women's Rights Convention Begins in Seneca Falls",
-      "description": "The Seneca Falls Convention, the first women's rights convention in the United States, began on July 19, 1848, marking a pivotal moment in the women's suffrage movement.",
+      "title": "Seneca Falls Convention Opens",
+      "description": "The first women's rights convention in the United States began in Seneca Falls, New York, organized by Elizabeth Cady Stanton, Lucretia Mott, and others. The gathering continued into July 20 and produced the Declaration of Sentiments, modeled on the Declaration of Independence, which demanded equal rights for women including the right to vote.",
       "category": "Social Movement",
-      "significance": "It initiated organized advocacy for women's rights, including the right to vote, influencing future feminist movements."
+      "significance": "Marked the formal beginning of the organized women's suffrage movement in the United States, laying the groundwork for the 19th Amendment in 1920."
     },
     {
-      "year": 1941,
-      "title": "German Forces Launch Attack on Leningrad",
-      "description": "On July 19, 1941, during World War II, German troops began their assault on Leningrad, leading to the prolonged Siege of Leningrad by Nazi forces.",
-      "category": "Military",
-      "significance": "This siege became one of the longest and deadliest in history, symbolizing Soviet resilience during the war."
+      "year": 1900,
+      "title": "Opening of the First Line of the Paris Métro",
+      "description": "The first line of the Paris Métro, Line 1, opened between Porte de Vincennes and Porte Maillot, just in time to serve visitors to the 1900 Exposition Universelle held in the city.",
+      "category": "Infrastructure",
+      "significance": "Began one of the world's most iconic and densely used urban rapid transit systems, which influenced urban transit design and became a symbol of Parisian life."
     },
     {
-      "year": 1976,
-      "title": "Viking 1 Sends First Images from Mars",
-      "description": "NASA's Viking 1 sent the first clear images of the Martian surface back to Earth on July 19, 1976, marking the beginning of detailed exploration of Mars.",
-      "category": "Science and Technology",
-      "significance": "These images expanded knowledge of Mars and paved the way for future planetary exploration missions."
+      "year": 1799,
+      "title": "Discovery of the Rosetta Stone",
+      "description": "French soldiers under Napoleon's Egyptian campaign, while strengthening fortifications near the town of Rashid (Rosetta), uncovered a granodiorite stele inscribed with a decree in three scripts: Egyptian hieroglyphic, Demotic, and ancient Greek.",
+      "category": "Archaeology",
+      "significance": "The stone provided the key that allowed Jean-François Champollion to decipher Egyptian hieroglyphs in the 1820s, opening ancient Egyptian civilization to modern scholarship."
+    },
+    {
+      "year": 1979,
+      "title": "Sandinista Revolution Triumphs in Nicaragua",
+      "description": "The Sandinista National Liberation Front (FSLN) took power in Managua after the fall of dictator Anastasio Somoza Debayle, who had fled the country days earlier, ending over four decades of rule by the Somoza family.",
+      "category": "Politics",
+      "significance": "The revolution reshaped Nicaraguan politics and became a major Cold War flashpoint in Central America, leading to the U.S.-backed Contra war and the Iran-Contra affair."
     },
     {
       "year": 1980,
-      "title": "Mount St. Helens Volcanic Eruption",
-      "description": "On July 19, 1980, increased seismic activity signaled the impending eruption of Mount St. Helens in Washington State, which would occur days later.",
-      "category": "Natural Disaster",
-      "significance": "This event alerted scientists and authorities to volcanic hazards and greatly contributed to volcanology research."
+      "title": "Moscow Summer Olympics Open",
+      "description": "The Games of the XXII Olympiad opened in Moscow, the first Olympics held in Eastern Europe. They were affected by a boycott led by the United States and joined by dozens of other nations in protest of the Soviet invasion of Afghanistan.",
+      "category": "Sports and Politics",
+      "significance": "Highlighted the intrusion of Cold War politics into international sport and led to a retaliatory Soviet-led boycott of the 1984 Los Angeles Games."
     }
   ]
 }

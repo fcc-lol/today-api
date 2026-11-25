@@ -2,32 +2,39 @@
   "date": "August 25",
   "events": [
     {
-      "year": 1609,
-      "title": "Galileo Demonstrates his First Telescope",
-      "description": "Galileo Galilei publicly demonstrates his improved version of the telescope in Venice, revolutionizing the way humanity views celestial bodies.",
-      "category": "Science and Technology",
-      "significance": "This event marks a pivotal moment in astronomy, enabling future discoveries and the advancement of the scientific method."
+      "year": 79,
+      "title": "Traditional Date of Pompeii's Destruction (Disputed)",
+      "description": "Long-held tradition dates the eruption of Mount Vesuvius, which buried Pompeii and Herculaneum, to August 24-25, 79 CE, based on Pliny the Younger's account. Archaeological evidence such as autumn fruits and a charcoal inscription suggests the eruption may have occurred later, in October or November.",
+      "category": "Natural Disaster",
+      "significance": "The eruption preserved Roman cities in remarkable detail, giving historians and archaeologists an unparalleled window into everyday life in the ancient world."
     },
     {
-      "year": 1835,
-      "title": "First Recorded Railway Accident in the United States",
-      "description": "A small boy becomes the first person in the US to be killed in a railway accident when he is hit by a train in New York.",
-      "category": "Transportation",
-      "significance": "This tragic incident highlights the growing pains of new transportation technology and the need for safety measures."
+      "year": 1609,
+      "title": "Galileo Demonstrates His Telescope in Venice",
+      "description": "Galileo Galilei presented his improved telescope, with about 8x to 9x magnification, to the Venetian Senate from the bell tower of St. Mark's, showing its value for spotting ships at sea.",
+      "category": "Science",
+      "significance": "The demonstration led to Galileo's own astronomical observations, which supported the Copernican model and helped transform modern astronomy."
     },
     {
       "year": 1944,
-      "title": "Liberation of Paris in World War II",
-      "description": "Paris is liberated from Nazi occupation by the French 2nd Armored Division and the US 4th Infantry Division after four years under German control.",
-      "category": "Military/War",
-      "significance": "The liberation symbolizes a major turning point in World War II and the beginning of the end for Nazi dominance in Western Europe."
+      "title": "Liberation of Paris",
+      "description": "German General Dietrich von Choltitz surrendered Paris to Allied forces, with the French 2nd Armored Division under General Leclerc and the Resistance playing leading roles. Choltitz disregarded Hitler's orders to destroy the city.",
+      "category": "War",
+      "significance": "The liberation ended four years of Nazi occupation and was a major morale and strategic victory for the Allies in World War II."
     },
     {
-      "year": 1981,
-      "title": "Sandra Day O'Connor Nominated to the US Supreme Court",
-      "description": "Sandra Day O'Connor is nominated by President Ronald Reagan to become the first female justice of the United States Supreme Court.",
-      "category": "Politics/Law",
-      "significance": "This nomination marks a historic milestone for gender equality in the highest levels of the judiciary in the United States."
+      "year": 1991,
+      "title": "Linus Torvalds Announces Linux",
+      "description": "Finnish student Linus Torvalds posted a message to a Usenet newsgroup announcing he was working on a free operating system kernel as a hobby, which became Linux.",
+      "category": "Technology",
+      "significance": "Linux grew into one of the most influential pieces of software in history, powering most servers, Android devices, and supercomputers worldwide, and became a cornerstone of open-source software."
+    },
+    {
+      "year": 2012,
+      "title": "Voyager 1 Enters Interstellar Space",
+      "description": "NASA's Voyager 1 probe, launched in 1977, crossed the heliopause into interstellar space, as later confirmed by data analysis on plasma density changes.",
+      "category": "Space Exploration",
+      "significance": "Voyager 1 became the first human-made object to leave the heliosphere and enter the space between the stars."
     }
   ]
 }

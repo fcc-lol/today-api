@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "World Hello Day",
-      "description": "A day dedicated to promoting peace through simple acts of communication — just say 'Hello' to at least 10 people!",
-      "origin": "Started in 1973 as a response to conflict, World Hello Day encourages dialogue to solve problems instead of violence.",
+      "description": "A day when people around the globe are encouraged to greet ten people they would not normally say hello to, as a small gesture toward promoting peace through communication.",
+      "origin": "Started in 1973 in response to the Yom Kippur War between Egypt and Israel, by brothers Brian and Michael McCormack, who sent letters to world leaders. It is now observed in more than 180 countries.",
       "category": "Awareness Day",
       "emoji": "👋",
-      "funFact": "World Hello Day was created in response to the Yom Kippur War, promoting greetings instead of gunfire."
-    },
-    {
-      "name": "False Confession Day",
-      "description": "Celebrate the hilarity and mischief of admitting to outrageous or silly things that you definitely didn’t do!",
-      "origin": "An unofficial day to poke fun at the concept of false confessions and encourage playful honesty.",
-      "category": "Humor",
-      "emoji": "😜",
-      "funFact": "Though most false confessions in real life are serious, this day invites only harmless, ridiculous admissions (like 'I ate the last cookie')."
-    },
-    {
-      "name": "Have a Party with Your Bear Day",
-      "description": "Honor your teddy bear or favorite stuffed companion by throwing a mini party just for them!",
-      "origin": "An informal day to celebrate childhood comfort objects and spread joy.",
-      "category": "Fun/Pet/Stuffed Animals",
-      "emoji": "🧸🎉",
-      "funFact": "Teddy bears have been cherished companions since the early 1900s and can reduce stress just by hugging!"
+      "funFact": "Brian McCormack and his brother Michael started the day, and participation is as simple as saying hello to ten people, no matter the language."
     },
     {
       "name": "World Television Day",
-      "description": "Recognizes the impact television has on decision-making by providing information, entertainment, and education worldwide.",
-      "origin": "UN declared November 21 as World Television Day in 1996 to acknowledge TV’s role in communication.",
-      "category": "Pop Culture/Awareness",
+      "description": "A day celebrating the global influence of television as a tool for sharing information, shaping opinion, and bringing the world into our living rooms, and occasionally onto our couches for marathon binge-watching.",
+      "origin": "The United Nations General Assembly proclaimed it in 1996, choosing the date to commemorate the first World Television Forum held on November 21, 1996.",
+      "category": "UN Observance",
       "emoji": "📺",
-      "funFact": "The first TV transmission was demonstrated in 1926, but it took decades before TVs were common in homes!"
+      "funFact": "The day recognizes TV's role in shaping public opinion, not in celebrating the couch potato lifestyle, though many observers quietly combine both."
+    },
+    {
+      "name": "World Fisheries Day",
+      "description": "A day when fishing communities around the world gather to celebrate the people and traditions behind seafood and to push for sustainable fishing practices and healthy oceans.",
+      "origin": "Established in 1997 when representatives of fisherfolk organizations from 18 countries met in New Delhi and formed the World Forum of Fisher Peoples, declaring November 21 as the day to highlight their cause.",
+      "category": "Awareness Day",
+      "emoji": "🎣",
+      "funFact": "Fishing and aquaculture support the livelihoods of hundreds of millions of people worldwide, yet the founding meeting was held in a landlocked-feeling conference room in New Delhi."
+    },
+    {
+      "name": "False Confession Day",
+      "description": "A day for fessing up to things you did not actually do, which is a playful invitation to tell harmless fibs and tall tales and then laugh about it with friends.",
+      "origin": "This is an unofficial, tongue-in-cheek observance that circulates among holiday calendars and has no single known founder, spreading mostly through word of mouth and the internet.",
+      "category": "Unofficial Fun Day",
+      "emoji": "🤥",
+      "funFact": "The whole idea is to confess to something ridiculous that never happened, such as claiming you once wrestled a bear, which makes it the only holiday where lying is the point."
+    },
+    {
+      "name": "National Gingerbread Day",
+      "description": "A day dedicated to the spiced, cookie-and-house-building treat that blends ginger, cinnamon, and molasses into festive deliciousness.",
+      "origin": "Gingerbread dates back to medieval Europe, and the day exists as an informal food observance to kick off the holiday baking season.",
+      "category": "Food Holiday",
+      "emoji": "🍪",
+      "funFact": "Queen Elizabeth I reportedly had gingerbread cookies made in the likenesses of visiting dignitaries, making her the original icing-wielding diplomat."
     }
   ]
 }

@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Star Wars Day",
-      "description": "Celebrate all things Star Wars with the pun-inspired greeting, 'May the 4th be with you!' A day for fans to honor the legendary sci-fi saga created by George Lucas.",
-      "origin": "The phrase 'May the 4th be with you' is a pun on the famous line 'May the Force be with you' from the Star Wars films. It gained popularity among fans in the early 2000s and has since become an unofficial global holiday.",
+      "description": "Fans around the world greet each other with 'May the Fourth be with you!' and celebrate with movie marathons, themed costumes, and lightsaber duels in the living room.",
+      "origin": "The pun on 'May the Force be with you' dates back at least to 1979, when the Conservative Party placed a congratulatory ad in the London Evening News after Margaret Thatcher became Prime Minister. The date then grew into a fan holiday, and Disney and Lucasfilm made it an official marketing event after acquiring Star Wars.",
       "category": "Pop Culture",
-      "emoji": "🌌✨",
-      "funFact": "Since 2011, Lucasfilm has officially acknowledged May 4 as Star Wars Day, hosting fan events and special releases worldwide."
+      "emoji": "⚔️",
+      "funFact": "The 1979 Thatcher ad read 'May the Fourth Be With You, Maggie. Congratulations.' Star Wars fans only picked up the pun decades later."
     },
     {
-      "name": "National Candied Orange Peel Day",
-      "description": "A sweet and tangy day dedicated to enjoying candied orange peels — a citrusy treat that's both zesty and sugary!",
-      "origin": "Candied orange peel is a confection that dates back centuries, originally made as a way to preserve fruit. This quirky food holiday celebrates this delicious traditional treat.",
-      "category": "Food Holiday",
-      "emoji": "🍊🍬",
-      "funFact": "Candied orange peel is often dipped in chocolate for an extra decadent twist, making it a luxurious snack during holidays."
+      "name": "International Respect for Chickens Day",
+      "description": "A day to appreciate chickens as intelligent, social, and surprisingly complex birds rather than just a menu item. Backyard keepers and animal lovers honor their feathered friends.",
+      "origin": "The observance was created by animal welfare advocates to promote compassion toward chickens and raise awareness of how they are treated in farming.",
+      "category": "Animal Awareness",
+      "emoji": "🐔",
+      "funFact": "Chickens can recognize more than 100 different faces of people or other chickens and have been shown to display self-control while waiting for a larger food reward."
     },
     {
-      "name": "National Firefighter's Day",
-      "description": "A day to honor firefighters for their bravery, dedication, and service keeping communities safe from fire hazards and emergencies.",
-      "origin": "While not an official federal holiday, many recognize May 4 to appreciate firefighters' hard work and sacrifices, with various local events and fundraisers supporting fire departments.",
-      "category": "Awareness / Appreciation",
-      "emoji": "🔥🚒",
-      "funFact": "The buddy system firefighters use, where partners look out for each other during dangerous operations, is a critical safety protocol developed over many decades."
+      "name": "Orange Juice Day",
+      "description": "A sunny celebration of the breakfast staple, encouraging everyone to raise a glass of OJ and toast the citrus that wakes up the world each morning.",
+      "origin": "This is an unofficial food holiday that grew from the popularity of orange juice as a breakfast drink and citrus industry promotion, especially in orange-growing regions like Florida and California.",
+      "category": "Food & Drink",
+      "emoji": "🍊",
+      "funFact": "Frozen concentrated orange juice was developed in the 1940s, partly to give American soldiers a source of vitamin C, and it was among the first major frozen food successes."
     },
     {
-      "name": "International Star Wars Day Meme Day",
-      "description": "A niche, internet-driven holiday where fans share hilarious Star Wars-themed memes, jokes, and creative fan art celebrating the galaxy far, far away in a humorous way.",
-      "origin": "With the rise of meme culture and Star Wars fandom intersecting heavily online, this informal day emerged to combine laughter and fandom on May 4.",
-      "category": "Internet Culture",
-      "emoji": "😂🌠",
-      "funFact": "Some of the most viral Star Wars memes—from Yoda’s peculiar grammar to Darth Vader’s parenting struggles—come to life especially on this day."
+      "name": "National Renewal Day",
+      "description": "A day dedicated to refreshing your mind, home, and habits. People use it to declutter, start a new routine, or simply reset after a long stretch of busyness.",
+      "origin": "This is a grassroots, unofficial observance promoted by wellness and self-improvement communities as a mid-spring chance for a fresh start.",
+      "category": "Wellness",
+      "emoji": "🌱",
+      "funFact": "Many people celebrate with spring cleaning projects. Studies suggest that decluttering a space can noticeably reduce feelings of stress."
+    },
+    {
+      "name": "International Firefighters' Day",
+      "description": "A day honoring firefighters worldwide, with ceremonies, thank-you notes, and blue and red ribbons worn in tribute to those who risk their lives to protect others.",
+      "origin": "It was established after five firefighters died in a bushfire in Linton, Victoria, Australia, in January 1999. An email called for a day of remembrance and recognition, and May 4 was chosen because it is the feast day of St. Florian, the patron saint of firefighters.",
+      "category": "Awareness & Remembrance",
+      "emoji": "🚒",
+      "funFact": "St. Florian was a Roman soldier who reportedly organized firefighting brigades, and he is often depicted pouring water from a bucket onto a burning house."
     }
   ]
 }

@@ -2,56 +2,78 @@
   "date": "December 14",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is a hardy evergreen shrub that produces clusters of fragrant, showy flowers throughout much of the year in warm climates, including December in Mediterranean and subtropical regions. It thrives in sunny, dry conditions and is often used in landscaping.",
-      "bloomingSeason": "May to November, sometimes year-round in mild climates",
-      "location": "Mediterranean Basin, Southern United States, Australia",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrubby plant native to Mexico whose showy 'flowers' are actually colored bracts surrounding small yellow cyathia. In its native range it grows as a tall shrub, and in short winter days it develops its famous festive coloration.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; cultivated worldwide as a holiday plant and in frost-free gardens",
       "colors": [
-        "Pink",
-        "White",
-        "Red"
+        "red",
+        "white",
+        "pink",
+        "cream"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite being widely cultivated, all parts of oleander are highly toxic if ingested."
+      "emoji": "🎄",
+      "funFact": "The Aztecs called it 'cuetlaxochitl' and used its sap to make a reddish dye and as a fever remedy. Its color change is triggered by at least 12 hours of darkness per night."
     },
     {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "Snow Gum is a eucalyptus species native to the high-altitude regions of southeastern Australia. It typically blooms in late spring to early summer but can have sporadic blooming extending into the southern hemisphere summer, including December. The flowers are fluffy clusters of stamens without petals.",
-      "bloomingSeason": "November to January",
-      "location": "Australian Alps and surrounding highlands",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial from the buttercup family with nodding, cup-shaped white flowers that often age to pink. It blooms in the cold of early winter, sometimes pushing through snow.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens of Europe and North America",
       "colors": [
-        "Creamy White"
+        "white",
+        "pale pink",
+        "green-tinged"
       ],
-      "emoji": "🌿",
-      "funFact": "Snow Gum is well adapted to cold alpine environments and is one of the few eucalyptus species that withstand snow."
+      "emoji": "❄️",
+      "funFact": "Despite its name it is not a true rose. All parts are toxic, and in folklore the plant was said to have sprung from the tears of a girl who had no gift for the Christ child."
+    },
+    {
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus / Christmas Cactus",
+      "description": "An epiphytic cactus with flattened, segmented stems and arching, asymmetrical flowers. In Brazil it grows on tree branches and in rock crevices in cool, humid mountain forests.",
+      "bloomingSeason": "Late autumn to winter in the Northern Hemisphere (November to January); flowers in the Southern Hemisphere's late spring",
+      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro; popular houseplant worldwide",
+      "colors": [
+        "magenta",
+        "pink",
+        "red",
+        "orange",
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "It is a short-day plant, so it sets buds when nights lengthen and temperatures cool. Its pollinators in the wild are hummingbirds."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana / Flamboyant Tree",
+      "description": "A broad, umbrella-shaped tree with feathery fern-like leaves that becomes covered in clusters of brilliant flowers. In the Southern Hemisphere's early summer it produces some of the most spectacular displays of any tropical tree.",
+      "bloomingSeason": "Late spring to summer (October to January in the Southern Hemisphere; May to July in the Northern Hemisphere)",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, South Africa, Brazil and the Caribbean",
+      "colors": [
+        "scarlet",
+        "orange-red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "In its native Madagascar the species is endangered in the wild, even though it is one of the most widely planted ornamental trees in the world."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "Sasanqua Camellia is a species of camellia that blooms in late autumn to early winter, producing fragrant, delicate flowers often used in traditional Japanese gardens. It thrives in temperate climates and is popular in East Asia and parts of the southeastern United States.",
-      "bloomingSeason": "October to December",
-      "location": "Japan, China, Southeastern United States",
+      "description": "A dense evergreen shrub with glossy dark leaves and delicate, lightly fragrant flowers. It starts blooming earlier than the common camellia and brightens gardens in late autumn and early winter.",
+      "bloomingSeason": "Autumn to early winter (October to January)",
+      "location": "Native to southern Japan; cultivated in the southeastern United States, Mediterranean, Australia and New Zealand",
       "colors": [
-        "White",
-        "Pink",
-        "Light Red"
+        "white",
+        "pink",
+        "rose-red"
       ],
-      "emoji": "🌸",
-      "funFact": "Sasanqua camellias were historically used to make tea and oil in Japan."
-    },
-    {
-      "name": "Hamamelis virginiana",
-      "commonName": "Witch Hazel",
-      "description": "Witch Hazel is a deciduous shrub native to North America that blooms in late fall to early winter. Its unique yellow, spidery flowers appear on bare branches and are known for their fragrant, astringent properties, commonly used medicinally.",
-      "bloomingSeason": "October to December",
-      "location": "Eastern North America",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🍂",
-      "funFact": "Witch hazel flowers in late fall and winter as an adaptation to attract winter-active pollinators."
+      "emoji": "🌹",
+      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to produce camellia oil used in cooking and hair care in Japan."
     }
   ]
 }

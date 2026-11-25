@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Day of Happiness",
-      "description": "A global celebration encouraging people to recognize and pursue happiness as a fundamental human goal.",
-      "origin": "Established by the United Nations in 2012 to promote the importance of happiness and well-being worldwide.",
+      "description": "A global day dedicated to recognizing that happiness is a fundamental human goal. People celebrate with acts of kindness, smile-a-thons, and generally trying to be less grumpy than usual.",
+      "origin": "The United Nations General Assembly established it in 2012, following a proposal led by Bhutan, the country famous for measuring Gross National Happiness instead of just GDP.",
       "category": "Awareness Day",
       "emoji": "😊",
-      "funFact": "The date was chosen to coincide with the March Equinox, symbolizing balance and harmony—key ingredients for happiness!"
+      "funFact": "Bhutan's king introduced the concept of Gross National Happiness in the 1970s, valuing citizens' well-being over economic output."
     },
     {
-      "name": "World Storytelling Day",
-      "description": "A day to celebrate the art of storytelling by sharing tales and legends across cultures.",
-      "origin": "Created in 1997 by a group of storytellers in Sweden to promote storytelling as a rich tradition.",
-      "category": "Cultural",
-      "emoji": "📖",
-      "funFact": "Worldwide events on this day often feature stories themed around 'Bridges' connecting people and ideas."
+      "name": "World Sparrow Day",
+      "description": "A day to appreciate the humble house sparrow, a tiny bird that has quietly shared our cities for thousands of years and is now declining in many places. Fans celebrate by putting out birdseed, water, and nest boxes.",
+      "origin": "Launched in 2010 by the Nature Forever Society of India, with the Eco-Sys Action Foundation in France and other groups, to raise awareness of declining urban sparrow populations.",
+      "category": "Animal Awareness",
+      "emoji": "🐦",
+      "funFact": "House sparrows have lived alongside humans since the dawn of agriculture and are found on nearly every continent, yet their numbers have dropped sharply in parts of Europe and Asia."
     },
     {
-      "name": "Sparkle Day",
-      "description": "An unofficial holiday where people embrace all things shiny, sparkly, and glittery to brighten the day.",
-      "origin": "Begun by creative communities online who wanted a mid-March pick-me-up full of glitter and glam.",
-      "category": "Fun/Pop Culture",
-      "emoji": "✨",
-      "funFact": "On Sparkle Day, some people wear glitter not just on their clothes but even in their hair and on their faces!"
-    },
-    {
-      "name": "National Ravioli Day (USA)",
-      "description": "A delicious food holiday dedicated to enjoying the classic stuffed pasta—ravioli!",
-      "origin": "Unclear, but beloved in Italian-American communities as a celebration of comfort food.",
+      "name": "Great American Meatout",
+      "description": "A day when people are encouraged to try a vegetarian or vegan diet for 24 hours. It is the carnivore's chance to say 'hold the steak' and see what a plate of vegetables has to say for itself.",
+      "origin": "Started in 1985 by the Farm Animal Rights Movement (FARM) as a way to encourage people to explore plant-based eating on the first day of spring.",
       "category": "Food Holiday",
-      "emoji": "🥟",
-      "funFact": "Many Italian grandmothers have their own secret ravioli fillings passed down through generations, making this day perfect for family recipes!"
+      "emoji": "🥦",
+      "funFact": "It is timed to the first day of spring to symbolize fresh starts and new growth, which is why the day is sometimes called a 'spring cleaning for your diet.'"
+    },
+    {
+      "name": "Proposal Day",
+      "description": "A day for popping the question, whether it is 'Will you marry me?' or 'Will you share your fries?' Romantics and hopeful daters pick this date to make big moves.",
+      "origin": "An informal observance popularized in recent years, it sits within the spring tradition of renewal and new beginnings, and it has been promoted by greeting card and wedding industries.",
+      "category": "Pop Culture",
+      "emoji": "💍",
+      "funFact": "The tradition of the diamond engagement ring dates to 1477, when Archduke Maximilian of Austria reportedly gave one to Mary of Burgundy."
+    },
+    {
+      "name": "Ravioli Day",
+      "description": "A day to celebrate little stuffed pillows of pasta, filled with cheese, meat, or veggies. Home cooks and pasta lovers get an excuse to eat dumplings with Italian flair.",
+      "origin": "Ravioli is a traditional Italian dish with roots going back to the 14th century, and food-day calendars have marked it on March 20 as an unofficial celebration.",
+      "category": "Food Holiday",
+      "emoji": "🍝",
+      "funFact": "In 1930s America, canned ravioli became hugely popular, and the first canned versions were sold by Chef Boyardee, whose founder was an Italian immigrant named Ettore Boiardi."
     }
   ]
 }

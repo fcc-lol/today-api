@@ -2,36 +2,44 @@
   "date": "February 13",
   "holidays": [
     {
+      "name": "World Radio Day",
+      "description": "A day to celebrate the humble radio, the medium that still reaches more people worldwide than almost any other. Tune in, turn it up, and give your local DJ a virtual high-five.",
+      "origin": "Proposed by Spain's radio academy and adopted by UNESCO in 2011, then endorsed by the UN General Assembly in 2012. February 13 marks the date in 1946 when United Nations Radio was established.",
+      "category": "International Observance",
+      "emoji": "📻",
+      "funFact": "Radio is still considered the most widely consumed media platform in the world, reaching people in remote areas where the internet and TV have not arrived."
+    },
+    {
+      "name": "Tortellini Day",
+      "description": "A day dedicated to the little ring-shaped stuffed pasta that looks like tiny belly buttons. Fill a pot, boil some water, and celebrate with cheese, meat, or spinach-stuffed goodness.",
+      "origin": "An unofficial food holiday that is popular in the US and Italy. Tortellini comes from Emilia-Romagna, Italy, where the town of Castelfranco Emilia and the city of Bologna have long argued over who invented it.",
+      "category": "Food Holiday",
+      "emoji": "🍝",
+      "funFact": "Legend says tortellini was inspired by the navel of Venus, which a lovestruck innkeeper glimpsed through a keyhole and tried to recreate in pasta form."
+    },
+    {
       "name": "Galentine's Day",
-      "description": "A celebration of female friendship, made famous by the TV show \"Parks and Recreation,\" where women gather to honor their lady friends with brunches and gifts before Valentine's Day.",
-      "origin": "Popularized by Leslie Knope in \"Parks and Recreation\" (2010s).",
-      "category": "Pop Culture / Friendship",
-      "emoji": "👭🥂",
-      "funFact": "Galentine's Day has inspired real-life gatherings, brunches, and even merchandise celebrating gal pals worldwide!"
+      "description": "A day for women to celebrate their friendships with brunch, gifts, and plenty of laughter. It is basically Valentine's Day, but for your best pals, with waffles.",
+      "origin": "Created by the character Leslie Knope in the 2010 episode 'Galentine's Day' of the TV show Parks and Recreation. Fans loved it so much that it became a real-life tradition.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🧇",
+      "funFact": "Leslie Knope described the day as one where 'ladies celebrate ladies,' and it has since been embraced by brands, restaurants, and friend groups across the world."
     },
     {
       "name": "Get a Different Name Day",
-      "description": "A day to consider the fun and freedom of picking a new name for yourself, whether just for fun or to reinvent your identity.",
-      "origin": "Unofficial, quirky observance encouraging self-expression.",
-      "category": "Self-Expression / Fun",
-      "emoji": "🆕📝",
-      "funFact": "Many people use this day to brainstorm character names for stories or even experiment with nicknames for themselves."
+      "description": "A day to ditch your boring old name and go by something new and exciting for 24 hours. Be Sir Reginald or Captain Sparkle if you dare.",
+      "origin": "A whimsical unofficial observance, listed among quirky calendar days, that encourages people to play with identity and try on a new moniker just for fun.",
+      "category": "Quirky Unofficial Holiday",
+      "emoji": "🎭",
+      "funFact": "Many authors and entertainers actually use pen names or stage names, such as Mark Twain, whose real name was Samuel Clemens."
     },
     {
-      "name": "Peanut Butter Lover's Day",
-      "description": "Dedicated to celebrating the creamy and crunchy joy of peanut butter, this day encourages indulging in all things peanut butter—sandwiches, cookies, and more!",
-      "origin": "Unofficial food holiday, likely started by peanut butter fans and brands.",
-      "category": "Food / Culinary",
-      "emoji": "🥜🍞",
-      "funFact": "Peanut butter was introduced in the late 19th century as a nutritious protein source and became a staple comfort food, especially in the U.S."
-    },
-    {
-      "name": "Blame Someone Else Day",
-      "description": "A tongue-in-cheek holiday where you can humorously 'blame' others for your mishaps for one day, turning responsibility into comic relief.",
-      "origin": "Unofficial, humorous observance created to lighten the mood.",
-      "category": "Humor / Social",
-      "emoji": "🙄👉",
-      "funFact": "This day serves as a reminder not to take ourselves too seriously and to recognize the value of personal accountability every other day!"
+      "name": "Superman Day",
+      "description": "A day to honor the Man of Steel and his many adventures. Break out the red cape, strike a heroic pose, and maybe try leaping a small hurdle in a single bound.",
+      "origin": "Superman Day is observed in February in connection with the character's long history in comics, radio, film, and TV, which started when Superman debuted in Action Comics #1 in 1938.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🦸",
+      "funFact": "The Superman radio show of the 1940s was one of the first to bring the hero to a wide audience, and it introduced elements like kryptonite and Jimmy Olsen."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "December 15",
   "holidays": [
     {
-      "name": "Cat Herders Day",
-      "description": "A whimsical celebration dedicated to the impossible task of herding cats—whether literal felines or metaphorical chaos in life! It honors those brave souls who try to organize the unorganizable.",
-      "origin": "Inspired by the famous humorous phrase 'herding cats' referring to managing something uncontrollable. The day was created as a fun nod to chaos management.",
-      "category": "Humor/Pop Culture",
-      "emoji": "🐱🐾",
-      "funFact": "The phrase 'like herding cats' has been part of English slang since at least the 1940s, and this day celebrates that shared understanding of chaos."
-    },
-    {
-      "name": "National Cupcake Day (UK)",
-      "description": "A delightful day to indulge in sweet, frosted cupcake treats, celebrating one of the most beloved bite-sized desserts around!",
-      "origin": "Began as a promotional day by bakeries and sweet brands in the UK to encourage cupcake consumption during the winter months.",
+      "name": "National Cupcake Day",
+      "description": "A sugary celebration of the frosted miniature cake. Bakers and sweet tooths alike are encouraged to whip up a batch, buy a box, or sneak one into the office break room.",
+      "origin": "Cupcake Day is an unofficial American food observance that grew out of the cupcake boom of the 2000s, when bakeries dedicated solely to cupcakes began popping up across the country.",
       "category": "Food",
       "emoji": "🧁",
-      "funFact": "This holiday often supports charities with cupcake sales, turning indulgence into goodwill."
+      "funFact": "The word 'cupcake' was first recorded in 1828 in a recipe by Eliza Leslie, and early versions were baked in cups, which is how they got their name."
+    },
+    {
+      "name": "Bill of Rights Day",
+      "description": "A day when Americans commemorate the ratification of the first ten amendments to the U.S. Constitution, which guarantee freedoms like speech, religion, and the right to a fair trial.",
+      "origin": "The Bill of Rights was ratified on December 15, 1791, when Virginia became the final state needed to approve it. President Franklin D. Roosevelt proclaimed the first Bill of Rights Day in 1941 for the 150th anniversary.",
+      "category": "Historical",
+      "emoji": "📜",
+      "funFact": "Of the twelve amendments originally proposed, only ten were ratified at first. One of the leftovers, about congressional pay raises, was finally ratified as the 27th Amendment in 1992, over 200 years later."
     },
     {
       "name": "International Tea Day",
-      "description": "A day to appreciate the cultural, economic, and social importance of tea worldwide and enjoy a comforting cuppa!",
-      "origin": "Declared by the UN in 2019 to raise awareness of the impact tea cultivation has on farmers and economies globally.",
-      "category": "Awareness/Cultural",
+      "description": "A day for tea lovers around the world to steep, sip, and celebrate their favorite brew, from delicate green teas to a strong builder's cuppa.",
+      "origin": "International Tea Day has been observed on December 15 by tea-producing countries such as India, Sri Lanka, and Bangladesh, and was promoted by trade unions and tea growers to raise awareness of the interests of tea workers and producers. The UN later established its own International Tea Day on May 21.",
+      "category": "Food & Drink",
       "emoji": "🍵",
-      "funFact": "Tea is the most widely consumed beverage in the world after water, with over 3 billion cups consumed daily!"
+      "funFact": "Tea is the most consumed beverage in the world after water, and legend says it was discovered in 2737 BC when tea leaves blew into Emperor Shennong's pot of boiling water."
     },
     {
-      "name": "Bill of Rights Day (USA)",
-      "description": "Commemorates the ratification of the first 10 amendments to the U.S. Constitution, reminding us of the rights and freedoms guaranteed to citizens.",
-      "origin": "Marks the adoption of the Bill of Rights on December 15, 1791.",
-      "category": "Historical/Political",
-      "emoji": "📜🗽",
-      "funFact": "The Bill of Rights was originally a compromise to appease Anti-Federalists who wanted more protections for individuals."
+      "name": "Za Za Zsa Gabor Day",
+      "description": "A glitzy, glamorous day honoring the dazzling Hungarian-American actress and socialite known for her many marriages, her love of diamonds, and her signature 'dahling' catchphrase.",
+      "origin": "Zsa Zsa Gabor was born on February 6, but the day is often noted among quirky calendars on December 18, the day she died in 2016; some lists place celebrations on or near the middle of December as a nod to her sparkling life of Hollywood excess.",
+      "category": "Pop Culture",
+      "emoji": "💎",
+      "funFact": "Zsa Zsa Gabor was famously married nine times, and she once quipped that she was an excellent housekeeper because every time she got divorced, she kept the house."
+    },
+    {
+      "name": "Hanukkah-Era Wear a Funny Holiday Sweater Day",
+      "description": "A cheerful day devoted to pulling out the loudest, tackiest, most blinking holiday sweater you own and wearing it with absolute pride.",
+      "origin": "The ugly sweater tradition began with 1980s family sitcoms and holiday parties, and exploded into a full-blown cultural phenomenon in the 2010s. Mid-December is the peak season for sweater parties and charity events.",
+      "category": "Pop Culture",
+      "emoji": "🎄",
+      "funFact": "Some ugly sweaters are now made with built-in lights, jingle bells, and even tiny working speakers that play carols."
     }
   ]
 }

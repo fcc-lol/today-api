@@ -2,32 +2,39 @@
   "date": "November 3",
   "events": [
     {
-      "year": 1493,
-      "title": "Christopher Columbus Returns to Spain",
-      "description": "Christopher Columbus returns to Spain from his first voyage to the Americas, bringing news of his discoveries.",
-      "category": "Exploration",
-      "significance": "This event marked the beginning of European awareness and subsequent colonization of the Americas."
-    },
-    {
       "year": 1957,
-      "title": "Launch of Sputnik 2 with Laika",
-      "description": "The Soviet Union launched Sputnik 2, carrying Laika, the first living creature to orbit Earth.",
-      "category": "Space Exploration",
-      "significance": "It was a milestone in space exploration and the first time a living being was sent into orbit, paving the way for human spaceflight."
+      "title": "Sputnik 2 Launches Laika into Orbit",
+      "description": "The Soviet Union launched Sputnik 2, carrying Laika, a stray dog from Moscow, making her the first animal to orbit the Earth. Laika died in orbit within hours from overheating and stress, though this was not publicly disclosed for decades.",
+      "category": "Science and Space Exploration",
+      "significance": "It demonstrated that a living organism could survive launch and weightlessness, paving the way for human spaceflight, while also raising ethical debates about animal testing in space research."
     },
     {
-      "year": 1992,
-      "title": "Bill Clinton Elected President of the United States",
-      "description": "Bill Clinton was elected as the 42nd President of the United States, defeating incumbent George H.W. Bush.",
-      "category": "Politics",
-      "significance": "His election represented a shift in U.S. politics and policy in the 1990s."
+      "year": 1903,
+      "title": "Panama Declares Independence from Colombia",
+      "description": "Panama proclaimed its separation from Colombia with the backing of the United States, whose warships prevented Colombian forces from suppressing the uprising. The U.S. recognized the new republic within days.",
+      "category": "Politics and Independence",
+      "significance": "The secession cleared the way for the Hay-Bunau-Varilla Treaty and the construction of the Panama Canal, which transformed global maritime trade and established U.S. influence in the region."
     },
     {
-      "year": 1911,
-      "title": "Discovery of Machu Picchu",
-      "description": "American historian and explorer Hiram Bingham rediscovered Machu Picchu, the ancient Incan city in Peru.",
-      "category": "Archaeology",
-      "significance": "This discovery brought global attention to Incan culture and is considered a significant archaeological find."
+      "year": 1964,
+      "title": "Washington, D.C. Residents Vote in a Presidential Election",
+      "description": "In the U.S. presidential election, Lyndon B. Johnson won in a landslide over Barry Goldwater. It was also the first presidential election in which residents of Washington, D.C. could vote, following ratification of the 23rd Amendment in 1961.",
+      "category": "Politics and Elections",
+      "significance": "Johnson's victory gave him a strong mandate for his Great Society programs, and the election extended presidential voting rights to D.C. residents for the first time."
+    },
+    {
+      "year": 1493,
+      "title": "Columbus Sights Dominica",
+      "description": "On his second voyage to the Americas, Christopher Columbus sighted an island in the Lesser Antilles on a Sunday and named it Dominica, from the Latin for Sunday.",
+      "category": "Exploration",
+      "significance": "The landfall marked the start of expanded European exploration and colonization of the Caribbean, with profound consequences for the Indigenous peoples of the region."
+    },
+    {
+      "year": 1918,
+      "title": "Kiel Mutiny Begins",
+      "description": "German sailors at Kiel mutinied when ordered to sail on a final, hopeless naval operation against the British. The revolt spread rapidly to other ports and cities across Germany.",
+      "category": "War and Revolution",
+      "significance": "The mutiny sparked the German Revolution of 1918-1919, contributed to the abdication of Kaiser Wilhelm II, and hastened the end of World War I and the founding of the Weimar Republic."
     }
   ]
 }

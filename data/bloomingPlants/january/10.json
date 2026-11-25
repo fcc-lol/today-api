@@ -4,54 +4,56 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its large, showy flowers that bloom in late winter to early spring. The flowers can be single or double and come in white, pink, red, or variegated colors.",
-      "bloomingSeason": "November to March",
-      "location": "Temperate gardens worldwide, native to Japan, Korea, and China",
+      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like flowers. It thrives in mild, humid climates and is a classic winter bloomer in gardens, valued for brightening the cold season.",
+      "bloomingSeason": "Late autumn to early spring (peak in winter)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is highly prized in East Asia for its ornamental flowers and is also the species from which tea (Camellia sinensis) was first derived."
-    },
-    {
-      "name": "Mimosa pudica",
-      "commonName": "Sensitive Plant",
-      "description": "A tropical plant famous for its leaves that fold inward when touched or shaken, a defense mechanism. It produces small, fluffy pink or purple flowers resembling pom-poms.",
-      "bloomingSeason": "Year-round in tropical climates, including January",
-      "location": "Native to South America but widely naturalized in tropical regions worldwide",
-      "colors": [
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Mimosa pudica is often used in studies of plant neurobiology due to its rapid leaf movements in response to stimuli."
+      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial plant that blooms in late winter, around Christmas and into January. It produces large, white to pinkish flowers that add color to winter gardens.",
-      "bloomingSeason": "December to February",
-      "location": "European mountainous regions",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers that have golden stamens. It blooms in the cold of winter, often pushing up through frost and snow in woodland gardens.",
+      "bloomingSeason": "Midwinter to early spring",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens in Europe and North America",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family (Ranunculaceae)."
+      "funFact": "Despite its name, it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
     },
     {
-      "name": "Eucalyptus globulus",
-      "commonName": "Tasmanian Blue Gum",
-      "description": "A tall evergreen tree known for its aromatic leaves and clusters of white flowers that bloom unpredictably throughout the year, including winter months in Australia.",
-      "bloomingSeason": "Varies, often including January in Australia",
-      "location": "Native to Tasmania and southeastern Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with huge, artichoke-like flower heads surrounded by showy bracts. In the Southern Hemisphere it flowers during the summer months and is the largest of all proteas.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowers also appearing around the new year",
+      "location": "Fynbos region of South Africa; cultivated in Australia, Hawaii, and California",
       "colors": [
-        "white"
+        "Pink",
+        "Cream",
+        "Red"
       ],
-      "emoji": "🌿",
-      "funFact": "Eucalyptus oil extracted from its leaves is widely used for medicinal purposes and as a natural insect repellent."
+      "emoji": "🌸",
+      "funFact": "It is the national flower of South Africa, and its flower heads can reach 30 cm in diameter."
+    },
+    {
+      "name": "Jasminum nudiflorum",
+      "commonName": "Winter Jasmine",
+      "description": "A deciduous, arching shrub that produces bright yellow flowers on bare green stems in winter. It is exceptionally hardy and is commonly trained along walls and fences.",
+      "bloomingSeason": "Winter (December to March)",
+      "location": "Native to northern China; naturalized and cultivated across Europe and North America",
+      "colors": [
+        "Yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Unlike many jasmines, its flowers have little or no fragrance, but they can bloom in snow."
     }
   ]
 }

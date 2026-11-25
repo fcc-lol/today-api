@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Pastry Day",
-      "description": "A day dedicated to celebrating all things flaky, buttery, and delicious in the world of pastries. From croissants to danishes, it's a perfect excuse to indulge in sweet and savory baked treats!",
-      "origin": "Originating from various bakery promotions, this day has become an unofficial sweet tooth celebration observed mostly in the USA.",
+      "description": "A flaky, buttery day devoted to croissants, danishes, turnovers, eclairs, and every other layered or filled baked treat. Bakeries and home bakers alike are encouraged to treat themselves.",
+      "origin": "This is an unofficial American food observance that grew out of food-calendar listings and bakery promotions. There is no single documented founder, and it is often listed alongside other December baking-themed days.",
       "category": "Food",
       "emoji": "🥐",
-      "funFact": "The croissant, a pastry synonymous with France, actually has roots tracing back to Austria, and was popularized in Paris in the 19th century."
+      "funFact": "Croissants are often associated with France, but they descend from the Austrian kipferl, a crescent-shaped pastry that was brought to Paris in the 1830s by an Austrian baker."
     },
     {
-      "name": "Christmas Card Day",
-      "description": "A quirky celebration marking the anniversary of the first commercial Christmas card ever produced. Time to send quirky, beautiful, or downright weird holiday cards to friends and family!",
-      "origin": "The first commercial Christmas card was commissioned by Sir Henry Cole in England in 1843.",
-      "category": "Holiday/Tradition",
-      "emoji": "🎄📬",
-      "funFact": "The original Christmas card featured a family drinking wine, which raised some eyebrows at the time!"
+      "name": "International Anti-Corruption Day",
+      "description": "A global day for shining a light on bribery, shady deals, and backroom handshakes, and for encouraging transparency and honest governance everywhere.",
+      "origin": "The United Nations General Assembly designated it in 2003, the same year it adopted the UN Convention against Corruption. The date of December 9 was chosen to mark the opening of that treaty for signature in Merida, Mexico.",
+      "category": "Awareness Day",
+      "emoji": "🕵️",
+      "funFact": "The UN Convention against Corruption was the first legally binding global anti-corruption instrument, and it has been ratified by well over 180 parties."
     },
     {
       "name": "Weary Willie Day",
-      "description": "Honoring the iconic hobos from the Great Depression era represented by 'Weary Willie'—a famous cartoon character symbolizing resilience and humor in tough times.",
-      "origin": "This day commemorates the creation of the 'Weary Willie and Tired Tim' comic strip characters first introduced in the Depression-era cartoons.",
-      "category": "Historical/Cultural",
-      "emoji": "🧓🎩",
-      "funFact": "The comic strip ran for decades and helped bring humor and hope during hard economic times."
+      "description": "A tribute to the famous sad-faced hobo clown created by Emmett Kelly, who made audiences laugh by being melancholy, sweeping up spotlights, and trying to sweep away the circus's troubles.",
+      "origin": "Emmett Kelly, the clown behind the Weary Willie character, was born on December 9, 1898, in Sedan, Kansas. The day is an informal circus-lover's observance honoring his birthday and his legacy.",
+      "category": "Pop Culture",
+      "emoji": "🤡",
+      "funFact": "One of Weary Willie's most famous bits was trying to sweep up a circle of light from a spotlight, and the light would just keep escaping the broom."
     },
     {
-      "name": "Monkey Day",
-      "description": "An unusual holiday for monkey lovers and primate enthusiasts to celebrate all kinds of monkeys and the importance of their conservation.",
-      "origin": "Created by monkey enthusiasts in 2000, it’s an unofficial day observed globally with events and educational campaigns.",
-      "category": "Animal/Education",
-      "emoji": "🐒",
-      "funFact": "Monkey Day is celebrated by dressing up as monkeys, visiting zoos, and learning about primate preservation."
+      "name": "Santa Claus Day (Dutch Sinterklaas Eve Season Celebration)",
+      "description": "An early-December gift-giving observance in which Santa and his predecessors visit with treats, rhymes, and small surprises, long before the Christmas rush.",
+      "origin": "Rooted in the traditions of Saint Nicholas, which are celebrated across Europe in early December, with Sinterklaas arriving by boat in the Netherlands in November and gifts traded on December 5 or 6. In the U.S., some towns, such as Santa Claus, Indiana, host festivities around early December.",
+      "category": "Holiday Tradition",
+      "emoji": "🎅",
+      "funFact": "The name Santa Claus comes from the Dutch Sinterklaas, which came from Saint Nicholas, a 4th-century bishop who was known for secret gifts."
+    },
+    {
+      "name": "Christmas Card Day",
+      "description": "A day to dig out the pens, stamps, and glitter and send holiday cards to friends and family, preferably before the postal service gets swamped.",
+      "origin": "This is an unofficial observance tied to the history of the Christmas card, which was invented in London in 1843 by Sir Henry Cole. It falls in early-to-mid December, when card sending traditionally peaks.",
+      "category": "Seasonal",
+      "emoji": "💌",
+      "funFact": "The very first commercial Christmas card, commissioned by Henry Cole in 1843, caused a bit of a scandal because it showed a family happily drinking wine, including children."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "January 25",
   "events": [
     {
+      "year": 1327,
+      "title": "Edward III Proclaimed King of England",
+      "description": "After the deposition of his father Edward II by Queen Isabella and Roger Mortimer, the 14-year-old Edward III was proclaimed king of England. He was crowned on 1 February 1327.",
+      "category": "Politics",
+      "significance": "Edward III went on to reign for 50 years, launching the Hundred Years' War with France and strengthening Parliament's role in English government."
+    },
+    {
+      "year": 1533,
+      "title": "Henry VIII Secretly Marries Anne Boleyn",
+      "description": "Henry VIII of England secretly married Anne Boleyn in a private ceremony, reportedly after she became pregnant with the future Elizabeth I. The marriage took place before his marriage to Catherine of Aragon had been formally annulled.",
+      "category": "Politics",
+      "significance": "The marriage accelerated the break with the Roman Catholic Church and the English Reformation, reshaping religious and political life in England."
+    },
+    {
+      "year": 1759,
+      "title": "Birth of Robert Burns",
+      "description": "Robert Burns, the Scottish poet and lyricist, was born in Alloway, Ayrshire. He wrote in both Scots and English and collected and adapted traditional Scottish folk songs, including 'Auld Lang Syne'.",
+      "category": "Birth",
+      "significance": "Regarded as the national poet of Scotland, Burns is celebrated each year on Burns Night, and his work influenced Romanticism and liberal and socialist thought."
+    },
+    {
       "year": 1924,
-      "title": "First Winter Olympics Open in Chamonix, France",
-      "description": "The first Winter Olympic Games officially began in Chamonix, marking the start of international competition in winter sports under the Olympic banner.",
+      "title": "First Winter Olympic Games Open in Chamonix",
+      "description": "The first Winter Olympic Games, originally called International Winter Sports Week, opened in Chamonix, France. Athletes from 16 nations competed in events such as skiing, skating, ice hockey and bobsleigh.",
       "category": "Sports",
-      "significance": "It established the Winter Olympics as a major international sporting event, promoting winter sports worldwide."
+      "significance": "The event began the Winter Olympics tradition, which was later recognized retroactively as the first Olympic Winter Games and grew into a major global sporting event."
     },
     {
-      "year": 1949,
-      "title": "Israel Becomes a Member of the United Nations",
-      "description": "The United Nations General Assembly voted to admit the newly established State of Israel as the 59th member of the UN.",
+      "year": 1971,
+      "title": "Idi Amin Seizes Power in Uganda",
+      "description": "Army commander Idi Amin led a military coup that overthrew President Milton Obote while Obote was attending a Commonwealth conference in Singapore.",
       "category": "Politics",
-      "significance": "This recognition was crucial for the legitimacy and international acceptance of Israel as a sovereign state."
-    },
-    {
-      "year": 1915,
-      "title": "Dmitri Shostakovich Born",
-      "description": "Russian composer Dmitri Shostakovich, renowned for his symphonies and chamber music, was born in Saint Petersburg.",
-      "category": "Births",
-      "significance": "He became one of the major composers of the 20th century, with works that reflected the complexities of Soviet life."
-    },
-    {
-      "year": 2011,
-      "title": "The Egyptian Revolution: Mass Protests Begin",
-      "description": "Millions of Egyptians took to the streets of Cairo to demand the resignation of President Hosni Mubarak, marking a pivotal moment in the Arab Spring.",
-      "category": "Politics",
-      "significance": "It led to Mubarak's resignation and significant political change in Egypt, inspiring other uprisings in the region."
+      "significance": "Amin's regime lasted until 1979 and was marked by severe human rights abuses, ethnic persecution, and economic collapse, with an estimated 100,000 to 500,000 deaths."
     }
   ]
 }

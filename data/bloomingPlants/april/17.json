@@ -2,57 +2,63 @@
   "date": "April 17",
   "plants": [
     {
-      "name": "Corylopsis spicata",
-      "commonName": "Spike Winterhazel",
-      "description": "A deciduous shrub known for its fragrant, pale yellow, bell-shaped flowers that bloom in early spring before the leaves fully appear. It is native to Japan and thrives in temperate climates.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, temperate gardens worldwide",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad blue-green leaves. Thousands of cultivars exist in nearly every color and form, from single and double blooms to fringed and parrot types.",
+      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
+      "location": "Cultivated across temperate regions, especially the Netherlands, North America, and Europe; native to Central Asia",
       "colors": [
-        "pale yellow"
+        "red",
+        "yellow",
+        "pink",
+        "purple",
+        "white",
+        "orange"
       ],
-      "emoji": "💛",
-      "funFact": "Spike Winterhazel flowers produce a pleasant fragrance that attracts early pollinators."
+      "emoji": "🌷",
+      "funFact": "During the 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a house in Amsterdam."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia famous for its large, showy, cup-shaped flowers ranging from white to pink and purple hues. It blooms in early to mid-spring, often before the leaves emerge, heralding the start of the growing season.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China, widely cultivated in temperate regions",
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Flowering Cherry",
+      "description": "A deciduous ornamental tree that bursts into clouds of blossoms before or as the leaves emerge. Late-blooming cultivars such as 'Kanzan' produce dense, double pink flowers in mid to late April.",
+      "bloomingSeason": "Early to late spring (late-blooming varieties peak in mid-April)",
+      "location": "Japan, Korea, and China; widely planted in Washington D.C., Vancouver, and across Europe and North America",
       "colors": [
-        "white",
         "pink",
-        "purple"
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Magnolia flowers appeared on earth before bees evolved, and are primarily pollinated by beetles."
+      "funFact": "In northern Japan, such as Hokkaido, cherry blossom season arrives in late April to early May, weeks after Tokyo, so the blossom 'front' moves north through the spring."
     },
     {
-      "name": "Lupinus texensis",
-      "commonName": "Texas Bluebonnet",
-      "description": "A wildflower and the state flower of Texas, it produces vibrant blue to purple pea-shaped flowers that bloom in spring, carpeting fields and roadsides.",
-      "bloomingSeason": "March to April",
-      "location": "South-central United States, mainly Texas",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like flowers emerge directly from bare branches and even the trunk before the heart-shaped leaves appear. It is a valuable early nectar source for native bees.",
+      "bloomingSeason": "Early to mid-spring (March to April)",
+      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
       "colors": [
-        "blue",
+        "magenta",
+        "pink",
         "purple",
         "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Bluebonnets fix nitrogen in the soil, improving fertility for other plants."
+      "emoji": "🌳",
+      "funFact": "Redbud blooms are edible and have a mild, slightly tart flavor; they are sometimes added to salads or used as garnishes."
     },
     {
-      "name": "Daphne odora",
-      "commonName": "Winter Daphne",
-      "description": "An evergreen shrub valued for its highly fragrant pinkish-white flowers that bloom in late winter to early spring. Native to China and Japan, it's often grown as an ornamental in mild climates.",
-      "bloomingSeason": "February to April",
-      "location": "East Asia and cultivated gardens in temperate regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A fast-growing tree with fern-like foliage that produces masses of trumpet-shaped lavender-blue flowers. When blooming, the tree can look like a purple cloud and carpets the ground below with fallen petals.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (Sept to Dec); also blooms in autumn in some tropical and subtropical areas, with some trees flowering in April in parts of Northern Hemisphere warm climates and sporadically in the tropics",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, Mexico, and California",
       "colors": [
-        "pink",
-        "white"
+        "lavender",
+        "blue",
+        "purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Daphne odora's fragrance is so strong that it can be detected from several meters away."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "August 22",
   "events": [
     {
-      "year": 1484,
-      "title": "Pope Innocent VIII Issues Bull Against Witchcraft",
-      "description": "Pope Innocent VIII issues the papal bull 'Summis desiderantes affectibus,' which formally acknowledges the existence of witchcraft and authorizes the Inquisition to prosecute witches.",
-      "category": "Religion",
-      "significance": "This event marked the intensification of witch hunts in Europe, leading to widespread persecution during the early modern period."
+      "year": 1485,
+      "title": "Battle of Bosworth Field",
+      "description": "Richard III of England was killed in battle against Henry Tudor, Earl of Richmond, near Market Bosworth in Leicestershire. Henry was subsequently crowned Henry VII.",
+      "category": "Military",
+      "significance": "The battle ended the Plantagenet dynasty and the Wars of the Roses, establishing the Tudor dynasty that ruled England until 1603."
     },
     {
-      "year": 1642,
-      "title": "Battle of Brentford in the English Civil War",
-      "description": "Royalist forces defeat the Parliamentarian garrison at Brentford near London during the First English Civil War.",
-      "category": "War",
-      "significance": "This battle paved the way for the Royalist advance towards London, significantly influencing the early phase of the civil war."
+      "year": 1864,
+      "title": "First Geneva Convention Signed",
+      "description": "Twelve European nations signed the first Geneva Convention in Geneva, Switzerland, establishing rules for the humane treatment of wounded soldiers on the battlefield and the neutrality of medical personnel.",
+      "category": "Law and Diplomacy",
+      "significance": "It laid the foundation of modern international humanitarian law and led to the establishment of the International Committee of the Red Cross as a recognized protector of war victims."
     },
     {
-      "year": 1770,
-      "title": "James Cook Claims Eastern Australia for Britain",
-      "description": "British explorer Captain James Cook claims the eastern coast of Australia for Great Britain, naming it New South Wales.",
-      "category": "Exploration",
-      "significance": "This event marked the beginning of British colonization in Australia, profoundly impacting the continent's indigenous populations and history."
+      "year": 1902,
+      "title": "First Car Ride by a U.S. President",
+      "description": "Theodore Roosevelt became the first sitting U.S. president to ride in an automobile, when he traveled in a Columbia Electric Victoria in Hartford, Connecticut.",
+      "category": "Technology",
+      "significance": "The event symbolized the arrival of the automobile age and the growing acceptance of motor vehicles in American public life."
     },
     {
-      "year": 1968,
-      "title": "Soviet Invasion of Czechoslovakia Begins",
-      "description": "Warsaw Pact troops, led by the Soviet Union, invade Czechoslovakia to suppress the Prague Spring reform movement.",
-      "category": "Cold War",
-      "significance": "This invasion was a significant event in the Cold War, demonstrating the Soviet Union's control over Eastern Bloc countries and stifling liberal reforms."
+      "year": 1922,
+      "title": "Death of Michael Collins",
+      "description": "Irish revolutionary leader Michael Collins was killed in an ambush at Béal na Bláth, County Cork, during the Irish Civil War. He was 31 years old.",
+      "category": "Politics",
+      "significance": "Collins was a key figure in the Irish War of Independence and the negotiation of the Anglo-Irish Treaty; his death was a major blow to the new Irish Free State."
+    },
+    {
+      "year": 1989,
+      "title": "Huey Newton Killed",
+      "description": "Huey P. Newton, co-founder of the Black Panther Party, was shot and killed in Oakland, California.",
+      "category": "Death",
+      "significance": "Newton was a leading figure in the Black Power movement of the 1960s and 1970s, and his death marked the end of an influential, controversial era in American civil rights history."
     }
   ]
 }

@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Margarita Day",
-      "description": "A day celebrated by enjoying the classic tequila-based cocktail made with lime juice, triple sec, and salt on the rim of the glass. It's a fiesta in every sip!",
-      "origin": "Popularized in the US by cocktail enthusiasts and bars to celebrate this beloved drink, especially in festive or wintery months.",
+      "description": "A salt-rimmed celebration of the tequila, lime, and orange liqueur cocktail that has fueled patio gatherings and Tex-Mex dinners for decades. Bars and restaurants often roll out specials, and home bartenders break out their blenders.",
+      "origin": "An unofficial food and drink holiday that grew out of American cocktail culture and is widely promoted by bars, restaurants, and liquor brands. The exact founder is unclear, and it is not a government-recognized observance.",
       "category": "Food & Drink",
       "emoji": "🍹",
-      "funFact": "The Margarita is said to have been invented accidentally for a customer allergic to many spirits, and has since become one of the most popular cocktails worldwide."
+      "funFact": "The margarita's origin is hotly disputed. Claimants include a Tijuana restaurateur, a Dallas socialite, and a Galveston bartender, all supposedly from the 1930s and 1940s, and all of them say they invented it."
     },
     {
-      "name": "World Thinking Day",
-      "description": "An international day where Girl Guides and Girl Scouts around the world think about their peers, promote global friendship, and fundraise for worldwide causes.",
-      "origin": "Started in 1926 to coincide with the birthday of Lord Baden-Powell and his wife, founders of the scouting movement.",
-      "category": "Social Awareness",
-      "emoji": "🧠",
-      "funFact": "The theme of World Thinking Day changes yearly, focusing on issues like equality, climate, and education that engage young people globally."
+      "name": "Walking the Dog Day",
+      "description": "A day dedicated to leashing up your four-legged friend and heading outside for a good stroll. It celebrates the bond between people and pups and encourages exercise for both ends of the leash.",
+      "origin": "An unofficial pet-themed observance created by pet enthusiasts and promoted in the lists of quirky holidays. It has no single documented founder.",
+      "category": "Pets & Animals",
+      "emoji": "🐕",
+      "funFact": "Studies have found that dog owners tend to walk more than people without dogs, often by several hours per week. So the dog is technically walking you."
     },
     {
       "name": "Be Humble Day",
-      "description": "A reminder to get off your high horse and practice humility, appreciating others’ contributions without boasting.",
-      "origin": "Unofficial & modern self-improvement observance encouraging personal growth through modesty.",
-      "category": "Self-Improvement",
-      "emoji": "🙇‍♂️",
-      "funFact": "Celebrating humility can actually improve your social relationships and decrease stress — so being humble is being smart!"
+      "description": "A day to quietly reflect, skip the bragging, and give credit to others. The irony of announcing your humility on a holiday is part of the fun.",
+      "origin": "An unofficial awareness observance that appears in quirky holiday calendars. It promotes modesty and gratitude, and its creator is not well documented.",
+      "category": "Awareness Day",
+      "emoji": "🙇",
+      "funFact": "The word humble comes from the Latin humilis, meaning low or on the ground, which is itself derived from humus, the Latin word for earth."
     },
     {
-      "name": "Conditional Service Day",
-      "description": "Commemorates the 1983 Supreme Court ruling that allowed members of the military to receive 'conditional service' status, acknowledging unique service terms.",
-      "origin": "Honors a specific legal and military policy evolution in the United States.",
-      "category": "History/Military",
-      "emoji": "🎖️",
-      "funFact": "Conditional Service Day remains obscure but highlights how military laws adapt to changing needs and circumstances."
+      "name": "Cook a Sweet Potato Day",
+      "description": "A day for baking, roasting, mashing, or frying the humble orange root vegetable. Sweet potatoes are celebrated for their flavor, versatility, and fiber content.",
+      "origin": "A food-focused unofficial observance popular among food bloggers and home cooks. It is part of the long calendar of produce-themed days.",
+      "category": "Food & Drink",
+      "emoji": "🍠",
+      "funFact": "Sweet potatoes are not closely related to regular potatoes. They belong to the morning glory family, while regular potatoes are in the nightshade family."
+    },
+    {
+      "name": "Thinking Day",
+      "description": "A global day when Girl Guides and Girl Scouts around the world think about each other, celebrate international friendship, and often raise funds for community causes.",
+      "origin": "Established in 1926 at a Girl Guide and Girl Scout conference in the USA. February 22 was chosen because it is the shared birthday of Scouting founder Robert Baden-Powell and his wife Olave, who was World Chief Guide.",
+      "category": "Cultural Observance",
+      "emoji": "💛",
+      "funFact": "Since 1926 the day has been observed by millions of members in over 150 countries. It was originally called Thinking Day, but is now also known as World Thinking Day."
     }
   ]
 }

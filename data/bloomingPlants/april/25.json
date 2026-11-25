@@ -2,56 +2,63 @@
   "date": "April 25",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub native to the Caucasus and Black Sea region, producing large clusters of bell-shaped flowers.",
-      "bloomingSeason": "April to May",
-      "location": "Caucasus region, Europe, and parts of the United Kingdom",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad, blue-green leaves. Thousands of cultivars exist, ranging from single and double forms to fringed and parrot types. Late-season tulips peak in cool temperate gardens in late April.",
+      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
+      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; wild ancestors from Central Asia",
       "colors": [
+        "red",
+        "yellow",
+        "pink",
+        "white",
         "purple",
+        "orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "In the 1630s, tulip bulbs in the Netherlands became so valuable that single bulbs sold for more than the price of a house during 'Tulip Mania'."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces long, pendulous clusters of fragrant pea-like flowers before or as the leaves emerge. It can climb tall trees, pergolas, and walls, and live for decades.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Native to China; widely cultivated in Japan, Europe, and the United States",
+      "colors": [
+        "lilac",
+        "purple",
+        "blue-violet",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Wisteria vines twine counterclockwise, while the Japanese wisteria (Wisteria floribunda) twines clockwise, which helps tell the species apart."
+    },
+    {
+      "name": "Cardamine pratensis",
+      "commonName": "Cuckooflower (Lady's Smock)",
+      "description": "A delicate perennial of damp meadows and stream banks with pinnate basal leaves and loose clusters of four-petaled flowers. It appears around the time the cuckoo returns to Europe and is a key food plant for the orange-tip butterfly.",
+      "bloomingSeason": "April to June",
+      "location": "Damp meadows, wet grasslands, and woodland edges across Europe, northern Asia, and parts of North America",
+      "colors": [
+        "pale lilac",
         "pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Pontic Rhododendron is an invasive species in parts of the UK, covering large areas of heathland and suppressing native plants."
+      "funFact": "It is the main larval host plant for the orange-tip butterfly, whose caterpillars feed on its seed pods."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia shrub or small tree, famous for its large, fragrant cup-shaped flowers that appear before its leaves fully develop.",
-      "bloomingSeason": "Early to late April",
-      "location": "Cultivated widely in temperate regions, native hybrid from China",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tree with fern-like foliage that is famed for its spectacular displays of trumpet-shaped blue-purple flowers. In the Southern Hemisphere, flowering usually happens in spring, but in some regions of South America and Africa, scattered late blooms appear in autumn.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November), with a secondary autumn bloom around April in some warm regions such as parts of Australia and southern Africa",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and subtropical cities worldwide",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "blue-violet",
+        "lavender"
       ],
-      "emoji": "🌺",
-      "funFact": "Saucer magnolias often bloom heavily even after late frosts, giving a spectacular floral display in early spring."
-    },
-    {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A spring ephemeral wildflower native to eastern North American woodlands, characterized by nodding yellow flowers and mottled leaves resembling trout patterns.",
-      "bloomingSeason": "April to May",
-      "location": "Eastern North America",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Yellow Trout Lily spreads through underground bulbs and can form large colonies, some believed to be hundreds of years old."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia’s national floral emblem, this perennial shrub or small tree produces bright yellow, fluffy spherical flowers in late winter to spring.",
-      "bloomingSeason": "June to September in Australia (Southern Hemisphere), but in cultivated subtropical regions like California, blooming can start as early as April.",
-      "location": "Native to southeastern Australia; cultivated in subtropical regions worldwide",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "The golden wattle’s bright yellow flowers attract numerous pollinators and have a sweet, honey-like scent."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

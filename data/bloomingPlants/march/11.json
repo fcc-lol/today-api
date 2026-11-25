@@ -2,56 +2,59 @@
   "date": "March 11",
   "plants": [
     {
-      "name": "Crocus sativus",
-      "commonName": "Saffron Crocus",
-      "description": "A small, perennial flowering plant known for its vibrant purple flowers and the valuable saffron spice obtained from its stigmas. It blooms early in the spring.",
-      "bloomingSeason": "Late February to April",
-      "location": "Mediterranean region, Southwest Asia, cultivated worldwide",
-      "colors": [
-        "purple",
-        "violet"
-      ],
-      "emoji": "🌸",
-      "funFact": "Saffron crocus flowers are harvested by hand to extract stigmas, making saffron the world's most expensive spice by weight."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A hardy perennial known for its white or pink-tinged flowers that bloom in late winter to early spring, often before other plants start to flower.",
-      "bloomingSeason": "December to March, sometimes into April",
-      "location": "Europe, especially mountainous regions like the Alps",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is prized in East Asian gardens and is a symbol of perseverance and hope as winter ends.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "China, Japan, Korea; widely cultivated in temperate gardens",
       "colors": [
         "white",
-        "pink"
+        "pink",
+        "deep rose"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas rose typically blooms around Christmas but can bloom well into March, symbolizing hope in winter."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms often open while snow is still on the ground, and the fruit is used to make umeboshi (pickled plums) and umeshu (plum liqueur)."
     },
     {
-      "name": "Magnolia × soulangeana",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It naturally carpets woodlands and meadows and is one of the earliest signs of spring in Europe.",
+      "bloomingSeason": "Late winter to early spring (March to April)",
+      "location": "Western Europe, including the UK, France, Spain and Belgium; naturalized in North America",
+      "colors": [
+        "yellow",
+        "pale yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodils contain the compound galantamine, which is used in medicines for Alzheimer's disease, but all parts of the plant are toxic if eaten."
+    },
+    {
+      "name": "Magnolia x soulangeana",
       "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous tree admired for its large, tulip-shaped flowers that open before the leaves, marking early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China but widely cultivated in temperate regions worldwide",
+      "description": "A large shrub or small tree with goblet-shaped flowers up to 25 cm across that open on bare branches in early spring. It is a popular ornamental in parks and gardens across temperate regions.",
+      "bloomingSeason": "Early spring (March to April in the Northern Hemisphere)",
+      "location": "Cultivated across the southern United States, Europe and East Asia",
       "colors": [
         "pink",
         "white",
         "purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Magnolia flowers evolved before bees, so they are often pollinated by beetles, some of the oldest insect pollinators."
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the most ancient flowering plants and evolved before bees existed, so they are pollinated mainly by beetles."
     },
     {
-      "name": "Prunus persica",
-      "commonName": "Peach Blossom",
-      "description": "The flowers of the peach tree are pink and bloom on bare or budding branches, heralding the arrival of spring and fruiting season.",
-      "bloomingSeason": "March to April",
-      "location": "East Asia originally; widely cultivated in temperate regions globally",
+      "name": "Amaryllis belladonna",
+      "commonName": "Naked Lady (Belladonna Lily)",
+      "description": "A bulbous perennial that sends up tall, leafless stalks topped with clusters of fragrant, trumpet-shaped flowers. It blooms in the Southern Hemisphere's late summer to early autumn, after the foliage has died back.",
+      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere (February to April)",
+      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand and California",
       "colors": [
-        "pink"
+        "pink",
+        "rose",
+        "white"
       ],
-      "emoji": "🌸",
-      "funFact": "In East Asian culture, peach blossoms are symbols of longevity, prosperity, and romance, especially around the Lunar New Year."
+      "emoji": "🌷",
+      "funFact": "Its nickname 'naked lady' comes from the way the flower stalks emerge without any leaves, appearing almost overnight after late-summer rain."
     }
   ]
 }

@@ -2,56 +2,63 @@
   "date": "September 28",
   "plants": [
     {
-      "name": "Aster amellus",
-      "commonName": "European Michaelmas Daisy",
-      "description": "A hardy perennial native to Europe, producing daisy-like violet to purple flowers. It blooms late in the season, adding vibrant color to gardens when many other plants have finished blooming.",
-      "bloomingSeason": "August to October",
-      "location": "Europe, temperate regions",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in autumn, long after its leaves have died back. The leaves appear the following spring, which gives rise to its folk name 'naked ladies'.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October)",
+      "location": "Native to meadows and woodlands in Europe; widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "purple",
-        "violet"
+        "Pale pink",
+        "Lilac",
+        "Purple"
       ],
       "emoji": "🌸",
-      "funFact": "Michaelmas daisies are named after the feast of Michaelmas, celebrated on September 29, because they bloom around this time."
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and, in plant breeding, to induce chromosome doubling."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A widely cultivated and native North American wildflower with bright yellow petals and a dark brown center disc. It provides late summer to early autumn color and is a favorite for pollinators.",
-      "bloomingSeason": "June to October",
-      "location": "North America",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, hairy-stemmed North American perennial topped with dense clusters of daisy-like flowers with yellow centers and many narrow ray petals. It thrives in moist meadows, prairies, and roadsides and is a vital late-season nectar source.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "Eastern and central North America, from Canada to Alabama and west to the Rocky Mountains",
       "colors": [
-        "yellow",
-        "brown"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are important nectar sources for butterflies and bees in late summer landscapes."
+      "emoji": "💜",
+      "funFact": "It is a key fall food source for migrating monarch butterflies, which refuel on its nectar on their journey to Mexico."
     },
     {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen",
-      "description": "A bulbous perennial native to parts of Europe and the Mediterranean. It blooms in early autumn with delicate pink or white flowers and decorative variegated leaves, often under deciduous trees.",
-      "bloomingSeason": "September to November",
-      "location": "Southern Europe and Mediterranean",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, semi-deciduous tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In spring, entire streets in the Southern Hemisphere are carpeted with fallen blossoms.",
+      "bloomingSeason": "Southern Hemisphere spring (late September to November)",
+      "location": "Native to South America; widely planted in Pretoria, Johannesburg, Brisbane, Sydney, Buenos Aires, and Lima",
       "colors": [
-        "pink",
-        "white"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Cyclamen hederifolium is one of the few plants that bloom in autumn when many other flowers have faded."
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, and there is a local belief that a falling blossom on your head brings good luck."
     },
     {
-      "name": "Dendrobium nobile",
-      "commonName": "Noble Dendrobium Orchid",
-      "description": "An epiphytic orchid from Asia, it blooms in late winter to early autumn depending on the climate, with elegant clusters of fragrant purple and white flowers.",
-      "bloomingSeason": "August to October",
-      "location": "Himalayas, Southeast Asia",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A popular cultivated perennial with a huge range of flower forms, from daisy-like singles to large pompons and spiders. Short days trigger its flowering, making it a staple of autumn gardens and festivals.",
+      "bloomingSeason": "Autumn (September to November) in the Northern Hemisphere",
+      "location": "Originated in China; cultivated worldwide, especially in East Asia, Europe, and North America",
       "colors": [
-        "purple",
-        "white"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Red",
+        "Purple",
+        "Pink"
       ],
-      "emoji": "💐",
-      "funFact": "Dendrobium orchids are commonly used in traditional medicines in Asia for their purported health benefits."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,000 years, and Japan celebrates them each year at the Festival of Happiness on the ninth day of the ninth month."
     }
   ]
 }

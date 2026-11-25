@@ -2,58 +2,66 @@
   "date": "May 10",
   "plants": [
     {
-      "name": "Rhododendron spp.",
-      "commonName": "Rhododendron",
-      "description": "A genus of woody plants with large clusters of bell-shaped or funnel-shaped flowers, often found in temperate gardens and mountainous regions.",
-      "bloomingSeason": "April to June",
-      "location": "Northern Hemisphere temperate regions, including North America, Europe, and Asia",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A large deciduous shrub producing dense, conical clusters of intensely fragrant four-lobed flowers. A beloved garden plant across temperate regions, it often peaks in the Northern Hemisphere in early to mid May.",
+      "bloomingSeason": "Mid spring to late spring (April to May in the Northern Hemisphere)",
+      "location": "Native to the Balkans in southeastern Europe; widely cultivated in North America, Europe, and temperate Asia",
       "colors": [
-        "pink",
-        "purple",
-        "white",
-        "red"
+        "Lilac purple",
+        "White",
+        "Pink",
+        "Magenta"
       ],
-      "emoji": "🌸",
-      "funFact": "Rhododendrons are important nectar sources for bees and many species are highly valued for their ornamental beauty."
+      "emoji": "🪻",
+      "funFact": "Lilac was the first plant to be named an official state flower in New Hampshire in 1919, and its fragrance comes from compounds that are used in perfumery."
     },
     {
-      "name": "Ipomoea pes-caprae",
-      "commonName": "Beach Morning Glory",
-      "description": "A fast-growing, sprawling vine with bright purple funnel-shaped flowers, commonly found on sandy beaches and coastal dunes.",
-      "bloomingSeason": "Year-round in tropical climates, peak blooming in spring to summer",
-      "location": "Tropical coastlines worldwide, including Florida, Australia, and Southeast Asia",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces long, cascading racemes of pea-like, fragrant flowers before or as the leaves emerge. It twines counterclockwise and can cover pergolas and walls.",
+      "bloomingSeason": "Mid spring to early summer (April to May in the Northern Hemisphere)",
+      "location": "Native to China; cultivated in Japan, Europe, and the United States",
       "colors": [
-        "purple",
-        "pink"
-      ],
-      "emoji": "🌺",
-      "funFact": "Beach Morning Glory helps stabilize sand dunes and prevent erosion thanks to its extensive root system."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A deciduous tree with striking bright red flowers shaped like a rooster's comb, popular in subtropical ornamental planting.",
-      "bloomingSeason": "Spring to early summer (September to November in Southern Hemisphere, April to June in Northern when cultivated)",
-      "location": "Native to South America; cultivated in warm subtropical gardens worldwide",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌹",
-      "funFact": "The seeds of Erythrina crista-galli are toxic but have been used traditionally in some cultures for medicinal purposes."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A native wildflower with vibrant spikes of pea-like flowers, important for pollinators and native butterfly species.",
-      "bloomingSeason": "April to June",
-      "location": "Eastern North America, especially in sandy soils and open woods",
-      "colors": [
-        "blue",
-        "purple",
-        "white"
+        "Lavender",
+        "Violet",
+        "Blue-purple",
+        "White"
       ],
       "emoji": "💜",
-      "funFact": "Wild Lupine is the host plant for the endangered Karner Blue Butterfly, providing food for its larvae."
+      "funFact": "Some wisteria vines live for over a century; a Chinese Wisteria in Sierra Madre, California, planted in 1894 is considered one of the largest blossoming plants in the world, covering about an acre."
+    },
+    {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on upright stems. Late-flowering tulip varieties are at their peak in cooler northern regions such as the Netherlands, northern Europe, and northern parts of North America in early to mid May.",
+      "bloomingSeason": "Spring (April to May; late varieties bloom in May)",
+      "location": "Originally from Central Asia and Turkey; cultivated worldwide, especially in the Netherlands, Canada, and the northern United States",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the Dutch Golden Age in the 1630s, tulip bulbs became so valuable that a single bulb could cost more than a house, an episode known as Tulip Mania."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody shrub bearing the largest flower head in the Protea genus, with a bowl of petal-like bracts surrounding a central cone of true flowers. In the Southern Hemisphere, it begins blooming as autumn turns toward winter, with flowering extending through spring.",
+      "bloomingSeason": "Autumn through spring depending on the region; common blooms from March to November, with some blooming in May",
+      "location": "Native to the fynbos of the Western and Eastern Cape in South Africa; also cultivated in Australia, Hawaii, and California",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Crimson",
+        "Silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is the national flower of South Africa and is adapted to survive wildfires, with underground lignotubers that resprout after burns."
     }
   ]
 }

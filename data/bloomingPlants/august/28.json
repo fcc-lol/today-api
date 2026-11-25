@@ -2,58 +2,59 @@
   "date": "August 28",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower known for its bright yellow petals and dark brown central cone. It thrives in prairies and open woods, attracting pollinators like bees and butterflies.",
-      "bloomingSeason": "June to September",
-      "location": "North America (United States and Canada)",
-      "colors": [
-        "Yellow",
-        "Brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are often used in traditional medicine and symbolize encouragement and motivation."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub widely cultivated in warm climates with large, showy flowers that come in red, pink, white, yellow, and orange. It is commonly grown in Asia, the Pacific Islands, and subtropical to tropical gardens worldwide.",
-      "bloomingSeason": "Year-round in tropical climates; peak bloom August to October in subtropical areas",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Yellow",
-        "Orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are used to make hibiscus tea, which is rich in antioxidants and vitamin C."
-    },
-    {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant famous for its large, bright yellow flower heads that track the sun's movement during the day (heliotropism). It is widely grown for its seeds and oil.",
-      "bloomingSeason": "Mid-summer to early fall (July to September)",
-      "location": "Native to North America but cultivated worldwide",
+      "description": "A tall annual with large, daisy-like flower heads made up of golden ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plants are widely cultivated for seeds, oil, and ornamental use.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflower seeds are a favorite snack for many birds and humans, and the flower heads can contain up to 2,000 seeds."
+      "funFact": "The flower head is actually composed of hundreds to thousands of tiny individual flowers, and the seed arrangement follows Fibonacci spiral patterns."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A striking native wildflower featuring bright scarlet red tubular flowers that attract hummingbirds. It grows in moist areas like streambanks and wetlands across eastern North America.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and Central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower that forms dense colonies and produces arching plumes of tiny golden-yellow flower heads. It is an important late-season nectar and pollen source for bees, butterflies, and other pollinators.",
+      "bloomingSeason": "Late summer to autumn (July to October)",
+      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "Red"
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time but has wind-borne pollen."
+    },
+    {
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "A low, evergreen shrub with tiny scale-like leaves and spikes of small bell-shaped flowers. It carpets moorlands and heathlands in sweeping purple waves in late summer.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Europe and Asia Minor, including the Scottish Highlands, Scandinavia, and the moors of northern England",
+      "colors": [
+        "purple",
+        "pink",
+        "lavender",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Heather honey is highly prized for its distinctive thick, jelly-like texture, and heather has historically been used for thatching, bedding, and brewing ale."
+    },
+    {
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A bulbous perennial that sends up bare flower stalks topped with striking red blooms with long, curved stamens, before its strap-like leaves emerge in autumn. It is a symbol of the season in East Asia.",
+      "bloomingSeason": "Late summer to early autumn (late August to October)",
+      "location": "Native to China, Korea, and Japan; naturalized in the southeastern United States",
+      "colors": [
+        "red",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "The intense red color of the flowers is specially evolved to attract hummingbirds, which are its primary pollinators."
+      "funFact": "In Japan it is called higanbana and blooms around the autumn equinox, and it is often planted around rice paddies and graveyards because its bulbs are toxic to rodents."
     }
   ]
 }

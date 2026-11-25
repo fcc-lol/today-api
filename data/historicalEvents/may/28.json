@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 585,
-      "title": "Solar Eclipse Halts Battle Between Medes and Lydians",
-      "description": "During a battle between the Medes and the Lydians, a solar eclipse occurred, leading both sides to stop fighting and agree to a truce. This event was predicted by Thales of Miletus and is one of the earliest documented solar eclipses influencing historical events.",
-      "category": "Natural Phenomenon / Military",
-      "significance": "Demonstrates the impact of natural events on human affairs and highlights early astronomical knowledge."
+      "title": "Battle of the Eclipse",
+      "description": "According to traditional dating, a solar eclipse occurred during a battle between the Lydians and the Medes, prompting both sides to stop fighting and agree to peace. The event is often linked to the Greek philosopher Thales, who is said to have predicted it.",
+      "category": "Military/Science",
+      "significance": "Often cited as one of the earliest historical events that can be dated precisely through astronomy, though the exact date is debated by scholars."
     },
     {
       "year": 1754,
       "title": "Battle of Jumonville Glen",
-      "description": "The first skirmish of the French and Indian War occurred when a British colonial force ambushed a French scouting party in present-day Pennsylvania, marking the start of the conflict between British and French forces in North America.",
+      "description": "A Virginia militia force under Lieutenant Colonel George Washington, along with Mingo allies, ambushed a French Canadian detachment in western Pennsylvania, killing the commander Joseph Coulon de Jumonville.",
       "category": "Military",
-      "significance": "Initiated the French and Indian War, which shaped North American colonial history."
+      "significance": "This skirmish helped ignite the French and Indian War, which became part of the global Seven Years' War and reshaped colonial power in North America."
+    },
+    {
+      "year": 1918,
+      "title": "Founding of the First Republic of Azerbaijan",
+      "description": "The Azerbaijan Democratic Republic declared independence from the Russian Transcaucasian Federation, becoming the first secular democratic republic in the Muslim world.",
+      "category": "Politics",
+      "significance": "It granted women voting rights in 1918, earlier than many Western nations, and remains a key symbol of Azerbaijani national identity; it was ended by Soviet takeover in 1920."
     },
     {
       "year": 1937,
-      "title": "Dominican Republic Becomes a Republic Again",
-      "description": "The Dominican Republic officially proclaimed itself a republic again after the end of the dictatorship of Rafael Trujillo's predecessor, leading to a shift in governance and political structure.",
-      "category": "Political",
-      "significance": "Marked the transition in Dominican political history and the end of an era of dictatorship."
+      "title": "Golden Gate Bridge Opens to Pedestrians",
+      "description": "The Golden Gate Bridge in San Francisco opened to pedestrian traffic, with vehicle traffic beginning the following day after an official ceremony.",
+      "category": "Engineering/Culture",
+      "significance": "The bridge was the longest suspension bridge main span in the world at the time and became an iconic symbol of San Francisco and American engineering."
     },
     {
       "year": 1998,
       "title": "Pakistan Conducts Nuclear Tests",
-      "description": "Pakistan conducted five nuclear tests in response to India’s nuclear tests, officially becoming a declared nuclear weapons state and intensifying regional tensions.",
-      "category": "Military / Political",
-      "significance": "Significant escalation in South Asian nuclear arms race impacting global security dynamics."
+      "description": "Pakistan carried out nuclear tests in the Chagai Hills of Balochistan in response to India's tests earlier that month, becoming the seventh country to openly demonstrate nuclear weapons capability.",
+      "category": "Politics/Military",
+      "significance": "The tests escalated nuclear tensions in South Asia and prompted international sanctions and renewed concern over nuclear proliferation."
     }
   ]
 }

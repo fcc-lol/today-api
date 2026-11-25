@@ -4,55 +4,57 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow composite flowers with a dark central disc. It turns to follow the sun and is widely cultivated for seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, native to North America",
+      "description": "A tall annual with large, daisy-like flower heads made of a dark central disc surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, a behavior called heliotropism. It is widely grown as an ornamental and as an oilseed crop.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated worldwide in places such as the United States, Ukraine, Russia, and Argentina",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, where their flower heads track the sun across the sky during the day."
+      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual florets, each of which can develop into a seed."
     },
     {
-      "name": "Lilium bulbiferum",
-      "commonName": "Orange Lily",
-      "description": "A striking perennial lily with bright orange flowers often with dark spots. It thrives in meadows and mountain slopes in Europe.",
-      "bloomingSeason": "July to August",
-      "location": "Central and Southern Europe",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and attracts bees and butterflies in great numbers. It is grown for ornament, essential oils, and culinary use.",
+      "bloomingSeason": "Peak bloom from late June to August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
       "colors": [
-        "orange"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌺",
-      "funFact": "The orange lily has bulbils in leaf axils which help the plant propagate vegetatively."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "South Africa's national flower, this protea has a large, rounded inflorescence resembling an artichoke with pink and cream colored bracts.",
-      "bloomingSeason": "June to September",
-      "location": "South Africa (Cape Floristic Region)",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial whose large, showy flowers rise on tall stalks above round, water-repellent leaves. The blooms open in the morning and close at night over a few days. It is deeply symbolic in many Asian cultures and grows in ponds, lakes, and slow wetlands.",
+      "bloomingSeason": "Summer, peaking July to August",
+      "location": "Asia, from India and China to Japan and Vietnam, and northern Australia; widely cultivated in water gardens",
       "colors": [
         "pink",
-        "cream"
-      ],
-      "emoji": "🌸",
-      "funFact": "Proteas are pollinated by birds and are well adapted to the nutrient-poor soils of fynbos vegetation."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub or small tree with large, trumpet-shaped flowers in various colors, often red, thriving in warm climates worldwide.",
-      "bloomingSeason": "All year in tropical climates, including August",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "yellow",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The hibiscus flower is the national flower of Malaysia and is used symbolically in many cultures."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-textured surface that causes water and dirt to roll off, known as the 'lotus effect', which has inspired self-cleaning materials."
+    },
+    {
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gum",
+      "description": "A small, weeping mallee-type eucalypt with powdery white-silver bark and branches. In late winter its large, pendulous, showy flowers appear and attract nectar-feeding birds. It is a rare species that is popular in gardens.",
+      "bloomingSeason": "Late autumn to winter, roughly May to September in the Southern Hemisphere",
+      "location": "Southwestern Australia, restricted to granite outcrops near Wheatbelt region",
+      "colors": [
+        "pink",
+        "red",
+        "magenta"
+      ],
+      "emoji": "🌸",
+      "funFact": "This species is naturally found on only a few granite outcrops in Western Australia, so it is considered rare in the wild."
     }
   ]
 }

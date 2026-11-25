@@ -2,55 +2,58 @@
   "date": "March 22",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning clusters of pale pink to white flowers that bloom profusely in early spring. Widely celebrated in Japan during sakura festivals, these blossoms symbolize renewal and the transient beauty of life.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, East Asia, temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental cherry tree that produces clouds of delicate, fragrant blossoms before its leaves emerge. Its branches arch widely, creating a canopy of pale blooms that drift down as petals in the breeze.",
+      "bloomingSeason": "Late March to early April",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Japanese Cherry Blossoms have a very short blooming period, usually lasting only one to two weeks before the petals fall, creating beautiful pink carpets on the ground."
+      "funFact": "The Yoshino cherry is the star of Japanese hanami festivals, and the 1912 gift of trees from Tokyo to Washington D.C. started the National Cherry Blossom Festival, which is timed around the peak bloom in late March."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub producing large, fragrant clusters of flowers ranging from white and pink to red. Oleanders are drought-tolerant and bloom from spring through fall in warm climates, often used in landscaping in Mediterranean and subtropical areas.",
-      "bloomingSeason": "March to October",
-      "location": "Mediterranean Basin, Southern USA, subtropical regions",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals. It carpets woodlands and meadows in spring and is a classic herald of the season in cool temperate zones.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, especially the UK, France, and Spain; widely naturalized in North America",
       "colors": [
-        "pink",
-        "white",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, containing cardiac glycosides that can affect the heart."
-    },
-    {
-      "name": "Wattle (Acacia pycnantha)",
-      "commonName": "Golden Wattle",
-      "description": "Australia’s national floral emblem, this tree sports bright yellow, fluffy, spherical flower clusters that bloom in late winter to early spring. It’s a hardy species adapted to dry conditions and poor soils.",
-      "bloomingSeason": "August to October (southern hemisphere late winter to spring, matching March Northern Hemisphere)",
-      "location": "Australia (southern hemisphere)",
-      "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The golden wattle’s golden color and fragrance symbolize unity and resilience in Australian culture."
+      "funFact": "Daffodils contain the compound galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Forsythia × intermedia",
-      "commonName": "Forsythia",
-      "description": "A deciduous shrub known for one of the earliest and brightest yellow blooms in early spring. Forsythia’s flowers appear on bare branches before the leaves, creating vivid bursts of color in gardens and parks throughout temperate zones.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions globally; native to eastern Asia and southeastern Europe",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A spectacular Himalayan tree bearing huge, goblet-shaped flowers on bare branches. The blossoms can reach up to 25 cm across and make a dramatic display in spring.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayas (Nepal, Bhutan, northeastern India, southwest China); cultivated in mild gardens in the UK, New Zealand, and the Pacific Northwest",
       "colors": [
-        "yellow"
+        "deep pink",
+        "rose",
+        "white"
       ],
-      "emoji": "💛",
-      "funFact": "Forsythia is often used as a natural indicator of spring’s arrival due to its early blooming."
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, so their flowers are sturdy enough to be pollinated by beetles."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Southern Hemisphere bloom variants such as Nerine bowdenii)",
+      "description": "In the Southern Hemisphere, where March 22 falls in early autumn, bulbs such as nerines and colchicums burst into bloom on bare stems, bringing a surprising show of color as the weather cools.",
+      "bloomingSeason": "Early autumn in the Southern Hemisphere (March to May)",
+      "location": "South Africa, Australia, New Zealand, and Argentina",
+      "colors": [
+        "pink",
+        "lilac",
+        "purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Colchicum bulbs are the source of colchicine, a compound used in medicine to treat gout and in plant breeding to double chromosome numbers."
     }
   ]
 }

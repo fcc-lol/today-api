@@ -2,58 +2,64 @@
   "date": "May 3",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose native to Southwest China, known for continuously blooming throughout the growing season in warm climates. It bears fragrant, multicolored flowers often used in hybrid tea roses.",
-      "bloomingSeason": "Spring to Fall (March to November)",
-      "location": "Subtropical and temperate regions worldwide, especially East Asia and cultivated gardens globally",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped blooms on sturdy stems above blue-green strap-like leaves. Late-season varieties are at their peak in early May across temperate gardens and the famous commercial fields of the Netherlands.",
+      "bloomingSeason": "Mid-spring to late spring (April to May in the Northern Hemisphere)",
+      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; native to Central Asia",
       "colors": [
         "red",
+        "yellow",
         "pink",
         "white",
-        "yellow"
+        "purple",
+        "orange"
       ],
-      "emoji": "🌹",
-      "funFact": "China Roses were instrumental in the development of modern rose cultivars, introducing the ability to bloom repeatedly during the season."
+      "emoji": "🌷",
+      "funFact": "In 17th-century Holland, tulip bulbs became so valuable during 'Tulip Mania' that a single rare bulb could cost more than a house."
     },
     {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A perennial herbaceous plant native to eastern North America, featuring tall spikes covered in pea-like blue to purple flowers.",
-      "bloomingSeason": "Spring (April to June)",
-      "location": "Sandy soils of eastern United States and southern Canada",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub producing dense, conical clusters of intensely fragrant tiny flowers. It thrives in cold-winter climates and typically reaches peak bloom in early to mid May in northern temperate regions.",
+      "bloomingSeason": "Late spring (late April to May)",
+      "location": "Northeastern United States, southern Canada, Europe; native to the Balkan Peninsula",
       "colors": [
-        "blue",
-        "purple"
+        "lilac",
+        "purple",
+        "white",
+        "pink"
       ],
-      "emoji": "🌸",
-      "funFact": "Wild lupines are crucial for the endangered Karner blue butterfly as they serve as host plants for its larvae."
+      "emoji": "🪻",
+      "funFact": "Lilacs can live for over 100 years and often persist at abandoned homesteads long after the buildings are gone."
     },
     {
       "name": "Wisteria sinensis",
       "commonName": "Chinese Wisteria",
-      "description": "A woody climbing vine known for its heavy clusters of fragrant, pendulous flowers that bloom in spring before the leaves fully emerge.",
+      "description": "A vigorous twining woody vine that drapes pergolas, walls, and trees with long pendant racemes of fragrant pea-like flowers, often blooming before its leaves fully emerge.",
       "bloomingSeason": "Spring (April to May)",
-      "location": "Native to China, cultivated in temperate zones worldwide",
+      "location": "Native to China; cultivated in Japan, Europe, and the eastern and southern United States",
       "colors": [
         "lavender",
-        "purple",
+        "violet",
+        "blue-purple",
         "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Chinese Wisteria can live for decades and bloom profusely; some specimens planted over 100 years ago are still flowering beautifully."
+      "emoji": "💜",
+      "funFact": "Wisteria vines twine counterclockwise, whereas the Japanese species Wisteria floribunda twines clockwise, and a single vine can live for well over a century."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A flowering tree with bright red, spiky flowers shaped like a rooster's crest, native to South America and loved as an ornamental tree in subtropical climates.",
-      "bloomingSeason": "Spring to early Summer (September to November in Southern Hemisphere)",
-      "location": "Native to Argentina, Uruguay, Brazil; blooms in Southern Hemisphere spring during May",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tropical and subtropical tree covered in trumpet-shaped lavender-blue flowers with fern-like foliage. In the Southern Hemisphere it is finishing its autumn display, while in the Northern Hemisphere subtropics such as parts of Mexico, Florida, and southern Asia it is beginning to bloom.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; planted in Mexico, southern California, Florida, India, and parts of Africa",
       "colors": [
-        "red"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
+      "emoji": "🌸",
+      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in Pretoria, South Africa, it is known as the 'Jacaranda City' for its thousands of trees."
     }
   ]
 }

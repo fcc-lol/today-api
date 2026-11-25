@@ -2,63 +2,61 @@
   "date": "September 30",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower that thrives in meadows and fields. Known for its bright yellow petals surrounding a distinctive dark brown cone-shaped center.",
-      "bloomingSeason": "June to October",
-      "location": "Temperate regions of North America",
+      "name": "Aster novi-belgii",
+      "commonName": "New York Aster",
+      "description": "A clump-forming perennial native to eastern North America with daisy-like flower heads featuring yellow centers and numerous narrow petals. It is a vital late-season nectar source for migrating monarch butterflies and native bees.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern North America; widely cultivated in temperate gardens in Europe and Asia",
       "colors": [
-        "Yellow",
-        "Brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are popular with pollinators like bees and butterflies, making them great for natural gardens."
-    },
-    {
-      "name": "Dahlia pinnata",
-      "commonName": "Garden Dahlia",
-      "description": "A cultivated flowering plant admired worldwide for its wide variety of flower shapes and colors. Blooms profusely in late summer to autumn.",
-      "bloomingSeason": "July to October",
-      "location": "Cultivated gardens globally, native to Mexico and Central America",
-      "colors": [
-        "Red",
-        "Pink",
-        "Orange",
-        "Yellow",
-        "White",
-        "Purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Dahlias can produce flowers ranging from tiny pom-poms to massive dinner-plate sizes, making them very popular for ornamental use."
-    },
-    {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A classic autumn-blooming plant with complex, layered blooms often seen in floral displays and gardens, symbolizing longevity and rejuvenation in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate climates worldwide, originally from East Asia",
-      "colors": [
-        "Yellow",
-        "White",
-        "Red",
-        "Purple",
-        "Pink"
+        "purple",
+        "lavender",
+        "blue",
+        "pink",
+        "white"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are often used as natural insect repellents and have been cultivated for over 2,500 years."
+      "funFact": "The name Aster comes from the Greek word for 'star'. Asters were once burned in ancient times to drive away serpents."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern Australia with striking orange to yellow spider-like flowers that bloom in late winter to spring and occasionally in early autumn in some climates.",
-      "bloomingSeason": "September to November (varies)",
-      "location": "Eastern Australia and cultivated in subtropical regions worldwide",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that produces goblet-shaped flowers in autumn, long after its leaves have died back. The blooms emerge directly from the ground without foliage, giving it the nickname 'naked ladies'.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Meadows and woodlands of Europe and North Africa; cultivated in temperate gardens worldwide",
       "colors": [
-        "Orange",
-        "Yellow"
+        "pale pink",
+        "lilac",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "Every part of the plant is highly toxic because it contains colchicine, a compound that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful tree with fern-like foliage that bursts into clouds of trumpet-shaped blue-violet flowers before the leaves fully emerge. It carpets streets and parks with fallen purple blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "colors": [
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "🌳",
-      "funFact": "Despite its common name, Silky Oak is not a true oak, but its wood is often used like oak due to its strength and attractive grain."
+      "funFact": "In Pretoria, South Africa, over 50,000 jacarandas turn the city purple each spring, and there is a local saying that a jacaranda blossom falling on your head brings good luck."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus",
+      "description": "An evergreen shrub or small tree with clusters of tiny, intensely fragrant flowers that smell of apricots and peaches. It is cherished in East Asian gardens and cuisine.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Native to China and Japan; grown in warm temperate and subtropical gardens worldwide",
+      "colors": [
+        "orange",
+        "golden yellow",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "In China, the Mid-Autumn Festival is associated with osmanthus, and its blossoms are used to make cakes, teas, wine, and sweet syrups."
     }
   ]
 }

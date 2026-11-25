@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Puppy Day",
-      "description": "A playful day dedicated to celebrating the unconditional love and joy puppies bring into our lives. People share pictures, adopt puppies, and spread puppy love!",
-      "origin": "Founded in 2006 by animal advocate Colleen Paige to promote adoption of puppies from shelters or rescues.",
-      "category": "Animal Awareness 🐶",
+      "description": "A day to celebrate the wiggly, floppy-eared joy of puppies everywhere, and to encourage adopting from shelters and rescues instead of buying. Social media gets flooded with adorable puppy photos.",
+      "origin": "Founded in 2006 by pet and family lifestyle expert Colleen Paige, who also created National Dog Day and National Cat Day. The goal was to bring attention to puppy mills and to promote adoption.",
+      "category": "Animal Celebration",
       "emoji": "🐶",
-      "funFact": "Each year, thousands of puppies are adopted worldwide on this day, changing lives one wagging tail at a time!"
+      "funFact": "Puppies are born deaf and blind, and they usually don't open their eyes until they are about 10 to 14 days old."
     },
     {
       "name": "National Chip and Dip Day",
-      "description": "A tasty celebration honoring the beloved duo of chips and their dipping companions, whether salsa, guacamole, or queso.",
-      "origin": "Origin uncertain, but popularized in mid-20th century America alongside the rise of party snacks.",
-      "category": "Food Holiday 🍟",
+      "description": "A salty, crunchy, creamy day dedicated to the mighty combo of chips and dip. Double-dipping is a debate best left for another holiday.",
+      "origin": "An unofficial food holiday that grew out of snack-food culture, popular with party planners and snack companies. It is commonly observed on March 23 each year.",
+      "category": "Food Holiday",
       "emoji": "🥔",
-      "funFact": "The world’s largest guacamole dip was made in 2018 and weighed over 3,788 pounds — perfect for dipping tons of chips!"
+      "funFact": "In 2008, a Clemson University study found that double-dipping does transfer bacteria from your mouth to the dip, so the dreaded double dip has some science behind it."
     },
     {
       "name": "World Meteorological Day",
-      "description": "A day to recognize the crucial role of meteorology for safety, economy, and environment around the globe.",
-      "origin": "Established by the World Meteorological Organization in 1950 to mark its founding.",
-      "category": "Science & Environment 🌦️",
-      "emoji": "☁️",
-      "funFact": "Thanks to meteorology advances celebrated on this day, we can predict storms days in advance—saving countless lives!"
+      "description": "A day when weather nerds unite to celebrate the science of clouds, storms, and forecasts, and to highlight how weather, climate, and water shape our lives. It is a good excuse to appreciate the people who tell you to bring an umbrella.",
+      "origin": "Observed since 1961 to commemorate the date in 1950 when the convention establishing the World Meteorological Organization came into force. The WMO later became a specialized agency of the United Nations.",
+      "category": "Awareness Day",
+      "emoji": "🌦️",
+      "funFact": "Each year the WMO picks a different theme for the day, such as climate, oceans, or early warning systems for extreme weather."
     },
     {
       "name": "Near Miss Day",
-      "description": "A quirky day to reflect on those close calls you had — that almost disaster or accident that didn’t happen thanks to luck or quick thinking.",
-      "origin": "Informal observance that encourages gratitude for second chances and learning from near accidents.",
-      "category": "Safety Awareness ⚠️",
-      "emoji": "😅",
-      "funFact": "Studies show that people remember near misses vividly — it’s like your brain hits the ‘close call’ alarm bell!"
+      "description": "A day to remember the times Earth narrowly dodged a cosmic bullet, and to contemplate all the near misses in everyday life. It is the perfect holiday for the lucky and the clumsy alike.",
+      "origin": "Marks the date in 1989 when an asteroid about a quarter mile wide passed within roughly 500,000 miles of Earth, crossing the exact spot our planet had occupied just six hours earlier. It was discovered only after it passed.",
+      "category": "Pop Science Observance",
+      "emoji": "☄️",
+      "funFact": "The asteroid, later named 1989 FC, would have hit with the force of a thousand-megaton explosion had Earth been in its path just a few hours later."
+    },
+    {
+      "name": "Melba Toast Day",
+      "description": "A crunchy celebration of the thin, dry, twice-baked toast that has been a staple of diet plates and soup sides for over a century. It is the snack of choice for people who want their bread extra crispy.",
+      "origin": "Melba toast was named after Australian opera singer Dame Nellie Melba, who famously ate thin dry toast while she was ill in 1897. Chef Auguste Escoffier is credited with creating it for her at the Savoy Hotel.",
+      "category": "Food Holiday",
+      "emoji": "🍞",
+      "funFact": "Peach Melba, another dessert, was also created by Escoffier in honor of the same opera singer."
     }
   ]
 }

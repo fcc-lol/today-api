@@ -2,58 +2,62 @@
   "date": "December 28",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub admired for its large, showy flowers that bloom in winter. Its flowers range from white to deep red and often have a waxy texture. Camellias prefer acidic, well-drained soils and thrive in temperate to subtropical climates.",
-      "bloomingSeason": "November to March",
-      "location": "Native to eastern and southern Asia; commonly cultivated in the southeastern United States and parts of Europe",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A spreading tree with a broad umbrella-shaped canopy and fern-like leaves. In the Southern Hemisphere summer it becomes covered in clusters of vivid orange-red flowers, each with one petal streaked with white and yellow.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere (November to February); May to July in the Northern Hemisphere tropics",
+      "location": "Native to Madagascar; widely cultivated in tropical and subtropical regions including northern Australia, South Africa, Brazil and the Caribbean",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Scarlet",
+        "Orange-red",
+        "Yellow",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica was first introduced to Europe from Japan in the 18th century and became a symbol of elegance in Victorian gardens."
+      "funFact": "In the wild the species is endangered in Madagascar, yet it is among the most widely planted ornamental trees in the tropics. Its long woody seed pods rattle in the wind."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy, evergreen shrub known for its fragrant, showy flowers that bloom profusely in mild winter climates. Oleander is drought-tolerant and grows well in Mediterranean climates as well as subtropical regions.",
-      "bloomingSeason": "Spring to late autumn, but often still blooming in warm winter areas such as southern California and Mediterranean coastlines",
-      "location": "Native to the Mediterranean region and parts of Asia; widely cultivated in warm climates worldwide",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like blooms. Flowers open in the cool winter months and brighten gardens when little else is flowering.",
+      "bloomingSeason": "Late autumn through early spring (December to March in the Northern Hemisphere, with early cultivars opening in December)",
+      "location": "Native to Japan, Korea and eastern China; cultivated in the southeastern United States, Western Europe, and the Pacific Northwest",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌸",
-      "funFact": "Although beautiful, all parts of the oleander plant are highly toxic if ingested."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Its seeds yield tsubaki oil, which has long been used in Japan for hair and skin care."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot or Ume",
-      "description": "A deciduous tree treasured in East Asia for its fragrant, early-blooming flowers which appear in late winter or early spring. The delicate blossoms can range from white to pink and symbolize endurance and hope in Japanese and Chinese cultures.",
-      "bloomingSeason": "December to February",
-      "location": "Native to China, Japan, and Korea; widely cultivated in temperate Asia",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A low-growing perennial with leathery, dark green, palmate leaves and nodding white cup-shaped flowers that age to a pinkish tone. It flowers in cold weather and can bloom through snow.",
+      "bloomingSeason": "Early winter to early spring (December to March in the Northern Hemisphere)",
+      "location": "Native to the mountainous woodlands of central and southern Europe, including the Alps and northern Apennines; grown in temperate gardens worldwide",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink",
+        "Green-tinged"
       ],
-      "emoji": "🌼",
-      "funFact": "The ume blossom is celebrated in many East Asian festivals and marks the transition from winter to spring."
+      "emoji": "❄️",
+      "funFact": "Legend says the flower sprang from the tears of a young girl who had no gift for the Christ child. All parts of the plant are toxic, and it was once used in ancient medicine as a purgative."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree known for its striking orange to golden flower clusters that attract birds and pollinators. It blooms in spring and sometimes during winter months in mild climates.",
-      "bloomingSeason": "August to December, occasionally into late December depending on local climate",
-      "location": "Native to eastern coastal Australia; cultivated in subtropical and warm temperate regions worldwide",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "A clump-forming perennial with strap-like evergreen leaves and tall stalks bearing rounded clusters of trumpet-shaped flowers. It thrives in the warm sunny summers of the Southern Hemisphere.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
+      "location": "Native to South Africa's Eastern Cape; naturalized and widely grown in Australia, New Zealand, and coastal California",
       "colors": [
-        "orange"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌻",
-      "funFact": "Despite its name, silky oak is not an oak but is named for its timber's resemblance to oak wood."
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower). It has become an invasive weed in parts of Australia and New Zealand."
     }
   ]
 }

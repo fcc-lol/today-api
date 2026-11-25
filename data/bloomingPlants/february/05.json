@@ -2,57 +2,60 @@
   "date": "February 5",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial flowering plant that often blooms in late winter to early spring, producing cup-shaped flowers that close at night.",
-      "bloomingSeason": "January to March",
-      "location": "Temperate regions of Europe and North America",
-      "colors": [
-        "purple",
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Crocuses are among the first flowers to bloom, sometimes even poking through snow."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A deciduous tree known for its beautiful and fragrant early spring blossoms that bloom in late winter to early spring before leaves appear.",
-      "bloomingSeason": "January to February",
-      "location": "East Asia (China, Japan, Korea)",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Ume blossoms are celebrated in East Asia as a symbol of perseverance and hope."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A small ornamental tree with striking bright red flowers blooming in the Southern Hemisphere's late summer to early autumn, which corresponds to February in places like Argentina and Brazil.",
-      "bloomingSeason": "December to March",
-      "location": "South America (Argentina, Brazil, Uruguay)",
-      "colors": [
-        "bright red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The cockspur coral tree is the national flower of Argentina and Uruguay."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub famous for its large, showy flowers that bloom in late winter to early spring in temperate climates.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia and widely cultivated in temperate climates worldwide",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that brighten the late winter landscape. Hundreds of cultivars exist, with single, semi-double, and fully double forms.",
+      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia oil from seeds has been historically used for hair care and cooking."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seed oil has long been used in Japan for hair care and cooking."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Chinese Plum (Ume)",
+      "description": "A small deciduous tree that flowers on bare branches before its leaves emerge. Its fragrant blossoms often open in cold weather, sometimes while snow is still on the ground.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Native to southern China; cultivated across East Asia, especially in China, Japan, and Korea",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Chinese culture the plum blossom is one of the 'Three Friends of Winter' and symbolizes perseverance and hope because it blooms in the harshest season."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, often pushing up through frost and snow.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the United Kingdom and North America",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with the largest flower head in the protea family, made of pointed pink bracts surrounding a central cluster of tiny flowers. It thrives in fynbos on nutrient-poor soils.",
+      "bloomingSeason": "Southern Hemisphere summer, with peak blooms from late summer to early autumn, though flowering may occur in some months of the year",
+      "location": "South Africa's Western and Eastern Cape fynbos; cultivated in Australia, Hawaii, and California",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌼",
+      "funFact": "The king protea is South Africa's national flower, and its thick underground stems help it survive and resprout after the wildfires that regularly sweep through its habitat."
     }
   ]
 }

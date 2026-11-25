@@ -2,62 +2,64 @@
   "date": "November 1",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Mum",
-      "description": "A classic autumn flowering plant widely cultivated in gardens for its large, colorful blooms. Chrysanthemums come in a variety of shapes and a spectrum of colors, offering vibrant displays as many other garden flowers fade.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (native to East Asia)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool autumn temperatures and is a staple of fall gardens and floral displays.",
+      "bloomingSeason": "Late summer to late autumn",
+      "location": "Cultivated worldwide in the Northern Hemisphere; native to East Asia",
       "colors": [
         "yellow",
-        "orange",
-        "red",
+        "white",
+        "bronze",
         "purple",
-        "white"
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures and are Japan’s national flower."
+      "funFact": "Chrysanthemums are the November birth flower and are honored in Japan with an annual festival and as the emblem of the Imperial family."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub with showy, fragrant flowers commonly blooming in late summer to fall in Mediterranean and subtropical climates. Oleander flowers attract pollinators and can bloom in warm winters.",
-      "bloomingSeason": "May to November",
-      "location": "Mediterranean Basin, Southern US, subtropical regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. Its blooms carpet streets and gardens as spring advances in the Southern Hemisphere.",
+      "bloomingSeason": "Spring to early summer (October to December in the Southern Hemisphere)",
+      "location": "Australia, South Africa, Argentina, and Brazil; native to South America",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of oleander are toxic if ingested."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "This evergreen shrub blooms in late autumn to early spring, producing elegant, rose-like flowers that brighten gardens during cooler months. The camellia’s glossy leaves remain vibrant year-round.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, Southern US, parts of Europe",
-      "colors": [
-        "pink",
-        "red",
-        "white"
+        "lavender",
+        "purple",
+        "blue"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia japonica is the parent species of many hybrid camellias prized for their ornamental flowers."
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas bloom each year, earning it the nickname 'Jacaranda City'."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A native Australian tree that flowers from late autumn through spring, bearing cylindrical golden flower spikes rich in nectar, which support native birds and insects.",
-      "bloomingSeason": "May to November",
-      "location": "Eastern Australia coastal regions",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that flowers in autumn, earlier than most camellias. It produces delicate, often fragrant single or semi-double blossoms against glossy dark green foliage, providing nectar to pollinators late in the season.",
+      "bloomingSeason": "Autumn to early winter",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
       "colors": [
-        "yellow",
-        "gold"
+        "white",
+        "pink",
+        "rose",
+        "red"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers produce abundant nectar, historically used by Indigenous Australians as a sweet drink."
+      "emoji": "🌺",
+      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to make camellia oil used in cooking and cosmetics."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall native North American wildflower with showy daisy-like flower heads that have purple rays around yellow centers. It brightens meadows and roadsides in late fall and is an important food source for migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to late autumn",
+      "location": "Eastern and central North America in meadows, prairies, and roadsides",
+      "colors": [
+        "purple",
+        "violet",
+        "pink",
+        "yellow"
+      ],
+      "emoji": "💜",
+      "funFact": "New England Aster flower heads close up at night and on cloudy days, then reopen with the sun."
     }
   ]
 }

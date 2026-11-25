@@ -2,55 +2,56 @@
   "date": "March 1",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "The Japanese Cherry Blossom is a famous ornamental tree known for its stunning clusters of pale pink to white blossoms. These flowers herald the arrival of spring and are culturally significant, especially in Japan, where cherry blossom festivals are celebrated.",
-      "bloomingSeason": "Late February to early April",
-      "location": "Temperate regions of Japan, Korea, and parts of the United States (Washington D.C.)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asian gardens and prized for its early spring blooms, which often appear while frost and snow linger.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "China, Japan, Korea; cultivated in temperate regions worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms bloom simultaneously over a short period, creating breathtaking landscapes that attract millions of visitors annually."
+      "funFact": "Ume blossoms are celebrated in Japan as heralds of spring, and the fruit is pickled to make umeboshi and steeped to make umeshu liqueur."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "Wild daffodils are spring-flowering bulbs with bright yellow, trumpet-shaped flowers. They commonly grow in meadows and open woods and are among the first flowers to bloom after winter, signaling the start of spring in many regions.",
-      "bloomingSeason": "February to April",
-      "location": "Western Europe, including the UK, and parts of North America",
+      "description": "A bulbous perennial with a distinctive trumpet-shaped corona surrounded by pale outer petals. It carpets woodlands and meadows in early spring, and many cultivated daffodil varieties descend from it.",
+      "bloomingSeason": "Late winter to early spring (late February to April)",
+      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
       "colors": [
-        "Yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild daffodils were once used medicinally to treat wounds and as a source of poison in ancient times."
+      "funFact": "The daffodil is the national flower of Wales and is traditionally worn on St. David's Day, March 1."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "This evergreen tree native to eastern Australia produces cylindrical flower spikes composed of hundreds of tiny flowers. The blooms are a vital source of nectar for birds and insects during the Australian late summer and early autumn.",
-      "bloomingSeason": "January to March",
-      "location": "Coastal eastern Australia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A fast-growing evergreen tree or large shrub with feathery foliage and fluffy, ball-shaped flower clusters. In Australia it blooms from late winter into spring, making bright splashes of gold in the bush.",
+      "bloomingSeason": "Late winter to spring (July to October in Australia, with some variation by region and species)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
       "colors": [
-        "Yellow",
-        "Orange"
+        "golden yellow"
       ],
       "emoji": "🌿",
-      "funFact": "Banksia flowers are actually dense flower heads made up of hundreds of individual flowers."
+      "funFact": "Golden wattle is Australia's national floral emblem, and Wattle Day is celebrated on September 1, the first day of spring there."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "Helleborus niger is a perennial plant that often blooms in late winter to early spring, producing large, white, sometimes pink-tinged flowers. It is native to mountainous Europe and often found in shady woodland areas.",
-      "bloomingSeason": "December to March",
-      "location": "Central and Southern Europe",
+      "name": "Galanthus nivalis",
+      "commonName": "Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes through snow and thrives in woodlands, gardens, and churchyards.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Europe from the Pyrenees to Ukraine; naturalized in the UK and North America",
       "colors": [
-        "White",
-        "Pink"
+        "white",
+        "green"
       ],
-      "emoji": "❄️🌺",
-      "funFact": "Despite its name, the Christmas rose is not a true rose but a member of the buttercup family, Ranunculaceae."
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of Alzheimer's disease."
     }
   ]
 }

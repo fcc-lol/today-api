@@ -2,54 +2,60 @@
   "date": "July 12",
   "plants": [
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A striking, fragrant white lily native to the Balkans and the eastern Mediterranean, well-known for its large, trumpet-shaped flowers and historically significant in art and culture.",
-      "bloomingSeason": "June to July",
-      "location": "Mediterranean region, cultivated worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of small, fragrant flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Widely cultivated for essential oils, culinary use, and ornamental borders.",
+      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
+      "location": "Mediterranean region, southern France (Provence), England, and cultivated worldwide in temperate gardens",
       "colors": [
-        "white"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Madonna Lily has been cultivated for over 3,000 years and symbolizes purity in many cultures."
+      "emoji": "💜",
+      "funFact": "Lavender fields in Provence reach peak bloom in early to mid July, and the plant's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent their baths."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual plant with a rough, hairy stem and enormous composite flower heads made of yellow ray florets surrounding a dark central disk of tiny florets. Young flower heads track the sun across the sky. Grown as an ornamental and as an important oil and seed crop.",
+      "bloomingSeason": "July to September in the Northern Hemisphere",
+      "location": "Native to North America; cultivated across the United States, Ukraine, Russia, France, and Argentina",
+      "colors": [
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflowers exhibit heliotropism, turning to follow the sun from east to west each day, but mature blooms generally stop moving and face east."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, showy pink or white flowers floating on water surfaces, revered in Asia for its spiritual symbolism and unique seed longevity.",
-      "bloomingSeason": "June to August",
-      "location": "Asia, especially India, China, and Southeast Asia",
+      "description": "A perennial aquatic plant with large, round, water-repellent leaves held above the water and spectacular, fragrant flowers on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters. The plant holds deep religious and cultural significance in Asia.",
+      "bloomingSeason": "June to August, peaking in July in monsoon and temperate Asia",
+      "location": "Native to Asia and northern Australia; widely cultivated in India, China, Japan, Vietnam, and in water gardens worldwide",
       "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Lotus seeds have been known to remain viable for over a thousand years."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-structured surface that causes water to bead and roll off, carrying dirt away. This 'lotus effect' has inspired self-cleaning paints and materials."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy North American wildflower featuring vibrant purple-pink petals and a prominent spiny cone center, commonly used for herbal remedies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central North America",
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "A hardy shrub or small tree with fine needle-like leaves and striking cylindrical flower spikes made up of hundreds of tiny flowers. The blooms produce abundant nectar that attracts honeyeaters, possums, and insects. It grows in sandy coastal heathland and is a key species in its native ecosystems.",
+      "bloomingSeason": "Autumn to winter in the Southern Hemisphere (April to August)",
+      "location": "Coastal New South Wales, Australia, around Sydney and the Central Coast",
       "colors": [
-        "purple",
-        "pink"
+        "orange",
+        "golden-red",
+        "amber"
       ],
-      "emoji": "🌻",
-      "funFact": "Echinacea is widely used in traditional medicine to boost the immune system."
-    },
-    {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "A striking Australian native shrub known for its large bright red clustered flowers, an emblematic floral icon of New South Wales.",
-      "bloomingSeason": "September to November, but some subspecies start blooming in late winter to early spring; however, in certain climates and cultivated conditions, flowering can begin as early as July.",
-      "location": "Southeastern Australia",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Waratah flower was declared the floral emblem of New South Wales in 1962."
+      "emoji": "🌿",
+      "funFact": "Banksia seed cones are fire-adapted: they often remain sealed until a bushfire heats them, releasing seeds into the nutrient-rich ash bed."
     }
   ]
 }

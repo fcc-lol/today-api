@@ -2,36 +2,44 @@
   "date": "August 7",
   "holidays": [
     {
-      "name": "Purple Heart Day",
-      "description": "A day to honor and remember the recipients of the Purple Heart medal — awarded to U.S. military personnel wounded or killed in combat.",
-      "origin": "Established by the U.S. Congress in 1932 to commemorate the original Badge of Military Merit created by George Washington in 1782.",
-      "category": "Military / Remembrance",
-      "emoji": "💜🎖️",
-      "funFact": "The Purple Heart is the oldest military award still given to U.S. service members, with its design inspired by George Washington's family coat of arms."
+      "name": "National Raspberry Cream Pie Day",
+      "description": "A day to indulge in a creamy, tart-sweet pie piled high with fresh raspberries. Bakers and dessert lovers alike are encouraged to whip up or hunt down a slice of this pink-hued treat.",
+      "origin": "Like many American food days, it appears to have been created through food-calendar listings and dessert enthusiasts rather than by any official proclamation, and its exact originator is unclear.",
+      "category": "Food Day",
+      "emoji": "🥧",
+      "funFact": "Raspberries are not true berries in the botanical sense. Each one is an aggregate fruit made up of dozens of tiny drupelets, each with its own seed."
+    },
+    {
+      "name": "Sea Serpent Day",
+      "description": "A day for cryptid fans and ocean-monster believers to celebrate legendary sea creatures, from Nessie-style lake dwellers to colossal serpents lurking in the deep. Think maps with 'here be dragons' and a healthy dose of mystery.",
+      "origin": "It is an unofficial observance popular with cryptozoology fans and appears on various quirky holiday calendars. There is no single documented founder.",
+      "category": "Pop Culture / Mythology",
+      "emoji": "🐉",
+      "funFact": "Sailors' reports of sea serpents may have been inspired by real animals like oarfish, which can grow over 30 feet long and are the longest bony fish in the world."
+    },
+    {
+      "name": "Particularly Preposterous Packaging Day",
+      "description": "A tongue-in-cheek day dedicated to packaging that is absurdly hard to open or ridiculously oversized. Think clamshell plastic that requires power tools and a tiny item rattling around in a giant box.",
+      "origin": "It is a humorous unofficial observance that circulates on novelty holiday calendars. Its origin is generally credited to the shared frustration of consumers everywhere.",
+      "category": "Humor / Consumer Awareness",
+      "emoji": "📦",
+      "funFact": "The infuriating hard plastic clamshell packaging is so common that 'wrap rage' is an actual term used to describe the frustration of trying to open it."
     },
     {
       "name": "National Lighthouse Day",
-      "description": "Celebrate the history and importance of lighthouses, those iconic beacons guiding ships through treacherous waters.",
-      "origin": "Chosen because August 7th marks the birthday of Augustin-Jean Fresnel, a French physicist who invented the lighthouse lens system in 1823.",
-      "category": "History / Maritime",
-      "emoji": "🗼🛳️",
-      "funFact": "The Fresnel lens allows a lighthouse to be seen from over 20 miles away—without it, many ships would have been lost at sea!"
+      "description": "A day to appreciate the towering beacons that have guided sailors safely home for centuries. Lighthouse enthusiasts celebrate by visiting a lighthouse, or admiring photos of one.",
+      "origin": "The date marks the anniversary of August 7, 1789, when the U.S. Congress passed the Lighthouse Act, which put the federal government in charge of maintaining lighthouses. It was one of the first public works laws passed by the new government.",
+      "category": "Historical Observance",
+      "emoji": "🗼",
+      "funFact": "The Lighthouse Act of 1789 was signed by President George Washington, making lighthouses one of the first things the new federal government took responsibility for."
     },
     {
-      "name": "Friendship Day (International)",
-      "description": "A quirky celebration encouraging people around the world to honor friendship and show appreciation for their pals.",
-      "origin": "First proposed by the World Friendship Crusade in 1958, and recognized by the UN and many countries on various dates; August 7 is often observed globally.",
-      "category": "Social / Cultural",
-      "emoji": "🤝💞",
-      "funFact": "In some countries, friendship bracelets exchanged on Friendship Day are believed to bring good luck and strengthen bonds forever!"
-    },
-    {
-      "name": "National Tattoo Day (USA)",
-      "description": "A day devoted to celebrating the art of tattoos and the stories etched into skin around the world.",
-      "origin": "Became popular as tattoo culture grew more mainstream, with August 7th chosen by enthusiasts to admire the creative expression of body art.",
-      "category": "Art / Culture",
-      "emoji": "🖋️🎨",
-      "funFact": "The oldest known tattooed human skin belongs to Ötzi the Iceman, dating back over 5,000 years!"
+      "name": "Purple Heart Day",
+      "description": "A solemn day honoring the men and women who have been wounded or killed while serving in the U.S. military. Many communities hold ceremonies and thank recipients of the Purple Heart medal.",
+      "origin": "It marks the anniversary of the day in 1782 when George Washington created the Badge of Military Merit, the precursor to the modern Purple Heart.",
+      "category": "Historical Observance",
+      "emoji": "💜",
+      "funFact": "During World War II, so many Purple Hearts were manufactured in anticipation of invasion casualties that the surplus supply has still been issued to wounded service members in the decades since."
     }
   ]
 }

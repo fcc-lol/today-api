@@ -3,55 +3,76 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "An iconic tall annual plant with large, bright yellow flower heads that track the sun's movement. Sunflowers are cultivated worldwide and often bloom in late summer, adding vibrant color to fields and gardens.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, especially North America",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like composite flower heads made up of golden ray florets surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is grown widely for seeds, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated across the United States, Europe, Ukraine, Russia, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "deep brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day to maximize photosynthesis."
+      "funFact": "Young sunflower buds follow the sun from east to west in a process called heliotropism, but mature flower heads stop moving and typically face east."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A striking native North American perennial with vibrant red tubular flowers that attract hummingbirds. It blooms in moist habitats such as stream banks and wetlands during late summer.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and Central North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Mid-summer, peaking from July to August in the Northern Hemisphere",
+      "location": "Native to the western Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
       "colors": [
-        "Red"
+        "purple",
+        "lavender",
+        "violet",
+        "blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Cardinal flowers are favored by hummingbirds due to their bright red color and tubular shape."
+      "emoji": "💜",
+      "funFact": "Lavender oil has been used since ancient Roman times, and the plant's name comes from the Latin 'lavare', meaning 'to wash'."
+    },
+    {
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that forms spires of bright magenta-pink flowers which open from the bottom up. It is among the first plants to colonize burned or cleared land, and it carpets mountain meadows and forest clearings.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Circumpolar in the Northern Hemisphere, including Alaska, Canada, Scandinavia, Siberia, and northern Europe",
+      "colors": [
+        "magenta",
+        "pink",
+        "rose-purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Locals say that when fireweed blooms reach the top of the stalk, summer is nearly over, since the flowers open progressively from bottom to top."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves that rise above the water and stunning, fragrant flowers on tall stalks. The leaves have a self-cleaning, water-repellent surface, and the flowers are central to many cultural and religious traditions.",
+      "bloomingSeason": "Summer, from June to September in monsoon and temperate Asia",
+      "location": "Native to Asia and northern Australia; cultivated in ponds across India, China, Japan, Vietnam, and the southern United States",
+      "colors": [
+        "pink",
+        "white",
+        "pale yellow"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying around 30–35°C even when the air is much cooler, which helps attract pollinating beetles."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "The national flower of South Africa, notable for its huge flower heads resembling a large artichoke. King Proteas blossom mainly in late winter to early spring in the Southern Hemisphere, which corresponds to August in South Africa.",
-      "bloomingSeason": "June to October",
-      "location": "South Africa",
+      "description": "A striking evergreen shrub with the largest flower head in the genus, made of showy pink bracts surrounding a central cone of tiny flowers. It is South Africa's national flower and a popular cut flower.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with flowering from late summer through early spring depending on the variety",
+      "location": "Native to the fynbos of the Western and Eastern Cape in South Africa",
       "colors": [
-        "Pink",
-        "White",
-        "Green"
+        "pink",
+        "cream",
+        "silvery-white",
+        "crimson"
       ],
-      "emoji": "🌸",
-      "funFact": "The King Protea's large inflorescence is actually a cluster of hundreds of tiny flowers packed together in a flower head."
-    },
-    {
-      "name": "Rhododendron falconeri",
-      "commonName": "Falconer's Rhododendron",
-      "description": "A majestic evergreen rhododendron native to the eastern Himalayas, with large clusters of fragrant white to pale yellow flowers blooming in late summer to early autumn.",
-      "bloomingSeason": "August to September",
-      "location": "Eastern Himalayas (India, Nepal, Bhutan)",
-      "colors": [
-        "White",
-        "Pale Yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "This rhododendron species grows at high altitudes and can reach tree-like sizes, providing important habitat in mountain forests."
+      "emoji": "🌺",
+      "funFact": "Proteas are an ancient plant family that dates back about 300 million years, and the genus is named after the Greek god Proteus, who could change his shape."
     }
   ]
 }

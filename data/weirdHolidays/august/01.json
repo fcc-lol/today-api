@@ -2,36 +2,44 @@
   "date": "August 1",
   "holidays": [
     {
+      "name": "National Spider-Man Day",
+      "description": "Fans of the web-slinging superhero swing into action by watching the movies, reading the comics, and wearing red and blue. Expect plenty of 'with great power comes great responsibility' quotes.",
+      "origin": "Spider-Man debuted in Amazing Fantasy #15, cover-dated August 1962, created by Stan Lee and Steve Ditko. Fans have marked August 1 as an unofficial celebration of the character.",
+      "category": "Pop Culture",
+      "emoji": "🕷️",
+      "funFact": "Stan Lee reportedly got the idea after watching a fly crawl up a wall, and his publisher initially thought audiences would hate a spider hero because people fear spiders."
+    },
+    {
+      "name": "National Girlfriend Day",
+      "description": "A day to appreciate your girlfriend, or your close gal pals, with flowers, dinners, and sweet gestures. Friends and partners alike are encouraged to say thanks.",
+      "origin": "An unofficial observance that grew through social media and greeting card culture, with no single documented founder. It is celebrated on August 1 in the United States.",
+      "category": "Unofficial Celebration",
+      "emoji": "💐",
+      "funFact": "Many people use the day for group celebrations among friends, so it is often about friendship as much as romance."
+    },
+    {
+      "name": "Yorkshire Day",
+      "description": "Proud Yorkshire folk celebrate their county with flag-waving, Yorkshire pudding, and a ceremonial reading of the Declaration of Integrity at local events. It is a day of fierce regional pride.",
+      "origin": "It was started in 1975 by the Yorkshire Ridings Society, a group that wanted to protest local government boundary changes. August 1 was chosen because it marks the anniversary of the abolition of slavery in the British Empire in 1834, which Yorkshire politician William Wilberforce helped bring about.",
+      "category": "Regional Pride",
+      "emoji": "🌹",
+      "funFact": "The Yorkshire Day proclamation is read in places such as town squares by a town crier, who also declares that Yorkshire is a great place."
+    },
+    {
       "name": "National Raspberry Cream Pie Day",
-      "description": "A deliciously quirky food holiday celebrating the sweet and tangy delight of raspberry cream pie – perfect for pie lovers!",
-      "origin": "Birthed from American baking enthusiasts eager to honor one of the less commonly celebrated but incredibly tasty pies.",
+      "description": "Celebrate with a slice of creamy, tangy, pink-tinted dessert. Whether homemade or from a bakery, this is a perfect excuse to indulge in summer berries and cream.",
+      "origin": "This food observance is part of the American tradition of unofficial national food days, which are popularized by food bloggers, bakeries, and social media.",
       "category": "Food Holiday",
-      "emoji": "🥧🍇",
-      "funFact": "Raspberry cream pie combines the tartness of raspberries with the smooth richness of cream, a combo that makes taste buds sing!"
+      "emoji": "🥧",
+      "funFact": "Raspberries are not technically single berries, but clusters of tiny fruits called drupelets, with each one holding a seed."
     },
     {
-      "name": "Respect for Parents Day",
-      "description": "A heartfelt observance encouraging people to pause and show appreciation for their parents' love, sacrifices, and guidance.",
-      "origin": "Started in the 1950s by American sociologist Dr. Henry C. Link, promoting family harmony and respect.",
+      "name": "International Optimist Day",
+      "description": "Bring on the sunny side up. This day encourages a positive outlook, and people try to see the glass half full, or at least refillable.",
+      "origin": "This is an informal awareness day that encourages cheerful thinking, and it has been promoted by motivational groups and online communities.",
       "category": "Awareness Day",
-      "emoji": "👪❤️",
-      "funFact": "This day inspired the creation of Parents' Day in the United States, which is celebrated on the fourth Sunday of July."
-    },
-    {
-      "name": "Emancipation Day (Jamaica)",
-      "description": "Commemorates the abolition of slavery in Jamaica in 1834, marking a critical moment in history and freedom.",
-      "origin": "Honors the British Slavery Abolition Act of 1833 coming into effect on August 1, 1834, emancipating enslaved people in Jamaica.",
-      "category": "Historical/Heritage",
-      "emoji": "🕊️🇯🇲",
-      "funFact": "Emancipation Day is often celebrated with music, dance, and cultural festivities honoring resilience and heritage."
-    },
-    {
-      "name": "Bubble Bath Day",
-      "description": "A whimsical day dedicated to soaking in luxurious bubbles and unwinding stress with a bubbly bath!",
-      "origin": "Origin unknown but embraced by stress relief enthusiasts and lovers of bath time fun worldwide.",
-      "category": "Fun/Wellness",
-      "emoji": "🛁🫧",
-      "funFact": "Studies suggest that a warm bubble bath can help reduce stress and improve sleep quality, making this holiday extra relaxing!"
+      "emoji": "😄",
+      "funFact": "Studies have linked optimism to better heart health and longer life, so smiling might literally be good for you."
     }
   ]
 }

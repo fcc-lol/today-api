@@ -2,62 +2,62 @@
   "date": "November 14",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "A popular flowering plant known for its vibrant and diverse flower forms, chrysanthemums are often cultivated as ornamental plants. They have a rich history in East Asian cultures and bloom in late autumn.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (Asia, Europe, North America)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial with dense, layered flower heads in a huge range of forms, from pompons to spiders. It is one of the last garden flowers to bloom in the Northern Hemisphere and tolerates light frost. Flowering is triggered by the shortening days of autumn.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; originated in China and widely grown in Japan, Europe and North America",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Pink",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are considered symbols of longevity and rejuvenation in many cultures, especially in Japan and China."
+      "funFact": "Chrysanthemums are the national flower of Japan, and the Chrysanthemum Throne is the name of the Japanese imperial seat. In Chinese culture they are one of the Four Noble Plants."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree with showy and intricate orange flowers that attract birds and insects. It blooms in late spring to early summer, but in subtropical regions, flowering can extend into November.",
-      "bloomingSeason": "October to November (can extend to December)",
-      "location": "Australia (subtropical regions) and cultivated in warm climates",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, semi-deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. When the blooms fall, they carpet streets and gardens in purple. In the Southern Hemisphere it is at its peak in the spring.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina and Brazil",
       "colors": [
-        "orange"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its name, the Silky Oak is not a true oak but is related to the Protea family."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, and the city is nicknamed the Jacaranda City. In parts of Australia, a flower falling on your head is said to bring good luck."
     },
     {
-      "name": "Bougainvillea glabra",
-      "commonName": "Bougainvillea",
-      "description": "A tropical and subtropical vine or shrub known for its vibrant and colorful bracts that appear like flowers. It blooms year-round in ideal climates, with vivid displays commonly seen in November in many warm regions.",
-      "bloomingSeason": "Year-round in tropical/subtropical climates, including November",
-      "location": "Tropical and subtropical regions worldwide (South America, Mediterranean, southern US)",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers. Unlike the related Camellia japonica, it blooms in autumn and early winter, brightening gardens when little else is in flower. It is a valuable late-season nectar source for pollinators.",
+      "bloomingSeason": "Autumn to early winter (October to January in the Northern Hemisphere)",
+      "location": "Native to southern Japan; widely cultivated in the southeastern United States, Europe and Australia",
       "colors": [
-        "magenta",
-        "purple",
-        "red",
-        "orange",
-        "white"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "The colorful part of bougainvillea is not the flower itself, but specialized leaves called bracts surrounding the small white flowers."
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to produce a cooking and cosmetic oil."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub admired for its large, rose-like flowers which bloom in late autumn to early spring, making it one of the few large flowers blooming in November in temperate zones.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia (Japan, China, Korea) and cultivated in temperate gardens worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub bearing the largest flower head of any protea, a bowl-shaped crown of stiff pink bracts surrounding a center of fuzzy flowers. It grows in the fynbos and is adapted to nutrient-poor soils and periodic fires. The flowers are long-lasting and popular as cut flowers.",
+      "bloomingSeason": "Spring to early summer (September to December in the Southern Hemisphere)",
+      "location": "Native to the Western Cape and Eastern Cape of South Africa",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Pink",
+        "Cream",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica seeds are used to produce tea seed oil, a popular cooking oil in East Asia."
+      "funFact": "The king protea is the national flower of South Africa, and the family Proteaceae is named after Proteus, the shape-shifting Greek sea god, because of its great diversity of forms."
     }
   ]
 }

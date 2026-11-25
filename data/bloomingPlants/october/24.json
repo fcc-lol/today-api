@@ -2,59 +2,62 @@
   "date": "October 24",
   "plants": [
     {
-      "name": "Cymbidium",
-      "commonName": "Boat Orchid",
-      "description": "Cymbidium orchids are popular ornamental plants known for their elegant and long-lasting flowers. They bloom in autumn and early winter, producing spikes of beautifully shaped flowers that can be white, pink, green, or yellow.",
-      "bloomingSeason": "September to December",
-      "location": "Asia, cultivated globally in temperate climates",
-      "colors": [
-        "white",
-        "pink",
-        "green",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Cymbidium orchids can thrive in cooler temperatures compared to many tropical orchids, making them favorites for autumn bloom in temperate regions."
-    },
-    {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "Chrysanthemums, often called mums, are classic autumn-flowering garden plants. They have dense flower heads in various forms and colors. They are symbols of autumn in many cultures and bloom abundantly in fall months.",
-      "bloomingSeason": "September to November",
-      "location": "East Asia origin, widely cultivated worldwide",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool fall weather and is a staple of autumn gardens across the Northern Hemisphere.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Cultivated worldwide; native to East Asia, especially China and Japan",
       "colors": [
         "yellow",
-        "red",
         "white",
-        "purple"
+        "bronze",
+        "purple",
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "In Japan, chrysanthemums symbolize the imperial family and are celebrated in the annual Festival of Happiness."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,000 years, and the flower is the national symbol of Japan, where the Chrysanthemum Throne is named for it."
     },
     {
-      "name": "Lonicera sempervirens",
-      "commonName": "Trumpet Honeysuckle",
-      "description": "A native honeysuckle species that produces tubular, trumpet-shaped flowers attracting hummingbirds. It blooms in late summer through fall, offering bright red and orange flowers in temperate zones.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern North America",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A spectacular deciduous tree whose canopy is covered in clusters of trumpet-shaped lavender-blue flowers. It blooms in the Southern Hemisphere spring and carpets streets with fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), and Argentina",
       "colors": [
-        "red",
-        "orange"
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, there are about 70,000 jacaranda trees, and there is a local saying that a bloom falling on your head brings good luck."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that produces crocus-like pink-lilac flowers in autumn without any leaves present. The foliage emerges the following spring and dies back by summer.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Meadows and woodland edges of Europe, from the UK to the Balkans; grown in gardens in temperate regions",
+      "colors": [
+        "pale pink",
+        "lilac",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid. It is used in medicine for gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "A daisy-like annual with feathery foliage and tall, airy stems topped with saucer-shaped flowers. It keeps blooming until the first frost and attracts butterflies and bees in late season.",
+      "bloomingSeason": "Summer to first frost (June to late October in temperate zones)",
+      "location": "Native to Mexico and the southwestern US; cultivated in gardens worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "magenta",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Trumpet honeysuckle is a favorite nectar source for migrating hummingbirds during their fall journey."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree species known for its distinctive, large cylindrical flower spikes rich in nectar. It flowers in spring through autumn, including October, providing food for birds and insects.",
-      "bloomingSeason": "Year-round in some areas, mainly August to October",
-      "location": "Eastern Australia coast",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers aren’t single flowers but dense clusters of tiny individual flowers packed together."
+      "funFact": "Cosmos comes from the Greek word 'kosmos', meaning order or harmony, a name given by Spanish priests who grew the plants in their mission gardens in Mexico."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "June 7",
   "holidays": [
     {
-      "name": "Global Running Day",
-      "description": "A day to celebrate the joy of running and encourage people around the world to get moving, whether you're a seasoned marathoner or a casual jogger.",
-      "origin": "Initiated by the New York Road Runners in 2009 to promote fitness and community through running.",
-      "category": "Fitness / Health",
-      "emoji": "🏃‍♂️",
-      "funFact": "On Global Running Day, people participate in runs from tiny backyard sprints to massive urban marathons, illustrating how universal running truly is."
+      "name": "National Chocolate Ice Cream Day",
+      "description": "A day devoted to the rich, classic scoop that has been quietly outshining vanilla in the hearts of dessert lovers. Ice cream shops and home freezers alike are encouraged to go cocoa-crazy.",
+      "origin": "An unofficial food holiday that grew out of the American tradition of dedicating days to favorite treats, with its date popularized by food-holiday calendars and ice cream makers.",
+      "category": "Food Day",
+      "emoji": "🍫",
+      "funFact": "Chocolate ice cream is often listed as the second most popular flavor in the United States, trailing only vanilla, and Thomas Jefferson is said to have helped popularize ice cream in early America."
+    },
+    {
+      "name": "National Cancer Survivors Day (First Sunday in June)",
+      "description": "A celebration of life for people who have survived cancer, with parades, picnics, and community events that honor survivors, families, and caregivers.",
+      "origin": "Started in 1988 in Ontario, Canada, and then spread across the United States and the world as an annual event for survivors and supporters.",
+      "category": "Awareness Day",
+      "emoji": "🎗️",
+      "funFact": "It is held on the first Sunday of June, so the exact date changes each year and lands on June 7 only in some years."
     },
     {
       "name": "VCR Day",
-      "description": "A day dedicated to celebrating the trusty Video Cassette Recorder, the iconic technology that changed the way people watched movies at home.",
-      "origin": "Established by the Museum of Obsolete Media to honor the VCR’s impact since its popularization in the late 1970s.",
-      "category": "Technology Nostalgia",
+      "description": "A nostalgic nod to the humble videocassette recorder, the machine that let people tape shows, rewind rental tapes, and endlessly blink 12:00 on the display.",
+      "origin": "An unofficial pop culture observance marked by retro tech fans, tied to the VCR's debut as a home entertainment revolution in the 1970s.",
+      "category": "Pop Culture",
       "emoji": "📼",
-      "funFact": "At its peak, VCRs were in nearly 90% of American homes, but now they're largely obsolete, making this day a trip down memory lane."
+      "funFact": "The VHS vs. Betamax format war was a famous battle in consumer tech, and VHS won partly thanks to longer recording times and wider availability of rental movies."
     },
     {
-      "name": "National Chocolate Ice Cream Day",
-      "description": "A delicious day to indulge in one of the most popular and beloved ice cream flavors—chocolate!",
-      "origin": "Unofficial food holiday celebrated in the United States to honor chocolate ice cream's creamy goodness.",
-      "category": "Food / Dessert",
-      "emoji": "🍫🍨",
-      "funFact": "Chocolate ice cream ranks consistently among the top three flavors in the world alongside vanilla and strawberry."
+      "name": "Daylight Appreciation Day",
+      "description": "A cheerful reminder to get outside and soak in the long, bright days of early summer by taking a walk, eating lunch in the sun, or just standing around smugly in the light.",
+      "origin": "A lighthearted unofficial observance created to celebrate the extended daylight of the northern hemisphere's early summer season.",
+      "category": "Unofficial Observance",
+      "emoji": "🌞",
+      "funFact": "Sunlight takes about eight minutes and twenty seconds to travel from the Sun to Earth, so the light you appreciate today is a little over eight minutes old."
     },
     {
-      "name": "Apple Strudel Day",
-      "description": "A quirky celebration of the classic flaky and sweet apple-filled pastry that originated in Austria but is enjoyed worldwide.",
-      "origin": "An unofficial day created by pastry enthusiasts to honor the beloved dessert on this date.",
-      "category": "Food / Cultural",
-      "emoji": "🍎🥧",
-      "funFact": "The layers of dough in a traditional apple strudel are so thin they can almost read a newspaper through them!"
+      "name": "Anna Freud's Birthday Tribute / Poet's Day Vibes: National Doughnut Day Adjacent (First Friday in June)",
+      "description": "The first Friday of June is National Doughnut Day, a sprinkle-covered holiday for fried dough fans, which sometimes lands near June 7 and spills over into the weekend as doughnut-fueled revelry.",
+      "origin": "National Doughnut Day was created by the Salvation Army in 1938 to honor the volunteers known as Doughnut Lassies who served doughnuts to soldiers in World War I.",
+      "category": "Food Day",
+      "emoji": "🍩",
+      "funFact": "Many doughnut shops give away free doughnuts on this day, and the date shifts each year, so it only occasionally lines up with June 7."
     }
   ]
 }

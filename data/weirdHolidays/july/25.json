@@ -2,36 +2,44 @@
   "date": "July 25",
   "holidays": [
     {
-      "name": "National Threading the Needle Day",
-      "description": "Celebrate the tiny art of threading a needle — an oddly satisfying and surprisingly tricky task! Perfect for crafters and anyone who enjoys a good close-up challenge.",
-      "origin": "Likely started by sewing enthusiasts and crafters to honor skill and patience involved in needle threading.",
-      "category": "Crafts & Skills",
+      "name": "National Hot Fudge Sundae Day",
+      "description": "A day to pile ice cream high with warm, gooey chocolate fudge, whipped cream, nuts, and a cherry on top. Cold meets hot in the most glorious dessert collision imaginable.",
+      "origin": "The hot fudge sundae is often credited to C.C. Brown's ice cream parlor in Hollywood, which claimed to have created it in 1906. The day itself is an unofficial food observance promoted by dessert fans and food-holiday calendars.",
+      "category": "Food Day",
+      "emoji": "🍨",
+      "funFact": "C.C. Brown's was said to serve its sundaes with the hot fudge on the side, in a separate pitcher, so the ice cream wouldn't melt before you were ready to dig in."
+    },
+    {
+      "name": "Culinary Arts Day",
+      "description": "A day to celebrate the people who turn raw ingredients into edible art, and a perfect excuse to put on an apron and attempt something more ambitious than toast.",
+      "origin": "Culinary Arts Day is an unofficial observance that honors chefs, cooks, and the craft of cooking. It is tied to the general growth in popularity of culinary schools and cooking shows.",
+      "category": "Awareness Day",
+      "emoji": "👨‍🍳",
+      "funFact": "The tall white chef's hat, called a toque, traditionally has 100 pleats, said to represent the many ways a chef can cook an egg."
+    },
+    {
+      "name": "World Drowning Prevention Day",
+      "description": "A serious but important international day dedicated to raising awareness about drowning and promoting simple life-saving measures like swimming lessons, barriers around water, and supervision.",
+      "origin": "The United Nations General Assembly adopted a resolution in April 2021 declaring July 25 as World Drowning Prevention Day, after advocacy from the Global Drowning Prevention community.",
+      "category": "Awareness Day",
+      "emoji": "🏊",
+      "funFact": "It was the first UN observance dedicated specifically to drowning, a leading cause of accidental death for children and young people worldwide."
+    },
+    {
+      "name": "Thread the Needle Day",
+      "description": "A day for sewing enthusiasts to celebrate the humble art of needlework, and to challenge themselves to get that stubborn thread through the tiny eye on the first try.",
+      "origin": "An unofficial observance celebrated by crafters and sewing lovers, it honors the age-old skill of sewing and mending, which was once an essential part of everyday life.",
+      "category": "Hobby Day",
       "emoji": "🧵",
-      "funFact": "Threading a needle is so satisfying that some people use it as a calming activity to improve concentration and reduce stress."
+      "funFact": "The oldest known needles are over 50,000 years old and were made of bone, found in a cave in Siberia."
     },
     {
-      "name": "Gastronomy Exploration Day",
-      "description": "A quirky unofficial holiday encouraging adventurous eaters to try something new and weird food-wise on July 25th.",
-      "origin": "Originated in foodie circles to promote culinary curiosity and cultural food exploration.",
-      "category": "Food & Culture",
-      "emoji": "🍽️",
-      "funFact": "Every year on this day, people share pictures of their weirdest food finds on social media, from fried insects to bizarre desserts."
-    },
-    {
-      "name": "Morse Code Day",
-      "description": "Celebrate the invention of Morse code by Samuel Morse, the early communication breakthrough using dots and dashes.",
-      "origin": "Commemorates the birthday of Samuel Morse (April 27, but observance chosen differently by enthusiasts) or important dates related to Morse code.",
-      "category": "Communication & Technology",
-      "emoji": "📡",
-      "funFact": "Morse code was used extensively during World War II and is still used by amateur radio operators worldwide today."
-    },
-    {
-      "name": "Tell an Old Joke Day",
-      "description": "A fun day to resurrect those classic, sometimes cringe-worthy old jokes from the past and share some laughs, groans, and eye rolls.",
-      "origin": "Informal internet-born celebration to spread humor and nostalgia.",
-      "category": "Humor & Entertainment",
-      "emoji": "😂",
-      "funFact": "Many 'old jokes' date back decades or centuries and often reflect the social humor of their era!"
+      "name": "Parents' Day (Fourth Sunday of July)",
+      "description": "A day dedicated to appreciating moms and dads in a way that feels like a bonus round after Mother's Day and Father's Day. It is a lesser-known holiday that is often overlooked by the greeting card aisle.",
+      "origin": "In the U.S., Parents' Day was established by Congress in 1994 and signed by President Bill Clinton, to recognize the role of parents in raising children. It is observed on the fourth Sunday of July, so it falls on July 25 in some years.",
+      "category": "Family Observance",
+      "emoji": "👨‍👩‍👧",
+      "funFact": "South Korea also celebrates its own Parents' Day, on May 8, which combines honoring both mothers and fathers into one holiday."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "October 1",
   "holidays": [
     {
+      "name": "National Homemade Cookie Day",
+      "description": "A day to ditch the store-bought packages and get flour on your elbows. Bakers everywhere are encouraged to whip up a batch of chocolate chip, oatmeal raisin, or snickerdoodle cookies from scratch and share them with anyone who comes near the kitchen.",
+      "origin": "An unofficial American food holiday that spread through food-industry calendars and social media, celebrating the tradition of baking cookies at home.",
+      "category": "Food Day",
+      "emoji": "🍪",
+      "funFact": "The word 'cookie' comes from the Dutch 'koekje,' meaning 'little cake,' and early cookies were reportedly made as test pieces to check oven temperature before baking cakes."
+    },
+    {
       "name": "International Coffee Day",
-      "description": "A day to celebrate coffee lovers worldwide and honor the journey of coffee from bean to cup.",
-      "origin": "Created by the International Coffee Organization in 2015 to promote fair trade coffee and raise awareness about coffee growers.",
-      "category": "Food & Drink",
+      "description": "A global caffeine-fueled celebration of the beloved bean. Cafes hand out free or discounted cups while coffee lovers toast the drink that powers mornings, deadlines, and questionable all-nighters.",
+      "origin": "Officially launched by the International Coffee Organization in 2015 in Milan, Italy, though various countries had marked coffee days on this date earlier.",
+      "category": "Food and Drink Day",
       "emoji": "☕",
-      "funFact": "Over 2 billion cups of coffee are consumed every day globally! This day is perfect for trying a quirky new coffee brew."
+      "funFact": "Legend says coffee was discovered by an Ethiopian goat herder named Kaldi, who noticed his goats dancing around after eating berries from a certain tree."
     },
     {
       "name": "World Vegetarian Day",
-      "description": "An observance to promote the benefits of vegetarianism for humans, animals, and the environment.",
-      "origin": "Established by the North American Vegetarian Society in 1977 and recognized internationally by the International Vegetarian Union.",
-      "category": "Health & Lifestyle",
+      "description": "A day to promote the joys of plant-based eating and kick off Vegetarian Awareness Month. Cooks are invited to give meatless meals a try and discover that a veggie plate can be thrilling.",
+      "origin": "Established in 1977 by the North American Vegetarian Society and endorsed by the International Vegetarian Union in 1978.",
+      "category": "Awareness Day",
       "emoji": "🥦",
-      "funFact": "October is Vegetarian Awareness Month, so this day kicks off a whole month of veggie-friendly celebrations!"
+      "funFact": "The word 'vegetarian' is often credited to the founding of the British Vegetarian Society in 1847, and it has nothing to do with the word 'vegetable' being a root, despite how it sounds."
     },
     {
-      "name": "National Homemade Cookies Day (USA)",
-      "description": "A sweet holiday dedicated to baking and enjoying homemade cookies fresh from your oven.",
-      "origin": "Popularized by food bloggers and baking enthusiasts to encourage home bakers.",
-      "category": "Food & Drink",
-      "emoji": "🍪",
-      "funFact": "The chocolate chip cookie didn’t exist until the 1930s—so technically homemade cookies as we know them are a relatively recent treat!"
+      "name": "International Day of Older Persons",
+      "description": "A day to honor the wisdom, stories, and sass of older generations. It encourages people to call grandparents, listen to a few tall tales, and appreciate the folks who invented 'back in my day.'",
+      "origin": "Designated by the United Nations General Assembly in 1990, first observed on October 1, 1991.",
+      "category": "Awareness Day",
+      "emoji": "👵",
+      "funFact": "Japan has more than 90,000 centenarians, the highest per capita rate in the world, and it even has its own national holiday, Respect for the Aged Day."
     },
     {
-      "name": "National Hair Day (USA)",
-      "description": "A quirky day to appreciate all kinds of hair styles, colors, and textures—celebrate your hair’s uniqueness!",
-      "origin": "Created by beauty enthusiasts and salons to boost hair confidence worldwide.",
-      "category": "Beauty & Personal Care",
-      "emoji": "💇‍♀️",
-      "funFact": "Your hair is the second fastest growing tissue in your body after bone marrow!"
+      "name": "Nikola Tesla-Style Oktoberfest Finale? No: Oktoberfest's Final Stretch",
+      "description": "While the main Oktoberfest party in Munich wraps up in early October, this date lands in its last days, when beer tents hum with oompah bands, pretzels the size of dinner plates, and strangers swaying arm in arm.",
+      "origin": "Oktoberfest began in 1810 as a celebration of the marriage of Crown Prince Ludwig of Bavaria to Princess Therese, and it has since evolved into the world's largest folk festival.",
+      "category": "Cultural Festival",
+      "emoji": "🍺",
+      "funFact": "Despite its name, most of Oktoberfest takes place in September, because the weather in Munich is warmer then."
     }
   ]
 }

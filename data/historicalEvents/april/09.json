@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1865,
-      "title": " Confederate General Robert E. Lee's Surrender at Appomattox Court House",
-      "description": "General Robert E. Lee surrendered to Union General Ulysses S. Grant, effectively ending the American Civil War.",
-      "category": "Military",
-      "significance": "Marked the end of the bloodiest conflict in American history and led to the preservation of the United States."
+      "title": "Lee Surrenders at Appomattox Court House",
+      "description": "Confederate General Robert E. Lee surrendered the Army of Northern Virginia to Union General Ulysses S. Grant at Appomattox Court House, Virginia.",
+      "category": "War/Military",
+      "significance": "The surrender effectively marked the end of the American Civil War, though some Confederate forces continued fighting for several weeks. It paved the way for national reunification and Reconstruction."
     },
     {
       "year": 1940,
-      "title": " Germany Invades Denmark and Norway",
-      "description": "Nazi Germany launched Operation Weserübung, invading Denmark and Norway during World War II.",
-      "category": "Military",
-      "significance": "Expanded German control in Europe and secured strategic access to resources and naval routes."
+      "title": "Germany Invades Denmark and Norway",
+      "description": "Nazi Germany launched Operation Weserübung, invading Denmark and Norway. Denmark capitulated within hours, while Norway resisted for about two months.",
+      "category": "War/Military",
+      "significance": "The invasion secured Germany's access to Scandinavian resources, particularly Swedish iron ore, and to Atlantic naval bases, and expanded the war in Europe in World War II."
+    },
+    {
+      "year": 1865,
+      "title": "Ratification Era: Passage of the Civil Rights Act of 1866 over Presidential Veto",
+      "description": "On April 9, 1866, the U.S. Congress overrode President Andrew Johnson's veto to pass the Civil Rights Act of 1866, the first major law passed over a presidential veto.",
+      "category": "Politics/Law",
+      "significance": "The act declared all persons born in the United States to be citizens and laid the groundwork for the Fourteenth Amendment, shaping American civil rights law."
+    },
+    {
+      "year": 1959,
+      "title": "NASA Introduces the Mercury Seven Astronauts",
+      "description": "NASA publicly introduced its first seven astronauts, the Mercury Seven, at a press conference in Washington, D.C.: Scott Carpenter, Gordon Cooper, John Glenn, Gus Grissom, Wally Schirra, Alan Shepard, and Deke Slayton.",
+      "category": "Science/Space",
+      "significance": "The announcement marked the beginning of the American human spaceflight program and made the astronauts national heroes during the Space Race."
     },
     {
       "year": 1967,
-      "title": " The First Super Bowl is Broadcast in Color",
-      "description": "Super Bowl I, the championship game of the NFL, was televised in color for the first time.",
-      "category": "Cultural/Sports",
-      "significance": "Marked a milestone in sports broadcasting, enhancing viewer experience and popularizing American football."
-    },
-    {
-      "year": 1917,
-      "title": " The Russian Tsar Nicholas II Abdicates",
-      "description": "Czar Nicholas II of Russia abdicated the throne, leading to the eventual fall of the Romanov dynasty during the Russian Revolution.",
-      "category": "Political",
-      "significance": "Signaled the collapse of imperial rule in Russia and paved the way for Bolshevik control."
-    },
-    {
-      "year": 1942,
-      "title": " Bataan Death March Begins",
-      "description": "After the surrender of the Bataan Peninsula to Japanese forces in World War II, thousands of Filipino and American prisoners were forced to march under brutal conditions.",
-      "category": "Military/War Crimes",
-      "significance": "An infamous atrocity highlighting the brutal treatment of prisoners of war, impacting Allied morale."
+      "title": "First Boeing 737 Rolls Out",
+      "description": "Boeing unveiled the first 737 airliner at its Renton, Washington factory, designed as a short-to-medium-range twin-engine jet.",
+      "category": "Technology/Aviation",
+      "significance": "The 737 became one of the best-selling commercial aircraft in history and a mainstay of global air travel for decades."
     }
   ]
 }

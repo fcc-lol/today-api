@@ -2,59 +2,60 @@
   "date": "June 28",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are cherished flowering shrubs known for their beautiful, fragrant blooms with layered petals. They thrive in temperate climates and are often cultivated in gardens worldwide. In the Northern Hemisphere, many rose varieties bloom from late spring through summer, including late June.",
-      "bloomingSeason": "May to July (Northern Hemisphere)",
-      "location": "Temperate regions worldwide, including Europe, North America, and Asia",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange",
-        "purple"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for thousands of years and contain more than 200 species."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "English lavender is a fragrant evergreen shrub valued for its aromatic purple flower spikes. It blooms profusely in summer, attracting pollinators like bees and butterflies.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean regions, also widely cultivated in gardens across temperate zones",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of small, fragrant flowers. It is widely grown in gardens, in herb borders, and in commercial fields for essential oil production. Bees and butterflies are strongly attracted to it.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Mediterranean native; cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
         "purple",
-        "violet"
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender oil distilled from English lavender is used in aromatherapy and cosmetics."
+      "funFact": "Lavender's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Edwardsia grandiflora",
-      "commonName": "Showy Prairie Clover",
-      "description": "This wildflower is native to the central prairies of North America. It produces bright purple to pink flower clusters during early summer and plays a role in natural prairie ecosystems.",
-      "bloomingSeason": "June to July",
-      "location": "Central United States prairies",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flowers above broad, glossy leaves. It thrives in partial shade and moist, well-drained soil, and is a fixture of cottage gardens and coastal landscapes.",
+      "bloomingSeason": "Early summer to early fall",
+      "location": "Native to Japan; widely grown in the Azores, the UK, the eastern United States, and Pacific Northwest",
       "colors": [
+        "blue",
+        "pink",
         "purple",
-        "pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Prairie clovers fix nitrogen in the soil, enriching prairie ecosystems."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "A striking aquatic plant with large, fragrant white flowers that float on ponds and lakes. It blooms in summer months, including late June, in temperate freshwater habitats.",
-      "bloomingSeason": "June to August",
-      "location": "Freshwater bodies in Europe, parts of Asia, and North Africa",
-      "colors": [
         "white"
       ],
-      "emoji": "💧🌼",
-      "funFact": "Water lilies move their flowers to track the sun and open during the day, closing at night."
+      "emoji": "🌸",
+      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial that rises from muddy pond bottoms, bearing large round leaves and showy, fragrant flowers held above the water. The leaves repel water thanks to a microscopic waxy surface texture.",
+      "bloomingSeason": "Early summer to early autumn",
+      "location": "Asia and northern Australia; cultivated in ponds and wetlands from India and China to Japan and the southern United States",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C (86-95°F) even when the air is much cooler, which helps attract pollinating beetles."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody evergreen shrub producing the largest flower head of any protea, with a bowl of silky-tipped petal-like bracts around a central cluster of true flowers. It grows in the fynbos on well-drained, nutrient-poor soils.",
+      "bloomingSeason": "Late autumn through spring in the Southern Hemisphere, with peak flowering in the cooler months including June",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and its genus is named after the Greek god Proteus, who could change shape, reflecting the wide variety of protea forms."
     }
   ]
 }

@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Cat Day",
-      "description": "A purr-fect day to celebrate our feline friends and promote cat adoption! Cat lovers shower their kitties with love, treats, and toys.",
-      "origin": "Created in 2005 by the American Society for the Prevention of Cruelty to Animals (ASPCA) to raise awareness about cat adoption and welfare.",
-      "category": "Animal Awareness 🐱",
+      "description": "A day for cat lovers to celebrate their feline overlords with treats, extra cuddles, and an unreasonable number of photos. It also encourages adopting cats from shelters.",
+      "origin": "Founded in 2005 by Colleen Paige, a pet and family lifestyle expert, to raise awareness of cats in need of homes and to encourage people to save lives by adopting.",
+      "category": "Animal Appreciation",
       "emoji": "🐱",
-      "funFact": "Cats have been considered sacred in many cultures, and on this day, some people even share photos of their cats dressed in costumes or enjoying special meals!"
+      "funFact": "Cats sleep roughly 12 to 16 hours a day, so the average cat will spend about two-thirds of its life napping, and National Cat Day mostly respects that schedule."
+    },
+    {
+      "name": "National Oatmeal Day",
+      "description": "A cozy celebration of the humble breakfast bowl, topped with everything from brown sugar and berries to bacon and peanut butter.",
+      "origin": "An unofficial food holiday that grew out of the popularity of oats as a healthy, budget-friendly breakfast, and it falls at the perfect time of year for warm bowls as the weather turns chilly.",
+      "category": "Food Day",
+      "emoji": "🥣",
+      "funFact": "Oats were originally considered weeds growing among wheat and barley crops, and they were only later cultivated as a food crop in their own right."
     },
     {
       "name": "Internet Day",
-      "description": "A day to celebrate the invention of the internet and its impact on our lives, connecting people and information across the globe.",
-      "origin": "Commemorates the first message sent over ARPANET, the precursor to the internet, on October 29, 1969.",
-      "category": "Technology & Innovation 🌐",
+      "description": "A tribute to the web that lets us watch cat videos, argue with strangers, and look up how to do everything. It marks the moment the internet first said hello.",
+      "origin": "On October 29, 1969, the first message was sent over ARPANET, the precursor to the modern internet, from UCLA to the Stanford Research Institute.",
+      "category": "Technology",
       "emoji": "🌐",
-      "funFact": "The first message sent was supposed to be 'LOGIN' but the system crashed after just 'LO' – the early internet sure had funny glitches!"
+      "funFact": "The very first message was meant to be the word LOGIN, but the system crashed after the first two letters, so the internet's first message was just LO, as in lo and behold."
     },
     {
-      "name": "Oatmeal Day",
-      "description": "A cozy food day dedicated to enjoying warm bowls of oatmeal in all its forms, from sweet to savory.",
-      "origin": "Unofficial food holiday celebrated by oatmeal lovers to promote the health benefits and comfort of this humble grain.",
-      "category": "Food Holiday 🥣",
-      "emoji": "🥣",
-      "funFact": "Oatmeal was historically considered a poor man's food but is now a trendy superfood featured in everything from beauty products to craft beers!"
+      "name": "Hermit Day",
+      "description": "A day for introverts and homebodies to lock the door, silence the phone, and happily cancel plans without any guilt.",
+      "origin": "An unofficial observance celebrated by people who prefer solitude, and its timing near Halloween season suits those who would rather hand out candy through a cracked door.",
+      "category": "Lifestyle",
+      "emoji": "🏚️",
+      "funFact": "Hermit crabs are not true hermits at all, since they often live in large social groups and will line up by size to swap shells in a so-called vacancy chain."
     },
     {
-      "name": "Frankenstein Day",
-      "description": "Celebrates the iconic fictional scientist Dr. Victor Frankenstein and Mary Shelley's groundbreaking novel 'Frankenstein,' published in 1818.",
-      "origin": "Commemorates Mary Shelley's birthday on October 29, 1797, honoring her contribution to gothic horror and science fiction genres.",
-      "category": "Literature & Pop Culture 📚",
-      "emoji": "🧟‍♂️",
-      "funFact": "Mary Shelley wrote 'Frankenstein' when she was just 18 years old during a famous ghost storytelling contest with her friends, including Lord Byron."
+      "name": "Awkward Moments Day",
+      "description": "A day to embrace every cringeworthy slip, stumble, and social blunder, and to laugh at yourself instead of replaying them at 3 a.m.",
+      "origin": "A lighthearted unofficial observance that encourages people to share their most embarrassing stories and to treat awkwardness as a universal human experience.",
+      "category": "Pop Culture",
+      "emoji": "😬",
+      "funFact": "Psychologists call the feeling that everyone notices your embarrassing moments the spotlight effect, and research shows people notice far less than you think."
     }
   ]
 }

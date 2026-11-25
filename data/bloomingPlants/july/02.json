@@ -2,65 +2,60 @@
   "date": "July 2",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are iconic flowering shrubs known for their fragrant, layered petals and wide variety of colors. Many species and cultivars reach peak bloom in early summer in temperate zones.",
-      "bloomingSeason": "Late spring to mid-summer",
-      "location": "Temperate regions worldwide, including North America, Europe, and Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with slender silvery-gray foliage and dense spikes of small tubular flowers. Widely cultivated in gardens and commercial fields for essential oils, and highly attractive to bees and butterflies.",
+      "bloomingSeason": "Late June to August in the Northern Hemisphere",
+      "location": "Provence in France, southern England, Bulgaria, and temperate gardens across North America",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses are one of the oldest cultivated flowers, with fossils dating back 35 million years."
+      "emoji": "💜",
+      "funFact": "Despite its name, English lavender is native to the western Mediterranean; Romans used it in bathing water, and the name comes from the Latin 'lavare', meaning to wash."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Lupine",
-      "description": "Lupines are tall spikes of pea-like flowers often found in wild meadows and gardens. They fix nitrogen in soil, improving fertility.",
-      "bloomingSeason": "Late spring through early summer (May to July)",
-      "location": "Native to western North America; widely cultivated in temperate climates",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and showy, many-petaled flowers on tall stalks. The leaves have a super-hydrophobic surface that causes water to bead and roll off.",
+      "bloomingSeason": "Early summer through late summer (June to September) in the Northern Hemisphere",
+      "location": "Shallow ponds and wetlands across India, China, Japan, Southeast Asia, and the Volga Delta in Russia; also grown in water gardens worldwide",
       "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries; seeds around 1,300 years old recovered from an ancient lake bed in China were successfully germinated."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy prairie perennial with daisy-like flowers featuring drooping rosy-purple petals around a spiky orange-brown central cone. It thrives in full sun, tolerates drought, and attracts pollinators and finches in autumn.",
+      "bloomingSeason": "Early summer to early autumn (June to September)",
+      "location": "Native to central and eastern North American prairies and open woodlands; widely cultivated in temperate gardens",
+      "colors": [
+        "Purple",
+        "Pink",
+        "Orange",
+        "Bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines can improve poor soils by fixing atmospheric nitrogen through root nodules."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub bearing large, showy, trumpet-shaped flowers. In warm climates, it blooms throughout summer and sometimes year-round.",
-      "bloomingSeason": "Summer to fall; can be year-round in tropical climates",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Some cultures use hibiscus flowers to make herbal teas believed to have health benefits."
+      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone. Native Americans used it medicinally for centuries."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "The national flower of South Africa, this striking plant has large, spiky flower heads with a central dome surrounded by colorful bracts.",
-      "bloomingSeason": "Winter to summer (varies by region – often blooming July in Southern Hemisphere)",
-      "location": "Southern Africa (fynbos biome)",
+      "description": "A woody evergreen shrub producing the largest flower head of the protea family, with a central cluster of tiny flowers surrounded by showy colored bracts. It is adapted to nutrient-poor soils and periodic fires in fynbos habitat.",
+      "bloomingSeason": "Southern Hemisphere late autumn to spring, with peak flowering from about May to September and flowers seen in the winter during early July",
+      "location": "Fynbos shrublands of the Western and Eastern Cape, South Africa",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
-      "emoji": "🌸",
-      "funFact": "Proteas are ancient plants dating back over 300 million years, predating the dinosaurs."
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa's national flower, and the genus is named after Proteus, the Greek sea god who could change his shape, reflecting the family's great diversity."
     }
   ]
 }

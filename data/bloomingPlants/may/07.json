@@ -2,54 +2,63 @@
   "date": "May 7",
   "plants": [
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A striking perennial bulbous plant known for its large, fragrant white flowers that symbolize purity. It thrives in Mediterranean climates and is often found in gardens and wild settings.",
-      "bloomingSeason": "April to June",
-      "location": "Mediterranean region, Southern Europe",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on upright stems above broad, blue-green leaves. Hundreds of cultivars exist, ranging from single early types to ruffled parrot and fringed forms. In the Netherlands, fields of tulips are at or just past peak bloom in early May.",
+      "bloomingSeason": "Mid-spring (April to early May in the Northern Hemisphere)",
+      "location": "Netherlands, temperate Europe, North America; native to Central Asia",
       "colors": [
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Madonna Lily has been cultivated since ancient times and was considered sacred in many cultures, often associated with the Virgin Mary."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "An evergreen tree famous for its large, creamy white, highly fragrant flowers and glossy leaves. It blooms abundantly in spring and can continue sporadically into summer.",
-      "bloomingSeason": "March to June",
-      "location": "Southeastern United States",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "Magnolia flowers are an ancient lineage predating bees; they were originally pollinated by beetles, making them some of the oldest flowering plants."
-    },
-    {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub that produces clusters of bell-shaped flowers, commonly found in woodlands and heathlands. It flourishes in temperate zones during spring.",
-      "bloomingSeason": "April to June",
-      "location": "Western Europe",
-      "colors": [
-        "purple",
+        "red",
+        "yellow",
         "pink",
-        "white"
+        "purple",
+        "white",
+        "orange"
       ],
-      "emoji": "🌺",
-      "funFact": "In some regions, Rhododendron ponticum is considered invasive, spreading aggressively and outcompeting native flora."
+      "emoji": "🌷",
+      "funFact": "In the 1630s, tulip bulbs became so valuable in the Netherlands that single bulbs sold for more than the price of a house during 'Tulip Mania'."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A small tree or shrub with vibrant, spiky red flowers that attract hummingbirds and butterflies. It blooms in late spring, adding brilliant color to subtropical landscapes.",
-      "bloomingSeason": "April to June",
-      "location": "South America, particularly Argentina and Uruguay",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub with heart-shaped leaves and dense, cone-shaped clusters of intensely fragrant flowers. Lilacs reach peak bloom in many temperate regions in early to mid May and are a staple of cottage gardens and old homesteads.",
+      "bloomingSeason": "Late spring (late April to May)",
+      "location": "Northeastern United States, Canada, Europe; native to the Balkan Peninsula",
       "colors": [
-        "red"
+        "lilac",
+        "purple",
+        "white",
+        "pink",
+        "magenta"
       ],
-      "emoji": "🌺",
-      "funFact": "Cockspur Coral Tree is the national flower of Argentina and Uruguay, symbolizing strength and resilience."
+      "emoji": "💜",
+      "funFact": "Lilacs are members of the olive family (Oleaceae), and some old plants have survived for over a century at abandoned homesites."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial that carpets forest floors with nodding, bell-shaped, sweetly scented flowers all arching to one side of the stem. Ancient woodlands in the British Isles are at their peak in early May.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "United Kingdom, Ireland, western Europe",
+      "colors": [
+        "violet-blue",
+        "white"
+      ],
+      "emoji": "🔔",
+      "funFact": "Britain is home to about half of the world's population of wild bluebells, and it is illegal to dig up wild bulbs for sale there."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that bursts into masses of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, such as parts of Mexico, Florida, and southern California, it starts blooming in May. In Australia and South Africa it blooms in spring around October to November, so early May bloom is typical of the north.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June)",
+      "location": "Subtropical regions worldwide, including Mexico City, southern California, and Florida; native to South America",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in some places a flower landing on your head is said to bring good luck."
     }
   ]
 }

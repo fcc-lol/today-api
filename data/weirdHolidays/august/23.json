@@ -2,36 +2,44 @@
   "date": "August 23",
   "holidays": [
     {
+      "name": "National Ride the Wind Day",
+      "description": "A day for catching a breeze and enjoying the wind, whether you are flying a kite, sailing a boat, cycling into a stiff headwind, or just standing on a hilltop with your arms out like a dramatic movie heroine.",
+      "origin": "Like many unofficial observances, it comes from the quirky-holiday calendar tradition and has no single documented founder. It is often tied to the end-of-summer feel of late August, when breezy weather arrives.",
+      "category": "Outdoor Fun",
+      "emoji": "💨",
+      "funFact": "Wind power is one of the oldest energy sources people have used. Sailing ships harnessed the wind thousands of years ago, and windmills were grinding grain in Persia over a thousand years ago."
+    },
+    {
       "name": "National Sponge Cake Day",
-      "description": "A delicious day dedicated to celebrating the light, airy, and fluffy sponge cake—a classic dessert beloved around the world!",
-      "origin": "While exact origins are unclear, this day is an unofficial food holiday created by baking enthusiasts to appreciate the art of sponge cake making.",
+      "description": "A celebration of the light, fluffy, airy cake that has been a staple of tea tables and birthday parties for centuries. Bake one, slather it with jam and cream, and call it dessert diplomacy.",
+      "origin": "This is a food-calendar observance that has circulated widely online. Sponge cakes themselves became popular in 18th and 19th century Europe once bakers learned to leaven batter with whipped eggs rather than yeast.",
       "category": "Food",
       "emoji": "🍰",
-      "funFact": "Despite its name, sponge cake doesn’t actually contain any sponge—it’s named for its spongy texture created by whipping eggs and sugar."
+      "funFact": "The Victoria sponge is named after Queen Victoria, who reportedly enjoyed a slice with her afternoon tea."
     },
     {
-      "name": "International Day for the Remembrance of the Slave Trade and its Abolition",
-      "description": "A solemn day to commemorate the tragic history of the transatlantic slave trade and honor those who fought for its abolition.",
-      "origin": "Established by UNESCO in 1998, it marks the anniversary of the Haitian Revolution, a key event in the fight against slavery that began on August 23, 1791.",
+      "name": "International Day for the Remembrance of the Slave Trade and Its Abolition",
+      "description": "A serious but important UN observance that honors those who suffered under the transatlantic slave trade and celebrates those who fought to end it. Included here as a reminder that the calendar holds weight as well as whimsy.",
+      "origin": "UNESCO proclaimed it to mark the night of August 22 to 23, 1791, when the uprising began in Saint-Domingue (today Haiti), which became a turning point in the abolition of slavery.",
       "category": "Awareness",
-      "emoji": "🕯️",
-      "funFact": "Haiti’s uprising was the only slave revolt that led to the founding of an independent nation ruled by former slaves."
+      "emoji": "🕊️",
+      "funFact": "The uprising that began in 1791 eventually led to the Haitian Revolution and to Haiti becoming the first independent nation founded by formerly enslaved people."
     },
     {
-      "name": "National Ride the Wind Day",
-      "description": "A quirky day inviting everyone to embrace the freedom and thrill of wind—whether it’s flying a kite, enjoying a breezy bike ride, or simply feeling the breeze in your hair.",
-      "origin": "An unofficial holiday encouraging outdoor fun and appreciation of nature's invisible force—wind!",
-      "category": "Fun",
-      "emoji": "🌬️",
-      "funFact": "The term 'ride the wind' was popularized by windsurfing communities but now refers to any playful interaction with the wind."
+      "name": "Zucchini Day (Unofficial Sneak-Zucchini-Onto-Your-Neighbor's-Porch Time)",
+      "description": "Late August is peak zucchini season, when gardeners everywhere find themselves with more squash than any household could eat. Neighbors are advised to lock their doors and cars.",
+      "origin": "Sneak Some Zucchini Onto Your Neighbor's Porch Night is observed on August 8, but the spirit lasts through the harvest, and the end of August is when gardens are overflowing. This is a folk tradition rather than an official holiday.",
+      "category": "Food",
+      "emoji": "🥒",
+      "funFact": "A single zucchini plant can produce several pounds of squash per week at its peak, and a forgotten zucchini can grow to the size of a baseball bat in just days."
     },
     {
-      "name": "World Dog Day in Ukraine",
-      "description": "A fun and heartwarming day to celebrate dogs, their companionship, and their roles in Ukrainian culture and history.",
-      "origin": "An observance that gained local popularity in Ukraine to honor dogs and raise awareness for animal welfare on August 23.",
-      "category": "Pet & Animal",
-      "emoji": "🐕",
-      "funFact": "Ukrainian sled dogs were credited with heroic service during harsh winters, helping deliver supplies across snowy terrains."
+      "name": "Day of the Black Ribbon (European Day of Remembrance for Victims of Stalinism and Nazism)",
+      "description": "An international day of remembrance for victims of totalitarian regimes. Black ribbons are worn and candles lit in memory of those lost.",
+      "origin": "It marks the anniversary of the 1939 Molotov-Ribbentrop Pact signed on August 23. The European Parliament formally backed the observance in 2008, and it grew from Black Ribbon Day demonstrations in 1986.",
+      "category": "Awareness",
+      "emoji": "🎗️",
+      "funFact": "In 1989 about two million people joined hands to form the Baltic Way, a human chain stretching roughly 675 kilometers across Estonia, Latvia, and Lithuania on this date."
     }
   ]
 }

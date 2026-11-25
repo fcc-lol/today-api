@@ -2,36 +2,44 @@
   "date": "December 12",
   "holidays": [
     {
-      "name": "Gingerbread House Day",
-      "description": "A day dedicated to building and decorating whimsical gingerbread houses, encouraging creativity (and a lot of icing).",
-      "origin": "Celebrated in the U.S., inspired by the popularity of gingerbread houses during winter holidays, this day encourages families and friends to come together and create sweet architectural wonders.",
-      "category": "Food & Craft",
-      "emoji": "🏠🍬",
-      "funFact": "The tradition of gingerbread houses originated from the Brothers Grimm fairy tale 'Hansel and Gretel,' where a house made of candy lured the children!"
+      "name": "National Gingerbread House Day",
+      "description": "A sweet day for building, decorating, and shamelessly nibbling the roof off a candy-covered cottage. Gumdrops, icing, and structural engineering collide in the name of holiday cheer.",
+      "origin": "Gingerbread houses trace back to 16th-century Germany, and the tradition boomed after the Brothers Grimm published Hansel and Gretel in the early 1800s. The day is an unofficial food observance celebrated by bakers and candy lovers.",
+      "category": "Food Holiday",
+      "emoji": "🍪",
+      "funFact": "Queen Elizabeth I reportedly had gingerbread cookies made in the likeness of visiting dignitaries."
     },
     {
-      "name": "National Poinsettia Day",
-      "description": "Honoring the vibrant red and green holiday plant that brightens winter homes, National Poinsettia Day celebrates holiday cheer and nature's color.",
-      "origin": "This day commemorates the death of Joel Roberts Poinsett, the first U.S. ambassador to Mexico who introduced the poinsettia plant to America in the 1820s.",
-      "category": "Holiday Plant & Decoration",
-      "emoji": "🎄🌺",
-      "funFact": "Poinsettias are sometimes called 'Christmas flowers,' and their unique shape is said to symbolize the Star of Bethlehem."
+      "name": "National Ambrosia Day",
+      "description": "A celebration of the retro fluffy dessert salad made of fruit, marshmallows, coconut, and whipped topping or sour cream. It is a potluck classic that divides families between lovers and skeptics.",
+      "origin": "The name comes from Greek mythology, where ambrosia was the food of the gods. The American dessert became popular in the late 1800s, when citrus and coconut became more widely available, and the day is a food-calendar observance.",
+      "category": "Food Holiday",
+      "emoji": "🍊",
+      "funFact": "Early American ambrosia recipes were just layers of orange slices and fresh coconut, and marshmallows only showed up later."
     },
     {
-      "name": "Universal Ninja Day",
-      "description": "A playful day celebrating the mysterious and stealthy ninjas of feudal Japan, encouraging fans to don ninja costumes and embrace their inner stealth.",
-      "origin": "Created by ninja enthusiasts as a fun unofficial day to honor the cultural fascination with ninjas seen in movies, video games, and folklore.",
-      "category": "Pop Culture & Costume",
-      "emoji": "🥷🎉",
-      "funFact": "Some kids actually hold ninja training sessions on this day, trying to master silent moves and quick reflexes!"
+      "name": "Poinsettia Day",
+      "description": "A day to honor the festive red-leafed plant that fills homes and stores every December. Many people celebrate by buying a poinsettia and trying to keep it alive past New Year's.",
+      "origin": "The day marks the anniversary of the death of Joel Roberts Poinsett, the first U.S. Ambassador to Mexico, who introduced the plant to the United States in 1828. He died on December 12, 1851.",
+      "category": "Nature & Plants",
+      "emoji": "🌺",
+      "funFact": "The bright red parts are not flowers but colored leaves called bracts, and the actual flowers are the tiny yellow bits in the center."
     },
     {
-      "name": "National Ding-A-Ling Day",
-      "description": "A humorous day to poke fun at absent-minded people or celebrate the lovable quirks of being a little forgetful or silly.",
-      "origin": "Origin unknown, but this quirky observance is embraced as a humorous way to remind everyone not to take themselves too seriously.",
-      "category": "Humor & Quirk",
-      "emoji": "🔔🤪",
-      "funFact": "The phrase 'ding-a-ling' was popularized by comedians to describe someone acting sillily or making little mistakes, and this day gives that vibe a spotlight!"
+      "name": "Jamhuri Day",
+      "description": "Kenya's national holiday marks the country becoming a republic, with parades, feasts, speeches, and family gatherings. It is a day of national pride and community celebration.",
+      "origin": "Kenya gained independence from Britain on December 12, 1963, and became a republic exactly one year later, on December 12, 1964. Jamhuri means republic in Swahili.",
+      "category": "National Holiday",
+      "emoji": "🇰🇪",
+      "funFact": "Kenya's independence and republic anniversaries fall on the same date, so the day is often celebrated alongside Independence Day."
+    },
+    {
+      "name": "Day of Our Lady of Guadalupe",
+      "description": "A vibrant religious and cultural celebration in Mexico with pilgrimages, music, dancing, flowers, and traditional foods. Millions flock to the Basilica of Guadalupe in Mexico City.",
+      "origin": "The feast commemorates the 1531 apparitions of the Virgin Mary to Juan Diego on Tepeyac Hill, according to Catholic tradition.",
+      "category": "Cultural Observance",
+      "emoji": "🌹",
+      "funFact": "The Basilica of Guadalupe is among the most visited Catholic pilgrimage sites in the world."
     }
   ]
 }

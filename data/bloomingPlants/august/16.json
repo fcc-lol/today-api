@@ -4,55 +4,60 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun's movement. Sunflowers are native to North America and widely cultivated as ornamental plants and for seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "North America, cultivated worldwide",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals around a dark central disc packed with seeds. The heads track the sun when young, and the plant is grown widely for oil, seeds, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated in the United States, Ukraine, Russia, Argentina, and Europe",
       "colors": [
-        "yellow"
+        "Yellow",
+        "Gold",
+        "Orange",
+        "Brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their heads to face the sun during the day to maximize photosynthesis."
+      "funFact": "The flower head is made up of hundreds to thousands of tiny individual florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A striking perennial wildflower with bright red tubular flowers that attract hummingbirds. It prefers moist soils along streams and wetlands.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and Central North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray narrow leaves and slender spikes of small tubular flowers. Its blooms attract bees and butterflies and are harvested for essential oils, sachets, and cooking.",
+      "bloomingSeason": "Mid-summer, with peak bloom from June to August, lingering into late summer in cooler regions",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and Tasmania",
       "colors": [
-        "red"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "The bright red flowers of the cardinal flower are specifically adapted to attract hummingbirds, which are its primary pollinators."
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub native to the Mediterranean region, widely cultivated in warm climates. It blooms profusely with clusters of flowers in white, pink, red, or yellow hues.",
-      "bloomingSeason": "Late spring through fall, including August",
-      "location": "Mediterranean, subtropical regions, cultivated worldwide",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with drooping pink-purple petals around a spiky, copper-orange central cone. It is a favorite of pollinators and goldfinches, and is used in herbal remedies.",
+      "bloomingSeason": "Mid-summer to early fall (June to October)",
+      "location": "Native to the central and eastern United States prairies and open woodlands; widely cultivated in temperate gardens",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
+        "Purple",
+        "Pink",
+        "Orange",
+        "Bronze"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the oleander plant are poisonous if ingested, but it remains a popular ornamental plant due to its long blooming period and drought tolerance."
+      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A spectacular South African native shrub famed for its large, exotic flowers with spiky petals resembling a crown. It is the national flower of South Africa.",
-      "bloomingSeason": "June to October",
-      "location": "South Africa",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A spectacular evergreen shrub with large, rounded crimson flower heads surrounded by showy bracts. It blooms in the Southern Hemisphere's late winter and early spring, and is the floral emblem of New South Wales.",
+      "bloomingSeason": "Late winter to spring (August to November in the Southern Hemisphere)",
+      "location": "Native to the sandstone ridges and forests of southeastern Australia around Sydney and the Blue Mountains",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Crimson",
+        "Red",
+        "Pink"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea flower can grow up to 30 cm (12 inches) in diameter and is a symbol of change and hope."
+      "funFact": "Each 'flower' is actually a dense cluster of hundreds of tiny individual flowers, and its nectar-rich blooms are pollinated mainly by honeyeater birds."
     }
   ]
 }

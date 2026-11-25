@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Static Electricity Day",
-      "description": "A day to celebrate the fascinating phenomenon of static electricity—the tiny shocks and crackles you feel from rubbing certain materials!",
-      "origin": "Originating from scientific observations of static charges, this unofficial day encourages experiments with static electricity and awareness of its quirky effects.",
-      "category": "Science/Quirky",
-      "emoji": "⚡️",
-      "funFact": "Did you know that the first electric bell, invented in 1831, operated using principles of static electricity?"
-    },
-    {
-      "name": "Play God Day",
-      "description": "This delightfully unusual holiday invites you to imagine being an all-powerful deity, making big decisions about the universe or simply having fun with your god-like powers in games or storytelling.",
-      "origin": "Though not officially recognized, it emerged from creative communities craving a playful escape into omnipotence.",
-      "category": "Pop Culture/Fun",
-      "emoji": "👑",
-      "funFact": "Many classic video games and board games, like 'SimCity' and 'Black & White', let players 'play God' by controlling worlds and destinies."
+      "description": "A shocking day dedicated to the zaps, clingy socks, and hair-raising wonders of static electricity. Celebrate by rubbing a balloon on your head and sticking it to the wall.",
+      "origin": "Static electricity has been studied since ancient Greece, when Thales of Miletus rubbed amber with fur and noticed it attracted light objects. The day is an unofficial observance, popular in science circles and winter-weary households when dry air makes shocks most common.",
+      "category": "Science",
+      "emoji": "⚡",
+      "funFact": "The word 'electricity' comes from the Greek word 'elektron,' meaning amber, because amber was the first material observed to hold a static charge."
     },
     {
       "name": "National Apricot Day",
-      "description": "Celebrate the sweet, golden apricot, a fruit loved for its delicious flavor and nutritional benefits.",
-      "origin": "This food holiday encourages enjoying apricots fresh, dried, or in recipes to start the year with a tasty boost.",
+      "description": "A sweet-tart salute to the fuzzy orange fruit that is often overshadowed by peaches. Enjoy apricots fresh, dried, baked into pastries, or turned into jam.",
+      "origin": "This is an unofficial food observance celebrating the apricot, a fruit cultivated for thousands of years in Central Asia and China before spreading along trade routes to Persia, Armenia, and the Mediterranean.",
       "category": "Food",
       "emoji": "🍑",
-      "funFact": "Apricots have been grown for thousands of years and were cherished by ancient Romans, who called them 'praecocia', meaning 'early ripening'."
+      "funFact": "The apricot's scientific name, Prunus armeniaca, reflects the long-held belief that it originated in Armenia, though it likely first grew in Central Asia or China."
     },
     {
-      "name": "Identify Your Vices Day",
-      "description": "A quirky introspective day that encourages people to honestly identify their little habits and vices, whether it's binge-watching TV, snacking late at night, or any other guilty pleasure.",
-      "origin": "An unofficial, humorous day aimed at helping people laugh at themselves and perhaps consider healthier choices.",
-      "category": "Self-Improvement/Fun",
-      "emoji": "🍩",
-      "funFact": "Many world-famous artists and writers turned their 'vices' into creative fuel rather than sources of guilt."
+      "name": "Play God Day",
+      "description": "A tongue-in-cheek day for exercising your power to make small, benevolent decisions that improve the lives of others, like paying for someone's coffee or picking the movie for movie night.",
+      "origin": "Play God Day is a quirky unofficial observance that appears on lists of offbeat holidays. It is meant as a lighthearted invitation to use your influence for good rather than for smiting.",
+      "category": "Pop Culture",
+      "emoji": "🌩️",
+      "funFact": "Many quirky holiday calendars mark it as a day to be generous and kind, so the most 'godlike' thing you can do is surprise a stranger with a good deed."
+    },
+    {
+      "name": "National Law Enforcement Appreciation Day",
+      "description": "A day to thank police officers and other law enforcement personnel for their service, often with cards, baked goods, and the occasional box of donuts.",
+      "origin": "Observed in the United States since 2015, when a coalition of national police organizations and supporters backed a day of public gratitude for officers. It takes place every January 9.",
+      "category": "Awareness Day",
+      "emoji": "👮",
+      "funFact": "The popular stereotype of cops and donuts partly traces back to the 1950s, when donut shops were among the few businesses open late at night and became natural gathering spots for patrol officers."
+    },
+    {
+      "name": "Cut Your Energy Costs Day",
+      "description": "A practical but oddly cheerful day for hunting down drafty windows, unplugging idle gadgets, and bullying your thermostat into submission.",
+      "origin": "This is an unofficial observance placed in the heart of winter, when heating bills tend to arrive like unwelcome guests after the holiday spending spree.",
+      "category": "Lifestyle",
+      "emoji": "💡",
+      "funFact": "Electronics left plugged in can keep drawing power even when switched off, a phenomenon nicknamed 'vampire power' or 'phantom load.'"
     }
   ]
 }

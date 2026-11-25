@@ -2,60 +2,61 @@
   "date": "October 13",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial or biennial native to North America, Black-eyed Susan features bright yellow, daisy-like petals with a dark brown central cone. It thrives in wild meadows and gardens alike, often blooming into autumn.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and Central North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that produces goblet-shaped, crocus-like flowers directly from the ground in autumn, long after its broad strap-like leaves have withered in early summer. The leafless blooms appear to emerge from bare soil.",
+      "bloomingSeason": "Autumn (September to October in the Northern Hemisphere)",
+      "location": "Meadows and woodland edges of Europe, widely cultivated in gardens in temperate regions",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Purple"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are named for their distinctive dark centers resembling a pupil surrounded by yellow petals."
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxin that is also used by plant breeders to induce chromosome doubling and in medicine to treat gout."
     },
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "Widely cultivated for its stunning flower diversity, Garden Chrysanthemum blooms in autumn with vibrant flowers ranging from white to red, pink, and yellow. It is a traditional flower of fall gardens in temperate zones worldwide.",
-      "bloomingSeason": "September to November",
-      "location": "Worldwide cultivation, originally native to East Asia",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust perennial with hairy stems and dense clusters of daisy-like flower heads with golden-yellow centers and many narrow ray petals. It is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Prairies, meadows and roadsides of eastern and central North America",
       "colors": [
-        "white",
-        "yellow",
-        "red",
-        "pink",
-        "orange"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Magenta"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are often associated with autumn festivals and are symbols of longevity and rejuvenation in many Asian cultures."
+      "funFact": "Monarch butterflies rely heavily on its nectar to fuel their long migration to Mexico during October."
     },
     {
-      "name": "Fuchsia magellanica",
-      "commonName": "Hummingbird Fuchsia",
-      "description": "This semi-evergreen shrub produces exotic, pendulous flowers in shades of pink, purple, and red, attracting hummingbirds. Blooming often extends into late autumn especially in mild coastal climates.",
-      "bloomingSeason": "Late summer to October (sometimes longer in mild climates)",
-      "location": "Southern South America (wild), widely cultivated in temperate regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A graceful, semi-deciduous tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers, often before leaves fully emerge. Streets and parks are carpeted with fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; planted widely in South Africa (Pretoria), Australia (Sydney, Brisbane) and Argentina",
       "colors": [
-        "pink",
-        "purple",
-        "red"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Hummingbird Fuchsia is named for its main pollinators—hummingbirds—drawn by its bright colors and nectar."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, which is known as the Jacaranda City, there are roughly 70,000 jacaranda trees, and a folk belief says a falling blossom on your head brings good luck."
     },
     {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen",
-      "description": "A bulbous perennial that flowers from late summer through autumn, Cyclamen hederifolium has distinctive upswept pink or white flowers and beautifully variegated ivy-shaped leaves. It's found naturally in woodland and rocky areas around the Mediterranean basin.",
-      "bloomingSeason": "September to November",
-      "location": "Mediterranean region",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with feathery foliage and saucer-shaped daisy-like flowers on slender stems. It thrives in sun and poor soil, blooming prolifically until the first frost.",
+      "bloomingSeason": "Summer to first frost (July to October in temperate Northern Hemisphere)",
+      "location": "Native to Mexico; cultivated and naturalized across North America, Europe and Asia",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "Cyclamen tubers were historically used in folk medicine but can be toxic if eaten."
+      "funFact": "Cosmos comes from the Greek word 'kosmos' meaning order or harmony, a name given by Spanish priests who grew them in mission gardens in Mexico."
     }
   ]
 }

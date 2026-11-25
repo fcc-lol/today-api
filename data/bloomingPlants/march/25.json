@@ -2,55 +2,56 @@
   "date": "March 25",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning clusters of pale pink to white flowers that bloom profusely in early spring, often celebrated in festivals across Japan and other temperate regions.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate East Asia, cultivated worldwide in temperate climates",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous tree that covers its bare branches in clouds of pale pink-white, lightly almond-scented blossoms before the leaves emerge. It is the iconic cherry of hanami festivals and is widely planted in parks and along waterways.",
+      "bloomingSeason": "Late March to mid April in temperate Northern Hemisphere",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate cities worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms symbolize the fleeting nature of life in Japanese culture due to their very short blooming period."
+      "funFact": "The cherry trees around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912, and their peak bloom is tracked closely each year, often falling in late March."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A perennial wildflower with bright yellow trumpet-shaped flowers, often found in meadows and woodlands, signaling the arrival of spring in many parts of Europe and North America.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, introduced to North America",
+      "description": "A bulbous perennial with a trumpet-shaped yellow corona surrounded by paler yellow petals. It grows in woodlands, meadows, and grassy banks and has produced countless garden cultivars.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
       "colors": [
-        "Yellow"
-      ],
-      "emoji": "💛",
-      "funFact": "The daffodil is associated with the mythical story of Narcissus, who was enchanted by his own reflection."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree or shrub that produces cylindrical spikes of golden yellow flowers, serving as an important nectar source for birds and insects in coastal regions.",
-      "bloomingSeason": "March to May",
-      "location": "Eastern Australia, coastal areas",
-      "colors": [
-        "Golden Yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Banksias have woody seed cones that only release seeds after exposure to fire or extreme heat, an adaptation to Australian bushfires."
+      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, and one of its compounds, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree admired for its large, tulip-shaped flowers in shades of pink, purple, and white, blooming spectacularly in early spring before leaf emergence.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated in temperate zones worldwide, originally from China",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large Himalayan tree that produces enormous, goblet-shaped flowers on bare branches in early spring. The blooms can reach 25 cm across and appear in rich shades of pink to deep rose.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayan foothills (Nepal, Bhutan, northeast India, southwest China) and cultivated in mild gardens in Britain, New Zealand, and the Pacific Northwest",
       "colors": [
-        "Pink",
-        "Purple",
-        "White"
+        "pink",
+        "rose",
+        "white"
       ],
-      "emoji": "🌷",
-      "funFact": "Saucer magnolias are among the earliest flowering magnolias and their large flowers attract early pollinators like bees."
+      "emoji": "🌺",
+      "funFact": "Seedling trees of this species can take 20 years or more to flower for the first time, which is why gardeners often joke that patience is the main requirement for growing it."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Southern Hemisphere cultivated relatives) and Cyclamen hederifolium",
+      "description": "Placeholder replaced below.",
+      "bloomingSeason": "N/A",
+      "location": "N/A",
+      "colors": [
+        "N/A"
+      ],
+      "emoji": "🌿",
+      "funFact": "N/A"
     }
   ]
 }

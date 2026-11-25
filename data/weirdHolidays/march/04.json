@@ -2,36 +2,44 @@
   "date": "March 4",
   "holidays": [
     {
-      "name": "March Fourth Movement Day",
-      "description": "Commemorates the student-led protest in China in 1919 against the Treaty of Versailles' decision to transfer German-held Chinese territories to Japan, sparking nationalism and political activism.",
-      "origin": "China, 1919",
-      "category": "Historical Awareness",
-      "emoji": "✊",
-      "funFact": "The March Fourth Movement inspired later influential political movements in China, including the May Fourth Movement, which was pivotal in modern Chinese history."
-    },
-    {
       "name": "National Grammar Day",
-      "description": "A day to celebrate and promote the importance of good grammar, punctuation, and clear writing—because proper commas save lives!",
-      "origin": "Started by Martha Brockenbrough and the Society for the Promotion of Good Grammar in 2008",
-      "category": "Language & Literacy",
-      "emoji": "📚",
-      "funFact": "The hashtag #NationalGrammarDay trends annually as grammar enthusiasts share humorous grammar fails and tips."
+      "description": "A day for word nerds to celebrate proper punctuation, dangling modifiers, and the Oxford comma. It is the only holiday that doubles as a command: March forth on March 4th!",
+      "origin": "Founded in 2008 by Martha Brockenbrough, who also founded the Society for the Promotion of Good Grammar. The date was chosen because March 4 sounds like a command to 'march forth' and speak well.",
+      "category": "Awareness Day",
+      "emoji": "📝",
+      "funFact": "Brockenbrough's society has been known to give out 'Grammar Hero' recognition, and the day has inspired countless social media debates about the Oxford comma."
     },
     {
-      "name": "Frozen Food Day",
-      "description": "A frozen tribute to the convenience and innovation of food preservation, celebrating the magic of freezing to keep meals fresh and ready!",
-      "origin": "Unofficial food holiday in the United States, recognized to honor Clarence Birdseye's frozen food process",
-      "category": "Food & Drink",
-      "emoji": "❄️🍽️",
-      "funFact": "Clarence Birdseye’s invention of flash freezing in the 1920s revolutionized how people eat, making frozen food a kitchen staple worldwide."
+      "name": "National Pound Cake Day",
+      "description": "A buttery tribute to the dense, golden dessert that is sliced thick and served with berries, whipped cream, or a quiet sense of triumph.",
+      "origin": "A food holiday of unofficial origin, celebrating a cake whose name comes from its original recipe: one pound each of butter, sugar, eggs, and flour. The recipe dates back to 18th-century Europe.",
+      "category": "Food Day",
+      "emoji": "🍰",
+      "funFact": "The original recipe was so simple that it was easy to remember for bakers who couldn't read, and it made a gigantic cake that fed a crowd."
     },
     {
-      "name": "March 4th Be With You Day",
-      "description": "A quirky pop culture nod to the iconic line from Star Wars 'May the Force be with you.' Since March 4th sounds like 'May the Force,' fans celebrate early!",
-      "origin": "Unofficial fan-created celebration inspired by the Star Wars fandom",
-      "category": "Pop Culture",
-      "emoji": "🌌✨",
-      "funFact": "Star Wars fans use March 4th to show off early Jedi costumes and share memes before the more famous May 4th 'Star Wars Day.'"
+      "name": "Hug a GI Day",
+      "description": "A day to thank members of the military by giving them a hug, a handshake, or a heartfelt thank you, while also reminding everyone that service members are people, too.",
+      "origin": "An informal observance in the United States created to encourage appreciation for service members. It is celebrated by individuals and community groups rather than any official proclamation.",
+      "category": "Appreciation Day",
+      "emoji": "🫂",
+      "funFact": "The term 'GI' originally stood for 'galvanized iron,' used to describe military trash cans, before it became shorthand for 'government issue' and then for soldiers themselves."
+    },
+    {
+      "name": "World Day of Engineering for Sustainable Development",
+      "description": "A global celebration of engineers who solve the world's biggest problems, from clean water to green energy, often while being told 'it's just a small bridge.'",
+      "origin": "Proclaimed by UNESCO in 2019 to highlight the role of engineering in achieving the UN Sustainable Development Goals. It is observed annually on March 4.",
+      "category": "International Observance",
+      "emoji": "⚙️",
+      "funFact": "UNESCO notes that engineering is behind almost every technology we use, yet fewer than one in three engineering students worldwide are women, which the day aims to change."
+    },
+    {
+      "name": "Courageous Conversations Global Day",
+      "description": "A day dedicated to having the tough chats everyone avoids, whether about feelings, boundaries, or who really ate the last slice of pound cake.",
+      "origin": "Started as an awareness observance encouraging people to speak honestly and respectfully about difficult topics like race, mental health, and workplace issues, and it spread through social media and community organizations.",
+      "category": "Awareness Day",
+      "emoji": "🗣️",
+      "funFact": "Psychologists say most people overestimate how bad a hard conversation will go, so the day is basically a nudge to rip off the conversational Band-Aid."
     }
   ]
 }

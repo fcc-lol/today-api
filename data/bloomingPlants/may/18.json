@@ -2,59 +2,61 @@
   "date": "May 18",
   "plants": [
     {
-      "name": "Digitalis purpurea",
-      "commonName": "Common Foxglove",
-      "description": "A tall biennial herbaceous plant known for its tubular, bell-shaped flowers that are typically purple with spotted throats. It is often found in woodlands and open meadows.",
-      "bloomingSeason": "May to June",
-      "location": "Europe, naturalized in North America",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to double flowers atop sturdy stems with deeply lobed dark green foliage. A beloved cut flower and garden staple in temperate climates.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated across temperate North America, Europe, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "red",
+        "coral"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peonies can live and bloom for over 100 years, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
+    },
+    {
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub with dense, conical clusters of intensely fragrant tubular flowers and heart-shaped leaves. Peak bloom in many northern regions occurs in mid-May.",
+      "bloomingSeason": "Mid to late spring (April to late May depending on latitude)",
+      "location": "Native to the Balkan Peninsula in southeastern Europe; cultivated throughout cool temperate regions of North America, Europe, and northern Asia",
       "colors": [
         "purple",
+        "lavender",
+        "white",
+        "pink"
+      ],
+      "emoji": "💜",
+      "funFact": "Lilac is in the olive family (Oleaceae), making it a relative of jasmine and ash trees, and its scent is a classic ingredient in perfumery."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small understory tree whose pea-like magenta-pink flowers burst directly from bare branches and trunks, followed by heart-shaped leaves. In cooler northern parts of its range, blooms can linger into mid-May.",
+      "bloomingSeason": "Early to late spring (March to May)",
+      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
+      "colors": [
+        "magenta",
         "pink",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Foxglove flowers are important for pollinators like bees, who crawl inside the tubular flowers to gather nectar."
-    },
-    {
-      "name": "Lagerstroemia indica",
-      "commonName": "Crape Myrtle",
-      "description": "A deciduous tree or shrub famous for its long summer blooming period and crinkly, crepe-like petals. It thrives in warm climates and is popular in urban landscapes.",
-      "bloomingSeason": "Late spring through summer (May to September)",
-      "location": "Native to Southeast Asia, widely cultivated in the southern United States and other warm temperate to tropical regions",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "The crape myrtle’s bark exfoliates year-round, giving the tree a mottled, multicolored trunk."
-    },
-    {
-      "name": "Rhododendron macrophyllum",
-      "commonName": "Pacific Rhododendron",
-      "description": "An evergreen shrub with large clusters of pink to purple fragrant flowers, native to the Pacific Northwest. It prefers moist, acidic soils in forested areas.",
-      "bloomingSeason": "April to June",
-      "location": "Pacific Northwest, North America",
-      "colors": [
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "Rhododendron macrophyllum is the state flower of Washington state."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mild tangy flavor; they are sometimes added to salads, and the trees are a flowering example of cauliflory, producing blooms directly on old wood."
     },
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "A deciduous tree known for its stunning display of delicate, trumpet-shaped purple flowers appearing in spring to early summer, often lining streets and parks in warm climates.",
-      "bloomingSeason": "April to June (varies with location)",
-      "location": "Native to South America, widely planted in Australia, South Africa, and southern USA",
+      "commonName": "Jacaranda",
+      "description": "A tall, semi-deciduous tree with fern-like leaves and spectacular clouds of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, such as parts of southern California, Mexico, and the Mediterranean, it begins flowering in late spring.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in California, Mexico, Florida, the Mediterranean, Africa, and Australia",
       "colors": [
-        "purple",
-        "blue"
+        "lavender",
+        "blue-purple"
       ],
-      "emoji": "💜",
-      "funFact": "Jacaranda flowers carpet the ground when they fall, creating vivid purple carpets beneath the trees."
+      "emoji": "💐",
+      "funFact": "Fallen jacaranda blossoms create purple carpets beneath the trees, and in Pretoria, South Africa, the city is nicknamed the Jacaranda City because of its tens of thousands of trees."
     }
   ]
 }

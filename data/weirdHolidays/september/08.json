@@ -2,36 +2,44 @@
   "date": "September 8",
   "holidays": [
     {
-      "name": "International Literacy Day 📚",
-      "description": "A day to celebrate the importance of literacy as a matter of dignity and human rights.",
-      "origin": "Established by UNESCO in 1966 to raise awareness about illiteracy around the world.",
+      "name": "International Literacy Day",
+      "description": "A day to celebrate the magic of reading and to remind everyone that being able to read a cereal box, a treasure map, or a bizarre holiday list is a superpower worth protecting.",
+      "origin": "Proclaimed by UNESCO in 1965 and first celebrated in 1966 to highlight the importance of literacy as a matter of dignity and human rights.",
       "category": "Awareness Day",
       "emoji": "📚",
-      "funFact": "Despite its serious theme, some communities hold quirky 'read-a-thons' dressed as their favorite book characters to make literacy fun!"
+      "funFact": "The first International Literacy Day was celebrated in 1967, and UNESCO awards literacy prizes each year in connection with the observance."
     },
     {
-      "name": "National Ampersand Day &",
-      "description": "A celebration of the humble ampersand (&) symbol, honoring its quirky charm and historical importance in written language.",
-      "origin": "Originated informally among typophiles and graphic designers appreciating this unique character.",
-      "category": "Pop Culture/Letter Appreciation",
-      "emoji": "&",
-      "funFact": "The ampersand was originally a ligature of the letters 'e' and 't' (Latin for 'and'), making it literally a blend of two letters!"
+      "name": "Pardon Day",
+      "description": "A day dedicated to forgiveness, second chances, and wiping the slate clean, especially for political figures who might have gotten into a bit of a pickle.",
+      "origin": "It marks the anniversary of September 8, 1974, when President Gerald Ford granted a full pardon to Richard Nixon for any crimes he may have committed while in office.",
+      "category": "Historical Observance",
+      "emoji": "🕊️",
+      "funFact": "Ford's pardon came just one month after Nixon resigned, and it was so controversial that many historians believe it hurt Ford in the 1976 election."
     },
     {
-      "name": "No Rhyme (Nor Reason) Day 🤪",
-      "description": "A day to embrace silliness and do things without rhyme or reason, breaking free from logic and routine.",
-      "origin": "Began as a lighthearted internet meme turned unofficial holiday encouraging quirky spontaneity.",
-      "category": "Quirky/Fun",
-      "emoji": "🤪",
-      "funFact": "People often try to speak in nonsensical rhymes or tell bizarre stories that make absolutely no sense at all on this day!"
+      "name": "Star Trek Day",
+      "description": "Trekkies and casual sci-fi fans alike boldly go into celebration mode, binge-watching episodes, quoting Spock, and perhaps dressing in red shirts (at their own risk).",
+      "origin": "Star Trek premiered on NBC on September 8, 1966, and the date has been celebrated by fans and the franchise ever since, with official recognition from Paramount in recent years.",
+      "category": "Pop Culture",
+      "emoji": "🖖",
+      "funFact": "The original series was canceled after three seasons, yet it grew into a multi-billion-dollar franchise with numerous spin-offs and movies."
     },
     {
-      "name": "Salami Day 🥪",
-      "description": "A delicious day dedicated to celebrating salami, the cured sausage beloved worldwide.",
-      "origin": "Unofficial food holiday from the US food enthusiast community, spotlighting versatile deli meats.",
-      "category": "Food Holiday",
-      "emoji": "🥪",
-      "funFact": "Salami is derived from the Italian word 'salare,' meaning 'to salt,' and this day often inspires creative sandwich recipes featuring the spicy sausage!"
+      "name": "National Date Nut Bread Day",
+      "description": "A day to enjoy a slice of sweet, dense, nutty bread, ideally slathered with cream cheese or butter, and to ponder why dates and nuts have such a loyal following.",
+      "origin": "Date nut bread became a popular American treat in the early 20th century, and this unofficial food holiday emerged to honor the humble loaf.",
+      "category": "Food Day",
+      "emoji": "🍞",
+      "funFact": "A classic date nut bread sandwich with cream cheese was once a famous lunch-counter staple at Woolworth's in the mid-20th century."
+    },
+    {
+      "name": "Ocean's Day... of Sailors? Not Quite: International Day of Sports for Dry-Land Fishermen? No: National Ampersand Day",
+      "description": "A celebration of the humble & symbol, a typographic character that is a bit of a rebel, showing up in company names, wedding invitations, and your fanciest fonts.",
+      "origin": "An unofficial observance created by typography fans to honor the ampersand, which dates back to ancient Rome, where scribes merged the letters E and T of the Latin word 'et'.",
+      "category": "Language & Typography",
+      "emoji": "✍️",
+      "funFact": "The ampersand was once the 27th letter of the English alphabet, and the name comes from schoolchildren reciting 'and per se and.'"
     }
   ]
 }

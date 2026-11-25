@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Find a Rainbow Day",
-      "description": "A whimsical day encouraging people to look for rainbows, whether after a spring shower or through a prism. It's a cheerful celebration of color and wonder!",
-      "origin": "While its exact origin is unclear, the day has grown in popularity online as a way to spark joy and optimism.",
-      "category": "Nature/Celebration",
+      "description": "A day dedicated to looking up, chasing a little sunshine through the rain, and spotting a rainbow wherever one may be hiding. Pots of gold are optional, but smiles are encouraged.",
+      "origin": "Find a Rainbow Day is an unofficial observance that appears on quirky holiday calendars, tied to the early spring showers that make rainbows more likely in many places.",
+      "category": "Nature / Feel-Good",
       "emoji": "🌈",
-      "funFact": "Rainbows are actually full circles, but usually we only see an arc due to the ground blocking the rest!"
+      "funFact": "Every rainbow is actually a full circle, but from the ground the horizon cuts off the bottom half. From an airplane you can sometimes see the whole thing."
+    },
+    {
+      "name": "Tweed Day",
+      "description": "A celebration of the sturdy, scratchy, wonderfully dapper woolen fabric. Fans are encouraged to dust off their tweed jackets, flat caps, and waistcoats and channel their inner countryside professor.",
+      "origin": "Tweed Day is a fashion observance that honors Scotland's rich textile history. Tweed is traditionally associated with the Scottish Borders and the River Tweed, and Harris Tweed is a protected product.",
+      "category": "Fashion / Culture",
+      "emoji": "🧥",
+      "funFact": "The name 'tweed' is often said to come from a misreading of the Scots word 'tweel' (twill) as 'tweed,' possibly influenced by the River Tweed."
     },
     {
       "name": "World Party Day",
-      "description": "A global event where people are encouraged to throw a party and celebrate joy, unity, and positivity everywhere.",
-      "origin": "Conceived by Shashi Sinha in 1997 to create a worldwide day of happiness through parties.",
-      "category": "Social/Cultural",
+      "description": "A global excuse to throw a party, with the only requirement being that you celebrate. Balloons, snacks, and dancing in the kitchen all count as valid participation.",
+      "origin": "World Party Day is an unofficial observance that began as a way to encourage people to come together and celebrate life with friends, family, and neighbors on the same day.",
+      "category": "Social / Party",
       "emoji": "🎉",
-      "funFact": "Since its inception, World Party Day has inspired thousands of parties across over 25 countries simultaneously!"
+      "funFact": "The word 'party' comes from the Old French 'partie,' meaning a part or group, which originally referred to a group of people taking one side of a matter."
     },
     {
-      "name": "Tweezers Day",
-      "description": "A quirky day dedicated to the handy tool we use for plucking and grooming, celebrating its precision and odd history.",
-      "origin": "Unclear, but tied to appreciation of this little tool’s usefulness in beauty and science.",
-      "category": "Tool Appreciation",
-      "emoji": "🔧",
-      "funFact": "The first known tweezers date back to 3000 BC and were found in Mesopotamian archeological sites!"
+      "name": "Don't Go to Work Unless It's Fun Day",
+      "description": "A cheeky holiday that encourages people to ditch the grind unless their job sparks joy. It's a day to think about whether work is fun, and if not, how to make it so.",
+      "origin": "This tongue-in-cheek observance comes from the world of unofficial holidays, promoting a lighthearted reminder to find joy in your profession.",
+      "category": "Workplace / Humor",
+      "emoji": "💼",
+      "funFact": "Studies on workplace happiness regularly find that people who report having a close friend at work are more engaged and more likely to enjoy their job."
     },
     {
       "name": "National Chocolate Mousse Day",
-      "description": "A deliciously decadent day to enjoy the rich, airy French dessert that melts in your mouth and delights your taste buds.",
-      "origin": "Celebrated in the United States to honor the classic chocolate mousse dessert.",
+      "description": "A day to indulge in the airy, silky, spoonable dessert that makes you feel fancy even when you eat it straight out of the fridge at midnight.",
+      "origin": "A food holiday honoring the French dessert, whose name means 'foam' or 'lather' in French. The modern version is often credited to 18th and 19th century French cooking traditions.",
       "category": "Food",
       "emoji": "🍫",
-      "funFact": "Despite its name meaning 'foam' in French, chocolate mousse was originally both a savory and sweet dish!"
+      "funFact": "Some historians credit the painter Henri de Toulouse-Lautrec with popularizing a 'mayonnaise of chocolate' in the 1890s, a precursor to modern mousse."
     }
   ]
 }

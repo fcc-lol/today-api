@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1455,
-      "title": "Start of the Wars of the Roses",
-      "description": "The First Battle of St Albans marks the beginning of the Wars of the Roses in England, a series of civil wars for control of the throne between the houses of Lancaster and York.",
-      "category": "War",
-      "significance": "This battle initiated decades of dynastic conflict shaping English history and monarchy."
+      "title": "First Battle of St Albans",
+      "description": "Richard, Duke of York, and his allies defeated the forces of King Henry VI at St Albans in England, killing several leading Lancastrian nobles, including the Duke of Somerset.",
+      "category": "Military",
+      "significance": "Often considered the opening battle of the Wars of the Roses, the dynastic conflict between the houses of Lancaster and York that reshaped English politics for three decades."
     },
     {
-      "year": 1807,
-      "title": "Abolition of the British Slave Trade",
-      "description": "The British Parliament passes the Slave Trade Act 1807, abolishing the transatlantic slave trade within the British Empire.",
-      "category": "Legislation",
-      "significance": "This marked a major step towards ending slavery and influenced abolition movements worldwide."
+      "year": 1859,
+      "title": "Birth of Sir Arthur Conan Doyle",
+      "description": "Arthur Conan Doyle was born in Edinburgh, Scotland. A physician by training, he went on to write the Sherlock Holmes stories, first appearing in 1887.",
+      "category": "Birth",
+      "significance": "His creation of Sherlock Holmes shaped modern detective fiction and established conventions of the genre that endure today."
     },
     {
-      "year": 1846,
-      "title": "The Oregon Treaty Signed",
-      "description": "The United States and United Kingdom sign the Oregon Treaty, peacefully settling the Oregon boundary dispute by establishing the 49th parallel as the border between U.S. and British territories in the Pacific Northwest.",
-      "category": "Diplomacy",
-      "significance": "The treaty helped avoid war and shaped the present-day U.S.-Canada border in that region."
+      "year": 1906,
+      "title": "Wright Brothers Granted Patent for Flying Machine",
+      "description": "The U.S. Patent Office issued patent No. 821,393 to Orville and Wilbur Wright for their flying machine, which covered their system of aerodynamic control using wing warping and a rudder.",
+      "category": "Science and Technology",
+      "significance": "The patent recognized the Wrights' key innovations in controlled flight and became the basis of long legal battles over early aviation technology."
     },
     {
-      "year": 1990,
-      "title": "Man Walks on the Moon for the Last Time",
-      "description": "NASA astronaut Eugene Cernan, commander of Apollo 17, becomes the last person to walk on the Moon as the Apollo program concludes.",
-      "category": "Space Exploration",
-      "significance": "This event marked the end of an era in lunar exploration that inspired science and technology worldwide."
+      "year": 1960,
+      "title": "Valdivia Earthquake in Chile",
+      "description": "The most powerful earthquake ever recorded, with a magnitude of about 9.5, struck near Valdivia in southern Chile, triggering tsunamis that crossed the Pacific and hit Hawaii, Japan, and the Philippines.",
+      "category": "Natural Disaster",
+      "significance": "It killed thousands of people, left millions homeless, and led to improved tsunami warning systems and advances in seismology."
+    },
+    {
+      "year": 1972,
+      "title": "Ceylon Becomes the Republic of Sri Lanka",
+      "description": "Ceylon adopted a new constitution, severed its remaining constitutional ties to the British monarchy, and was renamed Sri Lanka, with a president as head of state.",
+      "category": "Politics",
+      "significance": "The change marked the full break from colonial-era status and reflected rising nationalism, though it also deepened tensions that contributed to later ethnic conflict."
     }
   ]
 }

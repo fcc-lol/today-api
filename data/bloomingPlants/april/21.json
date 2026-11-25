@@ -2,59 +2,64 @@
   "date": "April 21",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous cherry tree famous for its spectacular pink to white blossoms that herald spring in many temperate regions. These trees are often celebrated during hanami festivals in Japan and bloom briefly in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of Japan, Korea, China, and cultivated worldwide in temperate climates",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on upright stems above blue-green strap-like leaves. Hundreds of cultivars exist, ranging from single early types to fringed, parrot, and double forms. It peaks in the Northern Hemisphere in mid to late April.",
+      "bloomingSeason": "Early to late spring (March to May)",
+      "location": "Temperate Northern Hemisphere gardens, especially the Netherlands, northern Europe, and North America; native to Central Asia",
       "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "The transient nature of cherry blossoms — which last only about one week — symbolizes the fleeting beauty of life in Japanese culture."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub native to the Mediterranean, known for its abundant and long-lasting clusters of frilly flowers. It thrives in warm climates and blooms in late spring to summer but can start blooming as early as April in mild areas.",
-      "bloomingSeason": "April to October",
-      "location": "Mediterranean region, southern USA, and subtropical climates worldwide",
-      "colors": [
+        "red",
+        "yellow",
         "pink",
         "white",
-        "red",
-        "yellow"
+        "purple",
+        "orange"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could cost more than a luxurious canal house in Amsterdam."
     },
     {
-      "name": "Erythronium dens-canis",
-      "commonName": "Dog's Tooth Violet",
-      "description": "A perennial wildflower found in temperate European woodlands, famous for its delicate nodding flowers and mottled leaves. It blooms in early to mid-spring, often carpeting forest floors with purple, pink, or white flowers.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate woodlands of Europe",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like flowers appear directly on bare branches and even on the trunk before the heart-shaped leaves emerge. It is a favorite of early-season pollinators and a classic sign of spring in woodlands and gardens.",
+      "bloomingSeason": "Mid spring (late March to late April)",
+      "location": "Eastern and central United States, southern Ontario, and northern Mexico; widely planted elsewhere",
       "colors": [
-        "purple",
+        "magenta",
         "pink",
-        "white"
+        "lavender"
+      ],
+      "emoji": "🌸",
+      "funFact": "Redbud flowers are edible and have a mild, tangy flavor, and they're often added to salads or used as a garnish."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous, twining woody vine producing long, pendulous racemes of fragrant, pea-like flowers that open all at once before the leaves fully develop. It is often trained over pergolas, arbors, and walls and can live for decades.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Native to China; cultivated in Japan, Europe, and the United States",
+      "colors": [
+        "lavender",
+        "violet",
+        "blue",
+        "purple"
       ],
       "emoji": "💜",
-      "funFact": "The name \"dog's tooth\" comes from the sharp, tooth-like shape of its bulb."
+      "funFact": "Chinese wisteria twines counterclockwise, while Japanese wisteria (Wisteria floribunda) twines clockwise, which helps tell them apart even without flowers."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "A large evergreen shrub or small tree native to the Himalayas, known for its spectacular, large clusters of bright red to pink flowers. It blooms in spring and is the national flower of Nepal.",
-      "bloomingSeason": "April to June",
-      "location": "Himalayan region",
+      "name": "Nemophila menziesii",
+      "commonName": "Baby Blue Eyes",
+      "description": "A low-growing annual wildflower with delicate, bowl-shaped sky-blue flowers that have white centers and tiny dark speckles. It carpets grasslands and open hillsides during good rainfall years and is also grown in gardens and rock gardens.",
+      "bloomingSeason": "Late winter to late spring (February to May)",
+      "location": "California and Baja California; naturalized in parts of Japan and Europe where it is cultivated en masse",
       "colors": [
-        "red",
-        "pink"
+        "sky blue",
+        "white",
+        "violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Rhododendrons contain compounds used in traditional medicine, but some species are toxic to livestock."
+      "emoji": "🌼",
+      "funFact": "At Hitachi Seaside Park in Japan, millions of baby blue eyes bloom in late April, turning entire hills into a sea of blue."
     }
   ]
 }

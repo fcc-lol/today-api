@@ -2,59 +2,61 @@
   "date": "April 14",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree known for its spectacular springtime display of delicate pink or white flowers. It is especially celebrated in Japan during the sakura season and is widely cultivated in temperate regions worldwide.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, East Asia, temperate zones worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of delicate, fragrant blossoms that appear before the leaves emerge. It is among the most widely planted flowering cherries in temperate parks and along waterways.",
+      "bloomingSeason": "Late March to mid-April in Japan's central regions and the mid-Atlantic United States; later in cooler northern areas",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms typically bloom for only about one to two weeks, creating a fleeting but magnificent floral show."
+      "funFact": "The cherry blossom forecast is a national news event in Japan, and the trees planted around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular ornamental tree with large, tulip-shaped flowers that appear before the leaves. The blooms come in shades ranging from white to deep pink and purple, often with a fragrant aroma.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China but widely cultivated in temperate gardens globally",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green leaves. Thousands of cultivars exist, and mid-April is peak display season in temperate gardens.",
+      "bloomingSeason": "Mid-spring, peaking in April in the Northern Hemisphere",
+      "location": "Netherlands, Turkey, Central Asia origins; cultivated across Europe and North America",
       "colors": [
-        "White",
-        "Pink",
-        "Purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Magnolias have ancient origins and are among the earliest flowering plants, predating bees; they were likely pollinated by beetles."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that produces clusters of fragrant flowers in a variety of colors including pink, red, white, and yellow. Often found in Mediterranean climates and warm regions.",
-      "bloomingSeason": "April to October",
-      "location": "Mediterranean region, subtropical and tropical areas worldwide",
-      "colors": [
-        "Pink",
         "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
         "White",
-        "Yellow"
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could cost more than a luxurious canal house."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "A low-growing annual or short-lived perennial with silky, cup-shaped flowers and feathery blue-green foliage. Flowers close at night and in cloudy weather, and open in full sun.",
+      "bloomingSeason": "Early spring to early summer, with spectacular 'superblooms' in April in wet years",
+      "location": "California, Oregon, and the southwestern United States; naturalized in Chile, Australia, and Europe",
+      "colors": [
+        "Orange",
+        "Yellow",
+        "Cream"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of oleander are toxic if ingested, yet it has been used historically in traditional medicine and continues to be popular as an ornamental shrub."
+      "funFact": "It is the official state flower of California, and its blooms carpet entire hillsides like the Antelope Valley in spring."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree with cylindrical flower spikes composed of numerous small flowers, appearing in shades of yellow and green. Flowers attract birds and insects with their nectar.",
-      "bloomingSeason": "March to June",
-      "location": "Eastern Australia coastal regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large semi-deciduous tree producing masses of trumpet-shaped lavender-blue flowers in panicles, with fern-like foliage. In the Southern Hemisphere it is mostly a spring bloomer, but in some tropical and subtropical areas flowering can occur at varied times.",
+      "bloomingSeason": "Tropical and subtropical regions flower variably from spring through early summer; some trees bloom in April in warm northern locations such as parts of India",
+      "location": "Native to South America (Argentina, Bolivia); cultivated in India, Africa, Australia, and the southern U.S.",
       "colors": [
-        "Yellow",
-        "Green"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers are rich in nectar and were traditionally used by Indigenous Australians as a sweet treat."
+      "emoji": "💜",
+      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in Pretoria, South Africa, the tree is so abundant the city is nicknamed 'Jacaranda City'."
     }
   ]
 }

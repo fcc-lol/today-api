@@ -2,32 +2,39 @@
   "date": "March 16",
   "events": [
     {
-      "year": 1751,
-      "title": "Publication of the First Issue of Encyclopédie",
-      "description": "The first volume of the Encyclopédie, edited by Denis Diderot and Jean le Rond d'Alembert, was published in France.",
-      "category": "Culture and Science",
-      "significance": "This work was a landmark in the Enlightenment, aiming to gather and disseminate knowledge widely and promote intellectual interchange."
+      "year": 1521,
+      "title": "Magellan Reaches the Philippines",
+      "description": "Ferdinand Magellan's Spanish expedition sighted the island of Samar in the Philippines during its attempt to circumnavigate the globe, landing the next day on the nearby island of Homonhon.",
+      "category": "Exploration",
+      "significance": "This marked the first European arrival in the Philippines and was a key milestone in the first circumnavigation of the Earth, leading to centuries of Spanish colonial presence in the archipelago."
     },
     {
       "year": 1802,
       "title": "United States Military Academy Established",
-      "description": "President Thomas Jefferson signed the act establishing the United States Military Academy at West Point, New York.",
+      "description": "President Thomas Jefferson signed legislation establishing the United States Military Academy at West Point, New York.",
       "category": "Military and Education",
-      "significance": "West Point became the premier institution for training U.S. Army officers and has played a crucial role in shaping American military leadership."
+      "significance": "West Point became the nation's first military college and trained generations of American military and engineering leaders, including Ulysses S. Grant and Robert E. Lee."
+    },
+    {
+      "year": 1850,
+      "title": "The Scarlet Letter Published",
+      "description": "Nathaniel Hawthorne's novel The Scarlet Letter was first published in Boston, telling the story of Hester Prynne in Puritan New England.",
+      "category": "Literature",
+      "significance": "The novel became a cornerstone of American literature and a lasting exploration of sin, guilt, and social judgment."
     },
     {
       "year": 1968,
-      "title": "My Lai Massacre Occurs in Vietnam",
-      "description": "American soldiers killed hundreds of unarmed Vietnamese civilians in the village of My Lai during the Vietnam War.",
-      "category": "War and Conflict",
-      "significance": "The massacre became a symbol of the war's brutality and significantly influenced U.S. public opinion against the Vietnam War."
+      "title": "My Lai Massacre",
+      "description": "U.S. Army soldiers killed hundreds of unarmed Vietnamese civilians in the villages of My Lai and My Khe during the Vietnam War.",
+      "category": "War",
+      "significance": "Public revelation of the massacre in 1969 intensified opposition to the Vietnam War and prompted major debate about military conduct and accountability."
     },
     {
-      "year": 1926,
-      "title": "Robert Goddard Launches the First Liquid-Fueled Rocket",
-      "description": "American physicist Robert H. Goddard successfully launched the world's first liquid-fueled rocket in Auburn, Massachusetts.",
-      "category": "Science and Technology",
-      "significance": "This event marked a significant milestone in rocket technology and the beginning of modern rocketry."
+      "year": 1978,
+      "title": "Former Italian Prime Minister Aldo Moro Kidnapped",
+      "description": "Aldo Moro, former Prime Minister of Italy and leader of the Christian Democracy party, was kidnapped by the Red Brigades in Rome, and his five bodyguards were killed.",
+      "category": "Politics and Terrorism",
+      "significance": "Moro was held for 54 days and killed in May 1978, an event that became a defining moment of Italy's 'Years of Lead' and shaped the country's political landscape and counterterrorism efforts."
     }
   ]
 }

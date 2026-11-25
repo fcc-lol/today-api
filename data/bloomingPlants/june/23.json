@@ -2,58 +2,59 @@
   "date": "June 23",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are a diverse group of flowering shrubs known for their fragrant and colorful blooms. In temperate regions of the Northern Hemisphere, many rose varieties bloom prolifically in late spring through early summer, making June a peak blooming period.",
-      "bloomingSeason": "May to July",
-      "location": "Northern Hemisphere temperate regions, especially Europe, North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of fragrant flowers. It is widely cultivated in gardens and in large fields for its essential oil, and it attracts bees and butterflies in great numbers.",
+      "bloomingSeason": "Late spring to late summer, peaking in late June and July",
+      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, and the northern United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and were used by the ancient Egyptians as a symbol of beauty and love."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which is the origin of its name from the Latin 'lavare' meaning 'to wash'."
+    },
+    {
+      "name": "Tilia cordata",
+      "commonName": "Small-leaved Linden",
+      "description": "A large deciduous tree with heart-shaped leaves that produces clusters of small, intensely fragrant, creamy-yellow flowers hanging from a distinctive leafy bract. The blossoms fill the air with a honey-like scent and are a major nectar source for bees.",
+      "bloomingSeason": "Mid-June to July",
+      "location": "Europe and western Asia, commonly planted along streets and in parks across the Northern Hemisphere",
+      "colors": [
+        "pale yellow",
+        "cream"
+      ],
+      "emoji": "🌳",
+      "funFact": "Linden blossom is dried to make a calming herbal tea, and linden honey is among the most prized varieties in Europe."
     },
     {
       "name": "Nymphaea alba",
-      "commonName": "White Water Lily",
-      "description": "A floating aquatic plant with large white flowers and round green lily pads. White water lilies bloom in freshwater ponds and lakes during the warm months, often peaking in midsummer.",
-      "bloomingSeason": "Late spring to early autumn (May to September)",
-      "location": "Europe, North Africa, parts of Asia",
+      "commonName": "European White Water Lily",
+      "description": "A aquatic perennial with large round floating leaves and showy, star-shaped white flowers that open in the morning and close in the afternoon. It grows in still or slow-moving freshwater lakes and ponds.",
+      "bloomingSeason": "June to September",
+      "location": "Lakes and ponds across Europe, North Africa, and parts of western Asia",
       "colors": [
         "white",
-        "yellow center"
+        "yellow"
       ],
-      "emoji": "💧",
-      "funFact": "Water lilies have leaves that are coated with a water-repellent substance, allowing them to float on the water surface."
+      "emoji": "🪷",
+      "funFact": "The flower stalks of water lilies lengthen or shorten to keep the blossoms at the water surface, even as water levels change, and the seeds ripen underwater after the flower stalk coils down."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "The jacaranda is a deciduous tree prized for its spectacular display of purple-blue trumpet-shaped flowers. In subtropical and tropical regions, it typically blooms profusely in late spring to early summer.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "South America (native), also Australia, southern USA, South Africa",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flowers. Blossoms may be pink, blue, or purple depending on soil conditions, and the plant thrives in partial shade with moist soil.",
+      "bloomingSeason": "Early summer to early autumn, beginning in June in temperate regions",
+      "location": "Native to Japan; widely grown in gardens in Europe, North America, Australia, and New Zealand",
       "colors": [
+        "blue",
+        "pink",
         "purple",
-        "blue"
-      ],
-      "emoji": "🌸",
-      "funFact": "Jacaranda wood is soft and light and is sometimes used for quality pencil manufacturing."
-    },
-    {
-      "name": "Eucalyptus globulus",
-      "commonName": "Blue Gum Eucalyptus",
-      "description": "A tall evergreen tree native to Australia, known for its bluish-green leaves and clusters of white flowers. The blue gum eucalyptus blooms in Southern Hemisphere winter and spring but can also flower intermittently through early summer depending on the climate.",
-      "bloomingSeason": "Winter to early summer (June to November)",
-      "location": "Australia, cultivated worldwide in warm climates",
-      "colors": [
         "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Eucalyptus trees produce nectar-rich flowers that attract a variety of pollinators, including birds and bees."
+      "emoji": "💠",
+      "funFact": "Soil acidity determines flower color: acidic soil with available aluminum yields blue blooms, while neutral to alkaline soil produces pink ones."
     }
   ]
 }

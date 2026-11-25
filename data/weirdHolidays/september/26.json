@@ -2,36 +2,44 @@
   "date": "September 26",
   "holidays": [
     {
-      "name": "Johnny Appleseed Day",
-      "description": "This day celebrates the legendary American pioneer nurseryman Johnny Appleseed, known for planting apple trees across the United States.",
-      "origin": "Inspired by John Chapman, an early 19th-century folk hero who became famous for his generous spirit and apple orchards.",
-      "category": "Historical/Folklore",
-      "emoji": "🍎",
-      "funFact": "Johnny Appleseed didn’t just plant apple trees for fun — apples were used to make hard cider, which was often safer to drink than water back then!"
+      "name": "National Pancake Day (Sept. 26 Observance)",
+      "description": "A day to flip, stack, and drown flapjacks in syrup, butter, and whatever toppings your breakfast dreams allow. Pancake fans mark the date with stacks at home or at diners.",
+      "origin": "Pancakes are among the oldest foods in the world, and various pancake days are claimed on the calendar. This one is an informal, fan-driven observance with no single official founder, and some calendars list it on different dates.",
+      "category": "Food",
+      "emoji": "🥞",
+      "funFact": "Archaeologists found traces of a pancake-like meal in the stomach of Ötzi the Iceman, who lived over 5,000 years ago."
     },
     {
-      "name": "National Dumpling Day (USA)",
-      "description": "A day to savor the delicious, doughy, and often meat- or veggie-filled delights known as dumplings, celebrated especially in American food culture.",
-      "origin": "An unofficial food holiday created by food enthusiasts to appreciate diverse culinary traditions involving dumplings.",
-      "category": "Food",
-      "emoji": "🥟",
-      "funFact": "Dumplings come in so many forms worldwide — from Japanese gyoza to Polish pierogi — and each has its own unique twist!"
+      "name": "National Johnny Appleseed Day",
+      "description": "A tribute to the barefoot, tin-pot-hatted legend who wandered the American frontier planting apple trees. People celebrate with apple pie, cider, and by planting a tree.",
+      "origin": "Johnny Appleseed was the nickname of John Chapman, born September 26, 1774, in Leominster, Massachusetts. He became a folk hero for spreading apple orchards across Pennsylvania, Ohio, Indiana, and Illinois.",
+      "category": "History",
+      "emoji": "🍎",
+      "funFact": "Many of Johnny's apples were not for eating. They were small, tart cider apples, and in frontier days hard cider was the main use."
     },
     {
       "name": "European Day of Languages",
-      "description": "A day dedicated to promoting language learning and cultural diversity across Europe and beyond.",
-      "origin": "Established by the Council of Europe in 2001 to encourage lifelong language education and celebrate Europe’s rich linguistic heritage.",
-      "category": "Awareness/Culture",
-      "emoji": "🌍",
-      "funFact": "Europe has around 225 indigenous languages, making it one of the most linguistically diverse regions on Earth!"
+      "description": "A multilingual celebration across Europe and beyond, encouraging people to learn languages and appreciate linguistic diversity. Expect language games, tasting events, and people saying hello in as many tongues as possible.",
+      "origin": "The Council of Europe launched it in 2001, the European Year of Languages, to promote language learning and cultural understanding.",
+      "category": "Cultural Awareness",
+      "emoji": "🗣️",
+      "funFact": "Europe is home to roughly 225 indigenous languages, yet the Council of Europe has 24 official languages in the EU alone."
     },
     {
       "name": "Love Note Day",
-      "description": "A sweet, often secret holiday encouraging people to write love notes or heartfelt messages to someone special, spreading affection in simple, old-fashioned ways.",
-      "origin": "An unofficial day that caught traction with romantics and stationary lovers who enjoy handwritten notes.",
-      "category": "Pop Culture/Romance",
+      "description": "A sweet and low-tech holiday for sneaking little handwritten notes of affection into lunchboxes, coat pockets, and bathroom mirrors. It rewards tiny gestures with big smiles.",
+      "origin": "An informal, unofficial observance popularized through holiday calendars and social media as a way to spread kindness through simple written messages.",
+      "category": "Pop Culture",
       "emoji": "💌",
-      "funFact": "Before phones and texts, love notes were the original emojis — and way more romantic!"
+      "funFact": "Handwritten notes are so rare these days that studies suggest recipients often value them more than the sender expects."
+    },
+    {
+      "name": "Native American Day (California Observance Season)",
+      "description": "A day for honoring the heritage, culture, and contributions of Native peoples, often with storytelling, art, dance, and educational events.",
+      "origin": "In California it is observed on the fourth Friday of September, which falls close to this date in some years, and it was established to recognize the state's Native American communities.",
+      "category": "Cultural Awareness",
+      "emoji": "🪶",
+      "funFact": "California has one of the largest Native American populations of any U.S. state, with over 100 federally recognized tribes."
     }
   ]
 }

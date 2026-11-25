@@ -2,61 +2,60 @@
   "date": "October 5",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial wildflower native to North America, known for its bright yellow petals surrounding a dark brown central cone. It thrives in prairies and open woods and is popular in gardens for late summer and early autumn bloom.",
-      "bloomingSeason": "July to October",
-      "location": "North America (temperate regions)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped pink-lilac flowers in autumn with no leaves present. The strap-like leaves appear in spring and die back by summer, which gives it the nickname 'naked ladies'. All parts are highly toxic.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October)",
+      "location": "Meadows and woodlands of Europe, widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans attract butterflies and are often used in wildflower meadows to support pollinators."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used in treating gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Mum",
-      "description": "A widely cultivated flowering plant prized for its vibrant, usually daisy-like flower heads that bloom in late summer to autumn. Mums come in a variety of colors including yellow, red, white, and purple, and are a classic symbol of autumn in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Cultivated worldwide, native to East Asia",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, hardy native North American perennial covered in daisy-like flowers with yellow centers. It thrives in moist meadows and roadsides and is a critical late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely heavily on New England asters for fuel during their autumn migration to Mexico."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely apricot-scented flowers. It is celebrated across East Asia for its fragrance, used in teas, cakes, and perfumes.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Native to China, cultivated in Japan, Southeast Asia, and the southern United States",
+      "colors": [
+        "Pale yellow",
+        "Orange",
+        "White"
       ],
       "emoji": "🌼",
-      "funFact": "In Japan, chrysanthemums are a symbol of the imperial family and are celebrated during the Festival of Happiness."
+      "funFact": "Guilin in China is named for the osmanthus ('gui'), and its blooming coincides with the Mid-Autumn Festival, when osmanthus cakes and wine are enjoyed."
     },
     {
-      "name": "Salvia leucantha",
-      "commonName": "Mexican Bush Sage",
-      "description": "A perennial sage native to Mexico and Central America, known for its velvety violet-purple flower spikes and aromatic foliage. It blooms profusely in late summer to fall and attracts hummingbirds and butterflies.",
-      "bloomingSeason": "August to November",
-      "location": "Mexico, Central America, cultivated in warm climates",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular deciduous tree that blankets streets and parks in clouds of trumpet-shaped lavender-blue flowers before the fern-like leaves fully emerge. In the Southern Hemisphere it blooms in spring.",
+      "bloomingSeason": "Southern Hemisphere spring (October to November)",
+      "location": "Native to South America, widely planted in South Africa (Pretoria), Australia (Brisbane, Sydney), and Argentina",
       "colors": [
-        "purple",
-        "white"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌿",
-      "funFact": "Mexican Bush Sage’s flowers have soft, fuzzy calyces that give the plant a distinctive texture and appearance."
-    },
-    {
-      "name": "Hibiscus syriacus",
-      "commonName": "Rose of Sharon",
-      "description": "A deciduous flowering shrub valued for its large, showy flowers that bloom late in the summer through fall. Flowers range in color from white to pink, purple, and blue, often with contrasting centers.",
-      "bloomingSeason": "July to October",
-      "location": "Native to East Asia, commonly cultivated in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "purple",
-        "blue"
-      ],
-      "emoji": "🌺",
-      "funFact": "Rose of Sharon is the national flower of South Korea and is associated with endurance and determination."
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed 'Jacaranda City' because of its roughly 70,000 jacaranda trees, and in Australia the blooms were traditionally said to signal university exams."
     }
   ]
 }

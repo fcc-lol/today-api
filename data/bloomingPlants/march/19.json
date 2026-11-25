@@ -2,58 +2,72 @@
   "date": "March 19",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning, delicate pink or white flowers that bloom in early spring, marking the arrival of the season in many parts of East Asia and temperate areas worldwide.",
-      "bloomingSeason": "Late March to April",
-      "location": "Japan, Korea, China, Temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree that covers its branches in clouds of delicate, fragrant blossoms before the leaves emerge. It is the most widely planted flowering cherry in Japan and a centerpiece of hanami celebrations.",
+      "bloomingSeason": "Late March to early April in Japan; mid-March to April in temperate Northern Hemisphere regions",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Japanese Cherry Blossoms are so culturally significant that Japan has a traditional 'hanami' festival dedicated to viewing these blooms each spring."
+      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival is timed around their peak bloom."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub known for its attractive, showy clusters of flowers that can be white, pink, red, or yellow, commonly blooming from spring through autumn, especially in Mediterranean and subtropical climates.",
-      "bloomingSeason": "March to October",
-      "location": "Mediterranean Basin, Southern United States, Subtropics",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and gray-green strap-like leaves. It naturalizes readily in meadows, woodlands, and gardens, and is a classic herald of spring.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe (England, Wales, France), naturalized across North America and gardens worldwide",
       "colors": [
-        "Pink",
-        "White",
-        "Red",
-        "Yellow"
+        "yellow",
+        "pale yellow",
+        "cream"
       ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, but it has been used medicinally in some cultures despite the risk."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, making it toxic to most animals, which is why deer and rodents typically leave it alone."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A small to medium-sized tree with striking bright red flowers shaped like a rooster’s crest, blooming in late winter to early spring, found in subtropical and tropical regions of South America.",
-      "bloomingSeason": "February to April",
-      "location": "Argentina, Uruguay, Brazil",
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A small deciduous tree or large shrub that produces large, goblet-shaped flowers on bare branches in early spring. It is a hybrid of Magnolia denudata and Magnolia liliiflora, first raised in France in the 1820s.",
+      "bloomingSeason": "Early March to April",
+      "location": "Cultivated across temperate regions of Europe, North America, and Asia",
       "colors": [
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A perennial bulbous plant producing cup-shaped blooms that appear early in spring, often poking through snow in temperate climates; colors vary from purple to white and yellow.",
-      "bloomingSeason": "February to April",
-      "location": "Europe, North America",
-      "colors": [
-        "Purple",
-        "White",
-        "Yellow"
+        "pink",
+        "white",
+        "purple"
       ],
       "emoji": "🌷",
-      "funFact": "Crocus species are among the first flowers to bloom after winter, signaling the start of spring in many gardens."
+      "funFact": "Magnolias are among the most ancient flowering plants, with fossil records dating back around 100 million years, predating bees, so they evolved to be pollinated by beetles."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tropical to subtropical tree with fern-like foliage that bursts into spectacular clusters of trumpet-shaped lavender-blue flowers, often carpeting streets and lawns with fallen petals.",
+      "bloomingSeason": "Spring in the Southern Hemisphere is Sept to Nov, but some populations in the northern tropics and in parts of South America bloom in March; in Australia and southern Africa, scattered late blooms occur",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, Mexico, and California",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In Mexico City, jacaranda trees famously bloom in March and April, painting the city purple, even though the species was introduced there in the early 1900s by a Japanese gardener."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the genus Protea, featuring a bowl of showy pink bracts surrounding a central cluster of tiny true flowers. It is adapted to fynbos fire-prone habitats.",
+      "bloomingSeason": "Mainly late summer to early winter in the Southern Hemisphere, with flowering through March in many areas",
+      "location": "Southwestern and southern coastal regions of South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is the national flower of South Africa, and its thick underground lignotuber allows it to resprout after wildfires."
     }
   ]
 }

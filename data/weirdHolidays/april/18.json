@@ -2,36 +2,44 @@
   "date": "April 18",
   "holidays": [
     {
+      "name": "National Animal Crackers Day",
+      "description": "A day to nibble on the tiny, circus-themed cookies that let you decapitate a lion with zero legal consequences. Folks celebrate by munching on the crunchy critters straight from their iconic box.",
+      "origin": "This is an unofficial food observance popularized by food-holiday calendars. The cookies themselves trace back to England, where animal-shaped biscuits were imported to the US in the 1870s.",
+      "category": "Food Day",
+      "emoji": "🦁",
+      "funFact": "Barnum's Animals crackers box, introduced in 1902 by Nabisco, was designed to look like a circus cage, and the string handle was meant for hanging it on a Christmas tree."
+    },
+    {
       "name": "International Day for Monuments and Sites",
-      "description": "A day dedicated to raising awareness about cultural heritage sites and the importance of preserving monuments around the world.",
-      "origin": "Established by UNESCO in 1982 to promote the protection of cultural heritage and to encourage public interest in monuments and sites.",
-      "category": "Cultural Awareness",
+      "description": "A day dedicated to appreciating the world's old buildings, ruins, and landmarks, from crumbling castles to ancient temples. It is a perfect excuse to hug a historic wall (respectfully).",
+      "origin": "Proposed by ICOMOS in 1982 and approved by UNESCO in 1983 to promote awareness of cultural heritage and its preservation.",
+      "category": "Awareness Day",
       "emoji": "🏛️",
-      "funFact": "Sometimes called \"World Heritage Day,\" it’s a perfect excuse for visiting an old castle, ruins, or even just appreciating the quirky historic statue in your town square."
+      "funFact": "It is also known as World Heritage Day, and UNESCO's World Heritage List includes over 1,100 sites across the globe."
     },
     {
-      "name": "Animal Crackers Day",
-      "description": "Celebrate the beloved crunchy, sweet animal-shaped cookies—perfect for kids and the young at heart!",
-      "origin": "Not officially established, but this fun foodie day celebrates the iconic snack that’s been around since 1902, originally made by Stauffer's Biscuit Company.",
-      "category": "Food",
-      "emoji": "🦁🍪",
-      "funFact": "The original name for Animal Crackers was \"Animals,\" but the packaging featured a circus theme, leading to the quirky name \"Animal Crackers!\""
+      "name": "Newspaper Columnist Day",
+      "description": "A tribute to the opinionated souls who turn their thoughts, rants, and witty observations into weekly print. Celebrate by reading a column, or by writing a very strongly worded one yourself.",
+      "origin": "An unofficial observance said to honor the craft of column writing, tied to the date of the death of journalist Ernie Pyle, a famed WWII columnist, who was killed on April 18, 1945.",
+      "category": "Pop Culture / Media",
+      "emoji": "📰",
+      "funFact": "Ernie Pyle won a Pulitzer Prize in 1944 for his down-to-earth reporting of ordinary soldiers' lives, and his columns ran in hundreds of newspapers."
     },
     {
-      "name": "Hug a Plumber Day",
-      "description": "A quirky, unofficial day to appreciate plumbers and their heroic efforts to keep our pipes flowing and toilets flushing!",
-      "origin": "Unofficially celebrated to show gratitude to plumbers who often go unappreciated until disaster strikes.",
-      "category": "Appreciation",
-      "emoji": "🛠️🚽",
-      "funFact": "People often don’t realize plumbers are part detective, part engineer, and part magician—they solve mysteries like \"Where’s that leak coming from?\" every day."
+      "name": "Great Poetry Reading Day",
+      "description": "A day to dramatically read verses aloud to anyone who will listen, including pets, plants, and the unsuspecting barista. Bonus points for a poetic accent or a dramatic pause.",
+      "origin": "Established as a literary observance to encourage people to read and share poetry in public and private spaces.",
+      "category": "Arts & Literature",
+      "emoji": "📜",
+      "funFact": "Poetry was originally an oral tradition; epic poems like the Iliad were memorized and performed long before they were ever written down."
     },
     {
-      "name": "World Amateur Radio Day",
-      "description": "Celebrates amateur radio operators worldwide, promoting the hobby of ham radio and its role in emergency communication and community building.",
-      "origin": "Observed April 18 because the International Amateur Radio Union was founded on this date in 1925.",
-      "category": "Hobby/Technology",
-      "emoji": "📻🌍",
-      "funFact": "Ham radio operators have been known to connect with people in remote areas and during natural disasters when other communication fails—talk about old-school social networking!"
+      "name": "Paul Revere's Ride Day",
+      "description": "A commemoration of the midnight dash by a silversmith on horseback shouting warnings across Massachusetts. Fans celebrate with reenactments, lantern displays, and arguments about what he really yelled.",
+      "origin": "Marks the night of April 18, 1775, when Paul Revere and others rode to warn colonists of British troop movements before the battles of Lexington and Concord. Longfellow's 1861 poem made it famous.",
+      "category": "Historical Observance",
+      "emoji": "🐎",
+      "funFact": "Revere probably never shouted 'The British are coming!' since colonists still considered themselves British; he more likely said the 'Regulars' were out."
     }
   ]
 }

@@ -2,59 +2,64 @@
   "date": "May 6",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Rhodedendron",
-      "description": "A large evergreen shrub or small tree bearing clusters of bell-shaped flowers that range from lavender to purple and white. It thrives in temperate climates and is often found in woodlands and gardens.",
-      "bloomingSeason": "April to June",
-      "location": "Europe (UK, Spain), Western Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Late-season varieties are at peak bloom in early May across cool temperate gardens and commercial fields.",
+      "bloomingSeason": "Mid-spring (April to early May in the Northern Hemisphere)",
+      "location": "Netherlands, Northern Europe, northeastern United States, and temperate gardens worldwide; native to Central Asia",
       "colors": [
-        "Purple",
-        "Lavender",
-        "White"
+        "red",
+        "yellow",
+        "pink",
+        "purple",
+        "white",
+        "orange"
       ],
-      "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is known for its ability to thrive in acidic soils and can become invasive in some regions due to its dense growth."
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxurious canal house."
     },
     {
-      "name": "Lilium spp.",
-      "commonName": "Lily",
-      "description": "Lilies are herbaceous flowering plants growing from bulbs, recognized for their large, prominent flowers which bloom in various colors, including white, pink, orange, and yellow. Many species bloom in late spring to early summer.",
-      "bloomingSeason": "April to June",
-      "location": "Northern Hemisphere (temperate zones)",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub producing dense, fragrant conical clusters of tiny four-lobed flowers. It reaches peak bloom in many northern temperate regions in early to mid May.",
+      "bloomingSeason": "Late spring (May in the Northern Hemisphere)",
+      "location": "Northern United States, Canada, Europe, and northern Asia; native to the Balkan Peninsula",
       "colors": [
-        "White",
-        "Pink",
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Lilies have been cultivated for thousands of years and are often symbols of purity and refined beauty in many cultures."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "This deciduous tree is known for its striking and abundant clusters of trumpet-shaped violet-blue flowers which create a spectacular display.",
-      "bloomingSeason": "Late April to June",
-      "location": "Subtropical and tropical regions (South America native, also Australia, South Africa)",
-      "colors": [
-        "Violet-blue"
+        "lilac",
+        "purple",
+        "white",
+        "pink"
       ],
       "emoji": "💜",
-      "funFact": "In many cities like Pretoria (South Africa), May is called 'Jacaranda season' due to the profusion of these trees blooming, often covering streets with their purple blossoms."
+      "funFact": "Lilac is in the olive family (Oleaceae), making it a relative of olive trees and jasmine."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub famed for its large, rose-like flowers which bloom in cooler months but often continue into spring, showcasing glossy dark green leaves and a variety of colors from white to deep red.",
-      "bloomingSeason": "Late winter to early May",
-      "location": "East Asia (Japan, China, Korea) and cultivated worldwide",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces long, pendulous racemes of fragrant pea-like flowers, often before or as the leaves emerge. Blooms are still spectacular in early May in many regions.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Native to China; widely grown in Japan, Europe, and the southeastern and northeastern United States",
       "colors": [
-        "Red",
-        "Pink",
-        "White"
+        "violet",
+        "blue-purple",
+        "lavender"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia japonica's leaves are used to produce some types of tea, and it holds cultural significance in Japan where it is often associated with the samurai."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines can live for over a century, and some specimens in Japan are famous for flower trellises covering over 1,000 square meters."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A large evergreen shrub of the fynbos with enormous, bowl-shaped flower heads surrounded by showy bracts. In the Southern Hemisphere autumn, it begins to bloom in some areas, with peak season later in autumn and winter.",
+      "bloomingSeason": "Autumn to spring in South Africa (flowering can begin around May)",
+      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa's national flower, and the genus is named after the Greek god Proteus for its remarkable variety of forms."
     }
   ]
 }

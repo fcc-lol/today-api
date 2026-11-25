@@ -2,58 +2,61 @@
   "date": "April 29",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous magnolia known for its large, fragrant, tulip-shaped flowers that bloom in early spring before the leaves appear. It is popular in temperate gardens and parks.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces dramatic cascading clusters of fragrant, pea-like flowers. It can twine over pergolas, walls, and trees, and its blooms appear before or alongside the emerging leaves.",
+      "bloomingSeason": "Mid-spring (April to May in the Northern Hemisphere)",
+      "location": "Native to China; widely cultivated in temperate gardens across Europe, Japan, and North America",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Lavender",
+        "Violet",
+        "Purple"
+      ],
+      "emoji": "🪻",
+      "funFact": "Wisteria vines can live for over a century, and some famous specimens, like the one in Sierra Madre, California, cover more than an acre."
+    },
+    {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green foliage. Late-season varieties are at their peak in late April, filling parks and fields with bands of color.",
+      "bloomingSeason": "Mid to late spring (April to early May)",
+      "location": "Cultivated worldwide; famous displays in the Netherlands, Turkey, and the Skagit Valley in Washington, USA",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the 1630s Dutch Tulip Mania, a single rare bulb could sell for more than the price of a luxurious canal house."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A small deciduous tree whose showy display comes from four large petal-like bracts surrounding a tight cluster of tiny true flowers. It lights up woodland edges and suburban yards in the eastern United States.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Eastern North America, from southern Ontario to Florida and west to Texas",
+      "colors": [
+        "White",
+        "Pink"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer magnolia flowers often appear before the leaves, creating a spectacular floral display that signals the arrival of spring."
+      "funFact": "The bright red berries that follow the bloom are an important autumn food source for songbirds and other wildlife."
     },
     {
-      "name": "Eschscholzia californica",
-      "commonName": "California Poppy",
-      "description": "A hardy wildflower native to the western United States that produces vibrant cup-shaped flowers. It is drought-tolerant and adapts well to dry, sandy soils.",
-      "bloomingSeason": "March to June",
-      "location": "Western North America, especially California",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A graceful semi-deciduous tree with fern-like leaves that bursts into masses of trumpet-shaped purple-blue flowers. In the Southern Hemisphere it is finishing its autumn-to-spring cycle, while in the tropics and subtropics some trees bloom in spring.",
+      "bloomingSeason": "Spring in the Northern Hemisphere subtropics (April to June); late spring in South America's northern ranges",
+      "location": "Native to South America (Argentina, Bolivia); cultivated in Mexico, Southern California, Florida, and parts of Asia",
       "colors": [
-        "orange",
-        "yellow"
+        "Blue-violet",
+        "Purple"
       ],
-      "emoji": "🌼",
-      "funFact": "California poppies close their petals at night and during cold or windy weather, protecting their reproductive organs."
-    },
-    {
-      "name": "Rhododendron spp.",
-      "commonName": "Rhododendron or Azalea",
-      "description": "A genus comprising many species and cultivars that bloom profusely in spring, bearing clusters of bell-shaped flowers. They thrive in acidic soils and shaded spots.",
-      "bloomingSeason": "April to June",
-      "location": "Worldwide in temperate and subtropical regions",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Rhododendrons attract pollinators like bees and hummingbirds, and some species are adapted to specific altitudes in mountainous regions."
-    },
-    {
-      "name": "Callistemon citrinus",
-      "commonName": "Crimson Bottlebrush",
-      "description": "An Australian native shrub notable for its bright red, brush-shaped flower spikes resembling a bottlebrush. It blooms mainly in spring and is popular in warm temperate gardens.",
-      "bloomingSeason": "Spring (September to November in Southern Hemisphere, around April in Northern Hemisphere cultivation)",
-      "location": "Australia; cultivated in subtropical gardens worldwide",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🧴",
-      "funFact": "The unique bottlebrush flowers are adapted to bird pollination, with nectar feeding birds attracted to their vivid colors and shape."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

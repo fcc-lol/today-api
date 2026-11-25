@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Dance Day",
-      "description": "A celebration of dance as an art form, promoting its diversity and universality across cultures.",
-      "origin": "Established in 1982 by the International Dance Council (CID) to honor the birth of Jean-Georges Noverre, the creator of modern ballet.",
-      "category": "Cultural/Arts",
+      "description": "A worldwide celebration of dance in every form, from ballet and breakdancing to the chicken dance at weddings. Studios, theaters, and street corners fill with people who just can't keep their feet still.",
+      "origin": "Established in 1982 by the International Dance Council, a UNESCO partner, and the International Theatre Institute. April 29 was chosen to honor the birthday of Jean-Georges Noverre, the creator of modern ballet.",
+      "category": "Arts & Culture",
       "emoji": "💃",
-      "funFact": "Each year, a famous dancer or choreographer writes a message for International Dance Day to inspire dancers worldwide."
-    },
-    {
-      "name": "Zipper Day",
-      "description": "A playful tribute to the invention of the zipper, highlighting this everyday item's impact on fashion and convenience.",
-      "origin": "Commemorates the birthday of Whitcomb L. Judson, who introduced the zipper’s prototype in the late 19th century.",
-      "category": "Invention/History",
-      "emoji": "🧥",
-      "funFact": "The original 'clasp locker' zipper wasn’t very reliable and commercial success really took off only decades later!"
+      "funFact": "Each year a different choreographer or dancer from around the world is chosen to write an official International Dance Day message."
     },
     {
       "name": "National Shrimp Scampi Day",
-      "description": "A delicious food holiday celebrating the buttery, garlicky Italian-American shrimp dish beloved by seafood lovers.",
-      "origin": "Originated in Italian-American communities and recognized informally by food enthusiasts today.",
+      "description": "A day for savoring shrimp swimming in garlic, butter, white wine, and lemon, ideally piled over linguine, with a side of bread for sopping up every last drop.",
+      "origin": "A food-industry observance that grew out of the popularity of Italian-American restaurant cuisine. The dish evolved in the United States from Italian cooking traditions.",
       "category": "Food",
       "emoji": "🍤",
-      "funFact": "The word ‘scampi’ actually refers to an Italian lobster-like crustacean, but the American dish uses shrimp instead!"
+      "funFact": "In Italian, 'scampi' actually refers to a type of small lobster, so 'shrimp scampi' is technically 'shrimp shrimp-ish lobster.'"
     },
     {
-      "name": "Kiss of Love Day",
-      "description": "An unofficial day encouraging people to celebrate love publicly and combat moral policing, often involving public displays of affection.",
-      "origin": "Started in India around 2014 as a social movement to protest against moral policing and conservative restrictions on public affection.",
-      "category": "Social Activism/Pop Culture",
-      "emoji": "💋",
-      "funFact": "It often sparks lively debates and media attention in countries with strict public decency codes."
+      "name": "Zipper Day",
+      "description": "A salute to the humble zipper, the clever clasp that keeps our pants up, our jackets closed, and our dignity intact. Celebrate by zipping and unzipping things with extra appreciation.",
+      "origin": "Commemorates the patent anniversary of the zipper. Whitcomb Judson patented his 'clasp locker' in the 1890s, and Gideon Sundback later perfected the modern design in 1917.",
+      "category": "Inventions",
+      "emoji": "🤐",
+      "funFact": "The word 'zipper' was coined by B.F. Goodrich, who used the fasteners on rubber boots and liked the zip sound they made."
+    },
+    {
+      "name": "Superhero Day",
+      "description": "A caped-and-masked celebration where fans dress as heroes, binge movies, and debate who would win in a fight. Everyday heroes get recognized too.",
+      "origin": "A pop culture observance popularized by comic book fans and retailers, with a fan-driven tradition of marking it in late April.",
+      "category": "Pop Culture",
+      "emoji": "🦸",
+      "funFact": "Superman's debut in Action Comics #1 in 1938 launched the superhero genre, and a copy of that issue has sold for millions of dollars at auction."
+    },
+    {
+      "name": "Arbor Day Observance Week Kickoff: Hug a Tree Moment",
+      "description": "Late April is prime tree-appreciation season, and this quirky unofficial observance encourages you to go outside and embrace your nearest tree, with or without witnesses.",
+      "origin": "Rooted in the Arbor Day tradition begun in Nebraska in 1872 by J. Sterling Morton, which spread tree-planting celebrations across the United States each spring.",
+      "category": "Nature",
+      "emoji": "🌳",
+      "funFact": "On the first Arbor Day, Nebraskans planted an estimated one million trees."
     }
   ]
 }

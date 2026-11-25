@@ -3,24 +3,38 @@
   "events": [
     {
       "year": 1643,
-      "title": "Birth of Isaac Newton",
-      "description": "Isaac Newton, an English mathematician and physicist, was born on January 4, 1643 (New Style) in Woolsthorpe Manor, England, later becoming a central figure of the scientific revolution.",
-      "category": "Science/Physics",
-      "significance": "Established foundations of classical mechanics, gravitation, and calculus, shaping modern physics."
+      "title": "Birth of Isaac Newton (Gregorian calendar)",
+      "description": "Isaac Newton was born at Woolsthorpe Manor in Lincolnshire, England. Under the Julian calendar then used in England, his birth date was recorded as December 25, 1642. He went on to formulate the laws of motion and universal gravitation and to co-develop calculus.",
+      "category": "Birth",
+      "significance": "Newton's work laid the foundation for classical mechanics and transformed physics, mathematics, and astronomy, shaping the Scientific Revolution and modern science."
     },
     {
       "year": 1809,
       "title": "Birth of Louis Braille",
-      "description": "Louis Braille, a French educator, was born on January 4, 1809 in Coupvray, France; he would invent the Braille tactile writing system for the blind.",
-      "category": "Education/Technology",
-      "significance": "Braille enabled literacy and independent access to written information for blind and visually impaired people."
+      "description": "Louis Braille was born in Coupvray, France. Blinded in childhood by an accident, he developed a tactile writing system of raised dots at age 15, first published in 1829.",
+      "category": "Birth",
+      "significance": "Braille's system became the worldwide standard for reading and writing among blind and visually impaired people, greatly expanding access to education and literacy."
     },
     {
       "year": 1896,
-      "title": "Utah becomes the 45th U.S. state",
-      "description": "Utah is admitted to the United States as the 45th state on January 4, 1896.",
-      "category": "Political History",
-      "significance": "Expanded U.S. western statehood and representation in Congress."
+      "title": "Utah Admitted as the 45th U.S. State",
+      "description": "President Grover Cleveland proclaimed Utah a state of the United States after decades of delay, which had been largely tied to disputes over polygamy. The Church of Jesus Christ of Latter-day Saints had formally renounced the practice in 1890.",
+      "category": "Politics",
+      "significance": "Utah's statehood resolved a long-standing conflict between the federal government and the territory and brought the American West closer to full political incorporation."
+    },
+    {
+      "year": 1958,
+      "title": "Sputnik 1 Falls Back to Earth",
+      "description": "Sputnik 1, the first artificial Earth satellite, launched by the Soviet Union on October 4, 1957, re-entered Earth's atmosphere and burned up after about three months in orbit.",
+      "category": "Science and Technology",
+      "significance": "Sputnik's mission began the Space Age and triggered the Space Race between the United States and the Soviet Union, prompting major investment in science education and the creation of NASA."
+    },
+    {
+      "year": 2010,
+      "title": "Burj Khalifa Officially Opens in Dubai",
+      "description": "The Burj Khalifa, standing at 828 meters (2,717 feet), was officially inaugurated in Dubai, United Arab Emirates, becoming the tallest building in the world.",
+      "category": "Architecture",
+      "significance": "The skyscraper became a global symbol of Dubai's rapid development and pushed the limits of structural engineering, holding the record for tallest building ever since."
     }
   ]
 }

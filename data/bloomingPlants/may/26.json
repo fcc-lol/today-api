@@ -2,55 +2,61 @@
   "date": "May 26",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub native to parts of Southern Europe and Western Asia, noted for its clusters of bell-shaped flowers.",
-      "bloomingSeason": "April to June",
-      "location": "Southwestern Europe, Western Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, often fragrant, bowl-shaped to fully double blooms atop sturdy stems with deeply lobed glossy green foliage. It is a classic cottage garden favorite and can live for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
-        "purple",
-        "pink",
-        "white"
+        "White",
+        "Pink",
+        "Red",
+        "Magenta"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is known for its invasive characteristics in parts of the UK and Ireland, where it can dominate native ecosystems."
+      "funFact": "Peonies are famously long-lived, with some plants continuing to bloom for over 50 years, and ants visiting the buds do not actually help them open."
     },
     {
-      "name": "Lupinus texensis",
-      "commonName": "Texas Bluebonnet",
-      "description": "A species of lupine native to Texas, famous for its vibrant blue flowers forming dense fields in spring.",
-      "bloomingSeason": "March to May",
-      "location": "Southern United States, especially Texas",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, forming a suckering, thorny shrub with richly fragrant, semi-double flowers in deep pinks and crimsons with golden stamens. It is the ancestor of many garden roses.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to central and southern Europe and western Asia; grown in gardens in temperate regions worldwide",
       "colors": [
-        "blue",
-        "white"
+        "Deep pink",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "💙",
-      "funFact": "The bluebonnet is the state flower of Texas and is celebrated annually with bluebonnet festivals."
+      "emoji": "🌹",
+      "funFact": "Rosa gallica petals retain their fragrance when dried, so they were used for centuries in medicine, potpourri, and perfumery."
     },
     {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "A large evergreen tree known for its large, fragrant white flowers that bloom in late spring and early summer.",
-      "bloomingSeason": "May to June",
-      "location": "Southeastern United States",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A medium to large tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers, often when the tree is nearly leafless. It lines streets in warm climates and carpets the ground with fallen blossoms.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); also blooms in October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in California, Mexico, Florida, the Mediterranean, South Africa, and Australia",
       "colors": [
-        "white"
+        "Lavender",
+        "Purple",
+        "Blue-violet"
       ],
-      "emoji": "🌼",
-      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and emit a strong lemony fragrance."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, the jacaranda bloom is so iconic that the city is nicknamed the Jacaranda City, with tens of thousands of trees lining its streets."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A deciduous tree native to South America, cherished for its bright red, coral-shaped flowers.",
-      "bloomingSeason": "Late spring to summer",
-      "location": "Argentina, Uruguay, Brazil",
+      "name": "Cypripedium reginae",
+      "commonName": "Showy Lady's Slipper",
+      "description": "A striking native orchid with a pouch-shaped pink and white lip, hairy stems, and pleated leaves. It grows in bogs, fens, and damp woodland, and can take over a decade to flower from seed.",
+      "bloomingSeason": "Late spring to early summer (late May to July)",
+      "location": "Northeastern and north-central North America, including Minnesota (state flower), Ontario, and the Great Lakes region",
       "colors": [
-        "red"
+        "White",
+        "Pink",
+        "Magenta"
       ],
       "emoji": "🌺",
-      "funFact": "The cockspur coral tree is the national flower of Argentina and Uruguay."
+      "funFact": "This orchid can live for over 50 years, and it relies on a deceptive trap: bees enter the pouch and are forced to exit past the pollen, as there is no nectar reward."
     }
   ]
 }

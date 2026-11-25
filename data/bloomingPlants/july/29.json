@@ -2,54 +2,59 @@
   "date": "July 29",
   "plants": [
     {
-      "name": "Lilium bulbiferum",
-      "commonName": "Orange Lily",
-      "description": "A bright, vibrant lily native to Europe, producing striking orange flowers with dark spots. It often grows on meadows and rocky slopes.",
-      "bloomingSeason": "June to August",
-      "location": "Europe (temperate regions)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely grown in gardens, and commercially for essential oils, perfumes and culinary use. Bees and butterflies are strongly attracted to its nectar-rich blooms.",
+      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania and the United States",
       "colors": [
-        "orange"
+        "purple",
+        "lavender",
+        "blue"
       ],
-      "emoji": "🧡",
-      "funFact": "The Orange Lily is known for its bulbils that grow in the leaf axils, hence the name bulbiferum, meaning \"bulb-bearing.\""
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A flowering tree native to South America with vivid red blossoms shaped somewhat like a rooster’s comb, attracting hummingbirds and bees.",
-      "bloomingSeason": "Late spring to late summer",
-      "location": "Argentina, Uruguay, Brazil (subtropical regions)",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A daisy-like wildflower featuring bright yellow petals surrounding a dark brown center cone, commonly found in prairies and meadows.",
-      "bloomingSeason": "June through September",
-      "location": "North America (temperate grasslands)",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a rough, hairy stem and a huge flower head made of many tiny florets surrounded by yellow ray petals. The flower heads track the sun when young. It is grown for seeds, oil and ornament, and is a favorite of pollinators and birds.",
+      "bloomingSeason": "July to September in the Northern Hemisphere",
+      "location": "Native to North America; widely cultivated in Ukraine, Russia, Argentina, Europe and the United States",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Black-eyed Susans attract pollinators such as bees and butterflies and are often used in wildflower gardens."
+      "funFact": "Young sunflower buds follow the sun across the sky (heliotropism), but mature flowers typically face east permanently, which warms them early and attracts more pollinators."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "A large aquatic plant producing large, fragrant pink or white flowers that rise above the water surface, revered in many Asian cultures.",
-      "bloomingSeason": "June to August",
-      "location": "Asia (India, China, Japan), tropical and subtropical zones",
+      "description": "An aquatic perennial with large round leaves that repel water and showy, fragrant flowers held above the water's surface on tall stalks. It grows in shallow ponds, lakes and wetlands, and is revered in many Asian cultures as a symbol of purity.",
+      "bloomingSeason": "June to September in temperate Asia",
+      "location": "Native to Asia and Australia; found in India, China, Japan, Vietnam and the Volga Delta in Russia",
       "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🏵️",
-      "funFact": "Sacred Lotus seeds can remain viable for over a thousand years and still germinate."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries; seeds around 1,300 years old recovered from a dry lakebed in China were successfully germinated."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub with the largest flower head of any protea, made up of a central cone of tiny flowers surrounded by showy, pointed bracts. It thrives in the nutrient-poor, acidic soils of the fynbos, and is pollinated by beetles and birds. It is the national flower of South Africa.",
+      "bloomingSeason": "Late autumn to spring, with peak flowering in the Southern Hemisphere winter, including July and August",
+      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Protea is named after the Greek god Proteus, who could change his shape, reflecting the great diversity of forms in the genus."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "December 28",
   "holidays": [
     {
-      "name": "Fool's Day (Japan)",
-      "description": "In Japan, December 28 is known as Fool's Day, a day when jokes and pranks are part of the fun, somewhat like April Fools' Day but in winter!",
-      "origin": "Traditionally, this day is called \"Toshikoshi no Warai,\" meaning 'year-crossing laughter,' symbolizing laughter as a way to bring good luck into the new year.",
-      "category": "Cultural/Tradition",
-      "emoji": "🤡",
-      "funFact": "People in Japan believe that laughter on this day can help ward off evil spirits and bring happiness for the coming year."
-    },
-    {
-      "name": "Holy Innocents' Day",
-      "description": "Also known as Childermas or The Feast of the Holy Innocents, this day commemorates the biblical massacre of male infants by King Herod in his attempt to kill baby Jesus.",
-      "origin": "Rooted in Christian tradition, this day has been observed since the early centuries of Christianity, often with somber remembrances or, in some cultures, as a day for fun pranks.",
-      "category": "Religious/Traditional",
-      "emoji": "🕯️",
-      "funFact": "In some Spanish-speaking countries, the day is somewhat like April Fools', when people play pranks called 'Inocentadas.'"
-    },
-    {
-      "name": "National Card Playing Day (USA)",
-      "description": "A day to dust off your deck and deal some hands! National Card Playing Day celebrates all types of card games, from poker to bridge to crazy eights.",
-      "origin": "The origins are unofficial but it encourages spending time with friends and family over card games during the holiday season.",
-      "category": "Recreational/Food & Fun",
+      "name": "National Card Playing Day",
+      "description": "A day to shuffle up and deal. Dust off the deck and play poker, rummy, solitaire, or go fish with friends and family.",
+      "origin": "Unofficial observance listed in national day calendars, tied to the lull between Christmas and New Year's, when families are gathered and looking for indoor entertainment.",
+      "category": "Games and Recreation",
       "emoji": "🃏",
-      "funFact": "Playing cards date back to the 9th century in China, and today there are hundreds of card games enjoyed worldwide."
+      "funFact": "A standard 52-card deck is often said to mirror the calendar: 52 cards for the weeks in a year, 4 suits for the seasons, and 13 cards per suit for the lunar cycles in a season."
     },
     {
-      "name": "Fruitcake Toss Day",
-      "description": "A humorous day encouraging people to throw fruitcakes as far as they can, poking fun at the holiday fruitcake's status as the infamous 're-gifted' gift everyone seems to receive.",
-      "origin": "Started in the 1990s as a lighthearted tradition in certain US towns to make fruitcake tossing a fun competition.",
-      "category": "Novelty/Pop Culture",
-      "emoji": "🍰",
-      "funFact": "The world record fruitcake toss is over 75 feet — definitely a serious throw for a dense cake!"
+      "name": "Holy Innocents' Day (Childermas)",
+      "description": "A Christian feast day remembering the infants killed by King Herod. In some traditions it was considered so unlucky that people avoided starting new projects.",
+      "origin": "Observed since at least the 5th century and rooted in the Gospel of Matthew. In medieval Europe it included the quirky tradition of the Boy Bishop, where a choirboy was appointed to lead church services.",
+      "category": "Religious and Historical",
+      "emoji": "🕯️",
+      "funFact": "In Spain and Latin America, December 28 is the Día de los Santos Inocentes, which is basically April Fools' Day, complete with pranks and fake news stories in newspapers."
+    },
+    {
+      "name": "Tick Tock Day",
+      "description": "A day to think about time, clocks, and the passing of the last days of the year. Set your clocks right and wonder where the year went.",
+      "origin": "A modern unofficial observance that plays on the countdown to New Year's Eve, just a few days away.",
+      "category": "Pop Culture and Novelty",
+      "emoji": "⏰",
+      "funFact": "Clocks have been tick-tocking for centuries, but the pendulum clock, invented by Christiaan Huygens in 1656, made accurate timekeeping possible for the first time."
+    },
+    {
+      "name": "National Short Film Day",
+      "description": "A celebration of the shortest night of the year in the Northern Hemisphere's film world, spotlighting movies that tell a complete story in a handful of minutes.",
+      "origin": "Created by the short film community and observed on or around December 21 internationally. The date was chosen because the winter solstice is the shortest day of the year, so it only appears here as a movie lover's extra celebration. It is often paired with the date of the first public commercial film screening.",
+      "category": "Film and Entertainment",
+      "emoji": "🎬",
+      "funFact": "The first commercial movie screening by the Lumière brothers took place on December 28, 1895, in Paris, and the films were each only about 50 seconds long."
+    },
+    {
+      "name": "Pledge of Allegiance Day",
+      "description": "A day recognizing the U.S. Pledge of Allegiance, which was formally recognized by Congress in 1942.",
+      "origin": "President Franklin D. Roosevelt signed the bill on December 28, 1942, officially adopting the Pledge as part of the U.S. Flag Code.",
+      "category": "Historical and Patriotic",
+      "emoji": "🇺🇸",
+      "funFact": "The original Pledge, written in 1892, did not include the words 'under God.' Those were added in 1954, and the original version also had a different gesture accompanying it."
     }
   ]
 }

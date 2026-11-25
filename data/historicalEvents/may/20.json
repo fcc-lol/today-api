@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1498,
-      "title": "Vasco da Gama Arrives in India",
-      "description": "Portuguese explorer Vasco da Gama reaches the shores of Calicut (now Kozhikode) in India, establishing the first direct maritime route from Europe to Asia.",
+      "title": "Vasco da Gama Arrives in Calicut",
+      "description": "Portuguese explorer Vasco da Gama reached Calicut on the Malabar Coast of India after sailing around the Cape of Good Hope, completing the first direct sea voyage from Europe to India.",
       "category": "Exploration",
-      "significance": "This event marked the beginning of a new era in global trade and European colonial expansion into Asia."
+      "significance": "Opened a direct maritime trade route between Europe and Asia, launching the era of Portuguese dominance in the Indian Ocean spice trade and reshaping global commerce and colonialism."
     },
     {
       "year": 1873,
-      "title": "Frank Winfield Woolworth Opens First Successful 'Five Cent Store'",
-      "description": "Frank Winfield Woolworth opens the first successful 'Five Cent Store' in Lancaster, Pennsylvania, pioneering a new retail concept.",
-      "category": "Business and Commerce",
-      "significance": "Woolworth's store is considered the origin of the modern retail chain store concept."
+      "title": "Levi Strauss and Jacob Davis Receive Patent for Blue Jeans",
+      "description": "Levi Strauss and tailor Jacob Davis were granted U.S. Patent No. 139,121 for using copper rivets to reinforce the stress points of work pants, creating what became blue jeans.",
+      "category": "Business and Invention",
+      "significance": "The patent launched one of the most enduring garments in history, which grew from workwear into a global symbol of casual fashion and American culture."
+    },
+    {
+      "year": 1902,
+      "title": "Cuba Becomes an Independent Republic",
+      "description": "The United States ended its military occupation of Cuba, and Tomás Estrada Palma was inaugurated as the first president of the Republic of Cuba.",
+      "category": "Politics",
+      "significance": "Marked formal Cuban independence after the Spanish-American War, though the Platt Amendment kept significant U.S. influence over Cuban affairs for decades."
     },
     {
       "year": 1927,
-      "title": "Charles Lindbergh Completes First Solo Nonstop Transatlantic Flight",
-      "description": "Charles Lindbergh lands in Paris after flying nonstop from New York, completing the first solo nonstop transatlantic airplane flight.",
+      "title": "Charles Lindbergh Begins Historic Transatlantic Flight",
+      "description": "Charles Lindbergh took off from Roosevelt Field, New York, in the Spirit of St. Louis on the first solo nonstop transatlantic flight, landing in Paris the next day, May 21.",
       "category": "Aviation",
-      "significance": "Lindbergh's flight demonstrated the possibilities of aviation and greatly boosted public interest and investment in air travel."
+      "significance": "Lindbergh's flight made him a global celebrity, proved the potential of long-distance air travel, and spurred rapid growth of the commercial aviation industry."
     },
     {
-      "year": 1990,
-      "title": "East and West Germany Hold First Free Elections",
-      "description": "East Germany holds its first free parliamentary elections since World War II as part of steps leading to German reunification.",
-      "category": "Politics and Government",
-      "significance": "These elections were a key step in the process of German reunification, symbolizing the end of the Cold War division of Europe."
+      "year": 1932,
+      "title": "Amelia Earhart Begins Solo Transatlantic Flight",
+      "description": "Exactly five years after Lindbergh, Amelia Earhart took off from Newfoundland in a Lockheed Vega and landed in Northern Ireland the next day, becoming the first woman to fly solo across the Atlantic.",
+      "category": "Aviation",
+      "significance": "Earhart's achievement broke gender barriers in aviation and inspired generations of women pilots."
     }
   ]
 }

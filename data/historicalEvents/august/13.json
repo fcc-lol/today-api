@@ -2,32 +2,39 @@
   "date": "August 13",
   "events": [
     {
-      "year": 1521,
-      "title": "Fall of Tenochtitlan",
-      "description": "Spanish conquistadors led by Hernán Cortés capture Tenochtitlan, leading to the fall of the Aztec Empire and significant expansion of Spanish influence in the Americas.",
-      "category": "Exploration/Conquest",
-      "significance": "Marked the end of Aztec rule and the beginning of Spanish colonization in Mexico, reshaping the cultural and political landscape of the region."
-    },
-    {
       "year": 1961,
       "title": "Construction of the Berlin Wall Begins",
-      "description": "East Germany erects the Berlin Wall to prevent East Germans from fleeing to West Berlin amidst Cold War tensions.",
-      "category": "Cold War/Politics",
-      "significance": "Symbolized the division of East and West during the Cold War and became a powerful emblem of communist repression until its fall in 1989."
+      "description": "East German authorities closed the border between East and West Berlin overnight, first with barbed wire and then with concrete blocks, to stop mass emigration to the West.",
+      "category": "Politics/Cold War",
+      "significance": "The Berlin Wall became the most potent physical symbol of the Cold War and the division of Europe, remaining in place until its fall in November 1989."
     },
     {
-      "year": 1792,
-      "title": "Battle of Verdun during French Revolutionary Wars",
-      "description": "French forces repel Austrian and Prussian armies at Verdun, strengthening the position of the French Republic during the Revolutionary Wars.",
-      "category": "Military/War",
-      "significance": "A key victory that bolstered French morale and helped secure the Republic during turbulent times."
+      "year": 1521,
+      "title": "Fall of Tenochtitlan",
+      "description": "After a siege of nearly three months, Spanish conquistador Hernán Cortés and his indigenous allies captured the Aztec capital Tenochtitlan and its last emperor, Cuauhtémoc.",
+      "category": "Military/Conquest",
+      "significance": "The fall marked the end of the Aztec Empire and the beginning of Spanish colonial rule in Mexico, reshaping the Americas."
     },
     {
-      "year": 1942,
-      "title": "Japanese Flush Out American Survivors on Guam",
-      "description": "Japanese forces execute a campaign against American survivors on Guam during World War II.",
-      "category": "World War II/Military",
-      "significance": "Illustrated the harsh realities of the Pacific Theater and the brutal treatment of prisoners and civilians."
+      "year": 1818,
+      "title": "Birth of Lucy Stone",
+      "description": "Lucy Stone, an American abolitionist and suffragist, was born in Massachusetts. She became the first woman from Massachusetts to earn a college degree and kept her own surname after marriage.",
+      "category": "Births/Social Reform",
+      "significance": "Stone was a leading figure in the women's rights and anti-slavery movements and helped found the American Woman Suffrage Association."
+    },
+    {
+      "year": 1926,
+      "title": "Birth of Fidel Castro",
+      "description": "Fidel Castro was born in Birán, Cuba. He later led the Cuban Revolution that overthrew Fulgencio Batista in 1959 and governed Cuba for nearly five decades.",
+      "category": "Births/Politics",
+      "significance": "Castro established the first communist state in the Western Hemisphere and was a central figure in Cold War events such as the Cuban Missile Crisis."
+    },
+    {
+      "year": 1889,
+      "title": "Invention of the Coin-Operated Telephone Patented",
+      "description": "William Gray received a patent for the first coin-operated public telephone, which was installed in Hartford, Connecticut.",
+      "category": "Science/Technology",
+      "significance": "The pay telephone made telephone service widely accessible to the public and became a fixture of communication for over a century."
     }
   ]
 }

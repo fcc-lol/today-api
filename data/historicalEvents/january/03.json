@@ -3,24 +3,38 @@
   "events": [
     {
       "year": 1777,
-      "title": "Battle of Princeton (American Revolutionary War)",
-      "description": "George Washington's Continental Army defeats British forces near Princeton, New Jersey, delivering a crucial morale boost and momentum following the victory at Trenton.",
+      "title": "Battle of Princeton",
+      "description": "George Washington's Continental Army defeated British forces near Princeton, New Jersey, days after the victory at Trenton. Washington led a surprise night march around Cornwallis's army to attack the British rear guard.",
       "category": "Military",
-      "significance": "Revived American morale and helped sustain the Revolutionary cause, setting the stage for subsequent American victories."
+      "significance": "Together with the victory at Trenton, it revived American morale and the Patriot cause after a string of defeats, and forced the British to withdraw from much of New Jersey."
     },
     {
       "year": 1959,
-      "title": "Alaska admitted as the 49th U.S. state",
-      "description": "Alaska becomes the United States' 49th state, joining the Union after decades of territorial status.",
-      "category": "Political/Milestone",
-      "significance": "Expanded U.S. territory and resources; reshaped national demographics and geography as the largest state by area."
+      "title": "Alaska Admitted as the 49th U.S. State",
+      "description": "President Dwight D. Eisenhower signed the proclamation formally admitting Alaska to the Union, making it the 49th state.",
+      "category": "Politics",
+      "significance": "Alaska became the largest U.S. state by area, adding vast natural resources and strategic Arctic territory to the nation. Hawaii followed as the 50th state later in 1959."
+    },
+    {
+      "year": 1521,
+      "title": "Martin Luther Excommunicated",
+      "description": "Pope Leo X issued the papal bull Decet Romanum Pontificem, formally excommunicating Martin Luther from the Catholic Church after he refused to recant his criticisms of church practices.",
+      "category": "Religion",
+      "significance": "The excommunication cemented the break between Luther and Rome and propelled the Protestant Reformation, which reshaped religion and politics across Europe."
     },
     {
       "year": 1961,
-      "title": "United States breaks diplomatic relations with Cuba",
-      "description": "In the Cold War context, the United States severs diplomatic ties with Fidel Castro's Cuba, escalating tensions between the two nations.",
-      "category": "Cold War/Politics",
-      "significance": "Dramatically intensified U.S.–Cuba hostility and influenced subsequent events, including later interventions and crises in the region."
+      "title": "United States Severs Diplomatic Relations with Cuba",
+      "description": "President Eisenhower announced the end of diplomatic relations with Cuba amid worsening tensions following Fidel Castro's revolution, nationalizations of American property, and Cuba's growing alignment with the Soviet Union.",
+      "category": "Politics",
+      "significance": "The break set the stage for the Bay of Pigs invasion and the Cuban Missile Crisis, and began decades of hostility and the U.S. embargo."
+    },
+    {
+      "year": 1993,
+      "title": "START II Treaty Signed",
+      "description": "U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the Treaty on Further Reduction and Limitation of Strategic Offensive Arms (START II) in Moscow.",
+      "category": "Diplomacy",
+      "significance": "The treaty aimed to cut deployed strategic nuclear warheads by roughly two-thirds and ban multiple-warhead land-based missiles, marking a major post-Cold War arms control effort, though it never fully entered into force."
     }
   ]
 }

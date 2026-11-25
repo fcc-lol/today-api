@@ -2,57 +2,57 @@
   "date": "March 6",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its beautiful and delicate pink to white flowers that herald the arrival of spring. These cherry blossoms create iconic landscapes in Japan, Korea, and parts of the United States during early spring.",
-      "bloomingSeason": "Late February to early April",
-      "location": "Temperate regions of Japan, Korea, Washington D.C. (USA)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asia for ornamental use and for its sour fruit, which is pickled or made into liqueur.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "Japan, China, Korea, and temperate gardens worldwide",
       "colors": [
+        "White",
         "Pink",
-        "White"
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms bloom for only about one to two weeks, and their fleeting beauty is celebrated in festivals called Hanami in Japan."
+      "funFact": "Ume blossoms are celebrated in East Asia as a symbol of perseverance because they bloom in the cold, often while snow is still on the ground, and they traditionally herald spring before cherry blossoms."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy, evergreen shrub that produces clusters of fragrant, funnel-shaped flowers. It blooms profusely in mild Mediterranean climates, often from late winter into spring and summer.",
-      "bloomingSeason": "February to October",
-      "location": "Mediterranean Basin, Southern United States, India",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, often emerging through lingering snow.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce a natural antifreeze-like protein that helps them survive freezing, and the compound galantamine from related plants is used in medicine for Alzheimer's disease."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen Australian tree or large shrub covered in fluffy, golden, ball-shaped flower clusters with a sweet fragrance. Its sickle-shaped leaves are actually flattened leaf stalks called phyllodes.",
+      "bloomingSeason": "Late winter to spring in Australia (July to October), with related wattles and acacias flowering in other months across the continent",
+      "location": "Southeastern Australia",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring in the Southern Hemisphere."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily (Naked Lady)",
+      "description": "A bulbous perennial that sends up leafless stalks topped with clusters of large, fragrant, trumpet-shaped flowers. The strap-like leaves appear after flowering and die back in summer.",
+      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere (February to April)",
+      "location": "Western Cape of South Africa; naturalized in Australia, California, and the Mediterranean",
       "colors": [
         "Pink",
         "White",
-        "Red"
+        "Rose"
       ],
       "emoji": "🌺",
-      "funFact": "All parts of the oleander plant are toxic if ingested, yet it is widely cultivated as an ornamental plant due to its beautiful flowers and drought tolerance."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An iconic Australian tree known for its unique flower spikes composed of hundreds of tiny flowers that form cylindrical golden-yellow inflorescences. It blooms mainly in late summer to early autumn but can bloom sporadically throughout the year in warmer climates.",
-      "bloomingSeason": "February to May (often blooming in March)",
-      "location": "Eastern Australia coastal areas",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksias are vital nectar sources for many Australian birds and mammals, especially in coastal environments."
-    },
-    {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A bulbous perennial that is one of the first flowers to bloom in early spring, often pushing through the last snow cover. Its cup-shaped flowers brighten gardens with colors of purple, yellow, and white.",
-      "bloomingSeason": "February to April",
-      "location": "Europe and North America",
-      "colors": [
-        "Purple",
-        "Yellow",
-        "White"
-      ],
-      "emoji": "🌷",
-      "funFact": "Spring crocus flowers close at night and open during the day to protect their reproductive organs from cold temperatures."
+      "funFact": "The common name 'naked lady' comes from the way the flower stalks emerge from bare ground without any leaves, often after the first autumn rains or heat."
     }
   ]
 }

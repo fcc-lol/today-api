@@ -2,36 +2,44 @@
   "date": "March 31",
   "holidays": [
     {
+      "name": "National Tater Day",
+      "description": "A day devoted to the humble sweet potato, celebrated with festivals, parades, and plenty of spud-themed treats. Folks in Benton, Kentucky, go all out with a full-blown festival and a mule day.",
+      "origin": "Started in Benton, Kentucky, in 1935 when a local man, Ruth Gooch Hilton's community, began selling sweet potato slips ('tater slips') to farmers. The tradition grew into a multi-day festival with parades and a Tater Day queen.",
+      "category": "Food Holiday",
+      "emoji": "🍠",
+      "funFact": "Benton's Tater Day festival is so beloved that local schools historically closed for the day so kids could help plant sweet potatoes and enjoy the festivities."
+    },
+    {
+      "name": "Eiffel Tower Day",
+      "description": "A celebration of the iconic Paris landmark, marking the day it was officially completed and opened. Fans around the world toast the 'Iron Lady' with croissants, French music, and miniature replicas.",
+      "origin": "The Eiffel Tower was completed on March 31, 1889, after more than two years of construction, for the 1889 World's Fair (Exposition Universelle) in Paris.",
+      "category": "Landmark Celebration",
+      "emoji": "🗼",
+      "funFact": "The tower was originally meant to be dismantled after 20 years, but it was saved because it proved useful as a radio transmission antenna."
+    },
+    {
+      "name": "International Transgender Day of Visibility",
+      "description": "A day to celebrate transgender and nonbinary people, raise awareness of discrimination they face, and honor their contributions to society.",
+      "origin": "Founded in 2009 by Michigan-based activist Rachel Crandall, who wanted a celebration of living trans people, since the only major trans-related observance at the time was the memorial Transgender Day of Remembrance.",
+      "category": "Awareness Day",
+      "emoji": "🏳️‍⚧️",
+      "funFact": "Rachel Crandall chose March 31 partly because no other major trans-focused day of celebration existed, and the day has since spread worldwide, with landmarks lit in the trans pride colors."
+    },
+    {
       "name": "World Backup Day",
-      "description": "A day to remind individuals and businesses to back up their important data to avoid digital disasters.",
-      "origin": "Started in 2011 as a social movement to raise awareness about the importance of data backups.",
+      "description": "A reminder to back up your precious photos, documents, and cat memes before disaster strikes. Tech nerds worldwide nag friends and family to save their data in more than one place.",
+      "origin": "Created in 2011 by digital strategists on Reddit, who chose March 31 so people would back up their data the day before April Fools' Day, when you don't want to be the fool who lost everything.",
       "category": "Tech Awareness",
       "emoji": "💾",
-      "funFact": "Approximately 30% of people lose their data due to not backing up, making this day both practical and lifesaving!"
-    },
-    {
-      "name": "National Crayon Day",
-      "description": "A celebration of crayons — that colorful, waxy tool that has sparked creativity in children and adults alike for over a century.",
-      "origin": "March 31 marks the birthday of Edwin Binney, co-creator of Crayola crayons in 1903.",
-      "category": "Food & Fun",
-      "emoji": "🖍️",
-      "funFact": "Crayola’s original box had only eight colors, and today they offer over 120 shades!"
-    },
-    {
-      "name": "Cesar Chavez Day",
-      "description": "An observance honoring the civil rights and labor movement leader Cesar Chavez, champion for farm workers' rights.",
-      "origin": "Established in 1994, this day commemorates Chavez’s birthday and legacy in social justice.",
-      "category": "Historical / Social Justice",
-      "emoji": "✊",
-      "funFact": "Chavez co-founded the National Farm Workers Association, which later became the United Farm Workers union."
+      "funFact": "The day was set right before April 1 on purpose: the slogan is 'Don't be an April Fool, back up your data.'"
     },
     {
       "name": "Bunsen Burner Day",
-      "description": "A quirky tribute to the iconic lab tool that revolutionized chemistry experiments worldwide.",
-      "origin": "Celebrated unofficially on March 31 because Robert Bunsen was born on this day in 1811.",
-      "category": "Science & Education",
+      "description": "A salute to the trusty laboratory flame that has fueled science classes, burnt eyebrows, and the occasional marshmallow roast. Celebrate by doing a safe science experiment or toasting something delicious.",
+      "origin": "Honors the birthday of German chemist Robert Wilhelm Bunsen, born March 31, 1811, who helped popularize the gas burner that bears his name.",
+      "category": "Science Celebration",
       "emoji": "🔥",
-      "funFact": "The Bunsen burner was invented in 1855 and remains a staple in laboratories to this day!"
+      "funFact": "Bunsen didn't actually invent the burner. His lab technician, Peter Desaga, built it based on a design by Michael Faraday, but Bunsen got the name credit."
     }
   ]
 }

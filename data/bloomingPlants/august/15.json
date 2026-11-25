@@ -3,55 +3,77 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun across the sky, symbolizing summer and warmth.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, especially North America and Europe",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made up of golden ray florets surrounding a dark central disk. The heads track the sun during early growth and are widely cultivated for seed, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere (July to September)",
+      "location": "Native to North America; widely cultivated across the United States, Europe, Ukraine, Russia, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters tall and their flower heads are actually composed of hundreds of tiny flowers called florets."
-    },
-    {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "An evergreen shrub or small tree with large, bell-shaped clusters of red flowers, commonly found in mountainous regions.",
-      "bloomingSeason": "April to August (some varieties bloom into August)",
-      "location": "Himalayan region, including Nepal, Bhutan, and northern India",
-      "colors": [
-        "Red",
-        "Pink"
-      ],
-      "emoji": "🌺",
-      "funFact": "Rhododendron arboreum is the national flower of Nepal and can grow up to 20 meters tall."
+      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual flowers, and the seed pattern follows a Fibonacci spiral."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant herbaceous shrub known for its spikes of purple-blue flowers and calming scent, often used in perfumes and aromatherapy.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean region and widely cultivated in temperate gardens worldwide",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Late spring to late summer, with peak harvest in July and August in cooler regions",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the northern United States",
       "colors": [
-        "Purple",
-        "Blue"
+        "purple",
+        "lavender",
+        "blue",
+        "violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender attracts pollinators such as bees and butterflies, playing a crucial role in many garden ecosystems."
+      "funFact": "Lavender oil has been used since Roman times, and the name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Banksia menziesii",
-      "commonName": "Firewood Banksia",
-      "description": "A woody shrub or small tree unique to Australia, with distinctive cylindrical flower spikes consisting of numerous small flowers in shades of orange to red.",
-      "bloomingSeason": "July to October",
-      "location": "Southwest Australia",
+      "name": "Hydrangea paniculata",
+      "commonName": "Panicle Hydrangea",
+      "description": "A hardy deciduous shrub producing large cone-shaped clusters of flowers that start creamy white and age to pink or burgundy. It tolerates sun and cold better than many other hydrangeas.",
+      "bloomingSeason": "Mid-summer to fall (July to October)",
+      "location": "Native to China, Japan, and Sakhalin; widely grown in temperate gardens in North America and Europe",
       "colors": [
-        "Orange",
-        "Red"
+        "white",
+        "cream",
+        "pink",
+        "burgundy"
       ],
-      "emoji": "🌺",
-      "funFact": "Banksia flowers provide nectar that is an important food source for nectar-feeding birds and mammals in Australia."
+      "emoji": "🤍",
+      "funFact": "The flower color of panicle hydrangeas shifts with age rather than soil chemistry, unlike bigleaf hydrangeas, whose color depends on soil acidity and aluminum availability."
+    },
+    {
+      "name": "Chamaenerion angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower with spires of vivid magenta flowers that bloom from the bottom upward. It is among the first plants to colonize burned or disturbed land.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Circumpolar across the Northern Hemisphere, including Alaska, Canada, Scandinavia, Siberia, and the Rocky Mountains",
+      "colors": [
+        "magenta",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Locals often say that when the fireweed blooms reach the top of the stalk, summer is nearly over, and the first frost is coming soon."
+    },
+    {
+      "name": "Nymphaea nouchali",
+      "commonName": "Star Lotus Water Lily",
+      "description": "An aquatic perennial with floating leaves and star-shaped flowers that rise above the water. It thrives in warm, shallow ponds and lakes during the monsoon and summer months.",
+      "bloomingSeason": "Monsoon and summer months (June to October) in South and Southeast Asia",
+      "location": "South and Southeast Asia, including India, Sri Lanka, Bangladesh, and Thailand, and northern Australia",
+      "colors": [
+        "blue",
+        "purple",
+        "white",
+        "pink"
+      ],
+      "emoji": "🪷",
+      "funFact": "It is the national flower of Sri Lanka and Bangladesh (where it is called the 'shapla')."
     }
   ]
 }

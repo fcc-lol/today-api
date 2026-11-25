@@ -2,36 +2,44 @@
   "date": "December 2",
   "holidays": [
     {
-      "name": "National Mutt Day",
-      "description": "A day to celebrate and promote the adoption of mixed-breed dogs, highlighting their unique charm and wonderful companionship.",
-      "origin": "Started by pet lovers in 2005 to counterbalance purebred dog awareness days and encourage shelter adoptions.",
-      "category": "Animal Welfare 🐾",
-      "emoji": "🐶",
-      "funFact": "Studies show that mutts often have fewer genetic health problems due to their diverse gene pool!"
-    },
-    {
-      "name": "Put on Your Own Shoes Day",
-      "description": "An unusual reminder to appreciate the simple act of putting on your own shoes and embracing independence!",
-      "origin": "Origin uncertain, but celebrated to encourage self-reliance and gratitude for mobility.",
-      "category": "Lifestyle & Motivation 👟",
-      "emoji": "👟",
-      "funFact": "This day playfully encourages people who usually get help with footwear to try doing it solo—bonus points for wearing mismatched shoes!"
-    },
-    {
-      "name": "Day of the Ninja",
-      "description": "Celebrate the stealthy, mysterious warriors of Japan with costumes, ninja-themed activities, and appreciation of ninja culture.",
-      "origin": "Invented in 2003 by the online community to honor ninjas, whose actual historical existence mixes fact and legend.",
-      "category": "Pop Culture & History 🥷",
-      "emoji": "🥷",
-      "funFact": "This day is unofficial but wildly popular among ninja fans worldwide, often featuring shadowy shurikens and sneaky fun!"
-    },
-    {
       "name": "National Fritters Day",
-      "description": "Indulge in delicious deep-fried goodies like apple fritters, corn fritters, or whatever crispy treat you fancy!",
-      "origin": "Food lovers established this day to appreciate fritter recipes and variations from around the globe.",
-      "category": "Food & Drink 🍩",
-      "emoji": "🍩",
-      "funFact": "The word 'fritter' comes from the Latin 'fricta,' meaning 'fried thing'—making it a perfect crispy celebration!"
+      "description": "A day to celebrate deep-fried batter-coated goodness, whether stuffed with apples, corn, clams, or bananas. Any food that can be dunked in batter and fried is fair game for the festivities.",
+      "origin": "Like many American food observances, it grew out of food-industry and fan-driven calendars of unofficial holidays rather than any formal proclamation. Fritters themselves date back centuries, with versions appearing in medieval European cookbooks.",
+      "category": "Food",
+      "emoji": "🍤",
+      "funFact": "The word 'fritter' comes from the Latin 'frictus,' meaning fried, and fritters appear in cuisines worldwide, from Indian pakoras to Spanish buñuelos."
+    },
+    {
+      "name": "National Mutt Day (Winter Edition)",
+      "description": "A day to celebrate mixed-breed dogs in all their wonderfully unpredictable glory and to encourage adopting them from shelters. Expect many photos of dogs that look like a cross between a fox, a couch, and a mop.",
+      "origin": "Founded in 2005 by pet and animal welfare advocate Colleen Paige, who also created National Dog Day. It is observed twice a year, on July 31 and December 2, to promote mixed-breed adoption.",
+      "category": "Animals",
+      "emoji": "🐶",
+      "funFact": "Mixed-breed dogs are often considered to have fewer inherited genetic health problems than some purebreds, though this varies widely by dog."
+    },
+    {
+      "name": "National Special Education Day",
+      "description": "A day to recognize the teachers, students, and families involved in special education and the progress made in providing equal educational opportunities for children with disabilities.",
+      "origin": "Observed in the United States on December 2 to commemorate the anniversary of the 1975 signing of the Education for All Handicapped Children Act, now known as the Individuals with Disabilities Education Act (IDEA).",
+      "category": "Awareness",
+      "emoji": "🍎",
+      "funFact": "Before the 1975 law, millions of children with disabilities in the US were either excluded from public schools or were not receiving appropriate educational services."
+    },
+    {
+      "name": "International Day for the Abolition of Slavery",
+      "description": "A United Nations observance that spotlights modern forms of slavery, including human trafficking, forced labor, child labor, and forced marriage.",
+      "origin": "Proclaimed by the UN General Assembly in 1949 as the date the Convention for the Suppression of the Traffic in Persons was adopted on December 2. It is observed every year as a call to action.",
+      "category": "Awareness",
+      "emoji": "⛓️",
+      "funFact": "Despite being illegal almost everywhere, estimates from international organizations suggest tens of millions of people are still trapped in forms of modern slavery worldwide."
+    },
+    {
+      "name": "Play Basketball Day",
+      "description": "A day to celebrate the sport by shooting hoops, dribbling around, or at least watching highlight reels while pretending you could dunk.",
+      "origin": "The date is tied to basketball's early history, when the first game with Naismith's rules was played in December 1891 in Springfield, Massachusetts. It started as an indoor activity for students to stay active in winter.",
+      "category": "Sports",
+      "emoji": "🏀",
+      "funFact": "The first basketball games used peach baskets as hoops, and someone had to retrieve the ball by hand after every score until the bottoms were cut out."
     }
   ]
 }

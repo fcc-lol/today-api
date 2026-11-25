@@ -2,36 +2,44 @@
   "date": "November 19",
   "holidays": [
     {
-      "name": "World Toilet Day 🚽",
-      "description": "A day to raise awareness of the global sanitation crisis and inspire action to tackle the issues around access to toilets and clean sanitation.",
-      "origin": "Established by the United Nations in 2013 to highlight the importance of sanitation and hygiene worldwide.",
+      "name": "International Men's Day",
+      "description": "A global observance celebrating the positive contributions of men and boys while spotlighting men's health, gender equality, and positive role models. Expect mustache-themed social posts and heartfelt shout-outs to dads, brothers, and mentors.",
+      "origin": "Launched in Trinidad and Tobago in 1999 by Dr. Jerome Teelucksingh, who chose November 19 partly to honor his father's birthday and the date Trinidad and Tobago's soccer team earned a World Cup qualifying push in 1989.",
+      "category": "Awareness Day",
+      "emoji": "👨",
+      "funFact": "The date was reportedly chosen in part because of the 1989 Trinidad and Tobago soccer team's World Cup qualification efforts, which united the nation behind its men's team."
+    },
+    {
+      "name": "National Play Monopoly Day",
+      "description": "A day for flipping the board, sulking in jail, and trying to bankrupt your family over a plastic top hat. Gather your relatives and test whether friendships can survive hotels on Boardwalk.",
+      "origin": "An unofficial pop culture and game observance celebrated by board game fans, tied to the enduring popularity of the Monopoly game that Parker Brothers began selling in 1935.",
+      "category": "Pop Culture",
+      "emoji": "🎩",
+      "funFact": "The game was based on The Landlord's Game, created by Elizabeth Magie in 1904 to illustrate the problems of land monopolies, which is almost the opposite of how people play it today."
+    },
+    {
+      "name": "Great American Smokeout",
+      "description": "A day when smokers are encouraged to ditch cigarettes for 24 hours, in the hope that one day turns into forever. It is basically a national group dare to quit, with plenty of gum, toothpicks, and stress balls.",
+      "origin": "Started by the American Cancer Society, building on a 1970s event in Massachusetts where a man named Arthur Mullaney asked people to give up cigarettes for a day and donate the savings to a high school. The first national Smokeout was in 1977 and it is held on the third Thursday of November, though some years it lands on November 19.",
+      "category": "Awareness Day",
+      "emoji": "🚭",
+      "funFact": "In 1976, California held a Smokeout where nearly one million smokers reportedly quit for the day, inspiring the national event the next year."
+    },
+    {
+      "name": "World Toilet Day",
+      "description": "A day dedicated to the humble throne and the global fight for sanitation for everyone. It is silly to giggle about, but the cause is deadly serious, and the celebrations often include toilet-shaped decorations and puns.",
+      "origin": "Founded in 2001 by the World Toilet Organization, a Singapore-based group, and officially recognized by the United Nations in 2013 after Singapore led a resolution.",
       "category": "Awareness Day",
       "emoji": "🚽",
-      "funFact": "Did you know 4.2 billion people globally still lack access to safely managed sanitation services? This day flushes that issue into the spotlight!"
+      "funFact": "The UN resolution recognizing World Toilet Day was cosponsored by over 120 countries, making it one of the rare times so many nations officially agreed on bathrooms."
     },
     {
-      "name": "International Men's Day 👨",
-      "description": "A day to celebrate men and boys, focusing on men's health, gender equality, and positive male role models.",
-      "origin": "Started in 1992 by Dr. Jerome Teelucksingh in Trinidad and Tobago to highlight the positive contributions of men in society and challenge stereotypes.",
-      "category": "Social Awareness",
-      "emoji": "👨",
-      "funFact": "International Men's Day has six key themes, from promoting positive role models to improving gender relations and men's health awareness."
-    },
-    {
-      "name": "Peanut Butter Fudge Day 🍬🥜",
-      "description": "A sweet celebration honoring the rich, creamy, nutty delight of peanut butter fudge.",
-      "origin": "An unofficial food holiday started by peanut butter lovers and fudge aficionados to celebrate this delicious treat.",
-      "category": "Food Day",
-      "emoji": "🍬🥜",
-      "funFact": "Peanut butter fudge dates back to early 1900s confectionery recipes and combines two classic favorites—peanut butter and rich fudge—into one addictive dessert!"
-    },
-    {
-      "name": "National Play Monopoly Day 🎲💰",
-      "description": "Celebrate the classic board game Monopoly by gathering friends or family for some real estate rivalry and fun!",
-      "origin": "An unofficial day dedicated to the iconic board game first patented in 1935, recognizing its place in pop culture and family entertainment.",
-      "category": "Pop Culture",
-      "emoji": "🎲💰",
-      "funFact": "The longest game of Monopoly ever played lasted 70 straight days — talk about being trapped on Boardwalk!"
+      "name": "Have a Bad Day Day",
+      "description": "An anti-holiday that gives you permission to be grumpy, mope, and complain about everything with no guilt. It is the perfect antidote to forced positivity, so grab a sad song and a sour candy.",
+      "origin": "A tongue-in-cheek unofficial observance that popped up on quirky holiday calendars as a counterbalance to endless 'Have a Nice Day' culture.",
+      "category": "Unofficial Holiday",
+      "emoji": "😤",
+      "funFact": "The famous smiley face behind 'Have a Nice Day' was designed in 1963 by Harvey Ball in about ten minutes, and he was paid just $45 for it."
     }
   ]
 }

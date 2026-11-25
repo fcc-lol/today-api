@@ -2,53 +2,60 @@
   "date": "February 6",
   "plants": [
     {
-      "name": "Hamamelis virginiana",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub or small tree native to eastern North America, witch hazel produces fragrant, ribbon-like yellow flowers with a slight spicy scent. It blooms in late fall to winter, often brightening up the landscape in colder months.",
-      "bloomingSeason": "October to February",
-      "location": "Eastern United States and Canada",
+      "name": "Galanthus nivalis",
+      "commonName": "Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, making it one of the earliest signs of the end of winter in temperate gardens and woodlands.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Native to Europe; widely naturalized in the UK, Northern Europe, and North America",
       "colors": [
-        "yellow"
+        "white",
+        "green"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel extract is popularly used for medicinal and cosmetic purposes, especially as an astringent for skin."
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce a compound called galantamine, which is used in medication to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Crocus sativus",
-      "commonName": "Saffron Crocus",
-      "description": "A fall-planted bulbous perennial that flowers in late winter, the saffron crocus produces delicate purple flowers with vivid red stigmas, which are harvested to produce saffron spice.",
-      "bloomingSeason": "January to March",
-      "location": "Mediterranean region",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that bears fragrant five-petaled blossoms on bare branches in the depths of winter. It is highly prized in East Asian gardens, bonsai, and art, and is followed by sour fruits used for pickling and liqueur.",
+      "bloomingSeason": "Mid winter to early spring (January to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "red"
-      ],
-      "emoji": "💜",
-      "funFact": "The saffron crocus’s stigmas are the world’s most expensive spice by weight."
-    },
-    {
-      "name": "Prunus persica",
-      "commonName": "Peach Blossom",
-      "description": "A fruit tree native to China, peach trees bloom with beautiful pink flowers in late winter to early spring. These blossoms herald the coming of spring in many temperate regions, often appearing as early as February in warm climates.",
-      "bloomingSeason": "February to April",
-      "location": "China, temperate regions worldwide",
-      "colors": [
-        "pink"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Peach blossoms are often celebrated culturally in East Asia as symbols of longevity and romance."
+      "funFact": "In Chinese culture the plum blossom is one of the 'Three Friends of Winter' and symbolizes perseverance and hope because it blooms in the cold."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle / Mimosa",
-      "description": "An evergreen tree native to southeastern Australia, silver wattle bears bright yellow, fragrant, ball-shaped flowers in late winter and early spring. It is widely cultivated as an ornamental and used to signal the end of winter in many places.",
-      "bloomingSeason": "January to March",
-      "location": "Australia, also cultivated worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic evergreen shrub with the largest flower head in the Protea genus, up to 30 cm across, made of showy pink bracts surrounding a central cluster of tiny flowers. It thrives in the fynbos vegetation on nutrient-poor, acidic soils.",
+      "bloomingSeason": "Mostly late spring to summer in the Southern Hemisphere, with some blooms in late summer and autumn; flowering cultivars can appear in February",
+      "location": "Southwestern and southern Cape regions of South Africa",
       "colors": [
-        "yellow"
+        "pink",
+        "cream",
+        "silvery white"
       ],
-      "emoji": "🌻",
-      "funFact": "In Australia, the blooming of silver wattle is celebrated as Wattle Day on September 1st, marking the beginning of spring."
+      "emoji": "🌺",
+      "funFact": "The King Protea is the national flower of South Africa, and its lineage is ancient, dating back tens of millions of years."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers that bloom in winter. It is popular in woodland gardens and mild-winter regions, with thousands of cultivars varying in form from single to fully double.",
+      "bloomingSeason": "Winter to early spring (December to April)",
+      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "variegated"
+      ],
+      "emoji": "🌹",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to produce camellia oil used in cooking and hair care."
     }
   ]
 }

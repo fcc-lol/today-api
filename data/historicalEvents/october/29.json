@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1929,
-      "title": "The Wall Street Crash of 1929",
-      "description": "Also known as Black Tuesday, this was one of the most devastating stock market crashes in the history of the United States, marking the beginning of the Great Depression.",
-      "category": "Economic",
-      "significance": "Led to widespread economic hardship worldwide and major changes in financial regulations."
+      "title": "Black Tuesday Stock Market Crash",
+      "description": "The New York Stock Exchange collapsed as panicked investors sold roughly 16 million shares in a single day, wiping out billions of dollars in market value. It followed the sharp declines of Black Thursday five days earlier.",
+      "category": "Economics",
+      "significance": "Black Tuesday is regarded as the most devastating day in U.S. stock market history and a pivotal moment in the onset of the Great Depression, which reshaped global economic policy and led to major financial regulation."
+    },
+    {
+      "year": 1618,
+      "title": "Execution of Sir Walter Raleigh",
+      "description": "English explorer, courtier, and writer Sir Walter Raleigh was beheaded in London's Old Palace Yard under a suspended sentence for treason dating from 1603, after his final expedition to Guiana failed and angered Spain.",
+      "category": "Politics",
+      "significance": "Raleigh's death marked the end of the Elizabethan age of adventurers and is remembered as a symbol of the shifting politics of James I's reign and early English colonial ambitions in the Americas."
     },
     {
       "year": 1923,
-      "title": "Foundation of the Republic of Turkey",
-      "description": "Mustafa Kemal Atatürk officially proclaimed the Republic of Turkey, marking the end of the Ottoman Empire and the establishment of a secular nation-state.",
-      "category": "Political",
-      "significance": "Signified major political and social reforms, shaping modern Turkey's identity."
+      "title": "Proclamation of the Republic of Turkey",
+      "description": "The Grand National Assembly of Turkey formally proclaimed the Republic, and Mustafa Kemal Atatürk was elected its first president, following the abolition of the Ottoman sultanate in 1922 and the Turkish War of Independence.",
+      "category": "Politics",
+      "significance": "The proclamation created the modern secular Turkish state and began sweeping political, legal, social, and cultural reforms that transformed the former Ottoman heartland."
     },
     {
-      "year": 1863,
-      "title": "Opening of the Suez Canal",
-      "description": "The Suez Canal, linking the Mediterranean Sea and the Red Sea, was officially opened to shipping.",
-      "category": "Technological/Infrastructural",
-      "significance": "Revolutionized global trade routes and maritime navigation between Europe and Asia."
+      "year": 1969,
+      "title": "First Message Sent over ARPANET",
+      "description": "At UCLA, student programmer Charley Kline sent the first host-to-host message over ARPANET to the Stanford Research Institute. The system crashed after the letters 'lo' of the intended word 'login' were transmitted.",
+      "category": "Technology",
+      "significance": "This first transmission on the precursor to the internet is considered a foundational moment in the history of digital networking and global communications."
     },
     {
-      "year": 1956,
-      "title": "British Troops Withdraw from Suez Canal Zone",
-      "description": "British forces began their withdrawal from the Suez Canal Zone following the Suez Crisis sparked by Egypt's nationalization of the canal.",
-      "category": "Political/Military",
-      "significance": "Marked a decline in British imperial power and shifted geopolitical dynamics in the Middle East."
-    },
-    {
-      "year": 2012,
-      "title": "Typhoon Son-Tinh Makes Landfall in Vietnam",
-      "description": "Typhoon Son-Tinh caused widespread flooding and damage as it made landfall in Vietnam.",
-      "category": "Natural Disaster",
-      "significance": "Highlighted the vulnerability of the region to tropical storms and the need for disaster preparedness."
+      "year": 1991,
+      "title": "Galileo Spacecraft Flies by Asteroid Gaspra",
+      "description": "NASA's Galileo probe, en route to Jupiter, made the first close flyby of an asteroid, passing within about 1,600 kilometers of 951 Gaspra and returning detailed images.",
+      "category": "Science",
+      "significance": "The encounter provided the first close-up views of an asteroid and greatly advanced understanding of the composition and geology of small solar system bodies."
     }
   ]
 }

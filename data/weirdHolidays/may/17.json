@@ -2,36 +2,44 @@
   "date": "May 17",
   "holidays": [
     {
-      "name": "World Telecommunication and Information Society Day",
-      "description": "A day to raise awareness of the possibilities that the use of the Internet and other information and communication technologies (ICT) can bring to societies and economies.",
-      "origin": "Established by the International Telecommunication Union (ITU) to celebrate the creation of the ITU and the signing of the first International Telegraph Convention in 1865.",
-      "category": "Awareness Day",
-      "emoji": "📡",
-      "funFact": "The day often highlights the importance of closing the digital divide, ensuring everyone can access modern communication tools."
+      "name": "National Cherry Cobbler Day",
+      "description": "A day to celebrate the warm, bubbly, buttery dessert of baked cherries topped with a golden biscuit or cake-like crust. Bonus points if you eat it with a scoop of vanilla ice cream melting on top.",
+      "origin": "Like many American food observances, it grew out of food-fan and dessert-lover circles and spread through calendars of unofficial food days. No single official founder is clearly documented.",
+      "category": "Food Day",
+      "emoji": "🍒",
+      "funFact": "Cobblers are thought to be named for their 'cobbled' look, since the biscuit topping resembles a rough cobblestone street."
     },
     {
-      "name": "National Walnut Day (USA)",
-      "description": "Celebrate the crunchy, brain-shaped nut that’s packed with omega-3s and flavor! A perfect day to enjoy walnuts in everything from salads to desserts.",
-      "origin": "Started as a fun food holiday in the US to promote the walnut industry and healthy eating habits.",
-      "category": "Food Holiday",
-      "emoji": "🌰",
-      "funFact": "Walnuts have been found in 7,000-year-old archaeological sites. They’re one of the oldest tree foods known to humans!"
-    },
-    {
-      "name": "International Day Against Homophobia, Transphobia and Biphobia",
-      "description": "A day to raise awareness of the violence and discrimination experienced by LGBTQ+ people worldwide and to promote their rights.",
-      "origin": "Established in 2004 to commemorate the World Health Organization’s decision to remove homosexuality from its list of mental disorders on May 17, 1990.",
+      "name": "International Day Against Homophobia, Transphobia and Biphobia (IDAHOBIT)",
+      "description": "A global awareness day that draws attention to discrimination and violence against LGBTQ+ people. Events include flag raisings, art displays, and community gatherings around the world.",
+      "origin": "It was first celebrated in 2005 and commemorates May 17, 1990, when the World Health Organization removed homosexuality from its International Classification of Diseases.",
       "category": "Awareness Day",
       "emoji": "🏳️‍🌈",
-      "funFact": "Millions wear purple on this day as a symbol of support and solidarity with LGBTQ+ communities."
+      "funFact": "It is observed in over 130 countries, and in some places the day is marked by large public events such as rainbow flag displays on government buildings."
     },
     {
-      "name": "Pack Rat Day",
-      "description": "Celebrate your inner pack rat! This quirky holiday honors those who have a hard time throwing things away and love to collect odd and interesting stuff.",
-      "origin": "Dusts off the excuse for keeping those weird souvenirs and junk that others might toss without a second thought.",
-      "category": "Quirky Holiday",
-      "emoji": "🐀",
-      "funFact": "Pack rats (actual rodents) are famous for their collections, often hoarding shiny or colorful objects in their nests."
+      "name": "World Telecommunication and Information Society Day",
+      "description": "A day dedicated to celebrating how phones, the internet, and other communication technologies connect the world, and a handy reminder to call your relatives instead of just texting them.",
+      "origin": "It marks the founding of the International Telegraph Union on May 17, 1865, and has been celebrated annually since 1969. The UN General Assembly expanded it in 2006 to include the information society.",
+      "category": "Awareness Day",
+      "emoji": "📡",
+      "funFact": "The International Telecommunication Union is one of the oldest international organizations still in existence, older than the United Nations by 80 years."
+    },
+    {
+      "name": "Norwegian Constitution Day (Syttende Mai)",
+      "description": "Norway's national day is a gigantic party with children's parades, brass bands, traditional bunad costumes, and an astonishing quantity of hot dogs and ice cream. It is famous for being more about kids waving flags than military might.",
+      "origin": "It commemorates the signing of the Norwegian Constitution at Eidsvoll on May 17, 1814, which declared Norway an independent nation.",
+      "category": "National Holiday",
+      "emoji": "🇳🇴",
+      "funFact": "Norwegians often greet each other with 'Gratulerer med dagen!' and the biggest parade in Oslo passes by the Royal Palace, where the royal family waves from the balcony for hours."
+    },
+    {
+      "name": "National Walnut Day (Observed Mid-May)",
+      "description": "Nutty lovers rejoice! A day to crack open a few walnuts, bake them into brownies, or just toss them on a salad and feel fancy.",
+      "origin": "Unofficial food-day calendars list it in mid-May, and the date is celebrated by nut enthusiasts and walnut growers. The origin is loosely tied to the walnut industry's promotion efforts.",
+      "category": "Food Day",
+      "emoji": "🌰",
+      "funFact": "Walnuts are one of the oldest tree foods known to humans, with evidence of consumption dating back to around 7000 BC."
     }
   ]
 }

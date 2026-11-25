@@ -2,36 +2,44 @@
   "date": "June 26",
   "holidays": [
     {
-      "name": "International Sunglasses Day",
-      "description": "A day dedicated to celebrating and promoting the importance of wearing sunglasses to protect your eyes from UV rays while looking cool!",
-      "origin": "Created by the Vision Council to raise awareness about eye health and encourage the wearing of sunglasses.",
-      "category": "Health and Safety Awareness",
-      "emoji": "🕶️",
-      "funFact": "The sunglasses trend began in the 1920s when movie stars started wearing tinted glasses to shield their eyes from bright studio lights!"
-    },
-    {
-      "name": "Chocolate Pudding Day",
-      "description": "Celebrate the creamy, smooth, and utterly delicious chocolate pudding on this decadent dessert day!",
-      "origin": "An informal food holiday adopted by dessert lovers and pudding manufacturers to honor this beloved treat.",
-      "category": "Food Holiday",
+      "name": "National Chocolate Pudding Day",
+      "description": "A day to celebrate the silky, spoonable delight of chocolate pudding, whether it comes from a cup, a box mix, or a lovingly stirred saucepan. Skin-on-top lovers and skin-haters may now debate.",
+      "origin": "One of many unofficial American food days, popularized by food-celebration calendars and social media rather than any formal proclamation. Pudding itself has roots in medieval English boiled puddings, and the creamy chocolate version took off in the 20th century with boxed mixes.",
+      "category": "Food Day",
       "emoji": "🍫",
-      "funFact": "Chocolate pudding was originally made with cornstarch as a thickener and became widely popular in the U.S. in the early 1900s."
+      "funFact": "Early 'puddings' were often savory and boiled in animal stomachs or cloth bags. The sweet chocolate cup we love today is a far more pleasant evolution."
     },
     {
-      "name": "World Drifting Day",
-      "description": "A celebration for car enthusiasts who love the art of drifting — sliding a car through turns while maintaining control and style!",
-      "origin": "Started by motorsport fans and drivers to appreciate the skill and thrills of drifting, which originated in Japan.",
-      "category": "Pop Culture / Motorsport",
-      "emoji": "🚗💨",
-      "funFact": "The Japanese race driver Kunimitsu Takahashi is often credited as the 'father of drifting,' bringing it to the forefront in the 1970s."
+      "name": "National Beautician's Day",
+      "description": "An unofficial day to thank hairstylists, makeup artists, and other beauty professionals who keep the world looking sharp and who also double as unlicensed therapists.",
+      "origin": "An informal observance in the United States honoring the beauty industry, circulated through trade groups and salon communities. It is not tied to any government declaration.",
+      "category": "Appreciation Day",
+      "emoji": "💇",
+      "funFact": "Many hairstylists report that clients often confide more in them than in close friends, which is why the chair has been called the cheapest therapy couch around."
     },
     {
-      "name": "Admire Your Navel Day",
-      "description": "A quirky and humorous holiday encouraging people to take a moment to look at and appreciate their belly buttons — the little navel that once connected us to our mothers.",
-      "origin": "An unofficial mystifying day created online to celebrate body positivity and the weird little things about our bodies.",
-      "category": "Quirky / Body Positivity",
-      "emoji": "👕",
-      "funFact": "No two belly buttons are alike — they can be innies, outies, or varying shapes, making each one unique!"
+      "name": "International Day Against Drug Abuse and Illicit Trafficking",
+      "description": "A serious United Nations observance with a global focus on tackling drug problems, supporting prevention, and promoting treatment and recovery. Events include campaigns, public talks, and community outreach worldwide.",
+      "origin": "Established by the UN General Assembly in 1987 and first observed on June 26, 1988. The date was chosen to commemorate Lao Tzu's reputed connection to opposing the opium trade in China, though the historic link is debated.",
+      "category": "Awareness Day",
+      "emoji": "🎗️",
+      "funFact": "The day is marked every year with a World Drug Report from the UN Office on Drugs and Crime, which is a surprisingly hefty annual data-packed publication."
+    },
+    {
+      "name": "Beautiful Day",
+      "description": "A day dedicated to noticing, creating, and appreciating beauty in everyday life, from sunsets and street art to a perfectly brewed cup of coffee.",
+      "origin": "An informal, feel-good observance that circulates on holiday calendars and social media, encouraging people to pause and savor small beautiful things, with no single known founder.",
+      "category": "Feel-Good Observance",
+      "emoji": "🌈",
+      "funFact": "Studies on 'awe and appreciation' suggest that deliberately noticing beautiful things for even a few minutes a day can measurably lift your mood."
+    },
+    {
+      "name": "Pink Flamingo Day",
+      "description": "A day for flamingo fans to celebrate the iconic bird and its plastic lawn-ornament cousin by adding a splash of tacky tropical pink to yards, parties, and outfits.",
+      "origin": "The plastic pink flamingo was designed by Don Featherstone in 1957 for Union Products, and kitschy flamingo celebrations have spread through lawn-decor and retro culture ever since.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🦩",
+      "funFact": "Real flamingos are born gray and only turn pink because of pigments called carotenoids in the algae and crustaceans they eat."
     }
   ]
 }

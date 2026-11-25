@@ -2,57 +2,56 @@
   "date": "September 6",
   "plants": [
     {
-      "name": "Aster amellus",
-      "commonName": "European Michaelmas Daisy",
-      "description": "Aster amellus is a perennial wildflower native to Europe, known for its daisy-like flowers with vibrant purple petals and yellow centers. It thrives in temperate climates and blooms in late summer to early autumn, attracting pollinators such as bees and butterflies.",
-      "bloomingSeason": "August to October",
-      "location": "Europe, temperate regions",
-      "colors": [
-        "purple",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Michaelmas daisies are often associated with the feast of St. Michael (Michaelmas) on September 29, marking the transition to autumn."
-    },
-    {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "Rudbeckia hirta is a North American native wildflower famous for its bright yellow petals and dark brown central cones. It thrives in a variety of habitats including prairies and roadsides, blooming from mid-summer into early fall and providing valuable nectar to insects.",
-      "bloomingSeason": "June to September",
-      "location": "North America",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made of a dark central disc surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, and the plant is widely cultivated for seeds, oil, and ornamental use.",
+      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
+      "location": "North America, Europe, and Central Asia; cultivated worldwide",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Black-eyed Susans can reseed themselves abundantly, making them a staple in wildflower mixes and native plant gardens."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub widely cultivated in warm climates, known for its large, showy flowers with overlapping petals that come in various colors including red, pink, orange, and white. It blooms year-round in frost-free areas, including September, and attracts hummingbirds and butterflies.",
-      "bloomingSeason": "Year-round in tropical/subtropical areas",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "orange",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers open in the morning and usually wilt by the evening, lasting only a day but opening anew daily during blooming seasons."
+      "funFact": "Young sunflower buds follow the sun from east to west in a movement called heliotropism, but mature blooms generally stay facing east."
     },
     {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A late summer to autumn blooming perennial native to North America, characterized by clusters of small, bright yellow flowers that form plume-like heads. Goldenrod often grows in meadows and along roadsides, and it plays a vital role in supporting pollinators late in the growing season.",
-      "bloomingSeason": "August to November",
-      "location": "North America",
+      "description": "A perennial wildflower forming dense clumps of tall stems topped with plumes of tiny golden flowers. It thrives in meadows, roadsides, and prairies, and provides vital late-season nectar and pollen for bees, butterflies, and other pollinators.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "yellow"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Despite common misconceptions, goldenrod is not a major cause of hay fever; ragweed pollen, which blooms at the same time, is usually responsible."
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time and releases airborne pollen."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like pink-lilac flowers in late summer and early fall without any leaves present. The strap-shaped leaves appear the following spring, after which they die back.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Meadows and woodland edges of Europe; cultivated in gardens in temperate regions worldwide",
+      "colors": [
+        "pale pink",
+        "lilac",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "The plant contains colchicine, a toxic compound used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden-yellow flower balls. It blooms as the Southern Hemisphere winter transitions into spring, brightening the bush with bold color.",
+      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere (July to September)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

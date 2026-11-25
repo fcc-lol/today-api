@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1859,
-      "title": "Publication of 'On the Origin of Species'",
-      "description": "Charles Darwin's groundbreaking work on the theory of evolution by natural selection was published.",
+      "title": "Publication of On the Origin of Species",
+      "description": "Charles Darwin published On the Origin of Species by Means of Natural Selection in London. The first print run of 1,250 copies sold out on the first day to booksellers.",
       "category": "Science",
-      "significance": "Revolutionized biology and our understanding of natural history."
+      "significance": "The book laid out the theory of evolution by natural selection, transforming biology and reshaping how people understand the origins and diversity of life."
+    },
+    {
+      "year": 1642,
+      "title": "Abel Tasman Sights Tasmania",
+      "description": "Dutch explorer Abel Tasman, sailing for the Dutch East India Company, became the first known European to sight the island he named Van Diemen's Land, now called Tasmania.",
+      "category": "Exploration",
+      "significance": "The voyage expanded European knowledge of the southern hemisphere and was a step toward the eventual European mapping and colonization of Australia and New Zealand."
     },
     {
       "year": 1963,
-      "title": "Arrest of Lee Harvey Oswald",
-      "description": "Lee Harvey Oswald was arrested for the assassination of U.S. President John F. Kennedy.",
-      "category": "Politics",
-      "significance": "Marked a critical moment in American history and led to intense investigations about the JFK assassination."
+      "title": "Jack Ruby Shoots Lee Harvey Oswald",
+      "description": "Two days after the assassination of President John F. Kennedy, nightclub owner Jack Ruby shot Lee Harvey Oswald in the basement of Dallas police headquarters while Oswald was being transferred. The shooting was broadcast live on television.",
+      "category": "Crime and Politics",
+      "significance": "Oswald's death prevented a trial and fueled decades of conspiracy theories and public debate about the Kennedy assassination, and it prompted investigations including the Warren Commission."
     },
     {
-      "year": 1971,
-      "title": "Launch of Soyuz 11 Spacecraft",
-      "description": "Soviet Soyuz 11 spacecraft was launched, later becoming the first to board the world's first space station, Salyut 1.",
-      "category": "Space Exploration",
-      "significance": "A pioneering mission in human spaceflight and space station habitation."
+      "year": 1991,
+      "title": "Death of Freddie Mercury",
+      "description": "Freddie Mercury, lead singer of the rock band Queen, died at age 45 from bronchopneumonia caused by AIDS, one day after publicly confirming he had the disease.",
+      "category": "Death and Culture",
+      "significance": "Mercury's death raised global awareness of HIV/AIDS and marked the loss of one of rock music's most celebrated vocalists and performers."
     },
     {
-      "year": 1851,
-      "title": "First Edition of The New York Times",
-      "description": "The first issue of The New York Times newspaper was published.",
-      "category": "Media",
-      "significance": "Became a major publication influencing journalism and public opinion in the US and globally."
+      "year": 1632,
+      "title": "Birth of Baruch Spinoza",
+      "description": "Philosopher Baruch Spinoza was born in Amsterdam to a Portuguese Jewish family. He became one of the major rationalist philosophers of the 17th century.",
+      "category": "Birth",
+      "significance": "Spinoza's works, notably the Ethics, influenced Enlightenment thought, modern biblical criticism, and ideas about religious tolerance and freedom of thought."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "March 25",
   "holidays": [
     {
-      "name": "International Waffle Day 🧇",
-      "description": "Celebrate the delicious and golden waffle! Waffle fans unite to enjoy this crispy, fluffy breakfast treat in all sorts of creative ways.",
-      "origin": "Inspired by the feast day of the Annunciation in Sweden where waffles were traditionally eaten to break Lent, International Waffle Day honors this tasty tradition.",
+      "name": "Waffle Day (Våffeldagen)",
+      "description": "A Swedish celebration where people gather to eat waffles topped with jam, whipped cream, or berries. It is a cozy excuse to fire up the waffle iron and indulge in a crispy, golden treat.",
+      "origin": "The day falls on Lady Day (the Feast of the Annunciation), which in Swedish is 'Vårfrudagen.' Over time the name was mispronounced as 'Våffeldagen,' meaning Waffle Day, and the tradition of eating waffles stuck.",
       "category": "Food Holiday",
       "emoji": "🧇",
-      "funFact": "In Sweden, letting the word 'waffle' slip while praying used to be considered blasphemous because of the close association to their holy day!"
+      "funFact": "The holiday exists because of a linguistic mix-up: 'Vårfrudagen' (Our Lady's Day) sounded so much like 'Våffeldagen' that Swedes started eating waffles to mark it."
     },
     {
-      "name": "National Tolkien Reading Day 📚🧙",
-      "description": "A day to dive back into the epic worlds created by J.R.R. Tolkien—Middle-earth adventures with hobbits, elves, and wizards galore.",
-      "origin": "Started by Tolkien fans to commemorate the anniversary of the publication of 'The Hobbit' and to promote reading and appreciation of Tolkien’s works.",
-      "category": "Literary Celebration",
-      "emoji": "📚🧙",
-      "funFact": "Tolkien crafted entire languages and histories for his characters, making him a linguistic genius as well as a storyteller."
-    },
-    {
-      "name": "National Sheep Cheese Day 🧀🐑",
-      "description": "Say cheese! This quirky food holiday celebrates cheeses made from sheep's milk, like Manchego and Roquefort—creamy, tangy, and utterly delicious.",
-      "origin": "A foodie favorite day to explore less common cheeses, highlighting the unique flavors sheep's milk brings to cheese crafting.",
+      "name": "International Waffle Day",
+      "description": "The global cousin of Sweden's Waffle Day, celebrated by waffle lovers everywhere with syrup, fruit, fried chicken, ice cream, or whatever else fits in the grid pockets.",
+      "origin": "It spread from the Swedish tradition of Våffeldagen and was embraced by food fans and restaurants worldwide as a reason to serve up waffle specials.",
       "category": "Food Holiday",
-      "emoji": "🧀🐑",
-      "funFact": "Sheep’s milk has more fat and protein than cow’s milk, making sheep cheese richer and often tastier!"
+      "emoji": "🥞",
+      "funFact": "The waffle iron was patented in the US in 1869 by Cornelius Swarthout, and the grid pattern is designed to hold maximum syrup."
     },
     {
-      "name": "Teacher's Day (Czech Republic & Slovakia) 👩‍🏫📚",
-      "description": "Dedicated to honoring educators and their crucial role in society, this day coincides with the birthday of John Amos Comenius, the father of modern education.",
-      "origin": "Comenius was a 17th-century Czech philosopher and educator who significantly shaped teaching methods and advocated universal education.",
-      "category": "Awareness/Educational",
-      "emoji": "👩‍🏫📚",
-      "funFact": "Comenius wrote one of the first picture books for children and believed education should be joyful and accessible to all."
+      "name": "Tolkien Reading Day",
+      "description": "Fans of Middle-earth around the world read passages from J.R.R. Tolkien's works, host themed gatherings, and quote hobbits, elves, and wizards with great enthusiasm.",
+      "origin": "Created in 2003 by the Tolkien Society, the date marks the fall of the Dark Lord Sauron in The Lord of the Rings, which happens on March 25 in the story's calendar.",
+      "category": "Pop Culture / Literature",
+      "emoji": "💍",
+      "funFact": "Each year the Tolkien Society picks a different theme for the day, and the date was chosen for the destruction of the One Ring in the story rather than for any real-world event."
+    },
+    {
+      "name": "Pecan Day",
+      "description": "A nutty celebration of the buttery pecan, perfect for baking pies, pralines, and snacking by the handful.",
+      "origin": "Pecan Day is traditionally tied to the nut's agricultural heritage in the American South, where growers and bakers celebrate the native North American nut.",
+      "category": "Food Holiday",
+      "emoji": "🥜",
+      "funFact": "The pecan is the only major tree nut native to North America, and its name comes from an Algonquian word meaning 'nut requiring a stone to crack.'"
+    },
+    {
+      "name": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade",
+      "description": "A solemn observance honoring those who suffered and died under the brutality of the slave trade, and promoting education about its legacy and the dangers of racism.",
+      "origin": "Established by the United Nations General Assembly in 2007 to remember the victims and raise awareness of racism and prejudice today.",
+      "category": "Awareness Day",
+      "emoji": "🕯️",
+      "funFact": "The UN marks it with events and educational programs, and the 2007 resolution coincided with the 200th anniversary of Britain's Slave Trade Act of 1807."
     }
   ]
 }

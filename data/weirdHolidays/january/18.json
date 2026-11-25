@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Winnie the Pooh Day",
-      "description": "Celebrate the lovable bear created by A.A. Milne on the birthday of his creator. It’s a day to dive into the Hundred Acre Wood with Pooh, Tigger, Piglet, and friends!",
-      "origin": "Honors the birthday of author A.A. Milne, born January 18, 1882, who penned the famous Winnie the Pooh stories.",
-      "category": "Literary / Pop Culture",
-      "emoji": "🐻",
-      "funFact": "Winnie the Pooh was inspired by a real bear named Winnie at the London Zoo, visited by Milne’s son Christopher Robin, who inspired the fictional character."
+      "description": "A celebration of the honey-loving bear from the Hundred Acre Wood. Fans mark the day with honey snacks, Pooh stories, and wearing red shirts without pants, if they dare.",
+      "origin": "Chosen to honor the birthday of A. A. Milne, the author of Winnie-the-Pooh, who was born on January 18, 1882.",
+      "category": "Pop Culture",
+      "emoji": "🍯",
+      "funFact": "The real bear that inspired Pooh was a Canadian black bear named Winnipeg, or 'Winnie,' who lived at the London Zoo and was named after the city of Winnipeg."
+    },
+    {
+      "name": "National Peking Duck Day",
+      "description": "A day for savoring crispy-skinned roast duck wrapped in thin pancakes with scallions and hoisin sauce. It is a delicious excuse to go fancy with your dinner.",
+      "origin": "An unofficial food holiday, popularized by food-day calendars. Peking duck itself dates back to imperial China, where it was served at royal banquets.",
+      "category": "Food",
+      "emoji": "🦆",
+      "funFact": "Traditional Peking duck preparation involves pumping air between the skin and meat and then hanging the bird to dry, which is what produces that famously crackly skin."
     },
     {
       "name": "Thesaurus Day",
-      "description": "A day to celebrate the thesaurus — the wonderful tool that helps you find synonyms and spice up your vocabulary! Perfect for writers, students, and word lovers.",
-      "origin": "Commemorates the first publication of Peter Mark Roget’s Thesaurus of English Words and Phrases in 1852.",
-      "category": "Language / Education",
+      "description": "A day for word nerds to celebrate synonyms, antonyms, and the joy of never repeating yourself. Participants swap out boring words for splendid, magnificent, resplendent alternatives.",
+      "origin": "Observed on the birthday of Peter Mark Roget, born January 18, 1779, the British physician who created Roget's Thesaurus in 1852.",
+      "category": "Literary",
       "emoji": "📚",
-      "funFact": "The thesaurus was not invented to help writers sound fancy, but originally as a tool to help organize knowledge in a logical order."
+      "funFact": "Roget did not start his famous thesaurus until after he retired from medicine at age 61, and he reportedly had a lifelong habit of compiling lists."
     },
     {
-      "name": "National Winnie the Pooh Day (yes, double Pooh!)",
-      "description": "Some calendars list this day twice to emphasize the enduring charm and popularity of Winnie the Pooh in culture, media, and our hearts.",
-      "origin": "Based on the same origins as Winnie the Pooh Day, but sometimes officially recognized twice for extra love.",
-      "category": "Pop Culture / Kids",
-      "emoji": "🐻🍯",
-      "funFact": "The philosophical musings of Pooh have inspired everything from children’s bedtime stories to academic papers on childhood and friendship."
+      "name": "National Gourmet Coffee Day",
+      "description": "Coffee lovers are encouraged to ditch the gas-station brew and treat themselves to a high-quality, artisanal cup. Fancy beans and pour-over rituals are welcome.",
+      "origin": "An unofficial observance created by coffee enthusiasts and food-day calendars to encourage appreciation for specialty roasts.",
+      "category": "Food",
+      "emoji": "☕",
+      "funFact": "The term 'gourmet coffee' generally refers to beans grown at high altitudes, which develop more complex flavors because they mature more slowly."
     },
     {
-      "name": "Pioneer Day (Utah)",
-      "description": "Commemorating the arrival of Mormon pioneers into the Salt Lake Valley in 1847. It features parades, fireworks, and historic reenactments.",
-      "origin": "Marks the day Brigham Young and the first group of Mormon pioneers entered the Salt Lake Valley.",
-      "category": "Historical / Regional",
-      "emoji": "🏜️👢",
-      "funFact": "While officially a Utah state holiday celebrated on July 24, some pioneer groups commemorate the journey stages on January 18."
+      "name": "Women's Day in Wiggle-Room Appreciation: Hat Day (National Hat Day)",
+      "description": "Also known as Hat Day in some calendars, this is a day for donning a favorite headwear, from fedoras to beanies to ridiculous party hats.",
+      "origin": "An unofficial observance that takes place in the dead of winter, when hats are practical as well as stylish.",
+      "category": "Fashion",
+      "emoji": "🎩",
+      "funFact": "Before the 1960s it was considered improper for a gentleman to go outdoors without a hat, and the decline of hat-wearing is often partly credited to President John F. Kennedy, who often went hatless."
     }
   ]
 }

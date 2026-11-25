@@ -2,60 +2,61 @@
   "date": "September 14",
   "plants": [
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial native to North America, known for its large, purple-pink daisy-like flowers with a spiny central cone. It attracts pollinators like bees and butterflies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central United States",
+      "name": "Aster novi-belgii",
+      "commonName": "New York Aster",
+      "description": "A clump-forming perennial native to eastern North America, covered in daisy-like flower heads with yellow centers. It is a late-season nectar source for migrating monarch butterflies and many native bees.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern North America; widely cultivated in temperate gardens worldwide",
       "colors": [
         "purple",
-        "pink"
+        "violet",
+        "blue",
+        "pink",
+        "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Echinacea is often used in herbal remedies believed to boost the immune system."
+      "emoji": "🌼",
+      "funFact": "The name Aster comes from the Greek word for star, and asters were once burned by ancient peoples to drive away serpents."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub that produces large, showy flowers with a prominent stamen. It blooms prolifically in warm climates, adding vibrant color to gardens.",
-      "bloomingSeason": "June to October",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "A bulbous perennial that sends up goblet-shaped flowers in autumn without any leaves present. The leaves emerge the following spring and die back by early summer. It is not a true crocus and all parts are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Meadows and woodland edges of Europe, from Britain to the Balkans; grown in gardens in temperate regions",
+      "colors": [
+        "pale lilac",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌷",
+      "funFact": "It is nicknamed 'naked ladies' because the flowers appear without leaves, and it is the source of colchicine, a compound used in medicine and plant breeding."
+    },
+    {
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A striking bulbous plant with spidery, recurved red flowers and long protruding stamens on bare stalks. The narrow leaves appear after flowering and persist through winter.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
       "colors": [
         "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
+        "scarlet"
       ],
       "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and used to make refreshing teas and beverages."
+      "funFact": "In Japan it blooms around the autumn equinox, called Higan, and is strongly associated with that Buddhist season, often planted along rice paddies and cemeteries."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "An annual plant known for its tall stems and large, bright yellow flower heads that follow the sun’s movement — a behavior called heliotropism.",
-      "bloomingSeason": "July to September",
-      "location": "Native to North America, widely cultivated globally",
-      "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters tall and produce edible seeds rich in oil."
-    },
-    {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in early fall, producing smaller but fragrant flowers compared to other camellias, often used in ornamental gardens.",
-      "bloomingSeason": "September to November",
-      "location": "Native to Japan, cultivated in mild climates",
+      "name": "Watsonia borbonica",
+      "commonName": "Cape Bugle Lily",
+      "description": "A cormous perennial with tall spikes of tubular pink flowers rising above sword-shaped leaves. It thrives in sunny, well-drained sites and flowers as the Southern Hemisphere spring begins.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Western Cape of South Africa fynbos; naturalized in parts of Australia and elsewhere",
       "colors": [
         "pink",
-        "white",
-        "red"
+        "rose",
+        "white"
       ],
-      "emoji": "🌹",
-      "funFact": "Sasanqua camellias bloom earlier in the season than other camellia species, heralding the arrival of autumn."
+      "emoji": "🌸",
+      "funFact": "Fynbos plants like this one often flower most profusely after fire, as the smoke and cleared ground trigger blooming."
     }
   ]
 }

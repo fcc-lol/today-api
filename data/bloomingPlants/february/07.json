@@ -1,56 +1,59 @@
 {
-  "date": "2024-02-07",
+  "date": "February 7",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub cultivated for its large, showy flowers which bloom in late winter to early spring. The flowers can be single or double and are often red, pink, or white. Native to eastern Asia, it is widely grown as an ornamental plant in temperate regions.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia, Cultivated worldwide in temperate zones",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is the state flower of Alabama, USA, despite originating from Asia."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial flowering plant that blooms in winter and early spring. It produces white to pinkish-green flowers that stand out in the cold months. Native to the mountainous regions of Europe, it is valued for brightening gardens when few other plants bloom.",
-      "bloomingSeason": "December to February",
-      "location": "Alps and mountainous regions of Central Europe",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the depths of winter. It is widely cultivated in East Asia and prized for both its ornamental flowers and its tart fruit used in pickling and liqueurs.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
         "white",
-        "pink"
+        "pink",
+        "deep red"
       ],
-      "emoji": "❄️🌸",
-      "funFact": "Despite its common name, the Christmas rose is not related to roses and actually belongs to the buttercup family."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom while snow may still be on the ground."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle",
-      "description": "A fast-growing tree native to southeastern Australia noted for its bright yellow, fragrant, fluffy flowers clustered in spherical heads. It blooms in late winter and early spring, often used as an ornamental and for cut flowers.",
-      "bloomingSeason": "January to March",
-      "location": "Southeastern Australia, cultivated in Mediterranean climates",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It naturalizes in woodlands and gardens, often pushing up through frost and snow.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
       "colors": [
-        "yellow"
+        "white",
+        "green"
       ],
-      "emoji": "💛",
-      "funFact": "Acacia dealbata is widely celebrated in Mediterranean countries, especially Italy, during International Women's Day where its yellow flowers are gifted to women."
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Mahonia × media",
-      "commonName": "Winter Mahonia",
-      "description": "A hybrid shrub known for blooming in winter with bright yellow flowers in dense clusters followed by blue-black berries. It is popular in gardens for winter color and its holly-like evergreen leaves.",
-      "bloomingSeason": "December to February",
-      "location": "Cultivated gardens, originating from hybrids in Asia",
+      "name": "Hamamelis x intermedia",
+      "commonName": "Witch Hazel",
+      "description": "A large deciduous shrub with spidery, ribbon-like petals that appear on leafless branches and emit a spicy fragrance. Many cultivars are grown in temperate gardens for winter interest.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Hybrid of Asian species; cultivated across Europe and North America",
       "colors": [
-        "yellow"
+        "yellow",
+        "orange",
+        "copper-red"
       ],
       "emoji": "🌼",
-      "funFact": "Mahonia flowers are an important nectar source for bees during winter months when few other flowers bloom."
+      "funFact": "The petals curl up tightly in freezing weather to protect themselves and then unfurl when temperatures rise."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flame Tree)",
+      "description": "A broad, umbrella-shaped tropical tree that becomes covered in clusters of vivid blooms. In some regions it blooms in the warm season, which in the Southern Hemisphere includes February.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to March); spring to summer in the northern tropics",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, Brazil, and South Africa",
+      "colors": [
+        "scarlet",
+        "orange-red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Although it is famous worldwide, the Flame Tree is endangered in its native Madagascar habitat."
     }
   ]
 }

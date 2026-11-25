@@ -2,59 +2,61 @@
   "date": "August 30",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower known for its bright yellow petals surrounding a dark brown central cone. It thrives in prairies and open woods, attracting pollinators like bees and butterflies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and central United States",
-      "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are the state flower of Maryland and were traditionally used by Native Americans for medicinal purposes."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub popular in gardens around the world, renowned for large, showy flowers that open in the morning and last a single day. Often grown as ornamentals in subtropical and tropical regions.",
-      "bloomingSeason": "Year-round in tropical climates, notably prolific in late summer",
-      "location": "Native to East Asia; widely cultivated in tropical and subtropical regions",
-      "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and used to make hibiscus tea, which is rich in antioxidants."
-    },
-    {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant characterized by large flower heads with bright yellow petals surrounding a dark reproductive disk. Sunflowers follow the sun’s movement across the sky, a behavior called heliotropism.",
-      "bloomingSeason": "Mid-summer to early autumn",
-      "location": "Native to North America, cultivated worldwide",
+      "description": "A tall annual with a large, coarse stem topped by a big flower head of golden ray florets surrounding a dark disc of tiny florets that mature into seeds. Young flower heads track the sun across the sky. It is widely cultivated for seed, oil and ornamental use.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; widely cultivated across Europe, Russia, Ukraine, the United States and Argentina",
       "colors": [
         "yellow",
-        "brown"
+        "gold",
+        "orange",
+        "dark brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflower seeds are harvested for oil andfood, and the plant also plays an important role in phytoremediation to clean contaminated soil."
+      "funFact": "Sunflower heads follow the sun only while young (heliotropism); mature flower heads typically stay facing east, which helps warm them in the morning and attract pollinators."
     },
     {
-      "name": "Kniphofia uvaria",
-      "commonName": "Red Hot Poker",
-      "description": "A striking perennial with tall spikes of tubular flowers that transition in color from red at the top to yellow at the base. It attracts hummingbirds and butterflies and thrives in well-drained soils.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Native to South Africa; widely grown in temperate gardens",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial herb that spreads by rhizomes and forms dense colonies. In late summer it produces arching plumes packed with tiny golden-yellow flower heads that are a magnet for bees, butterflies and other late-season pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to meadows, roadsides and prairies of eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "red",
-        "orange",
-        "yellow"
+        "golden yellow"
       ],
-      "emoji": "🌶️",
-      "funFact": "Also known as torch lilies, their flower spikes can reach impressive heights of up to 1.5 meters."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often wrongly blamed for hay fever; its pollen is heavy and sticky and is carried by insects, while the real culprit is usually ragweed blooming at the same time."
+    },
+    {
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "A low, evergreen, spreading shrub with tiny scale-like leaves and spikes of small bell-shaped flowers. It carpets moorlands and heaths in purple waves in late summer and is a key nectar source for bees, producing a prized dark heather honey.",
+      "bloomingSeason": "Late summer to autumn (July to October)",
+      "location": "Moorlands, heaths and acidic soils of Scotland, Ireland, Scandinavia and northern Europe; naturalized in parts of North America",
+      "colors": [
+        "purple",
+        "pink",
+        "lavender",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Heather was historically used to make beds, thatch roofs, brooms, rope and even ale, and the Scottish tradition holds that white heather brings good luck."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody evergreen shrub of the fynbos with the largest flower head in the Protea genus, up to 30 cm across. The showy, bowl-shaped head is made of colorful bracts surrounding a center of many small flowers, and it is South Africa's national flower.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with peak flowering from August to November and some blooms in late summer",
+      "location": "Southwestern and southern coastal regions of South Africa, in the Cape Floristic Region",
+      "colors": [
+        "pink",
+        "cream",
+        "silver",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Proteas are among the oldest flowering plants, dating back around 300 million years to when the continents were joined as Gondwana, and they are adapted to fire, resprouting from underground lignotubers."
     }
   ]
 }

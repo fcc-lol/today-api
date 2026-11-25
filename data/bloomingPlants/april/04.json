@@ -2,56 +2,58 @@
   "date": "April 4",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous tree famous for its large, fragrant, tulip-shaped flowers that burst open in early spring before the leaves appear. Its blooms range from white to pink and purple, creating a spectacular floral display.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A hybrid flowering cherry that produces masses of delicate, almond-scented blossoms on bare branches before the leaves emerge. It is the iconic tree of spring hanami festivals and lines parks, rivers, and temple grounds.",
+      "bloomingSeason": "Late March to mid-April",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions worldwide",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Magnolia flowers are considered ancient; fossils dating back 95 million years show similar blooms, predating bees. They are pollinated by beetles."
+      "funFact": "Nearly all Yoshino cherries are clones propagated by grafting, so trees in a region often bloom at almost exactly the same time."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A species of daffodil with bright yellow, trumpet-shaped flowers that commonly grow in woodlands, meadows, and grasslands. They are among the first wildflowers signaling spring in the Northern Hemisphere.",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the ancestor of many garden daffodil cultivars.",
       "bloomingSeason": "March to April",
-      "location": "Western Europe, especially UK and Ireland",
+      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
       "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
-      "emoji": "💛",
-      "funFact": "Wild daffodils are known to naturalize and can form large colonies in the wild, sometimes marking ancient woodland boundaries."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, making it toxic to most grazing animals, and galantamine from related Narcissus species is used in Alzheimer's medication."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "A tropical and subtropical tree noted for its stunning display of violet-blue trumpet-shaped flowers that blanket streets and parks, especially in places like Australia and South America.",
-      "bloomingSeason": "Late March to May",
-      "location": "Subtropical regions like Australia, South America, Southern Africa",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers burst directly from branches and even the trunk before heart-shaped leaves appear. It is common in woodland edges and widely planted in gardens.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central United States and northeastern Mexico",
       "colors": [
-        "violet-blue"
+        "magenta",
+        "pink",
+        "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The Jacaranda's striking bloom usually lasts about three to four weeks, and fallen flowers create a beautiful purple carpet on the ground."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor, and this tree displays cauliflory, meaning flowers grow straight from woody stems."
     },
     {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub that blooms in late winter to early spring, forming clusters of small, bell-shaped flowers often seen in alpine and mountainous areas of Europe.",
-      "bloomingSeason": "February to April",
-      "location": "Mountainous regions of Central and Southern Europe",
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily",
+      "description": "Not usually in bloom now in the north, but its southern relatives are: in the Southern Hemisphere autumn, Amaryllis belladonna sends up leafless stalks topped with fragrant, trumpet-shaped pink blooms. This species thrives in Mediterranean-type climates.",
+      "bloomingSeason": "Late summer to autumn (Southern Hemisphere: March to April)",
+      "location": "Western Cape, South Africa; naturalized in Australia, California, and parts of South America",
       "colors": [
         "pink",
-        "purple",
+        "rose",
         "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Unlike many other heath species, Erica carnea can tolerate cold winter conditions and often flowers through snow cover."
+      "emoji": "🌺",
+      "funFact": "Known as the 'naked lady' because its flowers appear on bare stalks after the foliage has died back."
     }
   ]
 }

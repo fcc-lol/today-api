@@ -2,62 +2,61 @@
   "date": "September 29",
   "plants": [
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A perennial herbaceous flowering plant native to North America, known for its distinctive purple-pink petals surrounding a prominent spiny central cone. It thrives in prairies and open woodlands and is popular in gardens for attracting pollinators.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and Central North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that produces goblet-shaped pink-lilac flowers in autumn, appearing without leaves. The leaves emerge the following spring and die back by early summer. Often called 'naked ladies' because the blooms appear leafless.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October)",
+      "location": "Native to Europe, including damp meadows in the UK, Germany, and France; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "pink"
+        "Pink",
+        "Lilac",
+        "Pale purple"
       ],
       "emoji": "🌸",
-      "funFact": "Purple Coneflower is widely used in herbal remedies and is believed to boost the immune system."
+      "funFact": "All parts of the plant contain colchicine, a toxin that is also used medicinally to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Garden Dahlia",
-      "description": "A tuberous perennial plant native to Mexico, famous for its large, vibrant, and diverse flower forms and colors. Dahlias are popular ornamental plants often blooming late summer to fall, before the first frost.",
-      "bloomingSeason": "July to October",
-      "location": "Mexico, Cultivated worldwide",
+      "name": "Aster novi-belgii",
+      "commonName": "New York Aster (Michaelmas Daisy)",
+      "description": "A clump-forming perennial with masses of daisy-like flowers with yellow centers. It is a vital late-season nectar source for bees and butterflies, including migrating monarchs.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to eastern North America from Newfoundland to Georgia; naturalized in Europe and cultivated widely in gardens",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Dahlias are the national flower of Mexico and were originally cultivated by the Aztecs."
-    },
-    {
-      "name": "Rhododendron ferrugineum",
-      "commonName": "Alpenrose",
-      "description": "A low-growing evergreen shrub found in the Alps and Pyrenees, producing clusters of pink to red bell-shaped flowers. It blooms in late summer to early fall at high altitudes.",
-      "bloomingSeason": "August to October",
-      "location": "Alpine regions of Europe",
-      "colors": [
-        "pink",
-        "red"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its beauty, Alpenrose is toxic if ingested due to grayanotoxins."
-    },
-    {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Florist’s Chrysanthemum",
-      "description": "A widely cultivated herbaceous perennial known for its abundant and colorful daisy-like flowers, chrysanthemums bloom in autumn and are a symbol of longevity and rejuvenation in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Native to East Asia, widely cultivated globally",
-      "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple"
+        "Purple",
+        "Blue",
+        "Violet",
+        "Pink",
+        "White"
       ],
       "emoji": "🌼",
-      "funFact": "In Japan, chrysanthemums are celebrated annually during the 'Festival of Happiness'."
+      "funFact": "The common name 'Michaelmas daisy' comes from the feast of St. Michael on September 29, which falls right at the peak of its bloom in Britain."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, fast-growing tree that bursts into spectacular clouds of lavender-blue trumpet-shaped flowers just before its fern-like leaves emerge. Streets lined with jacarandas turn into purple tunnels, and fallen blossoms carpet the ground.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Pretoria and Johannesburg in South Africa, Australia, and New Zealand's northern regions",
+      "colors": [
+        "Lavender",
+        "Purple-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are around 70,000 jacaranda trees, giving it the nickname 'Jacaranda City,' and Australian university students traditionally believe that a flower falling on your head means you'll pass your exams."
+    },
+    {
+      "name": "Tagetes erecta",
+      "commonName": "Mexican Marigold (Cempasúchil)",
+      "description": "A tall, robust annual with large, pom-pom-like flower heads and pungent, finely divided foliage. It blooms prolifically until frost and is a staple in cottage and vegetable gardens for deterring pests.",
+      "bloomingSeason": "Summer through autumn (June to first frost)",
+      "location": "Native to Mexico and Central America; cultivated worldwide in gardens and as a commercial crop for pigment",
+      "colors": [
+        "Orange",
+        "Golden yellow",
+        "Yellow"
+      ],
+      "emoji": "🏵️",
+      "funFact": "In Mexico, these flowers are called cempasúchil and are used to decorate altars and guide spirits during Día de Muertos, celebrated at the start of November, so growers time their bloom for late September onward."
     }
   ]
 }

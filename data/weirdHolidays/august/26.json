@@ -2,36 +2,44 @@
   "date": "August 26",
   "holidays": [
     {
-      "name": "Just Because Day",
-      "description": "A delightfully pointless holiday invented for no special reason—celebrate life and spontaneity by doing something fun 'just because'!",
-      "origin": "Created by an advertising agency in the 1980s to encourage unplanned kindness and joy.",
-      "category": "Fun/Quirky",
-      "emoji": "🎉",
-      "funFact": "People often share random acts of kindness on Just Because Day, proving sometimes the best moments happen with no reason at all!"
-    },
-    {
       "name": "National Dog Day",
-      "description": "A day dedicated to honoring dogs of all breeds, their love, loyalty, and the joy they bring to our lives.",
-      "origin": "Founded in 2004 by animal welfare advocate Colleen Paige to raise awareness about adoption and rescue.",
-      "category": "Animal Awareness",
-      "emoji": "🐕",
-      "funFact": "National Dog Day celebrates not just pets but also working dogs, including service dogs and therapy dogs who perform incredible tasks!"
+      "description": "A day to celebrate dogs of every breed, size, and level of couch-hogging. Owners shower pups with treats, extra walks, and social media tributes, while shelters push adoption of dogs in need.",
+      "origin": "Founded in 2004 by pet and family lifestyle expert Colleen Paige, who also created National Cat Day and National Puppy Day. She chose August 26 because it was the day her family adopted a sheltie when she was ten.",
+      "category": "Animal Celebration",
+      "emoji": "🐶",
+      "funFact": "Colleen Paige picked the date because of her childhood sheltie, and the holiday now encourages the rescue of an estimated 10,000 dogs each year."
     },
     {
       "name": "National Cherry Popsicle Day",
-      "description": "Cool down with some fruity nostalgia by enjoying the classic cherry popsicle treat—perfect for beating the summer heat!",
-      "origin": "Popsicles were invented in the early 1900s, but cherry flavor remains a perennial favorite among fans.",
+      "description": "A frosty salute to the classic red frozen treat that stains your lips and fingers. Perfect for the tail end of summer, when you need one more reason to be sticky.",
+      "origin": "An unofficial food holiday that emerged from the popularity of fruit-flavored ice pops. The popsicle itself was reportedly invented by accident in 1905 by 11-year-old Frank Epperson, who left a soda mixture with a stirring stick outside overnight.",
       "category": "Food Holiday",
       "emoji": "🍒",
-      "funFact": "Cherry popsicles were among the original flavors when the Popsicle brand launched, sparking countless childhood memories."
+      "funFact": "Frank Epperson first called his invention the 'Epsicle' before his own kids convinced him to rename it 'Popsicle,' after 'Pop.'"
     },
     {
-      "name": "Women’s Equality Day",
-      "description": "Marks the anniversary of the 19th Amendment’s certification in 1920, granting women the right to vote in the U.S.",
-      "origin": "Officially designated in 1971 to honor women’s suffrage and promote equal rights.",
-      "category": "Historical/Awareness",
-      "emoji": "♀️",
-      "funFact": "Women's Equality Day encourages reflection on the progress made and the work still needed for full gender equality."
+      "name": "Women's Equality Day",
+      "description": "A day honoring the certification of the 19th Amendment, which granted American women the right to vote. It is marked with parades, speeches, voter registration drives, and celebrations of progress toward equality.",
+      "origin": "Certification of the 19th Amendment took place on August 26, 1920. Congress designated the day in 1971 at the urging of Representative Bella Abzug, and presidents have issued proclamations for it ever since.",
+      "category": "Awareness Day",
+      "emoji": "🗳️",
+      "funFact": "The amendment's ratification came down to a single vote in Tennessee, cast by 24-year-old legislator Harry T. Burn, who switched his vote after getting a letter from his mother telling him to 'be a good boy' and support it."
+    },
+    {
+      "name": "National Cheese Pizza Day (Unofficial Pizza-Adjacent Fun)",
+      "description": "Also known as a day to enjoy the purest pizza form, with no toppings, no fuss, and no arguments about pineapple. Just cheese, sauce, and crust, as nature intended.",
+      "origin": "A social media-driven food observance within the crowded calendar of pizza holidays, celebrating the simplicity of the plain cheese pie, which many pizzerias consider the true test of their craft.",
+      "category": "Food Holiday",
+      "emoji": "🍕",
+      "funFact": "Many pizza experts say the simple Margherita, named after Queen Margherita of Savoy in 1889, is the ancestor of the modern cheese pizza."
+    },
+    {
+      "name": "National Tug of War Day (Unofficial)",
+      "description": "A day to grab a rope and test your strength, teamwork, and willingness to get dragged through mud. Perfect for picnics, family reunions, and settling disputes with dignity.",
+      "origin": "A lighthearted observance inspired by the old sport of tug of war, which dates back thousands of years in cultures around the world.",
+      "category": "Sports & Games",
+      "emoji": "🪢",
+      "funFact": "Tug of war was an official Olympic event from 1900 to 1920, with teams from several countries competing for medals."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "September 4",
   "events": [
     {
-      "year": 476,
-      "title": "Fall of the Western Roman Empire",
-      "description": "Romulus Augustulus, the last Roman emperor of the West, was deposed by the Germanic king Odoacer. This event is traditionally marked as the end of Ancient Rome and the beginning of the Middle Ages in Europe.",
-      "category": "Political",
-      "significance": "Signaled the collapse of centralized Roman authority in the West, leading to significant cultural and political transformations in Europe."
+      "year": 1781,
+      "title": "Founding of Los Angeles",
+      "description": "A group of 44 settlers, known as Los Pobladores, founded El Pueblo de Nuestra Señora la Reina de los Ángeles under Spanish colonial rule in Alta California.",
+      "category": "Founding",
+      "significance": "The settlement grew into Los Angeles, one of the largest and most influential cities in the United States and a global center of entertainment, trade, and culture."
+    },
+    {
+      "year": 1870,
+      "title": "Proclamation of the French Third Republic",
+      "description": "After news of Napoleon III's capture at the Battle of Sedan reached Paris, the Second Empire collapsed and the Third Republic was proclaimed at the Hôtel de Ville.",
+      "category": "Politics",
+      "significance": "The Third Republic lasted until 1940 and became France's longest-lived government since 1789, establishing durable republican institutions."
+    },
+    {
+      "year": 1882,
+      "title": "Opening of the Pearl Street Station",
+      "description": "Thomas Edison switched on the Pearl Street Station in lower Manhattan, the first commercial central power plant in the United States, supplying electric light to customers in the financial district.",
+      "category": "Science and Technology",
+      "significance": "It marked the beginning of the commercial electric power industry and the widespread electrification of cities."
     },
     {
       "year": 1888,
-      "title": "First Issue of National Geographic Magazine Published",
-      "description": "The National Geographic Society published the first issue of its magazine, which would become famous for its detailed scientific articles and spectacular photography.",
-      "category": "Cultural/Scientific",
-      "significance": "Marked the beginning of a major platform for geography, exploration, and education globally."
-    },
-    {
-      "year": 1951,
-      "title": "Herman Wouk's 'The Caine Mutiny' Wins Pulitzer Prize",
-      "description": "The novel 'The Caine Mutiny' was awarded the Pulitzer Prize for Fiction, recognizing the work's impact on American literature and its portrayal of naval life during WWII.",
-      "category": "Cultural/Literary",
-      "significance": "Highlighted critical perspectives on leadership and morality during wartime."
+      "title": "George Eastman Registers the Kodak Trademark",
+      "description": "George Eastman registered the Kodak trademark and received a patent for his roll-film camera, which came preloaded with film and was marketed with the slogan 'You press the button, we do the rest.'",
+      "category": "Science and Technology",
+      "significance": "The Kodak camera made photography accessible to the general public and launched popular amateur photography."
     },
     {
       "year": 1998,
-      "title": "Apple Introduces the iMac",
-      "description": "Apple Inc. announced the release of the first-generation iMac, an all-in-one personal computer designed by Jony Ive that revitalized the company's fortunes.",
-      "category": "Technological",
-      "significance": "Marked a pivotal moment in personal computing design and Apple's resurgence in the tech industry."
+      "title": "Founding of Google",
+      "description": "Larry Page and Sergey Brin, Stanford PhD students, incorporated Google Inc. and began operating from a rented garage in Menlo Park, California.",
+      "category": "Business and Technology",
+      "significance": "Google became the dominant internet search engine and grew into one of the world's most influential technology companies, reshaping how people access information."
     }
   ]
 }

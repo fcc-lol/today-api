@@ -2,36 +2,44 @@
   "date": "January 3",
   "holidays": [
     {
+      "name": "National Chocolate-Covered Cherry Day",
+      "description": "A day to celebrate the sweet-meets-tart candy with a gooey liquid center, a little burst of syrupy surprise inside a snappy chocolate shell.",
+      "origin": "Like many American food days, it is an unofficial observance that appears in food-holiday calendars. The candy itself relies on an enzyme called invertase, which turns the fondant around the cherry into liquid after the chocolate is applied.",
+      "category": "Food Day",
+      "emoji": "🍒",
+      "funFact": "The cherry is surrounded by solid fondant when dipped in chocolate. Invertase mixed into the fondant breaks down the sugar over days or weeks, which is how the liquid center forms."
+    },
+    {
       "name": "Festival of Sleep Day",
-      "description": "A perfectly acceptable day dedicated to catching up on all the sleep you missed during the busy holiday season — embrace naps, lazy lounging, and maybe even sleeping in past noon!",
-      "origin": "Started by author W. T. Rabe in the 1990s as a humorous way to recognize the universal love of sleep and the need to rest after the holidays.",
-      "category": "Fun/Leisure",
+      "description": "A day devoted to getting back the rest you lost during the holiday season, with naps, extra-long snoozes, and zero guilt about staying in bed.",
+      "origin": "It is an unofficial observance on quirky-holiday calendars, created to give worn-out people permission to recover from the busy holidays and start the new year well rested.",
+      "category": "Wellness / Lifestyle",
       "emoji": "😴",
-      "funFact": "The Festival of Sleep Day coincides perfectly with many people's return to work, reminding us that deep rest is a revolutionary form of self-care."
+      "funFact": "The Centers for Disease Control and Prevention has described insufficient sleep as a public health problem, with about one in three U.S. adults regularly not getting enough."
+    },
+    {
+      "name": "J.R.R. Tolkien Day",
+      "description": "Fans of Middle-earth celebrate the birthday of the author of The Hobbit and The Lord of the Rings with second breakfasts, readings, and elvish quotes.",
+      "origin": "John Ronald Reuel Tolkien was born on January 3, 1892, in Bloemfontein, South Africa. Fans marked the date as a tribute to the man who built an entire fantasy world and its languages.",
+      "category": "Pop Culture / Literature",
+      "emoji": "🧙",
+      "funFact": "Tolkien was a professor of Anglo-Saxon at Oxford and invented several languages, including Quenya and Sindarin, before he wrote the stories that were set in the world where they were spoken."
+    },
+    {
+      "name": "Drinking Straw Day",
+      "description": "A salute to the humble tube that has made sipping easier for generations, from fancy cocktails to milkshakes.",
+      "origin": "The date is tied to Marvin Stone, who patented the paper drinking straw on January 3, 1888. He had grown tired of rye grass straws leaving a grassy taste in his mint juleps, so he wrapped paper around a pencil and glued it.",
+      "category": "Invention / Everyday Objects",
+      "emoji": "🥤",
+      "funFact": "Marvin Stone's paper straws were coated in paraffin wax so they would not get soggy, and the very first drinking straws date back thousands of years to Sumerian gold and lapis lazuli tubes used to drink beer."
     },
     {
       "name": "Fruitcake Toss Day",
-      "description": "A quirky day where people gather to toss their unwanted or infamous holiday fruitcakes as far as possible, turning a traditional doorstopper dessert into a hilarious sport!",
-      "origin": "Began as a humorous tradition in Manitou Springs, Colorado, where residents turned the holiday fruitcake excess into an annual event in the 1980s.",
-      "category": "Food/Quirky Tradition",
-      "emoji": "🎂➡️",
-      "funFact": "Some fruitcakes used in these events have flown over 70 feet, demonstrating fruitcake's unexpected density and aerodynamic finesse."
-    },
-    {
-      "name": "Blood Donor Day (India)",
-      "description": "A vital observance encouraging people in India to donate blood and save lives, highlighting the importance of voluntary blood donation.",
-      "origin": "Established by health organizations in India to promote blood donation awareness and ensure adequate blood supply in hospitals.",
-      "category": "Awareness/Health",
-      "emoji": "🩸",
-      "funFact": "India marks January 3 as Blood Donor Day to capitalize on the fresh resolve many have after New Year’s to make positive life-saving changes."
-    },
-    {
-      "name": "International Mind-Body Wellness Day",
-      "description": "A wellness-focused day celebrating holistic health practices that unite mind, body, and spirit — perfect for trying meditation, yoga, or mindful eating!",
-      "origin": "Grew from modern holistic health movements emphasizing integrative approaches to well-being, gaining traction in the 2000s.",
-      "category": "Health/Wellness",
-      "emoji": "🧘‍♂️",
-      "funFact": "Practicing mind-body wellness even for 10 minutes on this day can significantly decrease stress hormones according to recent studies."
+      "description": "A day when people fling leftover holiday fruitcakes with enthusiasm, in contests of distance and accuracy.",
+      "origin": "Fruitcake Toss celebrations started as a way to dispose of unwanted fruitcake gifts after the holidays. Manitou Springs, Colorado, hosts a famous Great Fruitcake Toss every January with cakes launched by catapults, cannons, and slingshots.",
+      "category": "Food / Silly Tradition",
+      "emoji": "🎂",
+      "funFact": "Fruitcake is so durable that a fruitcake from Robert Falcon Scott's 1910 Antarctic expedition was found over a century later and was reportedly still in edible-looking condition."
     }
   ]
 }

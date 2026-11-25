@@ -2,32 +2,39 @@
   "date": "December 13",
   "events": [
     {
+      "year": 1545,
+      "title": "Council of Trent Opens",
+      "description": "Pope Paul III's Council of Trent convened in northern Italy, beginning a series of sessions that would last until 1563 and define Catholic doctrine and reforms.",
+      "category": "Religion",
+      "significance": "The council was the centerpiece of the Counter-Reformation, clarifying Catholic teaching in response to Protestantism and shaping the Church for roughly four centuries."
+    },
+    {
       "year": 1577,
-      "title": "Francis Drake begins circumnavigation of the globe",
-      "description": "English sea captain Francis Drake sets sail from Plymouth, England, starting his voyage to circumnavigate the world.",
+      "title": "Francis Drake Departs on Circumnavigation",
+      "description": "Sir Francis Drake set sail from Plymouth, England, with five ships on an expedition that would become the second circumnavigation of the globe.",
       "category": "Exploration",
-      "significance": "This expedition significantly impacted English maritime dominance and contributed to the expansion of British influence globally."
+      "significance": "The voyage, completed in 1580, brought Drake fame and wealth, challenged Spanish dominance in the Pacific, and boosted English maritime ambitions."
+    },
+    {
+      "year": 1642,
+      "title": "Abel Tasman Sights New Zealand",
+      "description": "Dutch explorer Abel Tasman, sailing for the Dutch East India Company, became the first European to sight New Zealand's South Island.",
+      "category": "Exploration",
+      "significance": "The sighting placed New Zealand on European maps, though sustained European contact did not begin until Captain James Cook's voyages over a century later."
     },
     {
       "year": 1937,
-      "title": "Nanjing Massacre begins",
-      "description": "Japanese troops capture the Chinese city of Nanjing and begin a brutal massacre and widespread atrocities against civilians and prisoners of war.",
-      "category": "War/Conflict",
-      "significance": "The Nanjing Massacre is one of the most notorious war crimes of the Second Sino-Japanese War, with lasting effects on Sino-Japanese relations."
+      "title": "Nanjing Massacre Begins",
+      "description": "Japanese forces captured the Chinese capital of Nanjing and began weeks of mass killings, rapes, and destruction of civilians and prisoners of war.",
+      "category": "War",
+      "significance": "One of the worst atrocities of World War II in Asia, it remains a deeply significant and contested issue in China-Japan relations and a symbol of wartime brutality."
     },
     {
       "year": 2003,
-      "title": "California Governor Arnold Schwarzenegger sworn in",
-      "description": "Arnold Schwarzenegger is officially sworn in as the Governor of California following a recall election.",
+      "title": "Saddam Hussein Captured",
+      "description": "Former Iraqi president Saddam Hussein was captured by U.S. forces near Tikrit, Iraq, in Operation Red Dawn, hiding in a small underground hole at a farmhouse.",
       "category": "Politics",
-      "significance": "His election marked a significant political event, as Schwarzenegger became a prominent figure blending celebrity status with governance."
-    },
-    {
-      "year": 1938,
-      "title": "Kristallnacht pogrom begins in Nazi Germany",
-      "description": "A coordinated series of attacks against Jews throughout Nazi Germany, marked by the destruction of Jewish businesses, synagogues, and arrests of Jewish people.",
-      "category": "Social/Political",
-      "significance": "Kristallnacht was a major escalation in Nazi persecution of Jews, foreshadowing the Holocaust."
+      "significance": "His capture ended a manhunt after the 2003 invasion of Iraq and led to his trial and execution in 2006, marking a pivotal moment in the Iraq War."
     }
   ]
 }

@@ -4,57 +4,60 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement. Sunflowers are widely cultivated for their seeds and oil and are also popular in gardens for their cheerful appearance.",
-      "bloomingSeason": "July to September",
-      "location": "Native to North America; cultivated worldwide, especially in temperate regions",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray florets around a dark central disc. Heads track the sun when young. Widely grown as an ornamental and for seeds and oil.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and France",
       "colors": [
         "yellow",
+        "gold",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism when young, turning their heads to follow the sun across the sky."
+      "funFact": "Young sunflower buds follow the sun from east to west each day, a movement called heliotropism, but mature flowers face east and stop moving."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, showy, trumpet-shaped flowers that come in a variety of vivid colors. Often grown ornamentally in warm climates and greenhouses.",
-      "bloomingSeason": "Year-round in tropical climates; peaks in summer",
-      "location": "Native to East Asia; cultivated in tropical and subtropical regions globally",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "A low, evergreen shrub that carpets moorlands and heaths with tiny bell-shaped flowers in dense spikes. It thrives in acidic, nutrient-poor soils and is vital for bees and grouse.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Moorlands and heaths of Scotland, northern England, Scandinavia, and across Europe; naturalized in parts of North America",
       "colors": [
-        "red",
+        "purple",
         "pink",
-        "yellow",
-        "white",
-        "orange"
+        "lilac",
+        "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers usually last only a day but bloom continuously throughout their season."
+      "emoji": "💜",
+      "funFact": "Heather honey is prized for its jelly-like texture, and the plant has historically been used for thatching, bedding, and brewing ale."
     },
     {
-      "name": "Gentiana scabra",
-      "commonName": "Japanese Gentian",
-      "description": "A perennial wildflower with striking trumpet-shaped blue to purple flowers. Known for its intense flower color and medicinal properties in East Asia.",
-      "bloomingSeason": "August to October",
-      "location": "Native to East Asia, especially Japan and China",
-      "colors": [
-        "blue",
-        "purple"
-      ],
-      "emoji": "💙",
-      "funFact": "Gentians are often indicators of healthy alpine or mountainous ecosystems due to their specialized growth requirements."
-    },
-    {
-      "name": "Coreopsis tinctoria",
-      "commonName": "Plains Coreopsis",
-      "description": "An annual wildflower featuring daisy-like yellow and crimson flowers. Popular in wildflower meadows and used for natural dye production.",
-      "bloomingSeason": "June to September",
-      "location": "Native to central and western North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower producing arching plumes of tiny golden flower heads. It spreads by rhizomes and forms large colonies in meadows, roadsides, and open fields. It is an important late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to autumn (July to October)",
+      "location": "Native to North America, from Canada through the northern United States; invasive in parts of Europe and Asia",
       "colors": [
         "yellow",
-        "red"
+        "golden"
       ],
       "emoji": "🌼",
-      "funFact": "The species name 'tinctoria' refers to its historical use as a source of dye."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and insect-carried; the real culprit is usually ragweed blooming at the same time."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the protea family, up to 30 cm across, with a bowl of pink-tipped bracts surrounding a fuzzy center. It is South Africa's national flower and is adapted to fire-prone fynbos.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with flowering peaking from August to November",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa; cultivated in Australia, Hawaii, and California",
+      "colors": [
+        "pink",
+        "cream",
+        "silver",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Proteas are ancient flowering plants dating back about 300 million years, and their name comes from the Greek god Proteus, who could change shape."
     }
   ]
 }

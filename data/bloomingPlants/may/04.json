@@ -2,61 +2,63 @@
   "date": "May 4",
   "plants": [
     {
-      "name": "Rhododendron simsii",
-      "commonName": "Azalea",
-      "description": "Azaleas are flowering shrubs known for their vibrant clusters of funnel-shaped flowers and evergreen foliage. They thrive in acidic soils and are popular in temperate gardens worldwide.",
-      "bloomingSeason": "April to June",
-      "location": "Temperate regions of Eastern Asia and cultivated globally",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to ruffled parrot and double forms. Peak bloom occurs in the Netherlands and across northern temperate gardens in early May.",
+      "bloomingSeason": "Mid-spring to late spring (April to May in the Northern Hemisphere)",
+      "location": "Netherlands, Northern Europe, North America; native to Central Asia, cultivated worldwide",
       "colors": [
-        "pink",
         "red",
+        "yellow",
+        "pink",
         "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Azaleas were originally wild plants native to Asia, but many hybrids have been developed for gardens all over the world."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A North American native wildflower characterized by tall spikes of pea-like flowers and palmate leaves. It plays a crucial role in local ecosystems as a nitrogen fixer and host for butterfly larvae.",
-      "bloomingSeason": "April to June",
-      "location": "Eastern United States and Canada, in sandy or well-drained soils",
-      "colors": [
-        "blue",
         "purple",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Wild Lupine is the primary host plant for the endangered Karner blue butterfly."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub commonly found in Mediterranean climates, known for its fragrant, showy flowers and drought tolerance. Despite its beauty, it is toxic if ingested.",
-      "bloomingSeason": "Spring to fall",
-      "location": "Mediterranean Basin, South Asia, cultivated worldwide in warm climates",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
+        "orange"
       ],
       "emoji": "🌷",
-      "funFact": "Oleander extracts were historically used medicinally, but all parts of the plant are toxic due to cardiac glycosides."
+      "funFact": "In the 1630s, tulip bulbs became so valuable during Dutch 'Tulip Mania' that a single rare bulb could cost more than a house in Amsterdam."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces dramatic hanging clusters of fragrant flowers, often 20-30 cm long, before or as its leaves emerge. It twines counterclockwise and can live for decades, covering pergolas and walls.",
+      "bloomingSeason": "Mid-spring to early summer (April to May)",
+      "location": "Native to China; widely cultivated in Japan, Europe, and the eastern and western United States",
+      "colors": [
+        "lavender",
+        "violet",
+        "blue",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "A Chinese wisteria in Sierra Madre, California, planted in 1894, is considered one of the largest blossoming plants in the world, covering about an acre and weighing hundreds of tons."
     },
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A tropical/subtropical tree celebrated for its extravagant display of trumpet-shaped violet-blue flowers and fern-like leaves. It is widely planted in cities for shade and ornamental value.",
-      "bloomingSeason": "April to June",
-      "location": "Native to South America, cultivated in subtropical regions worldwide (e.g., Australia, South Africa)",
+      "description": "A tall tropical and subtropical tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere the tree's main bloom is in spring (Oct-Nov), but in parts of the tropics and in warmer areas it also flowers in late autumn and sporadically at other times. In northern hemisphere subtropical regions such as parts of Mexico, Florida, and southern Asia, blooming peaks around May.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; grown in Mexico City, Florida, southern California, India, and Pakistan",
       "colors": [
-        "purple",
-        "blue"
+        "blue-violet",
+        "lavender"
       ],
-      "emoji": "💜",
-      "funFact": "The jacaranda’s vibrant blooms can cover entire streets, creating spectacular 'purple rain' carpets on the ground."
+      "emoji": "🌳",
+      "funFact": "In Mexico City, jacaranda blossoms carpet streets in spring, and the trees were introduced there by a Japanese gardener, Tatsugoro Matsumoto, in the early 20th century."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial that forms dense, nodding carpets of fragrant, bell-shaped flowers beneath deciduous trees. The flowers droop to one side on arching stems and signal the height of spring in ancient British woodlands.",
+      "bloomingSeason": "Mid-spring (late April to May)",
+      "location": "Native to the British Isles, Western Europe, and Atlantic coastal regions; ancient woodlands in England, Wales, and Ireland",
+      "colors": [
+        "violet-blue",
+        "white",
+        "pink"
+      ],
+      "emoji": "🔔",
+      "funFact": "Nearly half of the world's bluebells grow in Britain, and it is illegal to dig up wild bluebell bulbs for sale under the Wildlife and Countryside Act."
     }
   ]
 }

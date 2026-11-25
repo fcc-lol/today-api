@@ -4,30 +4,37 @@
     {
       "year": 1936,
       "title": "Edward VIII Abdicates the British Throne",
-      "description": "King Edward VIII abdicated the throne to marry Wallis Simpson, a twice-divorced American socialite, causing a constitutional crisis in the United Kingdom.",
-      "category": "Political",
-      "significance": "Marked a rare voluntary abdication that impacted the British monarchy and led to the reign of George VI."
+      "description": "King Edward VIII signed the Instrument of Abdication, and the next day it was enacted by Parliament, after he chose to marry American divorcée Wallis Simpson. He announced his decision to the world in a radio broadcast on the evening of December 11. His brother Albert became King George VI.",
+      "category": "Politics",
+      "significance": "It was the only voluntary abdication of a British monarch, resolved a constitutional crisis, and placed George VI and later Elizabeth II on the throne."
     },
     {
       "year": 1941,
       "title": "Germany and Italy Declare War on the United States",
-      "description": "Following the Japanese attack on Pearl Harbor, Germany and Italy declared war on the United States, expanding World War II into a truly global conflict.",
-      "category": "Military",
-      "significance": "United States formally entered World War II against the Axis powers in Europe and Africa."
+      "description": "Four days after the attack on Pearl Harbor, Adolf Hitler and Benito Mussolini declared war on the United States. The U.S. Congress responded by formally declaring war on both Axis powers the same day.",
+      "category": "War",
+      "significance": "The declarations merged the European and Pacific conflicts into a single global war and brought the full industrial power of the United States into the fight against Nazi Germany."
     },
     {
-      "year": 1938,
-      "title": "The Lions Club International is Founded",
-      "description": "The Lions Clubs International was founded in Chicago, Illinois, aiming to promote community service and humanitarian efforts worldwide.",
-      "category": "Social",
-      "significance": "Became one of the world's largest secular service organizations."
+      "year": 1946,
+      "title": "UNICEF Established by the United Nations",
+      "description": "The UN General Assembly voted to create the United Nations International Children's Emergency Fund to provide food, clothing, and health care to children in countries devastated by World War II.",
+      "category": "Humanitarian",
+      "significance": "UNICEF became a permanent UN agency and grew into the world's largest organization devoted to children's welfare, operating in more than 190 countries."
     },
     {
-      "year": 1994,
-      "title": "Nobel Peace Prize Awarded to Yasser Arafat, Yitzhak Rabin, and Shimon Peres",
-      "description": "The Nobel Peace Prize was awarded jointly to Yasser Arafat, Yitzhak Rabin, and Shimon Peres for their efforts in the Oslo Accords towards peace between Israel and Palestine.",
-      "category": "Diplomatic",
-      "significance": "Recognized significant milestones in the Middle East peace process."
+      "year": 1997,
+      "title": "Kyoto Protocol Adopted",
+      "description": "Delegates from more than 150 nations adopted the Kyoto Protocol in Kyoto, Japan, setting binding targets for industrialized countries to reduce greenhouse gas emissions.",
+      "category": "Environment",
+      "significance": "It was the first major international treaty to impose legally binding emissions reduction targets, laying the groundwork for later climate agreements such as the Paris Agreement."
+    },
+    {
+      "year": 1810,
+      "title": "Napoleon Annexes the Netherlands",
+      "description": "France formally annexed the Kingdom of Holland, along with other north German territories, into the French Empire by decree of Napoleon Bonaparte.",
+      "category": "Politics",
+      "significance": "The annexation marked the peak of French imperial expansion in Europe, and the empire began to unravel soon after with the failed invasion of Russia in 1812."
     }
   ]
 }

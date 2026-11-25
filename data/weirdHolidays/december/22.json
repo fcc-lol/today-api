@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Cookie Exchange Day",
-      "description": "A perfect day to gather friends or family to swap your favorite homemade cookies. It’s a sweet way to share recipes and fill your holiday season with delicious treats!",
-      "origin": "Originated as a fun tradition among holiday baking enthusiasts in the United States to spread cookie joy during the festive season.",
-      "category": "Food Holiday",
+      "description": "Bakers gather to swap batches of homemade cookies so everyone ends up with a festive variety platter without baking a dozen different recipes. Come with a dozen of one kind, leave with a dozen kinds.",
+      "origin": "Cookie exchanges grew out of American community and church gatherings in the late 19th and early 20th centuries, and the tradition boomed in the mid-1900s as a holiday party staple. The day itself is an informal, unofficial observance.",
+      "category": "Food Day",
       "emoji": "🍪",
-      "funFact": "Some cookie exchangers create themed packages, like ‘Around the World’ cookies representing different cultures!"
+      "funFact": "Sweet-treat swaps have been tied to Christmas baking traditions for generations, and the Betty Crocker-era cookbooks of the 1950s helped popularize the idea of the party-sized cookie swap."
     },
     {
-      "name": "Forefathers’ Day",
-      "description": "Commemorates the landing of the Pilgrims at Plymouth Rock in 1620, honoring their courage and perseverance.",
-      "origin": "Observed primarily in Plymouth, Massachusetts, this day highlights the legacy of the early settlers who helped shape American history.",
+      "name": "Forefathers' Day",
+      "description": "A New England observance that commemorates the landing of the Pilgrims at Plymouth Rock, traditionally marked with dinners, speeches, and toasts to the early settlers.",
+      "origin": "The Old Colony Club of Plymouth, Massachusetts began celebrating it in 1769. The date was chosen based on a calendar conversion from the Julian date of the landing, though the conversion was actually off by a day or so, which scholars later noted.",
       "category": "Historical Observance",
-      "emoji": "🛶",
-      "funFact": "Forefathers’ Day is one of the oldest commemorative celebrations in the U.S., dating back to the 18th century."
+      "emoji": "⛵",
+      "funFact": "Because of a calendar-conversion mix-up, the celebration falls on December 22 rather than the date a correct conversion would give, and the tradition stuck anyway. Plymouth still marks it today."
     },
     {
-      "name": "National Haiku Poetry Day",
-      "description": "A day to celebrate the art of haiku, the traditional Japanese form of poetry consisting of three lines and 17 syllables.",
-      "origin": "Inspired by the beauty and brevity of haiku as a poetic form, this day encourages creativity and mindful observation of nature.",
-      "category": "Literary/Creative Arts",
-      "emoji": "🖋️",
-      "funFact": "Many people write haikus about winter's quiet beauty on this day, capturing frosty mornings in just a few words."
-    },
-    {
-      "name": "Look on the Bright Side Day",
-      "description": "An uplifting observance encouraging people to find the silver lining in any situation—perfect for beating the winter blues.",
-      "origin": "A modern feel-good day that promotes optimism and positive thinking, regardless of circumstances.",
-      "category": "Mood and Wellness",
+      "name": "Winter Solstice (Yule and Dongzhi Festival)",
+      "description": "The shortest day and longest night of the year in the Northern Hemisphere, celebrated with bonfires, Yule logs, feasting, and in East Asia with dumplings and sweet rice balls.",
+      "origin": "Cultures around the globe have marked the solstice for thousands of years, from Stonehenge alignments in Britain to the Chinese Dongzhi Festival, which dates back over 2,000 years and celebrates the return of longer days. The solstice usually falls on December 21 or 22.",
+      "category": "Astronomical / Cultural Festival",
       "emoji": "🌞",
-      "funFact": "Even on the shortest days of the year, this holiday reminds us that every cloud has a silver lining!"
+      "funFact": "In some parts of northern China, people eat dumplings on Dongzhi because of a legend that a physician made ear-shaped dumplings to treat villagers with frostbitten ears, and the saying goes that those who skip them may get cold ears."
+    },
+    {
+      "name": "Date Nut Bread Day",
+      "description": "A day for slicing into a dense, sweet, sticky loaf studded with dates and nuts, ideally slathered with cream cheese or butter and enjoyed with tea or coffee.",
+      "origin": "Date nut bread became a popular American baked good in the early 20th century, often featured in cookbooks and as a canned tea-sandwich bread. The food day is an unofficial one that is listed on December 22 in many food-holiday calendars.",
+      "category": "Food Day",
+      "emoji": "🍞",
+      "funFact": "Date nut bread was once so popular as a tea sandwich base that canned versions, such as the well-known B&M brown bread type of canned loaves, sat on pantry shelves alongside it as a handy emergency treat."
+    },
+    {
+      "name": "Chocolate-Covered Anything Day",
+      "description": "A day dedicated to dipping absolutely anything in chocolate, from pretzels and strawberries to potato chips, bacon, and dare-you snacks of all kinds.",
+      "origin": "This is an unofficial food celebration that came out of the holiday-snacking season, driven by candy makers and food bloggers who wanted to give chocolate lovers an excuse to experiment during the festive season.",
+      "category": "Food Day",
+      "emoji": "🍫",
+      "funFact": "Chocolate-covered bacon, insects, and even potato chips are real products, and the flavor combo of salty and sweet is one reason these odd dipped treats keep showing up at fairs and gourmet shops."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "May 11",
   "holidays": [
     {
-      "name": "National Twilight Zone Day",
-      "description": "Celebrate the groundbreaking sci-fi TV series \"The Twilight Zone,\" created by Rod Serling, which first aired on this day in 1959. Dive into eerie tales and mind-bending twists!",
-      "origin": "Marks the premiere date of the iconic TV show \"The Twilight Zone.\"",
+      "name": "National Eat What You Want Day",
+      "description": "A glorious day when you are encouraged to ditch the diet, ignore the nutrition label, and eat whatever your heart desires, whether that is cake for breakfast or a bowl of pickles for dessert.",
+      "origin": "Created in the 1990s by author and food enthusiast Thomas and Ruth Roy, who also founded many other quirky food days. It was designed as a guilt-free break from calorie counting.",
+      "category": "Food Day",
+      "emoji": "🍰",
+      "funFact": "Many people who celebrate it report that the most popular choice is dessert first, proving that the inner child never really leaves the dinner table."
+    },
+    {
+      "name": "National Foster Care Day",
+      "description": "Not to be confused with a silly day, this one is a heartfelt observance, but it is often celebrated with unconventional events like pet-fostering drives where people temporarily adopt animals for a good cause.",
+      "origin": "Observed in the United States around mid-May to raise awareness for children and animals who need temporary homes, linking with broader foster care awareness campaigns.",
+      "category": "Awareness Day",
+      "emoji": "🐶",
+      "funFact": "Fostering a single shelter pet frees up a kennel space that can help save another animal's life, so one couch can rescue two pets."
+    },
+    {
+      "name": "Twilight Zone Day",
+      "description": "A day for fans of eerie twists, spooky narrators, and stories that end with a shocking surprise. Fans marathon classic episodes and speak in dramatic, ominous voices for no reason at all.",
+      "origin": "Celebrates the anniversary of Rod Serling's iconic anthology series, which first aired on CBS in the late 1950s and became a pillar of science fiction and horror television.",
       "category": "Pop Culture",
-      "emoji": "👽",
-      "funFact": "Rod Serling often wrote episodes with social commentary cleverly disguised as science fiction."
+      "emoji": "📺",
+      "funFact": "Rod Serling wrote about 92 of the 156 episodes of the original series, meaning he personally created most of the weirdness himself."
     },
     {
-      "name": "Eat What You Want Day",
-      "description": "A guilt-free holiday that lets you indulge in any food you desire without watching your diet or counting calories – because you deserve it!",
-      "origin": "An unofficial holiday encouraging people to satisfy their cravings and embrace self-care through food.",
-      "category": "Food",
-      "emoji": "🍕",
-      "funFact": "Some people celebrate by eating an entire pizza or their favorite dessert first thing in the morning!"
+      "name": "Eat What You Want Day Companion: Mother's Day Eve Pajama Brunch",
+      "description": "An unofficial tradition in which people hold a lazy brunch in pajamas, complete with absurdly oversized pancakes, in honor of the unsung heroes who have to wash all the syrup off the dishes.",
+      "origin": "Grew out of social media trends in which families share breakfast-in-bed photos around the second weekend of May, turning a sentimental custom into a viral pajama party.",
+      "category": "Unofficial Observance",
+      "emoji": "🥞",
+      "funFact": "Breakfast in bed is statistically one of the most commonly attempted and most commonly messy gifts of the year, with burnt toast leading the disaster charts."
     },
     {
-      "name": "Cassoulet Day",
-      "description": "Honor the hearty French dish cassoulet, a rich, slow-cooked casserole with beans, sausages, and meats, perfect for comfort food lovers.",
-      "origin": "Celebrated to showcase traditional regional dishes of France, especially in the southwest.",
-      "category": "Food",
-      "emoji": "🥘",
-      "funFact": "True cassoulet can take days to prepare – slow cooking is key to its legendary flavor."
-    },
-    {
-      "name": "National Twilight Zone Day",
-      "description": "Commemorates the debut of the classic anthology series presenting strange, mysterious, and thought-provoking stories every episode.",
-      "origin": "Commemorates the very first episode aired on May 11, 1959, called \"Where Is Everybody?\"",
-      "category": "Television",
-      "emoji": "🌀",
-      "funFact": "The show inspired numerous remakes, movies, and even theme park attractions."
+      "name": "Limerick Day",
+      "description": "A day to celebrate five-line, bouncy, and often cheeky poems with a strict AABBA rhyme scheme. Participants are encouraged to write their own silly verses and read them aloud with dramatic flair.",
+      "origin": "Observed on May 12 in honor of the birthday of Edward Lear, the English poet who popularized the form, but many enthusiasts start the festivities a day early on May 11 to warm up their rhyming muscles.",
+      "category": "Literary Celebration",
+      "emoji": "✍️",
+      "funFact": "Despite the name, the limerick has no confirmed link to the Irish city of Limerick, and historians still argue over how it got its name."
     }
   ]
 }

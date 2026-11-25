@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Zoo Lovers Day",
-      "description": "A day dedicated to appreciating the wonders of zoos and the work they do in wildlife conservation and education.",
-      "origin": "Created by zoo enthusiasts and conservationists to promote awareness and visitation to zoos worldwide.",
-      "category": "Awareness/Education",
-      "emoji": "🦁",
-      "funFact": "Many zoos host special events and activities on this day, including behind-the-scenes tours and animal feedings!"
+      "description": "A day to celebrate zoos and the animals living in them. Visit your local zoo, adopt an animal through a sponsorship program, or simply wave at a giraffe and feel good about it.",
+      "origin": "An unofficial observance popularized through holiday calendars, meant to encourage appreciation for zoos and their role in conservation, education, and research.",
+      "category": "Animal Appreciation",
+      "emoji": "🦒",
+      "funFact": "Giraffes only sleep about 30 minutes to 2 hours a day, often in very short naps, so you might catch one on a very busy schedule."
     },
     {
-      "name": "Draw a Bird Day",
-      "description": "A quirky art holiday inviting people to grab their pencils and draw birds of any kind, celebrating creativity and nature.",
-      "origin": "Started by artists and bird lovers to combine art and appreciation for birds.",
-      "category": "Art/Creativity",
-      "emoji": "🐦",
-      "funFact": "You don’t have to be a skilled artist to join in — even the funniest, most imaginative bird drawings are encouraged!"
-    },
-    {
-      "name": "International Day of Human Space Flight",
-      "description": "Commemorates the first human space flight by Yuri Gagarin on April 12, 1961, celebrated around this week with space-related festivities.",
-      "origin": "UN recognized day honoring human achievements in space exploration.",
-      "category": "Science/Technology",
-      "emoji": "🚀",
-      "funFact": "Yuri Gagarin’s famous exclamation during launch was, “Poyekhali!” meaning “Let’s go!” which has become a Russian space rally cry."
+      "name": "International Pillow Fight Day",
+      "description": "A worldwide day when strangers gather in public squares armed with pillows for gloriously fluffy, feather-flying mayhem. The rules usually say to hit gently and to bring soft pillows only.",
+      "origin": "It began as a flash mob-style event organized online in the early 2000s, with the first big coordinated fights happening in 2006. The event became a global phenomenon, held in the first weekend of April in many cities, but is often associated with early April dates including April 8 in some calendars.",
+      "category": "Pop Culture / Flash Mob",
+      "emoji": "🛏️",
+      "funFact": "Organizers typically ask participants to avoid hard pillows and to clean up the feathers afterward, because nothing ruins a fun time like a feather-covered park."
     },
     {
       "name": "National Empanada Day",
-      "description": "Celebrates the delicious empanada, a stuffed pastry popular in many Latin American and Spanish cuisines.",
-      "origin": "A fun food holiday created to honor the diverse fillings and regional styles of empanadas.",
+      "description": "A tasty celebration of the stuffed, folded, baked or fried pastry beloved across Latin America, Spain, and the Philippines. Fillings range from beef and cheese to sweet guava.",
+      "origin": "A food-calendar observance created to honor the empanada, whose name comes from the Spanish verb 'empanar,' meaning to wrap or coat in bread.",
       "category": "Food",
       "emoji": "🥟",
-      "funFact": "There are over 100 varieties of empanadas worldwide, with fillings ranging from meat and cheese to sweet fruits!"
+      "funFact": "Empanadas are believed to date back to medieval Iberia, and a 16th-century Catalan cookbook mentions empanadas filled with seafood."
+    },
+    {
+      "name": "Buddha's Birthday (Hanamatsuri) in Japan",
+      "description": "A flower festival in Japan marking the birth of Siddhartha Gautama. Temples are decorated with blossoms, and visitors ladle sweet tea over small statues of the baby Buddha.",
+      "origin": "Observed in Japan on April 8 for centuries, partly because the date lines up with the cherry blossom season, which gives the festival its name, meaning 'flower festival.'",
+      "category": "Cultural / Religious Observance",
+      "emoji": "🌸",
+      "funFact": "The sweet tea poured over the baby Buddha statue is called amacha, and it is made from fermented hydrangea leaves."
+    },
+    {
+      "name": "Draw a Picture of a Bird Day",
+      "description": "A creative holiday that invites everyone, from serious artists to stick-figure enthusiasts, to sketch a bird. Talent is not required, and a wobbly pigeon counts.",
+      "origin": "A whimsical unofficial observance in the creative-holiday calendar, meant to encourage art and bird appreciation at the same time.",
+      "category": "Arts & Creativity",
+      "emoji": "🐦",
+      "funFact": "Hummingbirds are the only birds that can fly backward, which makes them a pretty challenging subject to capture in motion."
     }
   ]
 }

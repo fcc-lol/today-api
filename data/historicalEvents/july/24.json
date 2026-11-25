@@ -2,39 +2,39 @@
   "date": "July 24",
   "events": [
     {
-      "year": 1603,
-      "title": "Coronation of King James I of England and VI of Scotland",
-      "description": "James VI of Scotland is crowned King of England, uniting the crowns of England and Scotland.",
-      "category": "Monarchy/Political",
-      "significance": "This event marked the beginning of the Stuart era in England and the unification of the English and Scottish crowns under one monarch."
-    },
-    {
-      "year": 1847,
-      "title": "John C. Fremont reaches the summit of the Sierra Nevada",
-      "description": "American explorer John C. Fremont reaches the summit of the Sierra Nevada mountains, helping to pave the way for westward expansion in the United States.",
-      "category": "Exploration",
-      "significance": "This achievement contributed to the understanding and mapping of the American West, influencing migration and development."
-    },
-    {
       "year": 1911,
-      "title": "Hiram Bingham rediscovers Machu Picchu",
-      "description": "American explorer Hiram Bingham announces the discovery of the Incan city of Machu Picchu in Peru.",
-      "category": "Archaeology/Exploration",
-      "significance": "Machu Picchu is one of the most important archaeological sites of the Inca civilization and a UNESCO World Heritage site."
-    },
-    {
-      "year": 1943,
-      "title": "Operation Gomorrah begins",
-      "description": "The Allied bombing campaign against Hamburg, Germany, known as Operation Gomorrah, begins during World War II.",
-      "category": "Military/War",
-      "significance": "The bombings caused massive destruction and civilian casualties, marking one of the most devastating air raids of the war."
+      "title": "Hiram Bingham Rediscovers Machu Picchu",
+      "description": "American explorer Hiram Bingham, guided by local villagers, reached the Inca citadel of Machu Picchu in the Peruvian Andes and brought it to international attention.",
+      "category": "Exploration",
+      "significance": "The find drew worldwide interest to Inca civilization and made Machu Picchu one of the most famous archaeological sites in the world, later designated a UNESCO World Heritage Site."
     },
     {
       "year": 1969,
-      "title": "Apollo 11 crew returns to Earth",
-      "description": "The crew of Apollo 11, the first manned mission to land on the Moon, safely returns to Earth.",
-      "category": "Space Exploration",
-      "significance": "This event marked the successful completion of humanity's first lunar landing mission, a major milestone in space exploration."
+      "title": "Apollo 11 Returns to Earth",
+      "description": "The Apollo 11 command module Columbia splashed down in the Pacific Ocean, bringing astronauts Neil Armstrong, Buzz Aldrin and Michael Collins home after the first crewed Moon landing.",
+      "category": "Science and Space",
+      "significance": "The safe return completed the mission and fulfilled President Kennedy's goal of landing a man on the Moon and returning him safely to Earth before the end of the 1960s."
+    },
+    {
+      "year": 1923,
+      "title": "Treaty of Lausanne Signed",
+      "description": "The Treaty of Lausanne was signed in Switzerland between Turkey and the Allied powers, including Britain, France, Italy, Japan, Greece and Romania, settling the conflict that began in World War I.",
+      "category": "Politics and Diplomacy",
+      "significance": "It superseded the Treaty of Sèvres, recognized the sovereignty of the new Republic of Turkey, and established its modern borders."
+    },
+    {
+      "year": 1802,
+      "title": "Birth of Alexandre Dumas",
+      "description": "French writer Alexandre Dumas, author of The Three Musketeers and The Count of Monte Cristo, was born in Villers-Cotterêts, France.",
+      "category": "Birth",
+      "significance": "Dumas became one of the most widely read French authors, and his adventure novels helped define the historical romance genre and remain popular worldwide."
+    },
+    {
+      "year": 1974,
+      "title": "US Supreme Court Rules in United States v. Nixon",
+      "description": "The US Supreme Court unanimously ruled that President Richard Nixon had to turn over the subpoenaed White House tape recordings related to the Watergate scandal.",
+      "category": "Law and Politics",
+      "significance": "The ruling limited the scope of executive privilege and led to Nixon's resignation on August 9, 1974."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1914,
-      "title": "Assassination of Archduke Franz Ferdinand of Austria",
-      "description": "Archduke Franz Ferdinand of Austria and his wife Sophie were assassinated in Sarajevo by Gavrilo Princip, an event that directly triggered the outbreak of World War I.",
-      "category": "Political/Military",
-      "significance": "This assassination set off a chain reaction of alliances and conflicts that led to the start of World War I, drastically altering global history."
+      "title": "Assassination of Archduke Franz Ferdinand",
+      "description": "Archduke Franz Ferdinand of Austria, heir to the Austro-Hungarian throne, and his wife Sophie were shot in Sarajevo by Gavrilo Princip, a Bosnian Serb nationalist affiliated with the Young Bosnia movement.",
+      "category": "Politics/Assassination",
+      "significance": "The assassination triggered the July Crisis, leading Austria-Hungary to declare war on Serbia and setting off a chain of alliances that escalated into World War I."
     },
     {
       "year": 1919,
-      "title": "Signing of the Treaty of Versailles",
-      "description": "The Treaty of Versailles was signed, officially ending World War I. The treaty imposed heavy reparations and territorial losses on Germany.",
-      "category": "Political/Diplomatic",
-      "significance": "The harsh terms of the treaty contributed to economic hardship and political instability in Germany, ultimately influencing the rise of Nazism and leading to World War II."
+      "title": "Treaty of Versailles Signed",
+      "description": "Germany and the Allied Powers signed the Treaty of Versailles in the Hall of Mirrors at the Palace of Versailles, exactly five years after the assassination of Franz Ferdinand.",
+      "category": "Diplomacy/War",
+      "significance": "The treaty formally ended World War I, imposed territorial losses, military restrictions, and reparations on Germany, and created the League of Nations. Its harsh terms are often cited as a factor in the rise of Nazism and World War II."
     },
     {
-      "year": 2005,
-      "title": "The first legal same-sex marriages in Canada",
-      "description": "Canada became the fourth country to legalize same-sex marriage nationwide, following a Supreme Court ruling that mandated the government to change laws.",
-      "category": "Social/Legal",
-      "significance": "This was a landmark moment for LGBTQ+ rights and equality, reflecting significant progress on social acceptance and legal recognition of same-sex relationships."
+      "year": 1838,
+      "title": "Coronation of Queen Victoria",
+      "description": "Victoria was crowned Queen of the United Kingdom at Westminster Abbey, a year after she ascended the throne at age 18 following the death of her uncle William IV.",
+      "category": "Royalty/Politics",
+      "significance": "Her reign of over 63 years, the Victorian era, saw the expansion of the British Empire, the Industrial Revolution, and major social and cultural change."
     },
     {
-      "year": 1916,
-      "title": "Start of the Battle of the Somme",
-      "description": "The Battle of the Somme began during World War I with British and French forces launching a massive offensive against German positions along the River Somme in France.",
+      "year": 1776,
+      "title": "Battle of Sullivan's Island",
+      "description": "American defenders at a palmetto-log fort in Charleston Harbor, South Carolina, under Colonel William Moultrie repelled a British naval attack led by Admiral Peter Parker.",
       "category": "Military",
-      "significance": "One of the bloodiest battles in human history, it highlighted the brutal nature of trench warfare and had lasting effects on military tactics and public perception of the war."
+      "significance": "The victory delayed British operations in the South for years and boosted American morale just days before the Declaration of Independence was adopted."
+    },
+    {
+      "year": 1491,
+      "title": "Birth of Henry VIII",
+      "description": "Henry VIII, future King of England, was born at Greenwich Palace, the second son of Henry VII and Elizabeth of York.",
+      "category": "Birth/Royalty",
+      "significance": "Henry VIII broke with the Roman Catholic Church, established the Church of England, and reshaped English religion, government, and the monarchy during his reign."
     }
   ]
 }

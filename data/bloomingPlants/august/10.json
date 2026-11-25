@@ -3,54 +3,56 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall annual plants with large, bright yellow ray florets surrounding a central disc that matures into seeds. They are known for their heliotropism, turning to face the sun throughout the day.",
-      "bloomingSeason": "Mid-summer to early fall (July to September)",
-      "location": "Temperate regions worldwide, often cultivated but also naturalized in North America and Europe",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made up of golden ray florets surrounding a dark central disc. The heads track the sun when young, and the plant is widely cultivated for seeds, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and North America",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters tall and their seeds are a nutritious food source for both people and wildlife."
+      "funFact": "Young sunflower buds follow the sun from east to west each day, a movement called heliotropism, but mature flower heads stay facing east."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "An evergreen shrub or small tree that produces clusters of bright red, trumpet-shaped flowers. It is the national flower of Nepal and grows in the Himalayan region.",
-      "bloomingSeason": "July to September",
-      "location": "Himalayan foothills and mountainous regions in South Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Native to the Mediterranean; cultivated in southern France, England, Bulgaria, and the Pacific Northwest of North America",
       "colors": [
-        "Red"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "This species can grow over 20 meters tall and its flowers are used in traditional medicines."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial native to North America with large, purplish-pink petals surrounding a spiny, orange-brown central cone. Popular for medicinal uses and pollinator gardens.",
-      "bloomingSeason": "Mid-summer to early fall (July to September)",
-      "location": "Central and Eastern United States",
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that produces long spires of bright magenta-pink flowers that bloom from the bottom up. It is among the first plants to colonize burned or disturbed land.",
+      "bloomingSeason": "Midsummer to early autumn (July to September)",
+      "location": "Northern temperate and subarctic regions, including Alaska, Canada, northern Europe, and Siberia",
       "colors": [
-        "Purple",
-        "Orange"
+        "magenta",
+        "pink"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
+      "funFact": "Fireweed flowers open progressively up the stalk, and locals traditionally say that when the top blooms open, summer is nearly over."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, fragrant pink or white flowers that float above water on long stems. It holds cultural and religious significance in Asia.",
-      "bloomingSeason": "Summer to early fall (June to September)",
-      "location": "Wetlands and ponds across Asia, particularly India and China",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree covered in fluffy, fragrant golden-yellow pom-pom flower clusters. It blooms in the Southern Hemisphere's late winter, brightening the Australian bush.",
+      "bloomingSeason": "Late winter to spring (July to October in the Southern Hemisphere)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
       "colors": [
-        "Pink",
-        "White"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Lotus seeds can remain viable for hundreds of years; one seed germinated after about 1,300 years."
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1st."
     }
   ]
 }

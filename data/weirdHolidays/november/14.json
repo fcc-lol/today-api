@@ -2,36 +2,44 @@
   "date": "November 14",
   "holidays": [
     {
-      "name": "Pickle Day",
-      "description": "A day to celebrate the humble pickle, that tangy, crunchy delight that jazzes up sandwiches, salads, and snack platters around the world.",
-      "origin": "Pickle Day is an unofficial food holiday that likely emerged from pickle enthusiasts and makers who wanted to honor this salty treat.",
-      "category": "Food",
-      "emoji": "🥒",
-      "funFact": "The world’s largest pickle weighed over 4 pounds and was grown by an enthusiastic gardener aiming for the pickle record!"
+      "name": "World Diabetes Day",
+      "description": "A global awareness day when landmarks around the world glow blue and people learn about diabetes prevention, care, and the importance of access to treatment.",
+      "origin": "Created in 1991 by the International Diabetes Federation and the World Health Organization, and officially recognized by the United Nations in 2006. The date honors the birthday of Frederick Banting, who co-discovered insulin.",
+      "category": "Awareness Day",
+      "emoji": "🔵",
+      "funFact": "The blue circle logo of the day was chosen as the UN-endorsed symbol of unity for the global diabetes community, and the date marks the birthday of Frederick Banting, who was just 32 when he won the Nobel Prize for the discovery of insulin."
     },
     {
-      "name": "World Diabetes Day",
-      "description": "A global awareness day focusing on diabetes, its prevention, management, and the importance of holistic health.",
-      "origin": "Established by the International Diabetes Federation in 1991 and marked on November 14 to honor Frederick Banting, who co-discovered insulin.",
-      "category": "Awareness",
-      "emoji": "💙",
-      "funFact": "The blue circle symbolizing the day represents the unity of the global diabetes community."
+      "name": "National Pickle Day",
+      "description": "A salute to all things briny and crunchy, from dill spears to bread-and-butter chips. Pickle lovers celebrate by snacking on pickles, sipping pickle juice, and perhaps debating the ideal level of tang.",
+      "origin": "A food-industry-style unofficial holiday that grew popular through food calendars and social media. It's a tribute to the humble cucumber's transformation through brine.",
+      "category": "Food Day",
+      "emoji": "🥒",
+      "funFact": "Cleopatra was said to credit pickles for her beauty, and sailors on Christopher Columbus-era voyages carried pickled foods to ward off scurvy."
+    },
+    {
+      "name": "National Spicy Guacamole Day",
+      "description": "A day for avocado fans to kick their guacamole up a notch with jalapeños, serranos, or even habaneros. Chips are mandatory, and so is arguing over whether peas belong in it (they don't).",
+      "origin": "An unofficial food observance from the modern food-holiday calendar, celebrating the Aztec-born dip and its fiery variations.",
+      "category": "Food Day",
+      "emoji": "🥑",
+      "funFact": "The word guacamole comes from the Aztec Nahuatl word ahuacamolli, which literally means avocado sauce."
+    },
+    {
+      "name": "Children's Day in India (Bal Diwas)",
+      "description": "A joyful day in India with school festivities, games, cultural performances, and special programs dedicated to the rights, education, and care of children.",
+      "origin": "Celebrated on the birthday of Jawaharlal Nehru, India's first Prime Minister, who was affectionately known as Chacha Nehru (Uncle Nehru) for his love of children. It was moved to this date after his death in 1964.",
+      "category": "Cultural Observance",
+      "emoji": "🎈",
+      "funFact": "Nehru famously wore a red rose on his jacket, and the flower became closely associated with children's celebrations on the day."
     },
     {
       "name": "Operating Room Nurse Day",
-      "description": "A day to recognize the critical role of nurses who work in operating rooms, providing skillful, behind-the-scenes care during surgeries.",
-      "origin": "An unofficial appreciation day created by professional nursing organizations to honor OR nurses.",
+      "description": "A day to honor the often unsung heroes in surgical scrubs who keep operating rooms calm, sterile, and running smoothly, even in the most stressful moments.",
+      "origin": "Observed in some nursing communities on November 14 to recognize perioperative nurses and their vital role in patient safety during surgery.",
       "category": "Professional Appreciation",
       "emoji": "🩺",
-      "funFact": "OR nurses must memorize hundreds of surgical instruments and procedures – talk about having a sharp mind!"
-    },
-    {
-      "name": "Children’s Day (India)",
-      "description": "A day dedicated to celebrating children and promoting their rights and welfare across India.",
-      "origin": "Observed on November 14 to commemorate the birthday of Jawaharlal Nehru, India’s first Prime Minister, who loved children.",
-      "category": "Cultural",
-      "emoji": "👶",
-      "funFact": "Jawaharlal Nehru was affectionately known as 'Chacha Nehru' (Uncle Nehru) because of his affection for kids."
+      "funFact": "Surgical nurses can spend hours on their feet during a single procedure, and they are responsible for counting every sponge and instrument to make sure nothing gets left behind."
     }
   ]
 }

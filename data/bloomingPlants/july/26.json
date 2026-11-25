@@ -2,59 +2,58 @@
   "date": "July 26",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant shrub known for its aromatic purple flower spikes, English Lavender thrives in Mediterranean climates and is widely cultivated in gardens. It attracts pollinators and is used for essential oils.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean region, Europe, North America (cultivated)",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves held above the water and showy, fragrant flowers on tall stalks. The flowers open in the morning and close by afternoon, and the plant is widely cultivated in ponds and water gardens.",
+      "bloomingSeason": "Mid-summer, peaking July to August in the Northern Hemisphere",
+      "location": "Asia, from India to China and Japan, and cultivated in ponds across North America and Europe",
       "colors": [
-        "Purple",
-        "Lavender"
+        "pink",
+        "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Lavender was used by ancient Egyptians for mummification and by Romans for bathing and cooking."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy, and the leaves have a micro-textured surface that sheds water and dirt, known as the lotus effect."
     },
     {
-      "name": "Rosa rugosa",
-      "commonName": "Rugosa Rose",
-      "description": "A hardy wild rose species with fragrant, pink to white flowers followed by bright red hips rich in vitamin C. It grows naturally along coastal areas and is often planted in gardens for its resilience.",
-      "bloomingSeason": "June to August",
-      "location": "Northern Hemisphere temperate zones, coastal areas of Europe and Asia",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy herbaceous perennial with daisy-like flowers that have drooping rosy petals around a spiky, orange-brown central cone. It thrives in prairies and sunny gardens and is a magnet for pollinators.",
+      "bloomingSeason": "Early summer to early fall, at its height in July",
+      "location": "Eastern and central North America, widely cultivated in temperate gardens worldwide",
       "colors": [
-        "Pink",
-        "White"
-      ],
-      "emoji": "🌹",
-      "funFact": "Its dense growth and thorny stems make it excellent for coastal erosion control and wildlife habitats."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A tall perennial herbaceous plant bearing dense, colorful spikes of pea-like flowers. Native to western North America, it is popular in wildflower mixes and gardens for its nitrogen-fixing capabilities.",
-      "bloomingSeason": "June to August",
-      "location": "Western North America, spread to parts of Europe and New Zealand",
-      "colors": [
-        "Purple",
-        "Blue",
-        "Pink",
-        "White"
+        "purple",
+        "pink",
+        "orange"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with root bacteria."
+      "funFact": "The spiky central cone gives the genus its name, from the Greek 'echinos' meaning hedgehog, and the plant has long been used in traditional Native American medicine."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "South Africa’s national flower, the King Protea features a large and striking inflorescence resembling an artichoke, with colorful bracts surrounding a cluster of small flowers. It’s a symbol of diversity and courage.",
-      "bloomingSeason": "June to September",
-      "location": "Southwestern South Africa",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of small, fragrant flowers. It prefers full sun and well-drained soil, and is grown in fields for essential oil and in gardens as a border plant.",
+      "bloomingSeason": "Mid to late summer, peaking in July",
+      "location": "Mediterranean region, cultivated in Provence in France, England, Bulgaria, and the Pacific Northwest",
       "colors": [
-        "Pink",
-        "Red",
-        "Cream"
+        "purple",
+        "lavender",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare', meaning to wash, as the Romans used lavender to scent their baths."
+    },
+    {
+      "name": "Callistemon citrinus",
+      "commonName": "Crimson Bottlebrush",
+      "description": "An evergreen shrub whose cylindrical flower spikes resemble bottlebrushes, made up of long, showy red stamens. Where it grows in the Southern Hemisphere winter the plant produces sporadic blooms, and it is also popular in warm climates elsewhere.",
+      "bloomingSeason": "Flowers sporadically through the year, with notable blooms in winter in the Southern Hemisphere and summer in warm northern regions",
+      "location": "Eastern Australia, cultivated in California, the Mediterranean, South Africa, and other warm regions",
+      "colors": [
+        "red",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea can survive wildfires and regrows rapidly from underground stems after burns."
+      "funFact": "Bottlebrush flowers produce abundant nectar that attracts honeyeaters, lorikeets, and other nectar-feeding birds in Australia."
     }
   ]
 }

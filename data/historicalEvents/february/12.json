@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1809,
-      "title": "Birth of Charles Darwin",
-      "description": "Charles Darwin, the influential English naturalist who developed the theory of evolution by natural selection, was born.",
+      "title": "Birth of Abraham Lincoln",
+      "description": "Abraham Lincoln, the 16th President of the United States, was born in a one-room log cabin near Hodgenville, Kentucky. He rose from humble frontier origins to become a lawyer and politician.",
       "category": "Birth",
-      "significance": "Darwin's work fundamentally changed biology and our understanding of life on Earth."
+      "significance": "Lincoln led the United States through the Civil War, preserved the Union, issued the Emancipation Proclamation, and championed the abolition of slavery through the Thirteenth Amendment."
+    },
+    {
+      "year": 1809,
+      "title": "Birth of Charles Darwin",
+      "description": "Charles Darwin, the English naturalist, was born in Shrewsbury, England, on the same day as Abraham Lincoln. He later undertook the voyage of HMS Beagle, which shaped his scientific thinking.",
+      "category": "Birth",
+      "significance": "Darwin's theory of evolution by natural selection, published in On the Origin of Species in 1859, fundamentally transformed biology and humanity's understanding of life on Earth."
     },
     {
       "year": 1909,
-      "title": "Centennial of Abraham Lincoln's Birth",
-      "description": "A nationwide celebration in the United States marked the 100th anniversary of the birth of Abraham Lincoln, the 16th President of the U.S.",
-      "category": "Anniversary",
-      "significance": "Honors the legacy of Lincoln, a key figure in American history and the abolition of slavery."
+      "title": "Founding of the NAACP",
+      "description": "The National Association for the Advancement of Colored People was founded in New York City on the centennial of Lincoln's birth by a group of activists including W.E.B. Du Bois, Ida B. Wells, and Mary White Ovington.",
+      "category": "Civil Rights",
+      "significance": "The NAACP became the leading U.S. civil rights organization, pursuing legal challenges such as Brown v. Board of Education and advancing racial equality throughout the 20th century."
     },
     {
-      "year": 1924,
-      "title": "First Winter Olympic Games",
-      "description": "The first Winter Olympics were held in Chamonix, France, officially known as the I Olympic Winter Games.",
-      "category": "Sports",
-      "significance": "Established the Winter Olympics as a major international sporting event."
-    },
-    {
-      "year": 1947,
-      "title": "Indonesia Becomes a UN Member",
-      "description": "Indonesia was admitted as a member of the United Nations after gaining independence from Dutch colonial rule.",
-      "category": "Political",
-      "significance": "Marked an important step in Indonesia's international recognition and sovereignty."
+      "year": 1912,
+      "title": "Abdication of the Last Qing Emperor",
+      "description": "Puyi, the six-year-old Xuantong Emperor, formally abdicated the Chinese throne following the Xinhai Revolution, ending the Qing dynasty.",
+      "category": "Politics",
+      "significance": "The abdication ended over two thousand years of imperial rule in China and ushered in the Republic of China, beginning a turbulent modern era in Chinese history."
     },
     {
       "year": 1999,
-      "title": "Vladimir Putin Appointed Prime Minister of Russia",
-      "description": "Vladimir Putin was appointed Prime Minister of Russia by President Boris Yeltsin.",
-      "category": "Political",
-      "significance": "Putin's rise marked a significant change in Russian politics, leading to long-term leadership."
+      "title": "Senate Acquits President Bill Clinton",
+      "description": "The U.S. Senate voted to acquit President Bill Clinton on both articles of impeachment, perjury and obstruction of justice, with neither charge reaching the two-thirds majority required for removal.",
+      "category": "Politics",
+      "significance": "Clinton became only the second U.S. president to be impeached by the House and remain in office, shaping later debates over impeachment and partisan politics."
     }
   ]
 }

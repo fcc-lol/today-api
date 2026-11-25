@@ -2,61 +2,59 @@
   "date": "July 20",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are classic garden shrubs known for their fragrant and diverse flowers. Many varieties bloom repeatedly throughout summer, including midsummer in the Northern Hemisphere. The flowers vary widely in form and color.",
-      "bloomingSeason": "Late spring through summer (May to August)",
-      "location": "Temperate regions worldwide, commonly cultivated in gardens",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for thousands of years and are among the most cultivated flowers globally."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A native wildflower of North America, Echinacea purpurea produces large, daisy-like purple to pink flowers with a spiny central cone. It is popular for its medicinal uses and attracts pollinators.",
-      "bloomingSeason": "Summer to early fall (June to September)",
-      "location": "Eastern and central United States, also widely cultivated",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of small, fragrant flowers. It is widely cultivated in gardens and commercial fields, and it is a magnet for bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August) in the Northern Hemisphere",
+      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens across North America",
       "colors": [
         "purple",
-        "pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Echinacea is widely used in herbal remedies to boost immune health."
-    },
-    {
-      "name": "Banksia menziesii",
-      "commonName": "Firewood Banksia",
-      "description": "An Australian wild shrub with large cylindrical flower spikes composed of hundreds of tiny flowers that bloom in bright shades, attracting birds and insects. It blooms in late winter to summer depending on region.",
-      "bloomingSeason": "June to September (Southern Hemisphere winter to early spring)",
-      "location": "Southwestern Australia (native)",
-      "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Banksia flowers are rich in nectar and were used by Indigenous Australians as a sweet treat."
-    },
-    {
-      "name": "Nymphaea spp.",
-      "commonName": "Water Lilies",
-      "description": "Aquatic plants with large floating leaves and fragrant flowers that open by day and close by night. Many species bloom during warm summer months in temperate to tropical climates.",
-      "bloomingSeason": "Summer (June to August)",
-      "location": "Temperate and tropical freshwater habitats worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "yellow",
+        "lavender",
         "blue"
       ],
-      "emoji": "🌼",
-      "funFact": "Water lilies were featured prominently in Monet’s paintings, symbolizing tranquility and beauty."
+      "emoji": "💜",
+      "funFact": "Lavender oil has been used since Roman times for bathing and perfume, and the name comes from the Latin 'lavare', meaning 'to wash'."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large composite flower head made of hundreds of tiny florets surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, and the plant produces edible seeds rich in oil.",
+      "bloomingSeason": "Mid to late summer (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; cultivated widely in Ukraine, Russia, Argentina, the United States, and Europe",
+      "colors": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds follow the sun from east to west in a behavior called heliotropism, but mature blooms stay fixed facing east."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves that rise above the water and showy, fragrant flowers on tall stalks. The leaves have a water-repelling surface that keeps them clean, and the seeds and rhizomes are edible.",
+      "bloomingSeason": "Summer (June to August) in temperate Asia; nearly year-round in the tropics",
+      "location": "Ponds, lakes, and wetlands across India, China, Japan, Vietnam, and Southeast Asia, with naturalized populations in Australia",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been shown to germinate after more than 1,000 years of dormancy, and the flower can regulate its own temperature to attract pollinators."
+    },
+    {
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gumtree",
+      "description": "A small, graceful mallee-type eucalypt with weeping branches, powdery white-waxed bark and silvery-gray foliage. Its large pendulous flower clusters brighten the winter landscape and attract nectar-feeding birds.",
+      "bloomingSeason": "Late autumn through winter and early spring (roughly May to September) in the Southern Hemisphere",
+      "location": "Granite outcrops of Western Australia, also grown in gardens in warm temperate regions",
+      "colors": [
+        "pink",
+        "red",
+        "magenta"
+      ],
+      "emoji": "🌺",
+      "funFact": "This species grows naturally only on a handful of granite rock outcrops in Western Australia and is listed as a rare plant in the wild."
     }
   ]
 }

@@ -2,58 +2,63 @@
   "date": "October 26",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular autumn-blooming ornamental plant known for its large, colorful flower heads in shades of yellow, red, white, and purple. Often used in floral displays and celebrated in festivals such as Japan's 'Chrysanthemum Day'.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A long-cultivated perennial with dense, layered pompon, daisy, or spider-form blooms on sturdy stems with deeply lobed, aromatic leaves. It is a short-day plant, so flowering is triggered by lengthening nights, making it a hallmark of autumn gardens in the Northern Hemisphere.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated across East Asia, Europe, and North America; native to China",
       "colors": [
         "yellow",
-        "red",
         "white",
-        "purple"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in many cultures and have been cultivated for over 2,500 years."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub admired for its glossy leaves and large, rose-like flowers that bloom in late autumn to early winter. Flowers range from white to pink to red and bloom before the first frost in mild climates.",
-      "bloomingSeason": "October to March",
-      "location": "Native to East Asia; widely cultivated in subtropical and temperate gardens globally",
-      "colors": [
-        "white",
-        "pink",
+        "bronze",
+        "purple",
         "red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica was introduced to Europe in the 18th century and became a symbol of southern charm in places like the American South."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the national emblem of Japan, where the Imperial throne is called the Chrysanthemum Throne."
     },
     {
-      "name": "Clerodendrum thomsoniae",
-      "commonName": "Bleeding Heart Vine",
-      "description": "A tropical vine known for its striking red and white heart-shaped flowers, blooming in late summer through autumn in suitable climates. It thrives in warm tropical and subtropical regions and is grown as a decorative plant in gardens and greenhouses.",
-      "bloomingSeason": "August to November",
-      "location": "Native to tropical West Africa; cultivated in tropical and subtropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A graceful semi-deciduous tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. When the blossoms fall, they carpet streets and lawns in purple.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
       "colors": [
-        "red",
+        "lavender",
+        "purple",
+        "blue"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacaranda trees, earning it the nickname 'Jacaranda City'. In Australia, it is a tradition that flowering jacarandas signal that university exams are near."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up pale pink-lilac, goblet-shaped flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by early summer.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Damp meadows and woodlands of Europe, from Britain to the Balkans",
+      "colors": [
+        "pale pink",
+        "lilac",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Despite its delicate appearance, the Bleeding Heart Vine is drought tolerant and can attract hummingbirds and butterflies."
+      "emoji": "🌷",
+      "funFact": "Despite its name, it is not a true crocus. It contains colchicine, a toxic alkaloid, which is used in medicine to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A wildflower native to North America which typically blooms in late summer through autumn. It produces tall clusters of small yellow flowers that provide an important nectar source for pollinators preparing for winter.",
-      "bloomingSeason": "August to October",
-      "location": "Widely distributed in North America; naturalized in parts of Europe and Asia",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with feathery foliage and daisy-like flowers on tall, slender stems. In warm regions such as the southern United States and Mexico, it keeps blooming into late autumn until the first frost.",
+      "bloomingSeason": "Summer through autumn (June to November)",
+      "location": "Native to Mexico; naturalized and cultivated in North America, Europe, and Asia",
       "colors": [
-        "yellow"
+        "pink",
+        "magenta",
+        "white",
+        "orange"
       ],
-      "emoji": "🌻",
-      "funFact": "Goldenrod is often mistakenly blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time."
+      "emoji": "🌺",
+      "funFact": "Its name comes from the Greek 'kosmos', meaning ordered or harmonious universe, referring to the symmetrical arrangement of its petals. Cosmos plants are also edible and attract butterflies and pollinators."
     }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "August 24",
   "events": [
     {
-      "year": 410,
-      "title": "Sack of Rome by the Visigoths",
-      "description": "The Visigoths led by King Alaric I sacked Rome, marking the first time in 800 years that the city had been captured by a foreign enemy, signaling the decline of the Western Roman Empire.",
-      "category": "Military/Political",
-      "significance": "This event symbolized the weakening of Roman power and the transition to the Middle Ages in Europe."
-    },
-    {
       "year": 79,
       "title": "Eruption of Mount Vesuvius",
-      "description": "Mount Vesuvius erupted catastrophically, burying the Roman cities of Pompeii and Herculaneum under volcanic ash and preserving them for centuries.",
+      "description": "According to the traditional date, Mount Vesuvius erupted and buried the Roman cities of Pompeii and Herculaneum under volcanic ash and pumice, killing thousands of residents. Recent archaeological evidence suggests the eruption may have occurred later in the autumn.",
       "category": "Natural Disaster",
-      "significance": "The eruption provides critical archaeological insights into Roman life and has influenced volcanology and disaster preparedness."
+      "significance": "The eruption preserved Pompeii and Herculaneum almost intact, giving historians and archaeologists an unparalleled window into daily life in the Roman Empire and founding the modern study of volcanology."
+    },
+    {
+      "year": 1572,
+      "title": "St. Bartholomew's Day Massacre Begins",
+      "description": "In Paris, Catholic mobs and soldiers began killing French Huguenots (Protestants) days after the wedding of Henry of Navarre and Margaret of Valois. The violence spread to other French cities and continued for weeks, killing thousands.",
+      "category": "Religious Violence",
+      "significance": "The massacre deepened the French Wars of Religion and became a lasting symbol of religious intolerance and the dangers of sectarian conflict in Europe."
     },
     {
       "year": 1814,
-      "title": "Burning of Washington during the War of 1812",
-      "description": "British forces invaded Washington, D.C., setting fire to the White House, the Capitol, and other public buildings during the War of 1812.",
-      "category": "Military/Political",
-      "significance": "This event was a major blow to American morale but galvanized national resolve during the young nation's conflict with Britain."
+      "title": "British Burn Washington, D.C.",
+      "description": "During the War of 1812, British forces defeated American troops at the Battle of Bladensburg and entered Washington, D.C., burning the Capitol, the White House, and other public buildings in retaliation for the American burning of York (Toronto) in 1813.",
+      "category": "Military",
+      "significance": "It was the only time a foreign power has captured and occupied the U.S. capital, and the event spurred American resolve that contributed to the successful defense of Baltimore and the writing of The Star-Spangled Banner."
     },
     {
-      "year": 1932,
-      "title": "Audi brand founded",
-      "description": "August Horch founded the Audi brand, which would go on to become one of the leading luxury automobile manufacturers in the world.",
-      "category": "Business/Industry",
-      "significance": "This marked the beginning of a brand that would be influential in automotive engineering and design."
+      "year": 1991,
+      "title": "Ukraine Declares Independence from the Soviet Union",
+      "description": "Following the failed hardline coup in Moscow, the Ukrainian parliament adopted the Act of Independence of Ukraine, declaring the country independent of the USSR. A national referendum on December 1 overwhelmingly confirmed it.",
+      "category": "Politics",
+      "significance": "Ukraine's independence was a decisive step in the dissolution of the Soviet Union, which formally ended in December 1991, and reshaped the political map of Eastern Europe."
     },
     {
-      "year": 1949,
-      "title": "North Atlantic Treaty signed",
-      "description": "The North Atlantic Treaty was signed in Washington, D.C., establishing NATO as a military alliance among Western nations.",
-      "category": "Political/Military",
-      "significance": "NATO was a key organization in the Cold War, providing collective security against Soviet expansion."
+      "year": 2006,
+      "title": "Pluto Reclassified as a Dwarf Planet",
+      "description": "The International Astronomical Union voted at its General Assembly in Prague to adopt a formal definition of a planet, which excluded Pluto and reclassified it as a dwarf planet.",
+      "category": "Science",
+      "significance": "The decision changed the official count of planets in the Solar System from nine to eight and sparked widespread public debate about how scientific categories are defined."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "May 20",
   "holidays": [
     {
+      "name": "Pick Strawberries Day",
+      "description": "A day dedicated to heading out to a field or farm to pick juicy, sun-warmed strawberries yourself and eat a few before they ever reach the basket.",
+      "origin": "An unofficial food observance that grew out of the late-spring strawberry harvest in much of the United States. It encourages people to visit local farms and support growers.",
+      "category": "Food Day",
+      "emoji": "🍓",
+      "funFact": "A strawberry is not technically a berry, and the tiny 'seeds' on the outside are actually individual fruits called achenes. An average strawberry has about 200 of them."
+    },
+    {
       "name": "World Bee Day",
-      "description": "A day to celebrate the role of bees and other pollinators in nature and agriculture, highlighting their importance to global ecosystems and food production.",
-      "origin": "Declared by the United Nations in 2017, May 20 was chosen to honor the birthday of Anton Janša, a pioneer of modern beekeeping from Slovenia.",
+      "description": "A United Nations observance celebrating bees and other pollinators, and raising awareness of how much our food supply depends on these buzzing little workers.",
+      "origin": "Proposed by Slovenia, home to a strong beekeeping tradition, and officially designated by the UN in 2017. May 20 is the birthday of Anton Janša, a pioneer of modern beekeeping born in 1734.",
       "category": "Awareness Day",
       "emoji": "🐝",
-      "funFact": "Without bees, one-third of the food we eat would disappear since they pollinate about 70% of the world's major food crops!"
+      "funFact": "A honeybee visits roughly 2 million flowers and flies the equivalent of several times around the Earth to produce just one pound of honey, and a single bee makes only about 1/12 of a teaspoon in its lifetime."
     },
     {
-      "name": "Towel Day",
-      "description": "Fans of Douglas Adams honor the author by carrying a towel with them all day, celebrating the beloved sci-fi series 'The Hitchhiker's Guide to the Galaxy'.",
-      "origin": "Started in 2001, two weeks after Adams’ death, an homage to his famous advice that a towel is the most useful thing an interstellar hitchhiker can have.",
+      "name": "Be a Millionaire Day",
+      "description": "A day for dreaming big, planning your finances, and imagining what you would do with a million dollars, whether or not your bank account is on board.",
+      "origin": "An unofficial observance of uncertain origin that is part motivational push and part daydream. It is celebrated by anyone who wants to set financial goals or buy a lottery ticket.",
+      "category": "Pop Culture / Fun Observance",
+      "emoji": "💰",
+      "funFact": "If you saved $1 a day, it would take you over 2,700 years to reach a million dollars, with no interest and no inflation."
+    },
+    {
+      "name": "Eliza Doolittle Day",
+      "description": "A celebration of the famous flower girl from Pygmalion and My Fair Lady, whose transformation from cockney speech to refined English has charmed audiences for generations. Fans mark it by dropping an 'h' on purpose or quoting 'The rain in Spain.'",
+      "origin": "In My Fair Lady, Eliza declares she is going to be a lady and, in Pygmalion, Professor Higgins says the bet starts on this date. Fans in the theatre and film community have adopted May 20 as her day.",
       "category": "Pop Culture Celebration",
-      "emoji": "🛁",
-      "funFact": "In the book, a towel is called 'about the most massively useful thing an interstellar hitchhiker can have', earning it legendary status among fans."
+      "emoji": "🌹",
+      "funFact": "In the 1964 film, Audrey Hepburn's singing was largely dubbed by Marni Nixon, who was known as 'the ghostly voice of Hollywood' for dubbing many film stars."
     },
     {
-      "name": "National Endangered Species Day (USA)",
-      "description": "A day to recognize and appreciate endangered species and support efforts to protect and conserve threatened wildlife.",
-      "origin": "Established in 2006 by the U.S. Fish and Wildlife Service, observed annually on the third Friday of May, which often falls on or near May 20.",
-      "category": "Awareness Day",
-      "emoji": "🐘",
-      "funFact": "Since 1973, the Endangered Species Act has saved more than 99% of the species under its care from extinction."
-    },
-    {
-      "name": "Pick Strawberries Day",
-      "description": "A fun seasonal food celebration encouraging people to enjoy fresh strawberries, whether by picking them, eating them, or making delicious treats.",
-      "origin": "Unofficial food holiday rising from the love of spring fruit harvests in temperate climates.",
-      "category": "Food Holiday",
-      "emoji": "🍓",
-      "funFact": "Strawberries aren’t berries botanically, but aggregate fruits formed from several smaller fruits on a single flower!"
+      "name": "Weights and Measures Day",
+      "description": "A tribute to the humble standardization of units, the reason a pound of flour in one place is the same as a pound of flour in another.",
+      "origin": "It commemorates the signing of the Metre Convention in Paris on May 20, 1875, which laid the groundwork for the international system of units. It is now celebrated as World Metrology Day.",
+      "category": "Science and Nerd Observance",
+      "emoji": "⚖️",
+      "funFact": "Until 2019, the kilogram was defined by a physical metal cylinder kept in a vault near Paris, and it was slowly shifting in mass compared with its copies."
     }
   ]
 }

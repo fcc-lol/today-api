@@ -2,60 +2,62 @@
   "date": "October 31",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular ornamental flowering plant known for its vibrant and diverse flower colors. Chrysanthemums often symbolize autumn and are widely cultivated for fall floral displays.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A hardy perennial prized for its dense, layered blooms in a wide range of forms, from pompons to spiders. It thrives in the cool, short days of autumn and is a mainstay of fall gardens and floral displays across the Northern Hemisphere.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 3,000 years and are often associated with longevity and rejuvenation."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and in Japan the flower is the emblem of the Imperial family and the national flower."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub producing large, showy, rose-like flowers. Camellias bloom from mid-autumn through winter, adding bright color when many other plants have stopped flowering.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia (Japan, Korea, China) and temperate gardens worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like foliage that erupts into massive clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere spring, entire streets are carpeted in fallen purple blossoms.",
+      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica was one of the first camellias introduced to Europe in the 18th century and remains a beloved ornamental plant."
+      "emoji": "🌳",
+      "funFact": "Pretoria in South Africa is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
     },
     {
-      "name": "Erica cinerea",
-      "commonName": "Bell Heather",
-      "description": "A low-growing shrub native to Western Europe, producing bell-shaped purple-pink flowers. Often found in heathlands, it blooms in autumn, providing nectar for late-season pollinators.",
-      "bloomingSeason": "July to October",
-      "location": "Heathlands of Western Europe (UK, Ireland, France)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up delicate, crocus-like flowers in autumn without any leaves present. The foliage appears the following spring and dies back by summer, giving the plant its 'naked ladies' nickname.",
+      "bloomingSeason": "Late summer to autumn (September to November)",
+      "location": "Damp meadows and woodlands of Europe, from the British Isles to central Europe",
       "colors": [
-        "purple",
-        "pink"
-      ],
-      "emoji": "💜",
-      "funFact": "Bell Heather thrives in acidic, nutrient-poor soils and plays a crucial role in heathland ecosystems."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "South Africa's national flower, known for its massive flower heads resembling an artichoke. It blooms in late winter to spring in the Southern Hemisphere, which corresponds to October-November in South Africa.",
-      "bloomingSeason": "August to November (Southern Hemisphere spring)",
-      "location": "South Africa (Cape Floristic Region)",
-      "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "Lilac",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The King Protea's flower head is actually a cluster of many small flowers surrounded by colorful bracts."
+      "funFact": "Despite its name it is not a true crocus, and all parts are highly toxic because they contain colchicine, a compound used in medicine to treat gout."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with daisy-like flowers on slender stems above feathery foliage. In mild climates such as the southern United States and Mexico, it continues blooming into late autumn until the first hard frost.",
+      "bloomingSeason": "Summer to late autumn; peak in warm regions through October and November",
+      "location": "Native to Mexico and Central America; naturalized across the Americas and in gardens worldwide",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "The name Cosmos comes from the Greek word for 'harmony' or 'ordered universe,' reflecting the symmetrical arrangement of its petals."
     }
   ]
 }

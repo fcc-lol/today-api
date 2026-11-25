@@ -2,36 +2,44 @@
   "date": "October 11",
   "holidays": [
     {
-      "name": "Coming Out Day",
-      "description": "A day to support and celebrate the LGBTQ+ community by encouraging individuals to 'come out' and live openly and authentically.",
-      "origin": "Started in 1988 to commemorate the 1987 National March on Washington for Lesbian and Gay Rights.",
+      "name": "National Coming Out Day",
+      "description": "A day when people celebrate LGBTQ+ identities and the courage it takes to live openly and authentically, with events, parades, and plenty of rainbow-colored joy.",
+      "origin": "Founded in 1988 by Robert Eichberg and Jean O'Leary, marking the first anniversary of the 1987 National March on Washington for Lesbian and Gay Rights.",
       "category": "Awareness Day",
       "emoji": "🏳️‍🌈",
-      "funFact": "The original goal was to make coming out more commonplace, and today it’s one of the most recognized LGBTQ+ awareness days worldwide."
-    },
-    {
-      "name": "National Sausage Pizza Day",
-      "description": "A delicious celebration dedicated to one of the most popular pizza toppings: sausage! Whether spicy or mild, it’s the perfect excuse to order a sausage pizza.",
-      "origin": "An unofficial food holiday created by pizza lovers honoring sausage as a beloved topping.",
-      "category": "Food Holiday",
-      "emoji": "🍕",
-      "funFact": "Sausage has been a pizza topping favorite since Italian immigrants brought their recipes to America in the early 1900s."
+      "funFact": "The day is now observed in several countries, including the United States, the UK, Canada, and Switzerland."
     },
     {
       "name": "International Day of the Girl Child",
-      "description": "A day to highlight and address the needs and challenges girls face globally, while promoting girls’ empowerment and the fulfillment of their human rights.",
-      "origin": "Established by the United Nations in 2011 to emphasize girls' rights and gender equality.",
+      "description": "A United Nations day dedicated to highlighting girls' rights, education, and the challenges girls face worldwide, while celebrating their power and potential.",
+      "origin": "The UN General Assembly adopted a resolution establishing it in December 2011, and the first observance took place on October 11, 2012.",
       "category": "Awareness Day",
       "emoji": "👧",
-      "funFact": "The day aims to support more opportunities in education, health, and protection against discrimination for girls worldwide."
+      "funFact": "Landmarks around the world are lit up in pink each year to mark the occasion."
     },
     {
-      "name": "M&M’s Day",
-      "description": "A playful celebration of the colorful candy-coated chocolates known and loved by millions around the world.",
-      "origin": "Marks the introduction of M&M’s by Forrest Mars in 1941 during World War II to provide soldiers with heat-resistant chocolate.",
+      "name": "National Sausage Pizza Day",
+      "description": "A day to honor the glorious union of crispy crust, melted cheese, and savory sausage crumbles. Pizza purists and sausage lovers can finally agree on something.",
+      "origin": "Like many food holidays, it grew out of pizza enthusiasts and food marketers in the internet era, with no single official founder.",
       "category": "Food Holiday",
-      "emoji": "🍬",
-      "funFact": "The original M&M’s came only in red, yellow, green, brown, and violet—but violet was later replaced with tan in 1949!"
+      "emoji": "🍕",
+      "funFact": "Sausage is consistently one of the most popular pizza toppings in the United States, rivaled only by pepperoni."
+    },
+    {
+      "name": "Southern Food Heritage Day",
+      "description": "A day to celebrate the rich culinary traditions of the American South, from fried chicken and biscuits to collard greens, grits, and pecan pie.",
+      "origin": "Promoted by Southern food enthusiasts and heritage groups as a way to honor regional cooking traditions and the cultural history behind them.",
+      "category": "Food Holiday",
+      "emoji": "🍗",
+      "funFact": "Many classic Southern dishes, such as okra stew and black-eyed peas, trace their roots to West African cooking traditions."
+    },
+    {
+      "name": "It's My Party Day",
+      "description": "A day for throwing yourself a party just because you feel like it. No birthday, promotion, or milestone is required, just snacks, music, and good vibes.",
+      "origin": "An unofficial observance that encourages people to celebrate themselves and their own accomplishments, big or small.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🎉",
+      "funFact": "The name nods to the 1963 Lesley Gore hit 'It's My Party,' which reached number one on the Billboard Hot 100 when Gore was just 17."
     }
   ]
 }

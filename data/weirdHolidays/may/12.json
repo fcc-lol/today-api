@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Limerick Day",
-      "description": "A day to celebrate the witty and often humorous five-line limerick poem with its distinct rhythm and rhyme scheme.",
-      "origin": "Observed on the birthday of Edward Lear, the 19th-century English artist and poet who popularized the limerick form.",
+      "description": "A day to celebrate the cheeky, five-line, AABBA-rhyming poem. Poets and pub-goers alike scribble silly verses about everything from cats to cabbages.",
+      "origin": "It falls on the birthday of Edward Lear, the English artist and poet who popularized the limerick in his 1846 'A Book of Nonsense'. The day is observed mostly in the UK and Ireland.",
       "category": "Literary Celebration",
-      "emoji": "📜",
-      "funFact": "Edward Lear wrote hundreds of limericks, many nonsensical, which helped make the form a staple of children's poetry."
+      "emoji": "✍️",
+      "funFact": "Despite the name, the limerick form is not definitively tied to the Irish city of Limerick, and Edward Lear never actually used the word 'limerick' for his poems."
+    },
+    {
+      "name": "National Odd Socks Day",
+      "description": "A day to proudly wear mismatched socks. Folks around the world celebrate by pulling two completely different socks onto their feet and calling it fashion.",
+      "origin": "Often observed to raise awareness of individuality and kindness, the day was popularized by anti-bullying campaigns in the UK, where schoolchildren wear odd socks to celebrate being different. Many sock fans informally adopt the date for fun.",
+      "category": "Fashion / Awareness",
+      "emoji": "🧦",
+      "funFact": "Statistically, the average household washing machine is blamed for a loss of about one sock per month, which is why odd socks are in such abundant supply."
+    },
+    {
+      "name": "International Nurses Day",
+      "description": "A day honoring nurses and their incredible contributions to health care, with thank-you notes, cheers, and appreciation from patients and communities.",
+      "origin": "It is celebrated on May 12 because it is the birthday of Florence Nightingale, the founder of modern nursing, born in 1820. The International Council of Nurses began observing it in 1974.",
+      "category": "Awareness Day",
+      "emoji": "🩺",
+      "funFact": "Florence Nightingale was nicknamed 'The Lady with the Lamp' for her night rounds, and she was also a pioneer in statistics who invented a type of pie chart called the polar area diagram."
     },
     {
       "name": "National Nutty Fudge Day",
-      "description": "A sweet day dedicated to enjoying fudge loaded with crunchy nuts for the perfect balance of smooth and crunch.",
-      "origin": "An unofficial food holiday created to honor this popular candy treat and encourage indulgence.",
+      "description": "A day for indulging in rich, chocolatey fudge loaded with walnuts, pecans, or peanuts. Calories are officially invited to take the day off.",
+      "origin": "A food holiday of unofficial origin, created by the confectionery-loving internet and snack calendars to give nut and fudge lovers an excuse to celebrate.",
       "category": "Food Holiday",
       "emoji": "🍫",
-      "funFact": "Fudge originated in the late 1800s, and adding nuts became a favorite variation that boosts both texture and flavor."
+      "funFact": "Fudge is said to have been born from a 'fudged' batch of caramels in the 1880s, and the word 'fudge' was already used to mean 'botched' at the time."
     },
     {
-      "name": "Zebra Day",
-      "description": "A quirky day to appreciate the striking patterns and mysterious nature of zebras, symbols of uniqueness and individuality.",
-      "origin": "Created to raise awareness about the challenges zebras face in the wild and to celebrate their distinctive stripes.",
-      "category": "Animal Awareness",
-      "emoji": "🦓",
-      "funFact": "Each zebra's stripe pattern is as unique as a human fingerprint — no two zebras have the same pattern!"
-    },
-    {
-      "name": "Twiddle Day",
-      "description": "A whimsical day encouraging people to fidget or ‘twiddle’ their thumbs as a way to relieve stress and spark creativity.",
-      "origin": "An informal observance that plays on the common nervous habit and turns it into a lighthearted activity.",
-      "category": "Fun & Games",
-      "emoji": "👍",
-      "funFact": "Twiddling your thumbs can actually help improve focus and motor skills when done mindfully."
+      "name": "Limerick-Worthy Day: Twilight Zone Day Celebration",
+      "description": "A day for sipping some dandelion tea and enjoying cheerful strange things in your day. Take notice of the odd little moments that make life interesting.",
+      "origin": "An informal fan-driven observance that grew out of social media posts celebrating whimsical oddities, hence the playful name.",
+      "category": "Pop Culture / Whimsy",
+      "emoji": "🌀",
+      "funFact": "Many quirky holiday calendars list May 12 as a wide-open date, which means enthusiasts regularly invent new ways to celebrate it."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1520,
-      "title": "Magellan Navigates the Strait of Magellan",
-      "description": "Ferdinand Magellan and his expedition successfully navigate the Strait of Magellan at the southern tip of South America, opening a new maritime route from the Atlantic to the Pacific Ocean.",
+      "title": "Magellan Enters the Pacific Ocean",
+      "description": "Ferdinand Magellan's fleet emerged from the strait at the southern tip of South America that now bears his name and entered the open Pacific Ocean, after navigating the treacherous passage for over a month.",
       "category": "Exploration",
-      "significance": "This was a crucial step in the circumnavigation of the globe and expanded European knowledge of world geography."
+      "significance": "This marked a crucial stage in the first circumnavigation of the Earth, proving that a western sea route to Asia was possible and opening the Pacific to European navigation."
     },
     {
-      "year": 1919,
-      "title": "Establishment of the First Yugoslavia",
-      "description": "The Kingdom of Serbs, Croats, and Slovenes is officially proclaimed, later known as Yugoslavia.",
-      "category": "Political",
-      "significance": "Marked the unification of South Slavic peoples into a single state after World War I, influencing Balkan politics throughout the 20th century."
+      "year": 1893,
+      "title": "New Zealand Women Vote in a National Election",
+      "description": "Women in New Zealand voted in a general election for the first time, following the Electoral Act of 1893, which granted women the right to vote. Women of all races, including Maori women, were eligible.",
+      "category": "Politics and Social Reform",
+      "significance": "New Zealand became the first self-governing country in the world to grant women the right to vote in national elections, inspiring suffrage movements worldwide."
     },
     {
-      "year": 1975,
-      "title": "Angola Gains Independence",
-      "description": "Angola achieves independence from Portugal after a protracted liberation war.",
-      "category": "Political",
-      "significance": "It signified the end of Portuguese colonial rule in Angola and led to a significant realignment in African geopolitics."
+      "year": 1943,
+      "title": "Tehran Conference Begins",
+      "description": "Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin met in Tehran, Iran, for the first conference of the 'Big Three' Allied leaders during World War II. Discussions focused on opening a second front in Western Europe and on coordinating the war effort.",
+      "category": "War and Diplomacy",
+      "significance": "The conference confirmed the planned Normandy invasion (Operation Overlord), shaped Allied strategy, and set the stage for postwar arrangements in Europe."
     },
     {
-      "year": 1917,
-      "title": "New Zealand Grants Women the Right to Stand for Parliament",
-      "description": "New Zealand passes legislation allowing women to stand for election to Parliament, becoming a leader in women's political rights.",
-      "category": "Social",
-      "significance": "Advanced gender equality and women's suffrage movements globally."
+      "year": 1958,
+      "title": "Chad, Republic of the Congo, and Gabon Become Autonomous Republics",
+      "description": "Within the French Community, Chad, the Republic of the Congo, and Gabon, along with other French territories, became autonomous republics following a constitutional referendum.",
+      "category": "Decolonization",
+      "significance": "This was an important step in the decolonization of French Africa, leading to the full independence of these nations in 1960."
+    },
+    {
+      "year": 1960,
+      "title": "Mauritania Gains Independence from France",
+      "description": "Mauritania formally declared independence from France, becoming a sovereign state in West Africa with Moktar Ould Daddah as its leader.",
+      "category": "Decolonization",
+      "significance": "Its independence was part of the wave of African decolonization in 1960, often called the 'Year of Africa,' and reshaped the political map of the Sahel and North Africa."
     }
   ]
 }

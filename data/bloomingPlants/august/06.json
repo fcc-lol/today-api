@@ -3,53 +3,58 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that track the sun. They thrive in temperate regions and are commonly cultivated for seeds and oil.",
-      "bloomingSeason": "Summer (July to September)",
-      "location": "Native to North America; widely cultivated globally",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem topped by a broad flower head made up of golden ray florets surrounding a dark disc of tiny florets. Young flower heads track the sun across the sky. It is grown as an ornamental and as an oil and seed crop, and it also grows wild in open areas.",
+      "bloomingSeason": "Midsummer to early autumn in the Northern Hemisphere (July to September)",
+      "location": "Native to North America; widely cultivated across Europe, Russia, Ukraine, and the northern United States",
       "colors": [
-        "Yellow"
+        "yellow",
+        "gold",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day to maximize photosynthesis."
+      "funFact": "The sunflower head is not a single flower but a composite of up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "Gallic Rose",
-      "description": "A species of rose native to Europe, Gallic roses bear fragrant pink to deep red flowers and are often used in perfumery and traditional medicine.",
-      "bloomingSeason": "Summer (June to August)",
-      "location": "Europe, especially southern and central parts",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. It is grown in gardens and on large commercial fields for essential oil.",
+      "bloomingSeason": "Early to late summer, with peak bloom in July and into August",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
       "colors": [
-        "Pink",
-        "Red"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Gallic rose was historically used to produce rosewater and is one of the earliest cultivated roses in Europe."
+      "emoji": "💜",
+      "funFact": "The name lavender likely derives from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A perennial wildflower native to North America, known for striking bright red tubular flowers that attract hummingbirds.",
-      "bloomingSeason": "Summer to Early Fall (July to September)",
-      "location": "Eastern and Central North America (wetlands and riverbanks)",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial whose large, round leaves and showy, fragrant flowers rise on stalks above the water surface. The leaves repel water and dirt. The flowers open in the morning and close by afternoon over a few days. It is rooted in muddy pond and wetland bottoms.",
+      "bloomingSeason": "Summer, peaking from June to August",
+      "location": "Native to Asia and northern Australia; cultivated in China, India, Japan, Vietnam, and in water gardens around the world",
       "colors": [
-        "Red"
+        "pink",
+        "white"
       ],
-      "emoji": "🧡",
-      "funFact": "The vivid red flowers of cardinal flower are specifically adapted to attract hummingbirds, which are key pollinators."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy, and the leaf's self-cleaning surface inspired the term 'lotus effect' in materials science."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "The King Protea is South Africa's national flower, featuring large, dramatic flower heads resembling artichokes with spiky pink and white petals.",
-      "bloomingSeason": "Late Winter to Early Spring in Southern Hemisphere (July to September)",
-      "location": "South Africa (Cape Floristic Region)",
+      "name": "Chamaenerion angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower producing long spikes of vivid magenta-pink flowers that bloom from the bottom of the spike upward. It rapidly colonizes burned or disturbed land, often forming sweeping carpets of color. The seeds bear silky fluff that disperses on the wind.",
+      "bloomingSeason": "Mid to late summer (July to September)",
+      "location": "Circumpolar across the Northern Hemisphere, including Alaska, Canada, northern Europe, Siberia, and mountainous regions",
       "colors": [
-        "Pink",
-        "White"
+        "magenta",
+        "pink",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "Proteas have ancient lineage dating back 300 million years, with unique flower structures adapted to fire-prone habitats."
+      "funFact": "Fireweed is often among the first plants to reappear after wildfires, and the progress of blooming up the spike is said to signal the approaching end of summer."
     }
   ]
 }

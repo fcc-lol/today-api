@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1781,
-      "title": "Surrender at Yorktown Ends Major Combat of the American Revolutionary War",
-      "description": "British General Cornwallis surrendered to American and French forces at the Siege of Yorktown, effectively ending major military operations in the American Revolutionary War.",
+      "title": "Cornwallis Surrenders at Yorktown",
+      "description": "British General Charles Cornwallis surrendered his army of roughly 8,000 men to American and French forces under George Washington and the Comte de Rochambeau after a siege at Yorktown, Virginia.",
       "category": "Military",
-      "significance": "This event marked the beginning of the end of British rule in the American colonies, leading to American independence."
+      "significance": "The surrender effectively ended major combat in the American Revolutionary War and led to British recognition of American independence in the 1783 Treaty of Paris."
     },
     {
       "year": 1812,
-      "title": "Napoleon's Retreat from Moscow Begins",
-      "description": "After the disastrous French invasion of Russia, Napoleon Bonaparte began his retreat from Moscow, which would lead to massive losses for the French army.",
+      "title": "Napoleon Begins Retreat from Moscow",
+      "description": "After occupying Moscow for about five weeks without securing a Russian surrender, Napoleon's Grande Armée began its withdrawal from the city as winter approached and supplies dwindled.",
       "category": "Military",
-      "significance": "This retreat marked a turning point in the Napoleonic Wars, leading to the eventual downfall of Napoleon."
-    },
-    {
-      "year": 1943,
-      "title": "Battle of Tarawa Ends",
-      "description": "The United States secured victory in the Battle of Tarawa after fierce fighting in the Pacific Theater of World War II.",
-      "category": "Military",
-      "significance": "This was a crucial battle that marked American advances in the Pacific, testing amphibious assault tactics."
+      "significance": "The disastrous retreat destroyed most of the Grande Armée and marked a turning point in the Napoleonic Wars, weakening French dominance in Europe."
     },
     {
       "year": 1987,
       "title": "Black Monday Stock Market Crash",
-      "description": "On October 19, 1987, global stock markets crashed, with the Dow Jones Industrial Average falling by 22.6% in a single day.",
-      "category": "Economic",
-      "significance": "This remains the largest one-day percentage decline in stock market history, leading to changes in market regulations and trading safeguards."
+      "description": "The Dow Jones Industrial Average fell 508 points, or about 22.6 percent, in a single day, the largest one-day percentage drop in its history, with markets worldwide also plunging.",
+      "category": "Economics",
+      "significance": "The crash prompted reforms such as trading curbs known as circuit breakers and showed how interconnected and automated global financial markets had become."
     },
     {
-      "year": 1960,
-      "title": "John F. Kennedy Elected President of the United States",
-      "description": "Although election day was in November, on October 19, 1960, JFK was actively campaigning and emerging as a frontrunner, marking the beginning of the final intense phase of the U.S. presidential race.",
-      "category": "Political",
-      "significance": "This election led to the youngest elected president in U.S. history and significant political and social changes during the 1960s."
+      "year": 1216,
+      "title": "Death of King John of England",
+      "description": "King John died of dysentery at Newark Castle during the First Barons' War, leaving the throne to his nine-year-old son, Henry III.",
+      "category": "Death",
+      "significance": "His death eased the baronial rebellion and led to reissues of Magna Carta, which helped establish the principle that the monarch was subject to law."
+    },
+    {
+      "year": 1469,
+      "title": "Marriage of Ferdinand and Isabella",
+      "description": "Ferdinand of Aragon and Isabella of Castile married in Valladolid, joining two of the most powerful Iberian kingdoms in a dynastic union.",
+      "category": "Politics",
+      "significance": "The union laid the foundation for the unified Spain, which later sponsored Columbus's voyages and became a major global empire."
     }
   ]
 }

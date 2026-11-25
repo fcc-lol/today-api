@@ -2,60 +2,65 @@
   "date": "November 29",
   "plants": [
     {
-      "name": "Hamamelis virginiana",
-      "commonName": "American Witch Hazel",
-      "description": "A deciduous shrub native to eastern North America, known for its unique yellow, spindle-shaped flowers that bloom in late fall and early winter, often after the leaves have dropped. It is valued for its medicinal properties and distinctive fragrance.",
-      "bloomingSeason": "October to December",
-      "location": "Eastern United States and Canada",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with segmented, flattened stems that have pointed teeth along the edges. It produces tubular, asymmetrical flowers at the tips of the stems. It is widely grown as a houseplant in the Northern Hemisphere, where it flowers as nights lengthen and temperatures cool.",
+      "bloomingSeason": "Late autumn to early winter (November to January)",
+      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers bloom in late fall to early winter, making it one of the few plants that bloom during the colder months."
-    },
-    {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka",
-      "description": "A woody shrub or small tree native to New Zealand and southeastern Australia, known for its profuse white to pink flowers. It blooms mainly in spring and summer, but in mild climates or specific cultivars it can bloom sporadically into late autumn.",
-      "bloomingSeason": "Primarily November to January, sometimes extending into November in some regions",
-      "location": "New Zealand and southeastern Australia",
-      "colors": [
-        "white",
-        "pink"
+        "Pink",
+        "Red",
+        "Magenta",
+        "White",
+        "Orange",
+        "Yellow"
       ],
       "emoji": "🌸",
-      "funFact": "Manuka produces nectar used to make manuka honey, which is prized for its antibacterial properties."
+      "funFact": "It is a short-day plant, so it needs long nights of about 12-14 hours of darkness to set flower buds. It can live for decades and is often passed down through families."
     },
     {
-      "name": "Bougainvillea glabra",
-      "commonName": "Paperflower",
-      "description": "A thorny ornamental vine known for its vibrant, papery bracts that come in colors such as magenta, purple, red, orange, white, or pink. In tropical and subtropical climates, Bougainvillea can bloom year-round, including late November.",
-      "bloomingSeason": "Year-round in tropical/subtropical climates",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves and large clusters of trumpet-shaped lavender-blue flowers. Mass blooms cover the canopy and carpet the ground beneath with fallen petals.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and New Zealand's northern regions",
       "colors": [
-        "magenta",
-        "purple",
-        "red",
-        "orange",
-        "white",
-        "pink"
+        "Lavender",
+        "Blue-violet",
+        "Purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The colorful parts of Bougainvillea are actually modified leaves called bracts; the true flowers are small and white."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, giving it the nickname 'Jacaranda City'. In Australia, an old tradition holds that a flower falling on your head brings good luck."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to Japan, Korea, and China, producing large, rose-like flowers typically in shades of pink, red, and white. It generally blooms in late fall through early spring, making November a peak blooming period in many temperate regions.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia; widely cultivated worldwide in temperate climates",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers. It blooms earlier than the common camellia and tolerates more sun. Its flowers are single to semi-double with prominent yellow stamens, and it provides valuable nectar for pollinators in late autumn.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to Japan and southern China; grown in the southeastern United States, Mediterranean Europe, Australia, and New Zealand",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias are prized in Asian cultures and were historically symbols of refinement and excellence in Japan."
+      "funFact": "Camellia sasanqua petals fall individually, unlike Camellia japonica, which often drops whole blooms. Its seeds can be pressed to produce tea seed oil used for cooking and hair care."
+    },
+    {
+      "name": "Poinsettia (Euphorbia pulcherrima)",
+      "commonName": "Poinsettia",
+      "description": "A woody shrub that grows up to 3 meters in warm climates. What appear to be petals are actually colorful bracts surrounding small yellow flower clusters called cyathia. In the Northern Hemisphere it is a popular holiday plant, while in frost-free regions it grows outdoors and displays color in late autumn.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; grown outdoors in tropical and subtropical regions and indoors elsewhere",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Cream",
+        "Marbled"
+      ],
+      "emoji": "🎄",
+      "funFact": "The Aztecs called it Cuetlaxochitl and used the sap to make a fever medicine and the bracts to make a reddish dye. Like the Thanksgiving cactus, it needs long nights to develop its bract color."
     }
   ]
 }

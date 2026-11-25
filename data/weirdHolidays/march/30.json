@@ -2,36 +2,44 @@
   "date": "March 30",
   "holidays": [
     {
-      "name": "National Pencil Day",
-      "description": "A day to celebrate the humble pencil, a tool that has sparked creativity and learning worldwide for centuries.",
-      "origin": "National Pencil Day is celebrated on March 30 to mark the birthday of Nicholas-Jacques Conte, the inventor of the modern pencil in 1795.",
-      "category": "Creative Tools / Inventions",
-      "emoji": "✏️",
-      "funFact": "The average pencil can draw a line approximately 35 miles long before it runs out of lead!"
+      "name": "National Doctors' Day",
+      "description": "A day to say thanks to the physicians who patch us up, often with red carnations, thank-you notes, and the occasional awkward hospital cafeteria cake.",
+      "origin": "First observed in Winder, Georgia in 1933, chosen by Eudora Brown Almond to mark the anniversary of the first use of ether anesthesia in surgery by Dr. Crawford Long on March 30, 1842. The U.S. Congress formally designated it in 1990.",
+      "category": "Appreciation Day",
+      "emoji": "🩺",
+      "funFact": "The red carnation is the official flower of the day, and the first Doctors' Day featured cards sent to doctors and flowers placed on the graves of deceased physicians."
     },
     {
-      "name": "Take a Walk in the Park Day",
-      "description": "Encourages people to slow down and enjoy a relaxing stroll in a nearby park to refresh mind and body.",
-      "origin": "The origin is unclear, but it’s an unofficial day meant to promote wellness and outdoor activity as spring approaches in many regions.",
-      "category": "Health & Wellness",
+      "name": "National Turkey Neck Soup Day",
+      "description": "A day dedicated to simmering one of the most underrated poultry parts into a rich, hearty soup that grandmas have been bragging about for generations.",
+      "origin": "Like many food holidays, it is an unofficial observance spread by food bloggers and social media calendars, celebrating a thrifty, soulful comfort-food tradition where every part of the bird gets its moment.",
+      "category": "Food Holiday",
+      "emoji": "🍲",
+      "funFact": "Turkey necks are packed with collagen and bone-marrow flavor, which is why they are prized for making deeply savory broth at a bargain price."
+    },
+    {
+      "name": "I Am in Control Day",
+      "description": "A day to declare yourself the boss of your own life, or at least your own sock drawer. It encourages people to take charge of their choices and attitude.",
+      "origin": "This self-empowerment observance is an unofficial holiday promoted through holiday calendars, designed to nudge people toward taking ownership of their day-to-day decisions.",
+      "category": "Self-Empowerment Day",
+      "emoji": "🎛️",
+      "funFact": "Psychologists call the belief that you can influence your own outcomes an internal locus of control, and it is linked to greater resilience and motivation."
+    },
+    {
+      "name": "Take a Walk in a Park Day",
+      "description": "A day for ditching the screen, lacing up your shoes, and strolling among trees, ducks, and suspiciously confident squirrels.",
+      "origin": "This unofficial observance falls in early spring, when the weather warms up and parks come alive, making it a natural time to encourage people to get outside and move.",
+      "category": "Outdoor and Wellness Day",
       "emoji": "🌳",
-      "funFact": "Walking in green spaces has been shown to boost mood and creativity, so this day could improve your brainpower just with one walk!"
+      "funFact": "Studies have shown that spending even 20 minutes in a natural setting can lower stress hormone levels like cortisol."
     },
     {
-      "name": "Bunsen Burner Day",
-      "description": "Honors the invention of the Bunsen burner, a staple piece of laboratory equipment essential for scientific experiments.",
-      "origin": "Celebrated on the birthday of Robert Bunsen, the German chemist who invented the burner in 1855.",
-      "category": "Science & Education",
-      "emoji": "🔥",
-      "funFact": "The Bunsen burner allows chemists to heat substances at a consistent and controllable flame, revolutionizing lab work forever."
-    },
-    {
-      "name": "Doctors' Day (India)",
-      "description": "A day dedicated to honoring the contributions of doctors in India and recognizing their role in healthcare.",
-      "origin": "Observed on the birthday of Dr. Bidhan Chandra Roy, a prominent physician and the second Chief Minister of West Bengal.",
-      "category": "Healthcare Appreciation",
-      "emoji": "👩‍⚕️👨‍⚕️",
-      "funFact": "Dr. B.C. Roy was honored with the Bharat Ratna, India's highest civilian award, for his outstanding service in medicine and politics."
+      "name": "Pencil Day",
+      "description": "A salute to the humble wooden pencil, the original undo-friendly writing tool, with sharpening ceremonies and doodling strongly encouraged.",
+      "origin": "Observed on March 30 in honor of the date in 1858 when Hymen Lipman received the first U.S. patent for attaching an eraser to the end of a pencil.",
+      "category": "Invention Anniversary",
+      "emoji": "✏️",
+      "funFact": "Lipman's patent was later declared invalid in court because combining two existing items was not considered a true invention, yet we all still use erasers on pencils today."
     }
   ]
 }

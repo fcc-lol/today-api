@@ -2,55 +2,57 @@
   "date": "April 7",
   "plants": [
     {
-      "name": "Forsythia × intermedia",
-      "commonName": "Forsythia",
-      "description": "A deciduous shrub known for its brilliant yellow flowers that often herald the arrival of spring. Forsythia blooms profusely before its leaves emerge, creating a bright splash of color in early April in temperate regions.",
-      "bloomingSeason": "Early spring (March to April)",
-      "location": "Temperate regions of the Northern Hemisphere, especially Europe, North America, and East Asia",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree that covers its bare branches in clouds of pale pink to nearly white five-petaled flowers before the leaves emerge. It is the most widely planted cherry for hanami festivals and urban avenues.",
+      "bloomingSeason": "Late March to mid April in temperate Northern Hemisphere regions",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate parks and gardens worldwide",
       "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Forsythia is often one of the earliest blooming shrubs in gardens, and its bright yellow flowers are associated with good fortune in some cultures."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A large deciduous tree or shrub with spectacular large flowers that can be white, pink, or purple. Saucer Magnolias bloom in early spring before the leaves unfold, creating an impressive floral display that typically peaks in April in mild climates.",
-      "bloomingSeason": "Early to mid spring (March to April)",
-      "location": "Native to East Asia but widely cultivated in temperate gardens worldwide, especially in North America and Europe",
-      "colors": [
-        "White",
-        "Pink",
-        "Purple"
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Magnolia flowers are ancient; fossil records date back over 95 million years, making them one of the oldest flowering plants."
+      "funFact": "All Yoshino cherry trees are thought to descend from a single original tree propagated by grafting, which is why trees in a region often bloom in near-perfect synchrony."
     },
     {
-      "name": "Protea neriifolia",
-      "commonName": "Narrow-leaved Sugarbush",
-      "description": "An evergreen shrub or small tree that produces large, dramatic flower heads with pink bracts and a central cluster of flowers. Blooming in the Southern Hemisphere's autumn and early winter, Protea neriifolia exhibits peak flowering around April in South Africa.",
-      "bloomingSeason": "Autumn to early winter (March to June)",
-      "location": "Native to the Western Cape of South Africa",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It carpets woodlands and meadows in early spring and is the ancestor of many garden daffodils.",
+      "bloomingSeason": "March to April in Northern Hemisphere temperate zones",
+      "location": "Western Europe, including the UK, France, and Spain; widely naturalized in North America",
       "colors": [
-        "Pink"
+        "yellow",
+        "pale yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Proteas are part of the ancient Gondwanan flora, and their unique flower structure is adapted to pollination by birds and small mammals."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain toxic alkaloids, and one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "A large evergreen shrub or small tree with clusters of vibrant red or pink flowers. This species flowers in spring, often around April at higher altitudes in the Himalayas, adding vibrant color to mountainous forest landscapes.",
-      "bloomingSeason": "Spring (March to May)",
-      "location": "Himalayan region of South Asia, including Nepal, India, and Bhutan",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of magenta-pink, pea-like flowers burst directly from branches and even the trunk before heart-shaped leaves appear. It is a favorite of early-season pollinators.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central United States, northern Mexico; cultivated in gardens worldwide",
       "colors": [
-        "Red",
-        "Pink"
+        "magenta",
+        "pink",
+        "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "Rhododendron arboreum is the national flower of Nepal and is valued for its beauty and medicinal properties."
+      "emoji": "🌳",
+      "funFact": "The redbud flowers on old wood, a trait called cauliflory, and its blossoms are edible, with a mildly tangy flavor often added to salads."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large tree with fern-like leaves that produces dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere, some trees keep blooming into early autumn, and trees in the tropics may flower sporadically.",
+      "bloomingSeason": "Spring in the Northern Hemisphere tropics; late bloom and rebloom in some Southern Hemisphere regions",
+      "location": "South America (native to Argentina and Bolivia), widely planted in Mexico, Florida, India, and Australia",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "A carpet of fallen jacaranda blossoms is so iconic in Pretoria, South Africa, that the city is nicknamed the Jacaranda City."
     }
   ]
 }

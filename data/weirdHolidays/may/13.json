@@ -2,36 +2,44 @@
   "date": "May 13",
   "holidays": [
     {
-      "name": "Apple Pie Day",
-      "description": "A day to celebrate the classic, comforting dessert—apple pie! Whether topped with ice cream or enjoyed warm, it honors this all-American favorite.",
-      "origin": "Apple Pie Day is an unofficial holiday created by pie lovers and food enthusiasts to honor the iconic dessert, which traces roots back to England and has become a symbol of American culture.",
-      "category": "Food Holiday",
-      "emoji": "🥧",
-      "funFact": "Despite the saying 'as American as apple pie,' the dish actually dates back to medieval England and was introduced to America by early colonists."
+      "name": "Frog Jumping Day",
+      "description": "A day to celebrate amphibian athletics, inspired by Mark Twain's famous short story about a gambling man and his talented jumping frog. Fans of croaking competition hold hopping contests and sip on pond-themed snacks.",
+      "origin": "Inspired by Mark Twain's 1865 story 'The Celebrated Jumping Frog of Calaveras County.' The Calaveras County Fair and Jumping Frog Jubilee in California, held in mid-May, has turned the tale into a real-life tradition.",
+      "category": "Pop Culture / Literature",
+      "emoji": "🐸",
+      "funFact": "The Calaveras Jubilee world record was set in 1986 by a frog named Rosie the Ribeter, who leapt 21 feet 5.75 inches in three jumps."
     },
     {
-      "name": "National Croutons Day",
-      "description": "Celebrate the crunchy, flavorful salad topping that adds texture and zest to your greens! This day salutes everyone’s favorite toasted bread cubes.",
-      "origin": "This quirky food holiday was started by salad dressing companies to boost the popularity of croutons and encourage people to jazz up their salads.",
-      "category": "Food Holiday",
-      "emoji": "🥗",
-      "funFact": "The word 'crouton' comes from the French 'croûton,' meaning 'little crust,' and croutons were originally made to use up leftover bread."
+      "name": "National Apple Pie Day",
+      "description": "A day devoted to the flaky, cinnamon-scented dessert that has become a symbol of Americana. Bakers and pie lovers celebrate with a warm slice, perhaps with a scoop of vanilla ice cream on top.",
+      "origin": "A food holiday of unofficial origin celebrated in the United States, commonly listed on May 13 in food observance calendars. Apple pies themselves date back to medieval England, with recipes appearing as early as the 1300s.",
+      "category": "Food",
+      "emoji": "🥧",
+      "funFact": "The earliest known English apple pie recipe, from around 1381, called for good apples, good spices, figs, raisins, pears, and saffron, but no sugar. Early crusts were called 'coffins' and were often not eaten."
+    },
+    {
+      "name": "International Hummus Day",
+      "description": "A global celebration of the creamy chickpea dip that has conquered snack tables worldwide. Fans dip pita, carrots, and anything else they can get their hands on into this Middle Eastern staple.",
+      "origin": "Established in the 2010s by hummus enthusiasts and food promoters, the day grew through social media and food brands. Hummus has been enjoyed across the Middle East for centuries, and the word itself is Arabic for chickpeas.",
+      "category": "Food",
+      "emoji": "🧆",
+      "funFact": "In 2010, a group in Lebanon made the world's largest plate of hummus, weighing over 10 tons, to reclaim the record from Israel in a friendly but fierce Middle Eastern hummus rivalry."
     },
     {
       "name": "Leprechaun Day",
-      "description": "A fun day to celebrate the mischievous little fairies of Irish folklore, known for their pots of gold and playful tricks.",
-      "origin": "This unofficial day emerged from pop culture fascination with leprechauns and Irish mythology, often embraced in schools and communities to teach folklore.",
-      "category": "Pop Culture / Folklore",
-      "emoji": "🧙‍♂️",
-      "funFact": "Leprechauns are considered shoemakers of the fairy world and are said to hide their treasure at the end of a rainbow!"
+      "description": "A day to honor the mischievous, gold-hoarding fairies of Irish folklore. People wear green, hunt for rainbows, and keep an eye out for tiny cobblers guarding their pots of gold.",
+      "origin": "Leprechaun Day is celebrated on May 13 in the United States as a lighthearted extension of Irish folklore traditions. Leprechauns appear in Irish tales going back to medieval times, where they were solitary shoemakers who could grant wishes if caught.",
+      "category": "Folklore / Pop Culture",
+      "emoji": "🍀",
+      "funFact": "In Ireland, the Carlingford Leprechaun Hunt in County Louth is a real event, and the local area has even protected a patch of land for leprechauns under EU wildlife-style protections."
     },
     {
-      "name": "Frog Jumping Day",
-      "description": "Inspired by the classic Mark Twain story, this day encourages folks to host or watch frog-jumping contests and celebrate quirky rural traditions.",
-      "origin": "Based on Mark Twain’s 'The Celebrated Jumping Frog of Calaveras County,' this local tradition grew into an annual event celebrated on or near May 13.",
-      "category": "Literary / Local Tradition",
-      "emoji": "🐸",
-      "funFact": "The original frog-jumping contest started in Calaveras County, California, in 1928 and has become a beloved yearly festival."
+      "name": "Fray Day",
+      "description": "A day for fans of the iconic Joss Whedon vampire slayer saga to celebrate the comic series Fray, set in a far-future New York where a new Slayer emerges. Fans reread the series and trade geeky banter.",
+      "origin": "Fray Day is a fan-driven observance connected to Buffy the Vampire Slayer and its expanded universe. The Fray comic was published by Dark Horse Comics in 2001-2003, featuring a Slayer in the 23rd century.",
+      "category": "Pop Culture",
+      "emoji": "🧛",
+      "funFact": "Fray was written by Joss Whedon himself and illustrated by Karl Moline, and it was one of Whedon's first big comic book projects before he helmed Marvel's The Avengers."
     }
   ]
 }

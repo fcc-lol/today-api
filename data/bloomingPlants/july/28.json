@@ -2,55 +2,60 @@
   "date": "July 28",
   "plants": [
     {
-      "name": "Lilium superbum",
-      "commonName": "Turk's Cap Lily",
-      "description": "A striking perennial lily native to eastern North America, known for its orange, recurved petals with prominent dark spots. It grows in moist woodlands and meadows.",
-      "bloomingSeason": "July to August",
-      "location": "Eastern North America",
-      "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Turk's Cap Lily flowers are highly attractive to butterflies and hummingbirds, which act as its primary pollinators."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub widely cultivated for its aromatic purple flower spikes and essential oils. It thrives in Mediterranean climates and is common in gardens worldwide.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean region, cultivated worldwide",
+      "description": "An aromatic evergreen shrub with slender spikes of small, fragrant flowers above silvery-green, narrow foliage. It is widely grown in gardens and commercial fields and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Early to late summer, peaking in July in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, Tasmania, and the United States",
       "colors": [
         "purple",
+        "lavender",
         "blue"
       ],
       "emoji": "💜",
-      "funFact": "Lavender's essential oils are known for their calming properties and are often used in aromatherapy."
+      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "A large evergreen shrub or small tree featuring clusters of bright red or crimson flowers. It grows in mountainous regions of the Himalayas, blooming mid-summer.",
-      "bloomingSeason": "June to August",
-      "location": "Himalayan mountains (South Asia)",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals around a dark central disc packed with seeds. Young flower heads track the sun across the sky.",
+      "bloomingSeason": "Mid-summer to early autumn",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and the Great Plains of the United States",
       "colors": [
-        "red",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "Rhododendron arboreum is Nepal's national flower and can survive at high altitudes up to 3,500 meters."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree or shrub that produces cylindrical flower spikes with brush-like yellow blooms. It is common along eastern coastal areas.",
-      "bloomingSeason": "Winter to summer, including July",
-      "location": "Eastern Australia",
-      "colors": [
-        "yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Banksias provide an important nectar source for birds and mammals during the Australian winter months."
+      "funFact": "The sunflower head is actually composed of thousands of tiny individual flowers arranged in a Fibonacci spiral pattern."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves that repel water and striking, fragrant flowers held above the water surface on tall stalks. It thrives in warm, shallow ponds and wetlands.",
+      "bloomingSeason": "Summer, typically June through September",
+      "location": "Native to Asia and northern Australia; grown in ponds throughout India, China, Japan, Vietnam, and the southern United States",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for over a thousand years; seeds roughly 1,300 years old have been successfully germinated."
+    },
+    {
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gumtree",
+      "description": "A graceful, weeping mallee eucalypt with silvery-white powdery bark and showy clusters of large flowers that attract nectar-feeding birds. It is a rare tree native to granite outcrops.",
+      "bloomingSeason": "Late autumn to winter and into spring in the Southern Hemisphere, with flowering often starting in late July",
+      "location": "Western Australia, on granite outcrops near Wheatbelt region; grown in gardens in Australia",
+      "colors": [
+        "pink",
+        "red",
+        "pale yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its flowers have no true petals; the colorful display comes from masses of fluffy stamens."
     }
   ]
 }

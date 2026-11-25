@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1939,
-      "title": "Start of World War II",
-      "description": "Germany invades Poland, marking the official beginning of World War II.",
-      "category": "Military/War",
-      "significance": "This invasion triggered a global conflict that lasted six years and drastically changed the political landscape of the world."
+      "title": "Germany Invades Poland",
+      "description": "German forces launched a massive invasion of Poland at dawn, using combined air, armor, and infantry attacks. Britain and France declared war on Germany two days later.",
+      "category": "War",
+      "significance": "Marked the start of World War II in Europe, the deadliest conflict in human history, which reshaped global politics and led to the creation of the United Nations."
     },
     {
       "year": 1923,
-      "title": "Great Kanto Earthquake in Japan",
-      "description": "A massive earthquake strikes the Kanto region of Japan, including Tokyo and Yokohama, causing widespread destruction and loss of life.",
+      "title": "Great Kanto Earthquake",
+      "description": "A magnitude 7.9 earthquake struck the Kanto region of Japan, devastating Tokyo and Yokohama. Fires, a tsunami, and landslides compounded the destruction, killing an estimated 105,000 people.",
       "category": "Natural Disaster",
-      "significance": "One of the deadliest earthquakes in Japanese history, it led to significant rebuilding efforts and changes in disaster management."
+      "significance": "One of the deadliest natural disasters in Japanese history; it prompted major reforms in urban planning and earthquake-resistant construction, and is commemorated annually as Disaster Prevention Day."
     },
     {
       "year": 1985,
-      "title": "Belgian Airline Sabena Crash",
-      "description": "Sabena Flight 548 crashes near Brussels, killing all 73 people on board, including the entire U.S. figure skating team.",
-      "category": "Disaster/Aviation",
-      "significance": "The crash devastated the figure skating community and led to changes in aviation safety and sports team travel protocols."
+      "title": "Wreck of the Titanic Discovered",
+      "description": "A joint American-French expedition led by Robert Ballard and Jean-Louis Michel located the wreck of the RMS Titanic about 12,500 feet below the surface of the North Atlantic, roughly 370 miles off Newfoundland.",
+      "category": "Exploration",
+      "significance": "Solved a 73-year mystery about the ship's final resting place, revealed that it had broken in two, and advanced deep-sea robotic exploration technology."
     },
     {
-      "year": 1972,
-      "title": "Nixon Ends Selective Service Draft",
-      "description": "U.S. President Richard Nixon signs legislation ending the military draft, transitioning to an all-volunteer armed force.",
-      "category": "Political/Military",
-      "significance": "Marked a major shift in U.S. military policy and affected the composition and recruitment of the armed forces."
+      "year": 1983,
+      "title": "Korean Air Lines Flight 007 Shot Down",
+      "description": "A Boeing 747 airliner that strayed into Soviet airspace was shot down by a Soviet Su-15 interceptor near Sakhalin Island, killing all 269 people aboard.",
+      "category": "Politics",
+      "significance": "Heightened Cold War tensions and led President Reagan to make the U.S. Global Positioning System available for civilian use to prevent similar navigational errors."
+    },
+    {
+      "year": 1715,
+      "title": "Death of Louis XIV of France",
+      "description": "Louis XIV, the Sun King, died just days before his 77th birthday after reigning for 72 years and 110 days, the longest verified reign of any monarch in European history.",
+      "category": "Death",
+      "significance": "His death ended an era of French absolutism and dominance in Europe, passing the throne to his five-year-old great-grandson Louis XV."
     }
   ]
 }

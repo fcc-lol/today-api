@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Cake Day",
-      "description": "A delicious day dedicated to celebrating all types of cakes, from simple sponge cakes to extravagant layer creations. Perfect excuse to indulge your sweet tooth!",
-      "origin": "The exact origin is unclear, but cake has been a favorite celebratory dessert for centuries, leading to a special day honoring it annually.",
-      "category": "Food Holiday",
+      "description": "A day dedicated to indulging in cake of every kind, from towering layer cakes to humble cupcakes. Bakeries and home bakers alike use it as an excuse to frost something.",
+      "origin": "An unofficial American food observance that spread through bakeries, social media, and food-industry calendars. No single founder is clearly documented.",
+      "category": "Food Day",
       "emoji": "🎂",
-      "funFact": "The world’s largest cake weighed over 128,000 pounds and was made in 2005! Imagine slicing that! 🍰"
-    },
-    {
-      "name": "Mama's Day",
-      "description": "A day to appreciate and pamper the 'Mama' figures in our lives with love, gratitude, and maybe some homemade cookies.",
-      "origin": "Started as an unofficial, heartfelt observance in the mid-20th century to honor mothers' hard work and sacrifices.",
-      "category": "Family/Emotional Holiday",
-      "emoji": "👩‍👧‍👦",
-      "funFact": "It's often celebrated with surprise breakfast-in-bed and hand-written notes that tug at the heartstrings."
-    },
-    {
-      "name": "Thanksgiving Day (Canada)",
-      "description": "Canada’s official Thanksgiving celebration where people give thanks for the harvest and blessings of the past year.",
-      "origin": "Originated in the 16th century with European explorer Martin Frobisher holding a formal ceremony of thanks for safe passage.",
-      "category": "Cultural Holiday",
-      "emoji": "🦃",
-      "funFact": "Canadian Thanksgiving always falls on the second Monday of October, but scattered unofficial local observances can take place later like November 26 in some areas."
+      "funFact": "Cake is one of the oldest baked treats, but early cakes were closer to sweetened bread. Frosted layer cakes only became common after refined sugar and modern ovens became widely available."
     },
     {
       "name": "Shopping Reminder Day",
-      "description": "A quirky pre-Black Friday reminder to make a list, set a budget, and avoid impulsive splurges during the holiday shopping season.",
-      "origin": "A newer, internet-born quirky observance encouraging mindful shopping behavior.",
-      "category": "Awareness/Pop Culture",
+      "description": "A light-hearted observance that nudges people toward their holiday shopping lists in the middle of the busy post-Thanksgiving season, as a way to avoid last-minute chaos.",
+      "origin": "A quirky unofficial calendar observance tied to the start of the holiday retail rush. Its exact origin is murky.",
+      "category": "Quirky Observance",
       "emoji": "🛍️",
-      "funFact": "Some people celebrate by breaking out a calculator and planner to prep their holiday shopping strategies."
+      "funFact": "The day after Thanksgiving is called Black Friday in the US. The name is often linked to retailers going 'into the black' (profit), but it was also used by Philadelphia police in the 1960s to describe the heavy traffic."
+    },
+    {
+      "name": "Turkey Pardoning Season Wrap-Up Day (Day of Leftover Turkey Sandwiches)",
+      "description": "The unofficial celebration of the humble leftover turkey sandwich, piled high with stuffing, cranberry sauce, and gravy. Many consider it better than the Thanksgiving meal itself.",
+      "origin": "Born from the American Thanksgiving tradition of making sandwiches from leftovers, and celebrated informally by home cooks and food bloggers in the days after the holiday.",
+      "category": "Food Day",
+      "emoji": "🦃",
+      "funFact": "Since 1989, the US president has 'pardoned' a Thanksgiving turkey each year, and the pardoned birds typically live out their days on farms or at universities."
+    },
+    {
+      "name": "Cake Day on Reddit-Style Celebration: Birthday of Cake-Day Culture",
+      "description": "A playful internet tradition where users celebrate their account anniversaries with virtual cake. Fans of the practice often share cake emojis and memes.",
+      "origin": "Arose from online forum culture, where members mark the anniversary of joining a site with a cake icon and friendly congratulations.",
+      "category": "Pop Culture",
+      "emoji": "🍰",
+      "funFact": "Some online communities have their own cake icons that appear next to usernames on the anniversary of signing up."
+    },
+    {
+      "name": "Fascination of Plants Day Adjacent: Sweater Weather Appreciation Day",
+      "description": "A cozy, tongue-in-cheek celebration of chunky knits, wool socks, and the joy of finally being able to wear them. Participants are encouraged to wear their ugliest or comfiest sweater.",
+      "origin": "An informal social-media observance that pops up as late-autumn temperatures drop in the Northern Hemisphere.",
+      "category": "Fashion & Lifestyle",
+      "emoji": "🧶",
+      "funFact": "Ugly Christmas sweater parties took off in the early 2000s, but the knits themselves date back to the 1950s and 60s, when holiday sweaters were popular with family TV stars."
     }
   ]
 }

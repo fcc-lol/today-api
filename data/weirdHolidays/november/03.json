@@ -2,36 +2,44 @@
   "date": "November 3",
   "holidays": [
     {
-      "name": "Sandwich Day",
-      "description": "A glorious day to celebrate the humble sandwich, that delicious edible invention combining slices of bread with endless fillings!",
-      "origin": "Named after John Montagu, the 4th Earl of Sandwich, who is credited with popularizing the sandwich in the 18th century when he ordered meat tucked between bread to eat without interrupting his card game.",
-      "category": "Food Holiday",
+      "name": "National Sandwich Day",
+      "description": "A day dedicated to everything stacked between two slices of bread, from humble PB&J to towering deli monsters. Sandwich lovers everywhere are encouraged to build, eat, and brag about their creations.",
+      "origin": "Observed in the United States as an unofficial food holiday, it is widely celebrated on November 3, which is also the birthday of John Montagu, 4th Earl of Sandwich, born in 1718, the man the sandwich is traditionally named after.",
+      "category": "Food Day",
       "emoji": "🥪",
-      "funFact": "The sandwich has so many variations worldwide that every culture seems to have its own special take on bread-and-filling combos!"
+      "funFact": "Legend says the Earl asked for meat tucked between bread so he could keep playing cards without greasy fingers, though some historians think he may have actually been working at his desk."
     },
     {
-      "name": "National Candy Day",
-      "description": "A sweet observance to indulge in your favorite candies, celebrating sugary treats that bring joy and a burst of flavor.",
-      "origin": "Created in the U.S. to honor candy lovers and the confectionery industry, this day makes November a secondary Halloween-esque sugar rush!",
-      "category": "Food Holiday",
-      "emoji": "🍬",
-      "funFact": "Americans consume approximately 2.8 billion pounds of chocolate candy each year—no wonder candy days are so popular!"
+      "name": "Cliché Day",
+      "description": "A day to embrace every worn-out phrase in the book. Avoiding clichés like the plague is off the table, because at the end of the day, it is what it is.",
+      "origin": "This unofficial observance started as a lighthearted way to poke fun at overused expressions in writing and speech, and it has been passed around among word lovers and bloggers.",
+      "category": "Pop Culture & Language",
+      "emoji": "🗣️",
+      "funFact": "The word cliché comes from a French printing term for a stereotype plate, whose metal casting made the same phrase easy to reproduce over and over."
     },
     {
-      "name": "Golden Spike Day",
-      "description": "Commemorates the completion of the first transcontinental railroad in the U.S. on May 10, 1869, but this day is unofficially celebrated on November 3 as a nod to railroad history enthusiasts.",
-      "origin": "Honors the driving of the ‘Golden Spike’ at Promontory Summit, Utah, symbolizing the unification of eastern and western America by rail.",
-      "category": "Historical Celebration",
-      "emoji": "🚂",
-      "funFact": "The Golden Spike was actually an ornate ceremonial spike, not a real functional railroad spike!"
+      "name": "Housewife's Day",
+      "description": "Also known as a day to recognize those who keep the household running, it invites people to say thanks to the folks who manage home life, often with a little pampering and a break from chores.",
+      "origin": "The unofficial observance is traditionally marked on November 3 in the United States, started to honor the unpaid labor and effort that goes into managing a home.",
+      "category": "Appreciation Day",
+      "emoji": "🏡",
+      "funFact": "Household management used to be considered a full-time profession, and 19th-century guides like Mrs. Beeton's Book of Household Management sold in huge numbers as a kind of CEO handbook for the home."
     },
     {
-      "name": "Use Your Common Sense Day",
-      "description": "A quirky reminder to trust your instincts and apply a bit of good old-fashioned common sense to everyday life and decisions.",
-      "origin": "A modern, unofficial day created to encourage practical thinking and sensible behavior amid the complexities of daily life.",
+      "name": "Culture Day (Bunka no Hi)",
+      "description": "A Japanese national holiday celebrating culture, the arts, and academic endeavor, with festivals, exhibitions, and award ceremonies popping up across the country.",
+      "origin": "Established in 1948 to promote peace, freedom, and culture after World War II. The date was chosen because it was the birthday of Emperor Meiji, and also marks the day the postwar constitution was promulgated in 1946.",
+      "category": "Official National Holiday",
+      "emoji": "🎎",
+      "funFact": "Each Culture Day, Japan's Order of Culture is awarded by the Emperor to people who have made outstanding contributions to arts, science, and culture."
+    },
+    {
+      "name": "Stress Awareness Day",
+      "description": "A day to take a breath, put down your to-do list, and acknowledge just how stressed everyone is, with plenty of encouragement to meditate, stretch, or nap.",
+      "origin": "International Stress Awareness Day was launched by the International Stress Management Association (ISMA UK) in 1998 and is held on the first Wednesday of November, which in some years falls on November 3.",
       "category": "Awareness Day",
-      "emoji": "🤔",
-      "funFact": "This day’s unofficial motto could be: ‘Because sometimes Google can't fix everything.’"
+      "emoji": "😮‍💨",
+      "funFact": "The word stress was borrowed from physics by endocrinologist Hans Selye in the 1930s, and he is often called the father of stress research."
     }
   ]
 }

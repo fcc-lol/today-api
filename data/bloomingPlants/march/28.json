@@ -2,55 +2,56 @@
   "date": "March 28",
   "plants": [
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy perennial plant known for its bright yellow, trumpet-shaped flowers. It is often found in woodlands and meadows across Europe.",
-      "bloomingSeason": "March to April",
-      "location": "Europe, particularly the UK and western Europe",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful deciduous tree that produces clouds of delicate, fragrant blossoms before its leaves emerge. It is the most celebrated ornamental cherry in Japan and is widely planted in parks and along rivers and streets in temperate cities worldwide.",
+      "bloomingSeason": "Late March to mid-April",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of the Northern Hemisphere",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Wild daffodils were naturalized in ancient times and have been celebrated in poetry and folklore for centuries."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Famous ornamental tree known for its stunning pink to white blossoms that create breathtaking spring landscapes, especially in Japan.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, East Asia, also cultivated worldwide",
-      "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossom festivals (Hanami) in Japan mark the arrival of spring and have deep cultural significance."
+      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and their peak bloom typically falls near the end of March or early April."
     },
     {
-      "name": "Erica arborea",
-      "commonName": "Tree Heath",
-      "description": "A shrub that produces small white to pale pink bell-shaped flowers. It typically grows in Mediterranean climate zones.",
-      "bloomingSeason": "February to April",
-      "location": "Mediterranean Basin, parts of Africa and southern Europe",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals. It grows in woodlands and meadows and is the parent of countless cultivated daffodil varieties found in spring gardens.",
+      "bloomingSeason": "Late winter to mid-spring (March to April)",
+      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
       "colors": [
-        "white",
-        "pale pink"
+        "Yellow",
+        "Pale yellow"
       ],
-      "emoji": "🌿",
-      "funFact": "Erica arborea wood is historically used to make smoking pipes due to its heat resistance."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain lycorine and other toxic alkaloids, which is why deer and rodents generally leave the bulbs and flowers alone."
     },
     {
-      "name": "Calycanthus floridus",
-      "commonName": "Carolina Allspice",
-      "description": "A deciduous shrub native to the southeastern United States, with maroon to reddish-brown fragrant flowers that usually bloom in early spring.",
-      "bloomingSeason": "March to May",
-      "location": "Southeastern USA",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A spectacular tree from the Himalayas that bears huge, goblet-shaped flowers on bare branches in early spring. Blooms can reach 25 cm across and make a dramatic display in mild-climate gardens and in the wild forests of the eastern Himalayas.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Himalayas (Nepal, Bhutan, Sikkim, Yunnan); cultivated in mild gardens in the UK, New Zealand, and the Pacific Northwest",
       "colors": [
-        "maroon",
-        "reddish brown"
+        "Deep pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "The aromatic flowers smell spicy and sweet, often compared to pineapple or strawberry."
+      "funFact": "Magnolia campbellii may take 20 to 30 years from seed to flower for the first time, so gardeners need real patience."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Placeholder replaced below",
+      "bloomingSeason": "Autumn",
+      "location": "Europe",
+      "colors": [
+        "Pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Not applicable for March."
     }
   ]
 }

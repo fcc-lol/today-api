@@ -2,36 +2,44 @@
   "date": "April 17",
   "holidays": [
     {
-      "name": "Blah, Blah, Blah Day",
-      "description": "A day dedicated to humorously acknowledging all the pointless and meaningless chatter we endure daily. It's a chance to embrace the noise and maybe practice some selective listening!",
-      "origin": "Started informally on social media as a response to endless online arguments and useless small talk, it caught on as a fun way to vent about excessive talking.",
-      "category": "Humor/Pop Culture",
-      "emoji": "🗣️",
-      "funFact": "Blah, Blah, Blah Day is the perfect excuse to marvel at your own ability to talk for hours with little substance and then joke about it!"
-    },
-    {
-      "name": "Cheese Ball Day",
-      "description": "Celebrate the delightful snack known as the cheese ball – soft, creamy, and often covered in nuts or herbs – the perfect party treat!",
-      "origin": "The cheese ball became popular in mid-20th century America as a festive appetizer, and this day honors its cheesy goodness.",
-      "category": "Food",
+      "name": "National Cheeseball Day",
+      "description": "A day to celebrate the glorious, round, nut-crusted party appetizer that has anchored snack tables since your grandma's cocktail hour. Break out the crackers and roll up your sleeves!",
+      "origin": "Part of the unofficial American food-holiday calendar, popularized by food bloggers and snack enthusiasts. The cheese ball itself surged in popularity in mid-20th-century America as a party staple.",
+      "category": "Food Day",
       "emoji": "🧀",
-      "funFact": "Some cheese balls are shaped like sports balls or animals, turning a tasty snack into an edible art piece!"
+      "funFact": "In 1801, a giant 1,235-pound cheese ball was reportedly presented to President Thomas Jefferson, a legendary 'Mammoth Cheese' that was actually a wheel from Cheshire, Massachusetts."
     },
     {
-      "name": "Hemingway Days Festival (starting on April 17)",
-      "description": "While it kicks off on April 17th, this festival celebrates Ernest Hemingway's legacy with literary readings, contests, and cultural events in his beloved Key West, Florida.",
-      "origin": "Established to honor the famous writer’s birthday and life, especially his impact on literature and the local community.",
-      "category": "Literary/Cultural",
-      "emoji": "📚",
-      "funFact": "The Hemingway Days Festival includes a look-alike contest where contestants dress up as the author, complete with white beard and rugged explorer attire!"
+      "name": "Haiku Poetry Day",
+      "description": "A day to craft tiny three-line poems in the 5-7-5 syllable pattern. Perfect for people who want to be poetic without committing to a long afternoon.",
+      "origin": "Observed in the United States and promoted by poetry groups, it honors the Japanese haiku tradition, which developed from the hokku opening verse of linked poems centuries ago.",
+      "category": "Arts & Literature",
+      "emoji": "🌸",
+      "funFact": "Traditional Japanese haiku do not always follow 5-7-5 in English terms, because Japanese sound units called 'on' are shorter than English syllables."
+    },
+    {
+      "name": "World Hemophilia Day",
+      "description": "An international awareness day dedicated to improving care and access to treatment for people with hemophilia and other inherited bleeding disorders.",
+      "origin": "Organized by the World Federation of Hemophilia since 1989, held on April 17 to honor the birthday of its founder, Frank Schnabel.",
+      "category": "Awareness Day",
+      "emoji": "🩸",
+      "funFact": "Hemophilia has been nicknamed the 'royal disease' because it affected several descendants of Queen Victoria across European royal families."
     },
     {
       "name": "Bat Appreciation Day",
-      "description": "A quirky day to celebrate the misunderstood and remarkable bat, highlighting its role in ecosystems and the fears we often have of these nocturnal creatures.",
-      "origin": "Created by wildlife advocates to spread awareness about bats and combat myths and myths about them.",
-      "category": "Awareness/Nature",
+      "description": "A celebration of our flappy, nocturnal friends who pollinate plants, gobble up insects, and generally get a bad rap thanks to vampire movies.",
+      "origin": "Promoted by conservation groups and wildlife enthusiasts to counter bat myths and highlight their ecological value as pollinators and pest controllers.",
+      "category": "Animal & Nature",
       "emoji": "🦇",
-      "funFact": "Bats are the only mammals capable of sustained flight and can eat up to 1,000 insects per hour — nature's own pest controllers!"
+      "funFact": "A single little brown bat can eat up to 1,000 mosquito-sized insects in an hour."
+    },
+    {
+      "name": "Ellis Island Family History Day",
+      "description": "A day for genealogy buffs to dig into family roots and trace ancestors who passed through America's most famous immigration gateway.",
+      "origin": "Tied to the heritage of Ellis Island, which processed more than 12 million immigrants between 1892 and 1954. The observance encourages people to research and share their family stories.",
+      "category": "History & Heritage",
+      "emoji": "🗽",
+      "funFact": "Contrary to popular legend, officials at Ellis Island generally did not change immigrants' names; most name changes happened later by the immigrants themselves."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1803,
-      "title": "Louisiana Purchase Completed",
-      "description": "The United States formally took possession of the Louisiana Territory, doubling the size of the country after purchasing it from France.",
-      "category": "Political",
-      "significance": "This acquisition significantly expanded U.S. territory and was crucial for westward expansion."
+      "title": "Louisiana Purchase Transfer Ceremony in New Orleans",
+      "description": "The United States formally took possession of the Louisiana Territory from France in a ceremony at the Cabildo in New Orleans, following the purchase agreed upon earlier that year.",
+      "category": "Politics",
+      "significance": "The transfer roughly doubled the size of the United States and opened the way for westward expansion across the North American continent."
     },
     {
       "year": 1860,
       "title": "South Carolina Secedes from the Union",
-      "description": "South Carolina became the first state to secede from the United States, leading to the American Civil War.",
-      "category": "Political",
-      "significance": "This event marked the beginning of the secession crisis and the eventual Civil War."
+      "description": "A special convention in Charleston voted unanimously to adopt an Ordinance of Secession, making South Carolina the first state to leave the United States after Abraham Lincoln's election.",
+      "category": "War and Conflict",
+      "significance": "The secession began the breakup of the Union and set in motion the events that led to the American Civil War in 1861."
     },
     {
-      "year": 1951,
-      "title": "First Commercial Computer Installed",
-      "description": "The LEO I (Lyons Electronic Office) computer was installed at the J. Lyons & Co. in London, becoming the first computer used for business applications.",
-      "category": "Technology",
-      "significance": "This milestone marked the start of commercial computing and the use of computers in business."
+      "year": 1946,
+      "title": "Release of It's a Wonderful Life",
+      "description": "Frank Capra's film starring James Stewart and Donna Reed premiered in New York City. It had modest initial box office returns but later gained wide popularity.",
+      "category": "Arts and Culture",
+      "significance": "The film became a beloved holiday classic and is regularly cited among the greatest American films ever made."
     },
     {
-      "year": 1989,
-      "title": "Romanian Revolution Begins",
-      "description": "Protests that led to the overthrow of Nicolae Ceaușescu's communist regime in Romania began.",
-      "category": "Political",
-      "significance": "This revolution was a key event in Eastern Europe's transition away from communism."
+      "year": 1957,
+      "title": "Elvis Presley Receives Draft Notice",
+      "description": "Elvis Presley, already a major rock and roll star, was notified that he would be drafted into the U.S. Army. He was inducted in March 1958 and served until 1960.",
+      "category": "Culture",
+      "significance": "His military service drew huge public attention and marked a turning point in his career, showing how pop stars could be absorbed into mainstream American life."
+    },
+    {
+      "year": 1999,
+      "title": "Macau Returned to Chinese Sovereignty",
+      "description": "Portugal handed over Macau to the People's Republic of China, ending more than four centuries of Portuguese presence, and it became a Special Administrative Region.",
+      "category": "Politics",
+      "significance": "It marked the end of one of the last European colonial holdings in Asia and followed the 1997 handover of Hong Kong under the 'one country, two systems' framework."
     }
   ]
 }

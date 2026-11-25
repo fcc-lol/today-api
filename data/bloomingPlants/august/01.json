@@ -4,53 +4,57 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads which track the sun throughout the day. Sunflowers are widely cultivated for both ornamental and agricultural uses, and provide nectar and seeds for wildlife.",
-      "bloomingSeason": "June to September",
-      "location": "Temperate regions worldwide, native to North America",
+      "description": "A tall annual with a large, bright yellow flower head surrounded by ray petals and a dense central disc of tiny florets. The heads track the sun when young, and the plant is widely grown for seed, oil and ornament.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere (July to September)",
+      "location": "Native to North America; widely cultivated in the United States, Ukraine, Russia, France and Argentina",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun for optimal photosynthesis during early growth stages."
+      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets, each of which can develop into a seed. The spiral arrangement of these florets follows Fibonacci numbers."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "An evergreen shrub or small tree producing clusters of vibrant red flowers. It is the national flower of Nepal and found naturally at high altitudes in the Himalayas, flourishing in cool monsoon climates.",
-      "bloomingSeason": "June to August",
-      "location": "Himalayan regions of Nepal, India, Bhutan",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray narrow leaves and dense spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August)",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria and the northern United States",
       "colors": [
+        "purple",
+        "lavender",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular flowers on tall stalks. The leaves have a microscopic surface structure that repels water and dirt.",
+      "bloomingSeason": "Summer, peaking July to August in temperate Asia",
+      "location": "Native to Asia and northern Australia; found in ponds and wetlands in India, China, Vietnam and Japan, and cultivated worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries; one seed about 1,300 years old was successfully germinated after being found in a dry lake bed in China."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub bearing the largest flower head in the Protea genus, with a bowl of silky-tipped, colored bracts surrounding a center of tiny flowers. It is the national flower of South Africa.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with flowering from about May to November and a peak around August",
+      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa; grown in Australia, Hawaii and California",
+      "colors": [
+        "pink",
+        "cream",
         "red"
       ],
       "emoji": "🌺",
-      "funFact": "Its bright red flowers attract birds and bees, facilitating cross-pollination at high altitudes."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A herbaceous perennial native to North America, recognized for its purple-pink petals surrounding a spiky orange central cone. It is popular in gardens and revered for its medicinal properties.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and central United States",
-      "colors": [
-        "purple",
-        "pink",
-        "orange"
-      ],
-      "emoji": "🌸",
-      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A hardy Australian tree known for its cylindrical golden flower spikes and distinctive serrated leaves. It blooms in late winter through spring and summer, providing nectar for native birds and insects.",
-      "bloomingSeason": "July to November",
-      "location": "Eastern Australia coastal regions",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksia flowers are composed of hundreds of tiny individual flowers packed together, creating dense flower spikes."
+      "funFact": "Proteas are among the most ancient flowering plants, dating back around 300 million years, and they are adapted to fire, with some resprouting from underground tubers after wildfires."
     }
   ]
 }

@@ -2,60 +2,57 @@
   "date": "September 19",
   "plants": [
     {
-      "name": "Aster amellus",
-      "commonName": "European Michaelmas Daisy",
-      "description": "A hardy perennial wildflower and garden plant native to Europe, known for its daisy-like violet-blue flowers. It thrives in temperate climates and is a common sight in meadows and gardens.",
-      "bloomingSeason": "August to October",
-      "location": "Europe, temperate zones",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like lilac-pink flowers in autumn, without any leaves present. The leaves appear the following spring and die back by early summer. All parts of the plant are highly toxic due to colchicine.",
+      "bloomingSeason": "Early to mid autumn (September to October in the Northern Hemisphere)",
+      "location": "Europe, naturalized in damp meadows and woodland edges; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "violet",
-        "blue",
-        "white"
+        "Lilac",
+        "Pink",
+        "Pale purple"
       ],
-      "emoji": "💜",
-      "funFact": "Michaelmas Daisies often signal the approach of Michaelmas (September 29), traditionally marking the start of autumn in Europe."
+      "emoji": "🌷",
+      "funFact": "Colchicine from this plant is used in medicine to treat gout and by plant breeders to induce chromosome doubling. The flowers are nicknamed 'naked ladies' because they bloom without leaves."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A bright and cheerful wildflower native to North America, with golden yellow petals surrounding a dark brown central cone. It is widely cultivated in gardens and is drought-tolerant.",
-      "bloomingSeason": "June to September (sometimes into October)",
-      "location": "North America, temperate zones",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower with arching plumes of tiny golden-yellow flower heads. It forms dense colonies in meadows, roadsides, and fields, and provides vital late-season nectar and pollen for bees, butterflies, and other insects.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "North America, in meadows, prairies, and roadsides; invasive in parts of Europe and Asia",
       "colors": [
-        "yellow",
-        "brown"
+        "Golden yellow"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans attract pollinators like bees and butterflies and often bloom late into the growing season, including September."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and insect-carried; the true culprit is usually ragweed, which blooms at the same time."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub with large, vibrant flowers typically red, pink, or orange. Commonly cultivated in subtropical and tropical regions, blooming year-round with peak flowering in warm months.",
-      "bloomingSeason": "Year-round in tropics, peak late summer to fall",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden-yellow flower balls. It blooms in late winter to spring in Australia and is a hardy species of dry woodlands and scrub.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including Victoria, New South Wales, and South Australia",
       "colors": [
-        "red",
-        "pink",
-        "orange",
-        "yellow",
-        "white"
+        "Golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Each hibiscus flower lasts only a day, but the plant produces many blooms throughout the warm seasons."
+      "emoji": "🌳",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
     },
     {
-      "name": "Callicarpa americana",
-      "commonName": "American Beautyberry",
-      "description": "A native shrub to the southeastern United States known for its striking clusters of bright purple berries in fall, following delicate lavender-pink flowers in late summer.",
-      "bloomingSeason": "August to September (flowers), berries appear in fall",
-      "location": "Southeastern USA",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An easy-to-grow annual with feathery foliage and daisy-like flowers on tall, slender stems. It thrives in full sun and poor soil and blooms prolifically until the first frost, attracting pollinators in autumn gardens.",
+      "bloomingSeason": "Summer through fall (June to first frost)",
+      "location": "Native to Mexico and Central America; cultivated in gardens worldwide, with naturalized populations in many regions",
       "colors": [
-        "lavender",
-        "pink"
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
-      "emoji": "🟣",
-      "funFact": "The beautyberry’s purple berries are a favorite food for many birds, which help disperse its seeds."
+      "emoji": "🌸",
+      "funFact": "The name Cosmos comes from the Greek word 'kosmos', meaning order or harmony, which was inspired by the orderly arrangement of its petals."
     }
   ]
 }

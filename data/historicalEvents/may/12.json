@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1820,
-      "title": "Founding of the University of London",
-      "description": "The University of London was founded on May 12, 1820, as a degree-awarding university, providing education to a wider population.",
-      "category": "Education",
-      "significance": "It was one of the first universities to admit students regardless of religion and laid the foundation for modern higher education accessible to all."
+      "title": "Birth of Florence Nightingale",
+      "description": "Florence Nightingale, the English social reformer and statistician, was born in Florence, Italy. She rose to prominence while managing nurses during the Crimean War and later founded the Nightingale Training School for nurses at St Thomas' Hospital in London.",
+      "category": "Birth",
+      "significance": "Considered the founder of modern nursing, she transformed hospital sanitation and healthcare practice and pioneered the use of statistical graphics in public health. International Nurses Day is celebrated on her birthday."
     },
     {
-      "year": 1937,
-      "title": "Hindenburg Disaster",
-      "description": "The German passenger airship LZ 129 Hindenburg caught fire and was destroyed during its attempt to dock in New Jersey, resulting in 36 deaths.",
-      "category": "Disaster",
-      "significance": "This disaster marked the end of the airship era as a mode of passenger travel and influenced public perceptions of air travel safety."
-    },
-    {
-      "year": 1998,
-      "title": "France Wins FIFA World Cup",
-      "description": "France defeated Brazil 3-0 in the FIFA World Cup final held in Paris, securing their first World Cup title.",
-      "category": "Sports",
-      "significance": "This victory was a major achievement in French sports history and national pride, uniting the country through football."
+      "year": 1932,
+      "title": "Lindbergh Baby Found Dead",
+      "description": "The body of Charles Augustus Lindbergh Jr., the 20-month-old son of aviator Charles Lindbergh, was discovered near the family's home in Hopewell, New Jersey, about two months after his kidnapping.",
+      "category": "Crime",
+      "significance": "The case, dubbed the 'Crime of the Century,' led to the Federal Kidnapping Act (the Lindbergh Law) and prompted major advances in forensic investigation and federal law enforcement."
     },
     {
       "year": 1949,
-      "title": "The Soviet Union Tests Its First Atomic Bomb",
-      "description": "On May 12, 1949, the USSR successfully detonated its first atomic bomb, known as 'First Lightning'.",
-      "category": "Military/Science",
-      "significance": "This development marked the beginning of the nuclear arms race during the Cold War and changed global military dynamics."
+      "title": "Soviet Union Lifts the Berlin Blockade",
+      "description": "The Soviet Union ended its blockade of West Berlin, which had begun in June 1948, reopening road, rail, and canal access to the western sectors of the city.",
+      "category": "Politics",
+      "significance": "The end of the blockade was an early Cold War victory for the Western Allies, whose Berlin Airlift had sustained the city, and it preceded the formal creation of West Germany later that month."
+    },
+    {
+      "year": 1949,
+      "title": "Berlin Airlift Success Concludes Blockade Crisis",
+      "description": "With the blockade lifted, the Western Allies' airlift, which delivered over two million tons of supplies to West Berlin, was shown to have succeeded, though flights continued for several months to build up reserves.",
+      "category": "Military",
+      "significance": "The airlift demonstrated Western resolve and logistical capability and helped solidify the NATO alliance formed in April 1949."
+    },
+    {
+      "year": 1943,
+      "title": "Axis Forces Surrender in Tunisia",
+      "description": "Axis forces in North Africa, with the surrender of the remaining German and Italian troops in Tunisia, effectively ended the North African Campaign of World War II.",
+      "category": "Military",
+      "significance": "The loss of North Africa removed Axis forces from the continent, opened the way for the Allied invasion of Sicily and Italy, and resulted in the capture of hundreds of thousands of Axis troops."
     }
   ]
 }

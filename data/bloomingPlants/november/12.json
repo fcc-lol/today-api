@@ -2,62 +2,64 @@
   "date": "November 12",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their vibrant and diverse blooms that appear in late autumn. They have a rich cultural significance in many countries and add color to gardens as other plants begin to fade.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (Asia, Europe, North America)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A hardy perennial prized for dense, layered blooms in many forms, from pompons to spiders. It is one of the last major garden flowers to bloom in the Northern Hemisphere, thriving in cool autumn temperatures and short days.",
+      "bloomingSeason": "Mid-autumn to early winter (October to December in the Northern Hemisphere)",
+      "location": "Cultivated in East Asia, Europe, and North America; native to China",
       "colors": [
         "yellow",
         "white",
+        "bronze",
         "red",
         "purple",
-        "orange"
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in East Asia and are often associated with the autumn festival season."
+      "funFact": "Chrysanthemums are a photoperiodic short-day plant, and in Japan the Chrysanthemum Festival honors the flower, which is also the emblem of the Imperial family."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "Japanese Camellias are evergreen shrubs that produce large, attractive flowers during the cooler seasons. Their blooms can last for several weeks, brightening up gardens when fewer plants flower.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia (Japan, China, Korea) and cultivated in mild temperate climates worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A large, semi-deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. In late spring the blooms carpet streets and gardens with purple petals across the Southern Hemisphere.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to Argentina and Bolivia; widely planted in Australia, South Africa (Pretoria), Brazil, and New Zealand",
       "colors": [
-        "red",
+        "lavender",
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'. Australian students traditionally say that if a jacaranda blossom falls on your head, you will pass your exams."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves that produces delicate, often lightly fragrant flowers in autumn, earlier than most other camellias. It is common in gardens and hedges in mild climates.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to southern Japan; cultivated in the southeastern United States, Europe, and Australia",
+      "colors": [
+        "white",
         "pink",
-        "white"
+        "rose",
+        "red"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica was the first camellia species introduced to Western gardeners in the 18th century, sparking a long history of camellia cultivation."
+      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to make camellia oil, used in Japan for cooking, cosmetics, and hair care."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "The Silky Oak is a fast-growing tree native to Australia, producing clusters of bright orange flowers that attract birds. Its blooming in late spring to early summer fits November in the Southern Hemisphere's spring season.",
-      "bloomingSeason": "September to December",
-      "location": "Eastern Australia and cultivated in subtropical regions",
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "A small woodland tuberous perennial whose swept-back pink flowers appear before the marbled, ivy-shaped leaves. It naturalizes beneath trees and shrubs and brings color to the autumn forest floor.",
+      "bloomingSeason": "Late summer to late autumn (September to November)",
+      "location": "Native to the Mediterranean region and southern Europe through Turkey; naturalized in the UK and parts of North America",
       "colors": [
-        "orange"
-      ],
-      "emoji": "🌻",
-      "funFact": "Despite its common name, Silky Oak is not an oak but is valued for its ornamental flowers and timber."
-    },
-    {
-      "name": "Bougainvillea glabra",
-      "commonName": "Bougainvillea",
-      "description": "Bougainvillea is a woody vine known for its vibrant bracts surrounding tiny white flowers. It thrives in tropical and subtropical climates and blooms year-round in frost-free areas, often peaking in the dry season.",
-      "bloomingSeason": "Year-round with peaks in dry seasons",
-      "location": "Tropical and subtropical regions worldwide, native to South America",
-      "colors": [
+        "pink",
         "magenta",
-        "purple",
-        "red",
-        "orange",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Bougainvillea's colorful parts are actually modified leaves called bracts, not petals."
+      "emoji": "🌷",
+      "funFact": "After flowering, the flower stalks coil like springs and pull the seed capsules to the ground, where ants help disperse the seeds."
     }
   ]
 }

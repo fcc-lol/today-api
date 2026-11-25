@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1901,
-      "title": "Queen Victoria Dies",
-      "description": "Queen Victoria of the United Kingdom dies after a reign of 63 years, marking the end of the Victorian era.",
-      "category": "Royalty/Monarchy",
-      "significance": "Her death marked the end of an era that shaped British culture, politics, and society profoundly."
+      "title": "Death of Queen Victoria",
+      "description": "Queen Victoria died at Osborne House on the Isle of Wight at age 81, ending a reign of 63 years and 216 days. She was succeeded by her son, Edward VII.",
+      "category": "Death",
+      "significance": "Her death marked the end of the Victorian era and the longest British reign up to that time, closing a period of vast imperial expansion, industrialization, and social change."
+    },
+    {
+      "year": 1973,
+      "title": "Roe v. Wade Decided",
+      "description": "The U.S. Supreme Court issued its ruling in Roe v. Wade, holding 7-2 that the Constitution protects a woman's right to choose to have an abortion without excessive government restriction.",
+      "category": "Law",
+      "significance": "The decision reshaped American law, politics, and society for nearly five decades, until it was overturned by Dobbs v. Jackson Women's Health Organization in 2022."
     },
     {
       "year": 1905,
-      "title": "Bloody Sunday in St. Petersburg",
-      "description": "Russian troops massacre peaceful protesters in St. Petersburg, igniting the 1905 Russian Revolution.",
-      "category": "Political/Conflict",
-      "significance": "The event sparked nationwide protests and set the stage for future revolutionary movements in Russia."
-    },
-    {
-      "year": 1973,
-      "title": "Roe v. Wade Decision",
-      "description": "The U.S. Supreme Court legalizes abortion nationwide in the landmark Roe v. Wade case.",
-      "category": "Legal/Social",
-      "significance": "This ruling profoundly affected women's reproductive rights and sparked ongoing political and social debates."
-    },
-    {
-      "year": 1973,
-      "title": "The Paris Peace Accords",
-      "description": "The Paris Peace Accords officially end direct U.S. involvement in the Vietnam War.",
-      "category": "Military/Diplomatic",
-      "significance": "Marked a significant step toward ending the Vietnam War and reshaping U.S. foreign policy."
+      "title": "Bloody Sunday in Saint Petersburg",
+      "description": "Imperial troops fired on peaceful workers marching to present a petition to Tsar Nicholas II at the Winter Palace, killing and wounding hundreds (Julian date January 9).",
+      "category": "Politics",
+      "significance": "The massacre sparked the Russian Revolution of 1905, weakening public faith in the tsar and foreshadowing the revolutions of 1917."
     },
     {
       "year": 1924,
-      "title": "Edvard Munch Unveils 'The Scream'",
-      "description": "Norwegian artist Edvard Munch publicly exhibits his iconic painting 'The Scream' for the first time.",
-      "category": "Art/Culture",
-      "significance": "The painting becomes a symbol of existential angst and one of the most famous artworks of modern art."
+      "title": "Ramsay MacDonald Becomes First Labour Prime Minister",
+      "description": "Ramsay MacDonald took office as Prime Minister of the United Kingdom, leading a minority Labour government with Liberal support after the 1923 general election.",
+      "category": "Politics",
+      "significance": "It was the first time the Labour Party formed a government in Britain, marking the rise of the party as a major force in British politics."
+    },
+    {
+      "year": 1506,
+      "title": "First Swiss Guards Arrive at the Vatican",
+      "description": "The first contingent of 150 Swiss mercenaries, recruited at the request of Pope Julius II, arrived at the Vatican to serve as papal protectors.",
+      "category": "Religion",
+      "significance": "The Pontifical Swiss Guard continues today as the Pope's security force and is one of the oldest continuously operating military units in the world."
     }
   ]
 }

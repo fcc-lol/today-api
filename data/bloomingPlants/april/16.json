@@ -2,59 +2,62 @@
   "date": "April 16",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular ornamental tree known for its large, fragrant, and tulip-shaped flowers that appear early in the spring before the leaves. It is often cultivated in temperate regions worldwide.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of delicate, slightly fragrant blossoms that open before the leaves emerge. Widely planted in parks and along streets and rivers across temperate regions.",
+      "bloomingSeason": "Late March to late April in the Northern Hemisphere; later in cooler or high-elevation areas such as northern Japan and northern Europe",
+      "location": "Japan, Korea, Washington D.C. (USA), and temperate regions of Europe and North America",
       "colors": [
-        "white",
-        "pink",
-        "purple"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer magnolia flowers are some of the first to bloom in spring, often emerging before the leaves, making their blossoms especially striking."
+      "funFact": "The cherry blossom festival tradition, hanami, dates back over a thousand years in Japan, and the Yoshino cherry trees in Washington D.C. were a gift from Tokyo in 1912."
     },
     {
-      "name": "Azalea (Rhododendron spp.)",
-      "commonName": "Azalea",
-      "description": "Azaleas are flowering shrubs prized for their profuse, bright blooms in the spring. They thrive in acidic soils and are commonly found in gardens and woodland areas.",
-      "bloomingSeason": "March to May",
-      "location": "Asia, North America, and garden cultivations worldwide",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Thousands of cultivars exist, including single, double, fringed, and parrot forms.",
+      "bloomingSeason": "Mid-April to May in the Northern Hemisphere, peaking in mid-to-late April in the Netherlands",
+      "location": "Netherlands, Northern Europe, North America, and temperate gardens worldwide; wild ancestors from Central Asia",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "purple",
-        "orange"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the 17th century Dutch 'Tulip Mania', single bulbs sold for more than the price of a luxurious canal house."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous North American tree whose bare branches and even trunk are studded with clusters of pea-like magenta-pink flowers before heart-shaped leaves unfold. Important early nectar source for native bees.",
+      "bloomingSeason": "Late March to late April",
+      "location": "Eastern and central United States, northern Mexico, and southern Ontario; woodland edges and gardens",
+      "colors": [
+        "Magenta-pink",
+        "Lavender",
+        "White (cultivars)"
+      ],
+      "emoji": "🌳",
+      "funFact": "The flowers are edible and have a slightly tart flavor, and they grow directly from the trunk and old branches, a trait called cauliflory."
+    },
+    {
+      "name": "Watsonia borbonica",
+      "commonName": "Cape Bugle Lily",
+      "description": "A cormous perennial from South Africa producing tall spikes of tubular flowers above sword-shaped leaves. Though its main bloom is spring in the Southern Hemisphere, related species of the Iridaceae family flower in the autumn months in some cooler coastal areas.",
+      "bloomingSeason": "Late spring in its native range, with some Watsonia species flowering in autumn, including April, in the Southern Hemisphere",
+      "location": "Western Cape, South Africa; also naturalized in Australia and parts of California",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Azaleas have been cultivated for centuries and often signify abundance and beauty in traditional Asian cultures."
-    },
-    {
-      "name": "Ocimum basilicum",
-      "commonName": "Sweet Basil",
-      "description": "An aromatic herb widely cultivated for culinary use. In warm climates, basil produces small white or purple flowers typically in late spring to summer.",
-      "bloomingSeason": "April to August",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "white",
-        "purple"
-      ],
-      "emoji": "🌿",
-      "funFact": "Sweet basil flowers are edible and sometimes used to make herbal teas, though flowering signals the plant may be less flavorful."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A tree native to eastern Australia characterized by cylindrical flower spikes composed of hundreds of tiny flowers, which bloom mainly in autumn but can extend into spring in some areas.",
-      "bloomingSeason": "March to May (with some regional variation)",
-      "location": "Eastern Australia coastal regions",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksia flowers are rich in nectar, attracting birds and insects, and indigenous Australians traditionally used the nectar as a sweet treat."
+      "funFact": "Watsonias are adapted to fire-prone fynbos and often bloom profusely after a burn, stimulated by the nutrient-rich ash and increased light."
     }
   ]
 }

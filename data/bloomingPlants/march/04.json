@@ -2,54 +2,56 @@
   "date": "March 4",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree known for its beautiful and abundant pink or white flowers that herald the arrival of spring in Japan and many other temperate regions.",
-      "bloomingSeason": "Late March to early April (varies by location, some early blooms in late February or early March)",
-      "location": "Japan, temperate regions of North America and Europe",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asian gardens and prized for ornamental use and for its fruit, used in pickles and liqueurs.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "The timing of cherry blossom blooming is celebrated annually in Japan with 'Hanami' festivals, symbolizing the transient nature of life."
+      "funFact": "Ume blossoms are traditionally celebrated as a harbinger of spring in East Asia, and they often bloom while snow is still on the ground."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A perennial bulbous plant producing bright yellow, trumpet-shaped flowers in early spring, often found in woodlands and meadows.",
-      "bloomingSeason": "February to April",
-      "location": "Western and Central Europe, naturalized in parts of North America",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler petals and blue-green strap-like leaves. It carpets woodlands and meadows in early spring and is the ancestor of many garden daffodils.",
+      "bloomingSeason": "Late winter to spring (March to April in Northern Hemisphere)",
+      "location": "Western Europe, including England, Wales, France and Spain; naturalized in North America",
       "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow",
+        "Cream"
       ],
-      "emoji": "💛",
-      "funFact": "Daffodils are known to contain toxic compounds which help deter pests and herbivores."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain toxic alkaloids, and one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, this shrub or small tree produces vibrant yellow fluffy flower clusters that bloom in late winter to early spring.",
-      "bloomingSeason": "June to September in southern hemisphere (approaching early spring), some early blooms in March in certain areas",
-      "location": "Australia",
+      "description": "A fast-growing evergreen tree or large shrub with feathery foliage that bears fluffy, fragrant golden flower balls. It is Australia's national floral emblem and an important food source for native insects and birds.",
+      "bloomingSeason": "Late winter to spring in Australia (July to October), with some blooming into early autumn in cooler zones and varied wattles flowering in March",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Golden Wattle flowers are rich in nectar and an important food source for native pollinators."
+      "emoji": "🌿",
+      "funFact": "Australia celebrates National Wattle Day on September 1, and the green and gold of the wattle inspired the colors of the national sporting teams."
     },
     {
-      "name": "Magnolia stellata",
-      "commonName": "Star Magnolia",
-      "description": "A small deciduous tree notable for its large, fragrant star-shaped white or pink flowers that bloom very early in spring, often before the leaves appear.",
-      "bloomingSeason": "Late February to April",
-      "location": "Japan, cultivated widely in temperate regions globally",
+      "name": "Eranthis hyemalis",
+      "commonName": "Winter Aconite",
+      "description": "A low-growing tuberous perennial with bright buttercup-like flowers sitting on a ruff of green leaf-like bracts. It pushes through frozen soil and snow to flower in woodlands and gardens.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Southern Europe, from France to the Balkans; naturalized in the UK and North America",
       "colors": [
-        "white",
-        "pink"
+        "Yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Star magnolia flowers have numerous narrow petals (tepals), typically between 12 and 18, which create a distinctive star-like shape."
+      "emoji": "🌻",
+      "funFact": "Winter aconite flowers close up in cold or cloudy weather and open only in sunshine, which protects their pollen from damp conditions."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "March 11",
   "events": [
     {
-      "year": 2011,
-      "title": "Tohoku Earthquake and Tsunami",
-      "description": "A massive 9.0 magnitude earthquake struck off the coast of Japan, triggering a devastating tsunami that caused widespread destruction and led to the Fukushima nuclear disaster.",
+      "year": 1888,
+      "title": "Great Blizzard of 1888 Begins",
+      "description": "A massive blizzard struck the northeastern United States, dumping up to 50 inches of snow in parts of New York, Massachusetts, Connecticut, and New Jersey, with hurricane-force winds creating drifts as high as 50 feet. Over 400 people died, many in New York City.",
       "category": "Natural Disaster",
-      "significance": "One of the most powerful earthquakes ever recorded, causing significant loss of life and leading to major nuclear and environmental crises."
+      "significance": "One of the worst blizzards in American history, it prompted New York City to bury telegraph and power lines and to build its subway system underground."
     },
     {
-      "year": 1990,
-      "title": "Lithuania Declares Independence from the Soviet Union",
-      "description": "Lithuania became the first Soviet republic to declare independence, marking a significant step toward the dissolution of the USSR.",
-      "category": "Political Milestone",
-      "significance": "This act inspired other republics and contributed to the eventual collapse of Soviet control in Eastern Europe."
+      "year": 1941,
+      "title": "Lend-Lease Act Signed into Law",
+      "description": "President Franklin D. Roosevelt signed the Lend-Lease Act, authorizing the United States to supply Britain, China, the Soviet Union, and other Allied nations with war materiel without immediate payment.",
+      "category": "Politics/War",
+      "significance": "The act ended the pretense of strict American neutrality in World War II and made the US the 'arsenal of democracy,' greatly strengthening the Allied war effort before America formally entered the war."
     },
     {
-      "year": 1978,
-      "title": "Roots Miniseries Premieres",
-      "description": "The groundbreaking television miniseries 'Roots' premiered in the United States, depicting the history of an African American family from slavery to freedom.",
-      "category": "Cultural Event",
-      "significance": "It raised awareness about slavery and African American history, influencing American culture and television storytelling."
+      "year": 1985,
+      "title": "Mikhail Gorbachev Becomes Soviet Leader",
+      "description": "Mikhail Gorbachev was chosen as General Secretary of the Communist Party of the Soviet Union after the death of Konstantin Chernenko, becoming the youngest Soviet leader at that time at age 54.",
+      "category": "Politics",
+      "significance": "Gorbachev's reforms of glasnost and perestroika transformed the USSR, helped end the Cold War, and ultimately contributed to the dissolution of the Soviet Union in 1991."
     },
     {
-      "year": 1702,
-      "title": "Queen Anne Ascends to the British Throne",
-      "description": "Following the death of William III, Anne became Queen of England, Scotland, and Ireland, later the first monarch of Great Britain after the 1707 Union.",
-      "category": "Monarchical Event",
-      "significance": "Her reign saw the unification of England and Scotland and significant political developments."
+      "year": 2011,
+      "title": "Tōhoku Earthquake and Tsunami",
+      "description": "A magnitude 9.0-9.1 earthquake struck off the Pacific coast of Japan, triggering a massive tsunami that devastated coastal communities and caused the Fukushima Daiichi nuclear disaster. Nearly 20,000 people were killed or went missing.",
+      "category": "Natural Disaster",
+      "significance": "The most powerful earthquake ever recorded in Japan and the worst nuclear accident since Chernobyl, it reshaped global debates on nuclear energy and disaster preparedness."
+    },
+    {
+      "year": 2020,
+      "title": "WHO Declares COVID-19 a Pandemic",
+      "description": "The World Health Organization officially characterized the COVID-19 outbreak as a global pandemic, as the virus had spread to over 100 countries and infected more than 118,000 people.",
+      "category": "Public Health",
+      "significance": "The declaration marked a turning point that led to widespread lockdowns, travel restrictions, and profound global social and economic disruption."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 632,
-      "title": "Death of Prophet Muhammad",
-      "description": "Prophet Muhammad, the founder of Islam, passes away in Medina, leading to the establishment of the Rashidun Caliphate.",
-      "category": "Religion/History",
-      "significance": "His death marked a pivotal moment in Islamic history, leading to the spread of Islam and shaping the political landscape of the Middle East."
+      "title": "Death of the Prophet Muhammad",
+      "description": "Muhammad, the founder of Islam, died in Medina according to traditional accounts, after a brief illness. He had unified much of the Arabian Peninsula under the new faith.",
+      "category": "Death",
+      "significance": "His death led to the succession of Abu Bakr as the first caliph and set in motion the rapid expansion of the Islamic caliphate across the Middle East, North Africa, and beyond."
     },
     {
       "year": 793,
       "title": "Viking Raid on Lindisfarne",
-      "description": "The Viking raid on the monastery at Lindisfarne, off the coast of Northumbria, England, begins, often considered the start of the Viking Age.",
-      "category": "Medieval History/War",
-      "significance": "This attack marked the beginning of widespread Viking invasions in Europe, significantly impacting European history and culture."
+      "description": "Norse raiders attacked the monastery of Lindisfarne off the northeast coast of England, plundering its treasures and killing monks.",
+      "category": "Military",
+      "significance": "Traditionally regarded as the start of the Viking Age, it ushered in nearly three centuries of Scandinavian raids, settlement, and trade across Europe."
+    },
+    {
+      "year": 1887,
+      "title": "Herman Hollerith Patents the Punched Card Tabulating Machine",
+      "description": "Herman Hollerith received a patent on June 8, 1887 for his electric tabulating system using punched cards to process data.",
+      "category": "Science and Technology",
+      "significance": "His invention was used for the 1890 U.S. Census and led to the company that eventually became IBM, laying foundations for modern data processing and computing."
     },
     {
       "year": 1949,
-      "title": "George Orwell's 'Nineteen Eighty-Four' Published",
-      "description": "George Orwell’s dystopian novel 'Nineteen Eighty-Four' is published in the UK, exploring themes of totalitarianism and surveillance.",
-      "category": "Literature/Culture",
-      "significance": "The novel has become a seminal work depicting authoritarianism, influencing political discourse and culture ever since."
+      "title": "George Orwell's Nineteen Eighty-Four Is Published",
+      "description": "Secker & Warburg published George Orwell's dystopian novel Nineteen Eighty-Four in the United Kingdom.",
+      "category": "Culture",
+      "significance": "The novel introduced concepts such as Big Brother, doublethink, and thoughtcrime into popular discourse and remains a touchstone in debates about surveillance, totalitarianism, and truth."
     },
     {
-      "year": 1966,
-      "title": "Luna 9 Moon Landing",
-      "description": "The Soviet spacecraft Luna 9 makes the first successful soft landing on the Moon and transmits photographic data back to Earth.",
-      "category": "Science/Space Exploration",
-      "significance": "This achievement marked humanity’s first successful soft landing on another celestial body, advancing space exploration."
+      "year": 1995,
+      "title": "Captain Scott O'Grady Rescued in Bosnia",
+      "description": "U.S. Air Force pilot Scott O'Grady was rescued by U.S. Marines after evading capture for six days following his F-16 being shot down over Bosnia.",
+      "category": "Military",
+      "significance": "The rescue became a prominent episode of NATO's involvement in the Bosnian War and highlighted the capabilities of modern combat search-and-rescue operations."
     }
   ]
 }

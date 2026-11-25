@@ -2,32 +2,39 @@
   "date": "December 3",
   "events": [
     {
-      "year": 1984,
-      "title": "Bhopal Gas Tragedy",
-      "description": "A gas leak at the Union Carbide pesticide plant in Bhopal, India, resulted in thousands of deaths and widespread health issues, marking one of the world's worst industrial disasters.",
-      "category": "Disaster",
-      "significance": "This event highlighted the risks of industrial negligence and prompted changes in safety regulations worldwide."
+      "year": 1967,
+      "title": "First Human Heart Transplant",
+      "description": "Surgeon Christiaan Barnard performed the world's first human-to-human heart transplant at Groote Schuur Hospital in Cape Town, South Africa, on patient Louis Washkansky, who lived for 18 days after the operation.",
+      "category": "Science and Medicine",
+      "significance": "This milestone opened the era of modern transplant surgery and led to major advances in immunosuppression and organ donation, saving countless lives in the decades since."
     },
     {
-      "year": 1967,
-      "title": "First Successful Heart Transplant",
-      "description": "Dr. Christiaan Barnard performed the first successful human heart transplant operation in Cape Town, South Africa.",
-      "category": "Medical Milestone",
-      "significance": "This groundbreaking surgery paved the way for advances in organ transplantation and cardiac surgery."
+      "year": 1818,
+      "title": "Illinois Admitted as the 21st U.S. State",
+      "description": "Illinois was admitted to the Union as the 21st state, following the passage of an enabling act and the approval of its constitution by Congress.",
+      "category": "Politics and Government",
+      "significance": "Illinois became a major center of agriculture, transportation, and industry, and later produced figures such as Abraham Lincoln who shaped the nation's history."
+    },
+    {
+      "year": 1984,
+      "title": "Bhopal Gas Tragedy",
+      "description": "A leak of methyl isocyanate gas from the Union Carbide pesticide plant in Bhopal, India, exposed hundreds of thousands of people to toxic fumes overnight, killing thousands immediately and many more in later years.",
+      "category": "Disaster",
+      "significance": "It is considered one of the worst industrial disasters in history and prompted worldwide reforms in industrial safety, environmental regulation, and corporate accountability."
     },
     {
       "year": 1992,
-      "title": "Rodney King Verdict and LA Riots",
-      "description": "The verdict in the Rodney King police brutality case was announced, acquitting the officers involved and leading to widespread riots in Los Angeles.",
-      "category": "Social/Political",
-      "significance": "The events brought national attention to issues of racial injustice and police brutality in the United States."
+      "title": "First SMS Text Message Sent",
+      "description": "Engineer Neil Papworth sent the first text message, reading 'Merry Christmas,' over the Vodafone network in the United Kingdom to Richard Jarvis, who received it on a computer.",
+      "category": "Technology",
+      "significance": "The event marked the beginning of text messaging, which grew into a dominant form of global communication and paved the way for modern mobile messaging."
     },
     {
-      "year": 1971,
-      "title": "UN Admits People's Republic of China",
-      "description": "The United Nations General Assembly voted to admit the People's Republic of China and expel the Republic of China (Taiwan).",
-      "category": "Political",
-      "significance": "This represented a major shift in international relations, recognizing the PRC as the legitimate government of China."
+      "year": 1894,
+      "title": "Death of Robert Louis Stevenson",
+      "description": "Scottish novelist and poet Robert Louis Stevenson, author of Treasure Island and Strange Case of Dr Jekyll and Mr Hyde, died in Samoa at age 44 after suffering a cerebral hemorrhage.",
+      "category": "Arts and Literature",
+      "significance": "Stevenson's adventure stories and psychological fiction remain widely read and have profoundly influenced popular literature and storytelling."
     }
   ]
 }

@@ -2,66 +2,61 @@
   "date": "October 27",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Mum",
-      "description": "Chrysanthemums are popular autumn-flowering plants cultivated worldwide, known for their vibrant, daisy-like flower heads that come in many colors. They symbolize longevity and joy in various cultures.",
-      "bloomingSeason": "Late September to November",
-      "location": "Temperate regions worldwide (commonly in gardens)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool autumn temperatures and is triggered to flower by shortening day length.",
+      "bloomingSeason": "Late summer to late autumn",
+      "location": "Cultivated worldwide in temperate gardens; native to East Asia (China and Japan)",
       "colors": [
-        "yellow",
-        "red",
-        "orange",
-        "white",
-        "purple"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Mums have been cultivated in China for over 2,500 years and are considered one of the Four Gentlemen in Chinese art."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and in Japan the flower is the emblem of the Imperial family and honored at the Festival of Happiness."
     },
     {
-      "name": "Bougainvillea glabra",
-      "commonName": "Paperflower Bougainvillea",
-      "description": "Bougainvillea is a hardy, evergreen climber or shrub known for its vibrant bracts that surround tiny white flowers, often seen cascading over walls and trellises in warm climates.",
-      "bloomingSeason": "Year-round in tropical and subtropical zones, peak bloom often in late fall",
-      "location": "Tropical and subtropical regions, such as South America, Mediterranean, and parts of southern USA",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like pink-lilac flowers in autumn without any leaves present. The strap-shaped leaves appear in spring and die back by summer.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Damp meadows and woodland edges of Europe, from the UK to central Europe; widely grown in gardens",
       "colors": [
-        "magenta",
-        "purple",
-        "red",
-        "orange",
-        "white",
-        "pink"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
-      "emoji": "🌺",
-      "funFact": "Bougainvillea bracts, not actual petals, are what give the plant its spectacular colors."
+      "emoji": "🪻",
+      "funFact": "Every part of the plant contains colchicine, a toxic alkaloid used in medicine to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub native to mountainous regions, it produces bell-shaped flowers in late autumn and early winter, offering color when few other plants bloom.",
-      "bloomingSeason": "October to March",
-      "location": "Alps and mountainous regions of Europe",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular subtropical tree that covers itself in clusters of trumpet-shaped lavender-blue flowers just as the leaves emerge. In the Southern Hemisphere, late October is the peak of its bloom, carpeting streets with fallen petals.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in Australia (Brisbane, Sydney, Grafton), South Africa (Pretoria), and Argentina",
       "colors": [
-        "pink",
-        "purple",
-        "white"
+        "Lavender",
+        "Violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, whose bloom signals the start of the exam season for many students."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that is one of the earliest camellias to bloom, producing fragrant, delicate single or semi-double flowers with prominent golden stamens. It attracts bees and other pollinators in late autumn when little else is blooming.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to southern Japan; grown in the southeastern United States, the UK, Australia, and New Zealand",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Winter Heath is valued for its cold hardiness and ability to bloom under snow cover."
-    },
-    {
-      "name": "Salvia greggii",
-      "commonName": "Autumn Sage",
-      "description": "A drought-tolerant shrub native to Texas and Mexico that produces tubular flowers attracting hummingbirds throughout autumn, adding vibrant color to dry landscapes.",
-      "bloomingSeason": "August to November",
-      "location": "South-central USA and Mexico",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌿",
-      "funFact": "Autumn Sage’s nectar-rich flowers are a favorite of native hummingbird species during migration."
+      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
     }
   ]
 }

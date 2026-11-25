@@ -2,36 +2,44 @@
   "date": "April 27",
   "holidays": [
     {
-      "name": "National Tell a Story Day",
-      "description": "A day dedicated to sharing tales—whether made-up or true! It's the perfect excuse to spin yarns, recount adventures, or make up bedtime stories for friends and family.",
-      "origin": "This unofficial holiday encourages creativity and oral tradition, celebrated mainly in English-speaking countries.",
-      "category": "Literary/Creative",
+      "name": "National Prime Rib Day",
+      "description": "A day for carnivores to celebrate the slow-roasted, juicy, gloriously marbled cut of beef. Expect steakhouses to roll out the au jus and horseradish in tribute.",
+      "origin": "Like many American food days, it grew out of restaurant and food-industry promotion and is listed on unofficial food holiday calendars. No single founder is clearly documented.",
+      "category": "Food Day",
+      "emoji": "🥩",
+      "funFact": "Despite the name, prime rib doesn't have to be USDA Prime grade. The name comes from the 'primal rib' section of the cow, so a Choice-grade roast can still be called prime rib."
+    },
+    {
+      "name": "Morse Code Day",
+      "description": "A day to tap out dots and dashes in honor of the code that once connected the world by telegraph. Fans send secret messages to friends, practice their SOS, and flash lights in rhythm.",
+      "origin": "It is observed on the birthday of Samuel F. B. Morse, born April 27, 1791, who co-developed Morse code and helped popularize the electric telegraph.",
+      "category": "Historical Observance",
+      "emoji": "📡",
+      "funFact": "The first long-distance telegraph message in 1844 was 'What hath God wrought,' sent from Washington, D.C. to Baltimore. Morse was also a successful painter before he turned to inventing."
+    },
+    {
+      "name": "Tell a Story Day",
+      "description": "A day to put down the phone, gather around, and spin a yarn. Tall tales, family legends, and embarrassing childhood memories are all encouraged.",
+      "origin": "It is a recurring unofficial observance promoted by storytelling and literacy enthusiasts, kept alive by libraries, teachers, and storytellers who like to share stories in person.",
+      "category": "Unofficial Celebration",
       "emoji": "📖",
-      "funFact": "The act of storytelling dates back to ancient times and is one of the oldest forms of entertainment and education."
+      "funFact": "Studies of oral traditions suggest storytelling is as old as language itself. Some Aboriginal Australian stories appear to preserve memories of sea-level changes from over 7,000 years ago."
     },
     {
-      "name": "International Guide Dog Day",
-      "description": "Celebrates the amazing work of guide dogs who assist visually impaired people around the world, highlighting their training, dedication, and the bond they share with their handlers.",
-      "origin": "Established by the Guide Dogs for the Blind organization to raise awareness and appreciation for these incredible animals.",
-      "category": "Animal Welfare/Awareness",
-      "emoji": "🐕‍🦺",
-      "funFact": "Guide dogs can answer up to 50 voice commands and obstacles, making them life-changing companions."
+      "name": "National Library Workers Day",
+      "description": "A day for thanking the people who keep the books, quiet corners, and free Wi-Fi flowing. Patrons bring thank-you notes, snacks, and book puns for the hardworking librarians.",
+      "origin": "It is observed during National Library Week in April and was launched by the American Library Association's Allied Professional Association to recognize library workers' contributions.",
+      "category": "Appreciation Day",
+      "emoji": "📚",
+      "funFact": "Modern libraries lend far more than books. Some let you borrow tools, board games, telescopes, and even fishing poles."
     },
     {
-      "name": "Shoe Leather Day",
-      "description": "Commemorates the wear and tear on shoe leather caused by frequent walking and errands, especially tied to historical stories of political campaigns or social movements requiring lots of foot travel.",
-      "origin": "Historically linked to political campaigns where candidates 'wore out their shoe leather' traveling to meet voters.",
-      "category": "Historical/Cultural",
-      "emoji": "👞",
-      "funFact": "The phrase 'wearing out one's shoe leather' is an old idiom meaning to travel extensively on foot."
-    },
-    {
-      "name": "Zipper Day",
-      "description": "Marks the anniversary of the day when the modern zipper was first patented, celebrating this often-overlooked invention that keeps our clothes together.",
-      "origin": "Honors Gideon Sundback, who improved and patented the zipper design on April 27, 1913.",
-      "category": "Invention/Technology",
-      "emoji": "🧥",
-      "funFact": "Before the zipper, people used buttons, hooks, and laces—imagine struggling with pants without a zipper!"
+      "name": "Sense of Smell Day",
+      "description": "A day to stop and smell the roses, the coffee, and the bakery down the street. It's a chance to notice how much your nose shapes your memories and your meals.",
+      "origin": "It grew out of sensory awareness and smell-loss advocacy efforts and is observed around the end of April on awareness calendars. Exact dates vary by source.",
+      "category": "Awareness Day",
+      "emoji": "👃",
+      "funFact": "Smell is closely tied to memory because scent signals travel to the brain's emotion and memory centers. That is why a whiff of something can instantly teleport you back to childhood."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "July 15",
   "holidays": [
     {
-      "name": "Give Something Away Day",
-      "description": "A whimsical day encouraging people to give something — anything! — away to brighten someone else's day and spread kindness without expecting anything in return.",
-      "origin": "Popularized by various online communities promoting acts of kindness and generosity, this day urges spontaneous giving to foster goodwill.",
-      "category": "Kindness & Charity",
+      "name": "National Pick Blueberries Day",
+      "description": "A day for heading out to the patch, filling a bucket with plump blueberries, and eating nearly as many as you pick. Peak blueberry season in much of the Northern Hemisphere makes mid-July ideal for it.",
+      "origin": "This is an unofficial food-and-farm observance that grew out of the berry-growing season and the popularity of pick-your-own farms. It has no single known founder.",
+      "category": "Food",
+      "emoji": "🫐",
+      "funFact": "Blueberries are one of the few fruits native to North America, and wild blueberries were gathered by Indigenous peoples for centuries before commercial farming began."
+    },
+    {
+      "name": "Be a Dork Day",
+      "description": "A day to let your inner nerd out with no shame. Wear the goofy outfit, tell the terrible pun, and do the happy dance in public.",
+      "origin": "This is a lighthearted unofficial observance that encourages people to embrace their quirks and stop worrying about looking cool. Its exact creator is unclear.",
+      "category": "Pop Culture",
+      "emoji": "🤓",
+      "funFact": "The word 'dork' appeared in American slang in the 1960s, and some people think it began as a variation of 'dick,' which is why it was once considered a bit rude."
+    },
+    {
+      "name": "National Give Something Away Day",
+      "description": "A day to clear out your closets and share your stuff with others. Donate, gift, or pass along something you no longer need.",
+      "origin": "This is an unofficial observance meant to encourage generosity and decluttering. It has no confirmed origin.",
+      "category": "Awareness",
       "emoji": "🎁",
-      "funFact": "Some people have reported giving away very unusual items on this day, like a single sock or a spoon, just to keep the spirit quirky and fun!"
+      "funFact": "Some cultures practice a tradition similar to this: among the Kwakwaka'wakw people, the potlatch ceremony centers on gift-giving to demonstrate status and generosity."
     },
     {
-      "name": "Gummi Worm Day",
-      "description": "Dedicated to celebrating the long, squiggly gummy worms beloved by candy enthusiasts everywhere. A sweet excuse to snack on these colorful chewy treats!",
-      "origin": "Created by candy lovers and marketers to highlight the iconic gummy worm candy originally introduced in the 1980s.",
-      "category": "Food & Candy",
-      "emoji": "🍬",
-      "funFact": "Gummi worms were originally made in Germany using beeswax and starch before American companies popularized the gelatin-based versions."
+      "name": "Respect Canada Day",
+      "description": "A day that invites Canadians and others to celebrate Canada's culture, politeness, and landscapes. It features maple-flavored everything, hockey talk, and many apologies.",
+      "origin": "This observance is attributed to a Canadian-themed awareness day that sprang up as a lighthearted way to appreciate the country, usually in the summer months.",
+      "category": "Pop Culture",
+      "emoji": "🍁",
+      "funFact": "Canada has more lakes than the rest of the world's countries combined, with an estimated 2 million of them."
     },
     {
-      "name": "Strawberry Rhubarb Pie Day",
-      "description": "Honoring the deliciously tangy and sweet strawberry rhubarb pie, a summer classic dessert that marked cooler countryside picnics and family gatherings for generations.",
-      "origin": "Inspired by the seasonal availability of strawberries and rhubarb and pie-baking traditions, this day invites baker enthusiasts to celebrate this unique flavor combo.",
-      "category": "Food & Dessert",
-      "emoji": "🥧",
-      "funFact": "Strawberry rhubarb pie reportedly dates back to the 1800s in the US, where rhubarb was prized for its tartness and medicinal properties."
-    },
-    {
-      "name": "World Youth Skills Day",
-      "description": "A global awareness day proclaimed by the United Nations to spotlight the importance of equipping young people with skills for employment, decent work, and entrepreneurship.",
-      "origin": "Established in 2014 by the UN to raise awareness about the challenges facing youth in the labor market and the need for skill development programs.",
-      "category": "Awareness & Education",
-      "emoji": "🌍",
-      "funFact": "Each year, World Youth Skills Day hosts events worldwide, from skill competitions to career fairs, celebrating the talents of young people everywhere."
+      "name": "Cow Appreciation Day",
+      "description": "A day to thank cows for the milk, cheese, ice cream, and general mooing they bring into our lives. Some fast food restaurants even offer deals if you show up dressed as a cow.",
+      "origin": "The most popular version of this was started by a fast food chain as a marketing promotion, and it spread to become a widely recognized fun day in July.",
+      "category": "Food",
+      "emoji": "🐄",
+      "funFact": "A cow can have a best friend and may get stressed when it's separated from it, and cows have been shown to have noticeably lower heart rates when they are with their preferred companions."
     }
   ]
 }

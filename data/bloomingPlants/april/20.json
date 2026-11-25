@@ -2,54 +2,62 @@
   "date": "April 20",
   "plants": [
     {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on upright stems, available in a vast range of colors and forms. In temperate Northern Hemisphere gardens, mid to late April is peak tulip season, and entire fields and public parks burst into color.",
+      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
+      "location": "Cultivated worldwide in temperate regions; famous displays in the Netherlands, Turkey, and the northern United States; native to Central Asia",
+      "colors": [
+        "red",
+        "yellow",
+        "pink",
+        "white",
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a luxury canal house, making it one of the first recorded speculative bubbles."
+    },
+    {
       "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous flowering cherry tree revered for its spectacular, fleeting clusters of fragrant pink to white blossoms that herald spring in temperate regions, especially in Japan and parts of the U.S.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, United States (Washington D.C., Pacific Northwest)",
+      "commonName": "Japanese Flowering Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of pink to white blossoms before or alongside new leaves. Late-blooming cultivars such as 'Kanzan' peak around late April, after the early Yoshino cherries have finished, particularly in cooler climates and higher elevations.",
+      "bloomingSeason": "Early to late spring (late April for late-flowering cultivars and northern or high-elevation areas)",
+      "location": "Native to Japan, Korea, and China; widely planted in Japan's northern regions such as Hokkaido, in Europe, and in North America",
       "colors": [
         "pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The bloom time of cherry blossoms is famously short, often just a week or two, marking the cultural phenomenon of 'Hanami' or flower viewing in Japan."
+      "funFact": "Cherry blossoms are central to the Japanese custom of hanami, flower viewing, a tradition that goes back over a thousand years."
     },
     {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A native woodland wildflower with mottled, trout-like leaves and bright yellow nodding flowers, blooming early spring in deciduous forests in eastern North America.",
-      "bloomingSeason": "March to May",
-      "location": "Eastern North America",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall subtropical tree producing masses of trumpet-shaped lavender-blue flowers in panicles. In parts of South Africa such as Pretoria and in some tropical highland areas, and in certain northern-hemisphere subtropics, flowering begins in spring, while in the Southern Hemisphere autumn some trees can have sporadic flowering.",
+      "bloomingSeason": "Spring in the tropics and subtropics (varies by hemisphere; sporadic bloom around April in some regions)",
+      "location": "Native to South America (Argentina, Bolivia); planted in Africa, Australia, and the southern US",
       "colors": [
-        "yellow"
+        "lavender",
+        "blue",
+        "purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Trout lilies reproduce both by seed and through underground bulbs, allowing them to form extensive colonies over time."
+      "emoji": "💜",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because tens of thousands of these trees line its streets and carpet them in purple petals."
     },
     {
-      "name": "Magnolia liliiflora",
-      "commonName": "Mulan Magnolia",
-      "description": "A Chinese native deciduous magnolia with large, tulip-shaped magenta to purple flowers appearing early spring before the leaves fully unfurl.",
-      "bloomingSeason": "April to May",
-      "location": "China, cultivated worldwide in temperate gardens",
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial producing nodding, bell-shaped, fragrant flowers on one side of an arching stem. Ancient woodlands in the British Isles become carpeted with blue as the bluebells reach their peak in late April.",
+      "bloomingSeason": "Mid-April to May",
+      "location": "Native to Western Europe, especially the United Kingdom, Ireland, France, and Spain; found in ancient woodlands",
       "colors": [
-        "purple",
-        "magenta"
+        "violet-blue",
+        "white",
+        "pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Magnolias are among the oldest flowering plant lineages, existing for over 95 million years."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree with cylindrical flower spikes made up of hundreds of tiny yellow flowers, blooming from late summer to winter but also sporadically in autumn and spring depending on the region.",
-      "bloomingSeason": "Varies by region; often including April",
-      "location": "Eastern Australia",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers are an important nectar source for birds like honeyeaters in Australian ecosystems."
+      "emoji": "🔔",
+      "funFact": "The United Kingdom holds around half of the world's bluebell population, and it is illegal to dig up wild bluebells there."
     }
   ]
 }

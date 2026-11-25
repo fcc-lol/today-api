@@ -2,59 +2,60 @@
   "date": "May 13",
   "plants": [
     {
-      "name": "Laburnum anagyroides",
-      "commonName": "Golden Chain Tree",
-      "description": "A deciduous tree known for its stunning, pendulous racemes of bright yellow flowers that create a 'golden chain' effect, commonly used as an ornamental in gardens.",
-      "bloomingSeason": "Late April to May",
-      "location": "Europe, temperate regions",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub with dense, cone-shaped clusters of intensely fragrant flowers. It thrives in temperate climates with cold winters and is a classic feature of cottage gardens and old homesteads.",
+      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
+      "location": "Native to the Balkan Peninsula; widely cultivated across North America, Europe, and temperate Asia",
       "colors": [
-        "yellow"
+        "Lilac",
+        "Purple",
+        "White",
+        "Pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Despite its beauty, all parts of the Laburnum are toxic if ingested, containing cytisine."
+      "emoji": "💜",
+      "funFact": "Lilacs can live for over 100 years and often persist at abandoned homesites long after the buildings are gone."
     },
     {
-      "name": "Rhododendron spp.",
-      "commonName": "Rhododendron",
-      "description": "A large genus of woody plants, including azaleas, known for their large, showy clusters of bell-shaped flowers. Many species bloom in spring.",
-      "bloomingSeason": "April to June (varies by species)",
-      "location": "Asia, North America, Europe",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, showy, often fragrant blooms atop sturdy stems with glossy, deeply cut foliage. Flowers range from single to fully double forms and make popular cut flowers.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to Siberia, Mongolia, and northern China; cultivated in gardens throughout temperate regions worldwide",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "purple"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendrons contain grayanotoxins which can be toxic to humans and animals if ingested."
+      "funFact": "Peonies can live and bloom for more than 50 years in the same spot, and ants are often seen on the buds feeding on sugary nectar."
     },
     {
-      "name": "Magnolia sieboldii",
-      "commonName": "Oyama Magnolia",
-      "description": "A deciduous shrub or small tree producing delicate white flowers with purple interiors, prized for its late spring blooming period.",
-      "bloomingSeason": "May to June",
-      "location": "East Asia (China, Korea, Japan)",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, it blooms in late spring, carpeting streets with fallen petals.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in Mediterranean, subtropical regions of California, Florida, Mexico, and Egypt",
       "colors": [
-        "white",
-        "purple"
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees earned it the nickname 'Jacaranda City' and falling blossoms are said to bring good luck."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific Rhododendron",
+      "description": "An evergreen shrub with leathery leaves and large rounded trusses of bell-shaped flowers. It grows in the understory of coniferous forests and is the state flower of Washington.",
+      "bloomingSeason": "Mid spring to early summer (April to June)",
+      "location": "Pacific Northwest of North America, from British Columbia to northern California",
+      "colors": [
+        "Pink",
+        "Rose-purple"
       ],
       "emoji": "🌺",
-      "funFact": "The Oyama Magnolia was named after the German botanist Philipp Franz von Siebold who studied Japanese flora."
-    },
-    {
-      "name": "Delphinium elatum",
-      "commonName": "Delphinium",
-      "description": "A tall, stately perennial known for its spiked racemes of blue, purple, pink, or white flowers, popular in temperate garden borders.",
-      "bloomingSeason": "May to July",
-      "location": "Europe, Asia, cultivated worldwide",
-      "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Delphiniums have pollen presented on a structure resembling a dolphin, which is the origin of their name."
+      "funFact": "Washington state chose this species as its state flower in 1892, when women voters selected it at the World's Fair in Chicago, even before they could vote in general elections."
     }
   ]
 }

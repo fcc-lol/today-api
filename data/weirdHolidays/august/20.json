@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Radio Day",
-      "description": "A day to celebrate the invention and impact of the radio, honoring the technology that revolutionized communication and entertainment.",
-      "origin": "National Radio Day was inspired by the birthdate of inventor Guglielmo Marconi, credited with pioneering radio technology in the late 19th century.",
-      "category": "Technology & Communication",
+      "description": "A day to tune in and celebrate the humble radio, from crackly car stereos to late-night call-in shows. Fans are encouraged to dust off an old transistor and find a station they have never heard before.",
+      "origin": "Observed in the United States on August 20, a date linked to the first radio news broadcast, which aired from Detroit station 8MK (now WWJ) in 1920. Radio fans and broadcasters keep the tradition alive informally.",
+      "category": "Pop Culture / Media",
       "emoji": "📻",
-      "funFact": "The first radio broadcast is often attributed to 1906, and today, radio reaches over 95% of the US population weekly!"
+      "funFact": "WWJ's 1920 election-night broadcast is often called the first commercial news radio program, and it reached only a few hundred homes with receivers."
+    },
+    {
+      "name": "National Chocolate Pecan Pie Day",
+      "description": "A day for pie lovers to combine two great flavors in one gooey, nutty slice. Bakers and dessert fans mark it by making the pie or ordering it at diners.",
+      "origin": "This is an unofficial food holiday that appears on American food-holiday calendars. Its exact founder is unclear, and it grew through food bloggers and bakeries sharing it online.",
+      "category": "Food",
+      "emoji": "🥧",
+      "funFact": "Pecan pie is often tied to the American South, and a common story says corn syrup recipes spread widely after corn syrup makers printed them on labels in the 20th century."
     },
     {
       "name": "World Mosquito Day",
-      "description": "Commemorates the discovery that female mosquitoes transmit malaria, raising awareness about mosquito-borne diseases and prevention efforts.",
-      "origin": "Observed since 1897, the day marks Dr. Ronald Ross's discovery of the malaria parasite in the stomach of a mosquito in 1897.",
-      "category": "Health & Awareness",
+      "description": "A day that sounds like a joke but carries a serious message. It raises awareness about mosquito-borne diseases such as malaria and the science behind fighting them.",
+      "origin": "Founded in 1897 when British doctor Sir Ronald Ross discovered that female Anopheles mosquitoes transmit malaria to humans. He called it 'Mosquito Day' and it is still observed by health groups and scientists.",
+      "category": "Awareness Day",
       "emoji": "🦟",
-      "funFact": "Mosquitoes are considered the deadliest animals on Earth due to the spread of diseases causing millions of deaths annually."
+      "funFact": "Only female mosquitoes bite, because they need the protein in blood to develop their eggs. Males feed on nectar."
     },
     {
-      "name": "National Senior Citizens Day (Philippines)",
-      "description": "A Filipino observance to honor and appreciate the contributions and hard work of senior citizens in society.",
-      "origin": "Established by the Philippine government to promote respect and care for the elderly population.",
-      "category": "Social Awareness",
-      "emoji": "👵👴",
-      "funFact": "The Philippines celebrates this day with activities encouraging young people to connect with senior citizens and share life stories."
+      "name": "International Day of Remembrance of and Tribute to the Victims of Terrorism",
+      "description": "Not a quirky celebration but a solemn observance, included here as an official UN day that falls on a date known for odd holidays. It honors victims and survivors and encourages support for them.",
+      "origin": "Established by the United Nations General Assembly in 2017, with the date set as August 21. Because it is observed right after August 20's mosquito and radio festivities, some calendars list the two days together.",
+      "category": "Official Observance",
+      "emoji": "🕊️",
+      "funFact": "This is one of the few UN days created specifically to center on the voices and needs of survivors and victims' families."
     },
     {
-      "name": "National Lemonade Day",
-      "description": "A fun day dedicated to the refreshing and zesty drink beloved especially during hot summer days—lemonade!",
-      "origin": "Started as a fun way to encourage kids to run lemonade stands and learn about entrepreneurship, money management, and community involvement.",
-      "category": "Food & Drink",
-      "emoji": "🍋🍹",
-      "funFact": "Lemonade dates back to ancient Egypt around 1000 AD, making it one of the oldest known drinks!"
+      "name": "Hungary's St. Stephen's Day",
+      "description": "Hungary's national day mixes fireworks, fresh bread blessings, and parades. The Danube lights up with one of Europe's biggest fireworks displays.",
+      "origin": "It honors Stephen I, the first king of Hungary, crowned around 1000 AD. The day celebrates the founding of the Hungarian state and is also called the Feast of the New Bread.",
+      "category": "Cultural / National Holiday",
+      "emoji": "🎆",
+      "funFact": "The Holy Right Hand, the mummified hand of King Stephen, is carried in a procession through Budapest on the day."
     }
   ]
 }

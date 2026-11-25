@@ -2,32 +2,39 @@
   "date": "February 13",
   "events": [
     {
-      "year": 1542,
-      "title": "Execution of Catherine Howard, Queen of England",
-      "description": "Catherine Howard, the fifth wife of King Henry VIII, was executed for treason and adultery.",
-      "category": "Political/Monarchy",
-      "significance": "Her execution highlighted the perilous nature of Henry VIII's reign and the instability of the English monarchy during that period."
+      "year": 1633,
+      "title": "Galileo Arrives in Rome for Inquisition Trial",
+      "description": "Galileo Galilei arrived in Rome to face the Roman Inquisition over his book Dialogue Concerning the Two Chief World Systems, which defended the heliocentric model of Copernicus. He was tried later that year and forced to recant.",
+      "category": "Science",
+      "significance": "The trial became a landmark episode in the conflict between scientific inquiry and religious authority, and it remains a symbol of the struggle for intellectual freedom."
     },
     {
-      "year": 1689,
-      "title": "William and Mary Crowned as Monarchs of England",
-      "description": "William III and Mary II were crowned joint sovereigns of England, marking the beginning of a constitutional monarchy after the Glorious Revolution.",
-      "category": "Political",
-      "significance": "Their coronation established parliamentary supremacy and limited the powers of the monarchy, influencing the future of democratic governance in Britain."
+      "year": 1542,
+      "title": "Execution of Catherine Howard",
+      "description": "Catherine Howard, the fifth wife of King Henry VIII of England, was beheaded at the Tower of London after being convicted of treason under a Bill of Attainder for adultery.",
+      "category": "Politics",
+      "significance": "Her fall highlighted the dangers of Tudor court politics and the absolute power of Henry VIII, and it shaped the succession politics that led to his later marriages."
     },
     {
       "year": 1945,
-      "title": "Bombing of Dresden in World War II Ends",
-      "description": "The Allied bombing campaign against the German city of Dresden concluded after three days of intense aerial bombardment.",
-      "category": "Military/War",
-      "significance": "The bombing caused massive destruction and civilian casualties, stirring post-war debates on the ethics of strategic bombing."
+      "title": "Bombing of Dresden Begins",
+      "description": "On the night of February 13-14, British and American bomber forces began a massive air raid on the German city of Dresden. Firestorms destroyed much of the historic city center and killed an estimated 25,000 people.",
+      "category": "War",
+      "significance": "The bombing remains one of the most controversial Allied actions of World War II, prompting enduring debate about the morality and military necessity of strategic bombing."
     },
     {
-      "year": 1960,
-      "title": "First Playboy Club Opens in Chicago",
-      "description": "Hugh Hefner opened the first Playboy Club featuring Playboy Bunnies, blending entertainment and dining with a new nightlife concept.",
-      "category": "Cultural/Social",
-      "significance": "The club marked a significant moment in American pop culture and the sexual revolution of the 1960s."
+      "year": 1945,
+      "title": "Budapest Falls to the Soviet Army",
+      "description": "After a siege of about 50 days, Soviet forces took control of Budapest, ending the German and Hungarian defense of the city. The siege caused heavy civilian casualties and extensive destruction.",
+      "category": "War",
+      "significance": "The capture of Budapest opened the way for Soviet advances into Austria and southern Germany and marked a major step toward Soviet domination of Hungary after the war."
+    },
+    {
+      "year": 2000,
+      "title": "Final Original Peanuts Strip Is Published",
+      "description": "The last original daily-format Peanuts comic strip by Charles M. Schulz was published, and the final Sunday strip ran the following day, shortly after his death on February 12, 2000.",
+      "category": "Culture",
+      "significance": "It marked the end of one of the most influential and widely read comic strips in history, which ran for nearly 50 years and shaped popular culture worldwide."
     }
   ]
 }

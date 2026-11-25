@@ -2,62 +2,60 @@
   "date": "September 17",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy North American wildflower with bright yellow ray florets and a dark brown central cone. Commonly found in prairies and meadows, it attracts pollinators like bees and butterflies.",
-      "bloomingSeason": "July to October",
-      "location": "North America (Temperate regions)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in autumn, without any leaves present. The leaves emerge the following spring and die back by summer. All parts are highly toxic.",
+      "bloomingSeason": "Late summer to autumn (September to October in the Northern Hemisphere)",
+      "location": "Meadows and woodland edges of Europe; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans were named after the resemblance of their dark centers to a pupil surrounded by yellow petals."
-    },
-    {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, showy flowers that bloom all year round in warm climates, but prominently during late summer into autumn. Flowers come in a range of vibrant colors.",
-      "bloomingSeason": "Year-round in tropical climates, peaks in late summer to autumn",
-      "location": "Tropical and subtropical Asia, cultivated worldwide in warm regions",
-      "colors": [
-        "red",
-        "pink",
-        "orange",
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Each hibiscus flower typically lasts only a single day, opening in the morning and closing by sunset."
-    },
-    {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "Originating from Mexico, dahlias are tuberous plants that bloom in late summer to autumn. They have diverse flower forms and colors, making them popular in ornamental gardens.",
-      "bloomingSeason": "July to October",
-      "location": "Mexico and Central America; widely cultivated worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "purple",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌸",
-      "funFact": "Dahlias were declared the national flower of Mexico in 1963."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and in plant breeding to induce chromosome doubling. Its leafless blooming earned it the nickname 'naked ladies'."
     },
     {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A tall, perennial wildflower with bright yellow plume-like clusters of flowers. It blooms in late summer through autumn and is common in meadows and along roadsides in temperate North America.",
-      "bloomingSeason": "August to October",
-      "location": "North America, especially Canada and northern U.S.",
+      "description": "A tall perennial forming dense clumps topped with plumes of tiny golden-yellow flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects preparing for winter or migration.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "Native to North America in meadows, roadsides, and prairies; naturalized in Europe and Asia",
       "colors": [
-        "yellow"
+        "Golden yellow"
       ],
-      "emoji": "💛",
-      "funFact": "Goldenrod pollen is heavy and sticky and is not a major cause of hay fever; ragweed pollen, which blooms at the same time, is the real culprit."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time but has airborne pollen; goldenrod pollen is heavy and sticky and spread by insects."
+    },
+    {
+      "name": "Chrysanthemum x morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A widely cultivated perennial with daisy-like to pompon-shaped flower heads in many forms. Its blooming is triggered by shortening day length, making it a classic autumn flower in gardens and florists' shops.",
+      "bloomingSeason": "Early autumn to early winter (September to November in the Northern Hemisphere)",
+      "location": "Originated in East Asia (China and Japan); cultivated worldwide",
+      "colors": [
+        "Yellow",
+        "Orange",
+        "Red",
+        "White",
+        "Purple",
+        "Pink"
+      ],
+      "emoji": "🏵️",
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the emblem of the Japanese Imperial family and the subject of Japan's annual Chrysanthemum Festival."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub with feathery-looking foliage that covers itself in fragrant, fluffy golden flower balls in late winter and spring, as the Southern Hemisphere warms up.",
+      "bloomingSeason": "Late winter to spring (July to October in the Southern Hemisphere)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

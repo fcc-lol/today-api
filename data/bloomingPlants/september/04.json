@@ -2,59 +2,57 @@
   "date": "September 4",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial or biennial native to North America, recognized for its bright yellow ray florets surrounding a dark brown cone-shaped center. Black-eyed Susans thrive in late summer to early fall, attracting butterflies and bees.",
-      "bloomingSeason": "July to October",
-      "location": "Eastern and Central North America, cultivated worldwide",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large golden flower head made of many small florets surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, and the plant is widely grown for seeds, oil and ornamental use.",
+      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
+      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia and Argentina",
       "colors": [
         "yellow",
-        "brown"
+        "gold",
+        "orange",
+        "burgundy"
       ],
       "emoji": "🌻",
-      "funFact": "Black-eyed Susans are the state flower of Maryland and symbolize encouragement and motivation."
+      "funFact": "Young sunflower buds exhibit heliotropism, following the sun from east to west each day, but mature flower heads stop moving and typically face east."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "An evergreen shrub or small tree native to East Asia, famous for its large, striking flowers that bloom year-round in tropical and subtropical climates. Flowers typically last a day but the plant continuously produces new blooms.",
-      "bloomingSeason": "Year-round in tropical regions, including September",
-      "location": "Tropical and subtropical regions worldwide, native to East Asia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up pink-lilac, crocus-like flowers in late summer and early autumn without any leaves present. The leaves appear the following spring and die back by early summer.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Meadows and woodland edges in Europe, from the British Isles to central Europe; grown in gardens in temperate zones worldwide",
       "colors": [
-        "red",
-        "pink",
-        "orange",
-        "yellow",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "The hibiscus flower is the national flower of Malaysia and is also used in herbal teas."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A perennial wildflower native to eastern and central North America, noted for its large purple petals and spiny central cone. It blooms from midsummer to early fall and is valued for medicinal properties and for attracting pollinators.",
-      "bloomingSeason": "June to September",
-      "location": "North America, cultivated worldwide",
-      "colors": [
-        "purple",
-        "pink"
+        "pale pink",
+        "lilac",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea has been traditionally used to boost the immune system and as a remedy for colds."
+      "funFact": "The plant contains colchicine, a toxic compound used in medicine to treat gout, and by plant breeders to induce chromosome doubling. It is often called 'naked ladies' because the flowers appear without leaves."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern coastal Australia known for its fern-like leaves and vibrant orange to golden flower clusters that bloom from late winter through early fall in warmer climates.",
-      "bloomingSeason": "August to October",
-      "location": "Eastern Australia, also cultivated in subtropical to tropical regions",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub with feathery blue-green foliage that covers itself in fragrant, fluffy golden-yellow flower balls. Its flowering marks the end of winter in Australia.",
+      "bloomingSeason": "Late winter to early spring (August to October) in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia, New South Wales and the Australian Capital Territory",
       "colors": [
-        "orange",
-        "yellow"
+        "golden yellow"
       ],
-      "emoji": "🌿",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but belongs to the Proteaceae family."
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, clump-forming perennial of meadows and roadsides that produces dense, arching plumes of tiny golden flower heads. It is an important late-season nectar and pollen source for bees, butterflies and other insects.",
+      "bloomingSeason": "Late summer to autumn (July to October)",
+      "location": "Native to North America, from Canada through the eastern and central United States; naturalized in Europe and Asia",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "💛",
+      "funFact": "Goldenrod is often wrongly blamed for hay fever, but its pollen is heavy and sticky and insect-carried. Ragweed, which blooms at the same time, is the real culprit."
     }
   ]
 }

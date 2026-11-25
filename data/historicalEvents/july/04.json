@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1776,
-      "title": "Adoption of the Declaration of Independence",
-      "description": "The Continental Congress formally adopted the Declaration of Independence, announcing the thirteen American colonies as independent states and no longer a part of the British Empire.",
-      "category": "Political",
-      "significance": "Marked the birth of the United States of America and its foundation as a sovereign nation."
+      "title": "United States Declaration of Independence Adopted",
+      "description": "The Second Continental Congress formally adopted the Declaration of Independence in Philadelphia, drafted primarily by Thomas Jefferson, announcing that the thirteen American colonies regarded themselves as independent states no longer under British rule.",
+      "category": "Politics",
+      "significance": "Marked the birth of the United States and became a foundational statement of Enlightenment ideals of liberty and self-government. July 4 is celebrated annually as Independence Day."
     },
     {
       "year": 1826,
-      "title": "Deaths of John Adams and Thomas Jefferson",
-      "description": "Both John Adams and Thomas Jefferson, the second and third Presidents of the United States and key figures in American independence, died on the same day, the 50th anniversary of the Declaration of Independence.",
-      "category": "Biographical",
-      "significance": "Symbolically significant as it connected two founding fathers to the anniversary of America's birth."
+      "title": "Deaths of Thomas Jefferson and John Adams",
+      "description": "On the 50th anniversary of the Declaration of Independence, both Thomas Jefferson and John Adams died within hours of each other. Adams reportedly said 'Thomas Jefferson survives,' unaware that Jefferson had died earlier that day.",
+      "category": "Death",
+      "significance": "The coincidence of two founding fathers and former presidents dying on the nation's jubilee was seen by many Americans as a sign of divine providence and deepened the mythology of the founding generation."
     },
     {
-      "year": 1881,
-      "title": "Inauguration of the New York Statue of Liberty's Pedestal",
-      "description": "Construction on the pedestal of the Statue of Liberty was completed, setting the stage for the statue's installation and eventual dedication in 1886.",
-      "category": "Cultural",
-      "significance": "The statue later became a global symbol of freedom and democracy, celebrating American ideals."
+      "year": 1863,
+      "title": "Fall of Vicksburg and Confederate Retreat from Gettysburg",
+      "description": "Confederate forces under General John C. Pemberton surrendered Vicksburg, Mississippi, to Union General Ulysses S. Grant after a lengthy siege. The same day, Robert E. Lee's Army of Northern Virginia began retreating from Gettysburg following three days of battle.",
+      "category": "War",
+      "significance": "The Union gained control of the Mississippi River, splitting the Confederacy in two. Together with Gettysburg, these events marked a decisive turning point in the American Civil War."
     },
     {
-      "year": 1960,
-      "title": "First Launch of Echo 1 Satellite",
-      "description": "The United States launched Echo 1, the first passive communications satellite, to reflect telephone signals, marking an advancement in satellite technology.",
-      "category": "Scientific/Technological",
-      "significance": "Pioneered satellite communications, influencing modern telecommunications and global connectivity."
+      "year": 1934,
+      "title": "Death of Marie Curie",
+      "description": "Marie Curie, the Polish-French physicist and chemist who pioneered research on radioactivity, died in Passy, France, of aplastic anemia likely caused by prolonged exposure to radiation.",
+      "category": "Death",
+      "significance": "Curie was the first woman to win a Nobel Prize and the only person to win in two different scientific fields (Physics and Chemistry). Her work laid the foundation for modern nuclear physics and cancer treatment."
+    },
+    {
+      "year": 1997,
+      "title": "Mars Pathfinder Lands on Mars",
+      "description": "NASA's Mars Pathfinder spacecraft landed on the Martian surface and deployed the Sojourner rover, the first wheeled vehicle to operate on another planet.",
+      "category": "Science and Technology",
+      "significance": "The mission demonstrated low-cost planetary exploration and returned a wealth of data and images, paving the way for later Mars rover missions."
     }
   ]
 }

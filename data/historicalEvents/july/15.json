@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1099,
-      "title": "Capture of Jerusalem during the First Crusade",
-      "description": "Crusaders captured Jerusalem after a difficult siege, establishing the Kingdom of Jerusalem.",
-      "category": "Military/Religious",
-      "significance": "Marked a pivotal moment in the First Crusade, impacting Christian-Muslim relations for centuries."
-    },
-    {
-      "year": 1789,
-      "title": "The French National Constituent Assembly adopts the Declaration of the Rights of Man and of the Citizen",
-      "description": "The French National Constituent Assembly formally adopted a fundamental document defining individual and collective rights during the French Revolution.",
-      "category": "Political/Legal",
-      "significance": "Laid the groundwork for modern human rights and democratic principles."
-    },
-    {
-      "year": 1834,
-      "title": "The Spanish Inquisition is officially disbanded",
-      "description": "The Spanish government abolished the Spanish Inquisition, ending centuries of religious persecution.",
-      "category": "Religious/Legal",
-      "significance": "Signified the decline of religious intolerance and a move toward modernization in Spain."
-    },
-    {
-      "year": 1918,
-      "title": "Second Battle of the Marne begins",
-      "description": "Allied forces launched a major counteroffensive against German troops in the Second Battle of the Marne during World War I.",
+      "title": "Crusaders Capture Jerusalem",
+      "description": "During the First Crusade, forces led by Godfrey of Bouillon and Raymond of Toulouse breached the walls of Jerusalem after a roughly five-week siege and took the city from the Fatimid Caliphate. The capture was followed by a massacre of many of the city's inhabitants.",
       "category": "Military",
-      "significance": "Marked the turning point leading to the Allied victory in World War I."
+      "significance": "The fall of Jerusalem marked the climax of the First Crusade and led to the establishment of the Kingdom of Jerusalem and other Crusader states, shaping Christian-Muslim relations in the Levant for generations."
     },
     {
-      "year": 1974,
-      "title": "Birth of Amazon under the name Cadabra",
-      "description": "Jeff Bezos founded Amazon initially as Cadabra, intending to revolutionize online retail.",
-      "category": "Economic/Technological",
-      "significance": "Eventually led to the creation of the largest online retailer and significant changes in global commerce."
+      "year": 1606,
+      "title": "Birth of Rembrandt van Rijn",
+      "description": "Rembrandt Harmenszoon van Rijn was born in Leiden in the Dutch Republic. He became one of the greatest painters and printmakers in European art history, known for works such as The Night Watch and his many self-portraits.",
+      "category": "Birth",
+      "significance": "Rembrandt's mastery of light, shadow, and human emotion defined the Dutch Golden Age of painting and influenced artists for centuries."
+    },
+    {
+      "year": 1799,
+      "title": "Discovery of the Rosetta Stone",
+      "description": "French soldiers under Napoleon's Egyptian campaign, while strengthening fortifications near the town of Rashid (Rosetta), found a granodiorite stele inscribed with a decree in Egyptian hieroglyphic, Demotic, and Greek.",
+      "category": "Discovery",
+      "significance": "The stone provided the key that allowed Jean-François Champollion to decipher Egyptian hieroglyphs in the 1820s, opening up the study of ancient Egyptian civilization."
+    },
+    {
+      "year": 1815,
+      "title": "Napoleon Surrenders to the British",
+      "description": "Following his defeat at Waterloo, Napoleon Bonaparte surrendered to Captain Frederick Maitland aboard HMS Bellerophon off Rochefort, France, hoping to receive asylum in Britain.",
+      "category": "Politics",
+      "significance": "His surrender ended the Hundred Days and Napoleonic rule in France; he was exiled to the remote island of Saint Helena, where he died in 1821."
+    },
+    {
+      "year": 1965,
+      "title": "Mariner 4 Makes First Flyby of Mars",
+      "description": "NASA's Mariner 4 spacecraft passed within about 9,800 km of Mars and returned the first close-up images of another planet, 21 photographs showing a cratered surface.",
+      "category": "Science and Technology",
+      "significance": "The images revealed Mars as a cold, barren, cratered world rather than the more Earth-like planet some had imagined, transforming scientific understanding and shaping future planetary exploration."
     }
   ]
 }

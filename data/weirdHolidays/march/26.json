@@ -2,36 +2,44 @@
   "date": "March 26",
   "holidays": [
     {
-      "name": "Make Up Your Own Holiday Day",
-      "description": "A day dedicated to the joy of inventing your very own holiday and celebrating it however you like! Whether it's 'Talk Like a Pirate' Day or 'Eat Ice Cream for Breakfast' Day, today’s your chance to be a holiday creator.",
-      "origin": "This unofficial holiday emerged from the quirky spirit of holiday enthusiasts who wanted a day to unleash their creativity and fun without limits.",
-      "category": "Creative/Unusual",
-      "emoji": "🎉",
-      "funFact": "You can actually register your invented holiday online and see if it catches on with the world!"
-    },
-    {
-      "name": "Spinach Day",
-      "description": "A day to honor the humble spinach leaf – overloaded with nutrients and the secret weapon of cartoon sailor Popeye! Perfect excuse to eat a big bowl of spinach whether raw, steamed, or in a smoothie.",
-      "origin": "Observed mostly in the United States, this day celebrates the superfood qualities of spinach and encourages people to eat healthier greens.",
-      "category": "Food",
+      "name": "National Spinach Day",
+      "description": "A day to celebrate the leafy green that made Popeye's biceps bulge. Sauté it, blend it into a smoothie, or toss it in a salad, and maybe flex in the mirror afterward.",
+      "origin": "An unofficial food holiday, popularly tied to the Popeye cartoon legacy. The character first appeared in a comic strip in 1929 and later helped boost spinach sales in the United States.",
+      "category": "Food Day",
       "emoji": "🥬",
-      "funFact": "Spinach is packed with iron, but it was once mistakenly thought to have ten times more than it actually does due to a decimal point error!"
+      "funFact": "Spinach's reputation for iron is often blamed on a misplaced decimal point in an old nutrition measurement. The story is popular, though historians say it may be partly myth. Spinach does contain iron, just not nearly as much as the legend suggests."
     },
     {
-      "name": "Teacher's Day (Czech Republic and Slovakia)",
-      "description": "A day celebrating the vital role teachers play in education and society, commemorating John Amos Comenius, the father of modern education.",
-      "origin": "March 26 marks the birthday of John Amos Comenius (1592), a Czech philosopher and educator who introduced creative teaching methods and universal education.",
-      "category": "Awareness/Educational",
-      "emoji": "🍎",
-      "funFact": "Comenius invented the picture book method for teaching children, long before modern textbooks existed."
+      "name": "Make Up Your Own Holiday Day",
+      "description": "A day when you are encouraged to invent your own holiday and celebrate it however you wish. Rules are optional, and the more ridiculous the holiday, the better.",
+      "origin": "This is an unofficial, modern observance that circulates in lists of quirky holidays. It gives people permission to create their own traditions, such as National Wear Socks on Your Hands Day.",
+      "category": "Pop Culture / Silly Observance",
+      "emoji": "🎉",
+      "funFact": "Because the holiday is self-referential, anyone who celebrates it automatically celebrates it correctly. It is basically impossible to get wrong."
     },
     {
-      "name": "Purple Day for Epilepsy Awareness",
-      "description": "A day to raise awareness about epilepsy and to support those affected by this often misunderstood neurological disorder by wearing purple and sharing information.",
-      "origin": "Purple Day was started by a young Canadian girl named Cassidy Megan in 2008 to bring attention and acceptance to people living with epilepsy.",
-      "category": "Health Awareness",
+      "name": "Purple Day for Epilepsy",
+      "description": "People around the world wear purple to raise awareness about epilepsy and to show support for those living with it. Schools, workplaces, and landmarks join in with purple outfits, events, and lighting.",
+      "origin": "Founded in 2008 by Cassidy Megan, a young girl from Nova Scotia, Canada, who wanted to start a conversation about epilepsy and reduce the stigma around seizures. The day has since grown into a global movement.",
+      "category": "Awareness Day",
       "emoji": "💜",
-      "funFact": "Wearing purple on March 26 supports epilepsy awareness worldwide — purple is associated with 'calm' and 'healing' in many cultures."
+      "funFact": "Cassidy chose lavender, a flower often linked with isolation and loneliness, to symbolize how people with epilepsy can sometimes feel."
+    },
+    {
+      "name": "National Nougat Day",
+      "description": "A sweet salute to the chewy, nutty confection found in candy bars and festive treats. It is a day to enjoy nougat in all its forms, from soft and fluffy to firm and crunchy.",
+      "origin": "An unofficial candy holiday celebrated by confectionery fans. Nougat has a long history in Mediterranean and Middle Eastern sweets, with variations such as Italian torrone and Spanish turrón.",
+      "category": "Food Day",
+      "emoji": "🍫",
+      "funFact": "Nougat is traditionally made from whipped egg whites, honey or sugar syrup, and nuts. Its texture can range from soft to hard, depending on how long the sugar is cooked."
+    },
+    {
+      "name": "Prince Kuhio Day",
+      "description": "A Hawaii state holiday honoring Prince Jonah Kuhio Kalanianaole, remembered for his service to the Hawaiian people. Celebrations include parades, cultural events, and community festivities.",
+      "origin": "Prince Kuhio was born in 1871 and later served as Hawaii's delegate to the U.S. Congress. He is remembered for his work to preserve Hawaiian culture and for supporting the Hawaiian Homes Commission Act.",
+      "category": "State Holiday",
+      "emoji": "🌺",
+      "funFact": "Prince Kuhio is often called the Prince of the People, and he is one of the few royals to have a state holiday named in his honor in the United States."
     }
   ]
 }

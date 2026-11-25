@@ -2,55 +2,56 @@
   "date": "April 9",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its spectacular spring display of pale pink to white flowers, often blooming before the leaves emerge. These blossoms are central to traditional cherry blossom festivals and symbolize the transient nature of life in Japanese culture.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of Japan, Korea, China, and also cultivated in temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful deciduous tree covered in clouds of pale pink to white five-petaled blossoms that appear before the leaves emerge. It is the most widely planted ornamental cherry in Japan and a centerpiece of spring celebrations in temperate parks worldwide.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of Europe and North America",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The Japanese cherry blossom trees have over 200 different cultivars, each with distinct flower shapes and blooming times."
+      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A perennial bulbous plant producing fragrant, trumpet-shaped yellow flowers in early spring. Wild daffodils are native to woodlands and meadows, often forming natural carpets of bright yellow during blooming season.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, particularly the UK and France",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "💛",
-      "funFact": "Wild daffodils are toxic if ingested and have been used historically as insect repellents."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree with large, tulip-shaped flowers that appear on bare branches before leafing out. Its blooms range in color from white to deep pink and can emit a sweet fragrance.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated widely in temperate regions, native hybrid originally from China",
-      "colors": [
-        "white",
-        "pink"
-      ],
-      "emoji": "🌺",
-      "funFact": "Saucer magnolia is one of the first trees to bloom in early spring, making it an important nectar source for early pollinators."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An evergreen tree native to eastern Australia with cylindrical flower spikes composed of many small flowers, ranging from creamy yellow to orange. It blooms through autumn, winter and into spring, including April, providing important food for native birds and mammals.",
-      "bloomingSeason": "Autumn to Spring (March to May included)",
-      "location": "Eastern Australia coastal regions",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands, meadows, and hedgerows, and has given rise to countless garden cultivars.",
+      "bloomingSeason": "March to April in temperate Northern Hemisphere",
+      "location": "Western Europe, especially the United Kingdom, France, and Spain; naturalized in North America",
       "colors": [
         "yellow",
-        "orange"
+        "pale yellow"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksias have woody cones that open after exposure to fire, adapted to survive in fire-prone environments."
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain the alkaloid lycorine, and compounds from related Narcissus species such as galantamine are used in medicines for Alzheimer's disease."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose bare branches and even trunk burst with clusters of magenta-pink pea-like flowers before the heart-shaped leaves appear. It is a favorite of early-season pollinators and a staple of woodland edges and gardens.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central North America, from southern Ontario to Mexico",
+      "colors": [
+        "magenta",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor; they are sometimes added to salads, and the trees display cauliflory, meaning flowers grow directly from the trunk."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Not applicable - see Jacaranda alternative below",
+      "description": "Placeholder removed",
+      "bloomingSeason": "N/A",
+      "location": "N/A",
+      "colors": [
+        "N/A"
+      ],
+      "emoji": "❌",
+      "funFact": "N/A"
     }
   ]
 }

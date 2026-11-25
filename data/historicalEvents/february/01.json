@@ -2,32 +2,39 @@
   "date": "February 1",
   "events": [
     {
-      "year": 1865,
-      "title": "13th Amendment to the U.S. Constitution Passed by Congress",
-      "description": "The United States Congress passed the 13th Amendment, which abolished slavery in the US.",
-      "category": "Politics/Law",
-      "significance": "This was a monumental step toward ending slavery and promoting civil rights in the United States."
+      "year": 1884,
+      "title": "Publication of the First Fascicle of the Oxford English Dictionary",
+      "description": "The first installment of the Oxford English Dictionary, then titled A New English Dictionary on Historical Principles, was published under editor James Murray, covering words from 'A' to 'Ant'.",
+      "category": "Culture and Literature",
+      "significance": "It marked the start of the monumental project that became the definitive historical record of the English language, taking until 1928 to complete in full."
     },
     {
       "year": 1893,
-      "title": "Overthrow of the Hawaiian Monarchy",
-      "description": "A group of American and European businessmen, supported by the U.S. military, overthrew Queen Liliuokalani and took control of the Hawaiian government.",
-      "category": "Politics/Colonial History",
-      "significance": "This event led to the eventual annexation of Hawaii by the United States."
+      "title": "Edison Completes the Black Maria Studio",
+      "description": "Thomas Edison's Black Maria, the first motion picture production studio, was completed in West Orange, New Jersey. Around this time, Edison's lab also produced Fred Ott's Sneeze, one of the earliest films copyrighted in the United States.",
+      "category": "Technology and Arts",
+      "significance": "The studio laid the foundation for the American film industry and early motion picture production."
     },
     {
-      "year": 1920,
-      "title": "League of Nations Founded",
-      "description": "The League of Nations officially began operating with the aim of maintaining world peace after World War I.",
-      "category": "Diplomacy/International Relations",
-      "significance": "Though ultimately ineffective, it was the first international organization devoted to resolving conflicts peacefully and laid the groundwork for the United Nations."
+      "year": 1979,
+      "title": "Ayatollah Khomeini Returns to Iran",
+      "description": "After nearly 15 years in exile, Ayatollah Ruhollah Khomeini returned to Tehran to a massive welcome, as the Shah had left the country two weeks earlier.",
+      "category": "Politics",
+      "significance": "His return led to the collapse of the Pahlavi monarchy and the establishment of the Islamic Republic of Iran, reshaping Middle Eastern geopolitics."
     },
     {
       "year": 2003,
       "title": "Space Shuttle Columbia Disaster",
-      "description": "The Space Shuttle Columbia disintegrated upon re-entry into Earth's atmosphere, resulting in the death of all seven astronauts aboard.",
-      "category": "Science/Space Exploration",
-      "significance": "This tragedy led to a suspension of the shuttle program and significant NASA safety reforms."
+      "description": "Space Shuttle Columbia disintegrated during re-entry over Texas and Louisiana at the end of mission STS-107, killing all seven crew members. Damage from foam insulation striking the left wing during launch was the cause.",
+      "category": "Science and Exploration",
+      "significance": "The tragedy led to a major investigation, reforms in NASA safety culture, and the eventual retirement of the Space Shuttle program in 2011."
+    },
+    {
+      "year": 1865,
+      "title": "Thirteenth Amendment Passed by Congress and Signed by Lincoln",
+      "description": "President Abraham Lincoln signed the joint resolution approving the Thirteenth Amendment to the U.S. Constitution, abolishing slavery, and sent it to the states for ratification.",
+      "category": "Politics and Law",
+      "significance": "The amendment, ratified in December 1865, formally abolished slavery and involuntary servitude in the United States, except as punishment for a crime."
     }
   ]
 }

@@ -4,30 +4,37 @@
     {
       "year": 1945,
       "title": "United Nations Charter Signed",
-      "description": "Representatives of 50 countries signed the United Nations Charter in San Francisco, establishing the UN as an international organization aimed at promoting peace and cooperation.",
-      "category": "International Relations",
-      "significance": "This event marked the formal founding of the United Nations, shaping global diplomacy and international law in the post-World War II era."
+      "description": "Representatives of 50 nations signed the United Nations Charter in San Francisco at the conclusion of the United Nations Conference on International Organization. The Charter came into force on October 24, 1945, after ratification by the major founding powers.",
+      "category": "Politics",
+      "significance": "It established the UN as the main international body for promoting peace, security, human rights, and cooperation among nations after World War II."
     },
     {
-      "year": 1963,
-      "title": "President John F. Kennedy's Civil Rights Address",
-      "description": "President Kennedy delivered a landmark televised speech advocating for civil rights legislation to end racial segregation and discrimination in the United States.",
-      "category": "Politics and Society",
-      "significance": "The speech helped pave the way for the Civil Rights Act of 1964 and highlighted the federal government's commitment to civil rights."
+      "year": 1948,
+      "title": "Berlin Airlift Begins",
+      "description": "The United States, Britain, and France began airlifting food, fuel, and supplies to West Berlin after the Soviet Union blockaded land and water access to the city's western sectors. The operation continued for about 15 months.",
+      "category": "Military",
+      "significance": "The airlift was an early Cold War confrontation that ended without direct armed conflict, demonstrated Western resolve, and contributed to the formation of NATO and the division of Germany."
     },
     {
-      "year": 1974,
-      "title": "The Judgment of the Nixon Tapes Case",
-      "description": "The U.S. Supreme Court unanimously ruled in United States v. Nixon that President Nixon must release tape recordings related to the Watergate scandal.",
-      "category": "Legal and Political",
-      "significance": "This decision led to increased transparency and ultimately to Nixon's resignation, reinforcing the principle that not even the president is above the law."
+      "year": 1959,
+      "title": "St. Lawrence Seaway Opened",
+      "description": "Queen Elizabeth II and President Dwight D. Eisenhower formally opened the St. Lawrence Seaway, a system of locks and canals connecting the Atlantic Ocean to the Great Lakes.",
+      "category": "Engineering",
+      "significance": "The seaway allowed ocean-going vessels to reach the North American interior, boosting trade and industry in the Great Lakes region of Canada and the United States."
+    },
+    {
+      "year": 2000,
+      "title": "Human Genome Draft Announced",
+      "description": "U.S. President Bill Clinton and British Prime Minister Tony Blair, together with scientists Francis Collins and Craig Venter, announced the completion of a working draft of the human genome sequence.",
+      "category": "Science",
+      "significance": "The announcement marked a landmark in biology and medicine, laying the groundwork for genomic medicine, personalized treatment, and modern genetic research."
     },
     {
       "year": 2015,
-      "title": "UN Adopted the Convention on the Rights of Persons with Disabilities Optional Protocol",
-      "description": "The United Nations adopted an international treaty enhancing the protection of the rights of persons with disabilities.",
-      "category": "Human Rights",
-      "significance": "This protocol provided a mechanism for individuals or groups to report violations to the UN, advancing global disability rights."
+      "title": "Obergefell v. Hodges Decided",
+      "description": "The U.S. Supreme Court ruled 5-4 that the Fourteenth Amendment requires all states to license and recognize marriages between same-sex couples.",
+      "category": "Law",
+      "significance": "The decision legalized same-sex marriage nationwide in the United States and was a major milestone in the LGBTQ rights movement."
     }
   ]
 }

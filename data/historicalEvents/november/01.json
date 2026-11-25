@@ -2,39 +2,39 @@
   "date": "November 1",
   "events": [
     {
-      "year": 1512,
-      "title": "Michelangelo's The Last Judgment Unveiled",
-      "description": "Michelangelo's fresco The Last Judgment on the altar wall of the Sistine Chapel in Vatican City was unveiled to the public.",
-      "category": "Art and Culture",
-      "significance": "This monumental work of Renaissance art influenced Western art and religious imagery significantly."
-    },
-    {
       "year": 1755,
-      "title": "Lisbon Earthquake",
-      "description": "A massive earthquake struck Lisbon, Portugal, causing widespread destruction and fires, followed by a tsunami and an epidemic.",
+      "title": "Great Lisbon Earthquake",
+      "description": "On All Saints' Day, a massive earthquake estimated at magnitude 8.5-9.0 struck Lisbon, Portugal, followed by a tsunami and fires that destroyed much of the city and killed tens of thousands of people.",
       "category": "Natural Disaster",
-      "significance": "One of the deadliest earthquakes in history, it had profound effects on European philosophy and the development of seismology."
+      "significance": "One of the deadliest earthquakes in history, it profoundly influenced Enlightenment thought, prompting debate among philosophers such as Voltaire and Rousseau about divine providence, and it helped lay the groundwork for modern seismology."
     },
     {
-      "year": 1894,
-      "title": "Bulgaria Declares Independence from the Ottoman Empire",
-      "description": "Bulgaria proclaimed its independence from Ottoman rule, becoming a sovereign nation.",
-      "category": "Political History",
-      "significance": "Marked the decline of Ottoman influence in the Balkans and the rise of Bulgarian nationalism."
+      "year": 1512,
+      "title": "Sistine Chapel Ceiling Unveiled",
+      "description": "Michelangelo's frescoes on the ceiling of the Sistine Chapel in Vatican City were publicly unveiled by Pope Julius II after about four years of work.",
+      "category": "Arts and Culture",
+      "significance": "The ceiling, including The Creation of Adam, is regarded as a supreme achievement of High Renaissance art and has influenced Western art for centuries."
+    },
+    {
+      "year": 1950,
+      "title": "Attempted Assassination of President Harry S. Truman",
+      "description": "Two Puerto Rican nationalists, Oscar Collazo and Griselio Torresola, attempted to assassinate President Truman at Blair House in Washington, D.C. Torresola and White House police officer Leslie Coffelt were killed in the gunfight.",
+      "category": "Politics",
+      "significance": "The attack was one of the few attempts on a sitting U.S. president's life and brought attention to the Puerto Rican independence movement while prompting tighter presidential security."
     },
     {
       "year": 1952,
-      "title": "The United States Tests the First Hydrogen Bomb",
-      "description": "The United States conducted the first successful test of a hydrogen bomb, codenamed 'Ivy Mike,' on Enewetak Atoll in the Pacific Ocean.",
-      "category": "Military and Science",
-      "significance": "Represented a significant escalation in nuclear weapons technology during the Cold War."
+      "title": "United States Detonates First Hydrogen Bomb",
+      "description": "The United States tested 'Ivy Mike' at Enewetak Atoll in the Pacific, the first successful full-scale thermonuclear device, with a yield of about 10.4 megatons.",
+      "category": "Science and Technology",
+      "significance": "The test escalated the Cold War nuclear arms race, as the hydrogen bomb was hundreds of times more powerful than the atomic bombs used in 1945."
     },
     {
       "year": 1993,
-      "title": "The Maastricht Treaty Comes Into Effect",
-      "description": "The Maastricht Treaty officially established the European Union and set the stage for the introduction of the euro currency.",
-      "category": "Political and Economic History",
-      "significance": "A major step towards European integration with lasting political and economic implications."
+      "title": "Maastricht Treaty Takes Effect",
+      "description": "The Treaty on European Union came into force, formally establishing the European Union and laying the groundwork for a single currency and common foreign and security policy.",
+      "category": "Politics",
+      "significance": "It transformed the European Community into the European Union, deepening political and economic integration across Europe and paving the way for the euro."
     }
   ]
 }

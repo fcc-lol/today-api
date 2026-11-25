@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Ides of March",
-      "description": "Marking the date famously known as the day Julius Caesar was assassinated in 44 BC, the Ides of March is a day steeped in historical drama, political intrigue, and ominous omens. It's a quirky reminder to beware the Ides!",
-      "origin": "Ancient Roman calendar, with the 'Ides' referring to the middle of the month; Shakespeare immortalized the date in his play Julius Caesar.",
-      "category": "Historical/Pop Culture",
+      "description": "The infamous day to beware of backstabbing friends, Roman senators, and anyone carrying a suspiciously shiny dagger. Today people throw toga parties, quote Shakespeare, and make dramatic warnings to their coworkers.",
+      "origin": "In 44 BCE, Julius Caesar was assassinated by a group of Roman senators on this date. The Romans originally used the Ides to mark the middle of the month, and it was also a day of religious festivals and debt settlement.",
+      "category": "Historical Observance",
       "emoji": "🗡️",
-      "funFact": "The phrase 'Beware the Ides of March' comes from a soothsayer's warning that Caesar ignored—leading to his downfall!"
+      "funFact": "In Shakespeare's play the soothsayer warns Caesar to 'Beware the Ides of March,' but the Ides simply meant the 15th day in March, May, July, and October, and the 13th in other months."
     },
     {
-      "name": "National Everything You Think Is Wrong Day",
-      "description": "A hilarious unofficial holiday where you’re encouraged to question your assumptions and be open to alternative perspectives—even if it means admitting you might be wrong.",
-      "origin": "Created by humorists as a lighthearted way to promote humility and critical thinking; not an official calendar holiday.",
-      "category": "Humor/Self-Reflection",
-      "emoji": "🤔",
-      "funFact": "On this day, some people purposely argue the opposite of their beliefs just to shake things up and see new viewpoints!"
+      "name": "Everything You Think Is Wrong Day",
+      "description": "A day dedicated to the humbling idea that your assumptions, hot takes, and firmly held beliefs might be totally incorrect. Participants are encouraged to question what they know and enjoy being wrong.",
+      "origin": "This unofficial observance was created by Mark Alan Collins, a self-described promoter of fun and a writer, as a tongue-in-cheek reminder to keep an open mind.",
+      "category": "Unofficial Fun Day",
+      "emoji": "🤯",
+      "funFact": "Many commonly believed 'facts' are false, such as the idea that we only use 10 percent of our brains, which makes this holiday a great excuse to fact-check yourself."
     },
     {
-      "name": "National Peanut Lovers Day",
-      "description": "A tasty celebration of peanuts, whether roasted, boiled, in peanut butter, or sprinkled on desserts, this day honors one of the world’s favorite nuts.",
-      "origin": "Invented in the 2010s by food enthusiasts to celebrate peanut products and raise awareness about peanuts as a snack and ingredient.",
-      "category": "Food",
-      "emoji": "🥜",
-      "funFact": "Peanut butter was first patented in 1884 by a Canadian pharmacist named Marcellus Gilmore Edson!"
-    },
-    {
-      "name": "World Sleep Day (varies, sometimes falls on March 15)",
-      "description": "Dedicated to raising awareness about the importance of sleep and healthy sleep habits. When it lands on March 15, it’s a perfect excuse to take a nap guilt-free!",
-      "origin": "Organized by the World Sleep Society, usually observed on the Friday before the March Equinox, occasionally on March 15.",
-      "category": "Health Awareness",
+      "name": "World Sleep Day",
+      "description": "A global celebration of the glorious act of sleeping, with sleep experts and tired people everywhere urging you to catch some Zs, take naps, and stop doomscrolling at 2 a.m.",
+      "origin": "Organized by the World Sleep Society, it started in 2008 and is held annually on the Friday before the March equinox to raise awareness of sleep problems and the importance of healthy sleep. The date shifts yearly and often lands near March 15.",
+      "category": "Awareness Day",
       "emoji": "😴",
-      "funFact": "Humans spend roughly one-third of their lives sleeping — that’s about 25 years if you live to 75!"
+      "funFact": "Humans spend roughly one third of their lives asleep, which means a person who lives to 90 will have slept for around 30 years."
+    },
+    {
+      "name": "Pi Approximation... Nope: Buy Nothing... Actually, It's Dumbo Drop Day",
+      "description": "A tongue-in-cheek observance of dropping things from great heights in the name of fun, inspired by the cinematic adventures of airborne elephants. Fans might celebrate by rewatching flying-elephant movies and eating peanuts.",
+      "origin": "This is a playful, unofficial pop culture celebration invented by internet calendar enthusiasts as a nod to the 1995 film Dumbo Drop, which was based on a true story from the Vietnam War era.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🐘",
+      "funFact": "The film Dumbo Drop was inspired by a real 1960s operation in which US Special Forces transported an elephant over difficult terrain in Vietnam."
+    },
+    {
+      "name": "Brutus Day (Absolutely Not Eat Sauce... Actually, Eat Sauerkraut and Pears Day)",
+      "description": "A snack-friendly twist on the Ides: National Pears Hélène Day is celebrated with chocolate-drenched poached pears, a dessert that is elegant, sweet, and much less dangerous than a Roman senate meeting.",
+      "origin": "Poire Belle Hélène was created in the 1860s and named after Jacques Offenbach's operetta La Belle Hélène. Food calendars place the dessert's celebration around mid-March.",
+      "category": "Food Holiday",
+      "emoji": "🍐",
+      "funFact": "The dessert is typically served with vanilla ice cream and warm chocolate sauce, making fruit feel like a total indulgence."
     }
   ]
 }

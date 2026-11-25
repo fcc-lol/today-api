@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Red Planet Day",
-      "description": "Celebrate humanity's fascination with Mars, the Red Planet of our solar system. A day to admire space exploration, dream about colonizing Mars, and enjoy sci-fi stories.",
-      "origin": "Commemorates the launch of Mariner 4, the first successful flyby mission to Mars by NASA, on November 28, 1964.",
-      "category": "Space Exploration / Science",
-      "emoji": "🪐",
-      "funFact": "Mariner 4’s flyby gave Earth its first close-up pictures of Mars, revealing craters, and forever changing how we see the Red Planet."
+      "description": "A day to celebrate Mars and humanity's long fascination with the Red Planet. Space fans mark it by stargazing, watching rover footage, and daydreaming about being the first person to plant a flag on Martian soil.",
+      "origin": "Red Planet Day commemorates the launch of NASA's Mariner 4 probe on November 28, 1964. Mariner 4 went on to make the first successful flyby of Mars in July 1965 and returned the first close-up images of another planet.",
+      "category": "Science & Space",
+      "emoji": "🔴",
+      "funFact": "Mariner 4 sent back just 22 grainy photos, and each one took hours to transmit. Early scientists were so eager to see them that staff at JPL reportedly hand-colored a printout of the data with pastels before the images were fully processed."
     },
     {
       "name": "French Toast Day",
-      "description": "A delicious day to honor the sweet, eggy, and golden breakfast classic—French toast! Enjoy it with syrup, fruit, or crazy toppings.",
-      "origin": "Origin unclear, but French toast recipes date back to ancient Rome. The holiday was embraced informally by food lovers to appreciate this beloved comfort food every November 28.",
-      "category": "Food / Culinary",
+      "description": "A day to celebrate eggy, cinnamon-dusted bread fried to golden perfection. Breakfast lovers use it as an excuse to turn stale bread into something spectacular and drown it in syrup.",
+      "origin": "French toast has been around since Roman times and is mentioned in the ancient cookbook attributed to Apicius. The unofficial food holiday is observed on November 28 in the United States, with no single known founder.",
+      "category": "Food & Drink",
       "emoji": "🍞",
-      "funFact": "French toast was originally made to use stale bread, turning it into a tasty treat—waste not, want not!"
+      "funFact": "Despite the name, French toast probably isn't French. In France it is called 'pain perdu,' meaning 'lost bread,' because it rescues bread that would otherwise be lost to staleness."
     },
     {
-      "name": "American Teddy Bear Day",
-      "description": "Pay homage to the iconic teddy bear, a cuddly companion and symbol of childhood innocence and comfort.",
-      "origin": "Named after US President Theodore “Teddy” Roosevelt, stemming from a 1902 story where he refused to shoot a tied bear cub, inspiring a toy maker to create the teddy bear.",
-      "category": "Pop Culture / Toys",
-      "emoji": "🧸",
-      "funFact": "Over 30 million teddy bears are sold each year worldwide, proving these plush pals never go out of style."
+      "name": "Make Your Own Head Day",
+      "description": "A playful day for sculpting, drawing, painting, or crafting a likeness of your own head. Participants make self-portraits, clay busts, papier-mâché noggins, and other odd creations of themselves.",
+      "origin": "This quirky unofficial observance comes from the world of internet-era novelty holidays, and it encourages creative self-expression through silly art projects. Its exact originator is unclear.",
+      "category": "Arts & Crafts",
+      "emoji": "🗿",
+      "funFact": "Head sculpting has ancient roots. The Romans made portrait busts of citizens and emperors, and some of those busts were reused by chiseling a new face onto an old head when politics changed."
     },
     {
-      "name": "Give Thanks and Stuff Your Face Day",
-      "description": "An unofficial, humorous holiday encouraging people to eat as much as they want without guilt—perfect timing before Thanksgiving!",
-      "origin": "Modern internet culture created this tongue-in-cheek day to revel in gluttony and gratitude.",
-      "category": "Humor / Food",
+      "name": "Thanksgiving Leftovers Remix Day",
+      "description": "A celebration of the glorious sandwiches, casseroles, and bizarre fridge creations that appear the day after Thanksgiving. Home cooks take on the challenge of transforming turkey, stuffing, and cranberry sauce into something new.",
+      "origin": "This is a pop-culture and foodie observance that grew from the American tradition of leftover cooking after Thanksgiving. It has been popularized in cooking blogs and social media, and it falls near the end of November.",
+      "category": "Food & Drink",
       "emoji": "🦃",
-      "funFact": "This day is basically a warm-up for Thanksgiving feasts, giving everyone a ‘justification’ for extra helpings!"
+      "funFact": "The famous Friends 'Moist Maker' sandwich, a turkey sandwich with an extra gravy-soaked slice of bread in the middle, has inspired countless real-life leftover sandwich creations."
+    },
+    {
+      "name": "Independence Day in Albania",
+      "description": "Albania celebrates the declaration of its independence from the Ottoman Empire, and people fly the red flag with its black double-headed eagle. Streets fill with flags, parades, and family feasts, and many Albanians wear eagle-themed clothing.",
+      "origin": "On November 28, 1912, Ismail Qemali raised the Albanian flag in Vlorë and declared independence from Ottoman rule. The date is now a national holiday, and it is also celebrated by Albanians abroad and in Kosovo and North Macedonia.",
+      "category": "National Holiday",
+      "emoji": "🦅",
+      "funFact": "Albania's name for itself is 'Shqipëria,' often interpreted as 'Land of the Eagles,' which is why the double-headed eagle appears on its flag and why people jokingly call themselves 'sons of eagles.'"
     }
   ]
 }

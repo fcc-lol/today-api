@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1963,
-      "title": "Assassination of John F. Kennedy",
-      "description": "John F. Kennedy, the 35th President of the United States, was assassinated while riding in a motorcade in Dallas, Texas.",
+      "title": "Assassination of President John F. Kennedy",
+      "description": "U.S. President John F. Kennedy was shot and killed while riding in a motorcade through Dealey Plaza in Dallas, Texas. Lee Harvey Oswald was arrested later that day, and Vice President Lyndon B. Johnson was sworn in as president aboard Air Force One.",
       "category": "Politics",
-      "significance": "This event shocked the world and led to major changes in U.S. security protocols and policies. It also marked a pivotal moment in American history and triggered numerous conspiracy theories."
+      "significance": "The assassination shocked the nation and the world, led to the Warren Commission investigation, and remains one of the most scrutinized and debated events in American history, shaping public trust in government and the era's political direction."
     },
     {
-      "year": 1718,
-      "title": "Death of Blackbeard the Pirate",
-      "description": "Edward Teach, better known as Blackbeard, was killed in a battle with British naval forces off the coast of North Carolina.",
-      "category": "Exploration and Piracy",
-      "significance": "Blackbeard was one of the most notorious pirates of the Golden Age of Piracy, and his death marked a significant point in efforts to suppress piracy."
+      "year": 1990,
+      "title": "Margaret Thatcher Announces Resignation",
+      "description": "After failing to secure a decisive win in the first round of a Conservative Party leadership challenge, Margaret Thatcher announced she would resign as Prime Minister of the United Kingdom, ending more than eleven years in office.",
+      "category": "Politics",
+      "significance": "Her departure ended the era of the longest-serving British prime minister of the 20th century and reshaped the Conservative Party, with John Major succeeding her."
     },
     {
       "year": 1943,
-      "title": "Tehran Conference begins",
-      "description": "Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin met for the first time to discuss military strategy against Nazi Germany and post-war plans.",
-      "category": "World War II",
-      "significance": "This conference was crucial in coordinating the Allied war effort and planning for the post-war world order."
+      "title": "Lebanon Gains Independence from France",
+      "description": "Lebanon's independence was recognized after a crisis in which French Mandate authorities arrested Lebanese leaders, including President Bechara El Khoury, prompting popular protests and international pressure that led to their release.",
+      "category": "Politics",
+      "significance": "The date is celebrated as Lebanese Independence Day and marked the end of French Mandate rule, establishing the foundations of the modern Lebanese state and its National Pact power-sharing arrangement."
     },
     {
-      "year": 1497,
-      "title": "Vasco da Gama departs Lisbon for India",
-      "description": "Portuguese explorer Vasco da Gama set sail on his expedition to find a sea route to India, eventually linking Europe and Asia via ocean.",
-      "category": "Exploration",
-      "significance": "This voyage opened up direct maritime trade between Europe and Asia, reshaping the global economy and beginning a new era of overseas colonialism."
+      "year": 1980,
+      "title": "Birth of Modern-Era Milestone: Release of Rockefeller-Era... (Correction: Mexico City hosts) — Actually: Death of Mae West",
+      "description": "American actress, playwright, and screenwriter Mae West, famed for her witty double entendres and challenges to censorship, died in Los Angeles at age 87.",
+      "category": "Culture",
+      "significance": "West was a pioneering figure who pushed boundaries on gender and sexuality in Hollywood and left a lasting influence on American comedy and popular culture."
+    },
+    {
+      "year": 1963,
+      "title": "Death of Aldous Huxley and C. S. Lewis",
+      "description": "On the same day President Kennedy was assassinated, British author Aldous Huxley, writer of 'Brave New World,' and C. S. Lewis, author of 'The Chronicles of Narnia,' both died.",
+      "category": "Literature",
+      "significance": "Both deaths were overshadowed by Kennedy's assassination, yet the two authors left enduring legacies in dystopian fiction, fantasy literature, and Christian apologetics."
     }
   ]
 }

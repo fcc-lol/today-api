@@ -2,32 +2,39 @@
   "date": "April 20",
   "events": [
     {
-      "year": 1653,
-      "title": "Oliver Cromwell Dissolves the Rump Parliament",
-      "description": "Oliver Cromwell forcibly dissolved the Rump Parliament, marking a key moment in the English Civil War and leading to the establishment of the Protectorate.",
-      "category": "Political",
-      "significance": "This event was crucial in the transition of England from a monarchy to a republican commonwealth under Cromwell's rule."
-    },
-    {
       "year": 1889,
       "title": "Birth of Adolf Hitler",
-      "description": "Adolf Hitler, who would become the leader of Nazi Germany and a central figure in World War II, was born in Braunau am Inn, Austria.",
+      "description": "Adolf Hitler was born in Braunau am Inn, Austria-Hungary. He later became leader of the Nazi Party and dictator of Germany from 1933 to 1945.",
       "category": "Birth",
-      "significance": "His leadership led to significant global conflict and changes in the political landscape of the 20th century."
+      "significance": "Hitler's rise to power led to World War II and the Holocaust, one of the deadliest conflicts and worst genocides in human history, reshaping the global political order."
     },
     {
-      "year": 1912,
-      "title": "Mona Lisa is Returned to the Louvre",
-      "description": "After being stolen in 1911, the famous painting \"Mona Lisa\" by Leonardo da Vinci was recovered and returned to the Louvre Museum in Paris.",
-      "category": "Cultural",
-      "significance": "The theft and recovery of the painting brought international attention to art theft and helped solidify the Mona Lisa's fame."
+      "year": 1902,
+      "title": "Marie and Pierre Curie Isolate Radium Chloride",
+      "description": "In their laboratory in Paris, Marie and Pierre Curie succeeded in isolating radioactive salts of radium after years of processing tons of pitchblende.",
+      "category": "Science",
+      "significance": "The isolation of radium advanced the understanding of radioactivity, contributed to the development of nuclear physics, and opened the way for radiation therapy in cancer treatment."
     },
     {
       "year": 1999,
       "title": "Columbine High School Massacre",
-      "description": "Two students carried out a mass shooting at Columbine High School in Colorado, killing 12 students and 1 teacher, before committing suicide.",
+      "description": "Two students, Eric Harris and Dylan Klebold, killed 12 students and one teacher and wounded many others at Columbine High School in Colorado before taking their own lives.",
       "category": "Tragedy",
-      "significance": "This tragic event sparked national debates on gun control, school safety, and youth violence in the United States."
+      "significance": "One of the most infamous school shootings in U.S. history, it prompted nationwide debate on gun control, school security, bullying, and mental health, and changed emergency response protocols."
+    },
+    {
+      "year": 2010,
+      "title": "Deepwater Horizon Oil Rig Explosion",
+      "description": "An explosion on the Deepwater Horizon drilling rig in the Gulf of Mexico killed 11 workers and triggered a massive oil spill that lasted nearly three months.",
+      "category": "Disaster",
+      "significance": "It was the largest marine oil spill in history, causing severe environmental and economic damage along the Gulf Coast and leading to stricter offshore drilling regulations."
+    },
+    {
+      "year": 1841,
+      "title": "Publication of Edgar Allan Poe's 'The Murders in the Rue Morgue'",
+      "description": "Poe's short story, widely regarded as the first modern detective story, appeared in Graham's Magazine in April 1841, introducing the detective C. Auguste Dupin.",
+      "category": "Literature",
+      "significance": "The story established conventions of the detective fiction genre that influenced later writers such as Arthur Conan Doyle and Agatha Christie."
     }
   ]
 }

@@ -2,54 +2,59 @@
   "date": "July 8",
   "plants": [
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A tall, striking perennial lily with large, fragrant white flowers resembling trumpets. It is often cultivated in gardens for its elegant blooms and is native to the Mediterranean region.",
-      "bloomingSeason": "June to July",
-      "location": "Mediterranean Basin, cultivated worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely grown in gardens and commercial fields for its essential oil, and it attracts bees and butterflies in large numbers.",
+      "bloomingSeason": "Late June to August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "white"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Madonna Lily flowers have been symbolic in various cultures, often associated with purity and the Virgin Mary."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
     },
     {
-      "name": "Rhododendron ferrugineum",
-      "commonName": "Alpenrose",
-      "description": "A hardy evergreen shrub found in alpine regions, producing clusters of bright pink to red bell-shaped flowers. It thrives in acidic soils and is commonly found in the European Alps.",
-      "bloomingSeason": "June to July",
-      "location": "Alps, Europe",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem and a showy flower head made of golden ray florets surrounding a dark central disk of tiny florets. Young flower heads track the sun across the sky.",
+      "bloomingSeason": "Early July to September in temperate Northern Hemisphere regions",
+      "location": "Native to North America; grown across the Great Plains, Ukraine, Russia, southern France, and Argentina",
       "colors": [
-        "pink",
-        "red"
+        "yellow",
+        "gold",
+        "brown"
       ],
-      "emoji": "🌺",
-      "funFact": "The Alpenrose contains toxic compounds and was traditionally used in small doses for medicinal purposes."
+      "emoji": "🌻",
+      "funFact": "Young sunflowers follow the sun in a movement called heliotropism, but mature blooms stop moving and generally face east."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "A large aquatic plant with distinctive round leaves and showy flowers that bloom above the water surface. It is revered in many Asian cultures and features pink or white blossoms.",
-      "bloomingSeason": "June to August",
-      "location": "Asia, cultivated in water gardens worldwide",
+      "description": "An aquatic perennial whose large, round leaves rise above the water and whose showy, fragrant flowers open on tall stalks. Its water-repellent leaves stay clean, and its seed pods resemble shower heads.",
+      "bloomingSeason": "June to September in temperate Asia; peak in July",
+      "location": "Ponds and wetlands of India, China, Japan, Vietnam, and southeastern Russia; cultivated worldwide in water gardens",
       "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌼",
-      "funFact": "Sacred Lotus seeds have been known to remain viable for over 1,000 years, making them one of the longest-living seeds on record."
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C even when the surrounding air is much cooler, which helps attract pollinating beetles."
     },
     {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A woodland wildflower with drooping yellow flowers and mottled leaves resembling trout patterns. It is native to eastern North America and blooms early to mid-summer in some areas.",
-      "bloomingSeason": "April to July (varies regionally)",
-      "location": "Eastern North America",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody evergreen shrub with the largest flower head in the genus, made up of showy pink bracts surrounding a central cone of small flowers. It thrives in the nutrient-poor soils of the fynbos.",
+      "bloomingSeason": "Southern Hemisphere late autumn to spring, with peak flowering from about May to September",
+      "location": "Native to the fynbos of the southwestern and southern Cape in South Africa; its national flower",
       "colors": [
-        "yellow"
+        "pink",
+        "cream",
+        "silvery-white"
       ],
-      "emoji": "🌻",
-      "funFact": "The mottled leaves are thought to camouflage the plant among fallen leaves, protecting it from herbivores."
+      "emoji": "🌺",
+      "funFact": "Proteas are an ancient lineage that predates the breakup of Gondwana and is named after the Greek god Proteus, who could change form."
     }
   ]
 }

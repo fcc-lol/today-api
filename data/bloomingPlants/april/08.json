@@ -2,58 +2,57 @@
   "date": "April 8",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its spectacular and delicate pink or white blossoms that appear in early spring, symbolizing renewal and the transient nature of life.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, East Asia, temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A hybrid flowering cherry tree that produces dense clusters of delicate, slightly fragrant five-petaled blossoms before the leaves emerge. It is the iconic tree of hanami celebrations and is widely planted in parks and along waterways.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide; in northern Japan and higher elevations it peaks in April",
       "colors": [
-        "light pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms bloom simultaneously over large areas, creating mesmerizing 'flower clouds' known as 'sakura' in Japan."
+      "funFact": "The original Yoshino cherry trees in Washington D.C. were a gift from Tokyo in 1912, and all Yoshino cherries are thought to descend from a single original tree propagated by grafting."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia known for its large, tulip-shaped flowers that burst in early spring before the leaves unfold, adding vibrant color to gardens and parks.",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A native European perennial bulb with trumpet-shaped yellow flowers and gray-green strap-like leaves. It grows in woodlands, meadows, and grassy banks, and its many cultivars are staples of spring gardens.",
       "bloomingSeason": "March to April",
-      "location": "Temperate regions worldwide, native to China but widely cultivated",
+      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
       "colors": [
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Magnolia flowers are ancient, having existed before bees evolved, so they are primarily pollinated by beetles."
-    },
-    {
-      "name": "Eschscholzia californica",
-      "commonName": "California Poppy",
-      "description": "The state flower of California with bright, cup-shaped orange flowers that open in the morning sun and close at night or in overcast conditions.",
-      "bloomingSeason": "March to May",
-      "location": "Western North America, especially California",
-      "colors": [
-        "orange",
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "California poppies secrete a toxic alkaloid that deters some herbivores from feeding on them."
+      "funFact": "Daffodil bulbs contain lycorine and galantamine; galantamine is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub producing large clusters of tubular, bell-shaped flowers that appear in early spring, popular in temperate woodlands and gardens.",
-      "bloomingSeason": "April to May",
-      "location": "Native to Southern Europe and Western Asia, naturalized in the UK",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers burst directly from branches and trunk before heart-shaped leaves appear. It thrives in woodland edges and is a favorite native ornamental that supports early pollinators.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central United States, northern Mexico",
       "colors": [
-        "purple",
+        "magenta",
         "pink",
-        "white"
+        "purple"
       ],
-      "emoji": "🌷",
-      "funFact": "The nectar of Rhododendron ponticum contains toxins that can cause 'mad honey disease' if ingested by humans."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a tangy flavor, and the trees show cauliflory, meaning flowers grow straight from woody trunks and older branches."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Not a spring bloomer in the north, this tree is in its late-blooming tail in parts of the Southern Hemisphere and in tropical highlands, but its relative spring display in lower-latitude regions makes it a notable April bloomer in places like Kenya, northern India, and parts of Florida and the Caribbean.",
+      "bloomingSeason": "Variable: October to December in the Southern Hemisphere; April to June in the northern subtropics",
+      "location": "Native to South America; widely planted in Kenya, India, Florida, and Mediterranean-type climates",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "A carpet of fallen jacaranda blossoms is considered a spectacle in cities such as Pretoria, which is nicknamed the Jacaranda City."
     }
   ]
 }

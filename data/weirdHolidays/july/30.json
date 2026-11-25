@@ -2,36 +2,44 @@
   "date": "July 30",
   "holidays": [
     {
+      "name": "National Cheesecake Day",
+      "description": "A day devoted to the creamy, dreamy dessert that somehow gets away with being called a cake. Restaurants and bakeries often run slice specials, and home bakers wrestle with water baths and cracked tops.",
+      "origin": "An unofficial American food holiday that gained traction through restaurant promotions and social media in the 2000s. Some sources list it on July 30, though cheesecake days are also claimed on other dates.",
+      "category": "Food",
+      "emoji": "🍰",
+      "funFact": "Ancient Greeks reportedly served a form of cheesecake to athletes at the first Olympic Games in 776 BC."
+    },
+    {
       "name": "International Day of Friendship",
-      "description": "A day dedicated to celebrating the importance of friends and friendships around the world.",
-      "origin": "Established by the United Nations in 2011 to promote peace and bridge cultures through friendship.",
-      "category": "Awareness / Social",
+      "description": "A United Nations observance celebrating friendship as a force for peace, solidarity, and understanding between peoples, cultures, and individuals. It is also an excuse to text that friend you haven't talked to since 2019.",
+      "origin": "The UN General Assembly proclaimed July 30 as the International Day of Friendship in 2011, building on earlier efforts, including a 1998 Winnie the Pooh ambassador designation for friendship.",
+      "category": "Awareness Day",
       "emoji": "🤝",
-      "funFact": "It's said that a genuine friend can help reduce stress and even improve your lifespan—friends really are the family you choose!"
+      "funFact": "In 1998 the UN named Winnie the Pooh as an Ambassador of Friendship, making a honey-loving bear an honorary diplomatic figure."
+    },
+    {
+      "name": "World Day Against Trafficking in Persons",
+      "description": "Not a quirky celebration but an important awareness day that spotlights the fight against human trafficking and honors survivors and those working to end it.",
+      "origin": "The UN General Assembly designated July 30 as the World Day against Trafficking in Persons in 2013 to raise awareness of victims and promote their rights.",
+      "category": "Awareness Day",
+      "emoji": "🕊️",
+      "funFact": "The day is marked with a different theme each year, and the Blue Heart Campaign uses a blue heart symbol to represent the sadness of those trafficked."
     },
     {
       "name": "Father-in-Law Day",
-      "description": "A quirky holiday to honor the often underappreciated father-in-law and acknowledge his role in the family.",
-      "origin": "Created in 1981 by Sonora Smart Dodd, who also created Father's Day, though this one remained much more niche.",
-      "category": "Family / Social",
+      "description": "A little-known holiday honoring the dads you acquired through marriage. Perfect for grilling together, trading awkward small talk, and finally learning what he actually thinks of your driving.",
+      "origin": "An unofficial American observance that is typically celebrated on July 30 and is often promoted by greeting card and gift companies as a companion to Mother-in-Law Day in October.",
+      "category": "Family",
       "emoji": "👴",
-      "funFact": "Unlike Father's Day, Father-in-Law Day hasn't caught on widely, so wishing your father-in-law a happy day is guaranteed to surprise him!"
+      "funFact": "Despite all the sitcom jokes about in-laws, surveys frequently find that most people report getting along well with their in-laws."
     },
     {
-      "name": "Talk Like a Pirate Day",
-      "description": "A fun observance where people speak in pirate lingo, wear pirate costumes, and celebrate pirate culture with jest and humor.",
-      "origin": "Started as a joke in 1995 by friends John Baur and Mark Summers, inspired by a pirate-themed episode of a TV show.",
-      "category": "Pop Culture / Fun",
-      "emoji": "🏴‍☠️",
-      "funFact": "International Talk Like a Pirate Day has led to real piracy-themed promotions and even special offers at some bars and restaurants worldwide."
-    },
-    {
-      "name": "Cheese Slice Day",
-      "description": "A deliciously quirky day celebrating the mighty cheese slice, an essential in many sandwiches and snacks.",
-      "origin": "Created by food enthusiasts to highlight the convenience and taste of pre-sliced cheese processing.",
-      "category": "Food / Fun",
-      "emoji": "🧀",
-      "funFact": "The invention of the cheese slicer in the early 20th century in Norway was a game-changer, but the pre-sliced cheese we celebrate today became popular only in the 1950s!"
+      "name": "Hammock Day",
+      "description": "A day to lie back, sway gently, and officially do nothing. Hammock fans around the world celebrate by stringing up a swing between two trees and pretending emails do not exist.",
+      "origin": "An informal, unofficial observance created by hammock lovers and outdoor lifestyle brands, celebrating the relaxation of the humble hammock.",
+      "category": "Leisure",
+      "emoji": "🌴",
+      "funFact": "Hammocks were used by Indigenous peoples of Central and South America for centuries before sailors adopted them, and the Royal Navy later used hammocks aboard ships to save space."
     }
   ]
 }

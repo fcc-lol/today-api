@@ -2,62 +2,61 @@
   "date": "October 7",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their vibrant colors and diverse forms. In temperate regions of the Northern Hemisphere, they bloom in early to mid-autumn, often symbolizing the fall season in gardens and floral arrangements.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions of Northern Hemisphere (e.g., USA, Europe, East Asia)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn without any leaves present. The strap-like leaves emerge the following spring and die back by summer. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Europe and North Africa; naturalized in meadows and woodland edges, and widely grown in temperate gardens",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums were originally cultivated in China as a flowering herb as early as the 15th century BC."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "Grevillea robusta is a fast-growing tree native to eastern Australia. It produces bright orange, brush-like flowers that attract nectar-feeding birds and insects. It commonly blooms in spring and autumn in subtropical climates.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia, also cultivated in subtropical regions worldwide",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, the Silky Oak is actually a member of the Proteaceae family, not a true oak."
-    },
-    {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "Winter Heath is a low-growing evergreen shrub native to mountainous regions of central and southern Europe. It produces bell-shaped flowers in shades of pink, purple, or white. It often starts blooming in late autumn and can persist into the winter months, providing early nectar for pollinators.",
-      "bloomingSeason": "October to April",
-      "location": "Central and Southern Europe (montane regions)",
-      "colors": [
-        "pink",
+        "pale pink",
+        "lilac",
         "purple",
         "white"
       ],
-      "emoji": "💐",
-      "funFact": "Erica carnea flowers in some of the coldest months, sometimes blooming through snow, hence the name 'Winter Heath'."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
     },
     {
-      "name": "Lantana camara",
-      "commonName": "Lantana",
-      "description": "Lantana is a tropical flowering shrub native to Central and South America. It blooms throughout much of the year in tropical and subtropical climates, including October, and is known for its flower clusters that change color as they mature.",
-      "bloomingSeason": "Year-round in tropical/subtropical climates",
-      "location": "Native to Central and South America; cultivated worldwide in warm climates",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust native perennial with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in moist meadows, prairies, and roadsides and is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America, from Canada to the southern United States",
       "colors": [
-        "yellow",
-        "orange",
-        "red",
+        "purple",
+        "violet",
         "pink",
-        "purple"
+        "magenta"
       ],
-      "emoji": "🌸",
-      "funFact": "Lantana flowers attract butterflies and hummingbirds and are often used in butterfly gardens."
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely heavily on New England asters for fuel during their autumn migration to Mexico."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A graceful semi-deciduous tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers just before or as new leaves emerge. It is widely planted as a street and park tree in warm climates.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November), with some blooms starting in late September",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and subtropical regions worldwide",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas turn the city purple each October, earning it the nickname 'Jacaranda City'."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers hidden among glossy leaves. The scent is often compared to apricots or peaches and can perfume an entire garden.",
+      "bloomingSeason": "Autumn (September to October), with occasional repeat blooms",
+      "location": "Native to East Asia (China, Japan, Taiwan); widely cultivated in Asia and in warm temperate gardens elsewhere",
+      "colors": [
+        "pale yellow",
+        "orange",
+        "white"
+      ],
+      "emoji": "🌼",
+      "funFact": "In China, osmanthus blooms are used to flavor tea, wine, jams, and cakes, and the flowering time is celebrated near the Mid-Autumn Festival in Guilin."
     }
   ]
 }

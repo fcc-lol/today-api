@@ -2,56 +2,60 @@
   "date": "May 14",
   "plants": [
     {
-      "name": "Rosa × centifolia",
-      "commonName": "Cabbage Rose",
-      "description": "A popular cultivated garden rose known for its dense, rodent-like petals and strong, sweet fragrance. It produces large, lush pink blooms often used in perfumery.",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub producing dense, conical clusters of intensely fragrant flowers. It thrives in cold-winter climates and is a beloved garden staple in temperate regions.",
+      "bloomingSeason": "Mid to late spring (April to June in the Northern Hemisphere)",
+      "location": "Native to the Balkan Peninsula; widely cultivated across North America, Europe, and temperate Asia",
+      "colors": [
+        "Lilac",
+        "Purple",
+        "White",
+        "Pink"
+      ],
+      "emoji": "💜",
+      "funFact": "Lilacs can live for over 100 years and often persist at abandoned homesteads long after the buildings have vanished."
+    },
+    {
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, showy, often double flowers and glossy, deeply lobed foliage. Its blooms are richly fragrant and make superb cut flowers.",
       "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Temperate regions worldwide, especially Europe and North America",
+      "location": "Native to Siberia, Mongolia, and northern China; cultivated worldwide in temperate gardens",
       "colors": [
-        "pink"
-      ],
-      "emoji": "🌹",
-      "funFact": "The Damascus rose (a type of Rosa centifolia) has been cultivated for over 2,000 years!"
-    },
-    {
-      "name": "Erythrina Crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A deciduous tree producing striking bright red, elongated flowers shaped like a rooster's spur, attracting hummingbirds and other pollinators.",
-      "bloomingSeason": "Spring to early summer (September to December in Southern Hemisphere; May in some regions)",
-      "location": "Native to South America, notably Argentina, Uruguay, and Brazil",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A perennial wildflower with tall racemes of densely packed pea-like flowers, often in shades of purple, blue, pink, and white, favored by bees.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Native to western North America, commonly found in meadows and open forests",
-      "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with bacteria in their root nodules."
+      "funFact": "Peonies have been cultivated in China for over 1,500 years and are called the 'king of flowers'; ants on the buds are harmless and the plant does not need them to open."
     },
     {
-      "name": "Cornus florida",
-      "commonName": "Flowering Dogwood",
-      "description": "A deciduous tree known for its large white or pink bracts that look like petals surrounding small greenish-yellow flowers.",
-      "bloomingSeason": "Spring (April to May)",
-      "location": "Eastern United States and parts of Mexico",
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial that carpets forest floors with nodding, bell-shaped flowers on arching stems. Mass blooms create a famous blue haze in ancient woods.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Native to western Europe, especially the British Isles, where about half of the world's population grows",
       "colors": [
-        "white",
-        "pink"
+        "Violet-blue",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "The wood of the flowering dogwood is very hard and was historically used for making tool handles and golf club heads."
+      "emoji": "🔔",
+      "funFact": "Bluebells are legally protected in the UK, where it is illegal to collect the bulbs from the wild."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that erupts in huge clusters of trumpet-shaped flowers, creating purple canopies and carpeting the ground beneath when petals fall.",
+      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Africa, and Australia",
+      "colors": [
+        "Lavender",
+        "Purple-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees earned it the nickname 'Jacaranda City'; in Mexico City, they bloom around spring, in March to May."
     }
   ]
 }

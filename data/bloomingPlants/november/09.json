@@ -2,58 +2,62 @@
   "date": "November 9",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular ornamental flowering plants known for their vibrant and diverse flower forms and colors. They are widely cultivated in gardens and as potted plants and are often associated with autumn blooms.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, notably East Asia and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in a huge range of forms, from daisy-like to pompon and spider types. It thrives in cool fall weather and is often the last garden flower to bloom before hard frost.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan); widely grown in temperate gardens of North America and Europe",
       "colors": [
         "yellow",
-        "red",
         "white",
+        "bronze",
         "purple",
-        "orange"
+        "red",
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are a symbol of longevity and rejuvenation in many cultures, especially in East Asia."
+      "funFact": "Chrysanthemums are the national flower of Japan, and the Imperial Seal of Japan is a stylized 16-petaled chrysanthemum. Blooming is triggered by shortening day length."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A flowering shrub prized for its glossy evergreen leaves and large, showy flowers blooming in late autumn through winter. It thrives in mild climates and is often found in gardens and parks.",
-      "bloomingSeason": "October to March",
-      "location": "Eastern Asia (Japan, Korea, China), cultivated globally in temperate climates",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in late autumn, earlier than the more familiar Camellia japonica. It has glossy dark green leaves and fragrant, delicate single or semi-double flowers with prominent yellow stamens.",
+      "bloomingSeason": "Late autumn to early winter (October to December)",
+      "location": "Native to southern Japan; widely cultivated in the southeastern United States, Mediterranean Europe, and mild-climate gardens",
       "colors": [
+        "white",
         "pink",
-        "red",
-        "white"
+        "rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia japonica flowers are traditionally used to make tea, with the Camellia genus including the tea plant."
+      "funFact": "Sasanqua camellias are related to the tea plant (Camellia sinensis), and oil pressed from their seeds is used in Japan for cooking and hair care."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "Grevillea robusta is a fast-growing evergreen tree native to eastern coastal Australia. It produces distinctive bright orange, spider-like flowers that attract birds and pollinators in the spring and early summer, but in some areas, flowering extends into autumn or early winter.",
-      "bloomingSeason": "September to November (in Australia)",
-      "location": "Eastern Australia, also cultivated in subtropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tropical to subtropical tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. In bloom the canopy appears as a purple cloud, and fallen petals carpet streets and lawns.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America (Argentina, Bolivia); famously planted in Pretoria and Johannesburg in South Africa, Brisbane and Sydney in Australia, and Buenos Aires",
       "colors": [
-        "orange"
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, which is nicknamed the Jacaranda City, there are tens of thousands of these trees, and an old student superstition says that a blossom falling on your head brings good luck in exams."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A bold evergreen shrub that produces the largest flower heads in the protea family, with a bowl of pointed bracts surrounding a central cone of tiny true flowers. It thrives in the nutrient-poor, fire-prone fynbos habitat.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (August to November, peaking in spring)",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in California, Hawaii, Australia, and Portugal",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
       ],
       "emoji": "🌺",
-      "funFact": "Despite its common name 'Silky Oak,' it is not a true oak but is valued for its timber and ornamental appeal."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "An evergreen tree famous for its large, fragrant white flowers that bloom in late spring through autumn, with some flowers still appearing into early winter in warmer climates.",
-      "bloomingSeason": "May to November",
-      "location": "Southeastern United States and cultivated in similar climates globally",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "Southern Magnolia flowers have a lemony scent and are quite large, sometimes up to 12 inches across."
+      "funFact": "The king protea is the national flower of South Africa, and its genus is named after Proteus, the Greek sea god who could change shape, a nod to the plant family's great diversity."
     }
   ]
 }

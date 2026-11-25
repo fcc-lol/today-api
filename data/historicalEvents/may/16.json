@@ -2,32 +2,39 @@
   "date": "May 16",
   "events": [
     {
+      "year": 1770,
+      "title": "Marie Antoinette Marries the Future Louis XVI",
+      "description": "Fourteen-year-old Marie Antoinette of Austria wed Louis-Auguste, the Dauphin of France and future King Louis XVI, in a lavish ceremony at the Palace of Versailles.",
+      "category": "Politics",
+      "significance": "The marriage sealed the Franco-Austrian alliance and made Marie Antoinette a central, and ultimately controversial, figure in the lead-up to the French Revolution."
+    },
+    {
+      "year": 1943,
+      "title": "Warsaw Ghetto Uprising Is Crushed",
+      "description": "German SS commander Jürgen Stroop declared the Warsaw Ghetto uprising defeated and ordered the destruction of the Great Synagogue of Warsaw, marking the end of the main fighting after nearly four weeks of resistance.",
+      "category": "War",
+      "significance": "The uprising was the largest single revolt by Jews during World War II and became a lasting symbol of Jewish resistance to Nazi persecution and the Holocaust."
+    },
+    {
       "year": 1929,
-      "title": "First Academy Awards Ceremony",
-      "description": "The first Academy Awards ceremony, also known as the Oscars, was held in Hollywood, Los Angeles, honoring outstanding cinematic achievements.",
-      "category": "Culture",
-      "significance": "Marked the beginning of the annual celebration of excellence in the film industry."
+      "title": "First Academy Awards Ceremony Held",
+      "description": "The first Academy Awards ceremony was held at the Hollywood Roosevelt Hotel in Los Angeles, with about 270 guests attending. Winners had been announced months earlier, and the event honored films from 1927 and 1928, with Wings winning Outstanding Picture.",
+      "category": "Arts and Culture",
+      "significance": "It launched the Oscars, which grew into the most prestigious and widely watched annual awards in the film industry."
     },
     {
       "year": 1966,
-      "title": "Launch of Surveyor 1",
-      "description": "NASA launched the Surveyor 1 spacecraft, the first U.S. mission to successfully soft-land on the Moon, paving the way for future manned lunar missions.",
-      "category": "Science and Technology",
-      "significance": "Provided valuable data about the lunar surface ahead of the Apollo missions."
-    },
-    {
-      "year": 1770,
-      "title": "Captain James Cook Discovers the Great Barrier Reef",
-      "description": "British explorer Captain James Cook became the first European to encounter and chart the Great Barrier Reef off the coast of Australia.",
-      "category": "Exploration",
-      "significance": "Expanded European knowledge of Australia's natural geography."
-    },
-    {
-      "year": 2006,
-      "title": "Saddam Hussein Sentenced to Death",
-      "description": "Former Iraqi President Saddam Hussein was sentenced to death by hanging for crimes against humanity by an Iraqi court.",
+      "title": "Cultural Revolution Begins in China",
+      "description": "The Chinese Communist Party Central Committee issued the May 16 Notification, drafted under Mao Zedong's direction, denouncing alleged bourgeois infiltrators in the party and establishing the Cultural Revolution Group.",
       "category": "Politics",
-      "significance": "A significant event in post-war Iraq's efforts to address past atrocities."
+      "significance": "This document is widely regarded as the formal start of the Cultural Revolution, a decade of political upheaval that caused massive loss of life, persecution, and social and economic disruption in China."
+    },
+    {
+      "year": 1975,
+      "title": "Junko Tabei Summits Mount Everest",
+      "description": "Japanese mountaineer Junko Tabei reached the summit of Mount Everest, becoming the first woman to do so, after surviving an avalanche earlier in the expedition.",
+      "category": "Exploration",
+      "significance": "Her achievement broke a major barrier for women in mountaineering and inspired generations of female climbers worldwide."
     }
   ]
 }

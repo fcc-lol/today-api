@@ -2,39 +2,39 @@
   "date": "April 17",
   "events": [
     {
+      "year": 1492,
+      "title": "Santa Fe Capitulations Signed",
+      "description": "Christopher Columbus and the Spanish Crown, represented by Ferdinand II of Aragon and Isabella I of Castile, signed the Capitulations of Santa Fe, which authorized his voyage westward in search of a route to Asia and set out the titles and revenues he would receive.",
+      "category": "Exploration",
+      "significance": "The agreement made Columbus's 1492 expedition possible, leading to sustained European contact with the Americas and reshaping global history."
+    },
+    {
+      "year": 1521,
+      "title": "Martin Luther Appears Before the Diet of Worms",
+      "description": "Martin Luther was questioned by the Holy Roman Empire's imperial assembly at Worms, where he was asked to recant his writings. He appeared on April 17 and, the following day, refused to retract them unless proven wrong by Scripture and reason.",
+      "category": "Religion",
+      "significance": "Luther's defiance was a defining moment of the Protestant Reformation, and led to his condemnation by the Edict of Worms and the deepening split in Western Christianity."
+    },
+    {
+      "year": 1790,
+      "title": "Death of Benjamin Franklin",
+      "description": "Benjamin Franklin, American polymath, printer, scientist, diplomat, and Founding Father, died in Philadelphia at the age of 84.",
+      "category": "Death",
+      "significance": "Franklin was a key figure in the American Revolution and the drafting of the Declaration of Independence and the Constitution, and his scientific work on electricity and civic institutions left a lasting legacy."
+    },
+    {
       "year": 1961,
       "title": "Bay of Pigs Invasion Begins",
-      "description": "A CIA-sponsored paramilitary group of Cuban exiles landed at the Bay of Pigs in Cuba in an unsuccessful attempt to overthrow Fidel Castro's government.",
-      "category": "Political/Military",
-      "significance": "This event marked a significant Cold War conflict in the Americas and was a major embarrassment for the U.S. government."
+      "description": "A CIA-backed force of Cuban exiles, Brigade 2506, landed at the Bay of Pigs on Cuba's southern coast in an attempt to overthrow Fidel Castro's government. Cuban forces defeated the invasion within about three days.",
+      "category": "Military/Politics",
+      "significance": "The failed invasion embarrassed the Kennedy administration, strengthened Castro's position, and pushed Cuba closer to the Soviet Union, setting the stage for the Cuban Missile Crisis in 1962."
     },
     {
-      "year": 1941,
-      "title": "Erwin Rommel Arrives in North Africa",
-      "description": "Field Marshal Erwin Rommel arrived in Tripoli, Libya, to command the German Afrika Korps during World War II.",
-      "category": "Military",
-      "significance": "Rommel's leadership significantly influenced the North African Campaign, affecting control over the Mediterranean."
-    },
-    {
-      "year": 1492,
-      "title": "Christopher Columbus Sets Sail",
-      "description": "Christopher Columbus departed from Palos de la Frontera, Spain, on his first voyage across the Atlantic Ocean.",
-      "category": "Exploration",
-      "significance": "This voyage led to the European discovery of the Americas, initiating widespread contact between Europe and the New World."
-    },
-    {
-      "year": 1946,
-      "title": "First Meeting of the United Nations Security Council",
-      "description": "The inaugural session of the UN Security Council was held in London, marking the beginning of its role in maintaining global peace and security.",
-      "category": "International Relations",
-      "significance": "Established a key mechanism for international diplomatic security efforts after World War II."
-    },
-    {
-      "year": 1902,
-      "title": "Cuba Gains Independence from the United States",
-      "description": "The Republic of Cuba was officially established, ending American military occupation following the Spanish-American War.",
-      "category": "Political",
-      "significance": "Marked the beginning of Cuban sovereignty and a significant shift in U.S.-Cuban relations."
+      "year": 1982,
+      "title": "Canada Constitution Act Proclaimed",
+      "description": "Queen Elizabeth II signed the proclamation of the Constitution Act, 1982, in Ottawa, patriating Canada's constitution from the United Kingdom and enacting the Canadian Charter of Rights and Freedoms.",
+      "category": "Politics/Law",
+      "significance": "Canada gained full legal independence over its constitution, and the Charter established constitutionally protected rights and freedoms for Canadians."
     }
   ]
 }

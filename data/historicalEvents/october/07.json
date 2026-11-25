@@ -4,30 +4,37 @@
     {
       "year": 1571,
       "title": "Battle of Lepanto",
-      "description": "A fleet of the Holy League, a coalition of European Catholic maritime states, decisively defeated the Ottoman Empire's fleet in the Gulf of Patras.",
+      "description": "A fleet of the Catholic Holy League, organized by Pope Pius V and led by Don John of Austria, decisively defeated the Ottoman navy in the Gulf of Patras off western Greece. It was one of the largest naval battles in history, fought mainly between galleys.",
       "category": "Military",
-      "significance": "This battle marked the turning point in the naval dominance of the Mediterranean by the Ottomans and halted their westward expansion into Europe."
+      "significance": "The victory halted Ottoman naval dominance in the Mediterranean and became a symbol of European Christian unity, though the Ottomans rebuilt their fleet quickly."
     },
     {
-      "year": 1919,
-      "title": "Einstein's Theory of General Relativity Confirmed",
-      "description": "Astronomer Sir Arthur Eddington announced the confirmation of Einstein's theory of general relativity through observations during a solar eclipse.",
-      "category": "Science",
-      "significance": "This confirmation revolutionized physics, altering our understanding of gravity and spacetime and establishing Einstein's reputation."
+      "year": 1849,
+      "title": "Death of Edgar Allan Poe",
+      "description": "American writer, poet, and critic Edgar Allan Poe died in Baltimore, Maryland, at age 40, after being found delirious on the streets days earlier. The cause of his death remains a mystery.",
+      "category": "Death",
+      "significance": "Poe pioneered the modern detective story and shaped the Gothic and horror genres, influencing literature worldwide."
     },
     {
       "year": 1949,
-      "title": "Foundation of the German Democratic Republic",
-      "description": "The German Democratic Republic (East Germany) was officially established as a socialist state within the Soviet bloc after World War II.",
-      "category": "Political",
-      "significance": "The establishment marked a key moment in Cold War geopolitics, symbolizing the division of Germany and Europe into East and West."
+      "title": "Founding of the German Democratic Republic",
+      "description": "The German Democratic Republic (East Germany) was established in the Soviet occupation zone, five months after the creation of West Germany. Wilhelm Pieck became its first president.",
+      "category": "Politics",
+      "significance": "The founding formalized the division of Germany during the Cold War, which lasted until reunification on October 3, 1990."
     },
     {
       "year": 2001,
-      "title": "U.S. and Allied Forces Invade Afghanistan",
-      "description": "The United States launched Operation Enduring Freedom against Taliban forces in Afghanistan in response to the September 11 attacks.",
+      "title": "US-led invasion of Afghanistan begins",
+      "description": "The United States and the United Kingdom began Operation Enduring Freedom with airstrikes against Taliban and al-Qaeda targets in Afghanistan, in response to the September 11 attacks.",
       "category": "Military",
-      "significance": "This marked the beginning of the War on Terror and a significant military engagement that lasted two decades."
+      "significance": "It marked the start of the longest war in US history, lasting nearly 20 years and reshaping global security policy and the region's politics."
+    },
+    {
+      "year": 2023,
+      "title": "Hamas-led attack on Israel",
+      "description": "Hamas and other militant groups launched a large-scale surprise attack from Gaza into southern Israel, killing about 1,200 people and taking roughly 250 hostages. Israel responded with a major military campaign in Gaza.",
+      "category": "Conflict",
+      "significance": "The attack was the deadliest day for Jews since the Holocaust and triggered a prolonged war with major humanitarian and geopolitical consequences across the Middle East."
     }
   ]
 }

@@ -2,55 +2,61 @@
   "date": "July 24",
   "plants": [
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A fragrant white lily native to the Balkans and Middle East, often cultivated in gardens. It produces large, trumpet-shaped flowers with a sweet scent.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean region, cultivated worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with narrow gray-green leaves and dense spikes of small tubular flowers. It is widely cultivated in gardens and fields for essential oils, culinary use, and as a pollinator magnet.",
+      "bloomingSeason": "Mid-summer (June to August) in the Northern Hemisphere",
+      "location": "Mediterranean region, southern France, England, and cultivated worldwide in temperate climates",
       "colors": [
-        "white"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌸",
-      "funFact": "The Madonna Lily has been cultivated since ancient times and is associated with purity in Christian symbolism."
-    },
-    {
-      "name": "Rhododendron ferrugineum",
-      "commonName": "Alpenrose",
-      "description": "A low-growing, evergreen shrub with bright pink to red bell-shaped flowers. It is common in alpine and subalpine regions.",
-      "bloomingSeason": "June to August",
-      "location": "Alps and other European mountain ranges",
-      "colors": [
-        "pink",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Alpenrose thrives in acidic soils and rocky slopes, contributing to the unique alpine flora."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic plant with large, circular leaves and striking pink or white flowers that float on water surfaces.",
-      "bloomingSeason": "June to August",
-      "location": "Asia, including India, China, and Southeast Asia",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "The Sacred Lotus flower closes at night and reopens with the morning sun, symbolizing spiritual enlightenment in many cultures."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
     },
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads that follow the sun’s movement throughout the day.",
-      "bloomingSeason": "July to September",
-      "location": "Native to North America; widely cultivated elsewhere",
+      "description": "A tall annual with a large, coarse stem and a huge flower head made of yellow ray florets surrounding a dark disc of tiny florets that mature into seeds. Fields of sunflowers are at their peak in late July.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September)",
+      "location": "Native to North America; grown commercially in Ukraine, Russia, Argentina, France, and the United States",
       "colors": [
-        "yellow",
-        "brown"
+        "Golden yellow",
+        "Orange",
+        "Brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflower seeds are edible and sunflower oil is widely used for cooking and cosmetics."
+      "funFact": "Young sunflower buds track the sun across the sky in a behavior called heliotropism, but mature flowers stop moving and face east."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with daisy-like petals drooping around a spiky, orange-brown central cone. It thrives in full sun and attracts butterflies, bees, and finches seeking seeds.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in gardens",
+      "colors": [
+        "Pink-purple",
+        "Magenta",
+        "Orange-bronze"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea's name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub producing the largest flower head in the Protea genus, with a bowl of silky-tipped bracts surrounding a central cluster of tiny flowers. In the Southern Hemisphere it blooms in the cool winter and early spring period, with flowering extending through July.",
+      "bloomingSeason": "Late autumn to spring in the Southern Hemisphere (peaks around May to November)",
+      "location": "Fynbos region of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and it evolved to survive regular wildfires by storing energy in underground lignotubers."
     }
   ]
 }

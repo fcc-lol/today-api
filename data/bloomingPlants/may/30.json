@@ -2,60 +2,60 @@
   "date": "May 30",
   "plants": [
     {
-      "name": "Rhododendron spp.",
-      "commonName": "Rhododendron",
-      "description": "Rhododendrons are woody plants with large, bell-shaped flowers that bloom in dense clusters. They prefer acidic soils and are popular in temperate gardens worldwide.",
-      "bloomingSeason": "April to June",
-      "location": "Northern Hemisphere temperate zones (e.g., North America, Europe, Asia)",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped double or single blooms atop sturdy stems with glossy, deeply lobed green foliage. A beloved cottage garden staple that can live for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to Central and East Asia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
         "pink",
-        "red",
         "white",
-        "purple"
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendrons are known for their stunning spring blooms and some species are evergreen, providing year-round foliage."
+      "funFact": "Peonies can live over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
     },
     {
-      "name": "Tropaeolum majus",
-      "commonName": "Nasturtium",
-      "description": "Nasturtiums are low-growing annual plants with round leaves and vibrant, trumpet-shaped flowers. They are edible and often used in salads for their peppery taste.",
-      "bloomingSeason": "Late spring to early fall",
-      "location": "Native to South America, widely cultivated globally",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching wild shrub with five-petaled, softly scented flowers followed by bright red rose hips in autumn. Common in hedgerows and woodland edges.",
+      "bloomingSeason": "Late spring to midsummer (late May to July)",
+      "location": "Hedgerows and scrublands across Europe, northwest Africa, and western Asia; naturalized in North America",
       "colors": [
-        "orange",
-        "red",
-        "yellow"
+        "pale pink",
+        "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Nasturtiums attract pollinators like bees and hummingbirds, making them great companion plants in gardens."
+      "emoji": "🌹",
+      "funFact": "During World War II, rose hips from dog roses were collected in Britain to make vitamin C-rich syrup because citrus fruits were scarce."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Golden Wattle is a small tree or shrub with fragrant yellow flowers arranged in fluffy spherical clusters. It is the floral emblem of Australia and blooms in late winter to spring.",
-      "bloomingSeason": "August to November in Australia (Southern Hemisphere) but can bloom early in mild climates around May",
-      "location": "Australia and subtropical regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A striking tropical to subtropical tree that bursts into clouds of lavender-blue trumpet-shaped flowers, often before its fern-like leaves fully emerge. Blooms carpet streets and pavements in purple.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, the Mediterranean, and parts of Africa and Australia",
       "colors": [
-        "yellow"
+        "lavender",
+        "violet",
+        "blue"
       ],
-      "emoji": "🌼",
-      "funFact": "The Golden Wattle's bright yellow flowers are a symbol of unity and resilience in Australia."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas earned it the nickname 'Jacaranda City', and in parts of Australia a falling bloom is said to bring good luck on exams."
     },
     {
-      "name": "Delphinium elatum",
-      "commonName": "Delphinium",
-      "description": "Delphiniums are tall, perennial plants with spiked inflorescences of two-lipped flowers. They thrive in cooler temperate climates and are favored in cottage gardens.",
-      "bloomingSeason": "Late spring to early summer",
-      "location": "Temperate regions of the Northern Hemisphere",
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A rugged Australian evergreen tree with serrated leathery leaves and tall, cylindrical flower spikes made up of hundreds of tiny flowers that attract honeyeaters and native bees.",
+      "bloomingSeason": "Autumn to winter in the Southern Hemisphere (roughly February to August, with strong flowering around May)",
+      "location": "Coastal and sandy soils of eastern Australia, from Queensland to Victoria and Tasmania",
       "colors": [
-        "blue",
-        "purple",
-        "white",
-        "pink"
+        "golden yellow",
+        "greenish-cream",
+        "silver-grey"
       ],
-      "emoji": "💠",
-      "funFact": "Delphiniums are toxic if ingested but are beloved for their vibrant flower spikes that can reach up to 2 meters tall."
+      "emoji": "🌿",
+      "funFact": "Banksia seed cones are adapted to fire and often open to release seeds only after bushfires, which helps regeneration."
     }
   ]
 }

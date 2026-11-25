@@ -2,32 +2,39 @@
   "date": "February 4",
   "events": [
     {
-      "year": 1945,
-      "title": "Yalta Conference Begins",
-      "description": "World leaders Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin meet at Yalta in Crimea to discuss the postwar reorganization of Europe.",
-      "category": "Political",
-      "significance": "The conference shaped the post-World War II order and led to the division of Germany and the formation of the United Nations."
-    },
-    {
       "year": 1789,
       "title": "George Washington Elected First U.S. President",
-      "description": "George Washington is unanimously elected as the first President of the United States by the Electoral College.",
-      "category": "Political",
-      "significance": "Marked the establishment of the United States government under the new Constitution."
+      "description": "The Electoral College met and unanimously elected George Washington as the first President of the United States, with John Adams receiving the second-highest number of votes and becoming Vice President.",
+      "category": "Politics",
+      "significance": "Established the executive leadership of the new federal government under the U.S. Constitution and set precedents for the American presidency."
+    },
+    {
+      "year": 1945,
+      "title": "Yalta Conference Begins",
+      "description": "Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin met at Yalta in Crimea to discuss the postwar reorganization of Germany and Europe as World War II neared its end.",
+      "category": "War and Diplomacy",
+      "significance": "The agreements reached shaped postwar Europe, influenced the formation of the United Nations, and set the stage for Cold War divisions."
+    },
+    {
+      "year": 1948,
+      "title": "Ceylon Gains Independence from Britain",
+      "description": "Ceylon, now Sri Lanka, became an independent dominion within the British Commonwealth, ending over a century of British colonial rule.",
+      "category": "Independence",
+      "significance": "It was part of the broader postwar wave of decolonization in Asia and marked the birth of modern Sri Lanka as a sovereign nation."
     },
     {
       "year": 1974,
-      "title": "Terracotta Army Unearthed",
-      "description": "Chinese farmers accidentally discover the Terracotta Army in Xi'an, China. The archaeological find includes thousands of life-sized clay soldiers buried with the first Emperor of China, Qin Shi Huang.",
-      "category": "Archaeological",
-      "significance": "Provided invaluable insight into ancient Chinese art, military, and burial practices."
+      "title": "Patty Hearst Kidnapped",
+      "description": "Newspaper heiress Patricia Hearst was abducted from her Berkeley, California apartment by the Symbionese Liberation Army, and later participated in the group's crimes.",
+      "category": "Crime",
+      "significance": "The case drew enormous media attention and raised lasting debates about coercion, radicalization, and criminal responsibility."
     },
     {
       "year": 2004,
       "title": "Facebook Launched",
-      "description": "Mark Zuckerberg launches 'Thefacebook,' a social networking service initially limited to Harvard students.",
-      "category": "Technological",
-      "significance": "This event marks the beginning of one of the largest social media platforms, significantly impacting global communication and social interaction."
+      "description": "Mark Zuckerberg, with fellow Harvard students, launched Thefacebook, a social networking website initially limited to Harvard University students.",
+      "category": "Technology",
+      "significance": "It grew into one of the world's largest social media platforms, transforming communication, media, politics, and commerce globally."
     }
   ]
 }

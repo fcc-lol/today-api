@@ -2,36 +2,44 @@
   "date": "June 5",
   "holidays": [
     {
-      "name": "World Environment Day 🌍",
-      "description": "A day dedicated to encouraging worldwide awareness and action to protect our planet's environment.",
-      "origin": "Established by the United Nations in 1974 to promote environmental consciousness globally.",
+      "name": "National Gingerbread Day",
+      "description": "A spicy-sweet day for bakers and cookie fans to whip up gingerbread cookies, cakes, and even little houses, no matter how far from Christmas it is.",
+      "origin": "Like many American food days, it grew out of food-calendar traditions and baking enthusiasts rather than an official proclamation. Gingerbread itself dates back to medieval Europe, where it was a popular fair treat.",
+      "category": "Food Day",
+      "emoji": "🍪",
+      "funFact": "Queen Elizabeth I of England is said to have had gingerbread cookies made in the likeness of her visiting dignitaries."
+    },
+    {
+      "name": "World Environment Day",
+      "description": "The biggest global day for encouraging environmental action, with cleanups, tree plantings, and campaigns that have everyone suddenly very concerned about their plastic straws.",
+      "origin": "Established by the United Nations General Assembly in 1972 on the opening day of the Stockholm Conference on the Human Environment. It has been celebrated every year since 1974.",
       "category": "Awareness Day",
       "emoji": "🌍",
-      "funFact": "Each year, World Environment Day is hosted by a different country, turning the spotlight on pressing environmental issues worldwide."
+      "funFact": "Each year a different country hosts the celebrations and a different theme is chosen, from wildlife crime to beating plastic pollution."
     },
     {
-      "name": "National Gingerbread Day 🍪",
-      "description": "Celebrate the spicy, sweet goodness of gingerbread in all its forms – cookies, houses, men, and more!",
-      "origin": "An American food holiday recognizing gingerbread’s long history in baking, dating back to Medieval Europe.",
-      "category": "Food Holiday",
-      "emoji": "🍪",
-      "funFact": "Did you know gingerbread originally was used as a form of medicinal bread? Some recipes include ingredients believed to have healing properties!"
+      "name": "Festival of Popular Delusions Day (Veggie Pride Parade Season Kickoff)",
+      "description": "A tongue-in-cheek nod to quirky belief and mass enthusiasm, an excuse to ponder the wacky ideas people have latched onto throughout history.",
+      "origin": "Inspired by Charles Mackay's 1841 book 'Extraordinary Popular Delusions and the Madness of Crowds,' which chronicled tulip mania and other historical crazes. The date is an informal, unofficial observance among trivia fans.",
+      "category": "Unofficial Observance",
+      "emoji": "🌷",
+      "funFact": "At the peak of Dutch tulip mania in the 1630s, a single rare bulb reportedly sold for more than the price of a fancy canal house, though historians now debate how extreme the craze really was."
     },
     {
-      "name": "No Pants Day 🩳❌",
-      "description": "A hilarious, unofficial holiday where people dare to go about their daily routines without pants, usually in colder climates!",
-      "origin": "Started in the early 2000s as a quirky social experiment and spreading through viral internet challenges.",
-      "category": "Pop Culture/Quirky",
-      "emoji": "🩳❌",
-      "funFact": "No Pants Day often involves public transit rides without pants, turning ordinary commutes into unexpected comedy shows."
+      "name": "National Ketchup Day",
+      "description": "A salute to the red condiment that sits on every diner table, with fries, burgers, and brave scrambled eggs all invited to the party.",
+      "origin": "Ketchup began as a fermented fish sauce called ke-tsiap in Southeast China. British traders brought it west, and tomatoes were added in the early 1800s in America. The day is an unofficial food observance celebrated by condiment fans.",
+      "category": "Food Day",
+      "emoji": "🍅",
+      "funFact": "In the 1830s, tomato ketchup was sold as a medicine, and it was marketed as a cure for indigestion."
     },
     {
-      "name": "National Moonshine Day 🥃",
-      "description": "A toast to the outlaw spirit with a day to remember moonshine, the illegal but iconic homemade whiskey.",
-      "origin": "Celebrated unofficially in the U.S. to honor the Prohibition era and the ingenuity of moonshiners.",
-      "category": "Food & Drink Holiday",
-      "emoji": "🥃",
-      "funFact": "Moonshine was often hidden in complex contraptions or even cars called 'bootleggers' to evade authorities during Prohibition!"
+      "name": "Hot Air Balloon Day",
+      "description": "A day to look to the skies and celebrate the colorful, floating wonder of hot air ballooning, the world's gentlest form of aerial adventure.",
+      "origin": "It commemorates June 5, 1783, when the Montgolfier brothers publicly demonstrated their first hot air balloon in Annonay, France, before a crowd of astonished onlookers.",
+      "category": "History and Pop Culture",
+      "emoji": "🎈",
+      "funFact": "The first passengers in a Montgolfier balloon later in 1783 were a sheep, a duck, and a rooster, who landed safely and became very unlikely aviation pioneers."
     }
   ]
 }

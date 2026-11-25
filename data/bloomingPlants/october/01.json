@@ -2,59 +2,75 @@
   "date": "October 1",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy flowering plant native to North America, known for its bright yellow petals surrounding a dark brown central cone. It thrives in meadows and open woodlands and is often found blooming into early fall.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and Central North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in early autumn, long after its leaves have died back in summer. The leaves reappear the following spring. All parts are highly toxic.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October)",
+      "location": "Native to Europe and cultivated in temperate gardens worldwide, especially damp meadows and woodland edges in the Northern Hemisphere",
       "colors": [
-        "Yellow",
-        "Brown"
+        "Pale pink",
+        "Lilac",
+        "Purple"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are a symbol of encouragement and motivation, often used in wildflower mixes to bring late-season color."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout, and it is also used by plant breeders to induce chromosome doubling. It is not related to true crocus or saffron."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular cultivated flower that blooms abundantly in autumn. Garden chrysanthemums come in a variety of vibrant colors and forms, making them a fall garden favorite worldwide.",
-      "bloomingSeason": "September to November",
-      "location": "Widely cultivated worldwide, native to East Asia",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust perennial wildflower with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in meadows, prairies, and roadsides, and is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, from Canada to the southern United States; widely grown in cottage and pollinator gardens",
       "colors": [
-        "Yellow",
-        "Red",
-        "White",
         "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely on New England asters as a key nectar source to fuel their long southward migration to Mexico each autumn."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers just before or as new leaves emerge. It creates striking purple carpets when blossoms drop.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina, and New Zealand's northern regions",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "🌸",
+      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because tens of thousands of these trees line its streets, turning the city purple every October."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with feathery foliage and daisy-like flowers on tall slender stems. It blooms profusely until the first frost and is easy to grow from seed in full sun and poor soil.",
+      "bloomingSeason": "Summer to first frost (June to October)",
+      "location": "Native to Mexico and Central America; naturalized and cultivated across North America, Europe, and Asia",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
+      ],
+      "emoji": "🌼",
+      "funFact": "Cosmos comes from the Greek word kosmos, meaning order or harmony, a name given by Spanish priests who grew them in mission gardens in Mexico."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent of apricot and peach. It is a beloved ornamental in Chinese gardens and blooms in autumn.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Native to Asia, including China, Japan, and the Himalayas; grown in warm temperate gardens including the southeastern United States",
+      "colors": [
+        "White",
+        "Pale yellow",
         "Orange"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are the flower of November in the United States and symbolize optimism and joy in many cultures."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An evergreen tree native to eastern Australia that produces striking orange to golden flowers shaped like spider webs. Flowering peaks in late spring to mid-autumn, providing nectar for birds and bees.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia",
-      "colors": [
-        "Orange",
-        "Golden"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, the Silky Oak is not a true oak but is valued for its strong timber and ornamental flowers."
-    },
-    {
-      "name": "Crocosmia aurea",
-      "commonName": "Montbretia",
-      "description": "A perennial plant native to South Africa, Crocosmia features vibrant, tubular orange to red flowers on arching stems. It blooms during late summer to early autumn in cooler climates but may bloom into October in warmer regions.",
-      "bloomingSeason": "August to October",
-      "location": "Southern Africa, cultivated in temperate gardens",
-      "colors": [
-        "Orange",
-        "Red"
-      ],
-      "emoji": "🌷",
-      "funFact": "Montbretia attracts hummingbirds and butterflies, making it a favorite for pollinator gardens."
+      "funFact": "In China, osmanthus blossoms are used to flavor teas, cakes, wine, and jams, and the Mid-Autumn Festival is traditionally celebrated with osmanthus cake and osmanthus wine."
     }
   ]
 }

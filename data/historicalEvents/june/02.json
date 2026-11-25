@@ -2,32 +2,39 @@
   "date": "June 2",
   "events": [
     {
-      "year": 455,
-      "title": "Sack of Rome by the Vandals",
-      "description": "The Vandals, led by King Genseric, entered Rome and sacked the city, causing extensive destruction and marking one of the significant events in the decline of the Western Roman Empire.",
-      "category": "War/Conflict",
-      "significance": "This event symbolized the vulnerability of Rome and accelerated the decline of the Western Roman Empire."
-    },
-    {
-      "year": 1825,
-      "title": "Decembrist Revolt in Russia",
-      "description": "Russian army officers led about 3,000 soldiers in a protest against Tsar Nicholas I's assumption of the throne after his elder brother Constantine's abdication.",
-      "category": "Political Revolt",
-      "significance": "Though the rebellion was suppressed, it marked the beginning of a movement toward governmental reform and influenced future revolutionary activities in Russia."
-    },
-    {
       "year": 1953,
       "title": "Coronation of Queen Elizabeth II",
-      "description": "Elizabeth II was crowned Queen of the United Kingdom and other Commonwealth realms at Westminster Abbey in London.",
-      "category": "Monarchy/Ceremony",
-      "significance": "Her coronation marked the beginning of the longest reign in British history and significant changes in the monarchy's role during modern times."
+      "description": "Elizabeth II was crowned at Westminster Abbey in London, in a ceremony that was the first British coronation to be fully televised. The event was watched by millions around the world and followed her accession to the throne in February 1952.",
+      "category": "Politics",
+      "significance": "Marked the formal start of a reign that became the longest in British history and helped popularize television as a mass medium for global events."
     },
     {
-      "year": 2016,
-      "title": "Italy Referendum on Constitutional Reform",
-      "description": "Italy held a referendum on constitutional reforms proposed by Prime Minister Matteo Renzi, which was rejected by the majority of voters, leading to Renzi's resignation.",
-      "category": "Political Event",
-      "significance": "The rejection reflected the public's resistance to political reforms and caused a shift in Italy's political landscape."
+      "year": 1924,
+      "title": "Indian Citizenship Act Signed",
+      "description": "President Calvin Coolidge signed the Indian Citizenship Act, granting U.S. citizenship to all Native Americans born within the territorial limits of the United States.",
+      "category": "Law",
+      "significance": "Extended citizenship to Native Americans, although many states continued to restrict their voting rights for decades afterward."
+    },
+    {
+      "year": 1966,
+      "title": "Surveyor 1 Lands on the Moon",
+      "description": "NASA's Surveyor 1 spacecraft made the first soft landing by a U.S. spacecraft on the Moon, in the Oceanus Procellarum, and transmitted thousands of photographs back to Earth.",
+      "category": "Science and Exploration",
+      "significance": "Demonstrated the feasibility of soft lunar landings and provided data on the lunar surface that supported planning for the Apollo missions."
+    },
+    {
+      "year": 1946,
+      "title": "Italy Votes to Abolish the Monarchy",
+      "description": "In a national referendum, Italians voted to become a republic rather than retain the House of Savoy, with women voting in a national election for the first time. King Umberto II subsequently left the country.",
+      "category": "Politics",
+      "significance": "Established the Italian Republic, which is celebrated annually as Republic Day, and shaped the postwar political order of Italy."
+    },
+    {
+      "year": 1840,
+      "title": "Birth of Thomas Hardy",
+      "description": "English novelist and poet Thomas Hardy was born in Dorset, England. He later wrote works such as Tess of the d'Urbervilles, Far from the Madding Crowd, and Jude the Obscure.",
+      "category": "Birth",
+      "significance": "Hardy became one of the leading figures of English literature, bridging Victorian realism and modernist poetry."
     }
   ]
 }

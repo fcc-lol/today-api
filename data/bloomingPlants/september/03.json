@@ -4,56 +4,58 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "The common sunflower is a tall annual plant known for its large, bright yellow flower heads that track the sun across the sky. It thrives in temperate climates and is widely cultivated for its seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "North America, cultivated worldwide",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is widely grown for seed, oil and ornamental use.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
+      "location": "Native to North America; widely cultivated across the United States, Europe, Ukraine, Russia and Argentina",
       "colors": [
-        "yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "deep red"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism when young, turning their heads to follow the sun's path across the sky."
+      "funFact": "Young sunflower buds follow the sun from east to west in a behavior called heliotropism, but mature blooms generally stay facing east."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "Dahlias are tuberous plants native to Mexico, known for their diverse and vibrant flower forms and colors. They bloom from mid-summer through the first frost and are popular garden plants globally.",
-      "bloomingSeason": "July to October",
-      "location": "Central America, cultivated worldwide",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower forming tall stems topped with plumes of tiny golden flower heads. It thrives in meadows, roadsides and open fields, and provides late-season nectar for bees, butterflies and other pollinators.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "red",
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time; goldenrod pollen is heavy and spread by insects."
+    },
+    {
+      "name": "Eucalyptus leucoxylon",
+      "commonName": "Yellow Gum",
+      "description": "A medium-sized Australian tree with smooth mottled bark and clusters of fluffy stamens in place of petals. It flowers heavily in the Southern Hemisphere's late winter and early spring, attracting honeyeaters and lorikeets.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (May to October, peaking around August to September)",
+      "location": "South Australia, Victoria and New South Wales, Australia",
+      "colors": [
+        "cream",
         "pink",
-        "purple",
-        "white",
-        "yellow",
-        "orange"
+        "red",
+        "white"
+      ],
+      "emoji": "🌳",
+      "funFact": "Yellow Gum is a key nectar source for native birds and the honey industry, and its flower color varies from white and cream to deep red among individual trees."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like lilac-pink flowers in late summer and early autumn, before its leaves appear in spring. The flowers emerge directly from the ground on bare stems.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Native to Europe, in damp meadows and woodland edges; cultivated in gardens worldwide",
+      "colors": [
+        "lilac",
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "There are over 42 species of dahlias, and they are related to sunflowers and asters."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A perennial tree native to South America, particularly Argentina and Uruguay, with striking bright red flowers shaped like a rooster's crest. It blooms profusely in late summer to early autumn.",
-      "bloomingSeason": "August to October",
-      "location": "South America (Argentina, Uruguay)",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The national flower of Argentina and Uruguay, known locally as 'Ceibo.'"
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A woody climbing vine famous for its cascading clusters of fragrant purple to pale violet flowers. Although usually blooming in spring, certain late-season cultivars may bloom again in early autumn in mild climates.",
-      "bloomingSeason": "Spring primarily; sporadic bloom in early autumn",
-      "location": "China, cultivated in temperate regions worldwide",
-      "colors": [
-        "purple",
-        "lavender"
-      ],
-      "emoji": "🌿",
-      "funFact": "Wisteria vines can live over 100 years and produce very heavy, fragrant blooms."
+      "funFact": "All parts of the plant contain colchicine, a toxic compound that is also used in medicine to treat gout and in plant breeding to double chromosome numbers."
     }
   ]
 }

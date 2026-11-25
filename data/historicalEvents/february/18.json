@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1930,
-      "title": "Pluto Discovered",
-      "description": "Clyde Tombaugh discovered Pluto at the Lowell Observatory in Flagstaff, Arizona.",
+      "title": "Discovery of Pluto",
+      "description": "Astronomer Clyde Tombaugh, working at Lowell Observatory in Flagstaff, Arizona, identified Pluto by comparing photographic plates taken in January 1930. The discovery was announced publicly in March 1930.",
       "category": "Science",
-      "significance": "This marked the discovery of the ninth planet in our solar system at the time, expanding our understanding of the solar system."
+      "significance": "Pluto was classified as the ninth planet for 76 years until its reclassification as a dwarf planet in 2006, and its discovery reshaped understanding of the outer solar system and the Kuiper Belt."
     },
     {
-      "year": 1861,
-      "title": "Jefferson Davis Elected President of the Confederate States",
-      "description": "Jefferson Davis was elected as the first and only president of the Confederate States of America during the American Civil War.",
+      "year": 1546,
+      "title": "Death of Martin Luther",
+      "description": "German theologian and former Augustinian friar Martin Luther died in Eisleben, Saxony, at age 62, while visiting his birthplace to help mediate a dispute between local counts.",
+      "category": "Religion",
+      "significance": "Luther's 95 Theses of 1517 sparked the Protestant Reformation, which permanently divided Western Christianity and transformed European politics, culture, and education."
+    },
+    {
+      "year": 1965,
+      "title": "The Gambia Gains Independence",
+      "description": "The Gambia became independent from the United Kingdom as a constitutional monarchy within the Commonwealth, with Dawda Jawara serving as prime minister. It became a republic in 1970.",
       "category": "Politics",
-      "significance": "This event was crucial in the formation of the Confederacy, which played a central role in the American Civil War."
+      "significance": "The Gambia's independence was part of the wave of decolonization across Africa in the 1960s, and it became one of the continent's smallest independent nations."
     },
     {
-      "year": 1935,
-      "title": "USS Nautilus Launched",
-      "description": "The USS Nautilus, the first atomic-powered submarine, was launched.",
-      "category": "Technology",
-      "significance": "This represented a major advancement in naval technology, influencing the future of submarine design and military strategy."
+      "year": 1885,
+      "title": "Publication of The Adventures of Huckleberry Finn in the United States",
+      "description": "Mark Twain's novel was first published in the United States on this date, following its December 1884 release in the UK and Canada. It quickly drew both acclaim and controversy.",
+      "category": "Literature",
+      "significance": "Often called the Great American Novel, it pioneered the use of vernacular speech in American literature and remains a central, debated work for its treatment of race and society."
     },
     {
-      "year": 1932,
-      "title": "Inauguration of the Sydney Harbour Bridge",
-      "description": "The Sydney Harbour Bridge was officially opened in Australia, connecting the Sydney central business district and the North Shore.",
-      "category": "Infrastructure",
-      "significance": "The bridge became an iconic symbol of Australia and greatly improved transportation and infrastructure in Sydney."
-    },
-    {
-      "year": 1970,
-      "title": "Japan's First Satellite Launch",
-      "description": "Japan launched its first satellite, Ohsumi, into orbit, becoming the fourth country to successfully launch a satellite independently.",
-      "category": "Space Exploration",
-      "significance": "This milestone marked Japan's entry into the space race, showcasing its technological progress and space capabilities."
+      "year": 1979,
+      "title": "Snow Falls in the Sahara Desert",
+      "description": "A rare snowstorm struck the town of Ain Sefra in Algeria, on the edge of the Sahara, covering sand dunes with snow for about half an hour.",
+      "category": "Natural Event",
+      "significance": "The event was one of the few recorded snowfalls in the Sahara, and it has become a notable example of extreme and unusual weather phenomena."
     }
   ]
 }

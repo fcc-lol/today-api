@@ -2,36 +2,44 @@
   "date": "January 28",
   "holidays": [
     {
-      "name": "Data Privacy Day",
-      "description": "A day to raise awareness about the importance of protecting personal data and maintaining online privacy in our digital age.",
-      "origin": "Established in 2007 by the Council of Europe and supported by the US and Canada to promote privacy and data protection best practices.",
-      "category": "Awareness Day",
-      "emoji": "🔒",
-      "funFact": "Despite the serious theme, some companies celebrate by making humorous 'privacy policy' videos to engage users!"
+      "name": "National Blueberry Pancake Day",
+      "description": "A day to stack up fluffy pancakes studded with juicy blueberries, drown them in syrup, and call it a perfectly reasonable breakfast, lunch, or dinner.",
+      "origin": "Like many American food days, it is an unofficial observance that grew out of food marketing and social media calendars. Blueberries became a pancake staple in the United States, where wild blueberries are native to North America.",
+      "category": "Food Day",
+      "emoji": "🥞",
+      "funFact": "Blueberries were one of the few fruits native to North America that Indigenous peoples used extensively, and the Wild Blueberry is Maine's official state berry."
     },
     {
-      "name": "Fun at Work Day",
-      "description": "Encourages people to bring more fun and laughter into their workplace to boost morale and productivity.",
-      "origin": "An unofficial holiday created by career coaches and human resource enthusiasts who believe work should be enjoyable.",
-      "category": "Workplace Celebration",
-      "emoji": "🎉",
-      "funFact": "Some offices celebrate by wearing silly hats or hosting impromptu dance contests to shake off the midwinter blues."
+      "name": "Data Privacy Day",
+      "description": "A day dedicated to reminding everyone to stop using 'password123', read those terms and conditions at least once, and protect personal information online.",
+      "origin": "It began in Europe as Data Protection Day in 2007 to mark the anniversary of Convention 108, signed on January 28, 1981, the first legally binding international treaty on data protection. North America adopted Data Privacy Day in 2008.",
+      "category": "Awareness Day",
+      "emoji": "🔒",
+      "funFact": "Convention 108 was signed in 1981, before the public internet existed, which makes the treaty surprisingly ahead of its time."
     },
     {
       "name": "National Kazoo Day",
-      "description": "A quirky celebration of the humble kazoo, the buzzing, buzzing musical instrument that anyone can play.",
-      "origin": "Started by kazoo enthusiasts and musical oddities fans to showcase fun, informal music.",
-      "category": "Music/Instrument Day",
-      "emoji": "🎶",
-      "funFact": "During National Kazoo Day, some communities try to create the largest kazoo ensemble for a buzzing world record!"
+      "description": "A buzzing, humming celebration of the humble kazoo, the only instrument where you can sound like a bumblebee with a record deal.",
+      "origin": "An informal fun observance honoring the kazoo, a membranophone that is said to have been popularized in the United States in the 1850s. The modern metal kazoo is often tied to Georgia and later to a factory in Eden, New York.",
+      "category": "Pop Culture / Music",
+      "emoji": "🎺",
+      "funFact": "The kazoo does not work by blowing air through it like a flute. You have to hum or sing into it, and the vibrating membrane changes your voice."
     },
     {
-      "name": "International Puzzle Day",
-      "description": "A celebration of all kinds of puzzles — crosswords, jigsaws, Sudoku, logic puzzles — designed to keep our brains sharp and entertained.",
-      "origin": "Began in the early 2000s, championed by puzzle magazines and enthusiasts worldwide.",
-      "category": "Hobby/Brain Games",
-      "emoji": "🧩",
-      "funFact": "On this day, some puzzle clubs hold competitions to see who can complete the trickiest puzzle fastest."
+      "name": "National Fun at Work Day",
+      "description": "A day when employees are encouraged to lighten up, play office games, and remember that spreadsheets are only slightly less fun when you wear a silly hat.",
+      "origin": "Promoted by workplace culture and team-building advocates as an unofficial observance meant to boost morale and reduce workplace stress. It is also observed in some years as an excuse to do something silly in the break room.",
+      "category": "Unofficial Observance",
+      "emoji": "🎉",
+      "funFact": "Studies on workplace happiness have repeatedly linked employee enjoyment with higher productivity, so laughing at work can be a legit strategy."
+    },
+    {
+      "name": "Lego Day",
+      "description": "A celebration of the iconic interlocking plastic bricks that have caused millions of people to step on them barefoot and still love them anyway.",
+      "origin": "Lego Day marks the anniversary of the patent for the modern Lego brick, filed in Denmark on January 28, 1958 by Godtfred Kirk Christiansen.",
+      "category": "Pop Culture / Toys",
+      "emoji": "🧱",
+      "funFact": "Lego bricks made today still fit with bricks made in 1958, which is why the toy is famous for its remarkable compatibility across the decades."
     }
   ]
 }

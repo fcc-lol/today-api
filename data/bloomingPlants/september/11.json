@@ -2,62 +2,59 @@
   "date": "September 11",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower featuring bright yellow petals surrounding a dark brown central cone. Often found in meadows and prairies, it is hardy and attracts pollinators.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and central North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like goblet-shaped flowers in autumn with no leaves present. The foliage emerges the following spring, then dies back before the next flowering. All parts are highly toxic due to colchicine.",
+      "bloomingSeason": "Late summer to autumn (September to October)",
+      "location": "Europe, naturalized in meadows and gardens across temperate Northern Hemisphere",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are the state flower of Maryland and coneflowers in the same genus are closely related."
+      "emoji": "🌷",
+      "funFact": "Despite its name it is not a true crocus; it is in the family Colchicaceae. Colchicine from this plant is used in medicine to treat gout and is also used by plant breeders to induce chromosome doubling."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A vibrant garden perennial with large, colorful, often pom-pom shaped flowers. Native to Mexico and Central America, dahlias bloom late summer through fall, making them popular in September gardens worldwide.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico; widely cultivated worldwide",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall herbaceous perennial forming dense plumes of tiny golden-yellow flower heads on arching stems. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators preparing for autumn and winter.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "North America, in meadows, roadsides and prairies; introduced and widespread in Europe and Asia",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "purple",
-        "orange"
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often wrongly blamed for hay fever; its pollen is heavy and sticky and insect-carried, while the real culprit is usually ragweed blooming at the same time."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub with huge, artichoke-like flower heads surrounded by showy pink bracts, the largest of any protea. It is adapted to nutrient-poor, fire-prone fynbos soils and is a symbol of South Africa.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November, peaking around September)",
+      "location": "Western and Southern Cape, South Africa (fynbos)",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "Dahlias come in more flower forms than any other genus, including single, double, cactus, and pompon shapes."
+      "funFact": "The king protea is South Africa's national flower, and its genus is named after Proteus, the shape-shifting Greek god, because of the great diversity of forms in the family."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A shrub known for large, globe-shaped flower clusters that can appear in pink, blue, or white depending on soil acidity. Blooms often last through September in mild climates.",
-      "bloomingSeason": "June to September",
-      "location": "Native to Japan; cultivated worldwide",
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen (Hardy Cyclamen)",
+      "description": "A low-growing tuberous perennial with swept-back pink flowers that appear in early autumn before the marbled, ivy-shaped leaves unfurl. It thrives in woodland shade and can form large colonies.",
+      "bloomingSeason": "Late summer to autumn (August to November)",
+      "location": "Southern Europe and Western Asia; widely naturalized in gardens in the UK and North America",
       "colors": [
-        "blue",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Magenta"
       ],
-      "emoji": "💐",
-      "funFact": "The flower color changes with the soil pH: acidic soils produce blue flowers, alkaline soils yield pink flowers."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A tall wildflower native to North America, recognized by its purple petals and prominent orange-brown central cone. Blooms late summer to early fall and attracts butterflies and bees.",
-      "bloomingSeason": "July to October",
-      "location": "Central and eastern North America",
-      "colors": [
-        "purple",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌺",
-      "funFact": "Echinacea is valued for its traditional medicinal uses to boost immune health."
+      "emoji": "💮",
+      "funFact": "After pollination, the flower stalks coil like springs and pull the seed capsules to the ground, where ants disperse the sticky seeds. Tubers can live for over 100 years."
     }
   ]
 }

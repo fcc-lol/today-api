@@ -2,61 +2,63 @@
   "date": "October 21",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum",
-      "description": "A popular flowering plant commonly cultivated in gardens, chrysanthemums are known for their vibrant, daisy-like blooms that thrive in autumn. They have a rich variety of colors and are often associated with fall festivals and decorations.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions of Asia, widely cultivated worldwide",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It thrives in the cooling temperatures and shortening days of fall and is widely grown in gardens and as a cut flower.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide, especially East Asia, Europe, and North America",
       "colors": [
         "yellow",
         "white",
-        "red",
-        "purple"
+        "bronze",
+        "purple",
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are considered the flower of autumn in East Asia and symbolize longevity and rejuvenation."
+      "funFact": "Chrysanthemums are short-day plants, so they set buds only when nights grow long enough. The flower is a national symbol of Japan, and the Imperial Seal is a stylized chrysanthemum."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall, bright annuals with large flower heads that follow the sun's movement. While peak bloom is in late summer, many varieties continue blooming into October, especially in warmer climates.",
-      "bloomingSeason": "July to October",
-      "location": "Native to North America, cultivated worldwide",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall native wildflower with daisy-like flowers that have purple rays and yellow centers. It brightens meadows, roadsides and prairies late in the season and is an important nectar source for migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern and central North America",
       "colors": [
-        "yellow",
-        "orange",
-        "red"
-      ],
-      "emoji": "🌻",
-      "funFact": "The sunflower's heliotropic movement helps maximize photosynthesis for stronger growth during its blooming period."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "Camellias are glossy-leaved evergreen shrubs prized for their beautiful, often rose-like flowers. Many varieties start blooming in mid to late autumn, adding color to gardens as other plants begin to fade.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated in temperate gardens worldwide",
-      "colors": [
+        "purple",
+        "violet",
         "pink",
-        "red",
-        "white"
+        "yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers do not produce a fragrance, yet are highly valued for their elegant form and long blooming season."
+      "emoji": "💜",
+      "funFact": "Its flowers close at night and on cloudy days, and the plant is a key fuel stop for monarch butterflies migrating to Mexico."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleanders are hardy, evergreen shrubs with clusters of vivid flowers. In Mediterranean and subtropical climates, they bloom prolifically through late autumn.",
-      "bloomingSeason": "May to October (sometimes later)",
-      "location": "Mediterranean, subtropical regions globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tree covered in clusters of trumpet-shaped lavender-blue flowers that carpet the ground beneath it. It blooms before its fernlike leaves fully emerge, creating a purple haze over streets and parks in the Southern Hemisphere spring.",
+      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "colors": [
+        "lavender",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "A graceful annual with feathery foliage and saucer-shaped flowers on slender stems. It flowers prolifically until the first frost and is a favorite of pollinators and cut-flower gardeners.",
+      "bloomingSeason": "Summer through first frost (to October or later in mild climates)",
+      "location": "Native to Mexico; cultivated worldwide",
       "colors": [
         "pink",
         "white",
-        "red"
+        "magenta",
+        "crimson"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the oleander plant are highly toxic if ingested, but it remains popular as an ornamental plant due to its resilience and abundant blooms."
+      "funFact": "The name 'cosmos' comes from the Greek word for 'order' or 'harmony,' which Spanish priests in Mexico applied to the plants' orderly petals."
     }
   ]
 }

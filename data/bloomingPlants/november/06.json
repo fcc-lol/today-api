@@ -2,65 +2,63 @@
   "date": "November 6",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum",
-      "description": "A widely cultivated ornamental plant known for its vibrant and diverse flower colors, chrysanthemums often bloom in autumn, making them popular in gardens and floral arrangements during late fall.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions, widely cultivated globally",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial grown in gardens across the Northern Hemisphere, producing dense, layered blooms in many forms including pompon, spider, and incurved types. It tolerates light frosts and provides color when most other garden plants are fading.",
+      "bloomingSeason": "Late summer to late autumn",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
       "colors": [
         "yellow",
         "white",
+        "bronze",
         "red",
-        "purple"
+        "purple",
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are native to East Asia and have been cultivated in China for over 2,500 years."
+      "funFact": "In Japan, the chrysanthemum is the emblem of the Imperial family, and the Chrysanthemum Festival is held in autumn to celebrate it."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub admired for its large, showy flowers which bloom in late fall to early spring, camellias are prevalent in temperate climates and are valued in gardens and parks.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated in temperate zones of North America and Europe",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in late autumn, earlier than its relative Camellia japonica. Its fragrant, delicate flowers with prominent yellow stamens attract late-season pollinators and brighten the landscape as temperatures cool.",
+      "bloomingSeason": "Mid-autumn to early winter",
+      "location": "Native to Japan; widely grown in the southeastern United States, Mediterranean Europe, and Australia",
       "colors": [
         "white",
         "pink",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia flowers were a favorite of Queen Victoria and were symbolic of refinement in Victorian England."
-    },
-    {
-      "name": "Bougainvillea glabra",
-      "commonName": "Bougainvillea",
-      "description": "A vibrant climbing plant known for its brilliantly colored bracts surrounding small white flowers, bougainvillea blooms year-round in tropical and subtropical climates, including November.",
-      "bloomingSeason": "Year-round in tropical climates, including November",
-      "location": "Tropical and subtropical regions worldwide",
-      "colors": [
-        "magenta",
-        "purple",
-        "red",
-        "orange",
-        "white"
+        "rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Bougainvillea's colorful parts are actually modified leaves called bracts, not petals."
+      "funFact": "Oil pressed from the seeds of Camellia sasanqua is used in Japan for cooking and hair care."
     },
     {
-      "name": "Kalanchoe blossfeldiana",
-      "commonName": "Flaming Katy",
-      "description": "A succulent houseplant that produces clusters of small, long-lasting blooms, Kalanchoe is often seen blooming indoors in cooler months such as November, thriving in bright light environments.",
-      "bloomingSeason": "Mostly in late fall and winter",
-      "location": "Native to Madagascar, widely grown indoors globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tree of the Southern Hemisphere spring that covers itself in clusters of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Its fallen blossoms carpet streets and pavements in purple.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; planted in Australia, South Africa (Pretoria), Argentina, and New Zealand",
       "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "orange",
-        "white"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌵",
-      "funFact": "Kalanchoe can propagate vegetatively from leaf or stem cuttings, making it easy to propagate at home."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "A daisy-like annual with feathery foliage that blooms prolifically in warm climates. In frost-free regions of the Northern Hemisphere and in the spring gardens of the Southern Hemisphere, it keeps flowering through early November, attracting bees and butterflies.",
+      "bloomingSeason": "Summer to first frost; spring to summer in the Southern Hemisphere",
+      "location": "Native to Mexico; naturalized in warm regions of the Americas, Australia, and Asia",
+      "colors": [
+        "pink",
+        "white",
+        "magenta",
+        "crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "The name 'cosmos' comes from the Greek word for 'order' or 'harmony,' reflecting the symmetrical arrangement of its petals."
     }
   ]
 }

@@ -2,63 +2,61 @@
   "date": "July 27",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, showy flowers with a prominent central staminal column. Commonly found in warm climates and used ornamentally in gardens and landscapes.",
-      "bloomingSeason": "Year-round in tropical climates, July included",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with slender gray-green foliage and dense spikes of small, fragrant flowers. It thrives in sunny, well-drained soils and is widely grown in gardens and commercial fields, where it attracts bees and butterflies.",
+      "bloomingSeason": "Mid-summer, peaking from late June through August in the Northern Hemisphere",
+      "location": "Mediterranean-native; widely cultivated in Provence (France), England, Tasmania, and the northern United States",
       "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and used in teas and culinary dishes in many cultures."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A perennial wildflower native to western North America, producing tall spikes of pea-like flowers that attract pollinators.",
-      "bloomingSeason": "June to August",
-      "location": "Northwestern United States and Canada",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, rough-textured stem and huge flower heads made of many tiny disc florets surrounded by bright yellow ray petals. Young flower heads track the sun across the sky.",
+      "bloomingSeason": "Mid to late summer, from July through September in temperate Northern Hemisphere regions",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and the Great Plains of the United States",
       "colors": [
-        "blue",
-        "purple",
+        "yellow",
+        "golden",
+        "brown",
+        "orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "The sunflower head is not one flower but hundreds to thousands of tiny florets arranged in a Fibonacci spiral pattern."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular, many-petaled flowers on tall stalks. The leaves have a waxy surface that repels water and dirt.",
+      "bloomingSeason": "Peak bloom from June to August during the monsoon and warm summer months",
+      "location": "Asia, from India and China to Japan and Vietnam, and northern Australia; also cultivated in ponds worldwide",
+      "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility naturally."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been shown to germinate after more than 1,000 years of dormancy, and the flower can regulate its own temperature to about 30-35°C."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial wildflower with large daisy-like purple flowers and a spiny central cone, popular in gardens and known for medicinal properties.",
-      "bloomingSeason": "June through September",
-      "location": "Central and eastern North America",
-      "colors": [
-        "purple",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub that blooms profusely during summer with clusters of fragrant flowers, often used in warm climate ornamental gardening.",
-      "bloomingSeason": "May to October",
-      "location": "Mediterranean, subtropical and tropical areas worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "An evergreen shrub with the largest flower head in the Protea genus, made of showy pink bracts surrounding a central cluster of tiny flowers. It grows in the fynbos vegetation of southern Africa.",
+      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering from roughly May to November and a peak in winter and spring",
+      "location": "Western and Southern Cape of South Africa; also grown in Australia, Hawaii, and California",
       "colors": [
         "pink",
-        "white",
-        "red",
-        "yellow"
+        "cream",
+        "silvery-white",
+        "red"
       ],
-      "emoji": "🌹",
-      "funFact": "Oleander is highly toxic if ingested; all parts of the plant contain poisonous compounds."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and the genus is named after the Greek god Proteus, who could change his shape."
     }
   ]
 }

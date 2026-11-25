@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Earth Day",
-      "description": "A global event dedicated to environmental protection and raising awareness about issues like pollution, conservation, and climate change.",
-      "origin": "First celebrated in 1970, initiated by U.S. Senator Gaylord Nelson to promote environmental awareness and action worldwide.",
-      "category": "Environmental Awareness 🌍",
-      "emoji": "🌎",
-      "funFact": "Earth Day is now observed by over 1 billion people in 192 countries, making it the largest secular observance in the world!"
+      "description": "A global celebration of the planet in which millions of people plant trees, clean up beaches, and pledge to finally remember their reusable shopping bags.",
+      "origin": "First held in 1970 after Senator Gaylord Nelson, inspired in part by the 1969 Santa Barbara oil spill, organized a national teach-in on the environment. About 20 million Americans took part in the first one.",
+      "category": "Awareness Day",
+      "emoji": "🌍",
+      "funFact": "Earth Day is now observed in more than 190 countries and is often called the largest secular observance in the world. In 2009 the United Nations officially named it International Mother Earth Day."
     },
     {
       "name": "National Jelly Bean Day",
-      "description": "A sweet celebration honoring the colorful, tiny candy beans that come in countless flavors and make springtime tastier!",
-      "origin": "Started in the United States to celebrate jelly beans, especially popular during Easter and spring seasons.",
-      "category": "Food Holiday 🍬",
-      "emoji": "🍬",
-      "funFact": "Jelly beans were popularized by American candy maker William Schrafft, who encouraged sending them to soldiers during the Civil War for an energy boost."
+      "description": "A day for sugar fans to enjoy the little bean-shaped candies, from classic cherry to the dreaded earwax and booger flavors.",
+      "origin": "An unofficial food holiday that grew out of the candy's long popularity. Jelly beans have been tied to Easter celebrations since the early 20th century, and the date often falls near the holiday.",
+      "category": "Food Holiday",
+      "emoji": "🫘",
+      "funFact": "Jelly beans made it into space in 1981 when the Space Shuttle crew was sent some. President Ronald Reagan famously kept a jar on his desk and handed them out at meetings."
     },
     {
-      "name": "International Guide Dogs Day",
-      "description": "A day to recognize the amazing guide dogs that help visually impaired people navigate life safely and independently.",
-      "origin": "An international observance dedicated to raising awareness about guide dogs and the needs of their handlers, celebrated on the fourth Wednesday of April each year.",
-      "category": "Awareness Day 🐕‍🦺",
-      "emoji": "🐕‍🦺",
-      "funFact": "Guide dogs can be trained in over 40 commands and undergo up to two years of rigorous training before they can assist their handlers."
+      "name": "National Chocolate Covered Cashew Day",
+      "description": "A day dedicated to the crunchy, creamy, chocolatey snack that makes a handful of nuts feel like a fancy dessert.",
+      "origin": "An unofficial snack holiday invented by food enthusiasts and snack makers, and promoted on food calendars as a reason to enjoy the sweet and salty combo.",
+      "category": "Food Holiday",
+      "emoji": "🥜",
+      "funFact": "Cashews are technically seeds that grow hanging from the bottom of a cashew apple. They are never sold in the shell because the shell contains a skin-irritating oil related to the one in poison ivy."
     },
     {
-      "name": "Hug a Plumber Day",
-      "description": "A quirky unofficial day to appreciate hardworking plumbers and the vital services they provide to keep our water flowing and toilets flushing!",
-      "origin": "Started as a fun, lighthearted way to thank plumbers who often work behind the scenes keeping plumbing problems at bay.",
-      "category": "Appreciation Day 🔧",
-      "emoji": "🔧",
-      "funFact": "The world’s first recorded plumber was identified in Ancient Rome, where plumbing innovations like aqueducts and baths were first developed."
+      "name": "Girl Scout Leader's Day",
+      "description": "A day to thank the volunteers who guide scouts through camping trips, badge projects, and the high-stakes business of cookie sales.",
+      "origin": "Observed in the United States each year on April 22 to honor the adults who lead troops. It recognizes the volunteer work behind the organization founded by Juliette Gordon Low in 1912.",
+      "category": "Appreciation Day",
+      "emoji": "🏕️",
+      "funFact": "The first Girl Scout cookies were baked at home in the 1910s and 1920s. Troops sold them to raise money, long before the organization began working with commercial bakers."
+    },
+    {
+      "name": "National Take a Chance Day",
+      "description": "A day that urges you to step out of your comfort zone, try the weird menu item, send the risky text, or finally take that leap you keep putting off.",
+      "origin": "An unofficial motivational observance that appears on lists of quirky holidays, encouraging people to embrace a little risk and spontaneity.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🎲",
+      "funFact": "The word chance traces back to the Old French word for a fall of the dice, so the holiday's name is quite literally about rolling the dice."
     }
   ]
 }

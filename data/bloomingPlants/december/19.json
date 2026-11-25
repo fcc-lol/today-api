@@ -2,57 +2,63 @@
   "date": "December 19",
   "plants": [
     {
-      "name": "Wintersweet",
-      "commonName": "Wintersweet",
-      "description": "A deciduous shrub known for its fragrant, bright yellow flowers that bloom in the depths of winter, often before the leaves emerge. It adds a cheerful splash of color and scent to cold, gray days.",
-      "bloomingSeason": "December to February",
-      "location": "Native to China, cultivated in temperate gardens worldwide, especially in East Asia and North America",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. Native to Mexico, it grows outdoors as a large shrub in warm climates and is widely grown as a potted holiday plant elsewhere.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
+      "location": "Southern Mexico and Central America; cultivated worldwide, outdoors in subtropical regions such as Florida, California, and Hawaii",
       "colors": [
-        "Yellow"
+        "Red",
+        "White",
+        "Pink",
+        "Cream"
       ],
-      "emoji": "🌼",
-      "funFact": "Wintersweet flowers open in late autumn and winter, attracting early-season pollinators despite the cold."
+      "emoji": "🎄",
+      "funFact": "Poinsettias need long nights of about 12 hours or more for several weeks to develop their colorful bracts, which is why they color up naturally around the winter solstice. The Aztecs called the plant cuetlaxochitl and used its sap to make a reddish dye."
     },
     {
-      "name": "Poinsettia (Euphorbia pulcherrima)",
-      "commonName": "Poinsettia",
-      "description": "A popular ornamental plant often associated with Christmas. The bright red bracts are commonly mistaken for flower petals and provide vibrant color in winter when many other plants are dormant.",
-      "bloomingSeason": "November to February",
-      "location": "Native to Mexico and Central America; widely cultivated indoors and in warmer climates globally",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and brightens winter gardens when little else is in bloom.",
+      "bloomingSeason": "Late autumn through early spring (November to April)",
+      "location": "Native to Japan, Korea, and China; widely grown in the southeastern United States, Western Europe, Australia, and New Zealand",
       "colors": [
         "Red",
         "Pink",
-        "White"
-      ],
-      "emoji": "🎄",
-      "funFact": "The poinsettia’s red 'petals' are actually modified leaves called bracts that change color in response to shorter daylight hours."
-    },
-    {
-      "name": "Hellebore (Helleborus spp.)",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial that produces delicate, nodding flowers in shades of white, pink, and purple, often blooming in December and January, enduring cold and snow.",
-      "bloomingSeason": "December to February",
-      "location": "Native to Europe and Asia; popular in temperate gardens in the Northern Hemisphere",
-      "colors": [
         "White",
-        "Pink",
-        "Purple",
-        "Green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Hellebores contain toxic compounds and were historically used as herbal remedies with caution due to their potency."
-    },
-    {
-      "name": "Waratah (Telopea speciosissima)",
-      "commonName": "Waratah",
-      "description": "An iconic Australian native shrub with striking large red flower heads that bloom in late spring to early summer in Australia, corresponding to December-January in the Southern Hemisphere.",
-      "bloomingSeason": "October to December",
-      "location": "Native to southeastern Australia, particularly New South Wales",
-      "colors": [
-        "Red"
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Waratah flowers are made up of hundreds of tiny individual flowers clustered together, creating their impressive appearance."
+      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant that gives us tea. Over 30,000 cultivars have been named, and in Japan the flower symbolizes the winter season."
+    },
+    {
+      "name": "Hippeastrum puniceum",
+      "commonName": "Amaryllis (Barbados Lily)",
+      "description": "A bulbous perennial with tall, sturdy stalks topped by large trumpet-shaped flowers. In the Southern Hemisphere and tropical regions it blooms in the warm season, while forced bulbs bloom indoors in the Northern Hemisphere winter.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in northern winter",
+      "location": "Native to tropical Americas and the Caribbean; grown in gardens in South Africa, Australia, and South America, and as indoor potted plants in Europe and North America",
+      "colors": [
+        "Red",
+        "Orange",
+        "White",
+        "Pink"
+      ],
+      "emoji": "🌷",
+      "funFact": "Amaryllis bulbs can bloom again year after year for decades with proper care, and the flower stalk can grow several centimeters in a single day."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of tubular flowers on tall stems. It thrives in the sunny summer weather of the Southern Hemisphere and is drought tolerant once established.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February)",
+      "location": "Native to South Africa's Eastern Cape; widely cultivated in Australia, New Zealand, and coastal California, and naturalized in some regions",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💠",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower), meaning 'flower of love'."
     }
   ]
 }

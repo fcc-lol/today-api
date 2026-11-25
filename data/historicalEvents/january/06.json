@@ -2,32 +2,39 @@
   "date": "January 6",
   "events": [
     {
-      "year": 1066,
-      "title": "Coronation of Harold II as King of England",
-      "description": "After the death of Edward the Confessor, Harold II was crowned king of England on January 6, 1066, at Westminster Abbey. This event preceded the Norman Conquest later that year.",
-      "category": "Political history / Monarchy (England)",
-      "significance": "Marked the last major Anglo-Saxon reign and set the stage for the Norman conquest that reshaped English governance and culture."
+      "year": 1412,
+      "title": "Birth of Joan of Arc (traditional date)",
+      "description": "Joan of Arc, the French peasant girl who would lead French forces during the Hundred Years' War, is traditionally said to have been born on this date in Domrémy, France. The exact date is uncertain and rests on a later tradition.",
+      "category": "Birth",
+      "significance": "Joan of Arc became a national heroine of France and a Catholic saint. Her military leadership, especially the relief of Orléans in 1429, helped turn the tide of the Hundred Years' War."
     },
     {
       "year": 1838,
-      "title": "Samuel Morse publicly demonstrates the electric telegraph",
-      "description": "On January 6, 1838, Samuel F. B. Morse demonstrated the electric telegraph to an audience, showcasing a method for rapid long-distance communication.",
-      "category": "Technology / Inventions",
-      "significance": "Pioneered modern long-distance communication networks, laying the groundwork for a global telegraph system that transformed information exchange."
+      "title": "First Public Demonstration of the Telegraph",
+      "description": "Samuel Morse and Alfred Vail gave the first public demonstration of their telegraph system at the Speedwell Ironworks in Morristown, New Jersey, transmitting a message over two miles of wire using their code.",
+      "category": "Science and Technology",
+      "significance": "The demonstration paved the way for long-distance electrical communication. Morse code and the telegraph transformed commerce, journalism, and military operations around the world."
     },
     {
-      "year": 1937,
-      "title": "Roosevelt outlines the Judicial Procedures Reform Bill (court-packing plan)",
-      "description": "On January 6, 1937, U.S. President Franklin D. Roosevelt proposed a plan to expand the Supreme Court to obtain more favorable rulings for New Deal legislation.",
-      "category": "Politics / Law",
-      "significance": "A controversial move that sparked extensive political backlash and altered the dynamics of Roosevelt’s presidency and constitutional politics."
+      "year": 1912,
+      "title": "New Mexico Admitted as the 47th U.S. State",
+      "description": "President William Howard Taft signed the proclamation admitting New Mexico to the Union as the 47th state, ending decades as a territory following the Mexican-American War.",
+      "category": "Politics",
+      "significance": "Statehood gave New Mexico full representation in the federal government and recognized its distinct Hispanic, Native American, and Anglo cultural heritage."
+    },
+    {
+      "year": 1941,
+      "title": "Roosevelt's Four Freedoms Speech",
+      "description": "In his State of the Union address, President Franklin D. Roosevelt outlined four fundamental freedoms: freedom of speech, freedom of worship, freedom from want, and freedom from fear.",
+      "category": "Politics",
+      "significance": "The speech helped shift American public opinion toward supporting the Allies before U.S. entry into World War II and influenced postwar human rights thinking, including the Universal Declaration of Human Rights."
     },
     {
       "year": 2021,
-      "title": "January 6 U.S. Capitol attack",
-      "description": "Supporters of President Donald Trump stormed the U.S. Capitol in Washington, D.C., while Congress was certifying the 2020 presidential election results.",
-      "category": "Political history / Civil unrest",
-      "significance": "Shook the American political system, led to multiple deaths and injuries, and prompted widespread debates about democracy, security, and accountability."
+      "title": "U.S. Capitol Attack",
+      "description": "A mob of supporters of President Donald Trump stormed the United States Capitol in Washington, D.C., disrupting the joint session of Congress that was certifying the results of the 2020 presidential election.",
+      "category": "Politics",
+      "significance": "The attack was a major breach of the peaceful transfer of power in the United States, leading to a second impeachment of Trump, numerous prosecutions, and ongoing debate about American democracy."
     }
   ]
 }

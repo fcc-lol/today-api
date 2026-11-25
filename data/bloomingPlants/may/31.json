@@ -2,59 +2,60 @@
   "date": "May 31",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub native to southern Europe and Asia, featuring large clusters of vibrant, trumpet-shaped flowers. It thrives in woodland and mountainous areas and is prized for its showy spring blooms.",
-      "bloomingSeason": "April to June",
-      "location": "Europe, Western Asia",
-      "colors": [
-        "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is the ancestral species from which many garden rhododendrons were bred."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia’s national floral emblem, this small tree or shrub produces beautiful fluffy golden-yellow flower clusters, bringing brightness to Australian landscapes in late spring.",
-      "bloomingSeason": "May to September",
-      "location": "Southeastern Australia",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "The golden wattle’s vivid yellow flowers symbolize unity and resilience in Australia."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A hardy perennial wildflower native to western North America, known for its tall spikes packed with colorful pea-like flowers. It flourishes in meadows and along roadsides in late spring and early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Western North America",
-      "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Lupines improve soil fertility by fixing nitrogen, benefiting neighboring plants."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular hybrid magnolia cultivated worldwide for its large, showy flowers with a unique cup shape. It blooms spectacularly in late spring, heralding the end of the season.",
-      "bloomingSeason": "April to May",
-      "location": "Cultivated worldwide in temperate regions",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with glossy, deeply lobed foliage. It is a beloved cottage garden staple and a classic cut flower.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
         "pink",
         "white",
+        "red",
+        "coral"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peony plants can live for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
+    },
+    {
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, forming a compact, suckering shrub with fragrant, semi-double to double flowers and golden stamens. It is the ancestor of many old garden roses.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to southern and central Europe and western Asia; cultivated in temperate gardens worldwide",
+      "colors": [
+        "deep pink",
+        "crimson",
         "purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Magnolias are among the oldest flowering plants, dating back over 95 million years."
+      "emoji": "🌹",
+      "funFact": "Dried petals of Rosa gallica 'Officinalis' retain their fragrance for years, which is why it was long used in medicine and perfumery as the Apothecary's Rose."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing tropical to subtropical tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they fall.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Pretoria (South Africa), California, Mexico, Florida, and the Mediterranean",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, nicknamed the Jacaranda City, there are tens of thousands of jacaranda trees lining the streets."
+    },
+    {
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A gnarled, hardy Australian tree or shrub with serrated leathery leaves and tall, cylindrical flower spikes made of thousands of tiny flowers, which attract nectar-feeding birds and mammals. In the Southern Hemisphere it blooms in autumn and winter.",
+      "bloomingSeason": "Late summer through winter, with peak flowering in autumn (March to June in the Southern Hemisphere)",
+      "location": "Eastern Australia, from Queensland to Victoria and Tasmania, mostly in sandy coastal heath and woodland",
+      "colors": [
+        "yellow",
+        "gold",
+        "green-yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksia seed cones, called follicles, often stay sealed until fire passes, which triggers them to open and release seeds onto the nutrient-rich ash."
     }
   ]
 }

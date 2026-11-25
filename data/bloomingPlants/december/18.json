@@ -2,55 +2,60 @@
   "date": "December 18",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial herbaceous plant cherished for its winter blooms. It produces large, white to pale pink, cup-shaped flowers often appearing in mid-winter, including December. It thrives in shaded garden areas of Europe and parts of North America.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe, cultivated in temperate gardens worldwide",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose; its flowers can bloom even through snow."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot",
-      "description": "A deciduous tree that begins to flower in late winter and sometimes as early as December. It produces fragrant pink or white blossoms which are treasured in East Asian cultures, marking the onset of spring even in colder months.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia (China, Japan, Korea)",
-      "colors": [
-        "Pink",
-        "White"
-      ],
-      "emoji": "🌸🇯🇵",
-      "funFact": "Prunus mume blossoms are celebrated in Japanese and Chinese art and poetry for their beauty and early bloom."
-    },
-    {
-      "name": "Calothamnus quadrifidus",
-      "commonName": "One-sided Bottlebrush",
-      "description": "An Australian native shrub with bright red, bottlebrush-like flowers that bloom in late spring and sporadically throughout the year, including December. Its vibrant blooms attract birds and pollinators in the wild.",
-      "bloomingSeason": "August to December",
-      "location": "Southwestern Australia",
-      "colors": [
-        "Red"
-      ],
-      "emoji": "🌺🐦",
-      "funFact": "The flowers have four claw-like stamen bundles, giving the plant its species name 'quadrifidus', meaning 'split into four'."
-    },
-    {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "An iconic winter-flowering plant widely cultivated for its brilliant red and green foliage, popular during the Christmas season. The colored bracts are often mistaken for petals and surround small yellow flowers.",
-      "bloomingSeason": "November to February",
-      "location": "Native to Central America; widely grown worldwide as a holiday plant",
+      "description": "A shrub with showy colored bracts surrounding tiny yellow flower clusters called cyathia. Native to Mexico, it blooms in response to the long nights of late autumn and winter and is a classic holiday plant in the Northern Hemisphere.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; grown worldwide as a holiday plant and in frost-free gardens",
       "colors": [
-        "Red",
-        "Green"
+        "red",
+        "white",
+        "pink",
+        "cream"
       ],
-      "emoji": "🎄🌺",
-      "funFact": "The poinsettia is named after Joel Roberts Poinsett, the first U.S. Minister to Mexico, who introduced the plant to the United States in the 1820s."
+      "emoji": "🎄",
+      "funFact": "The colorful parts are modified leaves (bracts), not petals. The Aztecs called the plant Cuetlaxochitl and used its sap to make a reddish dye."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial with nodding, saucer-shaped white flowers that often take on a pink blush with age. It flowers in the cold of winter, often pushing through snow, and is prized in shade gardens.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Mountain woodlands of the Alps and the Apennines in central and southern Europe; cultivated in temperate gardens",
+      "colors": [
+        "white",
+        "pale pink",
+        "green"
+      ],
+      "emoji": "🌹",
+      "funFact": "Despite its name it is not a true rose; it belongs to the buttercup family and all parts are toxic. Legend says it sprang from the tears of a girl who had no gift for the Christ child."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tree with fern-like leaves that becomes covered in spectacular clusters of large flowers in the hot season. In the Southern Hemisphere, flowering begins around late spring and early summer.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere (November to February); May to July in the northern tropics",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and southern Africa",
+      "colors": [
+        "scarlet",
+        "orange-red",
+        "yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "It is among the most colorful trees in the world, yet it is critically endangered in its native Madagascar, where its natural habitat has largely been lost."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A graceful tree with feathery foliage that bursts into masses of lavender-blue trumpet-shaped flowers, carpeting the ground beneath when they drop. In the Southern Hemisphere, blooming peaks in late spring and lingers into early summer.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America (Argentina, Bolivia); planted widely in South Africa, Australia, and New Zealand's northern regions",
+      "colors": [
+        "lavender",
+        "purple-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In parts of Australia, a falling jacaranda blossom on the head is said to bring good luck, and university students traditionally believe that if a flower falls on you before exams you will pass."
     }
   ]
 }

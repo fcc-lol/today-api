@@ -2,61 +2,60 @@
   "date": "June 27",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A hardy rose species known for its continuous blooming habit and fragrant flowers, often cultivated in gardens worldwide.",
-      "bloomingSeason": "Year-round in suitable climates, with peak bloom in late spring to early summer",
-      "location": "Widely cultivated; native to Southwest China; grows in temperate and subtropical regions globally",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant, evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely cultivated in gardens and in large fields for essential oil production and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Late spring to mid-summer (peak June to July in the Northern Hemisphere)",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Tasmania, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "China Roses introduced repeat blooming traits to European roses, revolutionizing rose breeding."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which is the origin of its name from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Delphinium elatum",
-      "commonName": "Tall Delphinium",
-      "description": "A striking perennial with tall spikes of densely packed flowers, beloved in cottage gardens.",
-      "bloomingSeason": "Late spring through midsummer",
-      "location": "Native to temperate Northern Hemisphere regions; commonly grown in Europe and North America",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flower heads, composed of sterile sepals, set against broad glossy green leaves. It thrives in partial shade and moist soil.",
+      "bloomingSeason": "Early summer to early autumn",
+      "location": "Native to Japan; widely grown in temperate gardens in Europe, North America, the Azores, and East Asia",
       "colors": [
-        "blue",
-        "purple",
-        "white",
-        "pink"
+        "Blue",
+        "Pink",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Delphiniums contain alkaloids that can be toxic, so gardeners should handle with care."
+      "emoji": "💠",
+      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing Australian native tree with clusters of bright orange flowers attractive to birds.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (November–January) but blooms variably depending on local conditions; in equatorial climates, can bloom around June",
-      "location": "Native to eastern Australia; grown as ornamental and street trees worldwide in subtropical zones",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round, water-repellent leaves held above the water and spectacular, fragrant flowers on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters.",
+      "bloomingSeason": "Early summer to late summer (June to August in the Northern Hemisphere)",
+      "location": "Native to Asia and northern Australia; cultivated in India, China, Vietnam, Japan, and the southern United States",
       "colors": [
-        "orange"
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic texture that makes them self-cleaning, a phenomenon known as the 'lotus effect' that has inspired water-repellent materials."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody shrub with the largest flower head in the Protea genus, featuring a large bowl-shaped crown of pointed pink bracts surrounding a center of fuzzy flowers. It grows in fynbos vegetation on nutrient-poor, acidic soils.",
+      "bloomingSeason": "Late autumn to early summer, with many blooms in the Southern Hemisphere winter (May to September)",
+      "location": "South Africa's Western and Eastern Cape fynbos regions",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "Despite its common name, Silky Oak is actually a member of the Proteaceae family, not an oak."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A wildflower commonly found in pine barrens and sandy soils with tall spikes of pea-like flowers.",
-      "bloomingSeason": "Late spring to mid-summer",
-      "location": "Native to eastern North America",
-      "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Wild Lupine is crucial for the endangered Karner Blue butterfly, which depends on it as a larval food plant."
+      "funFact": "The king protea is South Africa's national flower, and it is adapted to wildfires, with underground lignotubers that resprout after burns."
     }
   ]
 }

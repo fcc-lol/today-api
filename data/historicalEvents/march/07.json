@@ -2,32 +2,39 @@
   "date": "March 7",
   "events": [
     {
-      "year": 321,
-      "title": "Constantine I declares Sunday as a day of rest",
-      "description": "Roman Emperor Constantine I decreed that Sunday would be a day of rest throughout the Roman Empire, a significant move in the spread of Christianity.",
-      "category": "Political/Religious",
-      "significance": "This decree helped establish Christian practices and influenced the Western tradition of observing Sunday as a day off from work."
+      "year": 1876,
+      "title": "Alexander Graham Bell Granted Telephone Patent",
+      "description": "The U.S. Patent Office issued Patent No. 174,465 to Alexander Graham Bell for his invention of the telephone, covering the method of transmitting speech by telegraphic means.",
+      "category": "Science and Technology",
+      "significance": "The patent protected one of the most transformative inventions in history, launching modern telecommunications and the Bell Telephone Company."
     },
     {
-      "year": 1876,
-      "title": "Alexander Graham Bell makes the first successful telephone call",
-      "description": "Alexander Graham Bell successfully called his assistant, saying, 'Mr. Watson, come here, I want to see you,' marking the first intelligible speech transmitted over the telephone.",
-      "category": "Science/Technology",
-      "significance": "This event marked the birth of modern telecommunication, revolutionizing global communication systems."
+      "year": 1936,
+      "title": "Germany Remilitarizes the Rhineland",
+      "description": "Adolf Hitler ordered German troops into the demilitarized Rhineland, violating the Treaty of Versailles and the Locarno Treaties. France and Britain did not respond with military action.",
+      "category": "Politics and Military",
+      "significance": "The lack of response emboldened Hitler and showed the weakness of appeasement, a key step on the road to World War II."
     },
     {
       "year": 1965,
-      "title": "Bloody Sunday in Selma, Alabama",
-      "description": "Civil rights marchers attempting to cross the Edmund Pettus Bridge were brutally attacked by state troopers, an event that came to be known as 'Bloody Sunday'.",
-      "category": "Social/Political",
-      "significance": "The violent crackdown drew national attention to the civil rights movement, leading to the Voting Rights Act of 1965."
+      "title": "Bloody Sunday in Selma",
+      "description": "About 600 civil rights marchers led by John Lewis and Hosea Williams were attacked by state troopers and local police as they crossed the Edmund Pettus Bridge in Selma, Alabama, en route to Montgomery.",
+      "category": "Civil Rights",
+      "significance": "Televised images of the violence shocked the nation, building support for the Voting Rights Act of 1965 and advancing the American civil rights movement."
     },
     {
-      "year": 1957,
-      "title": "Ghana gains independence from Britain",
-      "description": "Ghana became the first sub-Saharan African country to gain independence from colonial rule on March 7, 1957.",
-      "category": "Political",
-      "significance": "This event marked a major milestone in decolonization in Africa and inspired independence movements across the continent."
+      "year": 1945,
+      "title": "Capture of the Ludendorff Bridge at Remagen",
+      "description": "U.S. 9th Armored Division forces captured the Ludendorff Bridge over the Rhine at Remagen, Germany, largely intact, allowing Allied troops to cross the river.",
+      "category": "Military",
+      "significance": "The unexpected crossing gave the Allies a foothold east of the Rhine and hastened the collapse of Nazi Germany in World War II."
+    },
+    {
+      "year": 1875,
+      "title": "Birth of Maurice Ravel",
+      "description": "French composer Maurice Ravel was born in Ciboure, France. He became known for works such as Boléro, Pavane for a Dead Princess, and his orchestration of Pictures at an Exhibition.",
+      "category": "Arts and Culture",
+      "significance": "Ravel became one of the most influential composers of the early 20th century, noted for his orchestral mastery and refined impressionist style."
     }
   ]
 }

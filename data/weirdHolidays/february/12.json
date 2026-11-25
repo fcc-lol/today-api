@@ -2,36 +2,44 @@
   "date": "February 12",
   "holidays": [
     {
-      "name": "Plimsoll Day",
-      "description": "Celebrate the safety and science of ships by honoring the Plimsoll Line, a marking on a ship's hull showing the maximum safe loading limit!",
-      "origin": "Named after Samuel Plimsoll, a British politician who championed maritime safety laws in the 19th century.",
-      "category": "Historical / Safety Awareness",
-      "emoji": "🚢",
-      "funFact": "Thanks to the Plimsoll Line, overloaded ships are less likely to sink, making maritime travel much safer worldwide."
-    },
-    {
       "name": "Darwin Day",
-      "description": "Celebrate the birth of Charles Darwin and the wonder of evolution and scientific discovery! It's a day to honor science, reason, and the spirit of curiosity.",
-      "origin": "Commemorates Charles Darwin's birthday on February 12, 1809.",
-      "category": "Science / Education",
-      "emoji": "🧬",
-      "funFact": "Darwin Day inspires many science museums and educational groups to hold special events promoting biology and understanding of life."
+      "description": "A global celebration of science and reason honoring the birthday of Charles Darwin, with lectures, museum events, and plenty of people gleefully pondering finches and barnacles.",
+      "origin": "Charles Darwin was born on February 12, 1809. Darwin Day events began in the 1990s, after which the Darwin Day movement grew into an international observance championed by science and humanist groups.",
+      "category": "Science Celebration",
+      "emoji": "🐢",
+      "funFact": "Darwin was born on the exact same day as Abraham Lincoln, February 12, 1809, and he spent eight years studying barnacles alone."
     },
     {
-      "name": "Get A Different Name Day",
-      "description": "Feeling stuck with your name? This quirky holiday encourages people to think about what it would be like to have a completely different name—unleash your creativity!",
-      "origin": "An informal observance encouraging fun and reflection on names and identities.",
-      "category": "Fun / Self-Expression",
-      "emoji": "🆔",
-      "funFact": "Some people use this day to prank friends by pretending to have a new, unusual name for the day!"
+      "name": "Lost Penny Day",
+      "description": "A day to acknowledge the humble penny by picking up stray coins you find, treating each as a tiny gift from the universe, and perhaps contemplating whether pennies should still exist.",
+      "origin": "The day is tied to Abraham Lincoln's birthday, since his portrait appears on the U.S. penny, which has carried his image since 1909. It is an unofficial, grassroots observance.",
+      "category": "Money Observance",
+      "emoji": "🪙",
+      "funFact": "The Lincoln penny was the first circulating U.S. coin to feature a real person, and it debuted in 1909 to mark the 100th anniversary of his birth."
     },
     {
-      "name": "National Plum Pudding Day",
-      "description": "A sweet and spiced celebration of plum pudding—a classic British Christmas dessert enjoyed year-round by dessert aficionados!",
-      "origin": "An unofficial food holiday appreciating traditional desserts made with dried fruits and spices.",
-      "category": "Food / Dessert",
+      "name": "Plum Pudding Day",
+      "description": "A day dedicated to the rich, boozy, steamed dessert that contains no plums whatsoever. Time to set something on fire for dessert and call it tradition.",
+      "origin": "Plum pudding comes from medieval England, where 'plum' was a general term for dried fruits like raisins and prunes. The pudding became closely tied to Christmas, and this unofficial food day gives it a second chance in February.",
+      "category": "Food Holiday",
       "emoji": "🍮",
-      "funFact": "Despite its name, plum pudding rarely contains actual plums; the 'plum' traditionally referred to raisins or other dried fruits."
+      "funFact": "Traditional recipes often have a coin hidden inside, and in Victorian times finding it was thought to bring luck to the diner."
+    },
+    {
+      "name": "National Freedom to Marry Day",
+      "description": "An awareness observance recognizing the right of couples to marry and to have that choice honored equally, often marked with rallies, weddings, and educational events.",
+      "origin": "It was started in 2004 by Evan Wolfson and the Freedom to Marry organization, and it is held on the Saturday before Valentine's Day rather than a fixed date.",
+      "category": "Awareness Day",
+      "emoji": "💍",
+      "funFact": "The date was originally held around Valentine's Day to link the cause to romance, making it one of the few awareness days that doubles as a very large wedding invitation."
+    },
+    {
+      "name": "Sculpture Appreciation Day?",
+      "description": "A tongue-in-cheek reminder to stop and admire the statues, busts, and chiseled lumps in your life and pose awkwardly next to them for photos.",
+      "origin": "This is an informal social media era observance, popular with museums, art lovers, and local park enthusiasts who like to celebrate public art.",
+      "category": "Arts Observance",
+      "emoji": "🗿",
+      "funFact": "Michelangelo reportedly said that every block of stone has a statue inside it, and it is the sculptor's job to discover it."
     }
   ]
 }

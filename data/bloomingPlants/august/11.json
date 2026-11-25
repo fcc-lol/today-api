@@ -3,64 +3,59 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that track the sun across the sky. They thrive in full sun and are widely cultivated for their seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large golden flower heads that track the sun when young. Widely cultivated for seeds, oil and ornamental use, it thrives in full sun and is at peak bloom in mid-summer across the Northern Hemisphere.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "North America, Europe, and temperate Asia; native to the Americas",
       "colors": [
-        "Yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters tall and their flower heads can contain up to 2,000 individual flowers called florets."
+      "funFact": "The flower head is actually made up of hundreds to thousands of tiny individual florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Rosa spp.",
-      "commonName": "Rose",
-      "description": "Roses are woody perennial flowering plants well known for their fragrant and visually diverse flowers, often cultivated in gardens worldwide. Many rose species and cultivars bloom repeatedly through the summer months.",
-      "bloomingSeason": "Late spring to early autumn, including August",
-      "location": "Worldwide in temperate climates",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and spikes of fragrant purple flowers. Late-blooming plantings in cool-summer regions are still colorful in August, attracting bees and butterflies.",
+      "bloomingSeason": "Summer (June to August)",
+      "location": "Mediterranean region, southern France, England, Pacific Northwest, and Tasmania",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Yellow",
-        "Orange",
-        "Purple"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Rose hips, the fruit of the rose plant, are rich in vitamin C and have been used in herbal remedies."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "Dahlias are tuberous perennial plants known for their striking, multi-petaled flowers in a variety of shapes and vibrant colors. They bloom abundantly in late summer and early autumn.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico and Central America, widely cultivated globally",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves held above water and spectacular, fragrant blossoms rising on tall stalks. It blooms profusely during the warm monsoon and summer months in shallow ponds and lakes.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "India, China, Japan, Southeast Asia, and northern Australia",
       "colors": [
-        "Red",
-        "Pink",
-        "Orange",
-        "Yellow",
-        "White",
-        "Purple"
+        "pink",
+        "white"
       ],
-      "emoji": "🌼",
-      "funFact": "Dahlias were declared the national flower of Mexico in 1963."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-textured surface that repels water and dirt, a phenomenon known as the 'lotus effect' that inspires self-cleaning materials."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Lupine",
-      "description": "Lupines are tall, erect flowering plants with spikes covered in densely packed pea-like flowers. They bloom profusely in summer and are popular in wildflower meadows and gardens.",
-      "bloomingSeason": "June to August",
-      "location": "Native to North America and Europe, commonly found in temperate zones",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head of the protea family, featuring a bowl of pointed pink bracts around a center of fuzzy florets. It flowers in the Southern Hemisphere's late winter and spring, beginning around August.",
+      "bloomingSeason": "Late winter to spring (August to November, peaking later)",
+      "location": "Fynbos region of South Africa's Western and Eastern Cape",
       "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines enrich soil by fixing nitrogen, which benefits other plants around them."
+      "emoji": "🌺",
+      "funFact": "It is the national flower of South Africa, and its lineage is ancient, with protea relatives dating back to when Gondwana was still intact."
     }
   ]
 }

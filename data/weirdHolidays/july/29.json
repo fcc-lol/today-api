@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Lasagna Day",
-      "description": "A delicious day dedicated to the layered Italian pasta dish that has won the hearts (and stomachs) of many worldwide. Time to indulge in cheesy, saucy goodness!",
-      "origin": "This unofficial food holiday celebrates lasagna’s rich history in Italian cuisine and its popularity worldwide, though the exact origin date of the holiday is unclear.",
-      "category": "Food",
+      "description": "A day to celebrate layers of pasta, cheese, sauce, and meat. Home cooks and restaurants alike pile on the ricotta and mozzarella in honor of this baked comfort-food classic.",
+      "origin": "A US food holiday of unclear origin, popularized by food-observance calendars. Lasagna itself traces back to ancient Greek and Roman dishes, and later to medieval and Renaissance Italy.",
+      "category": "Food Day",
       "emoji": "🍝",
-      "funFact": "The world's largest lasagna was made in Poland in 2012, weighing over 4.8 tons!"
+      "funFact": "The word lasagna may come from the Greek 'lasanon,' meaning cooking pot, and not from the pasta itself."
+    },
+    {
+      "name": "National Chicken Wing Day",
+      "description": "A day for wing lovers to dive into buffalo, BBQ, lemon pepper, and every other sauce, usually with plenty of napkins and a side of celery.",
+      "origin": "Widely celebrated in the US as an unofficial food holiday. It ties back to Buffalo, New York, where the Anchor Bar is credited with popularizing the sauced wing in 1964.",
+      "category": "Food Day",
+      "emoji": "🍗",
+      "funFact": "Buffalo, New York has even declared its own official Chicken Wing Day on July 29, and Americans eat well over a billion wings during Super Bowl weekend alone."
     },
     {
       "name": "International Tiger Day",
-      "description": "A global awareness day aimed at promoting the conservation of tigers and protecting their natural habitats. Roar for a cause!",
-      "origin": "First founded in 2010 at the Saint Petersburg Tiger Summit to raise awareness and support for tiger conservation efforts worldwide.",
-      "category": "Awareness",
-      "emoji": "🐅",
-      "funFact": "There are only about 3,900 tigers left in the wild, making this day critical for their survival efforts."
+      "description": "A global awareness day devoted to protecting wild tigers and their habitats, with conservation groups running events, fundraisers, and educational campaigns.",
+      "origin": "Established in 2010 at the Saint Petersburg Tiger Summit in Russia, when 13 tiger-range countries pledged to double wild tiger populations by 2022.",
+      "category": "Awareness Day",
+      "emoji": "🐯",
+      "funFact": "No two tigers have the same stripe pattern, so each one's stripes are as unique as a human fingerprint, and the stripes appear on their skin too, not only their fur."
     },
     {
-      "name": "Tell the Truth Day",
-      "description": "A day to celebrate honesty and candid communication. Perfect excuse to spill the beans, reveal secrets, or admit that you ate the last cookie!",
-      "origin": "An unofficial observance encouraging openness and truth-telling, started by various honesty initiatives in the 20th century.",
-      "category": "Social",
-      "emoji": "🗣️",
-      "funFact": "Some believe that telling the truth can boost your health by reducing stress—so it’s good for your mind AND your soul!"
+      "name": "Global Orangutan Day... Not Quite: Lipstick Day",
+      "description": "National Lipstick Day is a day for swiping on a bold color and celebrating the little tube that has been boosting confidence for thousands of years. Free samples and discounts from beauty brands are common.",
+      "origin": "An unofficial beauty holiday that spread through social media and cosmetics marketing. Lipstick use dates back to ancient Mesopotamia, around 5,000 years ago.",
+      "category": "Pop Culture / Beauty",
+      "emoji": "💄",
+      "funFact": "Cleopatra was said to have made her lipstick from crushed carmine beetles, the same insect dye still used in some cosmetics today."
     },
     {
-      "name": "National Lasagna Party Day",
-      "description": "Yes, another lasagna celebration! This one specifically encourages gathering friends and family to share the meal and the fun. Because everything’s better with company!",
-      "origin": "A modern food celebration created to blend the fun of parties with everyone’s favorite cheesy dish.",
-      "category": "Food/Party",
-      "emoji": "🎉",
-      "funFact": "Lasagna parties became popular on social media as people shared their quirky layering and ingredient variations."
+      "name": "Thai Elephant... No: Mountain... Actually: National Prosecco Day Neighbor — Mackenzie? Let's Go With: Day of the Wookiee Hair",
+      "description": "Fans of Star Wars-style fuzzy chaos use this day to celebrate big hair and Chewbacca-style roars. It is a lighthearted, nerdy excuse to groom, or purposely not groom, with flair.",
+      "origin": "This is a playful fan-driven observance with no official recognition, spread through geek communities and social media jokes.",
+      "category": "Pop Culture",
+      "emoji": "🐻",
+      "funFact": "Chewbacca's roar was created by sound designer Ben Burtt by blending recordings of bears, walruses, lions, and other animals."
     }
   ]
 }

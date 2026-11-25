@@ -4,30 +4,37 @@
     {
       "year": 1613,
       "title": "Globe Theatre Destroyed by Fire",
-      "description": "The Globe Theatre in London, associated with William Shakespeare, was destroyed by a fire during a performance of Henry VIII.",
-      "category": "Cultural",
-      "significance": "Marked a significant moment in theatrical history, impacting Shakespeare's company and the history of English drama."
+      "description": "During a performance of Henry VIII, a cannon fired as a theatrical effect ignited the thatched roof of Shakespeare's Globe Theatre in London. The wooden building burned to the ground within about two hours, reportedly with no deaths.",
+      "category": "Arts and Culture",
+      "significance": "The loss of the playhouse associated with William Shakespeare's company is one of the most famous disasters in theatre history. The Globe was rebuilt in 1614, and a modern reconstruction opened in 1997."
     },
     {
-      "year": 1956,
-      "title": "Federal-Aid Highway Act Signed",
-      "description": "U.S. President Dwight D. Eisenhower signed the Federal-Aid Highway Act of 1956, initiating the creation of the Interstate Highway System.",
-      "category": "Political/Infrastructure",
-      "significance": "Led to the development of the extensive interstate road network, transforming American transportation and economy."
+      "year": 1900,
+      "title": "Birth of Antoine de Saint-Exupéry",
+      "description": "The French writer and aviator was born in Lyon, France. He became a pioneering airmail pilot and later wrote The Little Prince (1943), along with works such as Night Flight and Wind, Sand and Stars.",
+      "category": "Births",
+      "significance": "The Little Prince became one of the best-selling and most translated books in history, and Saint-Exupéry's writing shaped literature about aviation, humanity, and friendship."
+    },
+    {
+      "year": 1972,
+      "title": "U.S. Supreme Court Decides Furman v. Georgia",
+      "description": "The U.S. Supreme Court ruled 5-4 that the death penalty as then administered was arbitrary and capricious, constituting cruel and unusual punishment under the Eighth and Fourteenth Amendments.",
+      "category": "Law and Politics",
+      "significance": "The decision effectively suspended capital punishment across the United States until states rewrote their statutes, leading to the 1976 Gregg v. Georgia ruling that allowed executions to resume."
     },
     {
       "year": 2007,
-      "title": "Concorde Makes Final Commercial Flight",
-      "description": "The Concorde supersonic passenger jet made its last commercial flight, marking the end of the era of commercial supersonic travel.",
-      "category": "Technological/Aviation",
-      "significance": "Closed a chapter in aviation history with the retirement of the iconic Concorde after 27 years of service."
+      "title": "First iPhone Goes on Sale",
+      "description": "Apple released the original iPhone in the United States, with customers lining up outside stores. It combined a mobile phone, a widescreen iPod, and an internet communicator with a multi-touch screen interface.",
+      "category": "Science and Technology",
+      "significance": "The iPhone transformed the mobile phone industry and helped launch the modern smartphone era, reshaping communication, media, software distribution, and daily life worldwide."
     },
     {
-      "year": 1611,
-      "title": "King James Bible Published",
-      "description": "The King James Version of the Bible was first published in England, becoming one of the most influential English translations.",
-      "category": "Religious/Literary",
-      "significance": "Had a profound effect on English literature, religion, and language for centuries."
+      "year": 1995,
+      "title": "Space Shuttle Atlantis Docks with Mir",
+      "description": "Space Shuttle Atlantis (STS-71) docked with the Russian space station Mir, the first shuttle-Mir docking. The mission exchanged crew members and marked the start of joint U.S.-Russian operations in orbit.",
+      "category": "Space Exploration",
+      "significance": "The docking symbolized post-Cold War cooperation in space and provided experience that paved the way for the construction of the International Space Station."
     }
   ]
 }

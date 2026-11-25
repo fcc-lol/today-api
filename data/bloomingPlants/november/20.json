@@ -2,60 +2,63 @@
   "date": "November 20",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular autumn-blooming perennials with a rich diversity of flower shapes and colors. They thrive in temperate zones and are often cultivated in gardens and as cut flowers.",
-      "bloomingSeason": "September to November",
-      "location": "Northern Hemisphere temperate regions, widely cultivated worldwide",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial cultivated for its dense, layered flower heads in a huge range of forms, from pompons to spiders. It is among the last major garden flowers to bloom in the Northern Hemisphere and tolerates light frosts.",
+      "bloomingSeason": "Autumn (September to late November)",
+      "location": "Cultivated worldwide, especially East Asia, Europe and North America",
       "colors": [
         "yellow",
         "white",
-        "orange",
+        "bronze",
+        "purple",
         "red",
-        "purple"
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and joy in many cultures and have been cultivated in China for over 2000 years."
+      "funFact": "Chrysanthemums bloom in response to shortening days (short-day plants), and the flower is the emblem of Japan's Imperial family and is celebrated at Japan's Chrysanthemum Festival."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "The Golden Wattle is Australia's national floral emblem, a hardy shrub or small tree with bright yellow, fragrant, spherical flower clusters that bloom in late spring to early summer (Southern Hemisphere's spring).",
-      "bloomingSeason": "September to November",
-      "location": "Southeastern Australia",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark leaves that bears slightly fragrant, open single or semi-double flowers. It blooms earlier than the common camellia and is a valuable source of color and nectar for pollinators in late autumn.",
+      "bloomingSeason": "Late autumn to early winter (October to December)",
+      "location": "Native to southern Japan; widely grown in the southeastern United States, Mediterranean Europe and Australia",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "Its bright yellow flowers inspired Australia’s national colors, green and gold."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A popular ornamental shrub producing large, rose-like flowers. It blooms mainly in late autumn through winter in mild temperate climates, bringing color to gardens when few other flowers bloom.",
-      "bloomingSeason": "October to March",
-      "location": "Japan, East Asia, and cultivated worldwide in temperate climates",
-      "colors": [
+        "white",
         "pink",
-        "red",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia oil, extracted from seeds, is used in cosmetics and cooking in East Asia."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "The King Protea is South Africa’s national flower, notable for its large and striking flower heads resembling an artichoke. It blooms mainly in the Southern Hemisphere’s spring, offering vivid blooms in November.",
-      "bloomingSeason": "August to December",
-      "location": "South Africa",
-      "colors": [
-        "pink",
-        "red",
-        "white"
+        "rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "The King Protea belongs to a unique family (Proteaceae) with many species adapted to nutrient-poor soils."
+      "funFact": "Seeds of Camellia sasanqua are pressed to produce sasanqua oil, used in cooking, cosmetics and hair care in Japan."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large semi-deciduous tree that erupts in clouds of trumpet-shaped lavender-blue flowers, often before the leaves fully emerge. In late spring in the Southern Hemisphere, streets lined with jacarandas become carpeted with fallen blooms.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney, Brisbane) and New Zealand's northern regions",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, and an old student superstition says a bloom falling on your head brings good luck in exams."
+    },
+    {
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A tropical shrub native to Mexico whose showy colored bracts, not true petals, surround tiny yellow flower clusters called cyathia. In the wild it can reach several meters tall, while potted forms are a seasonal icon.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; grown outdoors in warm climates and indoors worldwide",
+      "colors": [
+        "red",
+        "white",
+        "pink",
+        "marbled cream"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias need long nights of about 12 hours or more for around 8 to 10 weeks to color their bracts, which is why they peak around late November and December."
     }
   ]
 }

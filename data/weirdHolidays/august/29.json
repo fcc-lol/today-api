@@ -2,36 +2,44 @@
   "date": "August 29",
   "holidays": [
     {
-      "name": "Chop Suey Day",
-      "description": "A day to celebrate the classic American-Chinese dish that never fails to bring together a mix of crunchy veggies, tender meat, and savory sauce in a tasty medley.",
-      "origin": "Chop Suey became popular in the United States in the late 19th century as Chinese immigrants adapted their cuisine to American tastes, creating a dish that means \"assorted pieces.\"",
-      "category": "Food Holiday",
-      "emoji": "🥢",
-      "funFact": "Despite popular belief, chop suey was invented in America, not China, making it a true fusion cuisine success story!"
-    },
-    {
       "name": "More Herbs, Less Salt Day",
-      "description": "Promoting healthier eating habits by encouraging people to flavor food with fresh herbs instead of excess salt.",
-      "origin": "Created by nutritionists and health organizations to raise awareness about reducing sodium intake and the benefits of herbs in cooking.",
-      "category": "Awareness Day",
+      "description": "A day dedicated to ditching the salt shaker and reaching for the spice rack. Home cooks are encouraged to season with basil, oregano, rosemary, and other flavorful herbs to cut back on sodium while making food taste fantastic.",
+      "origin": "An unofficial food and health observance that grew out of general public health efforts to reduce sodium intake. It is often listed on national food-day calendars, though no single founder is firmly documented.",
+      "category": "Food Holiday",
       "emoji": "🌿",
-      "funFact": "Replacing just one teaspoon of salt with herbs can save about 2,300 mg of sodium – nearly a full day's recommended limit!"
+      "funFact": "Before refrigeration, herbs and spices were prized partly because they helped mask the flavor of food that was past its prime, and in ancient Rome and Greece herbs were also woven into victory wreaths."
     },
     {
-      "name": "National Bow Tie Day",
-      "description": "A quirky celebration of the dapper neckwear that adds personality and flair to any outfit.",
-      "origin": "The bow tie has been a symbol of individuality and style since the 19th century, and this day honors those who choose to wear it proudly.",
-      "category": "Pop Culture/Fashion",
-      "emoji": "🎀",
-      "funFact": "Winston Churchill was famously photographed sporting a bow tie, solidifying it as a mark of distinguished style."
+      "name": "Lemon Juice Day",
+      "description": "A zesty celebration of the sour citrus squeeze that makes lemonade, salad dressings, and fish dinners sing. Pucker up and give your taste buds a wake-up call.",
+      "origin": "An informal food observance listed on many quirky holiday calendars, created by food enthusiasts and promoters of citrus. The exact origin is murky, as with many unofficial food days.",
+      "category": "Food Holiday",
+      "emoji": "🍋",
+      "funFact": "In the 1700s, lemon juice helped British sailors fight scurvy after naval surgeon James Lind ran an early clinical trial showing citrus cured the disease."
     },
     {
-      "name": "Be Loud! Day",
-      "description": "A fun, energetic day dedicated to being expressive, vocal, and not afraid to make some noise!",
-      "origin": "A modern unofficial celebration encouraging people to break out of their shells and shout their enthusiasm about life.",
-      "category": "Fun/Expression",
-      "emoji": "📢",
-      "funFact": "Be Loud! Day is a favorite among musicians, activists, and anyone who loves to make their voice heard."
+      "name": "International Day against Nuclear Tests",
+      "description": "A serious but important global observance calling attention to the effects of nuclear weapons testing and the need to end it. Events include educational programs, speeches, and disarmament advocacy.",
+      "origin": "Established by the United Nations General Assembly in 2009. The date was chosen because on August 29, 1991, Kazakhstan closed the Semipalatinsk nuclear test site, one of the largest testing grounds in the world.",
+      "category": "Awareness Day",
+      "emoji": "☮️",
+      "funFact": "The Semipalatinsk site in Kazakhstan hosted over 450 nuclear tests between 1949 and 1989, and the area is now a place of study for environmental recovery."
+    },
+    {
+      "name": "Individual Rights Day",
+      "description": "A day for pondering the freedoms of the individual, from free speech to personal choice. It invites people to reflect on personal liberty and how rights shape everyday life.",
+      "origin": "An unofficial observance often tied to the birthday of philosopher John Locke, born August 29, 1632, whose writings on life, liberty, and property influenced modern ideas of individual rights.",
+      "category": "Awareness Day",
+      "emoji": "🗽",
+      "funFact": "John Locke's phrase about life, liberty, and property is widely seen as an inspiration for the 'life, liberty and the pursuit of happiness' line in the U.S. Declaration of Independence."
+    },
+    {
+      "name": "Chop Suey Day",
+      "description": "A tribute to the famously mixed-up stir-fry of vegetables, meat, and savory sauce that became a staple of Chinese-American restaurants. Grab a wok and toss in whatever you have on hand.",
+      "origin": "A popular unofficial food day tied to the legend that chop suey was invented or popularized in America in the late 1800s, with the story of its supposed origin often linked to Chinese diplomat Li Hongzhang's 1896 visit to New York, though that tale is disputed.",
+      "category": "Food Holiday",
+      "emoji": "🥡",
+      "funFact": "The name chop suey is widely believed to come from a Cantonese phrase meaning 'assorted pieces,' which fits a dish that is basically a delicious leftover-friendly grab bag."
     }
   ]
 }

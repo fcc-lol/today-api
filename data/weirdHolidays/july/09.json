@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Sugar Cookie Day",
-      "description": "A sweet day dedicated to celebrating the simple yet delicious sugar cookie. This day is perfect for baking, decorating, and sharing sugar cookies with friends and family.",
-      "origin": "The exact origin is unclear, but it is believed to have started as a fun way to honor the classic sugar cookie, a staple in American baking traditions.",
-      "category": "Food Holiday",
+      "description": "A sweet celebration of the humble sugar cookie, the blank canvas of the baking world. Bakers everywhere roll, cut, frost, and sprinkle their way to buttery bliss, usually while sneaking dough off the counter.",
+      "origin": "This is an unofficial American food holiday that has been popularized by food bloggers and social media. Sugar cookies trace back to 1700s Pennsylvania, where German Protestant settlers in Nazareth made a version of them, and they are often called Nazareth sugar cookies.",
+      "category": "Food Day",
       "emoji": "🍪",
-      "funFact": "Sugar cookies have been around since at least the 1700s and were originally created as a holiday treat because the simple ingredients were easy to store over winter."
+      "funFact": "The sugar cookie was named the official state cookie of California in 2025, and the Nazareth sugar cookie is a historic favorite of Pennsylvania German communities."
     },
     {
-      "name": "Gulliver's Day",
-      "description": "A quirky day celebrating the adventures of Lemuel Gulliver, the fictional protagonist of Jonathan Swift's satirical classic, 'Gulliver's Travels.' Fans of literature and satire mark the day with readings or themed parties.",
-      "origin": "Named after Gulliver's Travels, published in 1726, this day recognizes the enduring impact of Swift's social commentary through fantasy and adventure.",
-      "category": "Literary Celebration",
-      "emoji": "📚",
-      "funFact": "Jonathan Swift’s Gulliver’s Travels was one of the earliest examples of science fiction and political satire, mocking the British government and society."
+      "name": "National Fried Chicken Day (Observed in Some Calendars)",
+      "description": "A crispy, crunchy, golden-brown tribute to one of the world's most beloved comfort foods. Celebrants are encouraged to eat with their hands and to never apologize for the grease on their fingers.",
+      "origin": "Fried chicken holidays are a food-calendar tradition in the United States, with the date varying by source. The dish itself blends Scottish frying traditions with West African seasoning techniques, and it was developed in the American South.",
+      "category": "Food Day",
+      "emoji": "🍗",
+      "funFact": "Scottish immigrants were deep-frying chicken in fat long before it became a Southern staple, while many English cooks of the time preferred to boil or bake their poultry."
     },
     {
-      "name": "National Paloma Day",
-      "description": "This day celebrates the Paloma, a delicious and refreshing Mexican cocktail made with tequila and grapefruit soda. It’s a perfect excuse to toast summer with friends!",
-      "origin": "Though not an official holiday, bartenders and cocktail enthusiasts promote this day to spotlight one of Mexico's most popular drinks.",
-      "category": "Food & Drink Holiday",
-      "emoji": "🍹",
-      "funFact": "The Paloma is said to be Mexico's favorite mixed drink, even more popular than the Margarita in many regions."
+      "name": "Sugar Cookie Day Companion: Don't Put All Your Eggs in One Basket Day",
+      "description": "A day dedicated to the wisdom of diversifying, whether it's your investments, your snacks, or your egg-carrying strategy. It encourages people to spread out their risks and their omelet ingredients.",
+      "origin": "This is a lighthearted unofficial observance inspired by the proverb, which is often credited to Miguel de Cervantes' 1605 novel Don Quixote, where the idea of not risking everything in one place appears.",
+      "category": "Proverb Observance",
+      "emoji": "🥚",
+      "funFact": "The proverb is so old that Cervantes used a version of it in Don Quixote in the early 1600s, making it more than 400 years old."
     },
     {
-      "name": "Don't Step on a Bee Day",
-      "description": "A peculiar reminder to watch your step and appreciate the importance of bees in the ecosystem. It’s a quirky way to promote awareness about pollinators and their role in the environment.",
-      "origin": "Started by environmental groups to raise awareness about the declining bee populations and the need to protect them.",
-      "category": "Environmental Awareness",
-      "emoji": "🐝",
-      "funFact": "Bees are responsible for pollinating about one-third of the food we eat—without them, many fruits and vegetables would become scarce!"
+      "name": "Martyrdom of the Báb",
+      "description": "A solemn Bahá'í holy day commemorating the execution of the Báb in 1850 in Tabriz, Persia. Bahá'ís around the world suspend work on this day and gather at noon for readings and prayers.",
+      "origin": "The Báb, the herald of the Bahá'í Faith, was executed by firing squad on July 9, 1850. The day is one of nine Bahá'í holy days on which work is suspended.",
+      "category": "Religious Observance",
+      "emoji": "🕊️",
+      "funFact": "According to Bahá'í accounts, the first attempt to execute the Báb failed when the bullets severed the ropes that suspended him and he was found unharmed in his cell."
+    },
+    {
+      "name": "Argentina Independence Day",
+      "description": "A national holiday in Argentina filled with parades, folk music, flags, and plenty of traditional dishes like locro, a hearty stew. Families often gather for big meals and patriotic celebrations.",
+      "origin": "The holiday marks the 1816 declaration of independence from Spain, signed by the Congress of Tucumán on July 9, 1816.",
+      "category": "National Holiday",
+      "emoji": "🇦🇷",
+      "funFact": "The house in San Miguel de Tucumán where independence was declared is now a museum, and the city's famed locro stew is a staple of the day's celebrations."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1775,
-      "title": "Start of the American Revolutionary War",
-      "description": "The Battles of Lexington and Concord were fought on April 19, 1775, marking the outbreak of armed conflict between Great Britain and its thirteen colonies in America.",
-      "category": "Military History",
-      "significance": "This event is considered the start of the American Revolutionary War, eventually leading to the independence of the United States."
+      "title": "Battles of Lexington and Concord",
+      "description": "British troops marched to seize colonial military supplies in Concord, Massachusetts, and clashed with colonial militia at Lexington and Concord. The first shots of the American Revolutionary War were fired, famously called the 'shot heard round the world.'",
+      "category": "Military",
+      "significance": "Marked the outbreak of armed conflict in the American Revolutionary War, leading to American independence and the founding of the United States."
     },
     {
       "year": 1943,
-      "title": "The Warsaw Ghetto Uprising Begins",
-      "description": "Jewish inhabitants of the Warsaw Ghetto in Nazi-occupied Poland staged an armed revolt against the German efforts to transport the remaining ghetto population to concentration camps.",
-      "category": "World War II",
-      "significance": "It was one of the first large-scale urban uprisings against Nazi occupation and has come to symbolize resistance against oppression."
+      "title": "Warsaw Ghetto Uprising Begins",
+      "description": "Jewish insurgents in the Warsaw Ghetto launched an armed revolt when German forces entered to deport the remaining residents to extermination camps. Poorly armed fighters resisted for nearly a month until the ghetto was crushed in May.",
+      "category": "Military",
+      "significance": "It was the largest single revolt by Jews during World War II and became a lasting symbol of resistance against Nazi persecution and the Holocaust."
     },
     {
-      "year": 1993,
-      "title": "Waco Siege Begins",
-      "description": "A 51-day standoff began between the Branch Davidians, a religious sect, and federal agents at their compound near Waco, Texas.",
-      "category": "Modern History",
-      "significance": "This event highlighted issues of government law enforcement, religious freedom, and led to debates on federal authority."
+      "year": 1995,
+      "title": "Oklahoma City Bombing",
+      "description": "Timothy McVeigh detonated a truck bomb outside the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people, including 19 children, and injuring hundreds more.",
+      "category": "Terrorism",
+      "significance": "It was the deadliest domestic terrorist attack in U.S. history, prompting major changes in federal building security and counterterrorism legislation."
     },
     {
-      "year": 1945,
-      "title": "Hitler's Last Birthday Marked by the Beginning of the Battle of Berlin",
-      "description": "Around April 19, Soviet forces began the final assault on the German capital during World War II as Nazi Germany faced imminent defeat.",
-      "category": "World War II",
-      "significance": "The Battle of Berlin was a decisive battle resulting in the end of Nazi Germany and marking the conclusion of the war in Europe."
+      "year": 1882,
+      "title": "Death of Charles Darwin",
+      "description": "English naturalist Charles Darwin died at Down House in Kent at age 73. He was honored with a state funeral and buried in Westminster Abbey near Isaac Newton.",
+      "category": "Science",
+      "significance": "Darwin's theory of evolution by natural selection, set out in On the Origin of Species, fundamentally transformed biology and our understanding of life."
+    },
+    {
+      "year": 1971,
+      "title": "Launch of Salyut 1",
+      "description": "The Soviet Union launched Salyut 1, the world's first space station, into low Earth orbit. It later hosted the crew of Soyuz 11, who tragically died during reentry in June 1971.",
+      "category": "Space Exploration",
+      "significance": "Salyut 1 began the era of long-duration human spaceflight and paved the way for later stations such as Mir and the International Space Station."
     }
   ]
 }

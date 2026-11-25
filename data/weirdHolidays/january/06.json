@@ -2,36 +2,44 @@
   "date": "January 6",
   "holidays": [
     {
-      "name": "Epiphany (Three Kings’ Day)",
-      "description": "A Christian feast day celebrating the revelation of God incarnate as Jesus Christ, traditionally marking the visit of the Magi to baby Jesus.",
-      "origin": "Originates from Christian tradition dating back to the 4th century, especially popular in Spain and Latin America.",
-      "category": "Religious/Cultural",
-      "emoji": "👑",
-      "funFact": "In many cultures, Epiphany is celebrated by baking a 'King Cake' with a hidden figurine; whoever finds it must host the next party!"
+      "name": "National Bean Day",
+      "description": "A day devoted to the humble legume, from baked beans to black beans to jelly beans if you're feeling cheeky. Chili pots, burrito bars, and cassoulet everywhere get their moment in the spotlight.",
+      "origin": "An informal American food observance that grew out of food-calendar lists, celebrating beans as an inexpensive, nutritious staple that has fed people for thousands of years.",
+      "category": "Food Day",
+      "emoji": "🫘",
+      "funFact": "Beans are among the oldest cultivated crops in the world, with evidence of cultivation dating back thousands of years, and the Romans reportedly used beans as voting tokens."
     },
     {
-      "name": "National Bean Day (USA)",
-      "description": "A day to honor and enjoy beans in all their glorious forms—baked, refried, chili, or simply steamed!",
-      "origin": "Established in the U.S. to celebrate beans as a nutritious, affordable, and versatile food staple.",
-      "category": "Food",
-      "emoji": "🍲",
-      "funFact": "The world record for the largest serving of baked beans is over 3,000 pounds!"
+      "name": "Epiphany / Three Kings' Day (with King Cake Season Kickoff)",
+      "description": "A Christian feast marking the visit of the Magi to the infant Jesus, celebrated with parades, gifts, and elaborate cakes. In many places it kicks off a season of hiding tiny trinkets in pastries and crowning whoever finds them.",
+      "origin": "Observed since the early centuries of Christianity. Traditions like the Rosca de Reyes in Mexico, Roscón in Spain, and King Cake in New Orleans (where Mardi Gras season begins) developed from medieval European customs.",
+      "category": "Religious and Cultural Celebration",
+      "emoji": "👑",
+      "funFact": "In New Orleans, whoever finds the plastic baby in their slice of King Cake is traditionally expected to buy the next cake or host the next party."
     },
     {
       "name": "Cuddle Up Day",
-      "description": "A cozy day encouraging everyone to snuggle up with a loved one or a pet, perhaps with a good book or a warm blanket.",
-      "origin": "Unofficial holiday created to combat winter blues and promote comfort and connection during chilly January days.",
-      "category": "Social/Emotional Well-being",
-      "emoji": "🤗",
-      "funFact": "Scientists say that cuddling releases oxytocin, known as the 'love hormone,' which lowers stress and boosts mood."
+      "description": "A day dedicated to snuggling under blankets with loved ones, pets, or a strategically heated pile of pillows. Perfect for the dead of winter when leaving the couch seems like a poor life choice.",
+      "origin": "An unofficial wintertime observance, popularized through social media and holiday calendars, that encourages warmth and closeness during the coldest part of the year.",
+      "category": "Unofficial Fun Day",
+      "emoji": "🧸",
+      "funFact": "Cuddling is associated with the release of oxytocin, often nicknamed the 'bonding hormone,' which can help lower stress."
     },
     {
-      "name": "International War on Clichés Day",
-      "description": "A quirky observance encouraging people to stop using tired clichés and instead get creative with their language!",
-      "origin": "Created by language enthusiasts and writers frustrated with overused phrases.",
-      "category": "Linguistic/Culture",
-      "emoji": "🗣️",
-      "funFact": "Common clichés like 'think outside the box' actually originated in the 20th century and have become so popular they're easy to misuse!"
+      "name": "Old Christmas (Armenian Christmas)",
+      "description": "Several Eastern Orthodox and Apostolic traditions celebrate Christmas on January 6 or 7 instead of December 25, complete with fasting, special services, and a hearty feast afterward.",
+      "origin": "Armenian Apostolic Christians have long observed the Nativity together with Epiphany on January 6, a practice that predates the separate December 25 Christmas date adopted in the Western church.",
+      "category": "Religious and Cultural Celebration",
+      "emoji": "🎄",
+      "funFact": "Armenia is one of the few places where Christmas and Epiphany are celebrated on the same day, with a traditional dish of fish, rice, and nevik (spinach-based) dishes after the fast."
+    },
+    {
+      "name": "Sherlock Holmes' Birthday (Unofficial Fan Celebration)",
+      "description": "Mystery fans toast the world's most famous consulting detective with deerstalker hats, violin serenades, and dramatic pipe-free pondering. Bonus points for deducing who ate the last biscuit.",
+      "origin": "Members of the Baker Street Irregulars, a Sherlockian society founded in 1934, celebrate the fictional detective's birthday around this date, with a traditional January 6 birthday often cited by fans based on Holmes scholarship.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🕵️",
+      "funFact": "Sherlock Holmes never actually says 'Elementary, my dear Watson' in any of Arthur Conan Doyle's original stories."
     }
   ]
 }

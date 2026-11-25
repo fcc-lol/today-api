@@ -2,64 +2,60 @@
   "date": "July 23",
   "plants": [
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A perennial herbaceous plant native to western North America, known for its tall spikes of densely packed flowers. It often grows in meadows and along streams.",
-      "bloomingSeason": "June to August",
-      "location": "North America (USA, Canada)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of fragrant purple flowers that attract bees and butterflies. Widely grown in gardens and commercial fields for essential oil.",
+      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
         "purple",
-        "blue",
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large flower head made of hundreds of tiny florets surrounded by yellow ray petals. Fields of sunflowers are at their peak in late July.",
+      "bloomingSeason": "Mid-summer to early fall (July to September)",
+      "location": "Native to North America; widely cultivated in Ukraine, Russia, France, Spain, and the central United States",
+      "colors": [
+        "yellow",
+        "golden orange",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds track the sun from east to west during the day, a behavior called heliotropism, but mature blooms stay facing east."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with daisy-like pink-purple petals drooping around a spiky orange-brown central cone. It is a favorite of pollinators and goldfinches.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Eastern and central North America, in prairies and open woodlands, and widely grown in gardens",
+      "colors": [
         "pink",
-        "white"
+        "purple",
+        "orange",
+        "bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines improve soil fertility by fixing nitrogen through symbiosis with bacteria in their roots."
+      "funFact": "Native Americans used Echinacea medicinally for centuries, and it remains one of the best-selling herbal supplements today."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub that produces large, showy flowers. It thrives in warm climates and is widely cultivated for ornamental purposes.",
-      "bloomingSeason": "Year-round in tropical climates, prominently blooming in summer months",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "An upright evergreen shrub of southeastern Australia that produces spectacular crimson flower heads up to 15 cm across, surrounded by showy red bracts. It blooms at the end of the Australian winter and into spring.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (begins around August, with early blooms possible in late July)",
+      "location": "Sandstone ridges and forests of New South Wales, Australia",
       "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and used to make a popular tart herbal tea called 'sorrel' or 'agua de Jamaica'."
-    },
-    {
-      "name": "Alcea rosea",
-      "commonName": "Hollyhock",
-      "description": "A tall biennial or short-lived perennial plant with large, colorful flowers clustered along upright stems. Commonly grown in cottage gardens.",
-      "bloomingSeason": "June to August",
-      "location": "Temperate regions worldwide, native to Asia and Europe",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow",
-        "purple"
-      ],
-      "emoji": "🌼",
-      "funFact": "Hollyhocks are important nectar sources for pollinators like bees and butterflies."
-    },
-    {
-      "name": "Banksia ericifolia",
-      "commonName": "Heath-leaved Banksia",
-      "description": "A shrub endemic to coastal southeastern Australia, producing bright orange or red cylindrical flower spikes.",
-      "bloomingSeason": "June to August",
-      "location": "Australia (New South Wales coast)",
-      "colors": [
-        "orange",
+        "crimson",
         "red"
       ],
-      "emoji": "🌿",
-      "funFact": "Banksias have woody seed cones that open to release seeds after fire, an adaptation to Australian bushfires."
+      "emoji": "🌺",
+      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from the Eora Aboriginal word meaning 'seen from afar'."
     }
   ]
 }

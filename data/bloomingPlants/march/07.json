@@ -2,55 +2,59 @@
   "date": "March 7",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A small tree known for its stunning pink to white flowers that herald the arrival of spring. It is widely cultivated in temperate regions and celebrated in festivals like Japan's Hanami.",
-      "bloomingSeason": "Late March to April (varies by region, some early bloomers in March)",
-      "location": "Temperate East Asia, cultivated worldwide",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asian gardens and is celebrated in art, poetry, and festivals.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "China, Japan, Korea, and cultivated in temperate gardens worldwide",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pink",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms have been an important cultural symbol in Japan for centuries, representing the ephemeral nature of life."
+      "funFact": "Ume blossoms herald the end of winter in Japan, and ume viewing (kobai) traditionally precedes cherry blossom viewing by several weeks."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial known for its white flowers that often bloom in late winter to early spring. Despite its common name, it blooms around Christmas and into early March in some areas.",
-      "bloomingSeason": "December to March",
-      "location": "Mountainous regions of Central and Southern Europe",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler petals. It naturalizes in woodlands and meadows and is one of the earliest spring bulbs in temperate Europe.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
       "colors": [
-        "white"
-      ],
-      "emoji": "❄️",
-      "funFact": "The Christmas rose can bloom through snow, adding early-season interest to gardens."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that produces clusters of fragrant flowers throughout the warmer months. In Mediterranean climates, it can begin blooming as early as March.",
-      "bloomingSeason": "March to October",
-      "location": "Mediterranean Basin, cultivated in subtropical and tropical regions worldwide",
-      "colors": [
-        "pink",
-        "white",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, this tree produces bright yellow, fluffy flower clusters in late winter to early spring, signaling seasonal change in southern Australia.",
-      "bloomingSeason": "July to November in Australia (Southern Hemisphere late winter to spring, meaning it blooms from July-November; not March in Australia). However, Acacia species bloom variably worldwide.",
-      "location": "Southeastern Australia",
-      "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Golden Wattle flowers contain numerous stamens that give the blossoms their characteristic fluffy appearance."
+      "funFact": "Daffodils contain galantamine, a compound that has been developed into a medication used for early-stage Alzheimer's disease."
+    },
+    {
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large Himalayan tree that bears enormous, goblet-shaped flowers on leafless branches. Individual blooms can reach 25 cm across, creating a spectacular display in late winter.",
+      "bloomingSeason": "Late winter to early spring (February to March)",
+      "location": "Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild temperate gardens",
+      "colors": [
+        "Pink",
+        "Deep rose",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, so their flowers are sturdy enough to be pollinated by beetles."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "An evergreen perennial with rounded clusters of trumpet-shaped blue flowers held on tall, slender stems above strap-like leaves. In the Southern Hemisphere, it is still in bloom at the end of summer.",
+      "bloomingSeason": "Summer to early autumn in the Southern Hemisphere (December to March)",
+      "location": "South Africa; widely grown in Australia, New Zealand, and Mediterranean climates",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily, and its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

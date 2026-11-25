@@ -1,58 +1,63 @@
 {
-  "date": "2024-10-25",
+  "date": "October 25",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
+      "name": "Chrysanthemum × morifolium",
       "commonName": "Garden Chrysanthemum",
-      "description": "A popular autumn-flowering plant known for its diverse and vibrant flower forms and colors. Chrysanthemums are cultivated worldwide and often signify the arrival of fall in temperate regions.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially in North America, Europe, and East Asia",
+      "description": "A classic autumn perennial with dense, layered blooms in a wide range of forms, from daisy-like to pompon and spider types. It thrives in the shortening days of fall and is prized in gardens and floral arrangements.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated across temperate regions of North America, Europe, and East Asia; native to China",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
+        "Yellow",
+        "Bronze",
+        "White",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are considered the flower of autumn in Japan and are celebrated during the annual Festival of Happiness."
+      "funFact": "Chrysanthemums are short-day plants that set buds only when nights grow long enough. In Japan, the flower is the emblem of the Imperial family and has its own festival, the Festival of Happiness."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A striking, medium-sized tree famous for its bright red, spiky flowers that bloom in late spring to autumn, favored in subtropical climates of South America.",
-      "bloomingSeason": "September to November (Southern Hemisphere spring to autumn)",
-      "location": "South America (Argentina, Uruguay, Brazil)",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful tree covered in clusters of trumpet-shaped lavender-blue flowers that often appear before the new leaves. In the Southern Hemisphere spring, entire streets are carpeted with fallen purple blossoms.",
+      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina, and Brazil",
       "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Rhododendron autumnale",
-      "commonName": "Autumn Azalea",
-      "description": "A deciduous azalea species that blooms in autumn with pink to white flowers, thriving in temperate forests mainly in eastern North America.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern United States",
-      "colors": [
-        "pink",
-        "white"
+        "Lavender",
+        "Violet-blue"
       ],
       "emoji": "🌸",
-      "funFact": "Unlike many azaleas that bloom in spring, this species uniquely flowers in the fall, adding color late in the year."
+      "funFact": "Pretoria in South Africa is known as the Jacaranda City because of its roughly 70,000 jacaranda trees, and local lore says a flower falling on your head brings good luck."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree with golden cylindrical flower spikes that appear in late spring through autumn, important as a nectar source for birds and mammals.",
-      "bloomingSeason": "August to December",
-      "location": "Eastern Australia",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Mexican Aster",
+      "description": "A tall, airy annual with feathery foliage and delicate daisy-like flowers on slender stems. In mild-autumn climates it keeps blooming until the first hard frost and attracts pollinators late in the season.",
+      "bloomingSeason": "Summer to late autumn (through October in mild Northern Hemisphere climates); spring in the Southern Hemisphere",
+      "location": "Native to Mexico and the southwestern US; naturalized and cultivated worldwide",
       "colors": [
-        "golden yellow"
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
-      "emoji": "🌻",
-      "funFact": "Coast Banksia's flower spikes are rich in nectar and are a vital resource for honeyeaters and other pollinators during the cooler months."
+      "emoji": "🌺",
+      "funFact": "Cosmos comes from the Greek word kosmos, meaning order or harmony, a name given by Spanish priests who grew the plants in their mission gardens in Mexico."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in autumn, earlier than the common camellia. It bears fragrant, open flowers with prominent golden stamens against glossy dark green leaves, brightening the garden as other plants fade.",
+      "bloomingSeason": "Autumn to early winter (October to December in the Northern Hemisphere)",
+      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Japan",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
+      ],
+      "emoji": "🌹",
+      "funFact": "Camellia sasanqua leaves can be used to make tea, and its seeds are pressed into camellia oil, which is used in cooking, cosmetics, and hair care in Japan."
     }
   ]
 }

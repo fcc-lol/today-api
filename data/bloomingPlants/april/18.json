@@ -2,59 +2,61 @@
   "date": "April 18",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous flowering tree known for its large, fragrant, tulip-shaped flowers appearing before the leaves. It thrives in temperate regions and is often one of the first magnolias to bloom in spring.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions worldwide, originally East Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad, blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to frilly parrot and double forms. Peak bloom occurs in mid-spring across temperate regions of the Northern Hemisphere.",
+      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
+      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; native to Central Asia",
       "colors": [
+        "red",
+        "yellow",
         "pink",
         "white",
-        "purple"
+        "purple",
+        "orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the 17th-century 'Tulip Mania' in the Netherlands, single bulbs sold for more than the price of a luxurious canal house."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A small deciduous tree whose showy display comes from four petal-like bracts surrounding a tight cluster of tiny greenish-yellow true flowers. The blooms appear before or as the leaves emerge, lighting up eastern woodlands and suburban yards.",
+      "bloomingSeason": "Mid April to early May",
+      "location": "Eastern United States, from southern New England to Florida and west to Texas",
+      "colors": [
+        "white",
+        "pink"
       ],
       "emoji": "🌸",
-      "funFact": "The Saucer Magnolia was one of the earliest magnolias hybridized for gardens and is famed for its spectacular early spring blooms."
+      "funFact": "The bright red fruits that follow the flowers are an important autumn food source for songbirds, and the tree is the state tree of Virginia and Missouri."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub adapted to Mediterranean climates, producing clusters of showy, fragrant flowers throughout the growing season. Oleander is drought-tolerant and often blooms profusely in warmer springs.",
-      "bloomingSeason": "April to October",
-      "location": "Mediterranean Basin, widely cultivated in subtropical and tropical regions",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine producing long, pendulous clusters of fragrant pea-like flowers. Blooms open all at once before the leaves fully expand, creating cascading curtains of color over pergolas, walls, and trees.",
+      "bloomingSeason": "Mid April to May",
+      "location": "Native to China; widely cultivated in Japan, Europe, and the southeastern United States",
+      "colors": [
+        "lavender",
+        "purple",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Wisteria vines can live for over a century, and the twining stems can grow strong enough to crush wooden structures and drainpipes."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Meadow Saffron",
+      "description": "Not suited to April; replaced here by an autumn bloomer of the Southern Hemisphere. Nerine bowdenii, a bulbous perennial, sends up naked stems topped with umbels of narrow, wavy-petaled, sparkling flowers just as autumn begins in southern regions.",
+      "bloomingSeason": "Autumn in the Southern Hemisphere (March to May)",
+      "location": "Native to South Africa's Eastern Cape and Drakensberg; naturalized in parts of Australia and New Zealand",
       "colors": [
         "pink",
-        "white",
-        "red",
-        "yellow"
+        "rose-pink"
       ],
       "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of oleander are highly toxic due to cardiac glycosides."
-    },
-    {
-      "name": "Erythronium japonicum",
-      "commonName": "Asian Fawn Lily",
-      "description": "A perennial wildflower native to East Asia with nodding, lily-like flowers that bloom in early spring under deciduous forests.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, Korea, northeastern China",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "The Asian fawn lily often grows in colonies and is known for its mottled leaves resembling a fawn’s coat."
-    },
-    {
-      "name": "Ceanothus thyrsiflorus",
-      "commonName": "Blue Blossom or California Lilac",
-      "description": "An evergreen shrub native to the western United States, particularly California. It produces dense clusters of small blue flowers that bloom in spring, attracting pollinators.",
-      "bloomingSeason": "March to May",
-      "location": "California coast and foothills",
-      "colors": [
-        "blue",
-        "purple"
-      ],
-      "emoji": "💙",
-      "funFact": "Ceanothus species fix nitrogen in the soil, enriching poor soils where they grow naturally."
+      "funFact": "The petals of Nerine have a crystalline surface that glitters in sunlight, which is why it is sometimes called the Guernsey lily or 'diamond lily'."
     }
   ]
 }

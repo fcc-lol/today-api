@@ -2,54 +2,59 @@
   "date": "March 14",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Japanese Cherry Blossom trees produce elegant, delicate flowers that range from pale pink to white, symbolizing the arrival of spring in many East Asian cultures. These blossoms appear before the leaves fully develop, creating stunning floral displays that attract many visitors each year.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, Korea, parts of China, and cultivated in the United States and Europe",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental cherry tree that produces clouds of pale pink-white, five-petaled flowers on bare branches before the leaves emerge. It is the iconic tree of hanami (flower viewing) festivals and is widely planted in parks and along rivers and avenues.",
+      "bloomingSeason": "Late March to mid-April in Japan; blooms in warmer regions such as southern Japan and parts of the southern US from early to mid-March",
+      "location": "Japan (Kyushu and southern Honshu), Washington D.C. region, Korea, and temperate regions worldwide",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The ephemeral beauty of cherry blossoms has inspired centuries of art and poetry and is celebrated annually in festivals called Hanami."
+      "funFact": "The first cherry trees in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival commemorates this gift every spring."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "Wild Daffodils are early spring bloomers found in meadows and woodlands. Their bright yellow, trumpet-shaped flowers signal the end of winter. Unlike cultivated daffodils, wild varieties can be smaller but still add vibrant color to the landscape.",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and blue-green strap-like leaves. It naturalizes in woodlands, meadows, and grassy banks, and countless cultivars are grown in gardens.",
       "bloomingSeason": "Late February to April",
-      "location": "Western and Central Europe, particularly the UK",
+      "location": "Western Europe (UK, France, Spain, Belgium), naturalized in North America and temperate gardens",
       "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow",
+        "Cream"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils are toxic to deer and rodents, which helps protect them in natural settings."
+      "funFact": "Daffodils contain the alkaloid galantamine, which is used in medicine to treat symptoms of Alzheimer's disease, and the plants are toxic to many grazing animals, so they are rarely eaten."
     },
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "Chinese Wisteria produces cascading clusters of fragrant purple-blue flowers in early spring. It is a climbing vine that can decorate pergolas and walls with its beautiful blossoms and lush foliage appearing shortly after flowering.",
-      "bloomingSeason": "March to May",
-      "location": "China and widely cultivated in temperate regions worldwide",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A majestic deciduous tree bearing enormous, goblet-shaped flowers up to 30 cm across on bare branches. The blossoms open in dramatic displays of pink and rose-magenta and can appear spectacular in mild, humid climates.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayan foothills (Nepal, Sikkim, Bhutan, southwestern China); cultivated in mild gardens in Cornwall, Ireland, New Zealand, and the Pacific Northwest",
       "colors": [
-        "purple",
-        "blue"
+        "Deep pink",
+        "Rose",
+        "White"
       ],
-      "emoji": "🌿",
-      "funFact": "Wisteria flowers contain a gas that can temporarily render bees dizzy, earning it the nickname 'drunken vines' in some cultures."
+      "emoji": "🌺",
+      "funFact": "Magnolia campbellii may take 20 to 30 years from seed before it flowers for the first time, and magnolias are among the most ancient flowering plants, having evolved before bees existed and being pollinated by beetles."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "Coast Banksia is an Australian native tree known for its striking cylindrical flower spikes that appear during late summer through early spring. Its golden-yellow flowers attract a variety of birds and mammals that feed on the nectar, playing a crucial role in the ecosystem.",
-      "bloomingSeason": "Late summer to early spring (including March)",
-      "location": "Eastern Australia coast",
+      "name": "Amaryllis belladonna",
+      "commonName": "Naked Lady",
+      "description": "A bulbous perennial in which strong, bare flower stalks emerge without leaves, topped by clusters of fragrant, trumpet-shaped pink flowers. The strap-like leaves appear later in the season after flowering.",
+      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere (February to April)",
+      "location": "Western Cape of South Africa; naturalized in Australia, New Zealand, Chile, and California",
       "colors": [
-        "yellow"
+        "Pink",
+        "Rose",
+        "White"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers are made up of hundreds of tiny individual flowers packed together in a cone-like spike."
+      "emoji": "🌷",
+      "funFact": "Its nickname 'Naked Lady' comes from the way the flower stalks rise out of the bare ground with no leaves, and the plant is a classic autumn bloomer in the Southern Hemisphere when March is early fall."
     }
   ]
 }

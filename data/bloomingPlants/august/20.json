@@ -3,56 +3,62 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall annual plants with large, bright yellow composite flower heads that track the sun. They are widely cultivated and also found in the wild, thriving in temperate regions.",
-      "bloomingSeason": "July to September",
-      "location": "North America, Europe, Asia (temperate regions)",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large daisy-like flower heads made of yellow ray florets surrounding a dark central disc. Young flower heads track the sun's movement across the sky. Widely cultivated for seed, oil, and ornament, and also found growing wild in prairies and roadsides.",
+      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
+      "location": "North America (native), cultivated worldwide including Ukraine, Russia, Europe, and the United States",
       "colors": [
         "yellow",
+        "gold",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism in bud stage, turning to follow the sun throughout the day."
+      "funFact": "The sunflower head is actually made up of hundreds to thousands of tiny individual flowers arranged in a spiral pattern following the Fibonacci sequence."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "This deciduous shrub is prized for its large, globe-shaped flower clusters, which can change color depending on soil pH.",
-      "bloomingSeason": "June to August",
-      "location": "East Asia and widely cultivated in temperate gardens worldwide",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie plant with drooping pinkish-purple petals around a spiky orange-brown central cone. It is a magnet for bees, butterflies, and goldfinches, and thrives in full sun and tolerates drought.",
+      "bloomingSeason": "Early summer to early fall (June to September)",
+      "location": "Eastern and central North America; widely grown in gardens in temperate regions worldwide",
       "colors": [
-        "blue",
+        "purple",
         "pink",
-        "white",
-        "purple"
+        "orange",
+        "bronze"
       ],
-      "emoji": "💠",
-      "funFact": "Hydrangea flower color is influenced by aluminum availability, which is governed by soil acidity."
+      "emoji": "🌸",
+      "funFact": "The name Echinacea comes from the Greek word 'echinos' meaning hedgehog, referring to the spiny central cone. Native Americans used it medicinally for centuries."
     },
     {
-      "name": "Lilium lancifolium",
-      "commonName": "Tiger Lily",
-      "description": "A hardy perennial with striking orange flowers marked with dark spots, often growing wild and cultivated in temperate and subtropical regions.",
-      "bloomingSeason": "July to September",
-      "location": "East Asia, also naturalized in parts of North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and spikes of fragrant violet-blue flowers. In late summer, the later-blooming varieties are still in flower, while earlier fields are being harvested. It is prized for essential oils, culinary uses, and as a pollinator plant.",
+      "bloomingSeason": "Summer (June to August), with some cultivars lasting into early September",
+      "location": "Mediterranean region native; cultivated in Provence (France), England, Bulgaria, Tasmania, and the Pacific Northwest",
       "colors": [
-        "orange",
-        "black"
+        "lavender",
+        "purple",
+        "blue",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash', as the Romans used it to scent their baths."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A striking Australian shrub producing large, crimson, dome-shaped flower heads surrounded by showy red bracts. It blooms at the end of the southern winter and into early spring, when few other plants are flowering, making it important for nectar-feeding birds.",
+      "bloomingSeason": "Late winter to spring (August to November) in the Southern Hemisphere",
+      "location": "Southeastern Australia, particularly the sandstone ridges around Sydney and the Blue Mountains",
+      "colors": [
+        "crimson",
+        "red",
+        "pink"
       ],
       "emoji": "🌺",
-      "funFact": "Tiger lilies produce bulbils in leaf axils, allowing propagation without seeds."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree known for its bright orange, spider-like flowers that attract birds and insects.",
-      "bloomingSeason": "August to November",
-      "location": "Eastern Australia and widely cultivated in subtropical regions",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🌿",
-      "funFact": "Despite its common name, Silky Oak is not an oak but belongs to the Proteaceae family."
+      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from the Aboriginal Eora people's word for the plant. Its flower head is actually a cluster of hundreds of small flowers."
     }
   ]
 }

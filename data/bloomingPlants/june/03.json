@@ -2,60 +2,60 @@
   "date": "June 3",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A popular cultivated rose species known for its continuous blooming throughout warmer months. The flowers are often fragrant and come in various colors including red, pink, and white. It is widely grown in temperate and subtropical gardens around the world.",
-      "bloomingSeason": "May to October",
-      "location": "Widely cultivated globally, native to Southwest China",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, lush, often fragrant flowers atop sturdy stems with deeply lobed green foliage. Cultivated for thousands of years, it is a staple of cottage gardens and the cut-flower trade.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Central and Eastern Asia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
-        "red",
         "pink",
-        "white"
-      ],
-      "emoji": "🌹",
-      "funFact": "The China Rose introduced repeat blooming habit to modern hybrid roses, revolutionizing rose cultivation."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A wildflower native to eastern North America, flourishing in sandy soils. It features tall spikes of pea-like flowers that attract butterflies and bees.",
-      "bloomingSeason": "May to July",
-      "location": "Eastern United States and Canada",
-      "colors": [
-        "blue",
-        "purple"
+        "white",
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Wild Lupine is a larval host for the endangered Karner Blue butterfly, highlighting its ecological importance."
+      "funFact": "Peonies can live and bloom for more than 100 years, and ants are often seen on the buds, feeding on the sugary nectar they secrete."
     },
     {
-      "name": "Rhododendron ferrugineum",
-      "commonName": "Alpenrose",
-      "description": "An evergreen shrub native to the Alpine regions, producing bell-shaped pinkish-red flowers. It thrives in acidic, mountainous soils.",
-      "bloomingSeason": "May to June",
-      "location": "Alps and Pyrenees mountains, Europe",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A hardy, suckering shrub with fragrant, semi-double to double flowers and golden stamens. It is one of the oldest cultivated roses and a parent of many old garden roses.",
+      "bloomingSeason": "Late spring to early summer (June)",
+      "location": "Native to southern and central Europe and western Asia; grown in gardens throughout the Northern Hemisphere",
       "colors": [
-        "pink",
-        "red"
+        "deep pink",
+        "crimson",
+        "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "All parts of the Alpenrose are toxic if ingested, due to grayanotoxins, and have been historically used with caution in traditional medicine."
+      "emoji": "🌹",
+      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally in the Middle Ages and its petals keep their fragrance when dried."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub widely cultivated for its large, showy flowers often used in landscaping and hibiscus tea. It blooms profusely in warm climates with flowers lasting a single day.",
-      "bloomingSeason": "Year-round in tropical regions, peak in late spring and summer",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tree with feathery, fern-like leaves that produces dense clusters of trumpet-shaped flowers. When in bloom, whole streets can be covered in a haze of purple, and fallen petals carpet the ground.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
+      "location": "Native to South America; planted in warm regions including California, Mexico, Florida, the Mediterranean, and parts of Africa",
       "colors": [
-        "red",
-        "orange",
-        "yellow",
-        "pink",
-        "white"
+        "lavender",
+        "purple",
+        "blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and are used to make hibiscus tea, which is rich in vitamin C and antioxidants."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
+    },
+    {
+      "name": "Leucanthemum vulgare",
+      "commonName": "Oxeye Daisy",
+      "description": "A hardy wildflower with white ray petals around a bright yellow center. It grows in meadows, roadsides, and grasslands, and brings a classic summer look to wild areas.",
+      "bloomingSeason": "Late spring to late summer (June to August)",
+      "location": "Native to Europe and temperate Asia; naturalized in North America, Australia, and New Zealand",
+      "colors": [
+        "white",
+        "yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Oxeye daisies are heliotropic in bud, and their flower heads are often used in traditional folk divination games such as 'he loves me, he loves me not'."
     }
   ]
 }

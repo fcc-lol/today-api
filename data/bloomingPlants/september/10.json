@@ -2,55 +2,60 @@
   "date": "September 10",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "Sunflowers are tall, annual plants known for their large, bright yellow flower heads that track the sun's movement across the sky. They often grow wild and are widely cultivated for their seeds and oil.",
-      "bloomingSeason": "Mid summer to early fall (July to September)",
-      "location": "Northern Hemisphere temperate regions, including North America and Europe",
+      "name": "Aster novi-belgii",
+      "commonName": "New York Aster",
+      "description": "A clump-forming perennial with abundant daisy-like flower heads featuring yellow centers surrounded by narrow petal-like rays. It is a vital late-season nectar source for bees and migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern North America, widely cultivated in temperate gardens worldwide",
       "colors": [
-        "Yellow",
-        "Brown"
+        "purple",
+        "violet",
+        "blue",
+        "pink"
       ],
-      "emoji": "🌻",
-      "funFact": "Sunflower heads can contain up to 2,000 individual flowers, known as florets."
+      "emoji": "🌼",
+      "funFact": "The name Aster comes from the Greek word for star, and the flowers are a key fuel stop for monarch butterflies on their autumn migration to Mexico."
     },
     {
-      "name": "Lilium speciosum",
-      "commonName": "Japanese Lily",
-      "description": "A striking species of lily that produces fragrant, large, showy pink to white flowers with dark spots. It is native to Japan and blooms in late summer to early fall.",
-      "bloomingSeason": "August to October",
-      "location": "Japan, East Asia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial whose goblet-shaped flowers emerge naked from the ground in autumn, without leaves, which appear the following spring. Often seen in damp meadows and woodland edges.",
+      "bloomingSeason": "Late summer to autumn (September to October)",
+      "location": "Europe, from Britain and Ireland to the Balkans; cultivated in temperate gardens",
       "colors": [
-        "Pink",
-        "White"
+        "pale pink",
+        "lilac",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "The Japanese Lily contains compounds that are toxic to cats, causing kidney failure if ingested."
+      "funFact": "Despite its name it is not a true crocus, and all parts are highly toxic because they contain colchicine, a compound used in medicine to treat gout."
     },
     {
-      "name": "Acacia melanoxylon",
-      "commonName": "Blackwood Acacia",
-      "description": "A fast-growing evergreen tree producing cream-colored fluffy flower spikes. Native to southeast Australia, it blooms in late winter to early spring in the Southern Hemisphere, which corresponds to September to November.",
-      "bloomingSeason": "September to November",
-      "location": "Australia (Southern Hemisphere)",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub with feathery blue-green foliage and fragrant, fluffy golden globular flower clusters that light up the Australian bush as winter turns to spring.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "Cream"
+        "golden yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Blackwood Acacia wood is highly valued for furniture making due to its dark and attractive grain."
+      "emoji": "🌳",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy wildflower producing golden-yellow daisy-like flowers with dark brown centers. Common in meadows and roadside areas, it blooms late summer to fall.",
-      "bloomingSeason": "June to September",
-      "location": "North America",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large bright flower heads that track the sun when young. In September, late plantings and fields are in full bloom or setting seed, attracting bees, finches and other wildlife.",
+      "bloomingSeason": "Summer to early autumn (July to September)",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, Argentina and temperate regions worldwide",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "orange",
+        "red",
+        "burgundy"
       ],
-      "emoji": "🌼",
-      "funFact": "Black-eyed Susan's seeds provide food for birds, and the plants attract butterflies and bees as pollinators."
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds follow the sun from east to west in a behavior called heliotropism, but mature flowers stay facing east."
     }
   ]
 }

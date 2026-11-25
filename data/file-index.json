@@ -1,9 +1,94 @@
 {
-  "generatedAt": "2025-09-26T03:42:59.181Z",
+  "generatedAt": "2026-11-25T22:28:12.369Z",
   "description": "Index of all historicalEvents files organized by month and day",
   "structure": "historicalEvents/[month]/[day].json",
   "files": {
     "january": {
+      "1": {
+        "file": "historicalEvents/january/01.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "2": {
+        "file": "historicalEvents/january/02.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "3": {
+        "file": "historicalEvents/january/03.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "4": {
+        "file": "historicalEvents/january/04.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "5": {
+        "file": "historicalEvents/january/05.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "6": {
+        "file": "historicalEvents/january/06.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "7": {
+        "file": "historicalEvents/january/07.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "8": {
+        "file": "historicalEvents/january/08.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "9": {
+        "file": "historicalEvents/january/09.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "10": {
+        "file": "historicalEvents/january/10.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "11": {
+        "file": "historicalEvents/january/11.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "12": {
+        "file": "historicalEvents/january/12.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "13": {
+        "file": "historicalEvents/january/13.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "14": {
+        "file": "historicalEvents/january/14.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "15": {
+        "file": "historicalEvents/january/15.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "16": {
+        "file": "historicalEvents/january/16.json",
+        "eventCount": 5,
+        "hasError": false
+      },
+      "17": {
+        "file": "historicalEvents/january/17.json",
+        "eventCount": 5,
+        "hasError": false
+      },
       "18": {
         "file": "historicalEvents/january/18.json",
         "eventCount": 5,
@@ -11,12 +96,12 @@
       },
       "19": {
         "file": "historicalEvents/january/19.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "20": {
         "file": "historicalEvents/january/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
@@ -36,12 +121,12 @@
       },
       "24": {
         "file": "historicalEvents/january/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
         "file": "historicalEvents/january/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
@@ -56,7 +141,7 @@
       },
       "28": {
         "file": "historicalEvents/january/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
@@ -66,7 +151,7 @@
       },
       "30": {
         "file": "historicalEvents/january/30.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "31": {
@@ -78,22 +163,22 @@
     "february": {
       "1": {
         "file": "historicalEvents/february/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
         "file": "historicalEvents/february/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
         "file": "historicalEvents/february/03.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "4": {
         "file": "historicalEvents/february/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -108,7 +193,7 @@
       },
       "7": {
         "file": "historicalEvents/february/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
@@ -118,17 +203,17 @@
       },
       "9": {
         "file": "historicalEvents/february/09.json",
-        "eventCount": 5,
+        "eventCount": 4,
         "hasError": false
       },
       "10": {
         "file": "historicalEvents/february/10.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "11": {
         "file": "historicalEvents/february/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
@@ -138,7 +223,7 @@
       },
       "13": {
         "file": "historicalEvents/february/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
@@ -148,7 +233,7 @@
       },
       "15": {
         "file": "historicalEvents/february/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
@@ -173,7 +258,7 @@
       },
       "20": {
         "file": "historicalEvents/february/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
@@ -183,7 +268,7 @@
       },
       "22": {
         "file": "historicalEvents/february/22.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "23": {
@@ -203,12 +288,12 @@
       },
       "26": {
         "file": "historicalEvents/february/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
         "file": "historicalEvents/february/27.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
@@ -235,7 +320,7 @@
       },
       "4": {
         "file": "historicalEvents/march/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -245,22 +330,22 @@
       },
       "6": {
         "file": "historicalEvents/march/06.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "7": {
         "file": "historicalEvents/march/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
         "file": "historicalEvents/march/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
         "file": "historicalEvents/march/09.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "10": {
@@ -270,12 +355,12 @@
       },
       "11": {
         "file": "historicalEvents/march/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
         "file": "historicalEvents/march/12.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "13": {
@@ -285,7 +370,7 @@
       },
       "14": {
         "file": "historicalEvents/march/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
@@ -295,7 +380,7 @@
       },
       "16": {
         "file": "historicalEvents/march/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
@@ -310,22 +395,22 @@
       },
       "19": {
         "file": "historicalEvents/march/19.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "20": {
         "file": "historicalEvents/march/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
         "file": "historicalEvents/march/21.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "22": {
         "file": "historicalEvents/march/22.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "23": {
@@ -335,12 +420,12 @@
       },
       "24": {
         "file": "historicalEvents/march/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
         "file": "historicalEvents/march/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
@@ -360,7 +445,7 @@
       },
       "29": {
         "file": "historicalEvents/march/29.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "30": {
@@ -377,12 +462,12 @@
     "april": {
       "1": {
         "file": "historicalEvents/april/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
         "file": "historicalEvents/april/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
@@ -392,7 +477,7 @@
       },
       "4": {
         "file": "historicalEvents/april/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -402,7 +487,7 @@
       },
       "6": {
         "file": "historicalEvents/april/06.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "7": {
@@ -412,7 +497,7 @@
       },
       "8": {
         "file": "historicalEvents/april/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
@@ -422,7 +507,7 @@
       },
       "10": {
         "file": "historicalEvents/april/10.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "11": {
@@ -432,7 +517,7 @@
       },
       "12": {
         "file": "historicalEvents/april/12.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "13": {
@@ -442,12 +527,12 @@
       },
       "14": {
         "file": "historicalEvents/april/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
         "file": "historicalEvents/april/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
@@ -462,17 +547,17 @@
       },
       "18": {
         "file": "historicalEvents/april/18.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "19": {
         "file": "historicalEvents/april/19.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "20": {
         "file": "historicalEvents/april/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
@@ -492,7 +577,7 @@
       },
       "24": {
         "file": "historicalEvents/april/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
@@ -502,7 +587,7 @@
       },
       "26": {
         "file": "historicalEvents/april/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
@@ -512,7 +597,7 @@
       },
       "28": {
         "file": "historicalEvents/april/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
@@ -529,12 +614,12 @@
     "may": {
       "1": {
         "file": "historicalEvents/may/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
         "file": "historicalEvents/may/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
@@ -544,12 +629,12 @@
       },
       "4": {
         "file": "historicalEvents/may/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
         "file": "historicalEvents/may/05.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "6": {
@@ -579,12 +664,12 @@
       },
       "11": {
         "file": "historicalEvents/may/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
         "file": "historicalEvents/may/12.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "13": {
@@ -599,17 +684,17 @@
       },
       "15": {
         "file": "historicalEvents/may/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
         "file": "historicalEvents/may/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
         "file": "historicalEvents/may/17.json",
-        "eventCount": 5,
+        "eventCount": 4,
         "hasError": false
       },
       "18": {
@@ -624,7 +709,7 @@
       },
       "20": {
         "file": "historicalEvents/may/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
@@ -634,7 +719,7 @@
       },
       "22": {
         "file": "historicalEvents/may/22.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "23": {
@@ -659,12 +744,12 @@
       },
       "27": {
         "file": "historicalEvents/may/27.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
         "file": "historicalEvents/may/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
@@ -691,7 +776,7 @@
       },
       "2": {
         "file": "historicalEvents/june/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
@@ -701,17 +786,17 @@
       },
       "4": {
         "file": "historicalEvents/june/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
         "file": "historicalEvents/june/05.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "6": {
         "file": "historicalEvents/june/06.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "7": {
@@ -721,7 +806,7 @@
       },
       "8": {
         "file": "historicalEvents/june/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
@@ -741,12 +826,12 @@
       },
       "12": {
         "file": "historicalEvents/june/12.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "13": {
         "file": "historicalEvents/june/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
@@ -781,12 +866,12 @@
       },
       "20": {
         "file": "historicalEvents/june/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
         "file": "historicalEvents/june/21.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "22": {
@@ -796,7 +881,7 @@
       },
       "23": {
         "file": "historicalEvents/june/23.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "24": {
@@ -806,12 +891,12 @@
       },
       "25": {
         "file": "historicalEvents/june/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
         "file": "historicalEvents/june/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
@@ -821,29 +906,29 @@
       },
       "28": {
         "file": "historicalEvents/june/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
         "file": "historicalEvents/june/29.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "30": {
         "file": "historicalEvents/june/30.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       }
     },
     "july": {
       "1": {
         "file": "historicalEvents/july/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
         "file": "historicalEvents/july/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
@@ -853,7 +938,7 @@
       },
       "4": {
         "file": "historicalEvents/july/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -868,17 +953,17 @@
       },
       "7": {
         "file": "historicalEvents/july/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
         "file": "historicalEvents/july/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
         "file": "historicalEvents/july/09.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "10": {
@@ -888,7 +973,7 @@
       },
       "11": {
         "file": "historicalEvents/july/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
@@ -903,7 +988,7 @@
       },
       "14": {
         "file": "historicalEvents/july/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
@@ -923,12 +1008,12 @@
       },
       "18": {
         "file": "historicalEvents/july/18.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "19": {
         "file": "historicalEvents/july/19.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "20": {
@@ -938,7 +1023,7 @@
       },
       "21": {
         "file": "historicalEvents/july/21.json",
-        "eventCount": 5,
+        "eventCount": 4,
         "hasError": false
       },
       "22": {
@@ -958,7 +1043,7 @@
       },
       "25": {
         "file": "historicalEvents/july/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
@@ -968,17 +1053,17 @@
       },
       "27": {
         "file": "historicalEvents/july/27.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
         "file": "historicalEvents/july/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
         "file": "historicalEvents/july/29.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "30": {
@@ -1000,12 +1085,12 @@
       },
       "2": {
         "file": "historicalEvents/august/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
         "file": "historicalEvents/august/03.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "4": {
@@ -1025,7 +1110,7 @@
       },
       "7": {
         "file": "historicalEvents/august/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
@@ -1055,22 +1140,22 @@
       },
       "13": {
         "file": "historicalEvents/august/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
         "file": "historicalEvents/august/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
         "file": "historicalEvents/august/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
         "file": "historicalEvents/august/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
@@ -1090,22 +1175,22 @@
       },
       "20": {
         "file": "historicalEvents/august/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
         "file": "historicalEvents/august/21.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "22": {
         "file": "historicalEvents/august/22.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "23": {
         "file": "historicalEvents/august/23.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "24": {
@@ -1115,12 +1200,12 @@
       },
       "25": {
         "file": "historicalEvents/august/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
         "file": "historicalEvents/august/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
@@ -1130,17 +1215,17 @@
       },
       "28": {
         "file": "historicalEvents/august/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
         "file": "historicalEvents/august/29.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "30": {
         "file": "historicalEvents/august/30.json",
-        "eventCount": 4,
+        "eventCount": 1,
         "hasError": false
       },
       "31": {
@@ -1152,7 +1237,7 @@
     "september": {
       "1": {
         "file": "historicalEvents/september/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
@@ -1167,7 +1252,7 @@
       },
       "4": {
         "file": "historicalEvents/september/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -1177,7 +1262,7 @@
       },
       "6": {
         "file": "historicalEvents/september/06.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "7": {
@@ -1187,7 +1272,7 @@
       },
       "8": {
         "file": "historicalEvents/september/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
@@ -1197,7 +1282,7 @@
       },
       "10": {
         "file": "historicalEvents/september/10.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "11": {
@@ -1227,7 +1312,7 @@
       },
       "16": {
         "file": "historicalEvents/september/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
@@ -1247,12 +1332,12 @@
       },
       "20": {
         "file": "historicalEvents/september/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
         "file": "historicalEvents/september/21.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "22": {
@@ -1267,22 +1352,22 @@
       },
       "24": {
         "file": "historicalEvents/september/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
         "file": "historicalEvents/september/25.json",
-        "eventCount": 5,
+        "eventCount": 4,
         "hasError": false
       },
       "26": {
         "file": "historicalEvents/september/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
         "file": "historicalEvents/september/27.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
@@ -1304,7 +1389,7 @@
     "october": {
       "1": {
         "file": "historicalEvents/october/01.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "2": {
@@ -1319,7 +1404,7 @@
       },
       "4": {
         "file": "historicalEvents/october/04.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -1334,17 +1419,17 @@
       },
       "7": {
         "file": "historicalEvents/october/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
         "file": "historicalEvents/october/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
         "file": "historicalEvents/october/09.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "10": {
@@ -1354,7 +1439,7 @@
       },
       "11": {
         "file": "historicalEvents/october/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
@@ -1364,32 +1449,32 @@
       },
       "13": {
         "file": "historicalEvents/october/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
         "file": "historicalEvents/october/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
         "file": "historicalEvents/october/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
         "file": "historicalEvents/october/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
         "file": "historicalEvents/october/17.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "18": {
         "file": "historicalEvents/october/18.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "19": {
@@ -1404,7 +1489,7 @@
       },
       "21": {
         "file": "historicalEvents/october/21.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "22": {
@@ -1419,7 +1504,7 @@
       },
       "24": {
         "file": "historicalEvents/october/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
@@ -1434,12 +1519,12 @@
       },
       "27": {
         "file": "historicalEvents/october/27.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
         "file": "historicalEvents/october/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
@@ -1449,7 +1534,7 @@
       },
       "30": {
         "file": "historicalEvents/october/30.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "31": {
@@ -1466,17 +1551,17 @@
       },
       "2": {
         "file": "historicalEvents/november/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
         "file": "historicalEvents/november/03.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "4": {
         "file": "historicalEvents/november/04.json",
-        "eventCount": 3,
+        "eventCount": 5,
         "hasError": false
       },
       "5": {
@@ -1486,12 +1571,12 @@
       },
       "6": {
         "file": "historicalEvents/november/06.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "7": {
         "file": "historicalEvents/november/07.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
@@ -1506,7 +1591,7 @@
       },
       "10": {
         "file": "historicalEvents/november/10.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "11": {
@@ -1516,27 +1601,27 @@
       },
       "12": {
         "file": "historicalEvents/november/12.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "13": {
         "file": "historicalEvents/november/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
         "file": "historicalEvents/november/14.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "15": {
         "file": "historicalEvents/november/15.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "16": {
         "file": "historicalEvents/november/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
@@ -1546,7 +1631,7 @@
       },
       "18": {
         "file": "historicalEvents/november/18.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "19": {
@@ -1566,7 +1651,7 @@
       },
       "22": {
         "file": "historicalEvents/november/22.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "23": {
@@ -1576,32 +1661,32 @@
       },
       "24": {
         "file": "historicalEvents/november/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
         "file": "historicalEvents/november/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
         "file": "historicalEvents/november/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
         "file": "historicalEvents/november/27.json",
-        "eventCount": 5,
+        "eventCount": 4,
         "hasError": false
       },
       "28": {
         "file": "historicalEvents/november/28.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "29": {
         "file": "historicalEvents/november/29.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "30": {
@@ -1618,12 +1703,12 @@
       },
       "2": {
         "file": "historicalEvents/december/02.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "3": {
         "file": "historicalEvents/december/03.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "4": {
@@ -1643,12 +1728,12 @@
       },
       "7": {
         "file": "historicalEvents/december/07.json",
-        "eventCount": 3,
+        "eventCount": 5,
         "hasError": false
       },
       "8": {
         "file": "historicalEvents/december/08.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "9": {
@@ -1658,12 +1743,12 @@
       },
       "10": {
         "file": "historicalEvents/december/10.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "11": {
         "file": "historicalEvents/december/11.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "12": {
@@ -1673,7 +1758,7 @@
       },
       "13": {
         "file": "historicalEvents/december/13.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "14": {
@@ -1688,7 +1773,7 @@
       },
       "16": {
         "file": "historicalEvents/december/16.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "17": {
@@ -1698,17 +1783,17 @@
       },
       "18": {
         "file": "historicalEvents/december/18.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "19": {
         "file": "historicalEvents/december/19.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "20": {
         "file": "historicalEvents/december/20.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "21": {
@@ -1723,27 +1808,27 @@
       },
       "23": {
         "file": "historicalEvents/december/23.json",
-        "eventCount": 3,
+        "eventCount": 5,
         "hasError": false
       },
       "24": {
         "file": "historicalEvents/december/24.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "25": {
         "file": "historicalEvents/december/25.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "26": {
         "file": "historicalEvents/december/26.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "27": {
         "file": "historicalEvents/december/27.json",
-        "eventCount": 3,
+        "eventCount": 5,
         "hasError": false
       },
       "28": {
@@ -1758,12 +1843,12 @@
       },
       "30": {
         "file": "historicalEvents/december/30.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       },
       "31": {
         "file": "historicalEvents/december/31.json",
-        "eventCount": 4,
+        "eventCount": 5,
         "hasError": false
       }
     }

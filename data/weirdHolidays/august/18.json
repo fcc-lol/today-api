@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Ice Cream Pie Day",
-      "description": "A delightful day dedicated to celebrating the delicious fusion of ice cream and pie. Think creamy scoops meeting crumbly crusts for a cool, sweet treat perfect for summertime.",
-      "origin": "This day gained popularity through ice cream enthusiasts and dessert bloggers who wanted to highlight this decadent dessert mashup.",
-      "category": "Food Holiday",
-      "emoji": "🍨🥧",
-      "funFact": "Ice cream pies originated in the early 20th century when inventive bakers started layering pie crusts with ice cream and toppings as an easier alternative to ice cream cakes."
-    },
-    {
-      "name": "World Photo Day",
-      "description": "A global celebration of the art, science, and history of photography. It’s a perfect day for snap-happy folks to get out and capture the world through their lenses.",
-      "origin": "Commemorates the invention of the daguerreotype process announced in 1839, one of the first photographic processes.",
-      "category": "Pop Culture / Art",
-      "emoji": "📸",
-      "funFact": "The daguerreotype process took about 10 to 15 minutes of exposure to create an image, compared to today's billionths of a second!"
-    },
-    {
-      "name": "Serendipity Day",
-      "description": "Celebrate the happy accidents and unexpected discoveries that make life magical. It’s a day to embrace surprise moments and marvel at fortunate coincidences.",
-      "origin": "Inspired by the word 'serendipity,' coined by Horace Walpole in 1754 after a fairy tale called 'The Three Princes of Serendip'.",
-      "category": "Awareness / Philosophy",
-      "emoji": "✨🎲",
-      "funFact": "Some of the greatest scientific discoveries, including penicillin, were results of serendipity."
+      "description": "A day to celebrate the glorious union of two desserts in one: a creamy, frozen filling nestled in a crunchy crust. Cookie crumb crust, a mountain of ice cream, and a drizzle of fudge are all fair game.",
+      "origin": "Like many American food holidays, it is an unofficial observance that grew out of food-industry promotion and social media enthusiasm, and it has no single documented founder.",
+      "category": "Food Day",
+      "emoji": "🥧",
+      "funFact": "Ice cream pies are a classic example of an icebox dessert, and the Mississippi mud pie and the Baked Alaska are close cousins of the concept."
     },
     {
       "name": "Bad Poetry Day",
-      "description": "An amusing day to have fun writing deliberately awful poetry. Embrace awkward rhymes, cheesy metaphors, and wobbly rhythms—it’s all about celebrating the wonderfully terrible!",
-      "origin": "Created by poetry lovers who wanted a day to let go of serious poetry constraints and enjoy the humor in crafting bad verses.",
-      "category": "Pop Culture / Humor",
-      "emoji": "📜🤪",
-      "funFact": "Bad Poetry Day encourages both famous poets and amateurs alike to reveal their silly side—some 'bad poems' have gone viral for being hilariously bad."
+      "description": "A day when you are encouraged to put pen to paper and write the worst verse you possibly can. Clunky rhymes, forced metaphors, and melodramatic odes to your sandwich are all celebrated.",
+      "origin": "This unofficial observance began as a lighthearted counterpart to serious poetry celebrations, giving people permission to be gloriously terrible with words.",
+      "category": "Arts & Humor",
+      "emoji": "✍️",
+      "funFact": "Scottish poet William McGonagall is widely regarded as one of the worst poets in English history, yet he became famous for it and people still read his work for fun."
+    },
+    {
+      "name": "World Honey Bee Day (Third Saturday in August)",
+      "description": "A buzzing celebration of the hardworking honey bee, whose pollination helps produce a huge share of the foods we eat. People plant flowers, sample honey, and learn how to help pollinators.",
+      "origin": "It was started by beekeepers and bee advocates in the United States to raise awareness about the importance of bees and the threats they face, and it is celebrated on the third Saturday of August, which can fall near August 18.",
+      "category": "Awareness Day",
+      "emoji": "🐝",
+      "funFact": "A single honey bee makes only about one twelfth of a teaspoon of honey in its entire lifetime."
+    },
+    {
+      "name": "Serendipity Day",
+      "description": "A day dedicated to happy accidents and unexpected discoveries. You are encouraged to leave room for chance, take a different route, and see what delightful surprises show up.",
+      "origin": "The observance honors the word serendipity, coined by writer Horace Walpole in 1754 after the Persian fairy tale The Three Princes of Serendip, whose heroes kept stumbling upon fortunate discoveries.",
+      "category": "Pop Culture & Wordplay",
+      "emoji": "🍀",
+      "funFact": "Penicillin, microwave ovens, and Post-it Notes are all famous examples of serendipitous discoveries."
+    },
+    {
+      "name": "Never Give Up Day",
+      "description": "A motivational day reminding everyone to keep going through failures, setbacks, and stubborn obstacles. Think of it as a high five for persistence.",
+      "origin": "This is an unofficial inspirational observance that spread online, encouraging people to reflect on their goals and push through hard times.",
+      "category": "Motivational Observance",
+      "emoji": "💪",
+      "funFact": "Thomas Edison is often quoted as saying he found thousands of ways that did not work while inventing the light bulb, making him an unofficial mascot for the day."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "September 10",
   "events": [
     {
-      "year": 1608,
-      "title": "Galileo Demonstrates Improved Telescope",
-      "description": "Galileo Galilei demonstrated his improved version of the telescope to Venetian lawmakers, marking a significant advancement in observational astronomy.",
-      "category": "Science and Technology",
-      "significance": "This event contributed to the widespread use of the telescope and major discoveries in astronomy, challenging traditional views of the universe."
+      "year": 1813,
+      "title": "Battle of Lake Erie",
+      "description": "During the War of 1812, a U.S. Navy squadron commanded by Oliver Hazard Perry defeated and captured an entire British Royal Navy squadron on Lake Erie near Put-in-Bay, Ohio. Perry reported, 'We have met the enemy and they are ours.'",
+      "category": "Military",
+      "significance": "The victory gave the United States control of Lake Erie, forced British withdrawal from Detroit, and paved the way for the American victory at the Battle of the Thames."
     },
     {
-      "year": 1897,
-      "title": "Typhoid Mary Identified as Source of Infection",
-      "description": "Mary Mallon, later known as \"Typhoid Mary,\" was identified as the first person in the United States asymptomatically infected with and spreading typhoid fever.",
-      "category": "Health and Medicine",
-      "significance": "Her case highlighted the importance of carriers in spreading infectious diseases and impacted public health policies."
-    },
-    {
-      "year": 1960,
-      "title": "First Televised U.S. Presidential Debate",
-      "description": "Richard Nixon and John F. Kennedy participated in the first televised presidential debate in U.S. history.",
+      "year": 1919,
+      "title": "Treaty of Saint-Germain-en-Laye Signed",
+      "description": "The Allied Powers and Austria signed the Treaty of Saint-Germain-en-Laye, formally dissolving the Austro-Hungarian Empire and recognizing Austria as a small republic.",
       "category": "Politics",
-      "significance": "This debate changed the nature of political campaigning and emphasized the importance of television and appearances in elections."
+      "significance": "The treaty redrew the map of Central Europe, recognized new states such as Czechoslovakia and Yugoslavia, and prohibited union (Anschluss) between Austria and Germany."
     },
     {
-      "year": 2008,
-      "title": "Border Clash Between Georgia and Russia Escalates",
-      "description": "After days of tension, armed conflict escalated between Georgian and Russian forces around South Ossetia, foreshadowing the 2008 Russo-Georgian War.",
-      "category": "Military and Conflict",
-      "significance": "Marked the beginning of a brief but significant conflict, influencing regional geopolitics and international relations."
+      "year": 1939,
+      "title": "Canada Declares War on Germany",
+      "description": "One week after Britain and France, Canada declared war on Nazi Germany, following a parliamentary vote under Prime Minister William Lyon Mackenzie King, with King George VI giving royal assent as King of Canada.",
+      "category": "Military",
+      "significance": "It marked Canada's independent entry into World War II as a sovereign nation, demonstrating its autonomy within the British Commonwealth."
+    },
+    {
+      "year": 1898,
+      "title": "Assassination of Empress Elisabeth of Austria",
+      "description": "Empress Elisabeth ('Sisi') of Austria, wife of Emperor Franz Joseph I, was stabbed by Italian anarchist Luigi Lucheni on the shore of Lake Geneva in Switzerland and died shortly afterward.",
+      "category": "Assassination",
+      "significance": "Her death shocked Europe, intensified crackdowns on anarchist movements, and was a further personal tragedy for the Habsburg dynasty in the years before World War I."
+    },
+    {
+      "year": 2002,
+      "title": "Switzerland Joins the United Nations",
+      "description": "Switzerland became the 190th member of the United Nations after a 2002 referendum in which Swiss voters narrowly approved membership.",
+      "category": "Politics",
+      "significance": "It ended Switzerland's long tradition of staying outside the UN and marked a notable shift in Swiss foreign policy while retaining its neutrality."
     }
   ]
 }

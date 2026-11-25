@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1619,
-      "title": "First Representative Assembly in America Meets",
-      "description": "The Virginia General Assembly convened for the first time, marking the beginning of representative government in what would become the United States.",
-      "category": "Political",
-      "significance": "This event laid the foundation for democratic governance in America."
+      "title": "First Representative Legislative Assembly in the Americas Convenes",
+      "description": "The Virginia House of Burgesses held its first meeting at the church in Jamestown, Virginia, bringing together elected representatives from the English colony's settlements.",
+      "category": "Politics",
+      "significance": "It was the first elected legislative body in English North America and laid early groundwork for representative self-government in what became the United States."
     },
     {
-      "year": 1888,
-      "title": "Jack the Ripper's First Canonical Murder",
-      "description": "Mary Ann Nichols was found murdered in Whitechapel, London, starting the series of killings attributed to Jack the Ripper.",
+      "year": 1863,
+      "title": "Birth of Henry Ford",
+      "description": "Henry Ford, the American industrialist and founder of the Ford Motor Company, was born on a farm in Greenfield Township, Michigan.",
+      "category": "Birth",
+      "significance": "Ford's introduction of the moving assembly line and the affordable Model T transformed manufacturing and made automobiles accessible to the middle class, reshaping modern industry and society."
+    },
+    {
+      "year": 1945,
+      "title": "USS Indianapolis Sunk",
+      "description": "After delivering components of the atomic bomb to Tinian, the heavy cruiser USS Indianapolis was torpedoed by Japanese submarine I-58 and sank in the Philippine Sea. Of about 1,195 crew, roughly 900 survived the sinking, but many died from exposure, dehydration, and shark attacks before rescue days later.",
+      "category": "Military",
+      "significance": "It was the worst single loss of life at sea in U.S. Navy history and led to a controversial court-martial of Captain Charles McVay III, who was later exonerated."
+    },
+    {
+      "year": 1965,
+      "title": "Medicare and Medicaid Signed into Law",
+      "description": "President Lyndon B. Johnson signed the Social Security Amendments of 1965 at the Harry S. Truman Library in Independence, Missouri, creating Medicare and Medicaid.",
+      "category": "Politics",
+      "significance": "These programs expanded health coverage for older Americans and low-income people, and remain cornerstones of the U.S. healthcare system."
+    },
+    {
+      "year": 1975,
+      "title": "Disappearance of Jimmy Hoffa",
+      "description": "Former Teamsters union president Jimmy Hoffa vanished after leaving a restaurant in Bloomfield Township, Michigan, where he was reportedly to meet with organized crime figures.",
       "category": "Crime",
-      "significance": "The case became one of the most infamous unsolved serial murder cases in history."
-    },
-    {
-      "year": 1932,
-      "title": "Lindbergh Kidnapping",
-      "description": "Charles Lindbergh Jr., the infant son of Charles Lindbergh, was kidnapped, leading to a nationwide manhunt and a landmark trial.",
-      "category": "Crime",
-      "significance": "This event prompted changes in U.S. law enforcement and kidnapping statutes."
-    },
-    {
-      "year": 1974,
-      "title": "President Nixon Announces Resignation",
-      "description": "Facing impeachment over the Watergate scandal, President Richard Nixon announced his decision to resign from office effective August 9, 1974.",
-      "category": "Political",
-      "significance": "Marked the first time a U.S. president resigned, highlighting the checks and balances in American democracy."
-    },
-    {
-      "year": 2007,
-      "title": "First Live Transmission from the International Space Station to YouTube",
-      "description": "NASA broadcast the first live video from the International Space Station on YouTube, making space exploration more accessible to the public.",
-      "category": "Science and Technology",
-      "significance": "Represented a milestone in public engagement with space exploration through digital media."
+      "significance": "Hoffa was declared legally dead in 1982, and the unsolved case became one of the most famous mysteries in American history and popular culture."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "July 28",
   "events": [
     {
+      "year": 1914,
+      "title": "Austria-Hungary Declares War on Serbia",
+      "description": "One month after the assassination of Archduke Franz Ferdinand in Sarajevo, Austria-Hungary declared war on the Kingdom of Serbia, formally beginning hostilities that would draw in Europe's major powers.",
+      "category": "War/Politics",
+      "significance": "Marked the official start of World War I, a conflict that reshaped global borders, toppled empires, and caused millions of deaths."
+    },
+    {
+      "year": 1868,
+      "title": "Fourteenth Amendment Certified",
+      "description": "U.S. Secretary of State William Seward certified that the Fourteenth Amendment to the U.S. Constitution had been ratified by the required number of states.",
+      "category": "Law/Civil Rights",
+      "significance": "Guaranteed citizenship and equal protection under the law to all persons born or naturalized in the United States, including formerly enslaved people, and became a foundation for later civil rights litigation."
+    },
+    {
+      "year": 1945,
+      "title": "B-25 Bomber Crashes into the Empire State Building",
+      "description": "A U.S. Army Air Forces B-25 Mitchell bomber, lost in heavy fog, struck the north side of the Empire State Building in New York City between the 78th and 80th floors.",
+      "category": "Disaster/Accident",
+      "significance": "The crash killed 14 people and led to improvements in aviation safety and air traffic procedures; the building was repaired and reopened quickly."
+    },
+    {
       "year": 1794,
       "title": "Execution of Maximilien Robespierre",
-      "description": "Maximilien Robespierre, a key figure of the French Revolution and leader during the Reign of Terror, was executed by guillotine, marking the end of the Terror.",
-      "category": "Political",
-      "significance": "This event marked a turning point in the French Revolution, ending the most radical phase and leading to a more moderate government."
+      "description": "Robespierre, leader of the Committee of Public Safety, and a number of his allies were guillotined in Paris following the Thermidorian Reaction that overthrew him a day earlier.",
+      "category": "Politics/Revolution",
+      "significance": "Ended the radical phase of the French Revolution known as the Reign of Terror and shifted France toward the more moderate Thermidorian regime and eventually the Directory."
     },
     {
-      "year": 1914,
-      "title": "Start of World War I",
-      "description": "Austria-Hungary declared war on Serbia, beginning the chain of events that led to the outbreak of World War I.",
-      "category": "Military",
-      "significance": "The declaration ignited a global conflict that reshaped international relations and had profound impacts on the 20th century."
-    },
-    {
-      "year": 1821,
-      "title": "Peru Declares Independence",
-      "description": "José de San Martín declared the independence of Peru from Spanish rule.",
-      "category": "Political",
-      "significance": "This declaration was a key milestone in the South American wars of independence, leading to the eventual liberation of Peru."
-    },
-    {
-      "year": 1900,
-      "title": "Beginning of the construction of the Paris Métro",
-      "description": "Work began on constructing the Paris Métro, which would become one of the most extensive and used underground transportation systems in the world.",
-      "category": "Technology/Urban Development",
-      "significance": "The Paris Métro revolutionized urban transportation and influenced metro systems worldwide."
+      "year": 1929,
+      "title": "Birth of Jacqueline Kennedy Onassis",
+      "description": "Jacqueline Lee Bouvier was born in Southampton, New York; she later became First Lady of the United States as the wife of John F. Kennedy.",
+      "category": "Birth/Culture",
+      "significance": "Known for her style, her restoration of the White House, and her promotion of the arts and historic preservation, she became a lasting American cultural icon."
     }
   ]
 }

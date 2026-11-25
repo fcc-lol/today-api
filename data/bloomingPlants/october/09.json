@@ -2,60 +2,60 @@
   "date": "October 9",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Mum",
-      "description": "A popular flowering plant known for its vibrant, daisy-like blooms that signal the arrival of autumn in many temperate gardens.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (commonly cultivated)",
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of ripe apricots and peaches. Widely cultivated in gardens and temple grounds across East Asia.",
+      "bloomingSeason": "Autumn (September to October in the Northern Hemisphere)",
+      "location": "Native to China and Japan; cultivated in East Asia, the southern United States, and Mediterranean climates",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Cream",
+        "Pale yellow",
+        "Orange"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are highly symbolic in East Asia, representing longevity and rejuvenation, and are often featured in traditional festivals."
+      "funFact": "Osmanthus blossoms are used to flavor teas, cakes, jams, and liqueurs, and the Mid-Autumn Festival in China is traditionally associated with its fragrance."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "South Africa's national flower, it features large, striking blooms with a central cone surrounded by spiky petals, often resembling a giant artichoke.",
-      "bloomingSeason": "September to November",
-      "location": "Fynbos region, South Africa",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped flowers in autumn without any leaves present, which emerge the following spring. Often found in damp meadows and woodland edges.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Europe, from the British Isles to central Europe; widely naturalized in gardens elsewhere",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Pale lilac",
+        "Pink",
+        "Purple"
       ],
       "emoji": "🌸",
-      "funFact": "The King Protea is named after the Greek god Proteus, symbolizing diversity and transformation because of its varied forms."
+      "funFact": "It is nicknamed 'naked ladies' because the flowers appear without foliage, and it is the source of colchicine, a compound used in medicine and plant breeding but highly toxic."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall, herbaceous perennial with bright yellow flower clusters that attract bees and butterflies in late summer and fall.",
-      "bloomingSeason": "August to October",
-      "location": "North America (wild), naturalized in parts of Europe and Asia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tropical and subtropical tree that blankets itself in trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Streets and parks turn purple during its peak bloom.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
       "colors": [
-        "yellow"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌻",
-      "funFact": "Although sometimes blamed for hay fever, goldenrod pollen is too heavy to be airborne; ragweed blooming at the same time is the usual culprit."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City,' and fallen blossoms create purple carpets on the streets."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub valued for its fragrant, delicate flowers that appear in early autumn, brightening gardens before most other camellias bloom.",
-      "bloomingSeason": "September to November",
-      "location": "Japan, East Asia; widely cultivated in temperate zones",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust native perennial wildflower with daisy-like flower heads featuring golden centers. It provides vital late-season nectar for pollinators, especially migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, in meadows, prairies, and roadsides",
       "colors": [
-        "white",
-        "pink",
-        "red"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
-      "emoji": "🌺",
-      "funFact": "Sasanqua camellias were originally used in Japan for oil extraction before becoming favored ornamental plants."
+      "emoji": "🦋",
+      "funFact": "Monarch butterflies rely heavily on New England asters as a nectar source during their autumn migration to Mexico."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "October 4",
   "holidays": [
     {
+      "name": "National Taco Day",
+      "description": "A crunchy, cheesy, saucy celebration of the humble taco in all its forms, from street-style carne asada to hard-shell ground beef. Restaurants across the U.S. roll out deals and taco fans make a point of eating at least one.",
+      "origin": "An unofficial American food holiday that grew in popularity in the 2000s and 2010s. Taco Bell later tried to trademark 'Taco Tuesday' and fought over related claims, but National Taco Day on October 4 has been widely embraced by taquerias and chains alike.",
+      "category": "Food Day",
+      "emoji": "🌮",
+      "funFact": "Tacos have been traced back to 18th-century Mexican silver mines, where 'tacos' referred to little paper-wrapped charges of gunpowder used for blasting ore."
+    },
+    {
       "name": "World Animal Day",
-      "description": "A day to celebrate animals and raise awareness about their rights and welfare worldwide.",
-      "origin": "Established in 1931 at a convention of ecologists in Florence, Italy, it aims to promote better treatment of animals and recognition of their importance.",
+      "description": "A global day dedicated to animal welfare, where people cuddle pets, support wildlife conservation, and celebrate creatures great and small. Many shelters host adoption events and pet blessings.",
+      "origin": "Started in 1925 in Berlin by Heinrich Zimmermann, a German writer, and chosen to coincide with the Feast Day of St. Francis of Assisi, the patron saint of animals.",
       "category": "Awareness Day",
       "emoji": "🐾",
-      "funFact": "The date coincides with the feast day of St. Francis of Assisi, the patron saint of animals!"
+      "funFact": "The first World Animal Day event was held in Berlin's Sportpalast in 1925 and drew around 5,000 people."
     },
     {
-      "name": "Taco Day (UK)",
-      "description": "A fun celebration of tacos, encouraging everyone to enjoy this delicious Mexican dish with friends and family.",
-      "origin": "Popularized by British food chains and social media, this day shines a spotlight on the tasty treat outside of its traditional homeland.",
-      "category": "Food Holiday",
-      "emoji": "🌮",
-      "funFact": "Although tacos are Mexican, the UK’s Taco Day is celebrated on October 4 instead of the US’s 'National Taco Day' on October 4 or 10 (varies)!"
+      "name": "National Vodka Day",
+      "description": "A toast to the clear, spirited drink beloved in cocktails like the Moscow Mule and Bloody Mary. Fans celebrate by sampling new infusions and mixing up classic drinks, ideally responsibly.",
+      "origin": "An unofficial American drinking holiday, popularized by spirits brands and bars. Vodka's roots stretch back to Eastern Europe, where Poland and Russia have long disputed who invented it first.",
+      "category": "Drink Day",
+      "emoji": "🍸",
+      "funFact": "The word 'vodka' comes from the Slavic word 'voda,' meaning 'water,' so it essentially translates to 'little water.'"
     },
     {
-      "name": "National Cinnamon Roll Day (Sweden)",
-      "description": "Known as Kanelbullens Dag in Sweden, this sweet holiday celebrates the beloved cinnamon roll with coffee and cozy vibes.",
-      "origin": "Started in 1999 by the Swedish Bakers' Association to boost the sales of cinnamon buns and enjoy fika, the cherished Swedish coffee break.",
-      "category": "Food Holiday",
-      "emoji": "🍥",
-      "funFact": "Swedes consume an estimated 10 million cinnamon buns on this day alone—enough to give everyone in Sweden about two each!"
+      "name": "National Cinnamon Roll Day",
+      "description": "A sticky, gooey, frosting-drenched celebration of the swirly pastry that makes mornings worth waking up for. Bakeries and cafes serve up warm rolls, and home bakers go all out with extra icing.",
+      "origin": "Cinnamon Roll Day is celebrated in the U.S. on October 4, inspired by Sweden's Kanelbullens Dag (Cinnamon Bun Day), which was created in 1999 by the Swedish Home Baking Council to mark its 40th anniversary.",
+      "category": "Food Day",
+      "emoji": "🥐",
+      "funFact": "In Sweden, kanelbullar are such a cultural staple that the country celebrates Cinnamon Bun Day with national fervor, and Swedes consume them as part of the beloved coffee break tradition called 'fika.'"
     },
     {
-      "name": "Name Your Car Day",
-      "description": "A quirky day encouraging people to give their vehicles unique and amusing names, turning ordinary cars into beloved companions.",
-      "origin": "Unofficial, created by car enthusiasts who wanted to personalize their rides and share humorous stories about their cars.",
-      "category": "Pop Culture Celebration",
-      "emoji": "🚗",
-      "funFact": "Naming cars often strengthens the bond between driver and vehicle — some say it can even improve your car’s 'mood' on road trips!"
+      "name": "Frappe Day",
+      "description": "A frosty salute to the blended, icy coffee drink that fuels students, remote workers, and caffeine lovers on hot days and cold ones alike.",
+      "origin": "The frappé was reportedly invented by accident in 1957 at the Thessaloniki International Fair in Greece, when Nescafé employee Dimitris Vakondios couldn't find hot water and mixed instant coffee with cold water and ice in a shaker.",
+      "category": "Drink Day",
+      "emoji": "☕",
+      "funFact": "Greek frappé is made with instant coffee, and it became so iconic that it's now considered a national summer drink of Greece."
     }
   ]
 }

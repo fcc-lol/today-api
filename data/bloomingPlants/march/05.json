@@ -2,57 +2,59 @@
   "date": "March 5",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A bulbous perennial flowering plant that produces cup-shaped flowers, often one of the first to bloom signaling the arrival of spring in temperate regions.",
-      "bloomingSeason": "February to March",
-      "location": "Europe, North America (cultivated)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before leaves emerge. Widely cultivated in East Asia for ornamental use and for its sour fruit, which is pickled or made into liqueur.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocus flowers are known for their vibrant colors and are sometimes confused with early blooming tulips."
+      "funFact": "Ume blossoms are traditionally celebrated in Japan before cherry blossoms, and in Chinese culture the plum is one of the 'Three Friends of Winter' for its resilience in cold weather."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot",
-      "description": "A deciduous tree prized for its fragrant and early blooming pink to white flowers, often blooming in late winter to early spring in East Asia.",
-      "bloomingSeason": "January to March",
-      "location": "East Asia (China, Japan, Korea)",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the ancestor of many cultivated daffodil varieties.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
       "colors": [
-        "pink",
-        "white"
+        "Yellow",
+        "Pale yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodil bulbs contain lycorine and other alkaloids that make them toxic, which is why rodents and deer usually leave them alone. Galantamine, a compound from related plants, is used in Alzheimer's medication."
+    },
+    {
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large tree from the Himalayas that bears huge, goblet-shaped flowers on bare branches in late winter. The blooms can reach 25 cm across and make a dramatic display in mild-climate gardens.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Eastern Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild gardens in the UK, New Zealand, and the US Pacific Northwest",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Prunus mume blossoms are celebrated in East Asian cultures for their beauty and symbolism of resilience amid winter."
+      "funFact": "A Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, and magnolias belong to one of the oldest flowering plant lineages, predating bees."
     },
     {
-      "name": "Banksia ericifolia",
-      "commonName": "Heath-leaved Banksia",
-      "description": "A native Australian shrub producing striking orange-red inflorescences shaped like cylindrical flower spikes, attracting birds and pollinators.",
-      "bloomingSeason": "February to May",
-      "location": "Southeastern Australia",
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily (Naked Lady)",
+      "description": "A bulbous perennial from South Africa that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped pink flowers. Leaves appear after flowering finishes, which gives it the name 'naked lady'.",
+      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere (February to April)",
+      "location": "Western Cape, South Africa; naturalized in Australia, California, and the Mediterranean",
       "colors": [
-        "orange-red"
-      ],
-      "emoji": "🌻",
-      "funFact": "Banksias have woody seed cones that open after fire or dry conditions, helping regeneration after bushfires."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous hybrid tree ornamental for its large, tulip-shaped flowers that bloom in early spring, often before the leaf emergence.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions worldwide (cultivated)",
-      "colors": [
-        "white",
-        "pink",
-        "purple"
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "Saucer magnolia flowers can be quite large, measuring up to 20 cm across, and emit a mild, pleasant fragrance."
+      "funFact": "Its flower stalks emerge suddenly after summer heat or rain, and it is the only species in the genus Amaryllis. The large red 'amaryllis' sold at Christmas is actually a Hippeastrum."
     }
   ]
 }

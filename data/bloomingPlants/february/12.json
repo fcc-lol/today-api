@@ -2,58 +2,57 @@
   "date": "February 12",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Dutch Crocus",
-      "description": "A small, early spring flowering bulb that pushes up through late winter snow in many temperate regions. Known for its vivid cup-shaped flowers signaling the end of winter.",
-      "bloomingSeason": "February to April",
-      "location": "Europe, North America (cultivated)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the depths of winter. Widely cultivated in East Asia for ornamental use and for its fruit, which is pickled or made into liqueur.",
+      "bloomingSeason": "Late winter to early spring (January to March)",
+      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocus flowers have been used historically to produce saffron, though the true saffron crocus blooms later in autumn."
+      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom while snow may still be on the ground, often before cherry blossoms."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot or Ume",
-      "description": "A species of Asian plum that blooms in late winter, with fragrant blossoms that are a cultural symbol in East Asia, marking the coming of spring.",
-      "bloomingSeason": "January to March",
-      "location": "East Asia (Japan, China, Korea)",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green spots on the inner petals. It pushes up through frost and snow, naturalizing in woodlands and gardens.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Green"
       ],
-      "emoji": "🌺",
-      "funFact": "The ume flower is celebrated in Japan with festivals and is considered one of the first signs of spring."
+      "emoji": "❄️",
+      "funFact": "Snowdrops contain galantamine, a compound used in medications to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Banksia ericifolia",
-      "commonName": "Heath-leaved Banksia",
-      "description": "A coastal Australian shrub with striking cylindrical flower spikes, important for local wildlife providing nectar during the Australian summer and early autumn months, still flowering in some regions in February.",
-      "bloomingSeason": "January to April",
-      "location": "Eastern Australia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen shrub or small tree covered in fluffy, golden, ball-shaped flower clusters with a sweet scent. It grows in woodlands and dry forests of southeastern Australia.",
+      "bloomingSeason": "Late winter to spring in Australia (July to October), with some wattle species flowering in summer",
+      "location": "Southeastern Australia",
       "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌿",
-      "funFact": "Banksia flowers are rich nectar sources and play a vital role in Australian ecosystems."
-    },
-    {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia notable for its large, tulip-shaped flowers appearing on bare branches in late winter to early spring before the leaves emerge.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions worldwide (cultivated)",
-      "colors": [
-        "white",
-        "pink",
-        "purple"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Magnolias are ancient flowering plants dating back 95 million years, predating bees; early magnolias were pollinated by beetles."
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and tall stems topped by large rounded clusters of trumpet-shaped blue flowers. It thrives in warm, sunny conditions and is popular in borders and coastal gardens.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to March)",
+      "location": "South Africa; widely cultivated in Australia, New Zealand, and Mediterranean climates",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💠",
+      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

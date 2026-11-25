@@ -2,61 +2,61 @@
   "date": "October 19",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular autumn-flowering perennial, chrysanthemums bloom profusely in vibrant colors such as yellow, white, pink, and red. They are widely cultivated in temperate regions as ornamental garden plants and signify longevity and joy in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially Asia, Europe, and North America",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing tree with fern-like leaves that erupts into dense clusters of trumpet-shaped lavender-blue flowers, often carpeting streets and lawns with fallen petals.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), and Argentina",
       "colors": [
-        "yellow",
-        "white",
-        "pink",
-        "red"
+        "Lavender",
+        "Purple",
+        "Blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, jacarandas line the streets in such numbers that the city is nicknamed 'Jacaranda City', and a fallen blossom on your head is said to bring good luck."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial whose crocus-like pink-lilac flowers emerge from bare ground in autumn, with leaves appearing only the following spring.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Meadows and woodland edges across Europe; cultivated in gardens in temperate regions worldwide",
+      "colors": [
+        "Pale pink",
+        "Lilac",
+        "Mauve"
+      ],
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, hardy perennial wildflower with sturdy hairy stems topped with masses of daisy-like flowers featuring golden-yellow centers and many narrow petals.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern and central North America in prairies, meadows, and roadsides",
+      "colors": [
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in China around 1500 BC and are the official flower of the city of Chicago."
+      "funFact": "It is a crucial late-season nectar source for migrating monarch butterflies, which fuel up on its flowers during their journey to Mexico."
     },
     {
-      "name": "Dianthus caryophyllus",
-      "commonName": "Carnation",
-      "description": "Carnations are often blooming into early autumn in mild climates. These fragrant flowers are widely cultivated for their ruffled petals and range of colors. They are commonly used in floral arrangements and symbolize fascination and love.",
-      "bloomingSeason": "Spring through early autumn; extended bloom in mild climates into October",
-      "location": "Native to the Mediterranean, cultivated widely in temperate regions",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark leaves and delicate, often fragrant flowers that open earlier than most other camellias, brightening autumn gardens.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Australia",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Carnations have been found in ancient Greek and Roman archaeological sites, indicating their long history in cultivation."
-    },
-    {
-      "name": "Erica canaliculata",
-      "commonName": "Pine Heath",
-      "description": "A species of heath native to South Africa, it blooms in autumn producing elongated spikes of pink flowers that attract nectar-feeding birds. It thrives in Mediterranean climates and well-drained acidic soils.",
-      "bloomingSeason": "September to November",
-      "location": "Cape Provinces, South Africa; also cultivated in Mediterranean climate gardens",
-      "colors": [
-        "pink"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Heaths like Erica canaliculata belong to the Ericaceae family, which also includes blueberries and rhododendrons."
-    },
-    {
-      "name": "Ipomoea purpurea",
-      "commonName": "Common Morning Glory",
-      "description": "Though usually a summer bloomer, in warmer climates morning glories can still be blooming in October, showing their vivid trumpet-shaped flowers that open in the morning and fade by afternoon.",
-      "bloomingSeason": "Summer to early autumn, sometimes extending into October in warm regions",
-      "location": "Native to tropical Americas; cultivated widely in warm temperate to tropical regions",
-      "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Morning glory flowers open quickly in the morning and close by the afternoon, adapting to pollinator activity."
+      "funFact": "It is a close relative of Camellia sinensis, the plant that gives us tea, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
     }
   ]
 }

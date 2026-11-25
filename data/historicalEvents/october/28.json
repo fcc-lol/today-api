@@ -2,32 +2,39 @@
   "date": "October 28",
   "events": [
     {
+      "year": 312,
+      "title": "Battle of the Milvian Bridge",
+      "description": "Roman Emperor Constantine the Great defeated his rival Maxentius at the Milvian Bridge near Rome. According to tradition, Constantine had seen a vision of a cross before the battle and ordered his soldiers to mark their shields with a Christian symbol.",
+      "category": "Military",
+      "significance": "The victory made Constantine sole ruler of the Western Roman Empire and paved the way for the Christianization of the empire, profoundly shaping the course of European and world history."
+    },
+    {
       "year": 1492,
-      "title": "Discovery of Cuba by Christopher Columbus",
-      "description": "Christopher Columbus landed on the island of Cuba during his first voyage to the New World, marking a significant moment in the Age of Exploration.",
+      "title": "Columbus Lands in Cuba",
+      "description": "During his first voyage to the Americas, Christopher Columbus sighted the island of Cuba and landed on its northeastern coast, believing it might be part of mainland Asia. He named the island Juana.",
       "category": "Exploration",
-      "significance": "This event contributed to European awareness of the Americas and initiated Spanish colonization efforts in the Caribbean."
+      "significance": "The landing marked an early step in European exploration and colonization of the Caribbean, leading to centuries of Spanish colonial rule in Cuba and major transformations for the indigenous peoples of the region."
     },
     {
       "year": 1886,
-      "title": "Dedication of the Statue of Liberty",
-      "description": "The Statue of Liberty was officially dedicated by President Grover Cleveland in New York Harbor as a gift from France symbolizing freedom and democracy.",
-      "category": "Politics and Culture",
-      "significance": "It became an enduring symbol of freedom and immigration to the United States."
+      "title": "Statue of Liberty Dedicated",
+      "description": "President Grover Cleveland presided over the dedication of the Statue of Liberty on Bedloe's Island in New York Harbor. The statue, designed by Frédéric Auguste Bartholdi, was a gift from the people of France to the United States.",
+      "category": "Culture",
+      "significance": "The statue became one of the world's most recognizable symbols of freedom, democracy, and welcome to immigrants arriving in the United States."
     },
     {
       "year": 1918,
-      "title": "Czechoslovakia Declares Independence",
-      "description": "Czechoslovakia declared its independence from the Austro-Hungarian Empire, forming a new sovereign nation after World War I.",
-      "category": "Political History",
-      "significance": "Marked the creation of a new democratic state in Central Europe and contributed to the reshaping of Europe after the war."
+      "title": "Czechoslovak Independence Declared",
+      "description": "The Czechoslovak National Committee in Prague proclaimed the independence of Czechoslovakia as the Austro-Hungarian Empire collapsed at the end of World War I. Tomáš Masaryk became the first president of the new republic.",
+      "category": "Politics",
+      "significance": "The founding of Czechoslovakia created a new democratic state in Central Europe and is still commemorated as a national holiday in the Czech Republic."
     },
     {
       "year": 1962,
-      "title": "Cuban Missile Crisis Ends",
-      "description": "After a tense 13-day confrontation, the Soviet Union agreed to dismantle missile bases in Cuba, averting nuclear war with the United States.",
-      "category": "Cold War History",
-      "significance": "This event eased the immediate threat of nuclear conflict and led to improved communication between the superpowers."
+      "title": "Cuban Missile Crisis Resolved",
+      "description": "Soviet Premier Nikita Khrushchev announced that the Soviet Union would dismantle and remove its missiles from Cuba, ending the most dangerous confrontation of the Cold War after thirteen days of tension with the United States.",
+      "category": "Politics",
+      "significance": "The resolution averted a likely nuclear war between the superpowers and led to improved communication measures, including the Moscow-Washington hotline, and later arms control efforts."
     }
   ]
 }

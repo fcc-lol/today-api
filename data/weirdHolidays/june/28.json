@@ -2,36 +2,44 @@
   "date": "June 28",
   "holidays": [
     {
-      "name": "National Tau Day",
-      "description": "Celebrate the mathematical constant tau (τ), approximately 6.28, which is the ratio of a circle's circumference to its radius. It's a nerdy alternative to Pi Day!",
-      "origin": "Created by mathematicians and enthusiasts who believe tau (τ) better represents the properties of circles than pi (π).",
-      "category": "Math/Science",
-      "emoji": "🧮",
-      "funFact": "Tau equals 2 times pi, so June 28 (6/28) neatly corresponds to 6.28, making this day perfect for circle lovers!"
-    },
-    {
-      "name": "Hug holiday - International Body Piercing Day",
-      "description": "A day to appreciate the art and culture of body piercing, celebrating self-expression and adornment through piercings worldwide.",
-      "origin": "Started by body piercing enthusiasts and professionals to raise awareness about the body modification community.",
-      "category": "Culture/Body Art",
-      "emoji": "🦋",
-      "funFact": "Body piercing dates back thousands of years, with evidence from ancient civilizations including the Egyptians, Romans, and Mayans."
-    },
-    {
-      "name": "Cucumber Day",
-      "description": "A quirky food holiday celebrating the humble cucumber, beloved for its refreshing crunch and versatility in dishes and beauty treatments.",
-      "origin": "Origin details unknown, but embraced mostly by foodies and gardeners to honor this cooling vegetable.",
-      "category": "Food",
-      "emoji": "🥒",
-      "funFact": "Cucumbers are actually fruits and can be up to 95% water — perfect for a summer snack or spa treatment!"
+      "name": "International Body Piercing Day",
+      "description": "A day for celebrating the art, culture, and self-expression of body piercing, from classic earlobe studs to elaborate adornments. Piercing studios and fans mark it by showing off their favorite jewelry.",
+      "origin": "The day is an unofficial observance in the body modification community, reportedly started by piercing enthusiasts to recognize piercing as a form of personal expression and an ancient practice.",
+      "category": "Culture & Lifestyle",
+      "emoji": "💎",
+      "funFact": "Ötzi the Iceman, a mummy about 5,300 years old, had stretched pierced earlobes, which shows that piercing is among the oldest known forms of body adornment."
     },
     {
       "name": "Tau Day",
-      "description": "Dedicated to tau, the circle constant equal to 2π. Advocates argue tau simplifies many formulas in math and physics compared to pi.",
-      "origin": "Tau Day was popularized on the internet by math educator Michael Hartl and tau enthusiasts to challenge the traditional Pi Day.",
-      "category": "Mathematics",
-      "emoji": "🔢",
-      "funFact": "Some fans call tau 'the true circle constant,' and organize annual celebrations featuring tau-themed pies and jokes."
+      "description": "A celebration of tau (τ), the circle constant equal to 2π, or about 6.28. Fans of math argue that tau makes circle math simpler and more intuitive than pi does. Many celebrate by eating pies, double the usual number.",
+      "origin": "Physicist Michael Hartl launched the Tau Manifesto in 2010, arguing that tau, the ratio of a circle's circumference to its radius, is the more natural constant. The date 6/28 matches tau's first digits, 6.28.",
+      "category": "Math & Science",
+      "emoji": "🥧",
+      "funFact": "Because tau is twice pi, Tau Day fans joke that you should eat twice as much pie, and some say a full circle's worth of pie is the proper way to celebrate."
+    },
+    {
+      "name": "Insurance Awareness Day",
+      "description": "A day dedicated to reminding people to review their insurance policies, from health and home to car and life. Not exactly a party, but surprisingly useful for avoiding future disasters.",
+      "origin": "Insurance Awareness Day is observed annually on June 28 in the United States, promoted by insurance organizations to encourage people to understand their coverage and be prepared for the unexpected.",
+      "category": "Awareness Day",
+      "emoji": "📋",
+      "funFact": "The modern insurance industry has roots in 17th-century London, where merchants gathered at Edward Lloyd's coffee house to underwrite ships' voyages, leading to the creation of Lloyd's of London."
+    },
+    {
+      "name": "Paul Bunyan Day",
+      "description": "A tribute to the giant lumberjack of American folklore, his blue ox Babe, and tall tales of epic proportions. People celebrate with tall-tale storytelling, flapjack breakfasts, and flannel shirts.",
+      "origin": "Paul Bunyan Day honors the legendary logger whose stories grew out of lumber camps and were popularized in early 20th-century advertising by the Red River Lumber Company, which published illustrated Bunyan stories.",
+      "category": "Folklore & Legends",
+      "emoji": "🪓",
+      "funFact": "According to legend, the Grand Canyon was carved when Paul Bunyan dragged his giant axe behind him, and Minnesota's 10,000 lakes were formed by Babe the Blue Ox's footprints filling with water."
+    },
+    {
+      "name": "National Logistics Day",
+      "description": "A salute to the unseen workers and systems that make sure packages, groceries, and nearly everything else get where they are going. Celebrate by thanking a truck driver, warehouse worker, or the person who delivered your latest online order.",
+      "origin": "The observance grew out of industry efforts to recognize supply chain and shipping professionals, whose importance became obvious to the public when global shipping disruptions emptied store shelves.",
+      "category": "Work & Industry",
+      "emoji": "🚚",
+      "funFact": "Modern shipping containers, standardized in the 1950s, helped cut the cost of shipping goods so drastically that they reshaped the entire global economy."
     }
   ]
 }

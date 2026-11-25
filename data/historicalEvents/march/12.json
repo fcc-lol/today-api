@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1930,
-      "title": "Mahatma Gandhi begins Salt March",
-      "description": "Mahatma Gandhi starts the 240-mile Salt March to Dandi, India, to protest British salt taxes.",
-      "category": "Political/Protest",
-      "significance": "This event was a pivotal act of nonviolent civil disobedience that galvanized the Indian independence movement against British colonial rule."
-    },
-    {
-      "year": 1933,
-      "title": "Franklin D. Roosevelt's First Fireside Chat",
-      "description": "U.S. President Franklin D. Roosevelt delivers his first 'fireside chat,' addressing Americans about the banking crisis during the Great Depression.",
-      "category": "Political/Communication",
-      "significance": "This marked an innovative use of radio to directly communicate with the public, restoring confidence in the banking system."
-    },
-    {
-      "year": 1912,
-      "title": "Republic of China Established",
-      "description": "Sun Yat-sen is declared provisional president of the Republic of China following the fall of the Qing Dynasty.",
-      "category": "Political/State Formation",
-      "significance": "This event signifies the end of over two thousand years of imperial rule in China and the founding of a republican government."
+      "title": "Gandhi Begins the Salt March",
+      "description": "Mohandas K. Gandhi set out from Sabarmati Ashram near Ahmedabad with 78 followers on a roughly 240-mile march to Dandi on the Arabian Sea coast to protest the British salt tax and monopoly. The march grew as it progressed, and Gandhi broke the salt law by making salt at Dandi on April 6.",
+      "category": "Politics",
+      "significance": "The Salt March became a landmark act of nonviolent civil disobedience, galvanizing the Indian independence movement and drawing worldwide attention to British colonial rule."
     },
     {
       "year": 1938,
-      "title": "Anschluss: Germany annexes Austria",
-      "description": "Nazi Germany formally annexes Austria, an event known as the Anschluss, as part of Hitler's expansionist policies.",
-      "category": "Political/Military",
-      "significance": "This was a significant step in Nazi Germany's aggressive expansion leading up to World War II."
+      "title": "Anschluss: German Troops Enter Austria",
+      "description": "German forces crossed the border into Austria, following pressure from Hitler on Chancellor Kurt Schuschnigg, who had resigned the previous day. Austria was annexed into Nazi Germany, and the annexation was formally proclaimed the following day.",
+      "category": "War",
+      "significance": "The Anschluss was a key step in Nazi expansion before World War II, violating the Treaty of Versailles and demonstrating the unwillingness of Britain and France to confront German aggression."
+    },
+    {
+      "year": 1912,
+      "title": "Girl Scouts Founded in the United States",
+      "description": "Juliette Gordon Low organized the first Girl Guides troop meeting in Savannah, Georgia, with 18 girls. The organization was renamed Girl Scouts of the USA in 1913.",
+      "category": "Society",
+      "significance": "The organization grew into one of the largest youth organizations for girls in the world, promoting leadership, outdoor skills, and civic engagement."
+    },
+    {
+      "year": 1989,
+      "title": "Tim Berners-Lee Proposes the World Wide Web",
+      "description": "While working at CERN, British computer scientist Tim Berners-Lee submitted a proposal for an information management system using hypertext to link documents across a network. His supervisor described it as 'vague but exciting.'",
+      "category": "Science and Technology",
+      "significance": "This proposal laid the foundation for the World Wide Web, which transformed communication, commerce, and access to information globally."
+    },
+    {
+      "year": 1933,
+      "title": "Franklin D. Roosevelt Gives First Fireside Chat",
+      "description": "Days after taking office, President Roosevelt delivered the first of his radio addresses to the American public, explaining the banking crisis and the reasons for the bank holiday in plain language.",
+      "category": "Politics",
+      "significance": "The fireside chats pioneered the use of mass media by presidents to communicate directly with citizens and helped restore public confidence in the banking system during the Great Depression."
     }
   ]
 }

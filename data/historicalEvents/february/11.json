@@ -2,32 +2,39 @@
   "date": "February 11",
   "events": [
     {
-      "year": 660,
-      "title": "Founding of Japan's First Imperial Dynasty",
-      "description": "Legend states that Emperor Jimmu, the first Emperor of Japan, ascended to the throne, marking the traditional foundation of Japan's imperial line.",
-      "category": "Political History",
-      "significance": "This date is celebrated as National Foundation Day in Japan, symbolizing the origins of the Japanese nation and its imperial institution."
+      "year": 1990,
+      "title": "Nelson Mandela Released from Prison",
+      "description": "After 27 years of imprisonment, Nelson Mandela walked out of Victor Verster Prison near Cape Town, South Africa. His release was broadcast live around the world and followed President F. W. de Klerk's announcement that the ban on the African National Congress would be lifted.",
+      "category": "Politics",
+      "significance": "Marked a decisive turning point in the dismantling of apartheid and opened the way to negotiations and South Africa's first multiracial democratic elections in 1994, in which Mandela became president."
+    },
+    {
+      "year": 1847,
+      "title": "Birth of Thomas Edison",
+      "description": "Thomas Alva Edison was born in Milan, Ohio. He became one of the most prolific inventors in history, holding over 1,000 U.S. patents, including improvements to the phonograph, motion picture camera, and practical incandescent light bulb.",
+      "category": "Birth",
+      "significance": "Edison's work, including the establishment of the Menlo Park research laboratory, helped create the model of the industrial research lab and shaped the modern electrified world."
+    },
+    {
+      "year": 1979,
+      "title": "Iranian Revolution Topples the Monarchy",
+      "description": "Forces loyal to Ayatollah Ruhollah Khomeini prevailed as the Iranian military declared neutrality, ending the Pahlavi dynasty's rule following days of armed uprising in Tehran. The date is commemorated in Iran as the victory of the Islamic Revolution.",
+      "category": "Politics",
+      "significance": "Led to the establishment of the Islamic Republic of Iran, transforming the country's government and altering the geopolitics of the Middle East and global relations for decades."
     },
     {
       "year": 1929,
-      "title": "Signing of the Lateran Treaty",
-      "description": "The Lateran Treaty was signed between the Kingdom of Italy and the Holy See, establishing Vatican City as an independent sovereign state.",
-      "category": "Political/Diplomatic History",
-      "significance": "This treaty resolved the 'Roman Question' and defined the relationship between Italy and the Catholic Church, creating the smallest independent state in the world."
+      "title": "Lateran Treaty Signed",
+      "description": "The Kingdom of Italy, represented by Benito Mussolini, and the Holy See, represented by Cardinal Pietro Gasparri, signed the Lateran Treaty in Rome, recognizing the sovereignty of Vatican City as an independent state.",
+      "category": "Politics",
+      "significance": "Resolved the long-standing 'Roman Question' that had existed since Italian unification in 1870 and established Vatican City as a sovereign state, defining Church-state relations in Italy."
     },
     {
-      "year": 1990,
-      "title": "Nelson Mandela's Release from Prison",
-      "description": "Anti-apartheid leader Nelson Mandela was released after 27 years of imprisonment in South Africa.",
-      "category": "Social/Political History",
-      "significance": "His release marked a pivotal moment in ending apartheid and advancing civil rights and democracy in South Africa."
-    },
-    {
-      "year": 1864,
-      "title": "First Women’s Rights Convention in the UK",
-      "description": "The first meeting of the British women's suffrage movement took place, laying the foundation for future activism.",
-      "category": "Social History",
-      "significance": "This event was critical in advancing women's rights and suffrage movements in the United Kingdom."
+      "year": 2013,
+      "title": "Pope Benedict XVI Announces Resignation",
+      "description": "Pope Benedict XVI announced to cardinals in Latin that he would resign on February 28, 2013, citing declining strength of mind and body due to advanced age.",
+      "category": "Religion",
+      "significance": "It was the first papal resignation in nearly 600 years, since Gregory XII in 1415, and led to the election of Pope Francis as the first pope from the Americas."
     }
   ]
 }

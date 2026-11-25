@@ -2,57 +2,57 @@
   "date": "February 25",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial known for its large, fragrant white flowers that often appear in late winter, sometimes pushing through snow. It is native to the mountainous regions of Central and Southern Europe.",
-      "bloomingSeason": "December to March",
-      "location": "Europe (Alps and surrounding regions)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the last weeks of winter. It is widely cultivated in East Asia for ornament and for its sour fruit, which is pickled or made into liqueur.",
+      "bloomingSeason": "Late winter to early spring (January–March)",
+      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Pink",
+        "Deep red"
       ],
-      "emoji": "❄️🌺",
-      "funFact": "Despite the common name, Christmas Rose often blooms in late winter and was historically prized for bringing color to gardens during cold months."
+      "emoji": "🌸",
+      "funFact": "Ume blossoms are celebrated in East Asia as symbols of perseverance because they bloom in cold weather, and in Japan ume viewing traditionally precedes cherry blossom viewing."
     },
     {
-      "name": "Crocus tommasinianus",
-      "commonName": "Early Crocus",
-      "description": "A small perennial bulb that naturalizes easily in lawns and woodlands. Its pale purple flowers are among the first crocuses to bloom, often signaling the approaching spring.",
-      "bloomingSeason": "February to March",
-      "location": "Europe (Balkan Peninsula) and cultivated worldwide",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and naturalizes in woodlands, churchyards and gardens.",
+      "bloomingSeason": "Late winter (January–March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
       "colors": [
-        "purple",
-        "white",
-        "yellow"
+        "White",
+        "Green"
       ],
-      "emoji": "💜🌸",
-      "funFact": "Early Crocus flowers close at night and reopen with the sunlight, an adaptation to protect pollen."
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce galanthamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle or Mimosa",
-      "description": "A fast-growing evergreen tree or shrub with silvery foliage and bright yellow, fragrant, fluffy flower clusters. It thrives in Mediterranean climates and is often appreciated for winter and early spring blooms.",
-      "bloomingSeason": "January to March",
-      "location": "Australia; cultivated in Mediterranean climates worldwide",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen Australian tree or large shrub covered in fluffy, fragrant golden flower balls. It is a vital source of pollen for native insects and birds and grows in woodland and scrub.",
+      "bloomingSeason": "Late winter to spring (July–October in Australia, with some flowering earlier in mild areas)",
+      "location": "Southeastern Australia",
       "colors": [
-        "yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌿💛",
-      "funFact": "Silver Wattle's bright yellow flowers were traditionally used in Europe to celebrate International Women's Day on March 8."
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous tree with large, tulip-shaped flowers in shades of white, pink, and purple. It blooms early in spring, often before leaf-out, creating a spectacular floral display.",
-      "bloomingSeason": "February to April",
-      "location": "Cultivated widely in temperate regions worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with giant flower heads made of pink bracts surrounding a central cluster of tiny flowers. It thrives in the fynbos vegetation on nutrient-poor, well-drained soils.",
+      "bloomingSeason": "Late summer to early autumn peak, with flowers present through much of the year (February in the Southern Hemisphere is within the season)",
+      "location": "Western Cape, South Africa",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Pink",
+        "Cream",
+        "Silver"
       ],
-      "emoji": "🌸🌷",
-      "funFact": "Saucer Magnolia was developed in France in the early 19th century and is one of the most popular magnolias in temperate gardens."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and its fire-adapted structure lets the plant survive the regular wildfires of the fynbos."
     }
   ]
 }

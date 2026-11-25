@@ -2,36 +2,44 @@
   "date": "May 3",
   "holidays": [
     {
+      "name": "Garden Meditation Day",
+      "description": "A day to step outside, sit among the plants, and quietly soak in the sights, smells, and sounds of a garden. Weeds, worms, and buzzing bees all count as part of the zen experience.",
+      "origin": "Garden Meditation Day is an unofficial observance that grew out of the wellness and mindfulness movements, encouraging people to combine gardening with meditation each spring.",
+      "category": "Wellness",
+      "emoji": "🧘",
+      "funFact": "Studies have found that just 30 minutes of gardening can lower cortisol levels more effectively than reading indoors."
+    },
+    {
       "name": "World Press Freedom Day",
-      "description": "A day to celebrate and raise awareness about the importance of press freedom and the challenges journalists face worldwide.",
-      "origin": "Proclaimed by the United Nations in 1993 to remind governments of the need to respect and uphold the right to freedom of expression.",
+      "description": "A serious but important observance celebrating the fundamental principles of press freedom and honoring journalists who risk their lives to report the truth.",
+      "origin": "Proclaimed by the United Nations General Assembly in 1993 following a recommendation from UNESCO, inspired by the 1991 Windhoek Declaration of African journalists.",
       "category": "Awareness Day",
       "emoji": "📰",
-      "funFact": "Despite digital media's rise, around 70% of the world's population still experiences restrictions on press freedom!"
+      "funFact": "The Windhoek Declaration was written in Namibia, and the UNESCO/Guillermo Cano World Press Freedom Prize is awarded each year on this date."
     },
     {
-      "name": "Two Different Colored Shoes Day",
-      "description": "Encourages people to wear two different colored shoes to celebrate uniqueness and embrace quirky fashion choices.",
-      "origin": "Started on social media as a fun way to promote individuality and break fashion norms.",
-      "category": "Fun/Pop Culture",
-      "emoji": "👟👞",
-      "funFact": "People who wear mismatched shoes often say it sparks conversations and makes their day more cheerful!"
+      "name": "Textiles Day",
+      "description": "A celebration of all things fabric, from cozy quilts to fancy silks, honoring the art and craft of weaving, knitting, and sewing.",
+      "origin": "Textiles Day is an informal craft observance that gives hobbyists and professionals a reason to show off their fiber-based creations.",
+      "category": "Arts & Crafts",
+      "emoji": "🧵",
+      "funFact": "The oldest known textile fragments are dyed flax fibers found in a Georgian cave, dating back roughly 34,000 years."
     },
     {
-      "name": "National Paranormal Day",
-      "description": "Dedicated to celebrating all things supernatural, from ghost stories and UFOs to spirits and hauntings.",
-      "origin": "Began online in the early 2000s as paranormal enthusiasts decided they needed a day to share their eerie experiences.",
-      "category": "Pop Culture/Awareness",
-      "emoji": "👻",
-      "funFact": "May 3 is believed by some ghost hunters to be a prime night for paranormal activity!"
+      "name": "Orchid Day",
+      "description": "A day dedicated to the elegant, finicky, and occasionally murder-prone-for-houseplant-owners orchid, one of the largest flowering plant families on Earth.",
+      "origin": "Orchid Day is an unofficial flower-appreciation observance, popular with plant lovers and gardening clubs who use the day to swap tips on keeping the divas alive.",
+      "category": "Nature",
+      "emoji": "🌸",
+      "funFact": "Vanilla, the world's favorite ice cream flavor, comes from an orchid, making it the only edible fruit of the orchid family that most people eat daily."
     },
     {
       "name": "Lumpy Rug Day",
-      "description": "A whimsical holiday to remind people to enjoy the little annoyances of life—like a bumpy rug underfoot.",
-      "origin": "Created by an anonymous internet user as a humorous celebration of life’s small quirks and imperfections.",
-      "category": "Whimsical Fun",
-      "emoji": "🧶",
-      "funFact": "This day inspires some to rearrange or remove their lumpy rugs, turning an everyday annoyance into a playful activity!"
+      "description": "A day for those who prefer to sweep their problems under the rug, then admit the rug looks a little lumpy. It encourages a laugh about all the messes we hide instead of cleaning.",
+      "origin": "A tongue-in-cheek unofficial observance shared among humor-calendar enthusiasts, poking fun at procrastination and half-hearted housekeeping.",
+      "category": "Humor",
+      "emoji": "🧹",
+      "funFact": "The phrase 'sweep it under the rug' has been used in English since at least the early 1900s to describe hiding embarrassing matters."
     }
   ]
 }

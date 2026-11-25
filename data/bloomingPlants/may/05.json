@@ -2,57 +2,64 @@
   "date": "May 5",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous tree known for its large, fragrant, tulip-shaped flowers that appear before the leaves, creating a spectacular early spring display.",
-      "bloomingSeason": "Early to mid-spring (April to May)",
-      "location": "Temperate regions of the Northern Hemisphere; widely cultivated in gardens across Europe, North America, and Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on upright stems above broad, blue-green leaves. Thousands of cultivars exist, with single, double, fringed, and parrot-petaled forms. In temperate Northern Hemisphere gardens, early May is peak or late-peak tulip season.",
+      "bloomingSeason": "Mid-spring (April to early May in temperate Northern Hemisphere)",
+      "location": "Netherlands, North America, Europe, temperate Asia; native to Central Asia",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a house in Amsterdam."
+    },
+    {
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub producing dense, conical clusters of intensely fragrant flowers. It thrives in cold-winter climates and is a classic feature of old gardens and homesteads. Peak bloom often falls in early to mid May across the northern United States, Canada, and northern Europe.",
+      "bloomingSeason": "Late spring (late April to late May)",
+      "location": "Northern Europe, northern United States, Canada; native to the Balkan Peninsula",
+      "colors": [
+        "Lilac",
+        "Purple",
+        "White",
+        "Pink",
+        "Magenta"
+      ],
+      "emoji": "💜",
+      "funFact": "Lilac is the official state flower of New Hampshire, and its fragrance is so beloved that perfumers often recreate it synthetically because the real flowers yield little essential oil."
+    },
+    {
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "A vigorous woody twining vine that produces long, cascading racemes of pea-like, fragrant flowers. Japanese wisteria blooms open progressively from the base of each raceme to the tip. Famous wisteria tunnels in Japan reach peak display from late April into mid May.",
+      "bloomingSeason": "Late spring (late April to May)",
+      "location": "Japan (Ashikaga Flower Park, Kawachi Fuji Gardens), also cultivated in Europe and North America",
+      "colors": [
+        "Violet",
+        "Lavender",
+        "Pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer Magnolia blooms before its leaves emerge, ensuring its showy flowers are highly visible and accessible to early pollinators."
+      "funFact": "Some wisteria vines live for over a century, and the Ushijima wisteria in Japan is estimated to be around 1,200 years old."
     },
     {
-      "name": "Clintonia borealis",
-      "commonName": "Bluebead Lily",
-      "description": "A perennial wildflower native to North American deciduous forests, featuring clusters of small yellow-green flowers that give way to striking bright blue berries.",
-      "bloomingSeason": "Late spring (April to May)",
-      "location": "Northeastern United States and Canada, in cool, shaded woodlands",
+      "name": "Sophora japonica",
+      "commonName": "Chilean Wine Palm Alternative: Kōwhai (Sophora microphylla)",
+      "description": "Kōwhai is a small New Zealand native tree with drooping clusters of golden, tubular flowers that attract native birds such as tūī and bellbirds. Its flowering season in New Zealand runs from late winter to spring, though in some regions flowers may linger into early autumn on selected forms.",
+      "bloomingSeason": "Late winter to spring in New Zealand (some forms bloom into autumn)",
+      "location": "New Zealand (North and South Islands)",
       "colors": [
-        "yellow-green"
+        "Golden yellow"
       ],
-      "emoji": "🌿",
-      "funFact": "Despite its common name, the blue 'beads' are actually berries that mature after blooming, giving the plant a second seasonal interest."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy, evergreen shrub known for its clusters of highly fragrant, showy flowers that bloom profusely during warm months.",
-      "bloomingSeason": "Spring through fall (April to October)",
-      "location": "Mediterranean region, subtropical and tropical zones worldwide; often cultivated as an ornamental plant",
-      "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Oleander is extremely toxic if ingested, yet it has been used historically in traditional medicines with great caution."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A striking flowering tree with bright red, spiky blossoms resembling a rooster's comb; it thrives in subtropical regions and is celebrated as a national flower in Argentina and Uruguay.",
-      "bloomingSeason": "Late spring to summer (May to August)",
-      "location": "South America (Argentina, Uruguay); also grown in subtropical gardens worldwide",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The vibrant red flowers attract hummingbirds and other pollinators, playing a vital role in the local ecosystem."
+      "emoji": "🌼",
+      "funFact": "The word 'kōwhai' is the Māori word for yellow, and traditionally the blooming of kōwhai signaled the time to plant kūmara (sweet potato)."
     }
   ]
 }

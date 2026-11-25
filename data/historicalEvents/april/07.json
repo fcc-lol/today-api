@@ -2,39 +2,39 @@
   "date": "April 7",
   "events": [
     {
-      "year": 1862,
-      "title": "Battle of Shiloh Begins",
-      "description": "The Battle of Shiloh, one of the major early engagements of the American Civil War, started in southwestern Tennessee.",
-      "category": "Military",
-      "significance": "Marked one of the bloodiest battles in the Civil War, demonstrating the war's increasing brutality and high casualties."
-    },
-    {
       "year": 1948,
-      "title": "Founding of the World Health Organization (WHO)",
-      "description": "The World Health Organization officially came into existence as a specialized agency of the United Nations focused on international public health.",
-      "category": "Global Health",
-      "significance": "Established a global authority on health issues, leading international efforts in disease control and health promotion."
-    },
-    {
-      "year": 1927,
-      "title": "First Official Television Broadcast",
-      "description": "BBC made the world's first official public television broadcast, demonstrating early television technology in London.",
-      "category": "Technology",
-      "significance": "Marked a major milestone in broadcast media, paving the way for modern television communication."
-    },
-    {
-      "year": 1969,
-      "title": "The Internet's 'Birthday' - ARPANET First Message",
-      "description": "The first message was sent over the ARPANET, the precursor to the modern internet, between UCLA and Stanford Research Institute.",
-      "category": "Technology",
-      "significance": "Represented the dawn of the internet, revolutionizing communication and information sharing worldwide."
+      "title": "World Health Organization Established",
+      "description": "The World Health Organization (WHO) officially came into existence when its constitution took effect after ratification by 26 UN member states. It was established as the United Nations specialized agency for international public health.",
+      "category": "Politics and Health",
+      "significance": "April 7 is now observed annually as World Health Day. The WHO has led global efforts such as the eradication of smallpox and coordinates responses to international health emergencies."
     },
     {
       "year": 1994,
-      "title": "Rwandan Genocide Begins",
-      "description": "The mass killing began in Rwanda following the assassination of President Juvénal Habyarimana, leading to one of the most devastating genocides in history.",
-      "category": "Human Rights",
-      "significance": "Resulted in the deaths of an estimated 800,000 people and highlighted the need for international intervention in genocide prevention."
+      "title": "Start of the Rwandan Genocide",
+      "description": "Following the plane crash that killed President Juvénal Habyarimana on April 6, Hutu extremist forces began a systematic campaign of mass killing of Tutsi and moderate Hutu in Rwanda. Roughly 800,000 people were killed over about 100 days.",
+      "category": "Conflict and Genocide",
+      "significance": "The genocide exposed the failure of the international community to intervene and led to the creation of the International Criminal Tribunal for Rwanda and lasting reflection on the responsibility to protect."
+    },
+    {
+      "year": 1927,
+      "title": "First Long-Distance Demonstration of Television",
+      "description": "Bell Telephone Laboratories and the U.S. Department of Commerce gave the first long-distance demonstration of television, transmitting images of Commerce Secretary Herbert Hoover from Washington, D.C. to an audience in New York City.",
+      "category": "Science and Technology",
+      "significance": "The demonstration was an early milestone in the development of television as a mass communication medium that would transform news, entertainment, and culture."
+    },
+    {
+      "year": 1805,
+      "title": "Beethoven's Third Symphony 'Eroica' Premieres",
+      "description": "Ludwig van Beethoven's Symphony No. 3 in E-flat major, 'Eroica', was publicly premiered at the Theater an der Wien in Vienna.",
+      "category": "Arts and Culture",
+      "significance": "The symphony's unprecedented length, emotional scope, and structural innovation helped mark the transition from the Classical to the Romantic era in Western music."
+    },
+    {
+      "year": 1969,
+      "title": "Internet Engineering Begins with the First RFC",
+      "description": "Steve Crocker published RFC 1, 'Host Software', documenting early design work on the ARPANET, the precursor to the modern internet.",
+      "category": "Science and Technology",
+      "significance": "The Request for Comments series became the primary way internet standards and protocols are proposed and documented, shaping the open development of the internet."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 330,
-      "title": "Constantine the Great dedicates Constantinople",
-      "description": "Roman Emperor Constantine I officially dedicates Byzantium as the new capital of the Roman Empire, renaming it Constantinople.",
-      "category": "Political",
-      "significance": "Marked the establishment of a new imperial capital, influencing the political and cultural landscape of the Byzantine Empire for centuries."
+      "title": "Dedication of Constantinople",
+      "description": "Roman Emperor Constantine the Great formally dedicated the city of Byzantium as his new imperial capital, renaming it Nova Roma, later known as Constantinople.",
+      "category": "Politics",
+      "significance": "Constantinople became the center of the Eastern Roman (Byzantine) Empire for over a thousand years and a major hub of trade, culture, and Christianity."
     },
     {
       "year": 1812,
-      "title": "The Spanish Constitution of 1812 is proclaimed",
-      "description": "The liberal Spanish Constitution of 1812, also known as La Pepa, is proclaimed in Cádiz, Spain, representing a major step towards constitutional monarchy and liberal reform.",
-      "category": "Political",
-      "significance": "Regarded as one of the most liberal constitutions of its time, influencing liberal movements across Europe and Latin America."
+      "title": "Assassination of Prime Minister Spencer Perceval",
+      "description": "British Prime Minister Spencer Perceval was shot in the lobby of the House of Commons by John Bellingham, a merchant with a grievance against the government.",
+      "category": "Politics",
+      "significance": "Perceval remains the only British prime minister to have been assassinated in office."
     },
     {
-      "year": 1949,
-      "title": "The Federal Republic of Germany is established",
-      "description": "West Germany officially becomes a sovereign state with the promulgation of its constitution, the Basic Law, establishing a democratic government after World War II.",
-      "category": "Political",
-      "significance": "Signified the birth of modern West Germany and set a foundation for its post-war recovery and democratic development."
+      "year": 1858,
+      "title": "Minnesota Admitted as the 32nd U.S. State",
+      "description": "Minnesota was admitted to the Union as the 32nd state, following its organization as a territory in 1849.",
+      "category": "Politics",
+      "significance": "Its statehood reflected westward expansion of the United States and the growth of the Upper Midwest's agriculture, timber, and mining economies."
     },
     {
-      "year": 1997,
-      "title": "IBM's Deep Blue defeats world chess champion Garry Kasparov",
-      "description": "IBM's supercomputer Deep Blue wins a historic chess match against reigning world champion Garry Kasparov, marking the first time a computer defeats a world champion in a match under standard chess tournament time controls.",
-      "category": "Science and Technology",
-      "significance": "A milestone in artificial intelligence demonstrating the growing capabilities of computer technology in complex problem solving."
+      "year": 1888,
+      "title": "Birth of Irving Berlin",
+      "description": "Composer and lyricist Irving Berlin was born in the Russian Empire and later emigrated to the United States, where he wrote songs such as 'White Christmas' and 'God Bless America'.",
+      "category": "Arts and Culture",
+      "significance": "Berlin became one of the most prolific and influential songwriters in American history, shaping the sound of popular music for decades."
+    },
+    {
+      "year": 1981,
+      "title": "Death of Bob Marley",
+      "description": "Jamaican singer-songwriter Bob Marley died of melanoma in Miami, Florida, at age 36.",
+      "category": "Arts and Culture",
+      "significance": "Marley helped bring reggae to a worldwide audience and became a global symbol of cultural identity, peace, and resistance to oppression."
     }
   ]
 }

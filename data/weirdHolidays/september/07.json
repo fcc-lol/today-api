@@ -2,36 +2,44 @@
   "date": "September 7",
   "holidays": [
     {
-      "name": "Salami Day",
-      "description": "A delicious celebration dedicated to the savory and spicy cured meat we all love: salami! This day invites gourmands to enjoy salami in sandwiches, charcuterie boards, or even on pizza.",
-      "origin": "Likely created by meat enthusiasts and foodies to honor a classic deli staple, its exact origin is unknown but it’s celebrated mostly in the US.",
-      "category": "Food Holiday",
-      "emoji": "🥪",
-      "funFact": "Salami was originally made by Italian farmers as a way to preserve meat for winter months using fermentation and curing."
+      "name": "National Acorn Squash Day",
+      "description": "A day dedicated to the humble, ridged, dark-green winter squash. Celebrate by roasting it with butter and brown sugar, stuffing it with sausage and apples, or just admiring its acorn-like shape.",
+      "origin": "Like many American food days, it is an unofficial observance that grew out of food-themed calendars and social media. It lands in early September, when winter squash starts arriving at markets.",
+      "category": "Food Day",
+      "emoji": "🎃",
+      "funFact": "Despite the name, acorn squash is a winter squash, but it is a type of summer squash species, Cucurbita pepo. It is named for its shape, not for any relation to oak trees."
     },
     {
-      "name": "International Day of Clean Air for Blue Skies",
-      "description": "An important environmental awareness day dedicated to improving air quality worldwide and protecting human health by promoting cleaner air policies and lifestyles.",
-      "origin": "Established by the United Nations General Assembly in 2019 to address growing global air pollution issues.",
-      "category": "Awareness Day",
-      "emoji": "🌍",
-      "funFact": "Breathing polluted air is responsible for an estimated 7 million premature deaths globally every year."
+      "name": "National Beer Lover's Day",
+      "description": "A day for people who love beer to raise a glass of their favorite brew, whether it is a crisp lager, a hoppy IPA, or a dark stout. Breweries and bars often offer specials.",
+      "origin": "It is an unofficial American observance, popular with brewers and bar owners as a way to celebrate beer culture, especially as craft brewing has grown.",
+      "category": "Food and Drink Day",
+      "emoji": "🍺",
+      "funFact": "Beer is among the oldest fermented beverages in the world, with evidence of brewing going back more than 5,000 years in ancient Mesopotamia and Egypt."
     },
     {
-      "name": "Street Music Day",
-      "description": "A lively celebration of musicians bringing their tunes to the streets, filling public spaces with entertaining performances and spontaneous concerts.",
-      "origin": "Started by street performers and supporters of local music culture to highlight the art of busking and free public music.",
-      "category": "Pop Culture/Music",
-      "emoji": "🎸",
-      "funFact": "Busking has been a tradition since ancient times, believed to date back to Ancient Greece and Rome."
+      "name": "Neither Snow nor Rain Day",
+      "description": "A tribute to the dedication of postal workers, inspired by the famous unofficial motto about carriers not being stopped by bad weather. Send a letter or thank your mail carrier.",
+      "origin": "The phrase comes from an inscription on the James Farley Post Office in New York City, which is not an official US Postal Service motto. It was adapted from the writings of Herodotus about ancient Persian couriers.",
+      "category": "Appreciation Day",
+      "emoji": "📬",
+      "funFact": "The famous line was written by Herodotus about the Persian mounted couriers in the 5th century BC, long before the modern postal service existed."
     },
     {
-      "name": "National Salami Day (United States)",
-      "description": "Another tasty nod specifically in the US recognizing salami as a beloved deli meat for sandwiches, snacks, and culinary creativity.",
-      "origin": "An unofficial food holiday embraced by American sandwich shops and meat lovers everywhere.",
-      "category": "Food Holiday",
-      "emoji": "🥯",
-      "funFact": "The word 'salami' comes from the Italian word 'salare,' meaning 'to salt,' an essential step in preserving the meat."
+      "name": "Brazil Independence Day",
+      "description": "Known as Sete de Setembro, Brazil celebrates its independence from Portugal with parades, military displays, and patriotic festivities across the country.",
+      "origin": "On September 7, 1822, Prince Pedro, later Emperor Pedro I, declared Brazil independent from Portugal near the Ipiranga River in the famous Cry of Ipiranga.",
+      "category": "Cultural and National Holiday",
+      "emoji": "🇧🇷",
+      "funFact": "The independence proclamation was made by a future emperor, so Brazil became an empire first and did not become a republic until 1889."
+    },
+    {
+      "name": "National Salami Day",
+      "description": "A cured-meat celebration where fans of salami gather to enjoy slices on charcuterie boards, sandwiches, and pizzas.",
+      "origin": "This unofficial food holiday comes from food-holiday calendars, which promote the many kinds of salami from Italy, Hungary, Germany, and elsewhere.",
+      "category": "Food Day",
+      "emoji": "🥓",
+      "funFact": "The word salami comes from the Italian word salame, which traces back to the Latin sal, meaning salt, the main preservative used to cure it."
     }
   ]
 }

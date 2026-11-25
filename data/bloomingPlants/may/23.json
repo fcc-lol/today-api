@@ -2,61 +2,62 @@
   "date": "May 23",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose native to Southwest China, known for its repeat flowering habit and rich fragrance. It has contributed significantly to the breeding of modern garden roses.",
-      "bloomingSeason": "Spring to Fall (mostly May to October)",
-      "location": "Cultivated worldwide, native to China",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers held above glossy, deeply divided foliage. It is a classic cottage garden and cut-flower favorite that thrives in regions with cold winters.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Yellow"
-      ],
-      "emoji": "🌹",
-      "funFact": "Many modern rose varieties originate from this species, notable for blooming repeatedly throughout the growing season."
-    },
-    {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A tall, graceful lily with large, trumpet-shaped white flowers. It is prized both as an ornamental plant and for its fragrant flowers.",
-      "bloomingSeason": "Late Spring (May to June)",
-      "location": "Native to the Balkans and the eastern Mediterranean, widely cultivated in temperate regions",
-      "colors": [
-        "White"
+        "pink",
+        "white",
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Historically associated with purity and the Virgin Mary, hence the name \"Madonna Lily.\""
+      "funFact": "Peonies can live and bloom for over 50 years in the same spot, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub that produces clusters of showy, fragrant flowers. It is drought-tolerant and thrives in warm climates.",
-      "bloomingSeason": "Spring to Autumn (starting April or May)",
-      "location": "Mediterranean region, cultivated in warm climates worldwide",
+      "name": "Iris germanica",
+      "commonName": "Bearded Iris",
+      "description": "A rhizomatous perennial with sword-shaped gray-green leaves and showy flowers with three upright standards, three drooping falls, and a fuzzy 'beard' on each fall. Hybrids come in nearly every color combination imaginable.",
+      "bloomingSeason": "Late spring (May to early June in the Northern Hemisphere)",
+      "location": "Origins in the Mediterranean region; cultivated throughout temperate gardens in Europe, North America, and Australia",
       "colors": [
-        "Pink",
-        "White",
-        "Red",
-        "Yellow"
+        "purple",
+        "blue",
+        "yellow",
+        "white",
+        "orange",
+        "burgundy"
       ],
-      "emoji": "🌺",
-      "funFact": "All parts of oleander are highly toxic, yet it remains popular for ornamental use in hot, dry areas."
+      "emoji": "🪻",
+      "funFact": "The iris is named after the Greek goddess of the rainbow, Iris, and the dried rhizomes (orris root) are used as a fixative in perfumes."
     },
     {
-      "name": "Ipomoea tricolor",
-      "commonName": "Morning Glory",
-      "description": "A fast-growing annual vine that produces large, vivid trumpet-shaped flowers opening early in the day.",
-      "bloomingSeason": "Late Spring to Autumn (May to October)",
-      "location": "Native to Central America, widely cultivated as an ornamental worldwide",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching, thorny deciduous shrub that produces delicate, lightly scented five-petaled flowers, followed by bright red rose hips in autumn. It scrambles through hedgerows and woodland edges.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Native to Europe, northwest Africa, and western Asia; commonly seen in British and European hedgerows",
       "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
+        "pale pink",
+        "white"
       ],
-      "emoji": "🌻",
-      "funFact": "The blue dye extracted from some species of morning glory was used in traditional rituals by indigenous peoples."
+      "emoji": "🌹",
+      "funFact": "During World War II, Britons collected rose hips from dog roses to make vitamin C-rich syrup, since citrus imports were scarce."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A medium to large tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere tropics and subtropics it blooms in late spring, carpeting streets with fallen petals.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Hawaii, India, and parts of Africa",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, jacarandas are so abundant that the city is nicknamed the 'Jacaranda City', and some cultures believe a falling blossom on your head brings good luck."
     }
   ]
 }

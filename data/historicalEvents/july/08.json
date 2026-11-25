@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1497,
-      "title": "Vasco da Gama Sets Sail for India",
-      "description": "Portuguese explorer Vasco da Gama departs from Lisbon on his first voyage to India, aiming to establish a sea route to Asia.",
+      "title": "Vasco da Gama Departs Lisbon for India",
+      "description": "Portuguese explorer Vasco da Gama set sail from Lisbon with four ships on a voyage to find a sea route to India around the Cape of Good Hope.",
       "category": "Exploration",
-      "significance": "This voyage opened maritime trade routes between Europe and Asia, significantly impacting global commerce and colonization."
+      "significance": "The voyage opened the first direct maritime trade route between Europe and Asia, reshaping global trade and establishing Portugal as a major colonial and commercial power."
     },
     {
       "year": 1776,
-      "title": "The Liberty Bell Rings to Mark Independence",
-      "description": "The Liberty Bell rang in Philadelphia to announce the public reading of the Declaration of Independence.",
-      "category": "American History",
-      "significance": "The ringing symbolized the birth of the United States and the colonies' declaration of independence from Great Britain."
+      "title": "First Public Reading of the Declaration of Independence",
+      "description": "Colonel John Nixon gave the first public reading of the Declaration of Independence to a crowd in Philadelphia's Independence Square, and the Liberty Bell was rung to mark the occasion.",
+      "category": "Politics",
+      "significance": "The reading spread the news of American independence to the public and helped rally support for the revolutionary cause."
     },
     {
-      "year": 1947,
-      "title": "Roswell UFO Incident",
-      "description": "An unidentified flying object allegedly crashed near Roswell, New Mexico, sparking widespread UFO and conspiracy theories.",
-      "category": "Modern History",
-      "significance": "This incident became a pivotal event in UFO folklore and influenced pop culture and government secrecy debates."
+      "year": 1853,
+      "title": "Commodore Perry Arrives in Edo Bay",
+      "description": "U.S. Navy Commodore Matthew C. Perry arrived in Edo Bay, Japan, with a squadron of four warships, seeking to open Japan to trade with the West.",
+      "category": "Diplomacy",
+      "significance": "Perry's expedition ended over two centuries of Japanese isolation, leading to the Convention of Kanagawa in 1854 and setting Japan on the path to modernization."
     },
     {
-      "year": 2011,
-      "title": "NASA's Space Shuttle Atlantis Completes Final Mission",
-      "description": "The space shuttle Atlantis lands, marking the end of NASA's Space Shuttle program after 135 missions.",
-      "category": "Space Exploration",
-      "significance": "This mission concluded three decades of manned space shuttle flights, transitioning NASA to new exploration initiatives."
+      "year": 1839,
+      "title": "Birth of John D. Rockefeller",
+      "description": "John Davison Rockefeller, founder of Standard Oil, was born in Richford, New York.",
+      "category": "Birth",
+      "significance": "Rockefeller became one of the wealthiest people in modern history, transformed the oil industry, and became a major philanthropist whose gifts helped establish institutions in education and medicine."
+    },
+    {
+      "year": 1994,
+      "title": "Death of Kim Il-sung",
+      "description": "Kim Il-sung, the founding leader of North Korea, died of a heart attack at age 82 after ruling the country since 1948.",
+      "category": "Death",
+      "significance": "His death led to the first hereditary transfer of power in a communist state, as his son Kim Jong-il took over, establishing a dynasty that continues to shape East Asian geopolitics."
     }
   ]
 }

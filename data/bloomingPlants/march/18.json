@@ -2,56 +2,57 @@
   "date": "March 18",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning pale pink to white flowers that bloom profusely, typically heralding the arrival of spring in temperate regions. The blossoms are short-lived but spectacular, creating a breathtaking floral display.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, East Asia, and temperate regions worldwide",
+      "name": "Prunus yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous tree that produces masses of delicate, fragrant, five-petaled blossoms before its leaves emerge. It is the most famous cherry tree used for hanami (flower viewing) celebrations and is widely planted in parks and along streets.",
+      "bloomingSeason": "Late March to mid-April in Japan; blooms in mid to late March in warmer areas like Kyushu and Shikoku",
+      "location": "Japan (Kyushu, Shikoku, southern Honshu), Washington D.C. (USA) in late March, and Korea",
       "colors": [
-        "pink",
-        "white"
+        "white",
+        "pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms symbolize the transient nature of life in Japanese culture, celebrated annually during Hanami festival."
+      "funFact": "The Yoshino cherry trees along the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival is timed to their peak bloom."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub or small tree with fragrant, funnel-shaped flowers that bloom abundantly in early spring through summer. Oleanders thrive in warm climates and are drought-tolerant, making them popular in Mediterranean and subtropical gardens.",
-      "bloomingSeason": "March to October",
-      "location": "Mediterranean Basin, Southern United States, and parts of South America",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the parent of many cultivated daffodil varieties.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe including the UK, France, and Belgium; naturalized in North American gardens and lawns",
       "colors": [
-        "pink",
-        "white",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
-    },
-    {
-      "name": "Erythronium dens-canis",
-      "commonName": "Dog's Tooth Violet",
-      "description": "A perennial spring wildflower that grows in woodland areas, featuring nodding, delicate flowers with mauve or pink petals and mottled leaves resembling a dog's tooth, hence its name.",
-      "bloomingSeason": "March to May",
-      "location": "Europe and Western Asia",
-      "colors": [
-        "pink",
-        "purple"
-      ],
-      "emoji": "💐",
-      "funFact": "Erythronium bulbs were sometimes used as a starch substitute in famine times."
-    },
-    {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle or Mimosa",
-      "description": "A fast-growing tree known for its fluffy, bright yellow flowers that bloom in late winter and early spring. The flowers have a strong fragrance and appear in dense, spherical clusters.",
-      "bloomingSeason": "February to March",
-      "location": "Australia and cultivated in Mediterranean climates worldwide",
-      "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The bright yellow flowers of Acacia dealbata are celebrated during International Women's Day in many countries, symbolizing respect and appreciation."
+      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, and one compound, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A sub-tropical tree with fern-like leaves that bursts into clouds of lavender-blue, trumpet-shaped flowers. In the Southern Hemisphere autumn it can have a second, lighter bloom, while in some warmer regions it flowers sporadically.",
+      "bloomingSeason": "Spring (October to December) in the Southern Hemisphere, with occasional secondary flowering in early autumn; in the Northern Hemisphere tropics it blooms around March to May",
+      "location": "Native to South America; cultivated in Mexico City, Southern California, India, and parts of Africa where March to April blooming occurs",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Mexico City's streets turn purple each spring when thousands of jacaranda trees bloom, a sight that began after Japanese gardener Tatsugoro Matsumoto planted them in the early 20th century."
+    },
+    {
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large Himalayan tree that bears enormous, goblet-shaped flowers on bare branches before the leaves appear. The blooms can reach up to 25 cm across and are among the showiest of all magnolias.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayas (Nepal, Bhutan, Sikkim, Yunnan), and cultivated in mild gardens in Cornwall, the Pacific Northwest, and New Zealand",
+      "colors": [
+        "pink",
+        "deep rose",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "A magnolia seedling may take 20 to 30 years to flower for the first time, and the genus is so ancient that its flowers evolved before bees existed and are pollinated by beetles."
     }
   ]
 }

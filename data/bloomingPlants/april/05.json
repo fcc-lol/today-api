@@ -2,58 +2,57 @@
   "date": "April 5",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular early spring-flowering deciduous tree with large, fragrant, tulip-shaped flowers that appear before the leaves. The flowers are usually pink, white, or purple and create a striking display in temperate gardens.",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous flowering tree that produces masses of delicate, slightly fragrant blossoms before its leaves emerge. It is the most widely planted cherry tree in Japan and in cherry blossom displays around the world.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions of Europe and North America",
+      "colors": [
+        "White",
+        "Pale pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Cherry blossom festivals (hanami) in Japan have been celebrated for over a thousand years, and forecasters track the 'cherry blossom front' as it moves north across the country."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals. It carpets woodlands and meadows in early spring and is the ancestor of many garden daffodils.",
       "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "location": "Western Europe, including the UK, France, and Belgium; naturalized in North America",
       "colors": [
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "The Saucer Magnolia is one of the earliest magnolias to bloom and has been cultivated as an ornamental tree since the 19th century."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Famous for its breathtaking cherry blossoms, this deciduous tree produces clusters of pale pink to white flowers in early spring. It is culturally significant in Japan and blooms briefly, attracting many visitors for hanami (flower viewing).",
-      "bloomingSeason": "Late March to Early April",
-      "location": "Japan, Korea, parts of China, widely cultivated in temperate zones globally",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Japanese Cherry Blossoms only bloom for about one to two weeks, making their appearance a celebrated event each spring."
-    },
-    {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle or Mimosa",
-      "description": "A fast-growing evergreen tree with fern-like leaves and bright yellow, fluffy spherical flower heads. It blooms profusely in late winter to early spring, adding vivid color to mild climate regions.",
-      "bloomingSeason": "January to April",
-      "location": "Native to southeastern Australia; cultivated in Mediterranean and subtropical climates worldwide",
-      "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The bright yellow flowers of Acacia dealbata are known as mimosa in Europe and are often associated with International Women's Day celebrated in early March."
+      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, which is why deer and rodents avoid them. Galantamine, a compound from related Narcissus species, is used in medicine for Alzheimer's disease."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub or small tree with narrow leaves and large clusters of fragrant flowers. Blooming continuously in warm climates from spring to fall, it can have flowers ranging in color from white to pink, red, or yellow.",
-      "bloomingSeason": "April to October (peak bloom in spring)",
-      "location": "Mediterranean Basin, subtropical and tropical regions",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like flowers burst directly from bare branches and even the trunk. Heart-shaped leaves follow after flowering.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central United States, northern Mexico",
       "colors": [
-        "white",
-        "pink",
-        "red",
-        "yellow"
+        "Magenta",
+        "Pink",
+        "Purple"
       ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, yet it has been used medicinally for centuries in controlled doses."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor. The tree shows cauliflory, meaning flowers grow directly from old wood on the trunk and larger branches."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tropical to subtropical tree that is famous for its spectacular canopy of lavender-blue trumpet-shaped flowers, which also carpet the ground beneath. Fernlike foliage gives it a feathery look.",
+      "bloomingSeason": "Spring in the Northern Hemisphere subtropics (March to May); October to December in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, India, and parts of Africa",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacaranda trees, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

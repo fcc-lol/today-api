@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Noodle Day",
-      "description": "A day to celebrate the slurpy, saucy, and versatile noodle in all its glorious forms—from spaghetti to ramen, from fettuccine to udon.",
-      "origin": "Started in the United States to honor the endless culinary creativity involving noodles, this day encourages cooking and enjoying noodles in any style.",
-      "category": "Food",
+      "description": "A slurp-worthy celebration of noodles in every form, from ramen and spaghetti to pad thai and lo mein. People mark the day by cooking, ordering, or simply twirling a big bowl of their favorite strands.",
+      "origin": "An unofficial food observance popular in the United States, it is widely listed on October 6 in food holiday calendars. Its exact founder is unclear, as with many food days that spread through social media and calendar websites.",
+      "category": "Food Day",
       "emoji": "🍜",
-      "funFact": "Did you know the longest noodle ever made was over 3,000 meters (about 1.86 miles) long? That's a whole lot of slurping!"
+      "funFact": "The oldest known noodles were found in China at the Lajia archaeological site and are about 4,000 years old. They were made from millet."
+    },
+    {
+      "name": "National German-American Day",
+      "description": "A day honoring the contributions of German immigrants and their descendants to American culture, from pretzels and beer gardens to kindergartens and Christmas trees.",
+      "origin": "It commemorates the October 6, 1683 arrival of the first group of German immigrants who landed in Philadelphia and founded Germantown, Pennsylvania. It was made an official annual observance by Congress and President Reagan in 1987.",
+      "category": "Cultural Observance",
+      "emoji": "🥨",
+      "funFact": "Roughly 40 million Americans claim German ancestry, making it one of the largest ancestry groups in the United States."
     },
     {
       "name": "Mad Hatter Day",
-      "description": "Celebrates the quirky, eccentric character of the Mad Hatter from Lewis Carroll’s 'Alice’s Adventures in Wonderland', honoring whimsy and eccentricity in everyday life.",
-      "origin": "The date October 6 is derived from the Mad Hatter’s line about it always being 6 o'clock — which is tea time! Fans embrace this day with hats, tea parties, and general zaniness.",
+      "description": "A whimsical celebration inspired by the Mad Hatter from Alice's Adventures in Wonderland. Fans wear silly hats, throw tea parties, and embrace a bit of delightful nonsense.",
+      "origin": "It was created in the early 2000s by Seattle-area fans of Lewis Carroll. The date is chosen because the Mad Hatter's hat carries a price tag reading 10/6, meaning 10 shillings and sixpence, as in the original illustrations by John Tenniel.",
       "category": "Pop Culture",
       "emoji": "🎩",
-      "funFact": "The phrase 'mad as a hatter' actually refers to hat makers who suffered mercury poisoning in the 18th-19th centuries, giving rise to the character's eccentric behavior."
+      "funFact": "The Mad Hatter is never actually called that in the book. He is just called the Hatter, and the 'mad as a hatter' phrase is likely linked to mercury poisoning among 19th-century hat makers."
     },
     {
-      "name": "Aerobics Day",
-      "description": "A lively day dedicated to getting your heart pumping and limbs moving through aerobics exercise, promoting fitness and fun.",
-      "origin": "Became popular in the 1980s with the rise of aerobics classes and Jane Fonda’s workout videos, October 6 invites people to dance, jump, and groove for health.",
-      "category": "Health & Fitness",
-      "emoji": "🤸‍♀️",
-      "funFact": "Aerobics was originally called 'aerobic dance' and was developed to help improve cardiovascular health through rhythmic exercise."
+      "name": "World Cerebral Palsy Day",
+      "description": "A global awareness day that spotlights the more than 17 million people living with cerebral palsy. It encourages inclusion, accessibility, and celebration of people with the condition.",
+      "origin": "It began in 2012 as a grassroots movement, started by Cerebral Palsy Alliance and a global network of organizations, to ensure people with cerebral palsy have the same rights, access, and opportunities as everyone else.",
+      "category": "Awareness Day",
+      "emoji": "💚",
+      "funFact": "The official color for the day is green, and landmarks around the world light up in green to show support."
     },
     {
-      "name": "World Smile Day",
-      "description": "Encourages people worldwide to do acts of kindness and smile as a simple way to make the world a happier place.",
-      "origin": "Started by Harvey Ball, the creator of the smiley face, the day is observed on the first Friday of October but is also celebrated informally on other dates like October 6 to spread joy.",
-      "category": "Awareness / Kindness",
-      "emoji": "😄",
-      "funFact": "Harvey Ball was paid only $45 for creating the iconic smiley face back in 1963, which became one of the most recognizable symbols on the planet."
+      "name": "Physician Assistants Day",
+      "description": "A day to thank the physician assistants who diagnose illnesses, assist in surgeries, and provide care across healthcare settings. Many clinics celebrate with treats and thank-you notes.",
+      "origin": "National PA Day is held on October 6, chosen because it is the anniversary of the graduation of the first class of physician assistants from Duke University in 1967.",
+      "category": "Professional Appreciation",
+      "emoji": "🩺",
+      "funFact": "The PA profession was created in the 1960s, in part to put experienced military medics back to work in healthcare after returning from the Vietnam War."
     }
   ]
 }

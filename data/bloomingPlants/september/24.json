@@ -2,62 +2,58 @@
   "date": "September 24",
   "plants": [
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "Dahlias are tuberous plants known for their vibrant, multi-petaled flowers that come in a broad spectrum of colors. They bloom in late summer to early autumn, making them a favorite ornamental garden plant.",
-      "bloomingSeason": "August to October",
-      "location": "Native to Mexico and Central America; cultivated worldwide in temperate climates",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The leaves emerge the following spring and die back by early summer. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Europe, including the UK, France, Germany, and the Alps; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange",
-        "purple"
+        "Pale pink",
+        "Lilac",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and used in plant breeding to induce chromosome doubling. It is often called 'naked ladies' because the flowers appear without leaves."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower that forms dense clumps topped with plume-like clusters of tiny yellow flower heads. It is an important late-season nectar and pollen source for bees, butterflies, and other insects.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America in meadows, roadsides, and prairies; naturalized in Europe and Asia",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time. Goldenrod pollen is heavy and sticky and is spread by insects, not wind."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Guernsey Lily (Bowden Lily)",
+      "description": "A bulbous perennial with strappy leaves and tall, leafless stems topped by umbels of frilly, sparkling pink flowers with wavy-edged petals. It thrives in sunny, well-drained spots and flowers when most other plants are fading.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Native to the Drakensberg mountains of South Africa; widely grown in gardens in the UK, Europe, and the Pacific Northwest",
+      "colors": [
+        "Pink",
+        "Rose-pink"
       ],
       "emoji": "🌸",
-      "funFact": "Dahlias were declared the national flower of Mexico in 1963 due to their cultural significance and striking beauty."
+      "funFact": "Nerine petals have a glittering, shimmering surface that sparkles in sunlight, which is why they are sometimes called 'diamond lilies'."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy wildflower with bright yellow petals surrounding a dark brown central cone. It is a symbol of encouragement and motivation in North America and often blooms in late summer through fall.",
-      "bloomingSeason": "June to October",
-      "location": "Native to North America, commonly found in meadows and along roadsides",
+      "name": "Clianthus puniceus",
+      "commonName": "Kākābeak (Parrot's Bill)",
+      "description": "An evergreen shrub with arching branches, feathery leaves, and clusters of dramatic claw-shaped, bright red flowers resembling a parrot's beak. In the Southern Hemisphere, it blooms in the spring, attracting native birds such as tūī and bellbirds.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "New Zealand's North Island; now rare in the wild but common in cultivation",
       "colors": [
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are known to attract pollinators such as bees and butterflies, supporting ecological health."
-    },
-    {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "An evergreen shrub that produces profuse small bell-shaped flowers, often appearing as early as late winter but in some climates can continue blooming into early autumn, especially cultivars adapted to temperate zones.",
-      "bloomingSeason": "Late winter to early spring, some lasting into early autumn in mild climates",
-      "location": "Native to alpine regions of central and southern Europe",
-      "colors": [
-        "pink",
-        "white",
-        "red"
+        "Scarlet red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Erica carnea can bloom through snow and frost, making it a unique early or late bloomer depending on climate."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall, sturdy plants with large flower heads composed of bright yellow ray florets and a central disc. They bloom in late summer to early autumn and are widely cultivated for seeds and oil production.",
-      "bloomingSeason": "July to September (sometimes extending into October)",
-      "location": "Native to North America; widely cultivated globally",
-      "colors": [
-        "yellow",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning to face the sun during the day, optimizing photosynthesis."
+      "funFact": "Kākābeak is among New Zealand's most endangered native plants in the wild, largely because of browsing by introduced animals, but it is easily grown in gardens, which helps preserve it."
     }
   ]
 }

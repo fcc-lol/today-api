@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1804,
-      "title": "Napoleon Bonaparte crowns himself Emperor of the French",
-      "description": "Napoleon Bonaparte crowned himself Emperor in Notre Dame Cathedral in Paris, marking the rise of the First French Empire.",
-      "category": "Political",
-      "significance": "This event signaled the consolidation of power under Napoleon and the establishment of a new political order in France."
+      "title": "Napoleon Bonaparte Crowned Emperor of the French",
+      "description": "At Notre-Dame Cathedral in Paris, Napoleon crowned himself emperor in a ceremony attended by Pope Pius VII, then crowned his wife Joséphine as empress. Taking the crown from the Pope's hands and placing it on his own head symbolized that his power derived from himself rather than the Church.",
+      "category": "Politics",
+      "significance": "Marked the formal transition from the French Republic to the First French Empire and ushered in the Napoleonic era, which reshaped European politics, law, and warfare."
     },
     {
       "year": 1823,
-      "title": "Monroe Doctrine is proclaimed",
-      "description": "U.S. President James Monroe announced the Monroe Doctrine, declaring opposition to European colonialism in the Americas.",
-      "category": "Political/Diplomatic",
-      "significance": "The doctrine shaped U.S. foreign policy by asserting the Western Hemisphere as a sphere of influence and warning European powers against intervention."
+      "title": "President James Monroe Announces the Monroe Doctrine",
+      "description": "In his annual message to Congress, President James Monroe declared that the Western Hemisphere was closed to further European colonization and that US would view European interference in the Americas as hostile acts. In return, the US pledged not to interfere in European affairs or existing colonies.",
+      "category": "Politics",
+      "significance": "Became a cornerstone of US foreign policy for nearly two centuries, shaping American relations with Latin America and Europe."
+    },
+    {
+      "year": 1859,
+      "title": "Abolitionist John Brown Executed",
+      "description": "John Brown was hanged in Charles Town, Virginia, after being convicted of treason, murder, and inciting a slave insurrection following his October 1859 raid on the federal armory at Harpers Ferry.",
+      "category": "Politics",
+      "significance": "Brown's execution deepened the sectional divide between North and South and made him a martyr for abolitionists, helping set the stage for the American Civil War."
     },
     {
       "year": 1942,
-      "title": "The first controlled nuclear chain reaction takes place",
-      "description": "Under the leadership of Enrico Fermi, the Chicago Pile-1 achieved the first self-sustaining nuclear chain reaction.",
-      "category": "Scientific/Technological",
-      "significance": "This breakthrough marked the beginning of nuclear energy and atomic weapons development."
+      "title": "First Controlled Nuclear Chain Reaction",
+      "description": "A team led by Enrico Fermi achieved the first self-sustaining, controlled nuclear chain reaction in Chicago Pile-1, a reactor built beneath the stands of Stagg Field at the University of Chicago, as part of the Manhattan Project.",
+      "category": "Science",
+      "significance": "Demonstrated the feasibility of harnessing nuclear energy, paving the way for both nuclear weapons and nuclear power."
     },
     {
-      "year": 1954,
-      "title": "The United States government orders the top-secret Operation Wetback",
-      "description": "Operation Wetback was launched to deport illegal Mexican immigrants from the southwestern United States.",
-      "category": "Political/Social",
-      "significance": "The operation had significant social and demographic impacts on U.S.-Mexico relations and immigration policy."
+      "year": 1982,
+      "title": "First Permanent Artificial Heart Implanted",
+      "description": "Surgeons at the University of Utah led by William DeVries implanted the Jarvik-7 artificial heart into retired dentist Barney Clark, who survived 112 days with the device.",
+      "category": "Medicine",
+      "significance": "A landmark in cardiac medicine that advanced research into mechanical circulatory support and later heart-assist technologies."
     }
   ]
 }

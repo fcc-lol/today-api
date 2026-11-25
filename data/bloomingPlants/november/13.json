@@ -2,60 +2,61 @@
   "date": "November 13",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden plants known for their vibrant, daisy-like flower heads. They bloom profusely in late autumn, adding bright color to gardens as many other plants fade.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, commonly cultivated in North America, Europe, and Asia",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A long-cultivated perennial with dense, layered blooms in many forms, including pompon, spider, and incurved. It is one of the last major garden flowers to bloom in the Northern Hemisphere, and it tolerates light frosts. It is widely grown in gardens, in pots, and commercially for cut flowers.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Native to East Asia; cultivated worldwide, especially in Japan, China, Europe, and North America",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many Asian cultures and are celebrated during autumn festivals."
+      "funFact": "Chrysanthemums are a symbol of the Japanese Imperial family, and Japan holds an annual Chrysanthemum Festival in autumn. The flowers are also used in teas and as a garden ornamental in China."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A beautiful evergreen shrub with waxy, rose-like flowers that bloom in the cooler months. It produces showy blossoms throughout fall and winter, providing garden color when many other plants are dormant.",
-      "bloomingSeason": "October to March",
-      "location": "Eastern Asia; widely cultivated in gardens in temperate regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that produces huge clusters of trumpet-shaped lavender-blue flowers. In spring in the Southern Hemisphere, entire streets turn purple, and fallen petals carpet the ground beneath the trees.",
+      "bloomingSeason": "Spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), and New Zealand",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellias were highly prized in 18th-century Europe and inspired the name of the classic novel 'The Lady of the Camellias'."
+      "emoji": "💜",
+      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees. In Australia, jacaranda blooms were traditionally said to signal that university exams were near."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms from autumn into early winter, earlier than the common camellia (Camellia japonica). Its flowers are delicate, often lightly fragrant, and open wide with showy yellow stamens. It is popular as a hedge or espalier plant.",
+      "bloomingSeason": "Late autumn to early winter (October to December in the Northern Hemisphere)",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, and Mediterranean-climate regions",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. The seeds of some Camellia species are pressed to produce camellia oil, used in cooking and cosmetics."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "Native to South Africa, the King Protea features a large, distinctive flower head resembling a giant artichoke. It blooms in late spring to early summer in the Southern Hemisphere, including November.",
-      "bloomingSeason": "August to December (Southern Hemisphere spring/summer)",
-      "location": "South Africa's fynbos biome",
+      "description": "A striking shrub with the largest flower head in the Protea genus, a bowl of stiff pink bracts surrounding a central cone of tiny flowers. It thrives in the nutrient-poor, fire-prone fynbos habitat and attracts sunbirds and beetles.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak flowering from October to December in many areas",
+      "location": "Native to the fynbos of southwestern and southern South Africa; also cultivated in Australia, Hawaii, and California",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
-      "emoji": "🌸",
-      "funFact": "The King Protea is South Africa's national flower and can grow flowers over 12 inches wide."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree producing striking bright orange to yellow spider-shaped flowers. It blooms mainly in spring but often continues flowering into early summer, including November in the Southern Hemisphere.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia; cultivated in subtropical and tropical regions worldwide",
-      "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Though called 'Silky Oak,' Grevillea robusta is not a true oak but valued for its timber and ornamental flowers."
+      "emoji": "🌺",
+      "funFact": "The king protea is the national flower of South Africa. The genus Protea is named after the Greek god Proteus, who could change shape, a nod to the great variety of forms in the family."
     }
   ]
 }

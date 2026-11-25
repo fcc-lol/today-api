@@ -2,60 +2,61 @@
   "date": "October 18",
   "plants": [
     {
-      "name": "Cypripedium calceolus",
-      "commonName": "Lady's Slipper Orchid",
-      "description": "A striking wild orchid known for its unique slipper-shaped yellow pouch and mottled leaves. It typically grows in temperate European woodlands.",
-      "bloomingSeason": "Late spring to mid-October",
-      "location": "Europe, temperate woodlands",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial with dense, layered flower heads in many forms, including pompon, spider, and decorative types. It is a staple of autumn gardens and is cultivated widely for cut flowers and potted displays.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; originated in China and widely grown in Japan, Europe, and North America",
       "colors": [
         "yellow",
-        "brown"
+        "white",
+        "bronze",
+        "purple",
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "The Lady's Slipper Orchid traps insects temporarily in its pouch to aid in pollination."
-    },
-    {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A popular cultivated autumn-blooming plant often used in floral displays, known for its dense, pompom-like flowers and variety of colors.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, cultivated",
-      "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌸",
-      "funFact": "Chrysanthemums are symbolic of autumn in many cultures and are the flower emblem of Japan."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree with bright orange to yellow spider-like flowers that provide nectar for birds.",
-      "bloomingSeason": "Spring to mid-autumn (September to October)",
-      "location": "Australia (native) and cultivated subtropics",
-      "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Silky Oak wood is prized for its attractive grain and used in furniture making."
+      "funFact": "Chrysanthemums are short-day plants that set buds as nights lengthen. Japan's Imperial family uses a 16-petal chrysanthemum as its emblem."
     },
     {
       "name": "Aster novae-angliae",
       "commonName": "New England Aster",
-      "description": "A wildflower native to North America, known for its vibrant purple daisy-like flowers with yellow centers, blooming late into autumn.",
-      "bloomingSeason": "August to October",
-      "location": "Eastern North America",
+      "description": "A tall native perennial of North American meadows and roadsides with clusters of daisy-like flowers with yellow centers. It is a vital late-season nectar source for pollinators, including migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern and central North America, in moist meadows, prairies, and roadsides",
       "colors": [
         "purple",
-        "pink",
-        "white"
+        "violet",
+        "pink"
       ],
       "emoji": "💜",
-      "funFact": "New England Asters attract butterflies and are important late-season nectar sources."
+      "funFact": "Monarch butterflies migrating south in October depend heavily on its nectar to fuel their journey to Mexico."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A deciduous tree with fern-like leaves that erupts in sprays of trumpet-shaped lavender-blue flowers. In spring, whole streets are carpeted in fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), and Argentina",
+      "colors": [
+        "lavender",
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 trees, and a local superstition says a blossom falling on your head brings good luck."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily",
+      "description": "A bulbous perennial that sends up bare stalks topped by umbels of frilly, sparkling pink flowers well after most garden plants have faded. It thrives in sunny, well-drained sites and often flowers in the dry warmth of autumn.",
+      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
+      "location": "Native to South Africa's Drakensberg mountains; grown in gardens of the UK, Europe, and the Pacific Northwest",
+      "colors": [
+        "pink",
+        "rose"
+      ],
+      "emoji": "🌺",
+      "funFact": "The petals have a glittering, crystalline sheen, which gives some nerines the name 'Guernsey lily' and a reputation for sparkling in sunlight."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "February 27",
   "holidays": [
     {
+      "name": "International Polar Bear Day",
+      "description": "A day to celebrate the world's largest land carnivore and raise awareness about the Arctic habitat it depends on. Fans share bear photos, donate to conservation groups, and sometimes take icy plunges in solidarity.",
+      "origin": "Founded by the conservation group Polar Bears International, which chose late February because it is when mother bears and newborn cubs are snug in their dens, preparing to emerge.",
+      "category": "Awareness Day",
+      "emoji": "🐻‍❄️",
+      "funFact": "A polar bear's fur is not actually white. Each hair is a transparent, hollow tube that scatters light, and the skin underneath is black."
+    },
+    {
       "name": "No Brainer Day",
-      "description": "A playful day to celebrate doing things with absolute ease and minimal effort. Perfect for lazy decisions or effortless tasks!",
-      "origin": "Originated as an informal observance encouraging people to take it easy and appreciate simple choices in life.",
-      "category": "Lifestyle / Fun",
-      "emoji": "🤔",
-      "funFact": "No Brainer Day is all about celebrating the small victories where complex thinking isn't necessary—like choosing pizza for dinner!"
+      "description": "A day dedicated to doing the obvious things in life that require zero overthinking. Take the nap, eat the cake, say yes to the free stuff.",
+      "origin": "An unofficial observance popularized through online holiday calendars as a lighthearted nudge to stop second-guessing easy decisions.",
+      "category": "Unofficial Fun Day",
+      "emoji": "🧠",
+      "funFact": "Studies on decision fatigue suggest the average adult makes thousands of decisions a day, so a day off from deliberating is arguably a scientific necessity."
     },
     {
-      "name": "Kahlúa Day",
-      "description": "A delicious day dedicated to the coffee-flavored liqueur Kahlúa, popular in cocktails like the White Russian and Black Russian.",
-      "origin": "Celebrated by cocktail enthusiasts who appreciate this sweet, coffee-infused spirit.",
-      "category": "Food & Drink",
-      "emoji": "🍸",
-      "funFact": "Kahlúa is a staple ingredient in many famous cocktails and was first created in Veracruz, Mexico in 1936."
+      "name": "Pokémon Day",
+      "description": "A global celebration of the pocket monster franchise, with fans hosting game marathons, trading card tournaments, and special announcements from the creators, often including Pokémon Presents showcases.",
+      "origin": "Pokémon Red and Green launched in Japan on February 27, 1996, for the Game Boy. The Pokémon Company now marks the anniversary each year.",
+      "category": "Pop Culture Celebration",
+      "emoji": "⚡",
+      "funFact": "The original games were developed by creator Satoshi Tajiri, who was inspired by his childhood hobby of collecting insects."
     },
     {
-      "name": "Public Sleeping Day",
-      "description": "A quirky observance encouraging people to not be ashamed of catching some Zzz’s in public places — embrace the power nap!",
-      "origin": "Started online among nap enthusiasts who promoted the health benefits of napping anytime, anywhere.",
-      "category": "Health & Wellness",
-      "emoji": "😴",
-      "funFact": "Public Sleeping Day celebrates the fact that some of history’s greatest thinkers took public naps for inspiration."
+      "name": "Open That Bottle Night",
+      "description": "A night for wine lovers to finally uncork that special bottle they have been saving for the perfect occasion, and to share it with friends and good food.",
+      "origin": "Created by Wall Street Journal wine columnists Dorothy Gaiter and John Brecher in 2000 after readers confessed to hoarding bottles for ages. It is held on the last Saturday of February, and some calendars list it near this date.",
+      "category": "Food and Drink Day",
+      "emoji": "🍷",
+      "funFact": "The columnists invented it because so many people admitted that they were afraid to open their fancy wine, and the 'perfect occasion' never seemed to arrive."
     },
     {
-      "name": "Tooth Fairy Day",
-      "description": "A whimsical day to honor the mythical Tooth Fairy who collects children's lost teeth and leaves a surprise under their pillow.",
-      "origin": "Celebrating a common childhood tradition prevalent in many cultures, emphasizing the magic of growing up.",
-      "category": "Folklore & Family",
-      "emoji": "🧚",
-      "funFact": "The Tooth Fairy tradition dates back to the early 1900s but was popularized through children’s books and media."
+      "name": "Chocolate Soufflé Day",
+      "description": "A day to celebrate the airy, delicate dessert that terrifies home cooks. Bakers attempt to whip up a chocolate soufflé and pray it does not collapse.",
+      "origin": "A food-lover's observance listed on culinary calendars, honoring the classic French dessert whose name comes from the word meaning 'to puff up'.",
+      "category": "Food Holiday",
+      "emoji": "🍫",
+      "funFact": "Soufflés date to early 18th-century France, and a legend says that chefs once banned slamming kitchen doors to keep the puffy desserts from deflating."
     }
   ]
 }

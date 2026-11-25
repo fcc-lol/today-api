@@ -2,57 +2,58 @@
   "date": "February 23",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A bulbous perennial plant known for its early spring blossoms; often one of the first flowers to bloom after winter.",
-      "bloomingSeason": "February to April",
-      "location": "Temperate regions of Europe and North America (cultivated widely)",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that bears fragrant, five-petaled flowers on bare branches in late winter. It is celebrated across East Asia, and ume plum festivals draw crowds in Japan and China at this time of year.",
+      "bloomingSeason": "Late winter to early spring (late January to March)",
+      "location": "Japan, China, Korea (native); cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "yellow",
-        "white"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Crocuses are among the first flowers to bloom in late winter or early spring, sometimes even poking through the snow."
+      "funFact": "Ume blossoms traditionally herald the end of winter in East Asia and bloom weeks before cherry blossoms. In Japanese culture they symbolize perseverance because they flower in the cold."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial that blooms in late winter, producing white flowers that can sometimes appear amidst snow.",
-      "bloomingSeason": "December to March",
-      "location": "Alpine regions of Europe, cultivated in gardens worldwide",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and carpets woodlands and gardens in late winter.",
+      "bloomingSeason": "Late winter (January to March)",
+      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Green"
       ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite its common name, the Christmas Rose usually blooms around Christmas time through early spring, enduring cold weather."
+      "emoji": "❄️",
+      "funFact": "Snowdrops produce galantamine, a compound used in medicines for Alzheimer's disease. Enthusiasts called galanthophiles pay high prices for rare cultivars."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle or Mimosa",
-      "description": "A fast-growing evergreen tree producing bright yellow fragrant flower clusters during late winter and early spring.",
-      "bloomingSeason": "January to March",
-      "location": "Native to southeastern Australia, widely cultivated in Mediterranean climates",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen Australian tree or large shrub with fluffy, golden, fragrant flower balls. Its blooming runs from late winter into spring, and it is a vital food source for native insects and birds.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October, with early blooms in some regions)",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "bright yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Silver Wattle is widely celebrated for its yellow flowers and is a traditional symbol of International Women's Day in some countries."
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
     },
     {
-      "name": "Fuchsia magellanica",
-      "commonName": "Hardy Fuchsia",
-      "description": "A shrub that produces elegant, drooping, pendulous flowers typically blooming in late winter through spring in mild climates.",
-      "bloomingSeason": "February to June",
-      "location": "Native to southern South America, commonly grown in mild-temperate regions worldwide",
+      "name": "Plumeria rubra",
+      "commonName": "Frangipani",
+      "description": "A tropical deciduous shrub or small tree with thick succulent branches and clusters of waxy, intensely fragrant flowers. It thrives in warm climates and often blooms through the warmer months in the tropics.",
+      "bloomingSeason": "Warm season; in the tropics, flowering can occur most of the year, including February in the Southern Hemisphere summer",
+      "location": "Native to Central America, Mexico and the Caribbean; widely grown in Hawaii, Southeast Asia, Africa, and Australia",
       "colors": [
-        "pink",
-        "purple",
-        "red"
+        "White",
+        "Yellow",
+        "Pink",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "Hardy Fuchsias can bloom during mild winters or early spring and are popular garden plants known for their ornamental flowers."
+      "funFact": "Frangipani flowers are strongest in scent at night to attract hawk moths, yet the flowers offer no nectar and trick pollinators by mimicry."
     }
   ]
 }

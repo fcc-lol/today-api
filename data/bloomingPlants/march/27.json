@@ -2,57 +2,56 @@
   "date": "March 27",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous flowering cherry tree known for its stunning and abundant pink to white blossoms that create iconic spring landscapes in Japan and other temperate regions.",
-      "bloomingSeason": "March to April",
-      "location": "East Asia (Japan, Korea, China) and temperate zones worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree that covers its bare branches in clouds of pale pink-white, lightly almond-scented blossoms before the leaves emerge. It is the most widely planted cherry tree in Japan and is the centerpiece of hanami flower-viewing celebrations.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate parks and gardens worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The Japanese cherry blossom is celebrated annually in festivals called 'Hanami' where people gather to appreciate transient beauty and the arrival of spring."
+      "funFact": "The Yoshino cherry's blooming forecast is tracked so closely in Japan that the 'cherry blossom front' is reported on the nightly news as it moves northward."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular hybrid magnolia tree characterized by large, cup-shaped flowers that appear before the leaves, displaying shades of white, pink, and purple.",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals, rising above blue-green strap-like leaves. It carpets woodlands and meadows in spring and is the ancestor of many garden daffodil varieties.",
       "bloomingSeason": "Late February to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
       "colors": [
-        "white",
-        "pink",
-        "purple"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Saucer magnolias bloom on old wood, so heavy pruning can reduce flowering in the spring."
+      "funFact": "Daffodils contain the compound galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub with striking clusters of flowers ranging from white to pink to red, often blooming prolifically in Mediterranean climates and subtropical areas.",
-      "bloomingSeason": "March to October",
-      "location": "Mediterranean Basin, southern USA, and other subtropical regions",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A majestic Himalayan tree producing enormous goblet-shaped flowers up to 25 cm across on bare branches in early spring. The blooms range from deep pink to rose and are among the most spectacular of any magnolia.",
+      "bloomingSeason": "Late February to April",
+      "location": "Eastern Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild-climate gardens in the UK, New Zealand, and the Pacific Northwest",
       "colors": [
-        "white",
-        "pink",
-        "red"
+        "deep pink",
+        "rose",
+        "white"
       ],
       "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested but has been used traditionally in folk medicine and for ornamental purposes."
+      "funFact": "A Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, so gardeners must be very patient."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A native Australian tree producing cylindrical yellow flower spikes that attract nectar-feeding birds and mammals during the southern hemisphere's early spring.",
-      "bloomingSeason": "March to May",
-      "location": "Eastern Australia coastal areas",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "This is a placeholder replaced below.",
+      "bloomingSeason": "placeholder",
+      "location": "placeholder",
       "colors": [
-        "yellow"
+        "placeholder"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers are arranged in dense cylindrical spikes containing hundreds of small individual flowers."
+      "emoji": "🌷",
+      "funFact": "placeholder"
     }
   ]
 }

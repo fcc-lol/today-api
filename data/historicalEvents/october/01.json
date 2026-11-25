@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1949,
-      "title": "Founding of the People's Republic of China",
-      "description": "Mao Zedong proclaimed the establishment of the People's Republic of China at Tiananmen Square in Beijing, marking the beginning of communist rule in China.",
-      "category": "Political",
-      "significance": "This event reshaped global geopolitics and significantly influenced the Cold War dynamics, marking the rise of China as a major world power."
+      "title": "Proclamation of the People's Republic of China",
+      "description": "Mao Zedong stood atop Tiananmen Gate in Beijing and proclaimed the founding of the People's Republic of China after the Chinese Communist Party's victory over the Nationalists in the Chinese Civil War.",
+      "category": "Politics",
+      "significance": "Established the government of the world's most populous nation, reshaped Cold War geopolitics, and is still celebrated annually as China's National Day."
     },
     {
       "year": 1908,
       "title": "Ford Model T Introduced",
-      "description": "Henry Ford unveiled the Model T automobile, which became the first affordable car for many Americans, revolutionizing transportation and manufacturing.",
-      "category": "Technological",
-      "significance": "The Model T democratized automobile ownership and accelerated the development of mass production techniques, impacting industrial society worldwide."
-    },
-    {
-      "year": 1971,
-      "title": "Walt Disney World Opens",
-      "description": "The Walt Disney World Resort officially opened in Orlando, Florida, becoming one of the world's most famous and visited entertainment complexes.",
-      "category": "Cultural",
-      "significance": "It transformed the entertainment industry and tourism, becoming a cultural icon and economic driver in the region."
+      "description": "The Ford Motor Company released the first production Model T in Detroit, Michigan. Designed to be affordable and durable, it was later built on a moving assembly line.",
+      "category": "Technology and Industry",
+      "significance": "Made automobile ownership accessible to the middle class and transformed manufacturing, transportation, and the American landscape."
     },
     {
       "year": 1960,
       "title": "Nigeria Gains Independence",
-      "description": "Nigeria attained independence from British colonial rule, becoming a sovereign nation.",
-      "category": "Political",
-      "significance": "This marked a significant step in the decolonization of Africa and the emergence of Nigeria as one of the continent's largest and most influential countries."
+      "description": "Nigeria became an independent nation within the Commonwealth, ending decades of British colonial rule, with Abubakar Tafawa Balewa serving as prime minister.",
+      "category": "Politics",
+      "significance": "Marked a milestone in African decolonization; Nigeria became the continent's most populous country and a major regional power."
+    },
+    {
+      "year": 1961,
+      "title": "Roger Maris Hits 61st Home Run",
+      "description": "New York Yankees outfielder Roger Maris hit his 61st home run of the season on the final day of the regular season, surpassing Babe Ruth's 1927 single-season record of 60.",
+      "category": "Sports",
+      "significance": "Set one of baseball's most celebrated records, which stood until 1998, and sparked debate over record-keeping and the pressure on athletes."
+    },
+    {
+      "year": 1971,
+      "title": "Walt Disney World Opens",
+      "description": "Walt Disney World Resort opened near Orlando, Florida, beginning with the Magic Kingdom park, which Walt Disney had planned before his death in 1966.",
+      "category": "Culture and Entertainment",
+      "significance": "Grew into the world's most visited vacation resort, transforming Florida's economy and setting a model for destination theme parks."
     }
   ]
 }

@@ -2,57 +2,60 @@
   "date": "February 15",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A shade-loving perennial with striking white flowers that can sometimes bloom from late winter to early spring, including February. It thrives in temperate European gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Europe",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like blooms. Thousands of cultivars exist, ranging from single-petaled forms to fully double flowers. It thrives in partially shaded, acidic, well-drained soil.",
+      "bloomingSeason": "Late winter to early spring (January to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Pacific coastal regions",
       "colors": [
-        "White",
-        "Pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Despite its name, the Christmas Rose is not a true rose and is known for being toxic if ingested."
-    },
-    {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A popular early-blooming bulbous plant that emerges through the snow, bringing splashes of purple, yellow, or white to gardens and wild meadows in temperate regions.",
-      "bloomingSeason": "February to April",
-      "location": "Europe and North America",
-      "colors": [
-        "Purple",
-        "Yellow",
-        "White"
-      ],
-      "emoji": "💜",
-      "funFact": "Crocuses are among the first flowers to bloom after winter, signaling the coming of spring."
-    },
-    {
-      "name": "Prunus campanulata",
-      "commonName": "Taiwan Cherry",
-      "description": "This cherry species blooms early in the year, sometimes starting in February, producing stunning clusters of bright pink flowers. It’s native to Taiwan and is cultivated in subtropical and tropical areas.",
-      "bloomingSeason": "February to March",
-      "location": "Taiwan and subtropical Asia",
-      "colors": [
-        "Bright Pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Taiwan Cherry blossoms are celebrated in festivals and are admired for their vibrant color earlier than many other cherry trees."
-    },
-    {
-      "name": "Eremophila maculata",
-      "commonName": "Spotted Emu Bush",
-      "description": "A drought-tolerant Australian native shrub that blooms in various seasons, including winter months like February, with tubular red, orange, or yellow flowers attractive to birds.",
-      "bloomingSeason": "Winter to Spring",
-      "location": "Australia",
-      "colors": [
-        "Red",
-        "Orange",
-        "Yellow"
+        "red",
+        "pink",
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Eremophila species produce nectar-rich flowers that are important for native pollinators in arid zones."
+      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true tea, and camellia flowers were beloved by Japanese samurai as symbols of nobility."
+    },
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small deciduous tree that blooms on bare branches before its leaves emerge. Its fragrant flowers appear in the cold of late winter, and it is a cherished symbol of perseverance and hope in East Asian culture.",
+      "bloomingSeason": "Mid-winter to early spring (January to March)",
+      "location": "Native to southern China; cultivated across Japan, Korea, and China, and in botanical gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Ume blossoms often bloom through snow, and in Japan, ume viewing (hanami) traditionally precedes cherry blossom viewing by several weeks."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A fast-growing evergreen tree or large shrub with sickle-shaped foliage and dense, fluffy golden flower balls. Although it mostly flowers in late winter and spring in Australia, some wattle species bloom in different months across the continent.",
+      "bloomingSeason": "Late winter to spring in Australia (July to October); other Acacia species flower in the Southern Hemisphere summer",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+    },
+    {
+      "name": "Plumeria rubra",
+      "commonName": "Frangipani",
+      "description": "A tropical deciduous shrub or small tree with thick, succulent branches and clusters of intensely fragrant, waxy flowers. It flowers heavily in warm weather and in tropical regions can bloom for much of the year.",
+      "bloomingSeason": "Summer in the Southern Hemisphere and warm months in the tropics; February is peak bloom in places like Brazil, Fiji, and northern Australia",
+      "location": "Native to Mexico, Central America, and the Caribbean; cultivated throughout the tropics including Hawaii, Southeast Asia, and the Pacific Islands",
+      "colors": [
+        "white",
+        "yellow",
+        "pink",
+        "red"
+      ],
+      "emoji": "💐",
+      "funFact": "Frangipani flowers are pollinated by hawkmoths, yet they produce no nectar and trick the moths into pollinating them through their scent alone."
     }
   ]
 }

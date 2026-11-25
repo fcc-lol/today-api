@@ -2,36 +2,44 @@
   "date": "August 4",
   "holidays": [
     {
-      "name": "Chocolate Chip Cookie Day",
-      "description": "A deliciously sweet day dedicated to celebrating the beloved chocolate chip cookie, an all-time favorite treat around the world.",
-      "origin": "This holiday commemorates the accidental invention of the chocolate chip cookie by Ruth Graves Wakefield in the 1930s at the Toll House Inn in Massachusetts.",
-      "category": "Food Holiday",
+      "name": "National Chocolate Chip Cookie Day",
+      "description": "A day devoted to the gooey, golden, melty-chocolate wonder that is the chocolate chip cookie. Bakers and cookie monsters unite to bake, share, and dunk to their hearts' content.",
+      "origin": "The cookie itself was invented around 1938 by Ruth Wakefield at the Toll House Inn in Massachusetts. The holiday is an unofficial food observance that grew in popularity through social media and food-industry promotion.",
+      "category": "Food",
       "emoji": "🍪",
-      "funFact": "Did you know? The original chocolate chip cookie recipe was created by adding chopped Nestlé chocolate bars into cookie dough, giving birth to an iconic American dessert!"
-    },
-    {
-      "name": "Coast Guard Day",
-      "description": "A day honoring the United States Coast Guard and its courageous service protecting the nation’s waters, saving lives, and enforcing maritime law.",
-      "origin": "Observed annually to commemorate the founding of the Revenue Cutter Service on August 4, 1790, which later evolved into the modern Coast Guard.",
-      "category": "Awareness Day / Service Holiday",
-      "emoji": "🚢",
-      "funFact": "The Coast Guard is the only military branch under the Department of Homeland Security, and it uniquely combines law enforcement, search and rescue, and military duties!"
-    },
-    {
-      "name": "National Single Working Woman's Day",
-      "description": "Celebrating the independence, strength, and awesomeness of single working women everywhere, recognizing their contributions and resilience.",
-      "origin": "An unofficial, modern observance started to uplift and honor single professional women making strides in their careers and lives.",
-      "category": "Pop Culture / Social Awareness",
-      "emoji": "💼👩",
-      "funFact": "This day encourages single working women to treat themselves—whether it’s with a spa day, a movie night, or conquering a new project at work!"
+      "funFact": "Chocolate chip cookie was named the official state cookie of Massachusetts in 1997, after a group of schoolchildren lobbied for it."
     },
     {
       "name": "International Beer Day (First Friday of August)",
-      "description": "Although varying year to year, International Beer Day often falls on the first Friday of August, which sometimes is August 4. It’s a worldwide celebration of beer, brewers, and the joyous social occasions they inspire.",
-      "origin": "Started in 2007 in Santa Cruz, California, with the mission to unite beer lovers globally with a pint in hand.",
-      "category": "Food & Drink / Cultural Celebration",
+      "description": "A global celebration of beer, with fans toasting brewers, bartenders, and the simple joy of a cold pint. It is observed on the first Friday in August, so it sometimes lands on August 4 and sometimes does not.",
+      "origin": "It began in 2007 in Santa Cruz, California, started by Jesse Avshalomov, and has since spread to more than 200 cities in dozens of countries.",
+      "category": "Food & Drink",
       "emoji": "🍺",
-      "funFact": "On this day, beer enthusiasts around the world raise a glass in honor of their local brewers and enjoy trying unique and craft beers."
+      "funFact": "The holiday's three stated goals are to gather with friends, celebrate the people who brew and serve beer, and unite the world by celebrating all beers in all countries."
+    },
+    {
+      "name": "Coast Guard Day (U.S.)",
+      "description": "A day honoring the United States Coast Guard, the nation's oldest continuous seagoing service, with ceremonies, ship tours, and plenty of nautical pride.",
+      "origin": "It commemorates the founding of the Revenue Cutter Service on August 4, 1790, when Alexander Hamilton pushed for a fleet of ten cutters to enforce tariff laws. That service later became the Coast Guard.",
+      "category": "Patriotic / Military",
+      "emoji": "⚓",
+      "funFact": "The Coast Guard began as a tax-enforcement fleet, which means one of America's rescue heroes started life as a floating customs officer."
+    },
+    {
+      "name": "National White Wine Day (August 4)",
+      "description": "A day for raising a chilled glass of Chardonnay, Sauvignon Blanc, or Pinot Grigio. Summer sippers rejoice at an excuse to pour something crisp and refreshing.",
+      "origin": "An unofficial, industry- and social-media-driven observance with no single documented founder, it grew out of the wave of beverage-themed 'National Days' popular online.",
+      "category": "Food & Drink",
+      "emoji": "🥂",
+      "funFact": "White wine can be made from red grapes: the color of red wine comes from the grape skins, so if the juice is separated quickly, even dark grapes can make a white wine."
+    },
+    {
+      "name": "Barack Obama's Birthday",
+      "description": "A pop culture and political milestone celebrated by fans, with tributes, memes, and playlist-sharing. Admirers often mark the day with the former president's famously curated summer playlists.",
+      "origin": "Barack Obama was born on August 4, 1961, in Honolulu, Hawaii. The date is informally celebrated by supporters rather than being an official holiday.",
+      "category": "Pop Culture",
+      "emoji": "🎂",
+      "funFact": "Obama shares his birthday with the Coast Guard's founding date and, famously, with Louis Armstrong's long-claimed birthday of July 4, which Armstrong himself believed until researchers found his actual birth year differed."
     }
   ]
 }

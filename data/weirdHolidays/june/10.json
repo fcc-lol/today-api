@@ -2,36 +2,44 @@
   "date": "June 10",
   "holidays": [
     {
-      "name": "Iced Tea Day",
-      "description": "A day dedicated to celebrating the refreshingly cool and popular beverage that helps beat the summer heat!",
-      "origin": "Iced tea has been a beloved drink in America since the early 20th century, gaining popularity after being showcased at the 1904 World's Fair in St. Louis.",
-      "category": "Food & Drink",
-      "emoji": "🧊🍹",
-      "funFact": "Iced tea sales spike dramatically in the summer, making it one of the most consumed beverages behind water and soda!"
+      "name": "National Iced Tea Day",
+      "description": "A day to pour a tall, frosty glass of iced tea and toast the planet's favorite chilled brew, sweet or unsweet, with lemon or without.",
+      "origin": "Observed in the United States in the heart of summer, it celebrates iced tea's rise as a staple beverage. The drink gained widespread popularity at the 1904 St. Louis World's Fair, where a heat wave pushed visitors to ask for tea over ice.",
+      "category": "Food and Drink",
+      "emoji": "🧊",
+      "funFact": "Americans drink billions of gallons of tea each year, and roughly 80 percent of it is consumed iced."
+    },
+    {
+      "name": "National Black Cow Day",
+      "description": "A day for sipping a Black Cow, the classic soda fountain float made with root beer and vanilla ice cream, which is basically dessert you can drink through a straw.",
+      "origin": "The Black Cow dates back to the late 1800s. Legend credits Frank J. Wisner of Cripple Creek, Colorado, who in 1893 supposedly noticed the moon rising over Cow Mountain and dropped vanilla ice cream into his root beer. Other soda fountains claim the invention too.",
+      "category": "Food and Drink",
+      "emoji": "🐄",
+      "funFact": "Depending on the region, a 'black cow' can mean root beer with vanilla ice cream, or cola with ice cream, and some places call the same drink a 'brown cow.'"
+    },
+    {
+      "name": "National Herbs and Spices Day",
+      "description": "A day to rescue those dusty jars in the back of your cabinet and give your cooking some flavor by trying a new herb or spice.",
+      "origin": "This is an unofficial food observance created to encourage people to explore seasonings and flavors from around the world. Its exact founder is unclear, as with many food holidays.",
+      "category": "Food and Drink",
+      "emoji": "🌿",
+      "funFact": "Spices were once so valuable that pepper was used as currency in medieval Europe, and peppercorns were sometimes accepted to pay rent."
     },
     {
       "name": "Ballpoint Pen Day",
-      "description": "Honoring the invention of the ballpoint pen, a writing tool that revolutionized how we jot down ideas and notes everywhere.",
-      "origin": "On June 10, 1943, Hungarian inventor László Bíró patented the first commercially successful ballpoint pen.",
-      "category": "Invention & Innovation",
-      "emoji": "🖊️📝",
-      "funFact": "Before the ballpoint pen, people often used fountain pens that frequently leaked or smudged, making the ballpoint pen a game changer for convenience and cleanliness."
+      "description": "A tribute to the humble ballpoint pen, the trusty tool behind countless signatures, doodles, grocery lists, and stolen office supplies.",
+      "origin": "It honors the patent of the ballpoint pen by Hungarian journalist László Bíró, who got the idea from watching newspaper ink dry quickly on the printing press. He patented his design in 1938 and refined it with his brother György.",
+      "category": "Invention and Technology",
+      "emoji": "🖊️",
+      "funFact": "Bíró's ballpoint pens were first adopted by the British Royal Air Force during World War II because they did not leak at high altitudes the way fountain pens did."
     },
     {
-      "name": "Heroin Awareness Day",
-      "description": "A somber awareness day dedicated to educating people about the dangers of heroin use and advocating for recovery resources.",
-      "origin": "Initiated by health advocates and communities affected by opioid addiction to highlight prevention, treatment, and support.",
-      "category": "Health & Awareness",
-      "emoji": "🚫💉",
-      "funFact": "Heroin use has tragically impacted millions, but awareness days like this help reduce stigma and promote lifesaving help."
-    },
-    {
-      "name": "Say Something Nice Day",
-      "description": "A quirky day encouraging everyone to brighten someone's day by saying a kind word or compliment.",
-      "origin": "An unofficial observance that encourages everyday kindness and positive communication.",
-      "category": "Social & Cultural",
-      "emoji": "😊💬",
-      "funFact": "Studies show that giving compliments can boost your mood as much as receiving them!"
+      "name": "Time Management Day",
+      "description": "A day dedicated to getting your schedule under control, which for many people means making a to-do list and then procrastinating on it.",
+      "origin": "This observance is a modern productivity-themed day promoted by workplace and self-improvement communities, encouraging people to prioritize tasks and make better use of their hours.",
+      "category": "Awareness Day",
+      "emoji": "⏰",
+      "funFact": "The Pomodoro Technique, a popular time management method, was named after a tomato-shaped kitchen timer used by its inventor, Francesco Cirillo, when he was a university student."
     }
   ]
 }

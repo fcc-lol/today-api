@@ -4,56 +4,57 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement. Native to North America, sunflowers are widely cultivated for their seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "North America, widely cultivated worldwide",
+      "description": "A tall annual with large daisy-like flower heads composed of golden ray florets surrounding a dark central disk. Heads track the sun when young and are widely grown for seed, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; widely cultivated across Europe, Russia, Ukraine, the United States, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, where their flower heads track the sun from east to west during the day."
+      "funFact": "The sunflower head is actually made of hundreds to thousands of tiny individual flowers arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, vibrant trumpet-shaped flowers. It thrives in warm climates and is often used as an ornamental garden plant.",
-      "bloomingSeason": "Year-round in tropical climates, peak blooming in summer and early autumn",
-      "location": "Tropical Asia, widely cultivated in tropical and subtropical regions",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "A low evergreen shrub forming dense carpets on moorlands, covered in tiny bell-shaped flowers. It thrives in acidic, nutrient-poor soils and is a vital nectar source for bees in late summer.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Moorlands and heathlands of Scotland, northern England, Ireland, Scandinavia, and other parts of northern and western Europe",
       "colors": [
-        "Red",
-        "Pink",
-        "Yellow",
-        "Orange",
-        "White"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and often used to make herbal teas and beverages."
-    },
-    {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A striking perennial wildflower with vibrant red tubular flowers that attract hummingbirds. Prefers moist areas such as stream banks and wetlands.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and Central North America",
-      "colors": [
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Cardinal flowers have nectar-rich blooms that are specially adapted to be pollinated by hummingbirds."
-    },
-    {
-      "name": "Agapanthus africanus",
-      "commonName": "African Lily",
-      "description": "A hardy evergreen perennial with striking clusters of trumpet-shaped blue or white flowers. Native to South Africa, often used in landscaping.",
-      "bloomingSeason": "Late summer to early autumn (August to October)",
-      "location": "South Africa and cultivated in similar climates",
-      "colors": [
-        "Blue",
-        "White"
+        "purple",
+        "pink",
+        "lavender",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "The African lily is drought-resistant and often blooms abundantly after summer rains."
+      "funFact": "Heather honey is prized for its jelly-like texture and strong flavor, and the plant was historically used for thatching, bedding, and brewing ale."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower bearing dense plumes of tiny golden flower heads. It spreads by rhizomes to form large stands in meadows, roadsides, and open fields, and attracts many pollinators in late summer.",
+      "bloomingSeason": "Late summer to fall (July to October)",
+      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and insect-carried; the real culprit is usually ragweed blooming at the same time."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A striking evergreen shrub with large, crimson, dome-shaped flower heads surrounded by red bracts. It grows in sandy soils of sclerophyll forests and is the floral emblem of New South Wales.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November)",
+      "location": "Sandstone areas around Sydney and the Blue Mountains, New South Wales, Australia",
+      "colors": [
+        "crimson",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Its name comes from the Greek 'telopos' meaning 'seen from afar,' and the flower heads are made of hundreds of tiny individual flowers that are pollinated by birds."
     }
   ]
 }

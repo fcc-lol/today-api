@@ -2,59 +2,64 @@
   "date": "November 15",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum (Mums)",
-      "description": "Chrysanthemums are popular garden plants known for their vibrant and diverse flower forms. They bloom in late autumn to early winter, bringing color to gardens as many other plants fade.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially East Asia and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It tolerates light frosts, so it often keeps flowering in northern temperate gardens when most other plants have finished.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; originated in East Asia, especially China and Japan",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red",
+        "Pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in China over 2,500 years ago and symbolize longevity and rejuvenation in many cultures."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,000 years. In Japan the flower is the emblem of the Imperial family and has its own festival, the Festival of Happiness."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "Camellias are evergreen shrubs prized for their large, elegant flowers that bloom in late autumn through winter, especially in mild climates. The blossoms can be single, semi-double, or double and are lush in appearance.",
-      "bloomingSeason": "October to March",
-      "location": "Eastern Asia, cultivated in gardens globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A spectacular semi-deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. In November the Southern Hemisphere spring is at its peak, and streets and parks turn violet, with fallen blossoms carpeting the ground.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in Australia, South Africa, Argentina and New Zealand",
       "colors": [
-        "white",
-        "pink",
-        "red"
+        "Lavender",
+        "Blue",
+        "Violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, thousands of jacarandas bloom in spring. In Australian universities, folklore says that if a jacaranda flower falls on your head before exams, you will pass."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in autumn and early winter, earlier than the common camellia. Its delicate, lightly fragrant flowers open when little else is flowering, and they provide late-season nectar for pollinators.",
+      "bloomingSeason": "Late autumn to early winter (October to January in the Northern Hemisphere)",
+      "location": "Native to Japan; grown in the southeastern United States, Europe and Asia",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. Oil pressed from sasanqua seeds is used in Japan for cooking and hair care."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "A small woodland tuberous perennial that bears nodding, swept-back pink flowers before or alongside marbled, ivy-shaped leaves. It thrives in dry shade and forms colonies in woodlands and gardens in autumn.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Native to southern Europe and western Turkey; naturalized in the UK and gardens across temperate regions",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is the original species from which many hybrid tea camellias are derived, important in tea culture."
-    },
-    {
-      "name": "Hamelia patens",
-      "commonName": "Firebush",
-      "description": "A tropical shrub that blooms almost year-round in warm climates, its fiery red-orange flowers attract hummingbirds and butterflies. In subtropical zones, November marks a peak blooming period.",
-      "bloomingSeason": "Year-round, with peaks in late autumn and spring",
-      "location": "Southern USA, Mexico, Central and South America",
-      "colors": [
-        "red",
-        "orange"
-      ],
-      "emoji": "🔥",
-      "funFact": "Firebush flowers produce abundant nectar and are a valuable nectar source for pollinators in tropical gardens."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree that produces bright orange, spider-like flowers attracting nectar-feeding birds. In warmer parts of Australia, it can bloom in late spring and autumn, including November.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia and cultivated in similar climates globally",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🌿",
-      "funFact": "Despite its name, the Silky Oak is not an oak but a member of the Proteaceae family, famous for unique flower structures."
+      "funFact": "After flowering, the seed stalks coil like springs and pull the seed capsules to the ground. Ants then carry the sticky seeds away, spreading the plant."
     }
   ]
 }

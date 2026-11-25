@@ -2,36 +2,44 @@
   "date": "October 10",
   "holidays": [
     {
+      "name": "National Cake Decorating Day",
+      "description": "A sugary celebration for anyone who has ever wielded a piping bag with confidence, or at least with enthusiasm. Bakers and amateur frosting fans are encouraged to turn plain cakes into edible art with sprinkles, rosettes, fondant, and a questionable amount of buttercream.",
+      "origin": "This is an unofficial food holiday that grew out of the baking community and cake-decorating enthusiasts, popularized through food calendars and social media. No single founder is widely credited.",
+      "category": "Food Day",
+      "emoji": "🎂",
+      "funFact": "Modern cake decorating took off in the 1800s after the invention of the pastry bag, which let bakers pipe intricate icing designs instead of just spreading frosting."
+    },
+    {
       "name": "World Mental Health Day",
-      "description": "A day dedicated to raising awareness and mobilizing efforts in support of mental health. It promotes mental well-being and encourages conversations around mental illness.",
-      "origin": "Established in 1992 by the World Federation for Mental Health to focus global attention on mental health issues.",
-      "category": "Awareness",
+      "description": "An international day dedicated to raising awareness about mental health issues and encouraging open conversations, support, and resources. It is a reminder that checking in on your brain is just as important as checking in on your body.",
+      "origin": "First observed in 1992 at the initiative of the World Federation for Mental Health, with support from the World Health Organization, which later helped make it a major global awareness day.",
+      "category": "Awareness Day",
       "emoji": "🧠",
-      "funFact": "Each year, a different theme is selected to highlight critical mental health topics, fostering worldwide dialogues."
+      "funFact": "The first World Mental Health Day had no official theme, but since 1994 each year has featured a specific theme, such as workplace mental health or access to care."
+    },
+    {
+      "name": "World Porridge Day",
+      "description": "A day to celebrate the humble bowl of porridge, from oatmeal and congee to grits and polenta. It combines cozy breakfast vibes with a serious mission to fight hunger around the world.",
+      "origin": "Launched in 2009 by the charity Mary's Meals, which uses the day to raise funds to provide school meals to children in need. It started as a fun campaign tied to the idea of sharing a simple, warm meal.",
+      "category": "Food Day",
+      "emoji": "🥣",
+      "funFact": "The World Porridge Day campaign has included the Golden Spurtle, an annual World Porridge Making Championship in Scotland where cooks compete to make the best traditional porridge using only oats, water, and salt."
+    },
+    {
+      "name": "Double Tenth Day (Taiwan National Day)",
+      "description": "A major celebration in Taiwan marked by parades, fireworks, flag-raising ceremonies, and festive public events. The name comes from the date: the tenth day of the tenth month, which makes the number 10 the star of the show.",
+      "origin": "It commemorates the Wuchang Uprising, which began on October 10, 1911, and led to the fall of the Qing dynasty and the founding of the Republic of China in 1912.",
+      "category": "Cultural Observance",
+      "emoji": "🎆",
+      "funFact": "The date is called Double Ten because of its repeated 10s, which makes it one of those rare holidays where the calendar itself practically wrote the nickname."
     },
     {
       "name": "National Angel Food Cake Day",
-      "description": "Celebrate the light and fluffy delight known as angel food cake, a heavenly treat known for its airy texture and simple ingredients.",
-      "origin": "An unofficial food holiday honoring this classic American dessert, popularized in the 19th century.",
-      "category": "Food",
+      "description": "A fluffy, airy, cloud-like celebration of one of the lightest desserts ever to grace a dinner table. Fans enjoy it with strawberries, whipped cream, or just a fork and no shame.",
+      "origin": "This is an unofficial food holiday that appears on national food day calendars, celebrating a dessert that became popular in the United States in the late 1800s.",
+      "category": "Food Day",
       "emoji": "🍰",
-      "funFact": "Angel food cake requires no fat or egg yolks and rises solely by the air whipped into egg whites, making it surprisingly delightful and low-fat!"
-    },
-    {
-      "name": "World Homeless Day",
-      "description": "A day designed to bring awareness to the plight of homeless individuals worldwide, encouraging community support and policy changes.",
-      "origin": "Initiated in 2010 to complement the United Nations' goals to end homelessness globally.",
-      "category": "Awareness",
-      "emoji": "🏚️",
-      "funFact": "Events around the world include clothing drives, soup kitchens, and storytelling to humanize the homeless experience."
-    },
-    {
-      "name": "Emergency Nurse Day",
-      "description": "A day to honor the hardworking emergency nurses who provide critical care in high-stress, fast-paced environments.",
-      "origin": "Observed by nursing communities to recognize and celebrate these vital healthcare professionals.",
-      "category": "Professional",
-      "emoji": "🩺",
-      "funFact": "Emergency nurses often juggle trauma cases, sudden illnesses, and crisis situations all in one shift, making them medical superheroes!"
+      "funFact": "Angel food cake gets its lift from whipped egg whites rather than baking powder or butter, and it is traditionally cooled upside down in the pan to keep it from collapsing."
     }
   ]
 }

@@ -4,37 +4,37 @@
     {
       "year": 1415,
       "title": "Battle of Agincourt",
-      "description": "King Henry V of England led his outnumbered forces to a decisive victory against the French during the Hundred Years' War.",
+      "description": "King Henry V of England led his outnumbered army to a decisive victory over a larger French force in northern France. English and Welsh longbowmen devastated the French cavalry and men-at-arms on muddy, narrow ground.",
       "category": "Military",
-      "significance": "This battle enhanced English prestige and Henry V's reputation, influencing the course of the Hundred Years' War."
+      "significance": "The victory was a high point of the Hundred Years' War, boosted English claims to the French throne, and led to the Treaty of Troyes in 1420."
     },
     {
       "year": 1854,
       "title": "Charge of the Light Brigade",
-      "description": "A disastrous British cavalry charge against Russian forces during the Battle of Balaclava in the Crimean War.",
+      "description": "During the Battle of Balaclava in the Crimean War, a British light cavalry brigade charged down a valley against Russian artillery due to a miscommunicated order, suffering heavy casualties.",
       "category": "Military",
-      "significance": "The event became emblematic of bravery and the futility of war, immortalized in Alfred Lord Tennyson's poem."
+      "significance": "The charge became a symbol of military valor and blunders, immortalized in Tennyson's poem, and prompted scrutiny of British command structures."
+    },
+    {
+      "year": 1881,
+      "title": "Birth of Pablo Picasso",
+      "description": "Pablo Ruiz Picasso was born in Málaga, Spain. He became one of the most influential artists of the 20th century, co-founding Cubism and producing works such as Les Demoiselles d'Avignon and Guernica.",
+      "category": "Birth",
+      "significance": "Picasso reshaped modern art and his work profoundly influenced painting, sculpture, and visual culture worldwide."
     },
     {
       "year": 1917,
-      "title": "October Revolution in Russia begins",
-      "description": "The Bolsheviks led by Vladimir Lenin launched an armed insurrection against the Provisional Government, marking the start of communist rule in Russia.",
+      "title": "October Revolution begins (Old Style date)",
+      "description": "On October 25 in the Julian calendar (November 7 in the Gregorian), the Bolsheviks led by Vladimir Lenin seized the Winter Palace in Petrograd and overthrew the Russian Provisional Government.",
       "category": "Political",
-      "significance": "This event led to the establishment of the Soviet Union, profoundly impacting global politics in the 20th century."
-    },
-    {
-      "year": 1944,
-      "title": "Liberation of the Philippines' capital Manila",
-      "description": "Filipino and American forces recaptured Manila from Japanese troops during World War II.",
-      "category": "Military",
-      "significance": "The liberation was a crucial step towards ending Japanese occupation and restoring Philippine sovereignty."
+      "significance": "The revolution led to the establishment of the world's first communist state and the eventual creation of the Soviet Union, shaping 20th-century global politics."
     },
     {
       "year": 1971,
-      "title": "United Nations expels Taiwan (Republic of China)",
-      "description": "The UN General Assembly passed Resolution 2758, recognizing the People's Republic of China as the only legitimate representative of China in the United Nations.",
-      "category": "Political",
-      "significance": "This shifted international recognition and had significant diplomatic implications during the Cold War era."
+      "title": "People's Republic of China admitted to the United Nations",
+      "description": "The UN General Assembly adopted Resolution 2758, recognizing the People's Republic of China as the only legitimate representative of China to the UN and removing representatives of the Republic of China (Taiwan).",
+      "category": "Diplomacy",
+      "significance": "The decision reshaped international diplomacy, giving the PRC a permanent Security Council seat and affecting Taiwan's international status to this day."
     }
   ]
 }

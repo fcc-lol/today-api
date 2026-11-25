@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1620,
-      "title": "Mayflower Pilgrims Land at Plymouth Rock",
-      "description": "The Pilgrims aboard the Mayflower landed at what is now Plymouth, Massachusetts, establishing one of the first permanent European settlements in North America.",
-      "category": "Exploration/Colonization",
-      "significance": "This event marks a foundational moment in American colonial history and is often associated with the roots of the United States."
+      "title": "The Mayflower Departs Plymouth",
+      "description": "The Mayflower set sail from Plymouth, England, carrying 102 passengers, including Pilgrims seeking religious freedom, bound for the New World. After a roughly 66-day voyage, it reached Cape Cod in November 1620.",
+      "category": "Exploration and Colonization",
+      "significance": "The voyage led to the founding of Plymouth Colony, one of the earliest permanent English settlements in New England, and became a foundational story in American history."
     },
     {
       "year": 1810,
-      "title": "Start of Mexico's War of Independence",
-      "description": "Miguel Hidalgo y Costilla gave the 'Grito de Dolores,' a call for rebellion against Spanish rule, initiating Mexico’s fight for independence.",
-      "category": "Political/Military",
-      "significance": "Widely celebrated as Mexico’s Independence Day, it symbolizes the beginning of the end of Spanish colonial rule in Mexico."
-    },
-    {
-      "year": 1940,
-      "title": "Tripartite Pact Signed",
-      "description": "Germany, Italy, and Japan signed the Tripartite Pact, forming the Axis Powers during World War II.",
-      "category": "Military/Diplomacy",
-      "significance": "This pact formalized the alliance of three major Axis powers, shaping the strategic alliances in World War II."
+      "title": "Grito de Dolores Begins the Mexican War of Independence",
+      "description": "Catholic priest Miguel Hidalgo y Costilla called on the people of Dolores, Guanajuato, to rise up against Spanish colonial rule. His call to arms sparked a decade-long struggle for independence.",
+      "category": "Politics and Revolution",
+      "significance": "The event is commemorated annually as Mexican Independence Day and marks the start of the movement that ended Spanish rule in Mexico in 1821."
     },
     {
       "year": 1975,
-      "title": "The Comoros Gains Independence from France",
-      "description": "The Comoros Islands officially declared independence from French colonial rule.",
-      "category": "Political/Decolonization",
-      "significance": "This event marked the end of French colonial rule over the Comoros, contributing to the wave of decolonization in Africa."
+      "title": "Papua New Guinea Gains Independence",
+      "description": "Papua New Guinea became an independent nation after decades of administration by Australia, with Michael Somare as its first prime minister. It remained a member of the Commonwealth.",
+      "category": "Politics and Independence",
+      "significance": "Independence marked the end of Australian colonial administration and established a new sovereign state of great cultural and linguistic diversity in the Pacific."
+    },
+    {
+      "year": 1987,
+      "title": "Montreal Protocol Signed",
+      "description": "Representatives of many nations signed the Montreal Protocol on Substances That Deplete the Ozone Layer, committing to phase out the production of chlorofluorocarbons and other ozone-depleting chemicals.",
+      "category": "Environment and Diplomacy",
+      "significance": "Widely regarded as one of the most successful international environmental agreements, it has helped the ozone layer begin to recover."
+    },
+    {
+      "year": 1977,
+      "title": "Death of Maria Callas",
+      "description": "The American-born Greek soprano Maria Callas died in Paris at age 53. Renowned for her dramatic intensity and vocal range, she transformed 20th-century opera performance.",
+      "category": "Arts and Culture",
+      "significance": "Callas is regarded as one of the greatest opera singers of all time and helped revive interest in the bel canto repertoire."
     }
   ]
 }
