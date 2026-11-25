@@ -2,8 +2,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
-import OpenAI from "openai";
-import { zodTextFormat } from "openai/helpers/zod";
+import { generateStructured } from "./lib/claude.js";
 import { z } from "zod";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -30,35 +29,19 @@ const WeirdHolidays = z.object({
 // Days in each month (non-leap year)
 const daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 
-// Function to get weird holidays for a specific date using OpenAI API
+// Function to get weird holidays for a specific date using the Claude API
 const getWeirdHolidaysForDate = async (month, day) => {
-  // Create OpenAI client (after env vars are loaded)
-  const openai = new OpenAI();
-
   const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
     month: "long"
   });
   const dateString = `${monthName} ${day}`;
 
-  const response = await openai.responses.parse({
-    model: "gpt-4.1-mini",
-    input: [
-      {
-        role: "system",
-        content:
-          "You are a quirky holiday expert who knows about weird, unusual, and lesser-known holidays and observances. Find 3-5 weird, quirky, or unusual holidays that happen on this specific date. Include both official and unofficial holidays, food days, awareness days, pop culture celebrations, and any other fun or strange observances. Focus on the most interesting, funny, or bizarre ones. Provide the holiday name, a fun description, origin story, category, appropriate emoji, and an interesting fun fact."
-      },
-      {
-        role: "user",
-        content: `What weird, quirky, or unusual holidays happen on ${dateString}? Include food holidays, awareness days, pop culture celebrations, and any other fun or strange observances. Make them interesting and entertaining!`
-      }
-    ],
-    text: {
-      format: zodTextFormat(WeirdHolidays, "weird_holidays")
-    }
+  return generateStructured({
+    system:
+      "You are a quirky holiday expert who knows about weird, unusual, and lesser-known holidays and observances. Find 3-5 weird, quirky, or unusual holidays that happen on this specific date. Include both official and unofficial holidays, food days, awareness days, pop culture celebrations, and any other fun or strange observances. Focus on the most interesting, funny, or bizarre ones. Provide the holiday name, a fun description, origin story, category, appropriate emoji, and an interesting fun fact.",
+    prompt: `What weird, quirky, or unusual holidays happen on ${dateString}? Include food holidays, awareness days, pop culture celebrations, and any other fun or strange observances. Make them interesting and entertaining!`,
+    schema: WeirdHolidays
   });
-
-  return response.output_parsed;
 };
 
 // Function to add delay between API calls to avoid rate limiting

@@ -2,8 +2,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
-import OpenAI from "openai";
-import { zodTextFormat } from "openai/helpers/zod";
+import { generateStructured } from "./lib/claude.js";
 import { z } from "zod";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -29,35 +28,19 @@ const HistoricalEvents = z.object({
 // Days in each month (non-leap year)
 const daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 
-// Function to get historical events for a specific date using OpenAI API
+// Function to get historical events for a specific date using the Claude API
 const getHistoricalEventsForDate = async (month, day) => {
-  // Create OpenAI client (after env vars are loaded)
-  const openai = new OpenAI();
-
   const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
     month: "long"
   });
   const dateString = `${monthName} ${day}`;
 
-  const response = await openai.responses.parse({
-    model: "gpt-4.1-mini",
-    input: [
-      {
-        role: "system",
-        content:
-          "You are a historian. Extract significant historical events that happened on this specific date (month and day) throughout history. Focus on major events, births, deaths, and milestones. Provide 3-5 events with accurate years, titles, descriptions, categories, and significance."
-      },
-      {
-        role: "user",
-        content: `What significant historical events happened on ${dateString}? Please provide the most notable events from different years.`
-      }
-    ],
-    text: {
-      format: zodTextFormat(HistoricalEvents, "historical_events")
-    }
+  return generateStructured({
+    system:
+      "You are a historian. Extract significant historical events that happened on this specific date (month and day) throughout history. Focus on major events, births, deaths, and milestones. Provide 3-5 events with accurate years, titles, descriptions, categories, and significance.",
+    prompt: `What significant historical events happened on ${dateString}? Please provide the most notable events from different years.`,
+    schema: HistoricalEvents
   });
-
-  return response.output_parsed;
 };
 
 // Function to add delay between API calls to avoid rate limiting
