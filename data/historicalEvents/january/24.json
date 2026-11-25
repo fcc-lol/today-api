@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1848,
-      "title": "Discovery of Gold at Sutter's Mill",
-      "description": "James W. Marshall discovered gold at Sutter's Mill in California, sparking the California Gold Rush.",
-      "category": "Exploration/Economy",
-      "significance": "This discovery led to a massive migration westward, accelerating California's statehood and impacting the US economy and demographics."
+      "title": "Gold Discovered at Sutter's Mill",
+      "description": "James W. Marshall found gold flakes in the American River at Sutter's Mill in Coloma, California, while overseeing construction of a sawmill for John Sutter.",
+      "category": "Economics and Exploration",
+      "significance": "The discovery triggered the California Gold Rush of 1849, drawing roughly 300,000 people to California, accelerating its path to statehood in 1850 and reshaping the economy and demographics of the American West."
+    },
+    {
+      "year": 1935,
+      "title": "First Canned Beer Sold",
+      "description": "The Gottfried Krueger Brewing Company of Newark, New Jersey, began selling Krueger's Finest Beer and Cream Ale in cans to customers in Richmond, Virginia, after a successful test market.",
+      "category": "Business and Technology",
+      "significance": "Canned beer proved popular and practical, helping transform the beverage packaging industry and consumer habits after the end of Prohibition."
     },
     {
       "year": 1965,
-      "title": "Sir Winston Churchill Dies",
-      "description": "Sir Winston Churchill, former Prime Minister of the United Kingdom during WWII, passed away at age 90.",
-      "category": "Political Leadership",
-      "significance": "Churchill was a pivotal figure in 20th-century history, known for his leadership during WWII and shaping postwar Europe."
+      "title": "Death of Winston Churchill",
+      "description": "Sir Winston Churchill, the British statesman who led the United Kingdom through World War II as Prime Minister, died at age 90 in London, 70 years to the day after his father Lord Randolph Churchill's death.",
+      "category": "Death and Politics",
+      "significance": "Churchill's death prompted a state funeral on a scale not seen for a non-royal in Britain, and marked the passing of one of the 20th century's most influential leaders, remembered for his wartime oratory and resolve."
     },
     {
       "year": 1984,
-      "title": "Apple Computer Unveils the Macintosh",
-      "description": "Apple introduced the Macintosh personal computer with a graphical user interface in a famous Super Bowl commercial.",
+      "title": "Apple Macintosh Introduced",
+      "description": "Apple Computer unveiled the Macintosh personal computer, announced by Steve Jobs at the company's shareholder meeting in Cupertino, following the famous '1984' Super Bowl commercial days later.",
       "category": "Technology",
-      "significance": "The Macintosh revolutionized personal computing and popularized the graphical user interface, influencing modern computing design."
+      "significance": "The Macintosh popularized the graphical user interface and mouse for mainstream consumers, shaping the future of personal computing and desktop publishing."
     },
     {
-      "year": 1950,
-      "title": "Peachy Keen by Billboard's Top 100",
-      "description": "The Billboard Top 100 chart was first published on this date.",
-      "category": "Culture/Music",
-      "significance": "The chart became a standard for measuring music popularity, influencing the music industry and culture."
+      "year": 1972,
+      "title": "Shoichi Yokoi Found in Guam",
+      "description": "Japanese soldier Shoichi Yokoi was discovered living in the jungles of Guam, where he had hidden for nearly 28 years after the island's liberation in 1944, unaware that World War II had ended.",
+      "category": "War and Human Interest",
+      "significance": "His discovery drew worldwide attention to the phenomenon of Japanese holdouts and the enduring influence of wartime loyalty, and his return to Japan sparked national debate."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1807,
-      "title": "Robert E. Lee's Birth",
-      "description": "Robert E. Lee, who would become the Confederate general during the American Civil War, was born in Virginia.",
-      "category": "Birth",
-      "significance": "Lee's leadership and military strategies were pivotal in the Civil War, impacting American history deeply."
+      "title": "Birth of Robert E. Lee",
+      "description": "Robert Edward Lee was born at Stratford Hall in Westmoreland County, Virginia. He later became a career U.S. Army officer and went on to command the Confederate Army of Northern Virginia during the American Civil War.",
+      "category": "Births",
+      "significance": "Lee became one of the most prominent and debated military figures in American history, and his leadership shaped the course of the Civil War."
+    },
+    {
+      "year": 1809,
+      "title": "Birth of Edgar Allan Poe",
+      "description": "Edgar Allan Poe was born in Boston, Massachusetts. He became a celebrated poet, short story writer, and critic, known for works such as The Raven and The Tell-Tale Heart.",
+      "category": "Births",
+      "significance": "Poe pioneered the modern detective story and greatly influenced Gothic fiction, horror, and the development of the short story as a literary form."
     },
     {
       "year": 1915,
-      "title": "First Zeppelin Air Raid on Britain",
-      "description": "During World War I, German zeppelins conducted their first air raid on Britain, targeting the eastern counties, causing damage and civilian casualties.",
+      "title": "First German Zeppelin Air Raid on Britain",
+      "description": "German Zeppelin airships bombed the East Anglian coast, including Great Yarmouth and King's Lynn, killing several civilians during World War I.",
       "category": "Military",
-      "significance": "This event marked the beginning of strategic aerial bombing campaigns and shaped wartime defense approaches."
+      "significance": "These raids were among the first strategic aerial bombings of civilian targets, foreshadowing the role of air power in total war."
     },
     {
-      "year": 1920,
-      "title": "The League of Nations Holds Its First Council Meeting",
-      "description": "The League of Nations, established after World War I to maintain world peace, held its first council meeting in Paris.",
-      "category": "Political",
-      "significance": "An early attempt at international diplomacy and collective security, influencing future international organizations like the United Nations."
+      "year": 1966,
+      "title": "Indira Gandhi Becomes Prime Minister of India",
+      "description": "Indira Gandhi was elected leader of the Congress Party parliamentary group and became India's third Prime Minister, succeeding Lal Bahadur Shastri.",
+      "category": "Politics",
+      "significance": "She became the first woman to serve as India's Prime Minister and led the country through major events, including the 1971 war with Pakistan."
     },
     {
-      "year": 2006,
-      "title": "Ellen Johnson Sirleaf Elected President of Liberia",
-      "description": "Ellen Johnson Sirleaf became the first elected female head of state in Africa, winning the presidency in Liberia.",
-      "category": "Political",
-      "significance": "Her election represented a milestone for gender equality and democratic progress in Africa."
+      "year": 1977,
+      "title": "Snowfall in Miami",
+      "description": "Snow fell in Miami, Florida, as a rare cold wave swept across the state, marking the only time snow has been recorded in the city's history.",
+      "category": "Natural Events",
+      "significance": "The event damaged Florida's agricultural industry and remains a unique weather milestone in the history of South Florida."
     }
   ]
 }

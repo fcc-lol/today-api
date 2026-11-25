@@ -4,54 +4,59 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to eastern and southern Asia, known for its glossy dark green leaves and large, rose-like flowers that bloom in winter to early spring. Camellias are ornamental favorites for their bright, showy blooms during colder months.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated globally in temperate regions",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and showy rose-like flowers. It is widely cultivated in temperate gardens and thrives in partial shade with acidic, well-drained soil.",
+      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
+      "location": "Native to Japan, Korea and China; cultivated in the southeastern United States, Europe and Australia",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica was the original source of the tea plant; the same genus (Camellia sinensis) is used to make tea."
+      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and camellia oil has been used in Japan for centuries as a hair and skin treatment."
     },
     {
-      "name": "Wattle (Acacia pycnantha)",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, this small tree or shrub produces abundant bright yellow fluffy flower clusters. It blooms in late winter through spring, often brightening the Australian landscape in the southern hemisphere's cooler months.",
-      "bloomingSeason": "July to November (varies regionally) but can bloom into January in northern Australia",
-      "location": "Southeastern Australia and northern regions",
+      "name": "Hippeastrum puniceum",
+      "commonName": "Barbados Lily (Amaryllis)",
+      "description": "A bulbous perennial producing large trumpet-shaped flowers on tall hollow stalks. In the wild it grows in tropical and subtropical regions, and hybrids are popular as potted plants and in warm gardens.",
+      "bloomingSeason": "Winter in the Northern Hemisphere when forced indoors; wild and garden plants bloom in the Southern Hemisphere summer (December to February)",
+      "location": "Native to Central and South America and the Caribbean; grown worldwide",
       "colors": [
-        "yellow"
+        "Red",
+        "Orange",
+        "Pink",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "The Golden Wattle's vibrant yellow flowers inspired the colors of the Australian national flag."
+      "emoji": "🌷",
+      "funFact": "Many plants sold as amaryllis are actually Hippeastrum, a different genus from the true South African Amaryllis belladonna."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of tubular blue flowers held on tall stalks. It is tolerant of heat and drought and is common in coastal gardens.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
+      "location": "Native to South Africa; widely naturalized in Australia and New Zealand",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words for 'love' and 'flower'."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial plant native to mountainous regions of Europe, the Christmas Rose blooms in winter. It has white or pinkish flowers that open in the coldest months, symbolizing endurance and hope through winter.",
-      "bloomingSeason": "December to February",
-      "location": "Europe, cultivated in temperate gardens",
+      "description": "A low evergreen perennial that blooms during the coldest months, with nodding saucer-shaped white flowers surrounding golden stamens. It thrives in woodland conditions with alkaline soil.",
+      "bloomingSeason": "Midwinter to early spring (December to March)",
+      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
-    },
-    {
-      "name": "Clivia miniata",
-      "commonName": "Natal Lily",
-      "description": "A shade-loving evergreen perennial from South Africa, Clivia miniata blooms in mid to late winter with vibrant orange to red trumpet-shaped flowers. It is a popular houseplant that flowers indoors during the northern hemisphere’s winter months.",
-      "bloomingSeason": "December to February",
-      "location": "South Africa, also cultivated worldwide as a houseplant",
-      "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Clivia miniata's flowers are pollinated mainly by sunbirds in its native South African habitat."
+      "emoji": "🤍",
+      "funFact": "Despite blooming in snow, hellebores are poisonous, and in folklore they were once believed to ward off evil spirits."
     }
   ]
 }

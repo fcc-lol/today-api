@@ -2,59 +2,62 @@
   "date": "January 11",
   "plants": [
     {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small bulbous perennial that bursts into bloom early in the year, often emerging through late winter snow in temperate regions. Its cup-shaped flowers herald the coming of spring.",
-      "bloomingSeason": "January to April",
-      "location": "Europe, Western Asia",
-      "colors": [
-        "purple",
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Crocuses were one of the first bulbs cultivated by humans, admired by Romans and Greeks for their vivid colors."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub prized for its large, showy blooms that appear in the cooler months when few other plants flower. Its glossy dark leaves highlight its bright flowers.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated worldwide in temperate zones",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that brighten the winter garden. Hundreds of cultivars exist, with single, semi-double, and fully double forms.",
+      "bloomingSeason": "Late autumn to early spring (peak in midwinter in warm temperate zones)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe's mild coastal regions, and Australia",
       "colors": [
-        "pink",
-        "red",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, despite being unknown in his homeland."
+      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seeds are pressed to produce camellia oil used in cooking and hair care."
     },
     {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub that produces bell-shaped flowers throughout the winter and early spring. It is commonly found in mountainous and colder regions.",
-      "bloomingSeason": "December to April",
-      "location": "Central and Southern Europe",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers that emerge in the coldest months, often pushing through snow. Its leathery, dark green leaves persist through winter.",
+      "bloomingSeason": "Midwinter to early spring",
+      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens of Europe and North America",
       "colors": [
-        "pink",
-        "purple",
-        "white"
+        "White",
+        "Pale pink"
       ],
-      "emoji": "💐",
-      "funFact": "Winter Heath is often used as groundcover in gardens to provide color during the cold months when few other flowers bloom."
+      "emoji": "❄️",
+      "funFact": "Despite its name, it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A coastal tree known for its unique cylindrical flower spikes appearing in the Australian summer and sometimes extending into winter months. These flowers attract a variety of nectar-feeding birds and mammals.",
-      "bloomingSeason": "November to January",
-      "location": "Eastern Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic shrub producing the largest flower head in the Protea genus, with a bowl of showy pink bracts surrounding a center of fuzzy flowers. It thrives in fynbos habitat with nutrient-poor soils.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowering often from November to February",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, Hawaii, and California",
       "colors": [
-        "yellow",
-        "cream"
+        "Pink",
+        "Cream",
+        "Crimson"
       ],
-      "emoji": "🌼",
-      "funFact": "The Banksia genus is named after Sir Joseph Banks, the botanist who collected specimens during Captain Cook's first voyage."
+      "emoji": "🌸",
+      "funFact": "It is the national flower of South Africa, and its thick underground lignotuber allows it to resprout after wildfires."
+    },
+    {
+      "name": "Hippeastrum vittatum",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial that sends up tall stalks bearing several large trumpet-shaped flowers. Often forced indoors in the Northern Hemisphere for winter bloom, and blooming outdoors in summer in the Southern Hemisphere.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; summer outdoors in the Southern Hemisphere",
+      "location": "Native to the Andes and South America; cultivated worldwide as a houseplant and garden bulb",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Orange",
+        "Striped"
+      ],
+      "emoji": "🌷",
+      "funFact": "The bulbs can bloom again year after year, and a single bulb can produce multiple flower stalks that reach over 60 cm tall."
     }
   ]
 }

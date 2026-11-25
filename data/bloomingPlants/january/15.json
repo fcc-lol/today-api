@@ -2,55 +2,63 @@
   "date": "January 15",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial known for its large, white flowers that often bloom in winter under snow. It is native to mountainous regions of Europe and is widely cultivated in gardens for early winter blooms.",
-      "bloomingSeason": "December to February",
-      "location": "Europe (Alps, mountainous areas)",
-      "colors": [
-        "white"
-      ],
-      "emoji": "❄️🌸",
-      "funFact": "The Christmas Rose can bloom through snow, giving a cheerful splash of color during the coldest months."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A popular evergreen shrub with glossy leaves and large, rose-like flowers. It blooms in late winter to early spring in mild climates and is especially prized in gardens of East Asia and the southeastern United States.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, Southeastern United States (cultivated)",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers, prized in temperate gardens. Many cultivars have single, semi-double, or fully double blooms that stand out against winter landscapes.",
+      "bloomingSeason": "Late autumn to early spring, peaking in midwinter in mild climates",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were highly prized by the samurai and often featured in Japanese art and culture."
+      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made, and camellias are the state flower of Alabama."
     },
     {
-      "name": "Acacia dealbata",
-      "commonName": "Mimosa or Silver Wattle",
-      "description": "A fast-growing tree known for its bright yellow, fragrant pompom-like flowers that bloom in late winter. Native to southeastern Australia, it is widely planted worldwide as an ornamental tree.",
-      "bloomingSeason": "January to March",
-      "location": "Australia (native), Mediterranean (cultivated)",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers that age to pinkish tones. It thrives in cool, shaded woodland conditions and blooms when little else does, even pushing through snow.",
+      "bloomingSeason": "Midwinter to early spring in the Northern Hemisphere",
+      "location": "Native to the mountains of Central and Southern Europe; grown in gardens across Europe and North America",
       "colors": [
-        "yellow"
+        "white",
+        "pale pink",
+        "green"
       ],
-      "emoji": "🌼",
-      "funFact": "Mimosa flowers are used in the celebration of International Women's Day in some countries."
+      "emoji": "❄️",
+      "funFact": "Despite its name, it is not a rose at all but a member of the buttercup family, and all parts of the plant are toxic."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot or Chinese Plum",
-      "description": "A deciduous tree with fragrant pink or white blossoms that bloom in late winter to early spring. It is native to East Asia and is admired for its beautiful flowers that often bloom even before leaves appear.",
-      "bloomingSeason": "January to March",
-      "location": "East Asia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with the largest flower head of any protea, made up of a central cone surrounded by showy, petal-like bracts. It is adapted to fire-prone, nutrient-poor fynbos habitats.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak flowering from December to February in some regions",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, Hawaii, and California",
       "colors": [
         "pink",
-        "white"
+        "cream",
+        "red"
       ],
       "emoji": "🌸",
-      "funFact": "Prunus mume blossoms symbolize perseverance and hope in East Asian cultures since they bloom in the coldest days."
+      "funFact": "It is the national flower of South Africa, and its genus is named after the Greek god Proteus because of its many forms."
+    },
+    {
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous plant producing tall, sturdy stalks topped with several huge trumpet-shaped flowers. It is widely forced into bloom indoors in the Northern Hemisphere during winter and blooms outdoors in tropical regions.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; spring to summer outdoors in native ranges",
+      "location": "Native to tropical and subtropical South America; popular as a potted houseplant worldwide",
+      "colors": [
+        "red",
+        "white",
+        "pink",
+        "orange",
+        "striped"
+      ],
+      "emoji": "🌷",
+      "funFact": "A single bulb can bloom again for decades if it is given a dormant rest period and proper feeding each year."
     }
   ]
 }

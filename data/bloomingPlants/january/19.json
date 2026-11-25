@@ -4,53 +4,60 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub prized for its large, rose-like flowers that bloom in winter, Camellia japonica is widely cultivated in temperate regions. Flowers have waxy petals and appear in shades of red, pink, or white. It thrives in acid soils with good drainage.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia (native), gardens in temperate zones worldwide",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is widely grown in gardens across Japan, the southeastern United States, and western Europe.",
+      "bloomingSeason": "Late autumn to early spring (peak in winter)",
+      "location": "Japan, Korea, southeastern United States, Western Europe, Pacific Northwest",
       "colors": [
         "red",
         "pink",
-        "white"
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers inspired the name of the beverage 'camellia sinensis', the tea plant, although they are different species."
+      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made, and Camellia japonica is the official flower of Alabama's neighbor tradition in Japanese tea gardens and temple grounds."
     },
     {
-      "name": "Hamamelis virginiana",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub or small tree notable for its fragrant, slender ribbon-like yellow flowers that bloom in late fall through winter, often after leaves have fallen. It is a native species to eastern North America and used medicinally for its astringent properties.",
-      "bloomingSeason": "October to January",
-      "location": "Eastern North America",
+      "name": "Hippeastrum puniceum",
+      "commonName": "Amaryllis (Barbados Lily)",
+      "description": "A bulbous perennial with large trumpet-shaped flowers on tall hollow stalks. In the Southern Hemisphere and tropical regions it blooms outdoors during summer, while in the Northern Hemisphere it is a popular indoor winter bloomer.",
+      "bloomingSeason": "Summer in the Southern Hemisphere; winter indoors in the Northern Hemisphere",
+      "location": "Native to South and Central America and the Caribbean; cultivated worldwide",
       "colors": [
-        "yellow"
+        "red",
+        "orange",
+        "white",
+        "pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch Hazel extracts are commonly used in skincare for minimizing skin irritation and inflammation."
+      "emoji": "🌷",
+      "funFact": "Amaryllis bulbs can bloom again year after year, and a single bulb may send up several flower stalks, each carrying up to six large blooms."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot / Chinese Plum",
-      "description": "A deciduous tree known for its early blooming fragrant flowers in late winter and early spring. The flowers are usually pink or white and often bloom before the leaves emerge. It is culturally significant in East Asia, symbolizing perseverance and hope.",
-      "bloomingSeason": "January to March",
-      "location": "China, Japan, Korea",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A deciduous large shrub that blooms on bare branches in the depths of winter. Its spidery, ribbon-like petals are strongly fragrant and attract the few insects that are active in cold weather.",
+      "bloomingSeason": "Mid-winter to early spring",
+      "location": "Central and eastern China; cultivated in temperate gardens in Europe and North America",
       "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Prunus mume blossoms often appear on the lunar new year and are associated with renewal and the coming spring."
-    },
-    {
-      "name": "Clivia miniata",
-      "commonName": "Kaffir Lily",
-      "description": "An evergreen perennial from South Africa, Clivia miniata blooms indoors and outdoors in mild climates during winter and early spring. It produces clusters of trumpet-shaped, bright orange flowers on tall stalks above strap-like leaves.",
-      "bloomingSeason": "December to February",
-      "location": "South Africa; cultivated globally as a houseplant",
-      "colors": [
+        "yellow",
+        "gold",
         "orange"
       ],
-      "emoji": "🧡",
-      "funFact": "Clivia miniata was named after Lady Charlotte Clive who received the plant in the 19th century."
+      "emoji": "🌼",
+      "funFact": "Witch hazel petals curl up tightly in freezing temperatures to protect themselves and unfurl again when it warms up."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of trumpet-shaped flowers atop tall stems. It is a hallmark of Southern Hemisphere summer gardens and is also naturalized in parts of Australia and New Zealand.",
+      "bloomingSeason": "Summer (December to March in the Southern Hemisphere)",
+      "location": "Native to South Africa; widely grown in Australia, New Zealand, and coastal California",
+      "colors": [
+        "blue",
+        "violet",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek words for 'love' and 'flower'."
     }
   ]
 }

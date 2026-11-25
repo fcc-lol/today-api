@@ -4,55 +4,59 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A popular ornamental evergreen shrub native to eastern and southern Asia, known for its large, showy flowers that often bloom in winter to early spring, providing color in colder months.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia (Japan, China, Korea); widely cultivated in temperate regions worldwide",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a mainstay of winter gardens, with thousands of cultivars in varied forms.",
+      "bloomingSeason": "Late autumn through early spring, peaking in mid-winter",
+      "location": "Native to Japan, Korea and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
       "colors": [
-        "Red",
-        "Pink",
-        "White"
+        "red",
+        "pink",
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were historically used to make tea before Camellia sinensis became popular."
-    },
-    {
-      "name": "Crocus sativus",
-      "commonName": "Saffron Crocus",
-      "description": "A small perennial flowering plant famed for its crimson stigmas which are harvested as saffron spice. It blooms in late autumn to early winter and is cultivated in Mediterranean climates.",
-      "bloomingSeason": "October to January",
-      "location": "Mediterranean, Iran, Spain, India (Kashmir)",
-      "colors": [
-        "Purple",
-        "Lilac"
-      ],
-      "emoji": "🌸",
-      "funFact": "Saffron crocus stigmas are the most expensive spice by weight due to labor-intensive harvesting."
+      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A herbaceous perennial known for blooming in winter, often around Christmas and early January. Its waxy white flowers appear on leafless stems, brightening shady gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens that often fade to pink. It flowers in cold weather and tolerates frost and snow.",
+      "bloomingSeason": "Early winter to late winter",
+      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens in Europe and North America",
       "colors": [
-        "White",
-        "Pink"
+        "white",
+        "pale pink",
+        "green"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas Rose is not related to true roses and is toxic if ingested."
+      "emoji": "🤍",
+      "funFact": "Despite its name, it is not a true rose but a member of the buttercup family, and all parts are toxic."
     },
     {
-      "name": "Banksia serrata",
-      "commonName": "Old Man Banksia",
-      "description": "An Australian native tree with large cylindrical flower spikes that appear mostly in winter and spring, attracting birds and mammals with nectar-rich flowers.",
-      "bloomingSeason": "May to January (peak bloom in Jan in some areas)",
-      "location": "Eastern Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub bearing the largest flower head in the Protea genus, a massive bowl-shaped bloom of pointed bracts surrounding a central cluster of florets. It is adapted to nutrient-poor soils and fire-prone fynbos.",
+      "bloomingSeason": "Southern Hemisphere late spring to summer, with flowering often continuing into January",
+      "location": "Native to the fynbos of South Africa's Western and Eastern Cape; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "Yellow",
-        "Orange"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksia flowers are made up of hundreds of tiny flowers packed together, creating the characteristic flower spikes."
+      "emoji": "🌸",
+      "funFact": "It is the national flower of South Africa, and its flower heads can reach 30 cm across."
+    },
+    {
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A deciduous shrub that produces spidery, strongly fragrant flowers on bare branches in winter. The ribbon-like petals curl up in cold weather and unfurl again when it warms.",
+      "bloomingSeason": "Mid-winter to late winter",
+      "location": "Native to central and eastern China; grown in temperate gardens in Europe, North America, and Japan",
+      "colors": [
+        "yellow",
+        "gold",
+        "orange"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel flowers can survive freezing temperatures by curling their petals tightly to protect themselves."
     }
   ]
 }

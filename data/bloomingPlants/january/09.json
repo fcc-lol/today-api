@@ -4,55 +4,59 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to eastern Asia, valued for its large, glossy leaves and beautiful rose-like flowers that brighten winter gardens.",
-      "bloomingSeason": "December to March",
-      "location": "East Asia, cultivated worldwide in mild climates",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that brighten the winter landscape. Hundreds of cultivars exist with single, semi-double, and fully double forms.",
+      "bloomingSeason": "Late autumn to early spring (peak in midwinter in mild climates)",
+      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Mediterranean Europe, and Australia",
       "colors": [
-        "pink",
         "red",
-        "white"
+        "pink",
+        "white",
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias are shade-tolerant and often bloom when few other plants do, making them treasured for winter color."
+      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A hardy perennial native to the Alps that produces delicate, white to pink cup-shaped flowers often blooming through winter snow.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe (Alps region)",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "A deciduous large shrub that flowers on bare branches in the depths of winter. Its spidery, ribbon-like petals are strongly fragrant and tolerate frost by curling up in the cold.",
+      "bloomingSeason": "Midwinter (December to February)",
+      "location": "Native to central and eastern China; grown in temperate gardens across Europe and North America",
       "colors": [
-        "white",
-        "pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Despite its common name, the Christmas Rose is not a rose but a member of the buttercup family."
-    },
-    {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "A low-growing evergreen shrub native to the mountains of Europe, this species produces abundant bell-shaped flowers that offer color during cold months.",
-      "bloomingSeason": "December to April",
-      "location": "Central and Southern Europe",
-      "colors": [
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "💜",
-      "funFact": "Winter heath can tolerate very cold temperatures and is often used as ground cover to provide winter interest in gardens."
-    },
-    {
-      "name": "Acacia dealbata",
-      "commonName": "Silver Wattle / Mimosa",
-      "description": "A fast-growing evergreen tree native to southeastern Australia featuring fluffy, fragrant, bright yellow flowers in dense clusters.",
-      "bloomingSeason": "January to March",
-      "location": "Australia, widely cultivated in Mediterranean climates",
-      "colors": [
-        "yellow"
+        "yellow",
+        "gold",
+        "orange"
       ],
       "emoji": "🌼",
-      "funFact": "Mimosa's bright yellow blooms are an iconic sign of late summer in Australia and are celebrated on International Women's Day in some countries."
+      "funFact": "Witch hazel petals curl up tightly during freezing weather to protect themselves and unfurl again when it warms."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking shrub with huge, artichoke-like flower heads made of colorful bracts surrounding a central cone of tiny flowers. It is adapted to fire-prone fynbos habitats and is the national flower of South Africa.",
+      "bloomingSeason": "Southern Hemisphere summer, with blooms from late spring through summer (peaking around December to February in some areas)",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, Hawaii, and California",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas are among the most ancient flowering plants, with a lineage dating back roughly 300 million years, and the genus is named after the shape-shifting Greek god Proteus."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tree that becomes covered in clusters of brilliant flowers during the Southern Hemisphere summer. Its feathery, fern-like leaves provide dappled shade.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in dry season in some tropical areas",
+      "location": "Native to Madagascar; widely planted in Australia, Brazil, the Caribbean, and tropical Africa",
+      "colors": [
+        "red",
+        "orange",
+        "scarlet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Despite being a popular tree around the world, the royal poinciana is endangered in its native Madagascar."
     }
   ]
 }

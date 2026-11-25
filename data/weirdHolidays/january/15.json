@@ -2,36 +2,44 @@
   "date": "January 15",
   "holidays": [
     {
-      "name": "Hat Day",
-      "description": "A day to don your quirkiest, funniest, or fanciest hat and show it off to the world! Whether it's a top hat, a beanie with a pompom, or something completely bizarre, today is your excuse to top off your outfit with flair.",
-      "origin": "Hat Day gained popularity as a whimsical celebration encouraging people to have fun with their headwear, often organized by communities and hat enthusiasts worldwide.",
-      "category": "Fashion/Fun",
+      "name": "National Hat Day",
+      "description": "A day to dust off your favorite headwear, from fedoras and beanies to wacky novelty hats, and wear it proudly all day long. Bonus points for anything with a propeller or a cheese wedge.",
+      "origin": "National Hat Day is an unofficial observance that became popular in the United States in the 2000s, promoted through social media and lists of national days. No single founder is clearly documented.",
+      "category": "Fashion",
       "emoji": "🎩",
-      "funFact": "In the Victorian era, hats were so important that a well-chosen hat could instantly reveal a person's social status!"
+      "funFact": "The phrase 'mad as a hatter' is often linked to 18th and 19th century hat makers who suffered mercury poisoning from the chemicals used in felting."
+    },
+    {
+      "name": "National Bagel Day",
+      "description": "A celebration of the chewy, boiled-then-baked ring of carb perfection. Cream cheese, lox, everything seasoning, or even pizza bagels are all welcome at this breakfast bash.",
+      "origin": "An unofficial food holiday that grew in popularity in the US, tied to the bagel's history among Jewish communities in Poland, where the earliest known mention dates to 1610 in Kraków.",
+      "category": "Food",
+      "emoji": "🥯",
+      "funFact": "Traditional bagels are boiled in water before baking, which gives them their signature shiny crust and dense, chewy texture."
     },
     {
       "name": "Strawberry Ice Cream Day",
-      "description": "Celebrate the sweet, creamy delight of strawberry ice cream today! Whether you prefer scoops in a cone or swirls in a sundae, this day honors one of the most beloved ice cream flavors ever.",
-      "origin": "Ice cream lovers created this unofficial holiday to honor their favorite fruity flavor, especially popular in the United States during winter as a cheerful treat.",
+      "description": "A day for scooping up the pink, creamy classic. Fans argue over whether the best version has real fruit chunks or is smooth and dreamy.",
+      "origin": "An unofficial food observance that circulates among national day calendars, celebrating one of the three flavors in classic Neapolitan ice cream.",
       "category": "Food",
-      "emoji": "🍓🍦",
-      "funFact": "The first strawberry ice cream recipe dates back to 1744 and was featured in French culinary texts!"
+      "emoji": "🍓",
+      "funFact": "Vanilla, chocolate, and strawberry make up Neapolitan ice cream, named after immigrants from Naples, Italy who popularized the layered treat in the US."
     },
     {
-      "name": "Bean Day",
-      "description": "A quirky celebration dedicated to beans of all kinds! From baked beans to green beans, this holiday highlights the humble legume and its importance in cuisines around the world.",
-      "origin": "Bean Day was established by the National Bean Advocate to promote eating beans for their health and environmental benefits.",
-      "category": "Food/Health",
-      "emoji": "🫘",
-      "funFact": "Beans are one of the oldest cultivated plants and can fix nitrogen in the soil, making them great for sustainable farming!"
+      "name": "Wikipedia Day",
+      "description": "Fans of the free online encyclopedia celebrate by editing articles, falling down rabbit holes, and thanking the volunteers who keep the world's knowledge up to date.",
+      "origin": "Wikipedia was launched on January 15, 2001 by Jimmy Wales and Larry Sanger, and the anniversary has been celebrated by editors ever since.",
+      "category": "Internet Culture",
+      "emoji": "📚",
+      "funFact": "Wikipedia now exists in over 300 languages, and its volunteer editors have written millions of articles in English alone."
     },
     {
-      "name": "National Appreciate a Dragon Day",
-      "description": "A whimsical day to celebrate dragons, those mythical, fire-breathing creatures that have captured human imagination for centuries. Dress up, read dragon tales, or watch dragon-themed movies!",
-      "origin": "This unofficial modern holiday was created by fantasy fans to honor dragons in popular culture and folklore.",
-      "category": "Pop Culture/Fantasy",
-      "emoji": "🐉",
-      "funFact": "Dragons appear in the myths of over 50 different cultures worldwide, each with their own unique twist!"
+      "name": "Humanitarian Day (Martin Luther King Jr. Birthday Eve Quirk: Bunny Day Alternative) - Hat Trick Day",
+      "description": "A playful unofficial observance of tricks, treats, and triumphs, where people try something clever or silly three times in a row.",
+      "origin": "Loosely inspired by sports and magic culture where a 'hat trick' means achieving three of something in a row, popularized informally online alongside National Hat Day.",
+      "category": "Pop Culture",
+      "emoji": "🪄",
+      "funFact": "The term 'hat trick' originated in 19th century cricket, when a bowler who took three wickets in a row was awarded a new hat."
     }
   ]
 }
