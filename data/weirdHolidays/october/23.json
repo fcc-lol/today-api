@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Mole Day",
-      "description": "Celebrate the chemist’s favorite number—Avogadro's Number (6.022 x 10^23)! It’s a quirky day for chemistry geeks and students everywhere to appreciate the mole, a unit used to count particles like atoms and molecules.",
-      "origin": "Mole Day was unofficially started by chemistry teachers in the early 1980s in the United States as a fun way to engage students with chemistry concepts.",
-      "category": "Science/Math Fun",
-      "emoji": "⚗️",
-      "funFact": "Mole Day celebrations often include ‘Avocado’ references, since ‘avocado’ sounds like Avogadro! Some parties even serve guacamole as a punny treat."
+      "description": "Chemistry fans celebrate Avogadro's number (6.02 x 10^23) from 6:02 AM to 6:02 PM, with puns, themed parties, and plenty of cute stuffed moles.",
+      "origin": "Mole Day began in the 1980s, inspired by an article in The Science Teacher by Maurice Oehler. The National Mole Day Foundation was founded in 1991 and now promotes interest in chemistry among students.",
+      "category": "Science / Education",
+      "emoji": "🧪",
+      "funFact": "The mole in chemistry has nothing to do with the burrowing animal. The name comes from the German word 'Mol', short for 'Molekül' (molecule), though mole-themed mascots are everywhere on this day."
     },
     {
-      "name": "National Nut Day",
-      "description": "A nutty day to celebrate all kinds of nuts—cashews, almonds, walnuts, and pecans. It’s a crunchy holiday honoring these delicious and nutritious snacks.",
-      "origin": "National Nut Day was created by the National Day Calendar organization to encourage healthy snacking and to recognize nuts' role in nutrition and cooking.",
-      "category": "Food/Health",
-      "emoji": "🥜",
-      "funFact": "Despite their name, peanuts are actually legumes, not true nuts — a fun botanical twist for nut lovers!"
-    },
-    {
-      "name": "Capoeira Day",
-      "description": "Celebrate the Brazilian martial art that’s part dance, part fight, and all rhythm! Capoeira Day honors this Afro-Brazilian tradition with music, acrobatics, and cultural pride.",
-      "origin": "Observed in Brazil, October 23 marks the anniversary of the first capoeira school opening, highlighting its unique heritage blending combat, dance, and music.",
-      "category": "Cultural/Arts",
-      "emoji": "🥋",
-      "funFact": "Capoeira was originally developed by enslaved Africans in Brazil as a form of self-defense disguised as dance to avoid detection by colonial authorities."
-    },
-    {
-      "name": "Mickey Mouse Day",
-      "description": "Remember the big cheese himself, Mickey Mouse! October 23 marks Mickey’s birthday, commemorating his first public appearance in the cartoon 'Steamboat Willie' in 1928.",
-      "origin": "Created by Walt Disney, Mickey Mouse's debut on October 23, 1928, revolutionized animation and created an iconic character beloved worldwide.",
+      "name": "TV Talk Show Host Day",
+      "description": "A day to appreciate the people who keep us company with interviews, monologues, and awkward celebrity banter.",
+      "origin": "This unofficial observance was created to honor talk show hosts and the role they play in pop culture. It is celebrated on October 23 and is popular among TV fans.",
       "category": "Pop Culture",
-      "emoji": "🐭",
-      "funFact": "Mickey Mouse was the first cartoon character to get a star on the Hollywood Walk of Fame in 1978."
+      "emoji": "🎤",
+      "funFact": "Late-night talk shows have been around since NBC's Tonight Starring Steve Allen in 1954, and the format has barely changed in over 70 years: desk, couch, and a band."
+    },
+    {
+      "name": "National Boston Cream Pie Day",
+      "description": "Dessert lovers celebrate the Massachusetts state dessert: two layers of sponge cake filled with vanilla custard and topped with chocolate glaze. Yes, it is a cake, not a pie.",
+      "origin": "The dessert is credited to chef Augustine Francois Anezin at Boston's Parker House Hotel in the 1850s. It was named a pie because cakes and pies were often baked in the same pans back then.",
+      "category": "Food",
+      "emoji": "🥧",
+      "funFact": "Boston cream pie was named the official dessert of Massachusetts in 1996, after a second-grade class pushed for it over the Toll House cookie, which also won recognition as the state cookie."
+    },
+    {
+      "name": "Swallows Return to San Juan Capistrano Day",
+      "description": "A beloved California tradition celebrating the legendary annual return of cliff swallows to the historic Mission San Juan Capistrano, complete with parades and a festival.",
+      "origin": "The tradition is linked to the mission's history and a famous 1939 song, 'When the Swallows Come Back to Capistrano.' The birds are traditionally said to return on March 19, but the date is also marked in the fall, when the swallows are said to depart on October 23.",
+      "category": "Animals / Local Tradition",
+      "emoji": "🐦",
+      "funFact": "Swallows migrate thousands of miles to Argentina each year. In recent years, fewer swallows have been nesting at the mission itself, partly because of the restoration of the old stone church."
+    },
+    {
+      "name": "Slap Your Annoying Coworker Day (Unofficial Joke Observance)",
+      "description": "A tongue-in-cheek office holiday where you imagine sending annoying coworkers a good-natured wake-up call. Everyone is encouraged to leave the actual slapping to the imagination and keep HR happy.",
+      "origin": "A satirical observance that spread through internet holiday calendars and office humor. It is not an official holiday, and is generally celebrated by sharing jokes about workplace pet peeves.",
+      "category": "Humor / Workplace",
+      "emoji": "😤",
+      "funFact": "Surveys regularly show that loud chewing, reply-all emails, and microwaved fish top the list of office pet peeves."
     }
   ]
 }

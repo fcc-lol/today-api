@@ -2,59 +2,60 @@
   "date": "November 2",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular autumn-blooming flowers that brighten gardens with their vibrant colors. They are widely cultivated and signify longevity and rejuvenation in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially East Asia and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It is widely cultivated in gardens and as a cut flower, and it thrives in cool fall temperatures when many other plants have finished flowering.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide, especially East Asia, Europe, and North America",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in China as a flowering herb as early as the 15th century BC."
+      "funFact": "In Japan, the chrysanthemum is the emblem of the Imperial family, and the Chrysanthemum Throne is named after it. In many European countries, chrysanthemums are placed on graves around November 1 and 2 for All Saints' and All Souls' Day."
     },
     {
-      "name": "Dianella tasmanica",
-      "commonName": "Tasman Flax-lily",
-      "description": "A native Australian perennial with starry blue-purple flowers that bloom in late spring through early summer into November in milder climates. It produces attractive berries following the bloom.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia",
+      "name": "Tagetes erecta",
+      "commonName": "Mexican Marigold (Cempasúchil)",
+      "description": "A tall, bushy annual with pungent, ferny foliage and large pom-pom flowers. It is the iconic flower of Día de Muertos celebrations, when it is used to decorate altars and cemeteries across Mexico.",
+      "bloomingSeason": "Late summer to first frost; peak bloom around late October to early November in central Mexico",
+      "location": "Native to Mexico and Central America; cultivated worldwide",
       "colors": [
-        "blue",
-        "purple"
+        "Orange",
+        "Golden yellow"
+      ],
+      "emoji": "🏵️",
+      "funFact": "According to tradition, the Aztec-descended custom holds that the bright color and strong scent of cempasúchil guide the spirits of the dead back to the world of the living along petal-strewn paths."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular flowering tree that covers itself in clusters of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Streets and parks turn purple during its bloom, and fallen blossoms carpet the ground.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in Australia, South Africa, Argentina, and Brazil",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "🌸",
-      "funFact": "The blue berries of the Dianella tasmanica are edible but bland, historically used by Indigenous Australians."
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas earned the city the nickname 'Jacaranda City,' and in parts of Australia the bloom traditionally coincided with university exam season."
     },
     {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "An iconic evergreen tree with large, fragrant white flowers that bloom sporadically from late spring to early fall, sometimes blooming as late as November in warmer southern states of the USA.",
-      "bloomingSeason": "May to November",
-      "location": "Southeastern United States",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in autumn, earlier than the common camellia. It produces delicate, slightly fragrant single or semi-double flowers with prominent golden stamens, and it is a valuable nectar source for late-season pollinators.",
+      "bloomingSeason": "Mid-autumn to early winter (October to December)",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
       "colors": [
-        "white"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌺",
-      "funFact": "The southern magnolia's flowers can be up to 12 inches in diameter and are a favorite food source for beetles."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A widely cultivated ornamental shrub producing rose-like flowers in late autumn and early winter, especially in mild climates. Blooms vary from white to pink and red.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated globally in temperate zones",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers inspired the design of the famous Camellia handbag by Chanel."
+      "funFact": "Sasanqua leaves are related to those of the tea plant, Camellia sinensis, and in Japan the seeds of sasanqua are pressed for camellia oil, used in cooking and hair care."
     }
   ]
 }

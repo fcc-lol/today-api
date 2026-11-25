@@ -2,63 +2,61 @@
   "date": "November 19",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum (Mum)",
-      "description": "Chrysanthemums are popular garden plants that bloom in late autumn, often used to brighten up gardens with their abundant, colorful flowers. They have a wide range of flower forms and colors.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (cultivated)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A perennial with dense, layered flower heads in many forms, from pompons to spiders. It is one of the last garden flowers to bloom in the Northern Hemisphere and tolerates light frosts. Its short-day flowering response ties its bloom time to lengthening nights.",
+      "bloomingSeason": "Autumn, peaking October to November",
+      "location": "Cultivated worldwide, especially East Asia, Europe, and North America",
       "colors": [
         "yellow",
         "white",
-        "red",
+        "bronze",
         "purple",
-        "orange"
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures and are the official flower of the city of Chicago."
+      "funFact": "In Japan the chrysanthemum is the emblem of the Imperial family, and the Chrysanthemum Throne is named after it. Chrysanthemums are also traditionally used to honor the dead in parts of Europe, where they are placed on graves around All Saints' Day."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy leaves and large, showy flowers that bloom in late autumn to winter. Widely cultivated in gardens, it thrives in mild climates.",
-      "bloomingSeason": "October to March",
-      "location": "Eastern Asia, cultivated in temperate gardens globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large deciduous to semi-evergreen tree with fern-like leaves that bursts into panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere, it blooms in late spring, covering streets and parks with purple carpets of fallen blossoms.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa, Australia, and Argentina",
       "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellias were highly prized by Victorian gardeners and are the flower featured in Alexandre Dumas' novel 'The Lady of the Camellias'."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that blooms profusely with funnel-shaped flowers mostly in warm climates, often extending into late autumn in mild areas.",
-      "bloomingSeason": "May to November",
-      "location": "Mediterranean region, subtropical and tropical areas",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the oleander plant are toxic, yet it remains a popular ornamental plant in warm climate gardens."
+      "funFact": "In Pretoria, South Africa, which is nicknamed the Jacaranda City, there are tens of thousands of jacaranda trees. Students traditionally say that if a jacaranda blossom falls on your head, you will pass your exams."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark leaves and fragrant, delicate flowers that open in late autumn when most other plants have finished blooming. It is more sun tolerant and earlier flowering than the common camellia, and its petals tend to shatter and drop.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, and Australia",
+      "colors": [
+        "white",
+        "pink",
+        "rose-red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Oil pressed from sasanqua seeds is used in Japan for cooking, hair care, and polishing traditional tools and blades."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "The national flower of South Africa, this striking plant features large, unique flower heads composed of many small flowers surrounded by colorful bracts, blooming during the late spring to early summer but, in its native habitat, can bloom intermittently into late autumn.",
-      "bloomingSeason": "September to November",
-      "location": "South Africa (fynbos biome)",
+      "description": "A woody shrub bearing the largest flower head in the Protea genus, with a bowl of silky bracts around a center of tiny true flowers. It thrives in the nutrient-poor soils of the fynbos region and is pollinated by beetles, and also by birds and small mammals.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowering from September to January",
+      "location": "Western and Southern Cape, South Africa",
       "colors": [
         "pink",
-        "red",
-        "white"
+        "cream",
+        "crimson"
       ],
-      "emoji": "🪷",
-      "funFact": "The King Protea has one of the largest flower heads of any plant species in the world, and its name derives from the Greek god Proteus, who could change his form at will."
+      "emoji": "🌷",
+      "funFact": "The king protea is the national flower of South Africa, and the genus is named after Proteus, the Greek god who could change his shape."
     }
   ]
 }

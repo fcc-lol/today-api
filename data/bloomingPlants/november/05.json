@@ -2,58 +2,63 @@
   "date": "November 5",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers well-known for their bright, daisy-like blooms that come in a variety of colors including yellow, red, white, and purple. They are often associated with autumn and are widely cultivated in temperate regions.",
-      "bloomingSeason": "September to November",
-      "location": "Northern Hemisphere temperate regions, including North America, Europe, and East Asia",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompons, spiders, and decorative types. It thrives in cool autumn temperatures and is a staple of fall gardens and floral displays.",
+      "bloomingSeason": "Mid-autumn to early winter in the Northern Hemisphere",
+      "location": "Cultivated worldwide; native to East Asia, with major cultivation in China, Japan, and Europe",
       "colors": [
         "yellow",
-        "red",
         "white",
-        "purple"
+        "bronze",
+        "purple",
+        "red",
+        "pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are considered the flower of autumn in many cultures and symbolize longevity and rejuvenation in Japan."
+      "funFact": "Chrysanthemums are the national flower of Japan, and the annual Chrysanthemum Festival there celebrates the flower's importance, with the Imperial seal featuring a stylized 16-petal chrysanthemum."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "Camellias are evergreen shrubs known for their glossy leaves and large, elegant flowers that bloom in late autumn to winter. Their flowers can be single or double and come in shades of white, pink, and red.",
-      "bloomingSeason": "October to January",
-      "location": "East Asia (native), widely cultivated in southern US, Europe, and Australasia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A large, graceful tree that bursts into clouds of trumpet-shaped lavender-blue flowers just before the leaves emerge. In full bloom, the tree and the carpet of fallen petals beneath it create a striking sight along streets and in parks.",
+      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney, Brisbane), Argentina, and Brazil",
+      "colors": [
+        "lavender",
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because it has tens of thousands of jacaranda trees, and local folklore says a flower falling on your head brings good luck."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that blooms in autumn, earlier than its relative Camellia japonica. It produces delicate, slightly fragrant single or semi-double flowers with prominent golden stamens, and it attracts late-season pollinators such as bees.",
+      "bloomingSeason": "Autumn to early winter",
+      "location": "Native to Japan; grown in the southeastern United States, Europe, Japan, and temperate regions of Australia",
       "colors": [
         "white",
         "pink",
+        "rose",
         "red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellias are the source of the tea plant (Camellia sinensis), but Camellia japonica itself is prized for ornamental purposes rather than tea production."
-    },
-    {
-      "name": "Wattle (Acacia pycnantha)",
-      "commonName": "Golden Wattle",
-      "description": "The golden wattle is an Australian native tree or shrub that produces bright yellow, fragrant, fluffy flowers arranged in spherical clusters. It blooms in late winter and spring, often starting to bloom in early November in parts of Australia.",
-      "bloomingSeason": "September to November",
-      "location": "Australia, especially southeastern regions",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "The golden wattle is Australia's national floral emblem and symbolizes unity and resilience."
-    },
-    {
-      "name": "Magnolia champaca",
-      "commonName": "Champak",
-      "description": "Champak is a tropical tree known for its highly fragrant yellow to orange flowers. It blooms year-round in suitable climates, with strong flowering peaks often occurring around late autumn and early winter in tropical Asia.",
-      "bloomingSeason": "Year-round, peak flowering in autumn to winter",
-      "location": "South Asia and Southeast Asia tropical regions",
-      "colors": [
-        "yellow",
-        "orange"
-      ],
       "emoji": "🌸",
-      "funFact": "Champak flowers are used in perfumery and religious offerings due to their intense, sweet fragrance."
+      "funFact": "Sasanqua camellia petals fall individually, whereas many Camellia japonica flowers drop whole, and the species is related to the tea plant, Camellia sinensis."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily",
+      "description": "A bulbous perennial from South Africa that sends up leafless stalks topped with spidery, sparkling pink flowers with wavy petals. It brings a vivid splash of color to gardens when most other perennials are fading.",
+      "bloomingSeason": "Autumn, typically October to November in the Northern Hemisphere",
+      "location": "Native to the Eastern Cape and Drakensberg region of South Africa; naturalized in gardens in the UK, Europe, and the Pacific Northwest",
+      "colors": [
+        "pink",
+        "deep rose"
+      ],
+      "emoji": "🌺",
+      "funFact": "The petals have a crystalline, glittering surface that sparkles in sunlight, which is why related Nerine species are often called 'Guernsey lilies' or 'diamond lilies.'"
     }
   ]
 }

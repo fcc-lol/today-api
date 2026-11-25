@@ -2,63 +2,63 @@
   "date": "October 28",
   "plants": [
     {
-      "name": "Chrysanthemum indicum",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their variety of vibrant colors and are symbols of autumn in many cultures. They bloom profusely in cooler autumn weather.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial cultivated for thousands of years, producing dense, layered flower heads in a wide range of forms from pompons to spiders. It is a mainstay of autumn gardens across the Northern Hemisphere and thrives in the cool temperatures of late October.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "East Asia origin; widely cultivated in temperate gardens in North America, Europe, Japan, and China",
       "colors": [
         "yellow",
-        "red",
         "white",
+        "bronze",
         "purple",
-        "orange"
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years and are often associated with longevity and rejuvenation."
+      "funFact": "Chrysanthemums are the official flower of November birthdays and are the emblem of the Japanese Imperial family, whose throne is called the Chrysanthemum Throne."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is an evergreen shrub thriving in warm climates that produces clusters of fragrant flowers. Although most varieties bloom from spring to fall, some can continue blooming into late autumn in mild climates.",
-      "bloomingSeason": "May to October (sometimes into November in mild climates)",
-      "location": "Mediterranean regions, southern United States, and subtropical zones",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A tall, semi-deciduous tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. Spring in the Southern Hemisphere brings its peak bloom, carpeting streets and parks with fallen blossoms.",
+      "bloomingSeason": "Late spring (October to November in the Southern Hemisphere)",
+      "location": "Native to South America; planted in Australia, South Africa (Pretoria), Argentina, and New Zealand's northern regions",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
+        "lavender",
+        "blue",
+        "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "All parts of the Oleander plant are highly toxic if ingested, yet it remains a popular ornamental plant in warm regions due to its hardiness and showy flowers."
+      "emoji": "🌳",
+      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
     },
     {
-      "name": "Salvia greggii",
-      "commonName": "Autumn Sage",
-      "description": "Autumn sage is a drought-tolerant perennial shrub native to Texas and northern Mexico, known for attracting hummingbirds with its tubular, brightly colored flowers that bloom from late summer into fall.",
-      "bloomingSeason": "July to November",
-      "location": "Southwestern United States and northern Mexico",
+      "name": "Callicarpa americana",
+      "commonName": "American Beautyberry",
+      "description": "A deciduous shrub of the southeastern United States whose small pinkish flowers appear in summer, but in late October it is most noted for its clusters of vivid purple berries. Some related species and late-flowering garden plants share autumn interest with it, making it a fixture in fall landscapes.",
+      "bloomingSeason": "Summer flowers, with fruit display peaking in autumn",
+      "location": "Southeastern United States, Mexico, and the Caribbean",
       "colors": [
-        "red",
+        "magenta",
         "purple",
+        "pink"
+      ],
+      "emoji": "🍇",
+      "funFact": "Crushed beautyberry leaves have traditionally been rubbed on skin as a mosquito repellent, and research has found compounds in them that repel insects."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that opens fragrant, delicate flowers in autumn, earlier than the more familiar Camellia japonica. Its blooms attract late-season pollinators and brighten gardens when most other plants are fading.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to Japan; grown in the southeastern United States, Japan, the Mediterranean, and Australia",
+      "colors": [
+        "white",
         "pink",
-        "white"
+        "rose",
+        "red"
       ],
       "emoji": "🌸",
-      "funFact": "Autumn sage's long blooming season makes it an excellent nectar source for pollinators late in the year."
-    },
-    {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen",
-      "description": "This species of cyclamen is a hardy, tuberous plant that flowers in autumn, with nodding pink or white flowers appearing before the leaves fully develop.",
-      "bloomingSeason": "September to November",
-      "location": "Mediterranean woodlands and rocky areas",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "💮",
-      "funFact": "The ivy-shaped leaves of Cyclamen hederifolium have beautiful marbled patterns, making the foliage as attractive as the flowers."
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
     }
   ]
 }

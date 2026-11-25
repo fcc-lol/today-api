@@ -2,58 +2,74 @@
   "date": "October 10",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their dense, colorful blooms that signify autumn. They have a wide range of flower shapes and colors and are often used in floral arrangements and autumn decorations.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially East Asia, Europe, and North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that sends up crocus-like flowers in autumn, well after its leaves have died back. The goblet-shaped blooms emerge directly from the ground without foliage, and strap-like leaves appear the following spring. All parts are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to Europe, in damp meadows and woodland edges; widely cultivated in temperate gardens of the Northern Hemisphere",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are symbols of longevity and rejuvenation in many Asian cultures and are often associated with the autumn festival season."
-    },
-    {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "This hardy wildflower produces bright yellow daisy-like flowers with dark brown centers. It thrives in prairies and open woods and is popular in gardens for late summer to fall color.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and central North America",
-      "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are the state flower of Maryland and are loved by pollinators like bees and butterflies."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Guernsey Lily",
-      "description": "A bulbous perennial native to South Africa, Nerine bowdenii produces clusters of delicate, lily-like pink flowers on leafless stems, blooming in autumn.",
-      "bloomingSeason": "September to November",
-      "location": "South Africa; widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "pink"
+        "Pale pink",
+        "Lilac",
+        "Purple"
       ],
       "emoji": "🌸",
-      "funFact": "Despite the common name, the Guernsey Lily is not a true lily but belongs to the Amaryllis family."
+      "funFact": "It contains colchicine, a compound used in medicine to treat gout and by plant breeders to induce chromosome doubling in crops."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub beloved for its glossy leaves and rose-like flowers that bloom in late fall through early spring, adding color during cooler months.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated worldwide in mild climates",
+      "name": "Aster novae-angliae (Symphyotrichum novae-angliae)",
+      "commonName": "New England Aster",
+      "description": "A tall, clump-forming perennial with hairy stems and dense clusters of daisy-like flowers with yellow centers. It thrives in moist meadows and is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America in prairies, meadows and roadsides; cultivated in gardens worldwide",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica was historically grown in Japanese tea gardens, and its petals were sometimes used as a tea flavoring."
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely on New England asters for fuel during their autumn migration to Mexico."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. In spring the whole canopy turns violet and carpets the ground beneath with fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina and New Zealand's northern regions",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 trees that bloom every October."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A popular perennial with many flower forms, from daisy-like to pompom and spider types. Short days trigger bud formation, making it a classic autumn bloomer in gardens and in cut-flower production.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Originated in China and Japan; grown in gardens across temperate regions of Asia, Europe and North America",
+      "colors": [
+        "Yellow",
+        "Bronze",
+        "White",
+        "Red",
+        "Purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the imperial emblem of Japan."
+    },
+    {
+      "name": "Sternbergia lutea",
+      "commonName": "Winter Daffodil (Autumn Daffodil)",
+      "description": "A bulbous perennial that produces bright, crocus-like golden flowers in autumn alongside its strap-shaped leaves. It thrives in sunny, dry, rocky Mediterranean habitats.",
+      "bloomingSeason": "Autumn (September to November)",
+      "location": "Mediterranean region through Turkey and the Middle East to Iran; grown in rock gardens elsewhere",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌻",
+      "funFact": "It is often thought to be the biblical 'lily of the field' mentioned in the Gospels."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "September 21",
   "holidays": [
     {
-      "name": "International Day of Peace",
-      "description": "A day dedicated to promoting peace among nations and peoples, encouraging ceasefires and non-violence worldwide.",
-      "origin": "Established by the United Nations in 1981 to promote peace and end violence internationally.",
+      "name": "International Day of Peace (World Peace Day)",
+      "description": "A global day of ceasefire and non-violence when the world is invited to put down the pointy things and the grumpy tweets. Schools, communities, and even a few brave families at Thanksgiving-level dinners observe it with moments of silence, peace walks, and bell ringing.",
+      "origin": "Established by the United Nations General Assembly in 1981 and first observed in 1982 on the opening day of each regular session. In 2001 the Assembly designated September 21 as a fixed day of global ceasefire and non-violence.",
       "category": "Awareness Day",
-      "emoji": "☮️",
-      "funFact": "On this day, many people release doves or participate in peace ceremonies, and some airports even halt all activities for a minute of silence."
+      "emoji": "🕊️",
+      "funFact": "The UN Peace Bell, cast from coins donated by children from dozens of countries, is rung at UN headquarters every year on this day."
+    },
+    {
+      "name": "World Alzheimer's Day",
+      "description": "A day dedicated to raising awareness about Alzheimer's disease and dementia, challenging stigma, and encouraging people to hug their grandparents and ask for their stories again.",
+      "origin": "Launched in 2012 by Alzheimer's Disease International as part of World Alzheimer's Month, which was first marked in September 2012 on the organization's 20th anniversary.",
+      "category": "Awareness Day",
+      "emoji": "🧠",
+      "funFact": "Alzheimer's disease is named after German psychiatrist Alois Alzheimer, who described the first case in 1906 in a patient named Auguste Deter."
     },
     {
       "name": "Miniature Golf Day",
-      "description": "Celebrate the quirky fun of miniature golf, a whimsical twist on regular golf with creative obstacle courses!",
-      "origin": "Began as a popular unofficial day among mini-golf enthusiasts to celebrate putting and silly courses.",
-      "category": "Fun/Food",
-      "emoji": "⛳️",
-      "funFact": "The first miniature golf course was created in 1916 and was known as 'Tom Thumb Golf'—after the famous fairy tale character!"
+      "description": "A day to swing a putter at windmills, clown mouths, and tiny castles without any pro golfer shame. Bonus points for arguing over whether your hole-in-one off the wall counts.",
+      "origin": "This unofficial observance celebrates the quirky American pastime of mini golf, which boomed in the 1920s and 1930s. The earliest modern mini golf concepts date to Garret Gillespie in Tennessee, who built the Tom Thumb course in 1927.",
+      "category": "Sports & Recreation",
+      "emoji": "⛳",
+      "funFact": "During the Great Depression, there were reportedly tens of thousands of miniature golf courses in the United States, some built on rooftops in New York City."
     },
     {
-      "name": "World Rhino Day",
-      "description": "An awareness day focused on protecting rhinos and their habitats from poaching and extinction.",
-      "origin": "Started in 2010 by the World Wildlife Fund to highlight rhino conservation efforts globally.",
-      "category": "Awareness Day",
-      "emoji": "🦏",
-      "funFact": "Only five species of rhinos exist today, and they are critically endangered due to poaching for their horns."
+      "name": "Pecan Cookie Day",
+      "description": "A buttery, nutty excuse to eat cookies for breakfast, lunch, and dinner. Shortbread-style pecan sandies and chewy pecan cookies are the stars of the day.",
+      "origin": "An unofficial food holiday created by cookie lovers and food-calendar enthusiasts to celebrate one of the South's favorite nuts in cookie form.",
+      "category": "Food Day",
+      "emoji": "🍪",
+      "funFact": "The pecan is the only major tree nut native to North America, and its name comes from an Algonquian word meaning a nut requiring a stone to crack."
     },
     {
-      "name": "Proud To Be Polish Day",
-      "description": "A celebration of Polish heritage, culture, and pride by people of Polish descent around the world.",
-      "origin": "An unofficial day embraced by Polish communities worldwide to honor their roots and traditions.",
-      "category": "Cultural",
-      "emoji": "🇵🇱",
-      "funFact": "Poland is home to the world’s biggest castle, Malbork Castle, built entirely of bricks and dating back to the 13th century!"
+      "name": "Hobbit Day",
+      "description": "A celebration of Bilbo and Frodo Baggins' shared birthday, with second breakfasts, bare-foot strolls, pipe-weed-free parties, and marathon viewings of Middle-earth movies.",
+      "origin": "The date comes from J.R.R. Tolkien's Middle-earth lore, where both Bilbo and Frodo Baggins were born on September 22. The American Tolkien Society promotes Hobbit Day and Tolkien Week around this date, and some fans celebrate starting on September 21 because The Hobbit was first published on September 21, 1937.",
+      "category": "Pop Culture",
+      "emoji": "🧙",
+      "funFact": "The Hobbit was first published on September 21, 1937, and its first print run of 1,500 copies sold out by December."
     }
   ]
 }

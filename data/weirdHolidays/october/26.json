@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Pumpkin Day",
-      "description": "A day to celebrate the versatile and beloved pumpkin, from pies to jack-o'-lanterns and everything in between.",
-      "origin": "Pumpkins have been a staple in autumn celebrations for centuries, and this day was created to honor their iconic status in fall culture.",
-      "category": "Food/Seasonal",
+      "description": "A day devoted to celebrating the big orange gourd beyond the pie: carving, roasting seeds, pumpkin lattes, and general squash-based merriment as Halloween creeps closer.",
+      "origin": "An unofficial food holiday that has been observed on October 26 in the United States, riding the wave of pumpkin enthusiasm in the weeks before Halloween. Pumpkins themselves have been cultivated in North America for thousands of years.",
+      "category": "Food Day",
       "emoji": "🎃",
-      "funFact": "Did you know the world’s heaviest pumpkin ever recorded weighed over 2,600 pounds? That’s enough pumpkin to make a mountain of pies!"
+      "funFact": "Pumpkins are technically fruits, and the world record for the heaviest pumpkin is over 2,700 pounds, roughly the weight of a small car."
+    },
+    {
+      "name": "Mule Day",
+      "description": "A celebration of the stubborn, hardworking, and underappreciated mule, the hybrid offspring of a male donkey and a female horse. Mule fans salute their loyalty, strength, and legendary attitude.",
+      "origin": "Observed informally in late October by agricultural communities and mule lovers, honoring the animal's long history as a workhorse (workmule) in farming, mining, and military transport.",
+      "category": "Animal Appreciation",
+      "emoji": "🫏",
+      "funFact": "Mules are almost always sterile, but they are famously smart, and many farmers swear they are more cautious and less likely to injure themselves than horses."
+    },
+    {
+      "name": "National Day of the Deployed",
+      "description": "A day to recognize and thank military service members who are away from home on deployment, and the families who hold down the fort while they are gone.",
+      "origin": "Established as an awareness observance in the United States, it is marked on October 26 to encourage people to send letters, care packages, and messages of gratitude to deployed personnel.",
+      "category": "Awareness Day",
+      "emoji": "🪖",
+      "funFact": "Care packages for troops often include surprisingly practical items like socks, beef jerky, and baby wipes, which are consistently among the most requested."
+    },
+    {
+      "name": "Howl at the Moon Night (Pumpkin Howl Edition)",
+      "description": "An unofficial night-time observance where people step outside to howl at the sky, embracing their inner wolf in the spooky season build-up. No singing talent is required.",
+      "origin": "Loosely connected to the folk tradition of howling at the moon, popularized in modern times by Halloween revelers and lighthearted community events that encourage silliness under the autumn night sky.",
+      "category": "Pop Culture / Silly Observance",
+      "emoji": "🐺",
+      "funFact": "Wolves do not actually howl at the moon; they howl to communicate with their pack, and the moon just happens to be up when they do it."
     },
     {
       "name": "Intersex Awareness Day",
-      "description": "A day dedicated to raising awareness and promoting human rights for intersex individuals, people born with physical sex characteristics that don’t fit typical binary notions of male or female bodies.",
-      "origin": "Established by intersex activists to increase visibility and combat stigma, it’s observed annually on October 26.",
-      "category": "Awareness/Social Justice",
-      "emoji": "⚧️",
-      "funFact": "Intersex traits are more common than many think; around 1 in 2,000 babies are born with noticeable intersex characteristics!"
-    },
-    {
-      "name": "Silly Sayings Day",
-      "description": "A quirky celebration encouraging people to use, share, and laugh at silly, strange, or old-fashioned sayings and idioms.",
-      "origin": "An unofficial holiday that grew popular online as a way to brighten conversations and embrace playful language.",
-      "category": "Pop Culture/Linguistics",
-      "emoji": "😜",
-      "funFact": "Some silly sayings like 'mad as a hatter' come from bizarre historical practices — hat makers once used mercury, which made them actually go a bit mad!"
-    },
-    {
-      "name": "National Frankenstein Day",
-      "description": "Honoring Mary Shelley’s groundbreaking gothic novel 'Frankenstein,' a cornerstone of horror literature and pop culture.",
-      "origin": "October 26 is the birthday of Mary Shelley, so fans celebrate her work and its enduring creepy charm on this day.",
-      "category": "Literature/Pop Culture",
-      "emoji": "🧟‍♂️",
-      "funFact": "Mary Shelley wrote 'Frankenstein' when she was just 18 years old during a ghost-story contest with friends in 1816."
+      "description": "An international day of awareness that highlights the human rights issues faced by intersex people and educates others about natural variations in sex characteristics.",
+      "origin": "Marks the anniversary of the first public demonstration by intersex activists in North America, held on October 26, 1996, in Boston outside the American Academy of Pediatrics conference.",
+      "category": "Awareness Day",
+      "emoji": "💛",
+      "funFact": "The intersex flag uses a bold yellow background with a purple circle, deliberately chosen to avoid the traditional gendered colors of pink and blue."
     }
   ]
 }

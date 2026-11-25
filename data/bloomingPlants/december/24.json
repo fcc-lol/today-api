@@ -2,56 +2,62 @@
   "date": "December 24",
   "plants": [
     {
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with showy colored bracts surrounding small yellow flower clusters called cyathia. In its native Mexico it grows into a shrub up to 4 meters tall, and in frost-free regions it is a common landscape plant. Elsewhere it is grown as a potted holiday plant.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; cultivated worldwide",
+      "colors": [
+        "red",
+        "white",
+        "pink",
+        "cream"
+      ],
+      "emoji": "🎄",
+      "funFact": "The colorful 'petals' are actually modified leaves called bracts, and the plant needs long nights of about 12 hours of darkness for several weeks to develop its color."
+    },
+    {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial flowering plant native to mountainous regions of Europe, the Christmas Rose blooms in winter, often around Christmas time. It produces beautiful white or pinkish flowers that brighten up gardens during the cold months.",
-      "bloomingSeason": "December to February",
-      "location": "Europe, particularly Alpine regions",
+      "description": "An evergreen perennial with nodding, cup-shaped white flowers with golden-yellow stamens that fade to pink as they age. It thrives in partial shade and cool, humus-rich soil, and blooms when little else does in the garden.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Mountain woodlands of central and southern Europe, including the Alps and northern Apennines; cultivated in temperate gardens worldwide",
       "colors": [
         "white",
-        "pink"
+        "pink",
+        "green"
       ],
       "emoji": "🌹",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose but is named for its rose-like flowers blooming in winter."
+      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are poisonous."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Flamboyant Tree (Royal Poinciana)",
+      "description": "A spreading tree with a wide umbrella-shaped canopy and fern-like leaves. In the Southern Hemisphere summer it becomes covered in clusters of vivid orange-red flowers, each with a distinctive spotted upper petal. It is widely planted as a street and shade tree in the tropics and subtropics.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (November to January); May to July in the Northern Hemisphere tropics",
+      "location": "Native to Madagascar; widely cultivated in tropical regions including northern Australia, Brazil, and southern Africa",
+      "colors": [
+        "scarlet",
+        "orange-red",
+        "yellow"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is endangered in its native Madagascar, yet it is one of the most widely planted ornamental trees in the world."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its large, rose-like flowers which bloom in late autumn through winter. It thrives in mild temperate regions and is widely cultivated in gardens for its ornamental value.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated globally in mild climates",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers. It prospers in mild, humid climates and blooms through the cool season, brightening winter gardens when most plants are dormant.",
+      "bloomingSeason": "Late autumn to early spring (December to April)",
+      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Europe, Australia, and New Zealand",
       "colors": [
         "red",
         "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellias were highly prized in ancient China and Japan for tea and ornamental uses; the tea plant Camellia sinensis is a close relative."
-    },
-    {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka or Tea Tree",
-      "description": "A shrub or small tree native to New Zealand and southeast Australia, known for its small, attractive flowers and medicinal properties. Manuka flowers mostly bloom from late spring to early summer in the Southern Hemisphere, which corresponds with December.",
-      "bloomingSeason": "November to January",
-      "location": "New Zealand and southeast Australia",
-      "colors": [
         "white",
-        "pink"
+        "variegated"
       ],
       "emoji": "🌸",
-      "funFact": "Manuka honey, produced from the nectar of this plant, is famous for its unique antibacterial properties."
-    },
-    {
-      "name": "Acacia baileyana",
-      "commonName": "Cootamundra Wattle",
-      "description": "A fast-growing ornamental shrub native to Australia that blooms profusely with bright yellow spherical flower heads in late winter to early spring, often starting in December in mild climates.",
-      "bloomingSeason": "December to September (early blooms in December)",
-      "location": "Australia, also cultivated in warm temperate regions worldwide",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "This wattle species is often used in floral arrangements and is the emblem of several Australian communities."
+      "funFact": "Camellia japonica is the official flower of Alabama, and there are thousands of cultivars; in Japan it is known as tsubaki and has been celebrated for centuries."
     }
   ]
 }

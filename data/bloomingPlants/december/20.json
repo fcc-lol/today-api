@@ -2,55 +2,64 @@
   "date": "December 20",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is a hardy evergreen shrub known for its abundant clusters of fragrant flowers. It thrives in warm Mediterranean climates and blooms profusely during mild winters, including December. The flowers can be pink, white, or red and attract nectar-feeding insects.",
-      "bloomingSeason": "May to December",
-      "location": "Mediterranean Basin, Southern US, California",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with vivid bracts that are often mistaken for petals, surrounding small yellow true flowers called cyathia. In its native range it can grow up to 4 meters tall, and it blooms in response to the long nights of late autumn and winter.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
+      "location": "Native to southern Mexico and Central America; widely cultivated worldwide as a holiday plant",
       "colors": [
+        "red",
+        "white",
+        "pink",
+        "cream"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias are short-day plants that need at least 12 hours of uninterrupted darkness for around 8 weeks to develop their colored bracts. The Aztecs used the plant to make a reddish dye and called it cuetlaxochitl."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. In mild climates it blooms through the cool months, brightening gardens when little else is in flower.",
+      "bloomingSeason": "Late autumn through early spring (December to March, with early cultivars flowering in December)",
+      "location": "Native to Japan, Korea and eastern China; grown in the southeastern United States, western Europe, Australia and New Zealand",
+      "colors": [
+        "red",
         "pink",
         "white",
-        "red"
+        "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "All parts of the oleander plant are poisonous if ingested, but it’s still widely cultivated for ornamental purposes due to its resilience and striking blooms."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Camellia oil has been used in Japan for centuries as a hair and skin treatment and for cooking."
     },
     {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka or Tea Tree",
-      "description": "A native New Zealand shrub that produces small, white to pink flowers. Manuka blooms mostly in late spring to early summer, but in New Zealand’s mild coastal areas, some plants can bloom sporadically even in December. The flowers are important for Manuka honey production.",
-      "bloomingSeason": "Spring to summer (with some flowering into early summer months)",
-      "location": "New Zealand, Southeastern Australia",
+      "name": "Hippeastrum puniceum",
+      "commonName": "Amaryllis (Barbados Lily)",
+      "description": "A bulbous perennial with large trumpet-shaped flowers borne on tall, sturdy stems. In the Southern Hemisphere, garden amaryllis bloom naturally in early summer, and forced bulbs in the north bloom indoors in winter.",
+      "bloomingSeason": "Early summer in the Southern Hemisphere (November to January); forced indoors in the Northern Hemisphere in winter",
+      "location": "Native to tropical Americas and the Caribbean; cultivated worldwide",
       "colors": [
+        "red",
+        "orange",
         "white",
-        "pink"
+        "pink",
+        "striped"
       ],
       "emoji": "🌸",
-      "funFact": "Manuka honey, produced from the nectar of Manuka flowers, is prized worldwide for its antibacterial properties."
+      "funFact": "A single amaryllis bulb can send up several flower stalks, and some large bulbs can produce flowers up to 25 cm across. Many people mistakenly call it amaryllis, but the true Amaryllis genus is a separate South African group."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "This striking tree is known for its vivid red, spiky flowers which bloom in late spring to early winter in suitable climates, often extending into December in subtropical Southern Hemisphere regions.",
-      "bloomingSeason": "Spring to early winter (up to December)",
-      "location": "South America (Argentina, Uruguay), subtropical areas worldwide",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "A clump-forming perennial with strap-like leaves and rounded clusters of trumpet-shaped blue flowers on tall stems. It thrives in the warm summer weather of the Southern Hemisphere in December.",
+      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
+      "location": "Native to South Africa; widely planted in Australia, New Zealand, and coastal California and the Mediterranean",
       "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The flowers are rich in nectar and attract hummingbirds and butterflies, playing a crucial role in local ecosystems."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial plant native to mountainous regions of Europe that famously blooms in midwinter, including December. Its white flowers with a delicate fragrance bloom even in frost or snow, symbolizing hope and endurance during winter.",
-      "bloomingSeason": "December to early spring",
-      "location": "Europe, particularly the Alps",
-      "colors": [
+        "blue",
+        "violet",
         "white"
       ],
-      "emoji": "🌼",
-      "funFact": "Despite the name, Christmas rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+      "emoji": "💜",
+      "funFact": "Despite the common name, agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower), and it has become invasive in parts of Australia and New Zealand."
     }
   ]
 }

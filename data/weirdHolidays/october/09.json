@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Leif Erikson Day",
-      "description": "Celebrates the Norse explorer believed to be the first European to set foot in North America, predating Columbus by nearly 500 years.",
-      "origin": "Established by the U.S. Congress and first officially observed in 1964. It honors Leif Erikson’s adventurous spirit.",
-      "category": "Historical / Cultural",
-      "emoji": "🛶",
-      "funFact": "Leif Erikson’s expedition reached an area called Vinland, which many believe to be coastal North America, around the year 1000 AD."
+      "description": "A day honoring the Norse explorer who is said to have set foot in North America about 500 years before Columbus. Expect Viking helmets (horns optional and historically inaccurate), herring snacks, and a lot of 'we got here first' energy.",
+      "origin": "Congress authorized the president to proclaim the day in 1964, after lobbying by Scandinavian-American communities. The date is tied to the October 9, 1825 arrival of the ship Restauration, which carried the first organized group of Norwegian immigrants to the United States.",
+      "category": "Historical Observance",
+      "emoji": "⚓",
+      "funFact": "Vikings almost certainly never wore horned helmets. That image was popularized by 19th-century costume designs for Wagner's operas."
     },
     {
-      "name": "National Moldy Cheese Day",
-      "description": "An ode to the wonderfully pungent world of moldy cheeses like blue cheese, Roquefort, and Camembert.",
-      "origin": "An unofficial foodie observance to encourage cheese lovers to embrace the funky and flavorful molds that make some cheeses spectacular.",
-      "category": "Foodie / Fun",
+      "name": "World Post Day",
+      "description": "A global celebration of the humble postal service, honoring everyone who gets letters, parcels, and surprise catalogs to your door. It's a great excuse to write an actual handwritten letter to a friend.",
+      "origin": "It was declared by the Universal Postal Union Congress in Tokyo in 1969 to mark the anniversary of the UPU's founding on October 9, 1874, in Bern, Switzerland.",
+      "category": "International Observance",
+      "emoji": "✉️",
+      "funFact": "The Universal Postal Union is one of the oldest international organizations in the world, and it lets you mail a letter to nearly anywhere on Earth because its members agreed to treat the world as a single postal territory."
+    },
+    {
+      "name": "Moldy Cheese Day",
+      "description": "A day dedicated to celebrating cheeses that are supposed to be moldy, like blue cheese, Roquefort, and Gorgonzola. It's the one day you can proudly eat fuzzy dairy and not get side-eye from your fridge.",
+      "origin": "This is an unofficial food holiday that comes from the American food-holiday calendar, created to celebrate the tradition of cheesemaking that depends on beneficial molds such as Penicillium roqueforti.",
+      "category": "Food Holiday",
       "emoji": "🧀",
-      "funFact": "Blue cheese owes its distinctive veins to Penicillium roqueforti mold, which also contributed to the development of penicillin!"
+      "funFact": "Roquefort is aged in the natural limestone caves of Combalou in southern France, and the mold used to make it was traditionally grown on loaves of rye bread left in the caves."
     },
     {
-      "name": "Fire Pup Day",
-      "description": "A quirky celebration honoring the heroic fire dogs who assist firefighters in saving lives and property.",
-      "origin": "Inspired by the devoted canines that have been a part of firefighting teams since the 18th century, celebrated mainly in firefighter communities.",
-      "category": "Animal / Heroic",
-      "emoji": "🐕‍🚒",
-      "funFact": "Fire dogs were originally used to warn buildings of fire alarms and to help pull hoses before motorized trucks were common."
+      "name": "Fire Prevention Day (Great Chicago Fire Anniversary)",
+      "description": "A day to remember the Great Chicago Fire and check your smoke detectors, with a side of reflecting on the legend of a certain cow. It's the only observance where a bovine gets blamed for a city-wide disaster.",
+      "origin": "The Great Chicago Fire ended on October 9, 1871, after burning for about two days and destroying much of the city. Fire Prevention Day grew out of the commemoration of the event, which is the reason Fire Prevention Week is held around this date.",
+      "category": "Historical Observance",
+      "emoji": "🐄",
+      "funFact": "Mrs. O'Leary's cow was blamed for kicking over a lantern, but a Chicago reporter later admitted he made up the story. The city council officially exonerated Mrs. O'Leary in 1997."
     },
     {
-      "name": "Oktoberfest Ends",
-      "description": "Marks the closing day of the world's largest beer festival held annually in Munich, Germany, famous for lederhosen, giant pretzels, and endless beer steins.",
-      "origin": "A folk festival that began in 1810 to celebrate a royal wedding, now a global symbol of Bavarian culture and merrymaking.",
-      "category": "Cultural / Celebration",
-      "emoji": "🍺",
-      "funFact": "Despite its name, Oktoberfest actually starts in September and ends on the first Sunday in October or October 3 if that Sunday falls on the 3rd."
+      "name": "Cur<br>ls Day Alternative: International Beer and Pizza Day",
+      "description": "A day for the world's most agreeable pairing: pizza and cold drinks. It's a loosely observed fun day, so feel free to claim it as an official reason to order dinner.",
+      "origin": "It's an informal, internet-era observance created by food and drink fans to celebrate a classic pairing, and it has no official governing body, which means you can't do it wrong.",
+      "category": "Food Holiday",
+      "emoji": "🍕",
+      "funFact": "The first known pizzeria, Antica Pizzeria Port'Alba in Naples, opened in 1738, and Neapolitan pizza-making is recognized by UNESCO as an Intangible Cultural Heritage."
     }
   ]
 }

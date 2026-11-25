@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Sloth Day",
-      "description": "A day dedicated to celebrating and raising awareness about sloths, the slow-moving and adorable mammals native to Central and South America. It's the perfect excuse to take it slow and appreciate the little things!",
-      "origin": "International Sloth Day was conceived by sloth lovers and conservationists aiming to promote the protection of sloths and their rainforest habitats.",
-      "category": "Wildlife Awareness 🐾",
+      "description": "A day dedicated to celebrating the world's slowest mammals. Fans honor sloths by lounging, napping, and moving at a leisurely pace, all while learning about the threats these tree-dwellers face in the wild.",
+      "origin": "Created by AIAI, a sloth conservation organization in Colombia, to raise awareness about sloth conservation. It is observed on the third Saturday of October in many years, and October 20 is also widely used for sloth celebrations.",
+      "category": "Animal Awareness",
       "emoji": "🦥",
-      "funFact": "Sloths only poop once a week, and they climb down from the trees to do it—increasing their risk from predators!"
+      "funFact": "Sloths can take up to a month to digest a single leaf, and algae grow in their fur, giving them a greenish tint that helps camouflage them."
     },
     {
-      "name": "Brandied Fruit Day",
-      "description": "A delicious day to enjoy fruit soaked in brandy, a sweet and boozy treat often used in holiday desserts and festive dishes.",
-      "origin": "This quirky food day celebrates the tradition of preserving fruits with brandy, which dates back centuries in European culinary practices.",
-      "category": "Food & Drink 🍇",
+      "name": "National Brandied Fruit Day",
+      "description": "A boozy celebration of fruit preserved or soaked in brandy, from cherries to peaches. Enjoy them over ice cream, in cakes, or straight from the jar for a grown-up treat.",
+      "origin": "An unofficial food observance that grew out of the old tradition of preserving fruit in spirits, which let people enjoy harvest flavors through the winter before refrigeration.",
+      "category": "Food & Drink",
       "emoji": "🍒",
-      "funFact": "Brandied cherries were once a popular garnish for cocktails, and some even say that soaking fruit in brandy helps preserve it for up to a year!"
+      "funFact": "Some old-fashioned recipes called 'Rumtopf' keep a pot of fruit and alcohol going all season, adding new fruit as each one ripens."
     },
     {
-      "name": "Evaluate Your Life Day",
-      "description": "A somewhat serious but quirky holiday encouraging people to pause and thoughtfully assess their life’s direction and personal goals. Think of it as a weirdly timed self-help checkpoint.",
-      "origin": "Created by life coaches and motivational speakers as a nudge for mid-fall reflection, helping people refocus before the end of the year.",
-      "category": "Self-Improvement 💭",
-      "emoji": "🤔",
-      "funFact": "Despite being a day for reflection, many people use Evaluate Your Life Day to create quirky vision boards or doodle their goals rather than meditate seriously!"
+      "name": "National Day on Writing",
+      "description": "A day when everyone is encouraged to put pen to paper, fingers to keyboard, or thumbs to phone, and celebrate the many ways we write, from grocery lists to epic poems.",
+      "origin": "Established by the National Council of Teachers of English in 2009 and later recognized by the U.S. Senate, to highlight the importance of writing in everyday life.",
+      "category": "Awareness & Education",
+      "emoji": "✍️",
+      "funFact": "The very first writing systems, such as Sumerian cuneiform, were originally used mostly for tracking grain and other goods, not for poetry or stories."
     },
     {
-      "name": "National Pale Ale Day (USA)",
-      "description": "A hoppy day to celebrate pale ales—beer styles known for their balance of malt and hop flavors, favored by craft beer aficionados everywhere.",
-      "origin": "Craft beer enthusiasts established this day to promote pale ales and appreciate the art of brewing this distinctive beer variety.",
-      "category": "Food & Drink 🍺",
-      "emoji": "🍺",
-      "funFact": "The first pale ales in history were brewed with pale malt and gold “noble” hops, giving them a unique light color and complex flavor—quite the opposite of stereotypical darker beers!"
+      "name": "Command Z Day",
+      "description": "A tongue-in-cheek celebration of the undo shortcut that has saved countless documents, designs, and embarrassing mistakes. Today is for appreciating second chances, at least on a computer.",
+      "origin": "A playful internet observance on 10/20 referencing the keyboard shortcut for 'undo' used on Mac computers, popularized by tech and design communities online.",
+      "category": "Pop Culture & Tech",
+      "emoji": "⌨️",
+      "funFact": "The undo function was reportedly first developed in the early 1970s for text editors, and Ctrl+Z and Command+Z have since become among the most-used shortcuts in computing."
+    },
+    {
+      "name": "National Mulligan Day",
+      "description": "A day for forgiving yourself and others for mistakes and taking a do-over, inspired by the golf tradition of replaying a poor shot without penalty.",
+      "origin": "Rooted in golf culture, where a mulligan is an informal free retry. The unofficial observance encourages applying that generosity to everyday life.",
+      "category": "Sports & Lifestyle",
+      "emoji": "⛳",
+      "funFact": "The origin of the word 'mulligan' is disputed, with one popular legend crediting a Canadian golfer named David Mulligan in the 1920s."
     }
   ]
 }

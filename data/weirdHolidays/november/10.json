@@ -2,36 +2,44 @@
   "date": "November 10",
   "holidays": [
     {
+      "name": "Sesame Street Day",
+      "description": "A celebration of the iconic children's show where furry monsters, a grouchy trash-can dweller, and a very patient bird teach kids their ABCs and 123s. Fans mark the day by watching old episodes and belting out the theme song.",
+      "origin": "Sesame Street premiered on National Educational Television (the forerunner of PBS) on November 10, 1969, and fans have celebrated the anniversary ever since.",
+      "category": "Pop Culture",
+      "emoji": "🐦",
+      "funFact": "The show was designed after research suggested that young children were glued to TV commercials, so the creators borrowed the fast, catchy style of ads to teach letters and numbers."
+    },
+    {
       "name": "Forget-Me-Not Day",
-      "description": "A day to remember loved ones and cherish memories by sending someone a forget-me-not flower or simply sharing a heartfelt message.",
-      "origin": "Forget-Me-Not flowers have long symbolized remembrance, and this day was adopted to encourage people to keep others in their hearts and minds.",
-      "category": "Awareness / Remembrance",
-      "emoji": "🌸",
-      "funFact": "Forget-me-nots were the first flowers sent from space! Astronauts took their seeds on a mission to promote peace and remembrance."
+      "description": "A day for remembering the people and moments in your life that matter, named after the small blue flower that symbolizes remembrance. It is a good excuse to call an old friend or write a note to someone you haven't talked to in ages.",
+      "origin": "The forget-me-not has long been a symbol of remembrance in European folklore, and informal observances using the flower have been held in various countries, with this date popular among unofficial holiday calendars.",
+      "category": "Unofficial Observance",
+      "emoji": "💙",
+      "funFact": "Legend says a medieval knight fell into a river while picking the flowers for his lady, and as he was swept away he tossed them to her and cried out, 'Forget me not!'"
     },
     {
-      "name": "Vanilla Cupcake Day",
-      "description": "Celebrate the humble yet delicious vanilla cupcake! Bake, eat, or share your favorite vanilla cupcakes to honor this classic treat.",
-      "origin": "Growing popularity of cupcakes led to the creation of various days celebrating different flavors, and vanilla—being a timeless classic—earned its own day.",
-      "category": "Food Holiday",
-      "emoji": "🧁",
-      "funFact": "Though often overshadowed by chocolate, vanilla is one of the most labor-intensive flavors to produce, coming from orchid pods requiring hand pollination!"
+      "name": "Area 51 Day",
+      "description": "A tongue-in-cheek day for conspiracy theorists, sci-fi fans, and curious folks who love to speculate about aliens, secret government hangars, and unexplained lights in the desert sky.",
+      "origin": "Area 51 observances grew out of internet culture and the long-running fascination with the secretive Nevada Air Force facility, which was only officially acknowledged by the CIA in 2013.",
+      "category": "Pop Culture",
+      "emoji": "👽",
+      "funFact": "A 2019 Facebook joke event called 'Storm Area 51, They Can't Stop All of Us' attracted over two million RSVPs, though only a small number of people actually showed up in Nevada."
     },
     {
-      "name": "Accounting Day",
-      "description": "An unconventional holiday dedicated to celebrating the often overlooked heroes of finance — accountants! It's a nod of appreciation to those who keep the money flowing smoothly.",
-      "origin": "Established to honor the founding of the American Institute of Certified Public Accountants (AICPA) which officially began on November 10 in 1887.",
-      "category": "Professional / Awareness",
-      "emoji": "📊",
-      "funFact": "On Accounting Day, some accountants celebrate by balancing their own checkbooks to the last penny — talk about dedication!"
+      "name": "Top Up Day",
+      "description": "A day to put your money where your heart is by topping up a meaningful fund, whether that's your savings account, a travel jar, or a loved one's gift card. It's all about the satisfying feeling of refilling something that was running low.",
+      "origin": "This quirky observance comes from the general internet-era tradition of unofficial days that encourage small, practical self-care acts like refilling accounts, supplies, and glasses of water.",
+      "category": "Lifestyle",
+      "emoji": "🔋",
+      "funFact": "Studies on personal finance habits suggest that small, regular top-ups to a savings account can add up faster than people expect, thanks to the power of consistency."
     },
     {
-      "name": "Earmuffs Day",
-      "description": "On this chilly November day, celebrate the invention and use of earmuffs — the perfect accessory to keep your ears warm and your style cool.",
-      "origin": "Invented by Chester Greenwood in 1873, earmuffs have a quirky origin story that November 10 honors every year.",
-      "category": "Invention / Fun",
-      "emoji": "🎧",
-      "funFact": "Chester Greenwood was just 15 when he invented earmuffs after getting frustrated by cold ears during winter skating sessions!"
+      "name": "Plum Pudding Day",
+      "description": "A day for the rich, boozy, fruit-packed steamed dessert that's famous for being lit on fire at the table. Despite the name, traditional plum pudding doesn't actually need to contain plums.",
+      "origin": "Plum pudding dates back to medieval England, where 'plum' was used to describe any dried fruit such as raisins and currants. Over the centuries it became a classic Christmas dish, and its mid-November observance falls close to the traditional time for making the pudding ahead of the holidays.",
+      "category": "Food",
+      "emoji": "🍮",
+      "funFact": "In Victorian Britain, families often made the pudding on 'Stir-up Sunday' weeks in advance, and everyone in the household was supposed to take a turn stirring it and make a wish."
     }
   ]
 }

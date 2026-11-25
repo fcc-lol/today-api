@@ -2,56 +2,64 @@
   "date": "December 3",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is a hardy evergreen shrub native to the Mediterranean region and parts of Asia. It produces clusters of fragrant, funnel-shaped flowers throughout mild winters, thriving in warm climates. The flowers range from white to pink and red, offering color when many other plants are dormant.",
-      "bloomingSeason": "May to December (peak bloom in late autumn in warmer regions)",
-      "location": "Mediterranean Basin, Southern United States, Australia",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with small yellow flowers (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In frost-free climates it grows into a large landscape shrub up to 3 meters tall, and as a potted plant it is a symbol of the holiday season.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
+      "location": "Native to southern Mexico and Central America; grown as an outdoor shrub in warm regions such as California, Florida, Hawaii and the Mediterranean, and as a houseplant worldwide",
       "colors": [
-        "pink",
-        "white",
-        "red"
+        "Red",
+        "White",
+        "Pink",
+        "Cream",
+        "Marbled"
       ],
       "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, yet it has been used traditionally for its medicinal properties in controlled doses."
+      "funFact": "The colored parts are modified leaves called bracts, whose color change is triggered by long nights. The Aztecs called the plant cuetlaxochitl and used it to make a reddish dye."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "The Christmas Rose is a hardy perennial native to mountainous regions of Europe. It typically blooms in late winter, often around Christmas, showcasing large white or pinkish flowers that can tolerate cold and snow. It is prized for blooming when most plants are dormant.",
-      "bloomingSeason": "December to February",
-      "location": "Europe (Alps, Balkans)",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with flattened, segmented stems with pointed teeth along the edges. Arching branch tips bear tubular, zygomorphic flowers in profusion. In the wild it grows on tree branches and in rock crevices in humid forests.",
+      "bloomingSeason": "Late autumn to early winter (November to January) in the Northern Hemisphere",
+      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro; widely grown as a houseplant globally",
       "colors": [
-        "white",
-        "pink"
+        "Pink",
+        "Red",
+        "Magenta",
+        "White",
+        "Orange",
+        "Yellow"
       ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose but a member of the buttercup family (Ranunculaceae)."
+      "emoji": "🌸",
+      "funFact": "It blooms in response to short days and cool nights. Unlike desert cacti, it grows in the shade of Brazilian rainforest trees and prefers humidity."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "Silky Oak is a fast-growing evergreen tree native to eastern Australia that produces striking, bright orange, spider-like flowers in late spring to early winter. In mild climates, some flowering extends into December, attracting birds and pollinators.",
-      "bloomingSeason": "September to December",
-      "location": "Eastern Australia, cultivated in subtropical regions",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A spreading, umbrella-shaped tree with fern-like feathery leaves. In the Southern Hemisphere's early summer it is covered in clusters of large, bright flowers, and it later produces long woody seed pods.",
+      "bloomingSeason": "Early summer in the Southern Hemisphere (November to January); also blooms at other times in the tropics, mostly in the dry season",
+      "location": "Native to Madagascar; planted in tropical and subtropical regions including Australia, South Africa, Brazil, India and the Caribbean",
       "colors": [
-        "orange"
+        "Scarlet",
+        "Orange-red"
       ],
-      "emoji": "🌳🍊",
-      "funFact": "The striking flowers of the Silky Oak are rich in nectar and attract a variety of bird species."
+      "emoji": "🌳",
+      "funFact": "Although it is a famous ornamental tree across the tropics, it is endangered in its native Madagascar, where its dry forest habitat has been greatly reduced."
     },
     {
-      "name": "Clerodendrum thomsoniae",
-      "commonName": "Bleeding Heart Vine",
-      "description": "This tropical vine is native to West Africa and produces unique, two-tone flowers with white petals and bright red stamens that look like 'bleeding hearts.' It often blooms in warm regions during late autumn and early winter, including December.",
-      "bloomingSeason": "October to January",
-      "location": "West Africa, tropical and subtropical gardens worldwide",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers with a boss of yellow stamens. It blooms earlier than the common camellia and tolerates more sun, making it popular for hedges and espaliers.",
+      "bloomingSeason": "Late autumn to winter (October to January)",
+      "location": "Native to Japan (southern islands) and China; widely cultivated in the southeastern United States, Europe's mild regions, Australia and New Zealand",
       "colors": [
-        "white",
-        "red"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
-      "emoji": "❤️🌿",
-      "funFact": "Despite its delicate appearance, the Bleeding Heart Vine is a vigorous climber used to add vibrant color to gardens in mild winter areas."
+      "emoji": "🌼",
+      "funFact": "Sasanqua is a source of tea seed oil, which is used in cooking, cosmetics and hair care in Japan. The related Camellia sinensis is the plant used to make tea."
     }
   ]
 }

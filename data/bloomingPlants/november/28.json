@@ -2,58 +2,65 @@
   "date": "November 28",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, showy, rose-like flowers that bloom in late autumn to early spring. Highly valued in gardens for their stunning winter blooms.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated worldwide in temperate zones",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with segmented, flattened stems edged with pointed teeth. It produces tubular, asymmetrical flowers at the tips of its stems. It is a very popular houseplant in the Northern Hemisphere and blooms in response to short days and cool nights.",
+      "bloomingSeason": "Late autumn to early winter (November to January)",
+      "location": "Native to the coastal mountains of southeastern Brazil; widely cultivated as a houseplant worldwide",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Pink",
+        "Magenta",
+        "Red",
+        "White",
+        "Orange",
+        "Yellow"
+      ],
+      "emoji": "🌸",
+      "funFact": "In the wild it grows on trees and rocks in humid Brazilian forests, and it can live for decades, with some specimens passed down through generations of families."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, semi-deciduous tree with fern-like leaves that produces dense clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it carpets streets and parks with purple petals as spring turns to early summer.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America; widely planted in South Africa, Australia, New Zealand and Argentina",
+      "colors": [
+        "Lavender",
+        "Purple",
+        "Blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, thousands of trees bloom each spring, and in Australia a falling jacaranda blossom was once said to be a sign to start studying for exams."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and fragrant, delicate flowers that open in the cooler months. It is more sun-tolerant than other camellias and is often used for hedges, screens and espaliers.",
+      "bloomingSeason": "Mid-autumn to early winter (October to December)",
+      "location": "Native to Japan; cultivated in mild climates including the southeastern United States, the Mediterranean and Australia",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is the state flower of Alabama, USA, and was first introduced to Europe in the 18th century from Japan."
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis, and its seeds are pressed to make a cooking and cosmetic oil in Japan."
     },
     {
-      "name": "Leucadendron salignum",
-      "commonName": "Common Sunshine Conebush",
-      "description": "A South African shrub from the Protea family, known for its vibrant colorful bracts that resemble flowers. It blooms in late spring through November in native habitat, providing brilliant displays that attract pollinators.",
-      "bloomingSeason": "August to November",
-      "location": "South Africa (Cape Floristic Region)",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with showy colored bracts that are often mistaken for petals; the true flowers are the small yellow clusters (cyathia) at the center. In frost-free climates it grows into a large landscape shrub that peaks around the holiday season.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to Mexico; grown outdoors in tropical and subtropical regions and indoors worldwide",
       "colors": [
-        "yellow",
-        "orange",
-        "red"
+        "Red",
+        "White",
+        "Pink",
+        "Cream",
+        "Marbled"
       ],
-      "emoji": "🌼",
-      "funFact": "Leucadendrons are serotinous plants, meaning their seed cones often open after fire, a natural adaptation to their fire-prone habitat."
-    },
-    {
-      "name": "Calendula officinalis",
-      "commonName": "Pot Marigold",
-      "description": "A hardy annual plant with bright, golden-orange daisy-like flowers. It blooms profusely from early summer to late autumn and can often continue blooming into mild winters.",
-      "bloomingSeason": "June to November (sometimes longer in mild climates)",
-      "location": "Native to Southern Europe but widely cultivated worldwide",
-      "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Calendula petals have been used historically as a natural dye and for medicinal purposes, particularly for skin healing."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern Australia. It features fern-like foliage and orange to yellow spider-like flowers that bloom mainly in late spring but can bloom sporadically into late autumn in some areas.",
-      "bloomingSeason": "Late spring to autumn (sometimes sporadically in November)",
-      "location": "Eastern Australia; cultivated in subtropical and tropical regions",
-      "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but is valued for its ornate timber and ornamental flowers."
+      "emoji": "🎄",
+      "funFact": "The Aztecs called it cuetlaxochitl and used its sap to make a reddish dye and a fever medicine; it is also the subject of a long-standing myth about being poisonous, though it is only mildly irritating."
     }
   ]
 }

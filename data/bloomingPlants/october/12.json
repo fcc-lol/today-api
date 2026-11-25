@@ -2,59 +2,62 @@
   "date": "October 12",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A bright, cheerful wildflower native to North America with golden-yellow petals surrounding a dark brown central cone. It thrives in meadows and gardens alike, providing nectar for pollinators.",
-      "bloomingSeason": "June to October",
-      "location": "Temperate regions of North America",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, clump-forming perennial with hairy stems and abundant daisy-like flower heads with yellow centers. It is a vital late-season nectar source for migrating monarch butterflies and many native bees.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern and central North America, widely cultivated in gardens worldwide",
       "colors": [
-        "yellow",
-        "brown"
+        "purple",
+        "violet",
+        "pink",
+        "yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Black-eyed Susans are named for their prominent dark 'eye' at the center of the flower, and they are a symbol of encouragement and justice."
+      "funFact": "Its flowers close at night and on cloudy days, and the plant is a key food stop for monarch butterflies on their autumn migration to Mexico."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular cultivated flower known for its wide variety of colors and intricate petal arrangements, often blooming in fall gardens. They are a staple in autumn floral displays.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate gardens worldwide, especially East Asia and Europe",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful deciduous tree with fern-like leaves that bursts into clouds of trumpet-shaped lavender-blue flowers. In spring the blossoms carpet streets and parks with purple petals.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa, Australia, and Argentina",
       "colors": [
-        "yellow",
-        "red",
-        "pink",
-        "white",
-        "orange",
+        "lavender",
+        "blue",
         "purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Chrysanthemums are the official flower of several countries, including Japan, where they symbolize longevity and rejuvenation."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas earn it the nickname 'Jacaranda City', and a falling bloom on your head is said to bring good luck."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing Australian tree with bright orange to reddish flowers that attract birds. It blooms prolifically in spring and autumn, bringing vibrant color to woodlands.",
-      "bloomingSeason": "March to June and September to November",
-      "location": "Eastern Australia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like pink-lilac flowers in autumn without any leaves present. The leaves appear the following spring, then die back before the next flowering.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Meadows and woodland edges across Europe, from the UK to the Balkans",
       "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but is so named because of its valuable, durable timber."
-    },
-    {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "An evergreen tree native to the southeastern United States, known for its large, fragrant white flowers that bloom intermittently through spring and fall.",
-      "bloomingSeason": "May to June and sporadically October to November",
-      "location": "Southeastern USA",
-      "colors": [
+        "pink",
+        "lilac",
         "white"
       ],
-      "emoji": "🌼",
-      "funFact": "The southern magnolia's large, waxy leaves are so tough they repel insects and reduce water loss."
+      "emoji": "🌸",
+      "funFact": "Although it looks like a crocus, it is a member of the lily family and is highly toxic, yet it is the source of colchicine, a medicine used to treat gout."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with feathery foliage and saucer-shaped flowers on tall slender stems. It thrives in full sun and poor soil, and continues blooming until the first frost.",
+      "bloomingSeason": "Summer to first frost (June to October in the Northern Hemisphere)",
+      "location": "Native to Mexico; cultivated in gardens across the world",
+      "colors": [
+        "pink",
+        "white",
+        "magenta",
+        "crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "The name 'cosmos' comes from the Greek word for 'harmony' or 'ordered universe', and cosmos seeds have even been grown aboard the International Space Station."
     }
   ]
 }

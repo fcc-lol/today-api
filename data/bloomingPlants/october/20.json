@@ -2,60 +2,63 @@
   "date": "October 20",
   "plants": [
     {
-      "name": "Chrysanthemum spp.",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are hardy perennials known for their vibrant, daisy-like flowers. They bloom profusely in autumn, adding brilliant colors to gardens as temperatures cool down. Often cultivated, they come in a variety of shapes and sizes.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially Asia, North America, and Europe",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "An airy annual with feathery foliage and daisy-like flowers on tall slender stems. In mild autumn climates it continues flowering until the first hard frost, attracting bees, butterflies, and hoverflies.",
+      "bloomingSeason": "Summer to late autumn in the Northern Hemisphere; spring to early summer in the Southern Hemisphere",
+      "location": "Native to Mexico; widely cultivated in gardens across North America, Europe, Asia, and Australia",
       "colors": [
-        "yellow",
-        "red",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are sometimes called 'mums' and are symbols of longevity and rejuvenation in many cultures, especially in Japan."
-    },
-    {
-      "name": "Hamamelis virginiana",
-      "commonName": "American Witch Hazel",
-      "description": "A deciduous shrub native to eastern North America, witch hazel produces unique spidery, fragrant yellow flowers in late fall, often after leaves have dropped, adding color to otherwise bare woods.",
-      "bloomingSeason": "October to December",
-      "location": "Eastern United States and Canada",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "The plant’s extract is commonly used for medicinal and skincare purposes due to its astringent properties."
-    },
-    {
-      "name": "Brassica oleracea (Autumn flowering cultivars)",
-      "commonName": "Ornamental Kale",
-      "description": "Ornamental kale is grown for its broad, ruffled leaves which mature to brilliant shades of purple, pink, and white during cool autumn weather. It can be considered a flowering plant due to its floral beginnings and is popular in fall gardens.",
-      "bloomingSeason": "Late summer through autumn",
-      "location": "Cultivated widely in temperate climates worldwide",
-      "colors": [
-        "purple",
-        "pink",
-        "white",
-        "green"
-      ],
-      "emoji": "🥬",
-      "funFact": "Though typically grown as a leaf vegetable, ornamental kale is prized in horticulture for its vibrant, colorful foliage rather than its flowers."
-    },
-    {
-      "name": "Clitoria ternatea",
-      "commonName": "Butterfly Pea",
-      "description": "A tropical vine producing striking deep blue flowers with a unique shape resembling a butterfly. It blooms year-round in tropical climates but is especially prolific in late summer and autumn months in appropriate zones.",
-      "bloomingSeason": "Year-round in tropics, peaking in late summer to autumn",
-      "location": "Tropical Asia, parts of Africa, and tropical Americas",
-      "colors": [
-        "blue",
-        "white"
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "Butterfly pea flowers are used to make a natural blue tea which changes color based on pH when lemon is added."
+      "funFact": "Cosmos comes from the Greek word 'kosmos' meaning 'harmony' or 'ordered universe', a name given by Spanish priests who grew them in mission gardens in Mexico."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A corm-forming perennial that sends up crocus-like lilac flowers in autumn with no leaves present. The strap-shaped leaves emerge the following spring and die back by early summer.",
+      "bloomingSeason": "Early to late autumn (September to November)",
+      "location": "Native to damp meadows and woodland edges across Europe; naturalized in parts of North America",
+      "colors": [
+        "Pale lilac",
+        "Pink",
+        "Purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Despite its name it is not a true crocus and is highly toxic, containing colchicine, which is used in medicine to treat gout and is also used by plant breeders to induce chromosome doubling."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular deciduous to semi-evergreen tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. Streets and parks turn purple during peak bloom, and fallen petals carpet the ground below.",
+      "bloomingSeason": "Spring to early summer in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), Argentina, and New Zealand",
+      "colors": [
+        "Lavender",
+        "Blue-violet",
+        "Purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City', and in Australia a folk belief says a flower falling on your head brings good luck."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial cultivated for thousands of years that peaks in autumn as day length shortens, producing dense pompon, spider, or daisy-like blooms. It is a staple of fall gardens and festivals.",
+      "bloomingSeason": "Autumn (October to November) in the Northern Hemisphere",
+      "location": "Originated in China; cultivated worldwide, especially in East Asia, Europe, and North America",
+      "colors": [
+        "Yellow",
+        "Bronze",
+        "White",
+        "Red",
+        "Purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are short-day plants that initiate flower buds when nights lengthen, and in Japan the flower is the emblem of the Imperial family and celebrated at the Chrysanthemum Festival."
     }
   ]
 }

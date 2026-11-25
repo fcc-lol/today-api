@@ -2,58 +2,62 @@
   "date": "December 25",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is a hardy, evergreen shrub known for its clusters of fragrant, colorful flowers. It thrives in warm Mediterranean climates and is frequently seen blooming in winter in milder regions such as Southern California and parts of the Mediterranean basin.",
-      "bloomingSeason": "May to December (often year-round in frost-free zones)",
-      "location": "Mediterranean region, Southern California, subtropical areas",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with small yellow flowers (cyathia) surrounded by showy colored bracts that are often mistaken for petals. Grows outdoors as a large shrub in warm climates and is widely used as a potted holiday plant elsewhere.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
+      "location": "Native to southern Mexico and Central America; cultivated worldwide in warm regions and as an indoor plant",
       "colors": [
-        "Pink",
+        "Red",
         "White",
-        "Red"
+        "Pink",
+        "Cream",
+        "Marbled"
       ],
-      "emoji": "🌸",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested."
+      "emoji": "🎄",
+      "funFact": "Poinsettias are short-day plants, so they need long uninterrupted nights to develop their colorful bracts. The Aztecs called it cuetlaxochitl and used the sap for medicine and the bracts for dye."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "Camellia japonica is a classic winter-blooming shrub with large, showy flowers that brighten gardens during the colder months. It is native to eastern and southern Asia and thrives in temperate climates, blooming profusely from late fall to early spring.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, parts of the southeastern USA, temperate gardens worldwide",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers. Early-flowering cultivars open in the cool months of winter, brightening gardens when little else blooms.",
+      "bloomingSeason": "Late autumn to early spring (December to March)",
+      "location": "Native to Japan, Korea and eastern China; grown in temperate gardens in the southeastern United States, Europe, Australia and New Zealand",
       "colors": [
         "Red",
         "Pink",
-        "White"
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were highly prized in Asia and have inspired art and poetry for centuries due to their elegant flowers."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan, the camellia (tsubaki) has long been associated with winter and the tea ceremony."
     },
     {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka",
-      "description": "Manuka is a New Zealand native shrub famous for its small white or pink flowers that bloom in late spring and summer in the Southern Hemisphere, which corresponds to December in that region. It also produces nectar used to make manuka honey, acclaimed for its medicinal properties.",
-      "bloomingSeason": "November to January (Southern Hemisphere summer)",
-      "location": "New Zealand, parts of Australia",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A spreading, umbrella-shaped tree with fern-like leaves that becomes covered in brilliant clusters of flowers. Southern Hemisphere populations and some tropical regions bloom around the summer months, making it a spectacular sight at Christmas.",
+      "bloomingSeason": "Summer (December to February in the Southern Hemisphere); late spring to summer in the tropics",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, South America, the Caribbean and Africa",
       "colors": [
-        "White",
-        "Pink"
+        "Scarlet",
+        "Orange-red",
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Manuka honey, derived from this plant's nectar, has natural antimicrobial qualities and is used in wound care."
+      "emoji": "🔥",
+      "funFact": "Although it is a famously common tree in the tropics, the royal poinciana is endangered in its native Madagascar. Its long seed pods can reach 60 cm and rattle in the wind."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "The Christmas rose is named for its typical blooming time around Christmas in colder European climates. It's a hardy perennial with nodding white flowers that can tolerate snow and frost, making it one of the few ornamental plants flowering in midwinter.",
-      "bloomingSeason": "December to March",
-      "location": "Central and southern Europe",
+      "description": "A low-growing evergreen perennial with leathery dark green leaves and nodding, cup-shaped white flowers with golden stamens. It flowers in the depths of winter, often pushing through frost and snow.",
+      "bloomingSeason": "Midwinter to early spring (December to March)",
+      "location": "Native to mountainous woodlands of central and southern Europe, including the Alps and northern Apennines; cultivated in temperate gardens worldwide",
       "colors": [
         "White",
-        "Greenish White"
+        "Pale pink"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas rose is not a true rose but a member of the buttercup family."
+      "funFact": "Despite its name it is not a true rose and is entirely unrelated to the rose family; it belongs to the buttercup family. All parts of the plant are toxic, and legend says it first bloomed from the tears of a girl with no gift for the Christ child."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "November 18",
   "holidays": [
     {
-      "name": "Apple Cider Day",
-      "description": "A celebration dedicated to the delicious and refreshing drink made from pressed apples. Perfect for cozy fall sipping!",
-      "origin": "Apple cider has been a popular autumn beverage for centuries in North America and Europe, and this day celebrates its seasonal charm.",
-      "category": "Food Day",
-      "emoji": "🍎",
-      "funFact": "Cider apples are different from eating apples — they're specially grown to produce a perfectly balanced cider."
+      "name": "Mickey Mouse Birthday (Mickey's Birthday)",
+      "description": "Fans around the world celebrate the debut of the world's most famous mouse, with ear-wearing, cartoon marathons, and a lot of whistling.",
+      "origin": "Mickey Mouse's official birthday is November 18, 1928, the date Steamboat Willie premiered at the Colony Theater in New York City. It was the first widely distributed cartoon with synchronized sound, though Mickey had appeared in earlier test shorts.",
+      "category": "Pop Culture",
+      "emoji": "🐭",
+      "funFact": "Walt Disney originally wanted to name the character Mortimer Mouse, but his wife Lillian reportedly said it sounded too pompous and suggested Mickey instead."
     },
     {
-      "name": "Anniversary of the Mona Lisa’s Theft (1911)",
-      "description": "Commemorates the infamous day the Mona Lisa was stolen from the Louvre by Vincenzo Peruggia, sparking global intrigue.",
-      "origin": "In 1911, the Italian handyman Peruggia stole the painting believing it should be returned to Italy, and it was recovered two years later.",
-      "category": "Pop Culture/History",
-      "emoji": "🖼️",
-      "funFact": "The theft actually boosted the Mona Lisa's popularity, turning it into a worldwide icon."
+      "name": "Occult Day",
+      "description": "A day for embracing the mysterious, with tarot readings, candle rituals, and conversations about the strange and hidden corners of human belief.",
+      "origin": "Occult Day is an unofficial observance of recent origin, tied to the idea that the occult means 'hidden' in Latin (occultus). It encourages curiosity about esoteric knowledge, folklore, and mystical traditions.",
+      "category": "Unofficial Observance",
+      "emoji": "🔮",
+      "funFact": "The word 'occult' comes from the Latin 'occultus,' meaning 'secret' or 'hidden,' and was once used in science to describe things like hidden or unexplained forces."
     },
     {
-      "name": "Use Your Common Sense Day",
-      "description": "A quirky reminder to apply logic and practical thinking in everyday situations instead of rushing into decisions blindly.",
-      "origin": "An informal observance encouraging everyone to pause and think critically before acting.",
-      "category": "Awareness/Behavioral",
-      "emoji": "🧠",
-      "funFact": "This day humorously reminds us that common sense isn't so common after all!"
+      "name": "Push Button Phone Day",
+      "description": "A salute to the dial-less telephone that freed us from the agony of waiting for the rotary wheel to spin all the way back after dialing a 9.",
+      "origin": "The first commercial push-button telephone was introduced by Bell Telephone on November 18, 1963, in Carnegie and Greensburg, Pennsylvania, using Touch-Tone technology.",
+      "category": "Technology",
+      "emoji": "☎️",
+      "funFact": "Early Touch-Tone phone designers tested many button layouts, including a circular one, before settling on the familiar 3x4 grid we still use today."
     },
     {
-      "name": "Jukebox Day",
-      "description": "Celebrates the musical charm and nostalgia of the classic jukebox, which pumped out tunes in diners and bars.",
-      "origin": "The jukebox was at its peak mid-20th century; this day honors its influence on social music culture.",
-      "category": "Pop Culture/Music",
-      "emoji": "🎶",
-      "funFact": "The first jukebox was invented in 1889 and could play multiple records on demand!"
+      "name": "National Princess Day",
+      "description": "A day for dressing up in tiaras, hosting tea parties, and celebrating princesses of all kinds, real or fictional, regal or royally sassy.",
+      "origin": "National Princess Day is a modern unofficial observance popular with children and parents, often connected to fairy tales and animated movies. It encourages kindness, confidence, and a bit of dress-up fun.",
+      "category": "Pop Culture",
+      "emoji": "👑",
+      "funFact": "Many classic fairy tale princesses, such as Cinderella, have hundreds of versions worldwide, with the oldest known Cinderella-style story dating back to ancient Greece or Egypt."
+    },
+    {
+      "name": "National Vichyssoise Day",
+      "description": "A chilly celebration of the creamy potato and leek soup that is traditionally served cold, which is a bold choice for a November evening.",
+      "origin": "Vichyssoise is generally credited to chef Louis Diat of the Ritz-Carlton in New York City, who created his version in 1917 based on his mother's hot potato and leek soup from his childhood in France.",
+      "category": "Food",
+      "emoji": "🥣",
+      "funFact": "Despite its French-sounding name, vichyssoise is considered by many to be an American invention, and Diat said he chilled the soup by adding cold milk to cool it for his brother."
     }
   ]
 }

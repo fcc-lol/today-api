@@ -2,56 +2,61 @@
   "date": "December 8",
   "plants": [
     {
-      "name": "Hamamelis virginiana",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub native to eastern North America, Witch Hazel blooms in late fall to early winter, producing unique, fragrant yellow flowers with ribbon-like petals that appear after the leaves fall.",
-      "bloomingSeason": "October to December",
-      "location": "Eastern United States",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with showy colored bracts surrounding small yellow true flowers. In its native habitat it can grow up to 3 meters tall, and in frost-free regions it is a popular landscape plant. Elsewhere it is grown as a potted holiday plant.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere, triggered by short days",
+      "location": "Native to Mexico and Central America; cultivated worldwide, with outdoor displays in California, Florida, Hawaii and Mediterranean climates",
       "colors": [
-        "Yellow"
+        "red",
+        "white",
+        "pink",
+        "cream"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch Hazel extracts from the bark and leaves are widely used in skincare products for their anti-inflammatory properties."
+      "emoji": "🎄",
+      "funFact": "The colorful parts are modified leaves called bracts, not petals. The Aztecs called the plant cuetlaxochitl and used its sap for medicine and its bracts for dye."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and fragrant, delicate single or semi-double flowers. It blooms earlier than the common camellia and tolerates more sun and heat, brightening gardens when little else is in flower.",
+      "bloomingSeason": "Late autumn to early winter (October to January)",
+      "location": "Native to southern Japan and the Ryukyu Islands; widely grown in the southeastern United States, Europe, Australia and New Zealand",
+      "colors": [
+        "white",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Sasanqua seeds are pressed to make camellia oil, used in Japan for cooking, hair care and polishing blades. The leaves of a close relative, Camellia sinensis, are used to make tea."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like foliage that bursts into clouds of lavender-blue trumpet-shaped flowers. The blooms often carpet the ground beneath the tree with purple petals.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America; commonly seen in Australia (Sydney, Brisbane), South Africa (Pretoria), Argentina and New Zealand",
+      "colors": [
+        "lavender",
+        "purple",
+        "blue-violet"
+      ],
+      "emoji": "🪻",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its tens of thousands of jacaranda trees. In Australia, a folk belief holds that a flower falling on your head brings good luck."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "An evergreen perennial native to the mountainous regions of Europe, especially the Alps, it blooms in winter with large, white to pinkish flowers that often appear as early as December.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers with golden stamens. It flowers in the cold when most other plants are dormant, and is hardy in woodland gardens.",
+      "bloomingSeason": "Early winter to early spring (December to March) in the Northern Hemisphere",
+      "location": "Native to the mountainous woodlands of central and southern Europe, including the Alps and northern Apennines; grown in temperate gardens worldwide",
       "colors": [
-        "White",
-        "Pink"
+        "white",
+        "pale pink"
       ],
-      "emoji": "❄️🌸",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose but belongs to the buttercup family (Ranunculaceae)."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub widely cultivated in warm climates, Oleander produces clusters of highly fragrant, showy flowers that can bloom year-round in subtropical regions, including December.",
-      "bloomingSeason": "Year-round in warm climates, including December",
-      "location": "Mediterranean Basin, South Asia, and cultivated globally in subtropical areas",
-      "colors": [
-        "Pink",
-        "White",
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "All parts of Oleander are highly toxic if ingested, yet it is popular as an ornamental plant due to its resilience and beauty."
-    },
-    {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka",
-      "description": "A small tree or shrub native to New Zealand and southeast Australia, Manuka blooms profusely with white or pink flowers in late spring to early summer in the southern hemisphere, corresponding to December.",
-      "bloomingSeason": "November to January (Southern Hemisphere summer)",
-      "location": "New Zealand, Southeast Australia",
-      "colors": [
-        "White",
-        "Pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Manuka flowers produce nectar that is used to make Manuka honey, famed for its antibacterial and medicinal properties."
+      "emoji": "❄️",
+      "funFact": "Despite the name, it is not a rose but a member of the buttercup family. All parts are toxic, and in folklore it was said to have sprung from the tears of a girl who had no gift for the Christ child."
     }
   ]
 }

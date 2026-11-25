@@ -2,63 +2,62 @@
   "date": "October 15",
   "plants": [
     {
-      "name": "Dahlias",
-      "commonName": "Dahlia",
-      "description": "Dahlias are bushy, tuberous plants native to Mexico, known for their striking, colorful flowers in a wide range of shapes and sizes. They thrive in late summer to autumn gardens, producing large blooms even as the days shorten.",
-      "bloomingSeason": "July to October",
-      "location": "Temperate regions worldwide; originally Mexico and Central America",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It thrives in the shortening days of fall and is a staple of gardens and florists across the Northern Hemisphere.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
       "colors": [
-        "red",
-        "pink",
-        "purple",
-        "orange",
         "yellow",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Dahlias are Mexico's national flower and were once used as food by the Aztecs."
-    },
-    {
-      "name": "Chrysanthemums",
-      "commonName": "Mums",
-      "description": "Chrysanthemums are hardy perennial flowering plants popular in autumn gardens. They are known for their dense, pom-pom like flower clusters and are synonymous with fall in many temperate regions.",
-      "bloomingSeason": "September to November",
-      "location": "East Asia, widely cultivated in temperate climates worldwide",
-      "colors": [
+        "bronze",
         "white",
-        "yellow",
-        "red",
         "purple",
-        "orange"
-      ],
-      "emoji": "💐",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many Asian cultures."
-    },
-    {
-      "name": "Goldenrod",
-      "commonName": "Goldenrod",
-      "description": "Goldenrod is a wildflower common throughout North America, recognized for its tall spikes of small, bright yellow flowers. It often blooms in late summer and autumn, providing important nectar for pollinators preparing for winter.",
-      "bloomingSeason": "August to October",
-      "location": "North America, especially eastern and central USA and Canada",
-      "colors": [
-        "yellow"
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is wrongly blamed for allergies caused by ragweed, which blooms simultaneously."
+      "funFact": "Chrysanthemums are short-day plants that set buds when nights lengthen. In Japan the flower is the emblem of the Imperial family, and the Chrysanthemum Throne is named after it."
     },
     {
-      "name": "Japanese Maple",
-      "commonName": "Japanese Maple (in bloom)",
-      "description": "While primarily admired for their striking autumn foliage, some species of Japanese maple produce small, delicate flowers in early to mid-autumn. These inconspicuous blooms attract pollinators and precede seed development.",
-      "bloomingSeason": "October to November",
-      "location": "East Asia, widely cultivated in temperate gardens globally",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, graceful tree that is covered in clusters of trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Streets lined with jacarandas turn purple and carpet the ground with fallen blooms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Brisbane, Sydney) and Argentina",
       "colors": [
-        "red",
-        "purple",
-        "greenish"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🍁",
-      "funFact": "Japanese maple flowers are small and often overlooked but are essential for seed production."
+      "emoji": "🌸",
+      "funFact": "In Pretoria, known as the Jacaranda City, there are tens of thousands of jacaranda trees, and local lore holds that a blossom falling on your head brings good luck."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulb that sends up goblet-shaped pink-lilac flowers in autumn with no leaves present. The strap-like foliage appears only in the following spring, which gives the plant its nickname 'naked ladies'.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Meadows and woodland edges in Europe, from the British Isles to the Balkans; also grown in gardens elsewhere",
+      "colors": [
+        "pale pink",
+        "lilac",
+        "white"
+      ],
+      "emoji": "🌷",
+      "funFact": "The plant contains colchicine, a toxic alkaloid used in medicine to treat gout and by plant breeders to double chromosome numbers. It is not related to true saffron crocus, despite the name."
+    },
+    {
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall native North American wildflower that produces masses of daisy-like flowers with golden centers. It is a vital late-season nectar source for pollinators and thrives in prairies, meadows and roadsides.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, from Canada to the southern United States",
+      "colors": [
+        "purple",
+        "violet",
+        "pink",
+        "magenta"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely on New England asters for nectar to fuel their long southward migration, which often passes through just as the flowers peak in mid October."
     }
   ]
 }

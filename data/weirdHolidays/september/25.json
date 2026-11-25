@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Comic Book Day",
-      "description": "A day to celebrate the colorful world of comic books, from superheroes to graphic novels and everything in between.",
-      "origin": "Established to honor the impact of comic books on pop culture and storytelling, encouraging readers all over the world to dive into comics.",
+      "description": "A day for fans to dust off their longboxes, binge on superhero sagas, and celebrate the art of sequential storytelling, from caped crusaders to indie weirdos.",
+      "origin": "An unofficial observance that grew out of comic fan communities and retailers, who wanted a day to honor the medium and its creators.",
       "category": "Pop Culture",
-      "emoji": "📚🦸‍♂️",
-      "funFact": "The first comic book is considered to be 'The Yellow Kid' from the 1890s, but National Comic Book Day specifically boosts sales and love for comics every September 25!"
+      "emoji": "🦸",
+      "funFact": "Action Comics #1, featuring the debut of Superman, has sold for millions of dollars, making it one of the most valuable comic books ever."
     },
     {
-      "name": "National Lobster Day",
-      "description": "A celebration dedicated to enjoying the sumptuous taste of lobster, one of the ocean's most delicious crustaceans.",
-      "origin": "Originated to promote lobster consumption and honor lobster fisherman communities, especially in New England, USA.",
+      "name": "National Lobster Thermidor Day",
+      "description": "A day dedicated to the fancy French dish of lobster meat cooked in a rich creamy sauce of egg yolks, brandy, and mustard, stuffed back into the shell and browned under the broiler.",
+      "origin": "A food-calendar observance honoring the classic French recipe, which is said to have been created in Paris in 1894 and named after the play Thermidor.",
       "category": "Food",
       "emoji": "🦞",
-      "funFact": "Despite its luxury status today, lobsters were once so plentiful they were used as fertilizer and considered poor people’s food!"
+      "funFact": "The dish is reportedly named after the play Thermidor by Victorien Sardou, which premiered the same year the restaurant Maire is said to have first served it."
     },
     {
-      "name": "Daughters and Sons Day",
-      "description": "A heartfelt day for parents to honor their children and for children to show appreciation to their parents, recognizing the family bond and generational connections.",
-      "origin": "Created by the American Family Therapy Academy to emphasize family unity and mutual respect.",
-      "category": "Family",
-      "emoji": "👨‍👧‍👦❤️",
-      "funFact": "This day encourages family meetings and activities to strengthen communication—perfect excuse for some quality fun time!"
+      "name": "World Pharmacists Day",
+      "description": "A global day when people thank the folks behind the counter who decode doctors' handwriting and keep medicine safe and understandable.",
+      "origin": "Established by the International Pharmaceutical Federation (FIP) in 2009 and held on September 25, the anniversary of the organization's founding in 1912.",
+      "category": "Awareness Day",
+      "emoji": "💊",
+      "funFact": "The FIP chose September 25 because the federation was founded on that date in 1912 in The Hague."
     },
     {
       "name": "National One-Hit Wonder Day",
-      "description": "A quirky celebration of those artists and bands who scored one memorable hit song before disappearing from the radar.",
-      "origin": "Created by music enthusiasts and radio stations to recognize the catchy hits that stuck in our heads despite the artists’ fleeting fame.",
-      "category": "Music",
-      "emoji": "🎵🤷‍♂️",
-      "funFact": "Some one-hit wonders have made more money from their single hit than some artists with long careers!"
+      "description": "A day to blast that one song you can sing every word of, but cannot name a second hit by the same artist. Expect lots of karaoke and nostalgic playlists.",
+      "origin": "An unofficial pop culture observance created by music fans and radio stations to celebrate artists who struck lightning once.",
+      "category": "Pop Culture",
+      "emoji": "🎤",
+      "funFact": "Many one-hit wonders are not truly one-hit; artists like Right Said Fred and Soft Cell had other chart success in other countries, but are remembered for a single US smash."
+    },
+    {
+      "name": "National Crush a Can Day",
+      "description": "A noisy observance encouraging people to flatten their empty aluminum cans and recycle them, with extra points for dramatic stomping.",
+      "origin": "A recycling-awareness observance promoted by environmental groups and waste management advocates to encourage tidy recycling habits.",
+      "category": "Environmental",
+      "emoji": "🥫",
+      "funFact": "Aluminum cans can be recycled and back on store shelves in as little as 60 days, and recycling aluminum saves about 95 percent of the energy needed to make new aluminum."
     }
   ]
 }

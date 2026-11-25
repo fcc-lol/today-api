@@ -2,58 +2,62 @@
   "date": "December 1",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub known for its glossy leaves and large, showy flowers that bloom in late fall to early spring. Often grown in gardens for its stunning and colorful blooms amid winter months.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated worldwide in temperate regions",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In frost-free regions it grows into a large landscape shrub several meters tall.",
+      "bloomingSeason": "Late autumn to winter (November to February in the Northern Hemisphere)",
+      "location": "Native to southern Mexico and Central America; widely grown in warm climates such as California, Florida, the Mediterranean, and Australia, and as a potted plant worldwide",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White",
+        "Cream",
+        "Marbled"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were named after botanist Georg Kamel and have been cultivated in Japan for centuries, symbolizing admiration and perfection."
+      "funFact": "Poinsettias only develop their colorful bracts when nights are long, needing about 12 to 14 hours of uninterrupted darkness for several weeks, which is why they color up around the holidays."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant single or semi-double flowers. It blooms earlier than the common camellia and tolerates more sun.",
+      "bloomingSeason": "Autumn to early winter (October to January)",
+      "location": "Native to Japan; cultivated across the southeastern United States, the UK, Europe, and temperate Asia",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Sasanqua camellias are related to the tea plant, and their seeds are pressed to produce camellia oil used in cooking and cosmetics in Japan and China."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial herbaceous plant that blooms in winter, often around Christmas, with white to pink flowers. It is beloved for bringing color to shady winter gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe, cultivated in temperate gardens",
+      "description": "A low, clump-forming perennial with leathery evergreen leaves and nodding, cup-shaped white flowers with golden stamens that age to pinkish green. It thrives in cool, shaded woodland conditions.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Native to mountain woodlands of the Alps and the northern Apennines in central and southern Europe; grown in temperate gardens worldwide",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Pale pink",
+        "Green"
       ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite the name 'rose,' Christmas Rose flowers are not true roses but are prized for their ability to bloom in snowy conditions."
+      "emoji": "❄️",
+      "funFact": "Despite its name, the Christmas rose is not a true rose but a buttercup relative, and all parts of it are toxic."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub that can bloom year-round in subtropical and Mediterranean climates, producing clusters of fragrant flowers. Blooms often continue into winter in mild climates.",
-      "bloomingSeason": "Spring to winter (year-round in suitable climates)",
-      "location": "Mediterranean region, southern United States, and subtropical areas",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tree with fern-like feathery leaves that erupts in huge clusters of vivid blossoms. The flowers are followed by long, dark woody seed pods.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere tropics (October to January in places such as Brazil and Australia); blooms in May to July in the Northern Hemisphere",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Brazil, northern Australia, India, the Caribbean, and Africa",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
+        "Scarlet",
+        "Orange-red",
+        "Yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Oleander is highly toxic if ingested, yet it is widely planted for its long-lasting blooms and drought tolerance."
-    },
-    {
-      "name": "Eucalyptus globulus",
-      "commonName": "Blue Gum Eucalyptus",
-      "description": "A fast-growing evergreen tree native to Australia, producing white flowers in clusters during winter months. Its flowers attract nectar-feeding birds and insects.",
-      "bloomingSeason": "April to December (varies by region, December blooming common in southern hemisphere)",
-      "location": "Australia, also cultivated globally in Mediterranean and subtropical climates",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Eucalyptus flowers lack petals; the showy part consists of the many long stamens that attract pollinators."
+      "emoji": "🌳",
+      "funFact": "The royal poinciana is endangered in its native Madagascar even though it is one of the most widely planted ornamental trees in the world."
     }
   ]
 }

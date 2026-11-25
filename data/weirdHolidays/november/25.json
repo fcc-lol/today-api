@@ -2,36 +2,44 @@
   "date": "November 25",
   "holidays": [
     {
-      "name": "Buy Nothing Day",
-      "description": "A day dedicated to anti-consumerism and encouraging people to abstain from purchasing anything for 24 hours as a protest against overconsumption.",
-      "origin": "Started in Canada in 1992 by artist Ted Dave and the Adbusters magazine as a response to Black Friday shopping frenzy.",
+      "name": "National Parfait Day",
+      "description": "A day to celebrate the layered dessert of yogurt, fruit, granola, or ice cream stacked in a tall glass. Spoon all the way down to hit every layer.",
+      "origin": "Like many food observances, it is an unofficial holiday popularized through food calendars. The word parfait is French for 'perfect', and the dessert dates to 19th-century France, where it was a frozen custard-style dish.",
+      "category": "Food Day",
+      "emoji": "🍨",
+      "funFact": "The original French parfait was a smooth frozen dessert made with egg yolks, sugar syrup, and cream. The layered American version with granola and yogurt came much later."
+    },
+    {
+      "name": "International Day for the Elimination of Violence against Women",
+      "description": "A serious UN-designated day of awareness and action. Landmarks around the world are lit up in orange, and it kicks off 16 Days of Activism.",
+      "origin": "The UN General Assembly designated November 25 in 1999. The date honors the Mirabal sisters, three activists murdered in 1960 in the Dominican Republic under dictator Rafael Trujillo.",
       "category": "Awareness Day",
-      "emoji": "🚫🛍️",
-      "funFact": "Buy Nothing Day is intentionally placed on the day after Thanksgiving in the U.S., the biggest shopping day of the year, to make a bold statement."
+      "emoji": "🧡",
+      "funFact": "Orange is the signature color of the campaign, symbolizing a brighter future free from violence. Buildings from the Empire State Building to pyramids have been lit orange for it."
     },
     {
-      "name": "Blasé Day",
-      "description": "A quirky celebration recognizing people who approach everything with a blasé, indifferent attitude, embracing cool nonchalance in a hectic world.",
-      "origin": "Informal and unofficial—celebrated mostly by internet communities who love sarcastic and ironic holidays.",
-      "category": "Pop Culture",
-      "emoji": "😐🆒",
-      "funFact": "Blasé Day encourages wearing sunglasses indoors and shrugging off all responsibilities, just for one day."
+      "name": "Buy Nothing Day (North America)",
+      "description": "A protest against consumerism where people try to go a full 24 hours without spending money, as an antidote to Black Friday shopping frenzies.",
+      "origin": "Started in Vancouver in 1992 by artist Ted Dave and later promoted by Adbusters magazine. It is observed on the Friday after Thanksgiving in North America, and the following Saturday internationally. In some years that falls on November 25.",
+      "category": "Anti-Consumerism Observance",
+      "emoji": "🛍️",
+      "funFact": "Activists have staged 'zombie walks' through shopping malls, wandering the aisles without buying a thing."
     },
     {
-      "name": "Parfait Day",
-      "description": "A delicious day to celebrate the layered dessert known as parfait, featuring yogurt, fruit, granola, and sweet toppings.",
-      "origin": "Originating from the French word meaning 'perfect,' Parfait Day is a fun food holiday to honor this elegant treat.",
-      "category": "Food Holiday",
-      "emoji": "🍨🍓",
-      "funFact": "Traditional French parfaits are usually frozen desserts, but many Americans think of the parfait as a layered yogurt treat!"
+      "name": "National Shopping Reminder Day",
+      "description": "A tongue-in-cheek holiday reminding people that the holiday shopping season is in full swing and that there are only so many days left to buy gifts.",
+      "origin": "This is a lighthearted unofficial observance that appears on quirky holiday calendars around the post-Thanksgiving shopping period.",
+      "category": "Unofficial Holiday",
+      "emoji": "🎁",
+      "funFact": "Retail analysts say a large share of shoppers start holiday buying before Thanksgiving, which makes this reminder almost unnecessary."
     },
     {
-      "name": "World TV Day",
-      "description": "An international observance recognizing the impact of television on decision-making by bringing attention to major issues such as globalization and cultural exchanges via TV.",
-      "origin": "Established by the United Nations in 1996 to recognize television's role in communication and information dissemination.",
-      "category": "Awareness Day",
-      "emoji": "📺🌐",
-      "funFact": "November 25 was chosen because the first World Summit on Television occurred on that date in 1996."
+      "name": "Square Dance Day",
+      "description": "A day for do-si-do-ing, swinging your partner, and following the caller. Grab a bandana and find a barn.",
+      "origin": "Square dancing is tied to American folk culture, and the date is celebrated by dance clubs and enthusiasts as an unofficial observance. The dance has roots in English, Scottish, and French country dances brought to North America.",
+      "category": "Dance and Culture Day",
+      "emoji": "🤠",
+      "funFact": "Square dance is the official state dance of more than 30 US states, which makes it one of the most widely adopted state symbols."
     }
   ]
 }

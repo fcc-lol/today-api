@@ -2,60 +2,64 @@
   "date": "October 23",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular autumn-flowering garden plant known for its large, showy blooms in a variety of colors including yellow, white, pink, and red. Chrysanthemums are widely cultivated and are considered symbols of autumn in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (commonly found in North America, Europe, and East Asia)",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered flower heads in many forms, including pompon, spider, and decorative types. It thrives in the shortening days of fall and is widely grown in gardens and as cut flowers.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia, especially China and Japan",
       "colors": [
-        "yellow",
-        "white",
-        "pink",
-        "red"
+        "Yellow",
+        "Bronze",
+        "White",
+        "Purple",
+        "Red",
+        "Pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums originate from East Asia and have been cultivated for over 2,500 years, symbolizing longevity and rejuvenation in Chinese and Japanese cultures."
+      "funFact": "Chrysanthemums are short-day plants, meaning they set buds when nights grow longer. The flower is the national flower of Japan's Imperial seal tradition and is celebrated at the annual Festival of Happiness."
     },
     {
-      "name": "Gaillardia pulchella",
-      "commonName": "Blanket Flower",
-      "description": "A hardy wildflower with bright red and yellow daisy-like petals that bloom profusely in late summer through fall. It thrives in dry, sunny environments and is native to North America.",
-      "bloomingSeason": "June to October",
-      "location": "Central and Southern United States, Mexico",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular subtropical tree that becomes covered in clouds of trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Entire streets turn purple when it blooms, and the fallen flowers carpet the ground.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), Argentina, and New Zealand's northern regions",
       "colors": [
-        "red",
-        "yellow",
-        "orange"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌻",
-      "funFact": "The vibrant coloration of Gaillardia flowers attracts pollinators such as bees and butterflies, making it a great plant for ecological gardening."
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, and a local superstition in Australia says that if a jacaranda flower falls on your head, you'll pass your exams."
     },
     {
-      "name": "Nicotiana alata",
-      "commonName": "Flowering Tobacco",
-      "description": "A fragrant, tubular flower that blooms in late summer and fall. It emits a sweet scent in the evening to attract moth pollinators and is often used in ornamental gardens.",
-      "bloomingSeason": "August to November",
-      "location": "Originally native to South America; widely cultivated in temperate gardens worldwide",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust North American wildflower with clusters of daisy-like flowers with yellow centers. It is one of the last major nectar sources for migrating monarch butterflies and other pollinators late in the season.",
+      "bloomingSeason": "Late summer to late autumn (August to October, lingering into early November in mild areas)",
+      "location": "Eastern and central North America in meadows, roadsides, and wet prairies",
       "colors": [
-        "white",
-        "pink",
-        "red"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
-      "emoji": "🌸",
-      "funFact": "Nicotiana alata’s scent intensifies at night, an adaptation to attract nocturnal pollinators like hawk moths."
+      "emoji": "🦋",
+      "funFact": "The flower heads close at night and on cloudy days, and the plant's late bloom makes it a critical fuel stop for monarch butterflies on their migration to Mexico."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native tree that produces striking bright orange to red spider-like flowers in spring through fall. It is both an ornamental and timber tree species.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia and cultivated in subtropical and tropical regions",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub producing the largest flower head in the Protea genus, with a bowl of pointed pink bracts surrounding a central cluster of tiny flowers. It thrives in nutrient-poor, fire-prone fynbos habitats.",
+      "bloomingSeason": "Late winter to early summer in the Southern Hemisphere, with peak flowering in spring (September to November)",
+      "location": "Southwestern and southern coastal regions of South Africa, including the Cape Floral Region",
       "colors": [
-        "orange",
-        "red"
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Silky Oak flowers are rich in nectar and attract a variety of birds, especially honeyeaters, playing an important role in local ecosystems."
+      "funFact": "The king protea is the national flower of South Africa, and the genus is named after the Greek god Proteus, who could change shape, reflecting the great diversity of protea forms."
     }
   ]
 }

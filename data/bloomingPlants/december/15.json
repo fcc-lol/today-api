@@ -2,60 +2,64 @@
   "date": "December 15",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "An evergreen shrub admired for its large, showy flowers that bloom in late fall to early spring. It thrives in temperate zones and is widely cultivated in gardens.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, cultivated in temperate gardens worldwide",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In its native habitat it grows into a woody shrub up to 4 meters tall, and it is now cultivated worldwide as a holiday plant.",
+      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
+      "location": "Native to southern Mexico and Central America; cultivated worldwide, grown outdoors in tropical and subtropical regions such as Florida, Hawaii, and southern California",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "White",
+        "Pink",
+        "Cream",
+        "Marbled"
+      ],
+      "emoji": "🎄",
+      "funFact": "Poinsettias need long nights of about 12 hours of uninterrupted darkness for around 8 to 10 weeks to develop their colored bracts. The Aztecs called the plant Cuetlaxochitl and used its sap to make a reddish dye."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. Thousands of cultivars exist, with single, semi-double, and fully double blooms. It thrives in mild, humid climates with acidic soil and partial shade.",
+      "bloomingSeason": "Late autumn through early spring (November to March)",
+      "location": "Native to Japan, Korea, and eastern China; widely grown in the southeastern United States, the Pacific Northwest, the UK, and Mediterranean Europe",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellias were a favorite flower of Queen Victoria and have been symbols of admiration and perfection in many cultures."
+      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant that produces tea. In Japan, camellias are called tsubaki and their oil has been used for centuries for hair care and for polishing samurai swords."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub tolerant of heat and drought, oleander blooms profusely in mild winter climates assuring vibrant flowers in December in suitable regions.",
-      "bloomingSeason": "Late spring to early winter, can bloom year-round in warm climates",
-      "location": "Mediterranean Basin, subtropical regions worldwide",
+      "name": "Nuytsia floribunda",
+      "commonName": "Western Australian Christmas Tree",
+      "description": "The world's largest mistletoe, growing as a tree up to 10 meters tall. In early summer it is covered in brilliant, fiery orange flower clusters. It is a hemiparasite that taps into the roots of neighboring plants.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (November to January)",
+      "location": "Southwestern Western Australia, in sandy soils of woodlands and heathlands",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
+        "Orange",
+        "Golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "This tree is a root parasite that can attach to the roots of other plants, and it has even been known to cut through underground cables, mistaking them for roots. Its flowering coincides with Christmas, which gave it its common name."
+    },
+    {
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial with large trumpet-shaped flowers, usually 2 to 4 per thick hollow stem. In the Northern Hemisphere it is forced indoors to bloom for the winter holidays, while in the Southern Hemisphere it blooms naturally in the early summer garden.",
+      "bloomingSeason": "Winter indoors in the Northern Hemisphere; spring to early summer outdoors in the Southern Hemisphere",
+      "location": "Native to the tropical and subtropical Americas, especially the Andes and Brazil; cultivated worldwide",
+      "colors": [
+        "Red",
+        "White",
+        "Pink",
+        "Orange",
+        "Striped"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the oleander plant are highly toxic if ingested, but its beautiful flowers remain popular in landscaping."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial plant that blooms in midwinter, often around Christmas, producing white to pinkish flowers despite cold conditions.",
-      "bloomingSeason": "December to February",
-      "location": "European mountain regions, cultivated in temperate gardens",
-      "colors": [
-        "white",
-        "pink"
-      ],
-      "emoji": "❄️🌼",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose and has a folklore association with the nativity story."
-    },
-    {
-      "name": "Rhododendron simsii",
-      "commonName": "Azalea",
-      "description": "A species of azalea that blooms in tropical to subtropical climates during winter months, adding color to gardens and wild areas.",
-      "bloomingSeason": "November to January",
-      "location": "Southeast Asia, Southern China, and cultivated in similar climates",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Azaleas are known to be toxic to pets and humans but are widely prized for vibrant floral displays."
+      "funFact": "Plants sold as amaryllis are actually Hippeastrum. The true Amaryllis genus contains only two species and is native to South Africa. A single large bulb can produce flower stalks over 60 cm tall."
     }
   ]
 }

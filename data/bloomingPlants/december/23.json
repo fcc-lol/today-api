@@ -2,57 +2,66 @@
   "date": "December 23",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub with clusters of fragrant, showy flowers that bloom in warm climates, often found in Mediterranean and subtropical regions.",
-      "bloomingSeason": "May to December (in warm climates)",
-      "location": "Mediterranean, Southern United States, subtropical regions",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with bright colored bracts that are often mistaken for petals, surrounding tiny yellow true flowers called cyathia. In frost-free climates it grows into a large landscape shrub up to 4 meters tall, and elsewhere it is widely grown as a festive potted plant.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico and Central America; cultivated worldwide, with outdoor displays in Mexico, Southern California, Florida, Hawaii, and Australia",
       "colors": [
-        "Pink",
-        "White",
-        "Red"
+        "red",
+        "white",
+        "pink",
+        "cream",
+        "marbled"
       ],
       "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, but it is widely cultivated for its beautiful, long-lasting flowers."
+      "funFact": "Poinsettias need long nights of at least 12 hours of uninterrupted darkness for about 8 to 10 weeks to develop their colored bracts, which is why they bloom around the winter solstice. The Aztecs called it cuetlaxochitl and used the sap to make a reddish dye."
     },
     {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "A eucalyptus species native to the high country of southeastern Australia, known for its attractive white to cream flowers that appear in late autumn to winter.",
-      "bloomingSeason": "May to December",
-      "location": "Southeastern Australia",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "An evergreen perennial with leathery, dark green, divided leaves and nodding, cup-shaped white flowers that often age to pink. It blooms in cold weather, sometimes pushing up through snow, and provides rare nectar for winter pollinators.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Native to the mountain woodlands of the Alps and northern Apennines in central and southern Europe; grown in temperate gardens in Europe and North America",
       "colors": [
-        "White",
-        "Cream"
+        "white",
+        "pale pink",
+        "green-tinged"
       ],
-      "emoji": "🌿",
-      "funFact": "Snow Gums are adapted to cold alpine environments and their flowers provide important nectar sources in winter for native birds and insects."
+      "emoji": "🌹",
+      "funFact": "Despite its name, it is not a rose but a member of the buttercup family. Legend says it sprang from the tears of a shepherd girl who had no gift for the infant Christ, and all parts of the plant are toxic."
     },
     {
-      "name": "Winter Jasmine (Jasminum nudiflorum)",
-      "commonName": "Winter Jasmine",
-      "description": "A deciduous shrub prized for its bright yellow flowers which bloom on bare stems in late winter to early spring, often starting in December in milder climates.",
-      "bloomingSeason": "December to March",
-      "location": "China (native), cultivated in temperate regions worldwide",
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial producing tall, sturdy flower stalks topped with several giant trumpet-shaped blooms up to 25 cm across, followed by strap-like leaves. In the Southern Hemisphere garden plants flower naturally in the early summer, while in the north, forced bulbs flower indoors.",
+      "bloomingSeason": "Southern Hemisphere early summer (December); forced indoors in the Northern Hemisphere in winter",
+      "location": "Hybrids derived from species native to the tropical Andes and South America; grown in gardens in South Africa, Australia, and Brazil and as indoor plants in Europe and North America",
       "colors": [
-        "Yellow"
+        "red",
+        "white",
+        "pink",
+        "orange",
+        "salmon",
+        "striped"
       ],
-      "emoji": "🌼",
-      "funFact": "Winter Jasmine blooms vigorously even in cold weather and is often used to brighten winter gardens."
+      "emoji": "🌷",
+      "funFact": "Amaryllis bulbs can send up a flower stalk that grows several centimeters in a single day, and a large bulb may produce two or even three stalks in one season."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with large, glossy leaves and rose-like flowers that typically bloom in late fall through early spring, celebrated for its elegant blooms in winter gardens.",
-      "bloomingSeason": "October to March",
-      "location": "Japan, China, Korea; also widely cultivated in temperate regions",
+      "name": "Metrosideros excelsa",
+      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
+      "description": "A spreading evergreen coastal tree with thick, gray-green leaves and gnarled, sprawling trunks, often clinging to sea cliffs. In midsummer it is covered in brilliant crimson flower clusters made of fluffy stamens, which attract nectar-feeding birds such as tūī and bellbirds.",
+      "bloomingSeason": "Southern Hemisphere summer (late November to January)",
+      "location": "Native to coastal areas of the North Island of New Zealand; widely planted in Auckland and other temperate coastal cities",
       "colors": [
-        "Pink",
-        "Red",
-        "White"
+        "crimson red",
+        "scarlet",
+        "rare yellow",
+        "rare orange"
       ],
-      "emoji": "🌸",
-      "funFact": "Camellia japonica flowers have inspired East Asian art and culture for centuries, symbolizing purity and longevity."
+      "emoji": "🌳",
+      "funFact": "Its flowering around Christmas has made it a New Zealand holiday symbol, and the species is culturally significant to Māori. The largest and oldest specimens can live for several hundred years."
     }
   ]
 }

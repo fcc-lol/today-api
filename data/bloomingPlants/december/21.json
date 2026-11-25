@@ -2,55 +2,62 @@
   "date": "December 21",
   "plants": [
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot",
-      "description": "A deciduous tree native to East Asia, noted for its fragrant and beautiful blossoms that often bloom in late winter to early spring, sometimes as early as December in milder climates. Its flowers are usually pink or white and symbolize resilience and hope in Japanese culture.",
-      "bloomingSeason": "December to February",
-      "location": "East Asia (Japan, China, Korea)",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub with showy colored bracts that surround small yellow true flowers. In its native range it grows as a tall woody shrub, and it is widely grown as a potted plant elsewhere during the holiday season.",
+      "bloomingSeason": "Late autumn to winter (November to February in the Northern Hemisphere)",
+      "location": "Native to Mexico and Central America; cultivated worldwide, outdoors in frost-free regions such as California, Florida, Hawaii and the Mediterranean",
       "colors": [
+        "red",
+        "white",
         "pink",
-        "white"
+        "cream"
       ],
-      "emoji": "🌸",
-      "funFact": "The Japanese apricot's blossoms are celebrated in traditional festivals called Ume Matsuri, and were historically admired by poets and artists."
+      "emoji": "🌺",
+      "funFact": "The colorful parts of a poinsettia are modified leaves called bracts, not petals. Flowering is triggered by long nights, which is why it blooms near the winter solstice."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A perennial evergreen herbaceous plant native to mountainous regions of Europe, famous for blooming around Christmas time. Its large white to pinkish flowers bloom in late winter, often poking through snow or frost, bringing early color to gardens.",
-      "bloomingSeason": "December to February",
-      "location": "Europe (Alps and surrounding areas)",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. Many cultivars open in cool winter weather and brighten gardens when little else is in bloom.",
+      "bloomingSeason": "Late autumn to early spring",
+      "location": "Native to Japan, Korea and China; grown in temperate gardens in the southeastern United States, the UK, Japan and the Pacific Northwest",
       "colors": [
+        "red",
+        "pink",
         "white",
-        "pink"
+        "variegated"
       ],
       "emoji": "🌹",
-      "funFact": "Despite its common name, the Christmas Rose is not a true rose; its toxic roots were historically thought to have medicinal properties."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. It is the official flower of Alabama, where it is called the state flower."
     },
     {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "An evergreen tree native to alpine and subalpine regions of southeastern Australia, producing clusters of small white flowers in late spring and winter, including December in some high-altitude locations. It is well adapted to cold climates.",
-      "bloomingSeason": "November to January",
-      "location": "Australia (Alpine regions)",
+      "name": "Delosperma cooperi",
+      "commonName": "Hardy Ice Plant",
+      "description": "A low, mat-forming succulent that is covered in bright daisy-like flowers during the Southern Hemisphere summer. It thrives in full sun and dry, rocky soils.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to March)",
+      "location": "Native to South Africa, including the Eastern Cape and Free State highlands",
       "colors": [
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Snow gums are known for their smooth, multicolored bark and are an iconic tree of Australian snowfields."
-    },
-    {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka",
-      "description": "A shrub or small tree native to New Zealand and southeastern Australia, producing abundant white or pink flowers during late spring to summer, but in some coastal or mild climates flowering may begin as early as December. Famous for Manuka honey produced from its nectar.",
-      "bloomingSeason": "November to February",
-      "location": "New Zealand, Australia",
-      "colors": [
-        "white",
+        "magenta",
+        "purple",
         "pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Manuka honey has antibacterial properties and is highly valued globally for its medicinal uses."
+      "emoji": "🌸",
+      "funFact": "The flowers open only in bright sunlight and close in the evening or on overcast days. The succulent leaves store water to survive drought."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "A clump-forming perennial with strap-like leaves and tall stems topped by rounded clusters of trumpet-shaped flowers. It puts on a spectacular display at the height of the Southern Hemisphere summer.",
+      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
+      "location": "Native to South Africa; widely planted in Australia, New Zealand, Chile and coastal California",
+      "colors": [
+        "blue",
+        "violet",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower), and it has become invasive in parts of Australia and New Zealand."
     }
   ]
 }

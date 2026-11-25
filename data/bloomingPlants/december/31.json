@@ -2,57 +2,63 @@
   "date": "December 31",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub native to eastern and southern Asia, known for its large, showy flowers that bloom in winter and early spring. The blooms are usually pink, red, or white and appear when many other plants are dormant.",
-      "bloomingSeason": "November to March",
-      "location": "East Asia, cultivated worldwide in temperate regions",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were a favorite of Victorian-era gardeners and are often featured in traditional Japanese gardens."
-    },
-    {
-      "name": "Witch Hazel (Hamamelis virginiana)",
-      "commonName": "Witch Hazel",
-      "description": "A deciduous shrub native to North America, known for its fragrant, ribbon-like yellow flowers that bloom in late fall to early winter, often after the leaves have fallen.",
-      "bloomingSeason": "October to December",
-      "location": "Eastern North America",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel is used in traditional medicine and skincare products for its astringent properties."
-    },
-    {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A perennial plant native to the mountainous regions of Europe, famous for its white to pink flowers that bloom in late winter, sometimes even pushing through snow.",
-      "bloomingSeason": "December to February",
-      "location": "Europe, especially the Alps",
+      "description": "An evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It thrives in cold winter conditions and is prized for flowering when little else does in the garden.",
+      "bloomingSeason": "Late autumn to late winter (December to March)",
+      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens of the Northern Hemisphere",
       "colors": [
         "white",
-        "pink"
+        "pale pink",
+        "green"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its common name, the Christmas rose is not a rose but belongs to the buttercup family and has a long association with Christmas traditions."
+      "emoji": "🌹",
+      "funFact": "Despite its name, the Christmas Rose is not a rose but belongs to the buttercup family, and all parts of the plant are toxic."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "The national flower of South Africa, this striking plant features large, robust flower heads with spiky petals resembling a crown and blooms during the southern hemisphere summer, including December.",
-      "bloomingSeason": "August to April",
-      "location": "South Africa",
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "A bulbous perennial producing tall, sturdy stalks topped with large trumpet-shaped flowers. In the Southern Hemisphere, garden plants bloom outdoors in summer, while in the north they are forced indoors for winter display.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in the Northern Hemisphere in winter",
+      "location": "Native to tropical and subtropical South America; cultivated worldwide, with outdoor blooming in Australia, South Africa, and South America",
       "colors": [
-        "pink",
         "red",
-        "white"
+        "white",
+        "pink",
+        "orange",
+        "striped"
+      ],
+      "emoji": "🌺",
+      "funFact": "A single large amaryllis bulb can produce several flower stalks, and the flower stalk can grow several centimeters in a single day."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flame Tree)",
+      "description": "A broad, umbrella-shaped tree with feathery fern-like leaves that becomes covered in brilliant clusters of flowers. Its blooms light up streets and parks in the warm season, followed by long woody seed pods.",
+      "bloomingSeason": "Southern Hemisphere summer (December to February), with some blooming in tropical regions at other times",
+      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and parts of Africa",
+      "colors": [
+        "scarlet",
+        "orange-red",
+        "yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "In the wild in Madagascar it is endangered, even though it is among the most widely planted ornamental trees in the tropics."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "An evergreen shrub or small tree with glossy dark green leaves and showy rose-like flowers. Many cultivars begin blooming in early winter, brightening gardens in mild-winter climates.",
+      "bloomingSeason": "Late autumn to early spring (December to April)",
+      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Western Europe, Pacific Northwest, and Australia",
+      "colors": [
+        "red",
+        "pink",
+        "white",
+        "variegated"
       ],
       "emoji": "🌸",
-      "funFact": "The King Protea is one of the largest protea species and symbolizes change and hope in South African culture."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to make camellia oil."
     }
   ]
 }

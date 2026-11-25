@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Skeptics Day",
-      "description": "A day dedicated to promoting critical thinking, scientific skepticism, and questioning extraordinary claims with evidence.",
-      "origin": "Celebrated by skeptics and rationalists around the world to highlight the importance of scientific inquiry and debunk pseudoscience.",
-      "category": "Awareness",
+      "description": "A day for questioning everything, demanding evidence, and raising an eyebrow at claims that sound too good to be true. Celebrants are encouraged to think critically, and to doubt this very description.",
+      "origin": "Observed in connection with Skeptics Day, promoted by skeptic and critical-thinking communities as a day to champion science and evidence-based reasoning.",
+      "category": "Awareness Day",
+      "emoji": "🤨",
+      "funFact": "The day is sometimes tied to Friday the 13th superstitions, which skeptics love to debunk, since there's no good evidence that the date brings bad luck."
+    },
+    {
+      "name": "National Yorkshire Pudding Day",
+      "description": "A day to celebrate the puffy, golden, crispy-edged British baked batter traditionally served with roast beef and gravy. Bonus points if yours rises higher than your expectations.",
+      "origin": "Observed in the UK and by food lovers elsewhere, usually on the first Sunday of February, though some food calendars also list it in autumn.",
+      "category": "Food Day",
+      "emoji": "🍮",
+      "funFact": "Yorkshire puddings were originally called 'dripping puddings' because the batter was cooked under roasting meat to catch the drippings."
+    },
+    {
+      "name": "National No Bra Day",
+      "description": "An awareness day that began as a way to encourage breast cancer awareness and early screening. It has since become widely known on social media.",
+      "origin": "Created in 2011 as a social media awareness campaign and observed on October 13 each year in the United States.",
+      "category": "Awareness Day",
+      "emoji": "🎀",
+      "funFact": "The day falls during Breast Cancer Awareness Month, and many organizations use it to promote self-exams and mammogram reminders."
+    },
+    {
+      "name": "Train Your Brain Day",
+      "description": "A day for mental workouts such as puzzles, crosswords, learning a new skill, or finally figuring out how to fold a fitted sheet. Your brain gets a gym membership for 24 hours.",
+      "origin": "An unofficial observance created by brain-fitness enthusiasts to encourage lifelong learning and mental stimulation.",
+      "category": "Unofficial Observance",
       "emoji": "🧠",
-      "funFact": "The date was chosen to coincide roughly with the birthday of Carl Sagan, a famous science communicator and skeptic."
+      "funFact": "Neuroscientists call the brain's ability to rewire itself 'neuroplasticity,' and it continues throughout adulthood, so you really can teach an old dog new tricks."
     },
     {
-      "name": "National No Bra Day (USA)",
-      "description": "An awareness day encouraging women to go braless to raise awareness about breast cancer and promote self-exams.",
-      "origin": "Started by breast cancer survivors and advocates to spark conversations about breast health and reduce stigma.",
-      "category": "Health Awareness",
-      "emoji": "🎗️",
-      "funFact": "Despite the name, the day isn’t about comfort — it’s about empowerment and education to encourage early detection."
-    },
-    {
-      "name": "Friday the 13th Movie Day",
-      "description": "A fun unofficial pop culture celebration honoring the iconic horror movie franchise 'Friday the 13th' featuring Jason Voorhees.",
-      "origin": "Fans of the franchise celebrate on any Friday the 13th, with October 13th being a special occasion if it falls on that date.",
-      "category": "Pop Culture",
-      "emoji": "🎥🔪",
-      "funFact": "The original 'Friday the 13th' film was released in 1980 and spawned more than a dozen movies and countless fan theories."
-    },
-    {
-      "name": "National Yorkshire Pudding Day (UK)",
-      "description": "A delicious food holiday celebrating the beloved British side dish, Yorkshire pudding, traditionally served with roast beef.",
-      "origin": "UK food enthusiasts honor this classic dish that’s been a staple since the 18th century, often enjoyed on Sundays.",
-      "category": "Food",
-      "emoji": "🥧",
-      "funFact": "Despite its name, Yorkshire pudding isn’t a dessert but a batter-based side that’s crispy on the outside and soft inside, perfect for soaking up gravy."
+      "name": "Navy Birthday",
+      "description": "A day when the United States Navy celebrates its founding with ceremonies, cake, and plenty of nautical pride. Sailors everywhere get a good excuse for a party.",
+      "origin": "The Continental Congress authorized the first naval force on October 13, 1775, creating what became the U.S. Navy.",
+      "category": "Historical Observance",
+      "emoji": "⚓",
+      "funFact": "The first Continental Navy ships were converted merchant vessels, so the Navy began life essentially as a fleet of repurposed cargo boats."
     }
   ]
 }

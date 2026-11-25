@@ -2,61 +2,63 @@
   "date": "November 11",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "A popular ornamental flower known for its bright and diverse colored blooms, chrysanthemums are widely cultivated and symbolic of autumn in many cultures.",
-      "bloomingSeason": "October to November",
-      "location": "Temperate regions worldwide, especially East Asia and Europe",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A classic autumn perennial with dense, layered blooms in forms ranging from pompons to spidery and decorative types. It thrives in cool autumn weather and is a staple of late-season gardens and floral markets in the Northern Hemisphere.",
+      "bloomingSeason": "Mid-autumn to early winter (October to December in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan); widely grown in North America, Europe, and Asia",
       "colors": [
         "yellow",
         "white",
-        "red",
+        "bronze",
         "purple",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the official flower of November in the United States, symbolizing optimism and joy."
-    },
-    {
-      "name": "Dianella tasmanica",
-      "commonName": "Tasman Flax-lily",
-      "description": "A native Australian plant producing striking blue to violet flowers and unique blue berries, often found in understories and coastal regions.",
-      "bloomingSeason": "September to November",
-      "location": "Southeastern Australia",
-      "colors": [
-        "blue",
-        "violet"
-      ],
-      "emoji": "💙",
-      "funFact": "This plant's berries are an important food source for native birds, aiding in seed dispersal."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub famous for its glossy leaves and large, rose-like flowers appearing in late autumn through winter.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia, also cultivated globally in subtropical climates",
-      "colors": [
-        "red",
         "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica flowers were historically prized in Japan for tea ceremonies, and the plant gives its name to 'camellia tea'."
-    },
-    {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "A hardy evergreen shrub tolerant of heat and poor soils, oleander blooms profusely through the warm months into late autumn in Mediterranean and subtropical zones.",
-      "bloomingSeason": "May to November",
-      "location": "Mediterranean Basin, parts of Asia, North Africa",
-      "colors": [
-        "pink",
-        "white",
         "red"
       ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are short-day plants, so they start forming flower buds only when nights lengthen. Growers manipulate light to make them bloom out of season, and the flower is the emblem of Japan's Imperial family."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A graceful tropical to subtropical tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers. The blossoms carpet streets and gardens as they fall, creating purple-tinted ground cover.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa (Pretoria), Australia (Brisbane, Sydney, Grafton), and New Zealand's north",
+      "colors": [
+        "lavender",
+        "blue",
+        "purple"
+      ],
       "emoji": "🌸",
-      "funFact": "Despite its beauty, oleander is highly toxic if ingested, containing cardiac glycosides."
+      "funFact": "Pretoria, South Africa, is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every spring. Many Australian university students traditionally associate the blooms with approaching exams."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that is one of the earliest camellias to flower, producing fragrant single or semi-double blooms with prominent golden stamens against glossy dark green leaves. It tolerates more sun than other camellias and is popular as hedging.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Native to Japan; cultivated in the southeastern United States, Mediterranean Europe, Australia, and New Zealand",
+      "colors": [
+        "white",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Sasanqua camellias are related to the tea plant, Camellia sinensis, and their seeds are pressed to make camellia oil, used in Japan for cooking, hair care, and polishing tools."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Guernsey Lily",
+      "description": "A bulbous perennial that sends up leafless stems topped with umbels of narrow, wavy-petaled, sparkling pink flowers in late autumn, when most other garden plants have faded. The strap-like leaves appear after flowering.",
+      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
+      "location": "Native to the Drakensberg mountains of South Africa; naturalized or cultivated in the UK, Western Europe, and the Pacific Northwest",
+      "colors": [
+        "pink",
+        "rose"
+      ],
+      "emoji": "💐",
+      "funFact": "The petals of Nerine have a glittering, crystalline sheen that sparkles in sunlight, earning it the nickname 'diamond lily'. The bulbs bloom best when crowded and baked by summer sun."
     }
   ]
 }

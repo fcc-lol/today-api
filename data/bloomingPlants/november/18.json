@@ -2,58 +2,64 @@
   "date": "November 18",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their vibrant blooms that flourish in late autumn. They feature a wide variety of flower shapes and colors, and are often used in floral arrangements and as ornamental plants.",
-      "bloomingSeason": "October to November",
-      "location": "Temperate regions worldwide, commonly cultivated in gardens",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A bushy perennial with dense, layered flower heads in many forms, from pompons to spiders. It is a staple of autumn gardens and is widely grown commercially for cut flowers.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide, especially East Asia, Europe, and North America; native to China",
       "colors": [
         "yellow",
         "white",
-        "red",
-        "purple"
+        "bronze",
+        "purple",
+        "red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are symbols of autumn in many cultures and are associated with longevity and rejuvenation in Asia."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and in Japan the flower is the emblem of the Imperial family and is celebrated at an annual festival."
     },
     {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "Southern Magnolia is an evergreen tree famous for its large, fragrant white flowers that bloom from late spring into late autumn in warm climates. In some regions, blooming extends into November, especially in mild subtropical zones.",
-      "bloomingSeason": "May to November",
-      "location": "Southeastern United States and similar climates",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. Blooming often occurs before the leaves fully emerge, carpeting streets with fallen blossoms.",
+      "bloomingSeason": "Spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), and Argentina",
       "colors": [
-        "white"
+        "lavender",
+        "purple",
+        "blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, thousands of jacaranda trees bloom each spring, and local lore says a falling blossom on your head brings good luck."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often fragrant single or semi-double flowers. It blooms earlier than most camellias and is valued for bringing color to late autumn gardens.",
+      "bloomingSeason": "Late autumn to early winter (October to December)",
+      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Australia",
+      "colors": [
+        "white",
+        "pink",
+        "rose",
+        "red"
       ],
       "emoji": "🌸",
-      "funFact": "The southern magnolia's flowers can be up to 12 inches in diameter and have a lemony fragrance that attracts beetles for pollination."
+      "funFact": "Camellia sasanqua is related to Camellia sinensis, the plant used to make tea, and its seeds can be pressed for a culinary and cosmetic oil."
     },
     {
-      "name": "Rhododendron simsii",
-      "commonName": "Azalea",
-      "description": "Azaleas are shrubs celebrated for their stunning flower displays. In tropical and subtropical areas, some azalea species bloom in autumn and into November, offering vibrant color when many temperate species have finished blooming.",
-      "bloomingSeason": "October to December",
-      "location": "Subtropical Asia, also cultivated in gardens worldwide",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub whose showy 'flowers' are actually colored bracts surrounding tiny yellow true flowers. In frost-free climates it grows as a large landscape shrub that begins coloring up as nights lengthen.",
+      "bloomingSeason": "Late autumn to winter (November to February)",
+      "location": "Native to southern Mexico; grown outdoors in tropical and subtropical regions and as a houseplant worldwide",
       "colors": [
-        "pink",
         "red",
         "white",
-        "purple"
+        "pink",
+        "cream"
       ],
       "emoji": "🌺",
-      "funFact": "Azaleas are part of the Rhododendron genus and contain toxins that can be deadly if ingested by humans or pets."
-    },
-    {
-      "name": "Eucalyptus pauciflora",
-      "commonName": "Snow Gum",
-      "description": "Snow Gum is a eucalyptus species native to the Australian subalpine regions. It often blooms in late spring to early summer, but certain populations can bloom again in late autumn, producing clusters of creamy white flowers.",
-      "bloomingSeason": "November to December (late blooming populations)",
-      "location": "Australian Alps",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Snow Gum trees are resilient to cold and snow, a rarity among eucalyptus species typically found in warmer climates."
+      "funFact": "Poinsettias are short-day plants that need long uninterrupted nights to develop their bract color, which is why they peak around the holiday season."
     }
   ]
 }

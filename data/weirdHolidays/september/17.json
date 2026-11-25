@@ -2,36 +2,44 @@
   "date": "September 17",
   "holidays": [
     {
-      "name": "Constitution Day (USA)",
-      "description": "Celebrate the signing of the U.S. Constitution on September 17, 1787. It's a day to appreciate the supreme law of the land and the beginnings of American democracy!",
-      "origin": "Established to commemorate the signing of the U.S. Constitution at the Constitutional Convention in Philadelphia.",
-      "category": "History / Patriotic 🇺🇸",
+      "name": "International Talk Like a Pirate Day (Observed Sept 19 normally)",
+      "description": "Hold on, this one is a neighbor! On September 17 itself the pirate-adjacent fun is a warm-up: landlubbers practice their 'Arrr' and 'Ahoy' in advance.",
+      "origin": "Talk Like a Pirate Day was created in 1995 by John Baur and Mark Summers during a racquetball game and is officially on September 19.",
+      "category": "Pop Culture",
+      "emoji": "🏴‍☠️",
+      "funFact": "The holiday went global after humorist Dave Barry wrote about it in 2002."
+    },
+    {
+      "name": "Constitution Day and Citizenship Day (U.S.)",
+      "description": "Americans commemorate the signing of the U.S. Constitution with readings, quizzes, and schoolroom lessons about civic duty. Some celebrate by trying to recite the Preamble from memory.",
+      "origin": "The Constitution was signed on September 17, 1787, in Philadelphia. The observance was formalized by Congress in 2004, and was earlier known as Citizenship Day.",
+      "category": "Official Observance",
       "emoji": "📜",
-      "funFact": "September 17 is sometimes called \"Citizenship Day\" as well, honoring all who have become U.S. citizens."
+      "funFact": "Schools receiving federal funds are required to teach about the Constitution on this day, and when the 17th falls on a weekend it is observed on a nearby weekday."
     },
     {
       "name": "National Apple Dumpling Day",
-      "description": "A tasty day dedicated to the sweet, cinnamon-spiced apple dumpling. Perfect excuse to bake this cozy treat!",
-      "origin": "An unofficial food holiday likely celebrated by apple lovers and dessert fans.",
-      "category": "Food 🍏🍮",
-      "emoji": "🥟",
-      "funFact": "Apple dumplings have been around since colonial America, when apples were one of the most accessible fruits for baking."
+      "description": "A day dedicated to the humble apple dumpling: a whole apple wrapped in pastry, baked until golden and bubbling, and served warm with cinnamon sauce or ice cream.",
+      "origin": "A food holiday of unofficial origin, celebrating the fall apple harvest and a dessert that dates back centuries in English and American kitchens.",
+      "category": "Food",
+      "emoji": "🍎",
+      "funFact": "Apple dumplings were a popular dessert in colonial America, where cooks often wrapped them in cloth and boiled them instead of baking."
     },
     {
-      "name": "International Coastal Cleanup Day",
-      "description": "A global day encouraging volunteers to clean up litter and debris on beaches and waterways, protecting marine life and promoting environmental health.",
-      "origin": "Started by The Ocean Conservancy in 1986 to combat ocean pollution.",
-      "category": "Environmental Awareness 🌊",
-      "emoji": "🧹",
-      "funFact": "Over 13 million volunteers participate worldwide each year, helping to remove millions of pounds of trash from coastlines."
+      "name": "National Cheeseburger Day (Sept 18) Eve / Hamburger Honoring Day Warm-up: National Pet Rock Day Alternative - World Patient Safety Day",
+      "description": "World Patient Safety Day raises awareness about preventing harm in healthcare, encouraging patients, families, and medical teams to speak up and double-check. It is a serious observance, but an important one.",
+      "origin": "Established by the World Health Assembly in 2019 and led by the World Health Organization, with a new theme each year.",
+      "category": "Awareness Day",
+      "emoji": "🩺",
+      "funFact": "Landmarks around the world are lit up in orange each year to mark the day."
     },
     {
-      "name": "Tell a Fairy Tale Day",
-      "description": "A whimsical day to share your favorite fairy tales, whether classic or original, inspiring magic and imagination.",
-      "origin": "An unofficial fun day for storytelling enthusiasts and kids alike.",
-      "category": "Literature / Fun 📚",
-      "emoji": "🧚‍♂️",
-      "funFact": "Fairy tales like Cinderella and Snow White often carry hidden lessons and morals beyond just entertaining stories."
+      "name": "Answer the Telephone Like Buddy the Elf Day",
+      "description": "Fans of the movie Elf answer every call with the cheerful greeting, 'Buddy the Elf, what's your favorite color?' Expect confusion from telemarketers and glee from your friends.",
+      "origin": "A pop culture observance inspired by the 2003 holiday comedy Elf, in which Will Ferrell's character answers the phone with this signature line.",
+      "category": "Pop Culture",
+      "emoji": "🧝",
+      "funFact": "The scene was largely improvised, and Buddy's wide-eyed innocence helped make Elf one of the most rewatched holiday films ever."
     }
   ]
 }

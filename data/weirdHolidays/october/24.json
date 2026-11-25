@@ -2,36 +2,44 @@
   "date": "October 24",
   "holidays": [
     {
-      "name": "World Development Information Day",
-      "description": "A day dedicated to promoting awareness and mobilizing public opinion on development problems and the necessity of strengthening international cooperation to solve them.",
-      "origin": "Established by the United Nations General Assembly in 1972 to draw attention to development issues globally.",
-      "category": "Awareness Day",
-      "emoji": "🌍",
-      "funFact": "Despite its serious intent, many confuse this day for a celebration of tech development rather than global development issues!"
+      "name": "National Bologna Day",
+      "description": "A day to celebrate the humble lunchbox staple, bologna, by frying it, stacking it on white bread, or cutting little slits in it so it doesn't puff up like a hat in the pan.",
+      "origin": "The sandwich meat is named after Bologna, Italy, and its ancestor is mortadella. The American version became a Depression-era favorite because it was cheap and filling. The exact origin of the day is unclear, as with many food observances.",
+      "category": "Food Day",
+      "emoji": "🥪",
+      "funFact": "Fried bologna tends to puff into a dome in the pan, which is why many cooks cut slits around the edge, and in parts of Appalachia and the South it is a beloved regional comfort food."
     },
     {
-      "name": "National Bologna Day (USA)",
-      "description": "Celebrate the humble yet surprisingly versatile bologna sandwich and all things bologna-related.",
-      "origin": "Unofficial U.S. food holiday created by sandwich enthusiasts to honor this classic deli meat on October 24 each year.",
-      "category": "Food Holiday",
-      "emoji": "🥪",
-      "funFact": "Bologna was named after the Italian city of Bologna, but American bologna is actually quite different from the original Mortadella sausage! It’s a staple lunchbox star."
+      "name": "National Good & Plenty Day",
+      "description": "A salute to the licorice-flavored candy in pink and white shells, one of those sweets people either adore or avoid.",
+      "origin": "Good & Plenty is often described as America's oldest branded candy, introduced in 1893 in Philadelphia by Quaker City Confectionery Company. Its observance day is an unofficial candy holiday.",
+      "category": "Food Day",
+      "emoji": "🍬",
+      "funFact": "The candy was long associated with a mascot named Choo Choo Charlie, who starred in 1950s and 60s TV commercials with a jingle that said 'Good & Plenty, Choo Choo Charlie.'"
     },
     {
       "name": "United Nations Day",
-      "description": "Commemorates the anniversary of the UN Charter’s entry into force in 1945, promoting peace and international cooperation worldwide.",
-      "origin": "Established in 1948 by the United Nations to mark its founding day.",
-      "category": "Official International Day",
-      "emoji": "🕊️",
-      "funFact": "The UN has six official languages, and October 24th celebrations often include cultural performances representing all of them!"
+      "description": "A global observance celebrating international cooperation, peace, and the idea that countries can work together instead of just arguing at the table.",
+      "origin": "It marks the anniversary of the UN Charter coming into force on October 24, 1945, after ratification by enough founding member states. It has been observed worldwide since 1948.",
+      "category": "International Observance",
+      "emoji": "🌍",
+      "funFact": "In 1971 the UN General Assembly recommended that the day be observed as a public holiday by member states, and it is sometimes celebrated with concerts and flag displays."
     },
     {
-      "name": "National Frankenstein Day (USA)",
-      "description": "A celebration of Mary Shelley's iconic monster novel, Frankenstein, inspiring countless adaptations in books, movies, and pop culture.",
-      "origin": "Observed in the USA to honor the novel’s impact since its 1818 publication on October 24.",
-      "category": "Pop Culture Celebration",
-      "emoji": "🧟‍♂️",
-      "funFact": "Frankenstein was originally the name of the scientist, but the public often mistakes it to be the monster’s name—this day clears up the confusion with fun trivia!"
+      "name": "World Polio Day",
+      "description": "A day for raising awareness about eradicating polio, a disease that has been reduced by more than 99 percent worldwide thanks to vaccines.",
+      "origin": "Rotary International established World Polio Day to honor the birthday of Jonas Salk, who led the team that developed the first successful polio vaccine.",
+      "category": "Awareness Day",
+      "emoji": "💉",
+      "funFact": "Salk famously never patented the vaccine and, when asked who owned the patent, reportedly replied, 'Well, the people, I would say. There is no patent. Could you patent the sun?'"
+    },
+    {
+      "name": "Take Back the Ball Day",
+      "description": "An unofficial and cheeky observance said to encourage people to reclaim the playful spirit of tossing and bouncing a ball around, just for fun.",
+      "origin": "Like many unofficial days, it grew up through quirky calendar lists and social media with no single known founder, and it is mostly celebrated casually by anyone with a ball and a backyard.",
+      "category": "Unofficial Fun Day",
+      "emoji": "⚽",
+      "funFact": "Balls are among the oldest toys in human history, with ancient examples made from animal bladders, leather, and even rubber used by Mesoamerican cultures thousands of years ago."
     }
   ]
 }

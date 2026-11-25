@@ -2,36 +2,44 @@
   "date": "November 24",
   "holidays": [
     {
-      "name": "Celebrate Your Unique Talent Day",
-      "description": "A day to embrace and showcase the quirky or unusual talents that make you one of a kind! Whether you can whistle through your nose or juggle spoons, today is your time to shine.",
-      "origin": "This unofficial holiday emerged as a celebration of individuality and the diversity of human skills, encouraging people to appreciate what makes them unique.",
-      "category": "Self-Improvement / Fun",
-      "emoji": "✨",
-      "funFact": "There's even an online community where people share videos of their odd talents, from eyebrow dancing to speed stacking cups!"
-    },
-    {
       "name": "National Sardines Day",
-      "description": "A fishy foodie celebration honoring the small but mighty sardine. Perfect for adventurous eaters, this day highlights sardines’ deliciousness and nutritional value.",
-      "origin": "Observed in the United States, this food holiday promotes appreciation for sardines as a sustainable and healthy seafood option.",
-      "category": "Food",
+      "description": "A day dedicated to the humble, oily little fish that lives in a tin. Fans celebrate by eating sardines on crackers, toast, or straight from the can, while skeptics celebrate by opening a window.",
+      "origin": "Like many American food observances, it appears to have been created by food enthusiasts and promoters rather than by any official proclamation. Its exact founder is unknown.",
+      "category": "Food Day",
       "emoji": "🐟",
-      "funFact": "Sardines are often canned with their bones, making them an excellent source of calcium!"
+      "funFact": "Sardines are named after the Italian island of Sardinia, where they were once found in huge numbers."
     },
     {
-      "name": "Buy Nothing Day (varies annually, often November 24)",
-      "description": "A global day of protest against consumerism and overconsumption—people are encouraged to refrain from all shopping for 24 hours.",
-      "origin": "Started in Canada in 1992, Buy Nothing Day has spread worldwide as a counterpoint to Black Friday’s shopping frenzy.",
-      "category": "Activism / Awareness",
-      "emoji": "🚫🛒",
-      "funFact": "Some cities hold 'free markets' or clothing swaps on this day to promote sharing instead of buying."
+      "name": "National Espresso Day",
+      "description": "A day for caffeine lovers to toast the tiny, powerful cup of concentrated coffee. Expect jittery enthusiasm, tiny cups, and people saying they only need one shot.",
+      "origin": "An unofficial food and drink observance, popularized by coffee fans and cafes. The espresso machine itself was patented in Italy in 1884 by Angelo Moriondo.",
+      "category": "Food Day",
+      "emoji": "☕",
+      "funFact": "Despite the common belief, espresso actually has less caffeine per serving than a regular cup of drip coffee, though it is far more concentrated by volume."
     },
     {
-      "name": "Flossing Day",
-      "description": "A humorous observance that reminds everyone to floss those pearly whites—because good dental hygiene is weirdly satisfying!",
-      "origin": "Created by dental health advocates as a fun way to encourage flossing habits.",
-      "category": "Health / Wellness",
-      "emoji": "🦷🪥",
-      "funFact": "The average person only flosses 27% of recommended times; this day tries to boost those numbers with a fun twist!"
+      "name": "Celebrate Your Unique Talent Day",
+      "description": "A day for showing off your strange and wonderful skills, whether it is juggling, whistling through your teeth, or folding a fitted sheet. No talent is too odd to be celebrated.",
+      "origin": "An unofficial observance meant to encourage people to share their gifts with the world rather than hiding them away.",
+      "category": "Pop Culture/Fun Observance",
+      "emoji": "🎭",
+      "funFact": "Guinness World Records tracks thousands of unusual talents, including the most spoons balanced on a human body."
+    },
+    {
+      "name": "Evolution Day",
+      "description": "A day for celebrating the science of evolution, marking the anniversary of the publication of Charles Darwin's famous book. Fans of natural selection may be seen proudly wearing shirts with fish growing legs.",
+      "origin": "It commemorates the November 24, 1859 publication of On the Origin of Species by Means of Natural Selection. The first printing sold out on its first day.",
+      "category": "Science Awareness",
+      "emoji": "🧬",
+      "funFact": "The first print run of 1,250 copies of Darwin's book was reportedly oversubscribed on the very first day it was available to booksellers."
+    },
+    {
+      "name": "Black Cat Appreciation Day Eve Cuddle Day (Unofficial Cat Lover Observance)",
+      "description": "An informal day when cat lovers give extra attention to their feline overlords, especially the sleek black ones who are unfairly accused of being bad luck.",
+      "origin": "Rooted in various animal welfare efforts that try to counter superstitions about black cats and boost their adoption rates.",
+      "category": "Animal Appreciation",
+      "emoji": "🐈‍⬛",
+      "funFact": "Black cats are often adopted less frequently than other cats in shelters, a phenomenon some shelter workers call 'Black Cat Syndrome'."
     }
   ]
 }

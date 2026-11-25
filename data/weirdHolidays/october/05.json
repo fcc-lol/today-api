@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "World Teachers' Day",
-      "description": "A day to celebrate educators worldwide and recognize their vital contribution to society and development.",
-      "origin": "Established in 1994 by UNESCO to commemorate the signing of the 1966 UNESCO/ILO Recommendation concerning the Status of Teachers.",
-      "category": "Awareness/Education",
-      "emoji": "👩‍🏫",
-      "funFact": "Despite being a serious day, some schools celebrate with quirky teacher-themed games and treats — proving educators can have fun, too!"
+      "description": "A day to celebrate teachers everywhere, from kindergarten finger-paint wranglers to university professors who still use overhead projectors. Students around the world say thanks with apples, cards, and surprisingly heartfelt poems.",
+      "origin": "Established by UNESCO in 1994 to commemorate the signing of the 1966 UNESCO/ILO Recommendation concerning the Status of Teachers.",
+      "category": "International Observance",
+      "emoji": "🍎",
+      "funFact": "It is celebrated in over 100 countries, and the 1966 recommendation it commemorates was the first international document to set standards for teachers' rights and responsibilities."
     },
     {
-      "name": "Do Something Nice Day",
-      "description": "Encourages people to break the routine by doing a random act of kindness for someone else, big or small.",
-      "origin": "A modern informal observance created to spread positivity and kindness in communities.",
-      "category": "Kindness/Community",
-      "emoji": "💖",
-      "funFact": "People have used this day to anonymously pay for a stranger’s coffee, leave encouraging notes, or even serenade a random passerby!"
+      "name": "National Do Something Nice Day",
+      "description": "An unofficial holiday that dares you to commit random acts of kindness, like paying for a stranger's coffee, leaving a compliment on a sticky note, or letting someone merge in traffic without glaring.",
+      "origin": "Started as a grassroots feel-good observance in the United States, popularized through social media and calendars of unofficial holidays.",
+      "category": "Unofficial Holiday",
+      "emoji": "😊",
+      "funFact": "Studies on kindness suggest that doing nice things for others can boost your own happiness, so you are basically being selfish by being generous."
     },
     {
-      "name": "Be Bald and Be Free Day",
-      "description": "A fun, ironic day encouraging people who are bald to flaunt their beautiful shiny heads with confidence and pride.",
-      "origin": "Started as a social media trend to celebrate baldness beyond stereotypes and beauty norms.",
-      "category": "Self-Love/Body Positivity",
-      "emoji": "🪞",
-      "funFact": "Some participants hold ‘bald beauty pageants’ or ‘shine contests’ showing off how gloriously shiny and smooth their heads are!"
+      "name": "National Apple Betty Day",
+      "description": "A day to celebrate the humble Apple Betty, a baked dessert of spiced apples layered with buttery breadcrumbs. It is basically apple pie's rustic cousin who skipped the crust and showed up to the party anyway.",
+      "origin": "The dessert dates back to colonial America, where thrifty cooks used stale bread crumbs and autumn apples to make a warm dessert. The day is a food-calendar observance.",
+      "category": "Food Holiday",
+      "emoji": "🍏",
+      "funFact": "Apple Betty is a type of 'brown Betty', a dessert family that was a clever way to use up leftover bread, making it an early example of reducing food waste."
     },
     {
-      "name": "National Hostess Twinkie Day",
-      "description": "A tongue-in-cheek tribute to the iconic cream-filled sponge cake snack, celebrating its quirky place in American snacking history.",
-      "origin": "Commemorates the return of Twinkies after the Hostess brand briefly filed for bankruptcy.",
-      "category": "Food/Fun",
-      "emoji": "🍰",
-      "funFact": "Twinkies have outlasted many pop culture trends and have even been called the 'unofficial symbol of the apocalypse' because of their famously long shelf life!"
+      "name": "World Cerebral Palsy Day... No, It's Do Something Different? Meet Chic Spy Day: National Kick Butt Day",
+      "description": "A cheeky observance encouraging people to kick butt at their goals, tackle the tasks they've been procrastinating on, and generally get stuff done, not to be taken in the literal sense.",
+      "origin": "An unofficial motivational day that appears on quirky holiday calendars, urging people to push past their excuses in the fall season.",
+      "category": "Unofficial Holiday",
+      "emoji": "🦵",
+      "funFact": "Many people use October as a second 'New Year' for goal setting, since the final quarter of the year offers a handy chance to finish strong."
+    },
+    {
+      "name": "Cinema Day for Gaming? Meet Ada Lovelace-Style Nerd Day: Get Funky Day",
+      "description": "A day for letting your inner groove loose by busting out dance moves in the kitchen, the office hallway, or the grocery store aisle, regardless of whether music is playing.",
+      "origin": "A playful unofficial observance on novelty holiday calendars, inspired by the funk music tradition that grew from African American communities in the 1960s.",
+      "category": "Pop Culture",
+      "emoji": "🕺",
+      "funFact": "Funk pioneer James Brown is often called the 'Godfather of Soul', and his 1965 song 'Papa's Got a Brand New Bag' is widely credited with laying the foundation of funk."
     }
   ]
 }

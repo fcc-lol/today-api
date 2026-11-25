@@ -2,58 +2,61 @@
   "date": "October 14",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers admired for their vibrant blooms and rich cultural symbolism, especially in East Asia and Europe. They often bloom in autumn, brightening gardens with a variety of colors.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide, especially in East Asia, Europe, and North America",
+      "name": "Aster novi-belgii",
+      "commonName": "New York Aster",
+      "description": "A clump-forming perennial covered in daisy-like flower heads with yellow centers and narrow petals. It is a vital late-season nectar source for migrating monarch butterflies and native bees, and it is widely grown in gardens as well as found in wet meadows and along stream banks.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern North America; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Purple",
+        "Violet",
+        "Blue",
+        "Pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums symbolize longevity and rejuvenation in many cultures and are the official flower of the city of Chicago."
+      "funFact": "Aster comes from the Greek word for 'star', and the plant was once reclassified into the genus Symphyotrichum based on chromosome and DNA studies."
     },
     {
-      "name": "Clivia miniata",
-      "commonName": "Clivia or Kaffir Lily",
-      "description": "Clivia miniata is a shade-loving evergreen perennial native to South Africa, known for its striking clusters of trumpet-shaped orange flowers. It typically blooms in late winter to autumn in the Southern Hemisphere.",
-      "bloomingSeason": "September to November (Southern Hemisphere)",
-      "location": "South Africa and cultivated worldwide in warmer climates",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "A bulbous perennial that sends up goblet-shaped pink-lilac flowers in autumn, before its leaves appear in spring. The blooms emerge directly from the soil without foliage, which has earned it the nickname 'naked ladies'. It grows in damp meadows and woodland edges and is popular in cottage gardens.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Europe, from the British Isles to central Europe; naturalized in parts of North America",
       "colors": [
-        "orange",
-        "yellow"
+        "Lilac",
+        "Pink",
+        "Pale purple"
       ],
-      "emoji": "🌺",
-      "funFact": "Clivia flowers can stay fresh on the plant for up to two months, making it a favorite for indoor floral displays."
+      "emoji": "🌷",
+      "funFact": "Despite its name it is not a true crocus. It contains colchicine, a toxic compound that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Calanthe triplicata",
-      "commonName": "Christmas Orchid",
-      "description": "A terrestrial orchid native to tropical Asia and the Pacific, Calanthe triplicata produces large, fragrant white to pale green flowers that bloom in autumn, often around October to December.",
-      "bloomingSeason": "October to December",
-      "location": "Tropical Asia, Pacific Islands, Australia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular semi-deciduous tree that blankets streets and parks with clouds of trumpet-shaped lavender-blue flowers as spring reaches full swing in the Southern Hemisphere. Its fern-like foliage and wide spreading canopy make it a favorite street tree in warm climates.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and New Zealand",
       "colors": [
-        "white",
-        "pale green"
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas turn the city purple each October, and it is nicknamed the 'Jacaranda City'. Fallen blossoms create purple carpets on the pavement."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "A tall, airy annual with feathery foliage and saucer-shaped daisy-like flowers on slender stems. It thrives in sunny, warm conditions and blooms profusely until the first frost. In mild autumns it remains a bright garden fixture and attracts pollinators.",
+      "bloomingSeason": "Summer to first frost (June to October)",
+      "location": "Native to Mexico; cultivated in gardens across the Americas, Europe, and Asia",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "Unlike many orchids, Calanthe triplicata grows on the ground rather than epiphytically on trees."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A wildflower native to North America, this species produces tall spikes of small, bright yellow flowers in late summer to autumn. It plays a crucial role in supporting pollinators during the fall.",
-      "bloomingSeason": "August to October",
-      "location": "North America, often in fields and roadsides",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Goldenrod is often mistakenly blamed for hay fever, but it is the allergenic ragweed that blooms simultaneously."
+      "funFact": "Cosmos seeds were collected by Spanish priests in Mexico who grew them in mission gardens, and the name comes from the Greek 'kosmos', meaning order or harmony. In 2015 cosmos flowers were grown on the International Space Station."
     }
   ]
 }

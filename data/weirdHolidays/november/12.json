@@ -2,36 +2,44 @@
   "date": "November 12",
   "holidays": [
     {
-      "name": "Happy Hour Day",
-      "description": "A celebration dedicated to that magical time when cocktails and snacks become the stars, often blending socializing and relaxation after a long day.",
-      "origin": "Though happy hours have been around since the early 20th century, Happy Hour Day was popularized to officially honor the tradition of discounted drinks and good vibes that bring people together after work.",
-      "category": "Social Drinking & Leisure",
+      "name": "National Pizza with the Works Except Anchovies Day",
+      "description": "A day dedicated to loading your pizza with every topping imaginable, with one glorious exception: the salty little fish. Pepperoni, sausage, mushrooms, peppers, and olives are all welcome to the party.",
+      "origin": "This is an unofficial American food holiday that appears on food-holiday calendars. Its exact creator is unclear, but it plays on the long-running pizza topping debate over anchovies.",
+      "category": "Food",
+      "emoji": "🍕",
+      "funFact": "Anchovies are frequently ranked among the most divisive pizza toppings in America, and many pizzerias keep them off the menu or offer them only by special request."
+    },
+    {
+      "name": "National Chicken Soup for the Soul Day",
+      "description": "A day to enjoy a warm bowl of chicken soup and share a little comfort with others, whether the soup is meant for the stomach or the spirit.",
+      "origin": "This unofficial observance appears on food and holiday calendars on November 12. It draws on the old tradition of chicken soup as a home remedy and on the title of the popular Chicken Soup for the Soul book series, which began in 1993.",
+      "category": "Food",
+      "emoji": "🍲",
+      "funFact": "Chicken soup has been recommended as a cold remedy for centuries, and some small studies suggest that warm broth may help ease congestion and keep you hydrated."
+    },
+    {
+      "name": "National Happy Hour Day",
+      "description": "A day to celebrate discounted drinks and appetizers after work, and to be thankful for any excuse to leave the office a little early and socialize.",
+      "origin": "This is an unofficial observance listed on November 12 on many holiday calendars. The term 'happy hour' is generally traced to the U.S. Navy in the 1910s and 1920s, when it described scheduled entertainment aboard ships.",
+      "category": "Social",
       "emoji": "🍹",
-      "funFact": "The term \"happy hour\" dates back to the 1920s U.S. Navy, where it referred to scheduled entertainment to boost morale during long sea missions."
+      "funFact": "The phrase 'happy hour' was first used in the Navy to describe organized recreation for sailors, such as boxing matches and movies, and had nothing to do with drinking at first."
     },
     {
       "name": "World Pneumonia Day",
-      "description": "An important awareness day focusing on preventing, treating, and understanding pneumonia, the world's leading infectious killer of children under five.",
-      "origin": "Established in 2009 by the Global Coalition Against Child Pneumonia to raise global awareness and increase efforts against this deadly disease.",
-      "category": "Health Awareness",
+      "description": "A serious awareness day with a global mission: rallying attention and action against pneumonia, a leading infectious cause of death in young children worldwide.",
+      "origin": "The observance was started in 2009 by the Global Coalition Against Child Pneumonia and is marked each year on November 12 with advocacy and health education campaigns.",
+      "category": "Awareness",
       "emoji": "🫁",
-      "funFact": "Pneumonia can be caused by viruses, bacteria, or fungi, and despite being preventable and treatable, it claims over 1 million lives worldwide annually."
+      "funFact": "Pneumonia is preventable and treatable, and vaccines, good nutrition, clean air, and access to antibiotics all play a major role in reducing deaths."
     },
     {
-      "name": "National Candle Day",
-      "description": "A delightfully quirky day to honor scented (or unscented) candles that transform any space with their glow and aroma, perfect for cozy vibes and romantic settings.",
-      "origin": "Started by candle enthusiasts to promote the simple joy and ambiance candles bring to everyday moments and special occasions alike.",
-      "category": "Home & Lifestyle",
-      "emoji": "🕯️",
-      "funFact": "The largest candle ever made weighed over 60,000 pounds and stood more than 20 feet tall!"
-    },
-    {
-      "name": "Young Readers Day",
-      "description": "Celebrating the joy and importance of young children reading, fostering literacy, imagination, and learning from an early age.",
-      "origin": "Created by literacy advocates to highlight the lifelong benefits of encouraging children to develop a love for reading.",
-      "category": "Education & Literacy",
-      "emoji": "📚",
-      "funFact": "Research shows that children who read regularly at a young age perform better academically and enjoy lifelong creative thinking skills."
+      "name": "Sun Yat-sen Birthday (Father of the Nation Day)",
+      "description": "A day of remembrance honoring Sun Yat-sen, a revolutionary leader who helped found the Republic of China, with ceremonies and tributes in Taiwan.",
+      "origin": "Sun Yat-sen was born on November 12, 1866. His birthday is commemorated in Taiwan and is also known as Chung-Shan Day or National Father's Day in some contexts.",
+      "category": "Historical",
+      "emoji": "🇹🇼",
+      "funFact": "Sun Yat-sen is a rare figure honored in both mainland China and Taiwan, and he is often called the 'Father of the Nation' in both places."
     }
   ]
 }

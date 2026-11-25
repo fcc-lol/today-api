@@ -2,58 +2,64 @@
   "date": "December 4",
   "plants": [
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub with fragrant, showy flowers ranging from white to pink and red, commonly found in Mediterranean and subtropical climates. It blooms profusely in warm climates even in early winter.",
-      "bloomingSeason": "Year-round in warm climates, typically spring to fall, extending into winter in mild areas",
-      "location": "Mediterranean Basin, Southern USA, California, and subtropical regions",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with segmented, flat, pointed stems and tubular, asymmetrical flowers that dangle from the stem tips. Widely grown as a houseplant in the Northern Hemisphere, where it blooms in response to short days and cool nights.",
+      "bloomingSeason": "Late autumn to early winter (November to January)",
+      "location": "Native to coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
       "colors": [
-        "Pink",
-        "White",
-        "Red"
+        "pink",
+        "red",
+        "magenta",
+        "white",
+        "orange",
+        "yellow"
       ],
       "emoji": "🌸",
-      "funFact": "Oleander is highly toxic if ingested, but has been used ornamentally for thousands of years due to its vibrant blooms and resilience."
+      "funFact": "In the wild it grows on tree branches and rocks in humid forests, and it needs about 12-14 hours of darkness each night for several weeks to set buds."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Camellia",
-      "description": "A popular evergreen shrub admired for its large, ornate flowers that bloom in cooler months, often from late fall to early spring. It thrives in temperate climate zones and is widely cultivated in gardens.",
-      "bloomingSeason": "Fall to early spring (including December)",
-      "location": "East Asia (native), widely cultivated in temperate gardens worldwide",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "A shrub whose showy 'flowers' are actually colored bracts surrounding tiny yellow true flowers called cyathia. In frost-free climates it grows into a large shrub several meters tall, while in colder regions it is a popular potted holiday plant.",
+      "bloomingSeason": "Late autumn through winter (November to February)",
+      "location": "Native to southern Mexico and Central America; grown outdoors in warm regions such as California, Florida, Australia, and Hawaii",
       "colors": [
-        "Red",
-        "Pink",
-        "White"
+        "red",
+        "white",
+        "pink",
+        "burgundy",
+        "cream"
+      ],
+      "emoji": "🎄",
+      "funFact": "The Aztecs called it cuetlaxochitl and used its sap for medicine and its bracts to make reddish dye. Its color change is triggered by long nights, just like the Thanksgiving cactus."
+    },
+    {
+      "name": "Callistemon citrinus",
+      "commonName": "Crimson Bottlebrush",
+      "description": "An evergreen shrub or small tree with cylindrical flower spikes made of numerous bright red stamens that resemble a bottle brush. Its blooms are rich in nectar and attract honeyeaters, lorikeets, and bees during the Southern Hemisphere late spring.",
+      "bloomingSeason": "Spring to summer in the Southern Hemisphere (October to January), with sporadic blooms at other times",
+      "location": "Native to eastern Australia; widely planted in warm regions including California, the Mediterranean, and South Africa",
+      "colors": [
+        "red",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "The camellia flower was named after Jesuit botanist Georg Kamel, and its petals are used to produce tea in some species closely related to Camellia japonica."
+      "funFact": "The woody seed capsules can remain on the stems for years and often release seeds only after fire or branch death."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A hardy perennial known for its white to pinkish flowers that bloom in late winter, sometimes starting in December. It is native to mountainous regions of Europe and thrives in shaded garden areas.",
-      "bloomingSeason": "December to February",
-      "location": "Central and Southern Europe",
+      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It flowers in cold weather, often pushing through snow in mild winter gardens and woodlands.",
+      "bloomingSeason": "Early winter to early spring (December to March)",
+      "location": "Native to mountainous woodlands of central and southern Europe, from the Alps to the northern Apennines and the Balkans; cultivated in temperate gardens",
       "colors": [
-        "White",
-        "Light Pink"
+        "white",
+        "pale pink",
+        "green-tinged"
       ],
-      "emoji": "❄️🌹",
-      "funFact": "Despite its common name, the Christmas Rose is unrelated to roses and has medicinal uses historically, though it is toxic if consumed."
-    },
-    {
-      "name": "Leptospermum scoparium",
-      "commonName": "Manuka",
-      "description": "A flowering shrub or small tree native to New Zealand and southeastern Australia, producing small white or pink flowers in late spring to early summer in the Southern Hemisphere, which corresponds to December.",
-      "bloomingSeason": "November to January (Southern Hemisphere summer)",
-      "location": "New Zealand, Southeastern Australia",
-      "colors": [
-        "White",
-        "Pink"
-      ],
-      "emoji": "🌿🌸",
-      "funFact": "Manuka flowers are the source of manuka honey, famous worldwide for its unique antibacterial properties."
+      "emoji": "❄️",
+      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
     }
   ]
 }

@@ -2,59 +2,66 @@
   "date": "November 21",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are popular garden flowers known for their vibrant colors and variety of forms. They are widely cultivated as ornamental plants and often bloom in late autumn when many other plants have finished flowering.",
-      "bloomingSeason": "October to November",
-      "location": "Temperate regions worldwide, including East Asia, Europe, and North America",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "An epiphytic cactus with segmented, flattened stems and tubular flowers with pointed, claw-like segments on the stem edges. Widely grown as a houseplant, it is triggered to bloom by long nights and cool temperatures.",
+      "bloomingSeason": "Late autumn to early winter (November to January in the Northern Hemisphere)",
+      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "purple",
-        "orange"
+        "Pink",
+        "Red",
+        "Magenta",
+        "Orange",
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🌵",
+      "funFact": "Unlike desert cacti, it grows on trees in humid Brazilian forests, and it can live for decades, with some plants passed down through families for generations."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub with glossy dark green leaves and delicate, often fragrant flowers that open from autumn into early winter. It is more sun-tolerant and earlier blooming than the common camellia.",
+      "bloomingSeason": "Mid-autumn to early winter (October to December)",
+      "location": "Native to Japan and southern China; widely grown in the southeastern United States, Mediterranean Europe, Australia and New Zealand",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua seeds are pressed to produce camellia oil, used for centuries in Japan for cooking and hair care."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, deciduous to semi-evergreen tree with fern-like foliage that produces dense clusters of trumpet-shaped violet-blue flowers, blanketing streets and the ground beneath in purple.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
+      "location": "Native to South America; commonly seen in Australia, South Africa, Argentina and Brazil",
+      "colors": [
+        "Purple",
+        "Violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas bloom at this time, earning it the nickname 'Jacaranda City,' and in Australia, a folk belief says a flower falling on your head brings good luck."
+    },
+    {
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A herbaceous perennial with a huge diversity of flower forms, from daisy-like to large pompons. Short days trigger flowering, and it is among the last garden flowers to bloom before winter in temperate regions.",
+      "bloomingSeason": "Autumn (September to November, lingering into early December in mild climates)",
+      "location": "Native to East Asia; cultivated worldwide in gardens and commercial greenhouses",
+      "colors": [
+        "Yellow",
+        "White",
+        "Bronze",
+        "Red",
+        "Purple",
+        "Pink"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are considered a symbol of autumn in many cultures and have been cultivated in China for over 2,500 years."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub that produces large, showy flowers in late autumn to early spring. Camellias are cherished in gardens for their glossy leaves and elegant blooms, thriving in mild temperate climates.",
-      "bloomingSeason": "October to March",
-      "location": "East Asia (Japan, Korea, China) and cultivated in similar climates worldwide",
-      "colors": [
-        "pink",
-        "red",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is one of the earliest flowering camellias and is a symbol of purity and longevity in East Asian cultures."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A species of woody shrub or small tree native to Australia's east coast, producing dense flower spikes that attract numerous nectar-feeding birds and insects.",
-      "bloomingSeason": "Spring to late autumn (including November)",
-      "location": "Eastern Australia",
-      "colors": [
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌻",
-      "funFact": "The Coast Banksia's flowers are rich in nectar and have historically been tapped by Indigenous Australians for a sweet drink."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, this wattle species features bright golden yellow fluffy flower clusters. It blooms in late winter to spring but can start flowering as early as November in some areas.",
-      "bloomingSeason": "November to September (peak in late winter and spring)",
-      "location": "South-Eastern Australia",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "The Golden Wattle's bright color inspired the design of the Australian national flag's colors."
+      "funFact": "Chrysanthemums are celebrated in Japan with an annual Chrysanthemum Festival, and the flower is the emblem of the Imperial family and its throne."
     }
   ]
 }

@@ -3,60 +3,59 @@
   "plants": [
     {
       "name": "Chrysanthemum × morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "A popular garden flower known for its bright, bushy blossoms. Chrysanthemums are classic autumn bloomers in temperate regions, symbolizing longevity and joy.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate Northern Hemisphere (Europe, North America, East Asia)",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "A widely cultivated perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in the cooling days of autumn because it flowers in response to shortening day length.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
       "colors": [
-        "yellow",
-        "white",
-        "red",
-        "pink",
-        "purple"
+        "Yellow",
+        "White",
+        "Bronze",
+        "Purple",
+        "Red"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in ancient China over 2,500 years ago and are now the official flower of several countries including Japan."
+      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the emblem of the Japanese Imperial family and the subject of Japan's annual Chrysanthemum Festival."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub that produces large, showy, rose-like flowers in mid to late autumn. Often grown in gardens for its elegant blooms during the cooler months.",
-      "bloomingSeason": "October to April",
-      "location": "East Asia (China, Japan, Korea) and cultivated in subtropical gardens worldwide",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, hardy native wildflower with clusters of daisy-like blooms with golden-yellow centers. It is a late-season nectar source for pollinators and thrives in meadows, roadsides, and wet prairies.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Purple",
+        "Violet",
+        "Pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellias were named after the Jesuit botanist Georg Kamel, though he never actually described the plant."
+      "emoji": "💜",
+      "funFact": "New England Asters are a critical late-season food source for migrating monarch butterflies as they travel south to Mexico."
     },
     {
-      "name": "Poinsettia (Euphorbia pulcherrima)",
-      "commonName": "Poinsettia",
-      "description": "Renowned for its brilliant red and green foliage, poinsettias begin their display in autumn and are widely associated with holiday decorations.",
-      "bloomingSeason": "October to February",
-      "location": "Native to Mexico and Central America; widely cultivated in greenhouses worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, graceful tree that bursts into clouds of trumpet-shaped lavender-blue flowers, often before the leaves fully emerge. In spring, entire streets and parks turn violet.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and Brazil",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "The bright red parts of poinsettias are actually bracts (modified leaves), not petals."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing Australian native tree which produces bright orange, spider-like flowers that attract birds and pollinators, typically blooming in spring and autumn.",
-      "bloomingSeason": "September to November",
-      "location": "Eastern Australia and cultivated in warm temperate to subtropical regions worldwide",
-      "colors": [
-        "orange"
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "🌳",
-      "funFact": "Despite the name 'oak', Grevillea robusta is not related to true oaks but is a member of the protea family."
+      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, around 70,000 trees bloom each October, and in Australia the flowering is traditionally linked to university exam season."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Guernsey Lily",
+      "description": "A bulbous perennial that sends up bare stems topped with sparkling, wavy-petaled pink flowers in autumn, after its strap-like leaves have largely died back. It prefers warm, sunny, well-drained spots.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Native to South Africa's Eastern Cape and Drakensberg region; cultivated in gardens in Europe and North America",
+      "colors": [
+        "Pink",
+        "Rose"
+      ],
+      "emoji": "🌸",
+      "funFact": "The petals have a shimmering, glittery look caused by specialized surface cells that sparkle in sunlight, which is why it is sometimes called the diamond lily."
     }
   ]
 }

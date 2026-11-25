@@ -2,36 +2,44 @@
   "date": "November 16",
   "holidays": [
     {
-      "name": "International Day for Tolerance",
-      "description": "A day dedicated to fostering mutual understanding and respect among cultures and peoples worldwide.",
-      "origin": "Established by UNESCO in 1995 to promote tolerance and peace.",
-      "category": "Awareness Day",
-      "emoji": "☮️",
-      "funFact": "This day is marked by numerous events worldwide aimed at fighting intolerance, discrimination, and violence."
-    },
-    {
-      "name": "National Button Day (USA)",
-      "description": "A celebration of buttons, those tiny fasteners that hold our clothes together and often serve as quirky fashion statements.",
-      "origin": "Created by the American Button Society in 1938 to recognize the history and artistry of buttons.",
-      "category": "Food & Object Celebration",
-      "emoji": "🧷",
-      "funFact": "Collectors of buttons, known as 'fabophiles,' can find buttons made from everything from glass to wood to precious metals!"
-    },
-    {
-      "name": "Fast Food Day",
-      "description": "An ode to the convenience, variety, and guilty pleasures of fast food.",
-      "origin": "An unofficial celebration embracing the culture of fast food and its impact on society.",
+      "name": "National Fast Food Day",
+      "description": "A day dedicated to the drive-thru, the dollar menu, and the glorious convenience of getting a hot meal in under five minutes without ever leaving your car.",
+      "origin": "An unofficial American food observance that grew out of the fast food boom of the 20th century and is promoted mostly by restaurant chains and social media.",
       "category": "Food Day",
       "emoji": "🍔",
-      "funFact": "On this day, fast food chains sometimes offer special deals or new menu items to mark the occasion."
+      "funFact": "The first drive-through window is often credited to Red's Giant Hamburg in Springfield, Missouri, which opened in 1947 and served soldiers who were not allowed to leave their cars in uniform."
     },
     {
-      "name": "Buy Nothing Day",
-      "description": "A counter-cultural day encouraging people to not purchase anything for 24 hours to reflect on consumerism.",
-      "origin": "Started by activists in Canada in 1992 as a protest against overconsumption.",
+      "name": "National Button Day",
+      "description": "A celebration of the humble button, the little disc that keeps your pants up and your coat closed. Collectors, sewers, and fashion fans honor the fastener in all its shapes and sizes.",
+      "origin": "Observed unofficially by button collectors and craft groups, with ties to the National Button Society, which was founded in 1938 and promotes button collecting as a hobby.",
+      "category": "Craft and Hobby Observance",
+      "emoji": "🔘",
+      "funFact": "Buttons were originally used as decorations rather than fasteners, and buttonholes did not appear in Europe until the 13th century."
+    },
+    {
+      "name": "International Day for Tolerance",
+      "description": "A serious but important observance encouraging respect, understanding, and appreciation of the rich diversity of cultures and ways of being human. Expect workshops, school events, and a lot of thoughtful conversation.",
+      "origin": "Proclaimed by the United Nations General Assembly in 1996 after UNESCO adopted a Declaration of Principles on Tolerance on November 16, 1995.",
       "category": "Awareness Day",
-      "emoji": "🚫🛍️",
-      "funFact": "Buy Nothing Day often follows Black Friday, challenging consumers to rethink their spending habits."
+      "emoji": "🤝",
+      "funFact": "The UNESCO-Madanjeet Singh Prize for the Promotion of Tolerance and Non-Violence is awarded in connection with this day."
+    },
+    {
+      "name": "Oklahoma Statehood Day",
+      "description": "Oklahomans celebrate becoming the 46th state with pride, parades, and probably a bit of barbecue. It is a day to honor the Sooner State's history, culture, and wide open prairies.",
+      "origin": "Oklahoma was admitted to the Union on November 16, 1907, when Indian Territory and Oklahoma Territory were combined into a single state.",
+      "category": "Regional Observance",
+      "emoji": "🤠",
+      "funFact": "Oklahoma's nickname, the Sooner State, comes from settlers who sneaked into the Unassigned Lands to claim territory sooner than the legal start time of the 1889 land run."
+    },
+    {
+      "name": "National Role Play Gamers Day",
+      "description": "Roll the dice and grab your character sheet. This day honors tabletop adventurers, dungeon masters, and anyone who has spent six hours arguing with friends about whether a goblin can be persuaded.",
+      "origin": "An unofficial observance created by and for the gaming community to celebrate role-playing games like Dungeons & Dragons, which first launched in 1974.",
+      "category": "Pop Culture Celebration",
+      "emoji": "🎲",
+      "funFact": "The first edition of Dungeons & Dragons was initially printed in a run of just 1,000 copies, and it sold out in about 11 months."
     }
   ]
 }
