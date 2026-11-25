@@ -2,36 +2,44 @@
   "date": "June 4",
   "holidays": [
     {
-      "name": "Hug Your Cat Day",
-      "description": "A day dedicated to showing your feline friends some extra love and cuddles! Perfect for cat lovers who want to spoil their whiskered companions.",
-      "origin": "Started by cat enthusiasts and social media communities celebrating the bond between humans and cats.",
-      "category": "Pet Holiday",
-      "emoji": "🐱💞",
-      "funFact": "Cats often purr louder when being hugged, interpreting it as a sign of affection and comfort."
-    },
-    {
-      "name": "Cheese Day",
-      "description": "Celebrate the incredible world of cheese by indulging in your favorite varieties — from sharp cheddar to creamy brie or funky blue cheese!",
-      "origin": "Likely created by cheese lovers and food enthusiasts to appreciate this ancient dairy delicacy.",
+      "name": "National Cheese Day",
+      "description": "A day for celebrating all things dairy, from sharp cheddar to stinky blue. Fans mark it with cheese boards, grilled cheese sandwiches, and mac and cheese.",
+      "origin": "National Cheese Day is observed in the United States on June 4. It has been popularized by food brands and cheese lovers rather than established by an official government proclamation.",
       "category": "Food Holiday",
       "emoji": "🧀",
-      "funFact": "There are over 2,000 distinct varieties of cheese worldwide, ranging from soft to hard and mild to pungent!"
+      "funFact": "It takes about 10 pounds of milk to make just 1 pound of cheese, so a single wheel of cheddar represents a lot of cows' hard work."
+    },
+    {
+      "name": "Hug Your Cat Day",
+      "description": "A day for cat owners to give their feline companions some affection, assuming the cat agrees to cooperate. Success is not guaranteed and scratches are possible.",
+      "origin": "This is an unofficial pet-themed observance that spread through pet-lover communities and social media. It celebrates the bond between people and their cats.",
+      "category": "Pet Appreciation",
+      "emoji": "🐱",
+      "funFact": "Cats have about 20 muscles in each ear, which lets them swivel their ears independently to signal their displeasure at being hugged."
+    },
+    {
+      "name": "Old Rock Day",
+      "description": "A day for appreciating the humble rock. Participants are encouraged to go outside, look at some stones, and consider that they are very, very old.",
+      "origin": "Old Rock Day is a lighthearted unofficial observance that encourages people to take a moment to appreciate geology and the ancient history held in ordinary stones.",
+      "category": "Quirky Nature Observance",
+      "emoji": "🪨",
+      "funFact": "Some of the oldest known rocks on Earth, found in Canada and Australia, are over 4 billion years old, which makes them nearly as old as the planet itself."
     },
     {
       "name": "International Day of Innocent Children Victims of Aggression",
-      "description": "A solemn day recognized by the United Nations to acknowledge the pain suffered by children who are victims of physical, mental, and emotional abuse worldwide.",
-      "origin": "Established by the UN in 1982 as a reminder of the importance of protecting children everywhere.",
+      "description": "A solemn United Nations observance that draws attention to the suffering of children who are victims of physical, mental, and emotional abuse around the world.",
+      "origin": "The UN General Assembly established this day in 1982 in response to the many child victims of conflict, particularly in the Middle East. It reaffirms a commitment to protecting children's rights.",
       "category": "Awareness Day",
-      "emoji": "🕊️👶",
-      "funFact": "Despite its somber theme, many communities hold events emphasizing healing and hope for children affected by violence."
+      "emoji": "🕊️",
+      "funFact": "Unlike most of the lighthearted days on this list, this is an official UN observance, which makes it a reminder that June 4 mixes silly celebrations with serious global causes."
     },
     {
-      "name": "Leave the Office Early Day",
-      "description": "An unofficial, much-loved holiday encouraging workers to finish up their tasks promptly and head home early for some well-deserved relaxation!",
-      "origin": "Origin unclear, but popularized in workplace culture to boost morale and work-life balance.",
-      "category": "Workplace Fun",
-      "emoji": "🏃‍♂️🏠",
-      "funFact": "Some companies offer rewards for employees who leave early showing high productivity during the day."
+      "name": "National Cognac Day",
+      "description": "A day to raise a snifter of the famous French brandy. Fans sip it slowly, swirl it dramatically, and pretend to detect notes of oak and vanilla.",
+      "origin": "This is an unofficial drinks observance popularized by spirits enthusiasts and bars. It honors cognac, the brandy produced in the Cognac region of France.",
+      "category": "Drink Holiday",
+      "emoji": "🥃",
+      "funFact": "To be legally called cognac, the spirit must be distilled twice in copper pot stills and aged for at least two years in French oak barrels."
     }
   ]
 }

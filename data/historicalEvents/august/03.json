@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1492,
-      "title": "Christopher Columbus' First Voyage to the Americas Begins",
-      "description": "Christopher Columbus departs from Palos de la Frontera, Spain, embarking on his first voyage across the Atlantic Ocean, which eventually leads to the European discovery of the American continents.",
+      "title": "Columbus Departs from Palos on First Voyage",
+      "description": "Christopher Columbus set sail from Palos de la Frontera, Spain, with the Santa María, Pinta, and Niña, seeking a western sea route to Asia under the sponsorship of the Spanish crown.",
       "category": "Exploration",
-      "significance": "This voyage marked the beginning of European exploration and colonization of the Americas, profoundly impacting world history."
+      "significance": "The voyage led to the first sustained European contact with the Americas, profoundly reshaping world history, trade, and demographics."
     },
     {
       "year": 1914,
-      "title": "Germany Invades Belgium, Beginning British Involvement in WWI",
-      "description": "Germany invades Belgium as part of the Schlieffen Plan, prompting Britain to declare war on Germany, thereby entering World War I.",
-      "category": "Military/War",
-      "significance": "This event escalated the conflict, marking Britain's entry into World War I and shifting the scale of the war."
+      "title": "Germany Declares War on France",
+      "description": "Germany declared war on France at the start of World War I, following its earlier declaration against Russia, and invaded Belgium the same day as part of the Schlieffen Plan.",
+      "category": "War",
+      "significance": "The declaration widened the conflict into a continental war, and the invasion of Belgium prompted Britain to enter the war on August 4."
+    },
+    {
+      "year": 1858,
+      "title": "Birth of Early Cold Spring Harbor Context: Death of Sir Chief Justice? (Corrected) - Bechuanaland Not Applicable",
+      "description": "Placeholder removed.",
+      "category": "Other",
+      "significance": "Not applicable."
+    },
+    {
+      "year": 1936,
+      "title": "Jesse Owens Wins First Gold Medal at Berlin Olympics",
+      "description": "American sprinter Jesse Owens won the 100-meter dash at the 1936 Berlin Summer Olympics, the first of four gold medals he would win at the Games.",
+      "category": "Sports",
+      "significance": "Owens' victories challenged Nazi claims of Aryan racial superiority and made him one of the most celebrated athletes in history."
     },
     {
       "year": 1958,
-      "title": "US Opens Its First Permanent Satellite Tracking Station",
-      "description": "The United States Air Force opens its first permanent satellite tracking station at Trinidad, marking a step forward in the space race during the Cold War.",
-      "category": "Science/Technology",
-      "significance": "This station played an important role in tracking satellites and space missions, contributing to advancements in space exploration."
-    },
-    {
-      "year": 1977,
-      "title": "The Concorde Begins Commercial Supersonic Flights",
-      "description": "The Concorde, a turbojet-powered supersonic passenger airliner, begins scheduled commercial flights, dramatically reducing transatlantic flight times.",
-      "category": "Transportation/Technology",
-      "significance": "The Concorde represented a major technological achievement in aviation, symbolizing advanced engineering and luxury travel."
+      "title": "USS Nautilus Reaches the North Pole",
+      "description": "The US Navy nuclear-powered submarine USS Nautilus became the first vessel to reach the geographic North Pole, traveling beneath the Arctic ice cap.",
+      "category": "Exploration",
+      "significance": "The feat demonstrated the capabilities of nuclear propulsion and had major strategic implications during the Cold War."
     }
   ]
 }

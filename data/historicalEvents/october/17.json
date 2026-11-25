@@ -2,32 +2,39 @@
   "date": "October 17",
   "events": [
     {
-      "year": 1907,
-      "title": "First Plastic Surgery Clinic Opens",
-      "description": "Dr. Harold Gillies established the world's first hospital ward dedicated to plastic surgery in Sidcup, England, pioneering modern reconstructive surgery techniques.",
-      "category": "Medical",
-      "significance": "This event marked a major advancement in medical science, particularly in the treatment of war injuries and among civilians requiring reconstructive procedures."
+      "year": 1777,
+      "title": "British Surrender at Saratoga",
+      "description": "British General John Burgoyne surrendered approximately 5,800 troops to American General Horatio Gates following the Battles of Saratoga in New York.",
+      "category": "Military",
+      "significance": "Often considered the turning point of the American Revolutionary War, the victory convinced France to formally ally with the American colonies, providing crucial military and financial support."
+    },
+    {
+      "year": 1888,
+      "title": "Thomas Edison Files Patent Caveat for the Motion Picture Camera",
+      "description": "Thomas Edison filed a caveat with the U.S. Patent Office describing a device that would do for the eye what the phonograph did for the ear, an early step toward motion picture technology.",
+      "category": "Science and Technology",
+      "significance": "This filing launched Edison's work on the Kinetoscope, helping lay the foundation for the motion picture industry."
     },
     {
       "year": 1931,
       "title": "Al Capone Convicted of Tax Evasion",
-      "description": "Famous American gangster Al Capone was convicted on charges of tax evasion, leading to his imprisonment.",
-      "category": "Crime",
-      "significance": "Capone's conviction demonstrated the effectiveness of using financial crimes to bring down organized crime figures, influencing law enforcement tactics."
+      "description": "Notorious Chicago gangster Al Capone was found guilty of federal income tax evasion charges and was later sentenced to 11 years in prison.",
+      "category": "Crime and Law",
+      "significance": "The conviction ended the reign of one of America's most infamous organized crime figures and demonstrated the effectiveness of financial investigations against organized crime."
+    },
+    {
+      "year": 1989,
+      "title": "Loma Prieta Earthquake Strikes San Francisco Bay Area",
+      "description": "A magnitude 6.9 earthquake struck Northern California just before Game 3 of the World Series, killing 63 people and causing major damage, including the collapse of a section of the Bay Bridge and the Cypress Street Viaduct in Oakland.",
+      "category": "Natural Disaster",
+      "significance": "The disaster prompted major advances in seismic engineering, retrofitting of bridges and buildings, and emergency preparedness in California."
     },
     {
       "year": 1979,
       "title": "Mother Teresa Awarded the Nobel Peace Prize",
-      "description": "Mother Teresa received the Nobel Peace Prize for her humanitarian work among the poor and sick in Calcutta, India.",
+      "description": "Mother Teresa was announced as the recipient of the 1979 Nobel Peace Prize for her humanitarian work with the poor and dying in Calcutta, India.",
       "category": "Humanitarian",
-      "significance": "Her recognition brought global attention to issues of poverty and humanitarian aid, inspiring many to volunteer and support charitable causes."
-    },
-    {
-      "year": 2011,
-      "title": "Syrian Uprising Intensifies",
-      "description": "Significant violent clashes occurred in Syria, marking an escalation in the Syrian Civil War with numerous casualties reported.",
-      "category": "Conflict",
-      "significance": "This marked a critical point in the ongoing conflict that would have lasting regional and international implications."
+      "significance": "The award brought global attention to her Missionaries of Charity and to the plight of the world's poorest people."
     }
   ]
 }

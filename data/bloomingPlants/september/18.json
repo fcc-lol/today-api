@@ -2,55 +2,58 @@
   "date": "September 18",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy flowering plant native to North America, known for its bright yellow petals surrounding a dark brown central cone. It thrives in meadows and gardens, attracting bees and butterflies.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and Central United States",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Naked Ladies)",
+      "description": "A cormous perennial that sends up goblet-shaped, crocus-like blooms in autumn without any leaves present. The foliage emerges the following spring, then dies back by early summer.",
+      "bloomingSeason": "Late summer to mid-autumn (September–October in the Northern Hemisphere)",
+      "location": "Native to meadows of Europe; widely cultivated in temperate gardens in North America, the UK, and Australia",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "All parts contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, rhizomatous perennial with arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators preparing for winter or migration.",
+      "bloomingSeason": "Late summer to autumn (August–October)",
+      "location": "Native to meadows, roadsides, and prairies of North America; naturalized in Europe and Asia",
+      "colors": [
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Black-eyed Susans are often used in herbal teas and have been used by Native Americans for medicinal purposes."
+      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; the real culprit is usually ragweed, which blooms at the same time but has wind-borne pollen."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Tall annual plants with large, radiant flower heads composed of bright yellow ray florets and a central disc that matures into seeds. These plants are widely cultivated and bloom late summer into fall.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide",
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A bulbous perennial whose leafless stalks suddenly erupt in clusters of striking red flowers with long, curved stamens. The strap-like leaves appear after flowering and persist through winter.",
+      "bloomingSeason": "Early to mid-autumn (September–October)",
+      "location": "Native to China, Korea, and Japan; naturalized in the southeastern United States; commonly seen along rice paddies and cemeteries in Japan",
       "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism; young flower heads track the sun's movement across the sky during the day."
-    },
-    {
-      "name": "Fuchsia magellanica",
-      "commonName": "Hardy Fuchsia",
-      "description": "A deciduous shrub producing elegant, pendulous flowers usually in shades of red and purple. It blooms late summer to early fall and is native to southern South America, often grown in gardens in temperate climates.",
-      "bloomingSeason": "July to October",
-      "location": "Southern South America, cultivated in gardens worldwide",
-      "colors": [
-        "red",
-        "purple"
+        "Red",
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Despite their delicate appearance, hardy fuchsias are surprisingly cold tolerant, surviving frosts that kill other fuchsia species."
+      "funFact": "In Japan it blooms around the autumn equinox (Higan) and is called higanbana; it is often planted around rice fields because the toxic bulbs deter rodents and moles."
     },
     {
-      "name": "Erica arborea",
-      "commonName": "Tree Heather",
-      "description": "An evergreen shrub or small tree producing dense clusters of small bell-shaped white or pale pink flowers. Common in Mediterranean and temperate regions, its flowers bloom late summer through fall.",
-      "bloomingSeason": "August to October",
-      "location": "Mediterranean Basin, Macaronesia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A large evergreen shrub producing the biggest flower heads in the Protea genus, made of showy pink bracts surrounding a central cluster of tiny flowers. It thrives in nutrient-poor, acidic, well-drained soils.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August–November, peaking around September)",
+      "location": "Fynbos region of the Western and Eastern Cape, South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "white",
-        "pink"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
       "emoji": "🌸",
-      "funFact": "Tree heath wood was historically used in the production of high-quality charcoal for gunpowder manufacturing."
+      "funFact": "The king protea is South Africa's national flower, and its fire-adapted woody rootstock allows it to resprout after wildfires."
     }
   ]
 }

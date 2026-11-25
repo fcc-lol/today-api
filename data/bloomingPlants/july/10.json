@@ -2,60 +2,59 @@
   "date": "July 10",
   "plants": [
     {
-      "name": "Lilium bulbiferum",
-      "commonName": "Orange Lily",
-      "description": "A striking perennial lily native to Europe known for its vibrant orange flowers with red spots. It typically grows in meadows and hillsides and attracts butterflies and bees during summer.",
-      "bloomingSeason": "June to August",
-      "location": "Europe (Temperate regions)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with narrow silvery-green leaves and dense spikes of small tubular flowers. Widely cultivated in gardens and commercial fields for its essential oil, and loved by bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August) in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "Orange",
-        "Red"
+        "purple",
+        "lavender",
+        "blue"
       ],
-      "emoji": "🌺",
-      "funFact": "The Orange Lily's bulbils on its stem allow it to propagate vegetatively, which is quite rare among lilies."
+      "emoji": "💜",
+      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent their baths."
     },
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A significant rose species cultivated worldwide, blooming multiple times during warm months. It has been fundamental in breeding the modern hybrid tea roses.",
-      "bloomingSeason": "June to October",
-      "location": "Native to China, cultivated worldwide in temperate and subtropical areas",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem and a big flower head made of hundreds of tiny florets surrounded by yellow ray petals. Cultivated for seeds, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; cultivated in Ukraine, Russia, Argentina, France, and the United States",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Yellow"
+        "yellow",
+        "orange",
+        "brown"
       ],
-      "emoji": "🌹",
-      "funFact": "China Roses are remontant, meaning they can bloom several times in a season, including mid-summer."
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds track the sun across the sky (heliotropism), but mature flower heads stop moving and generally face east."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular flowers on tall stalks. The leaves have a self-cleaning, water-repellent surface.",
+      "bloomingSeason": "Summer (June to September) in temperate Asia",
+      "location": "Native to Asia and Australia; found in ponds and lakes in India, China, Japan, Vietnam, and cultivated worldwide",
+      "colors": [
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "The national flower of South Africa, notable for its enormous flower heads resembling artichokes. It thrives in Mediterranean-type climates and blooms during southern hemisphere winter to spring but can also bloom sporadically through July in some areas.",
-      "bloomingSeason": "June to November (in South Africa)",
-      "location": "South Africa (Mediterranean climate)",
+      "description": "A woody evergreen shrub that produces the largest flower head in the Protea genus, with a bowl-shaped cluster of colorful bracts surrounding a center of tiny flowers.",
+      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering often occurring in midwinter (May to September) in some areas",
+      "location": "Native to the fynbos of the southwestern and southern Cape in South Africa",
       "colors": [
-        "Pink",
-        "White"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌸",
-      "funFact": "The King Protea's flower head is actually a collection of many small flowers, surrounded by colorful bracts."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This ornamental and wildflower species is native to western North America and commonly seen blooming in meadows and hills during midsummer, attractive to pollinators.",
-      "bloomingSeason": "June to August",
-      "location": "North America (Temperate zones)",
-      "colors": [
-        "Purple",
-        "Blue",
-        "Pink",
-        "White"
-      ],
-      "emoji": "🌿",
-      "funFact": "Lupines can fix nitrogen in the soil through their root nodules, improving soil fertility."
+      "emoji": "🌺",
+      "funFact": "The king protea is the national flower of South Africa, and the genus is named after the Greek god Proteus, who could change shape."
     }
   ]
 }

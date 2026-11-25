@@ -2,63 +2,61 @@
   "date": "August 29",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower with bright yellow petals and a dark brown central cone. It thrives in prairies and open woods and is often used in gardens for its bright, cheerful flowers.",
-      "bloomingSeason": "June to September",
-      "location": "North America, especially central and eastern United States",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem topped by a showy flower head of golden ray florets surrounding a dark disk of tiny fertile florets. Young flower heads track the sun across the sky. It is widely grown for seed, oil, and ornament, and also grows wild in prairies and roadsides.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
+      "location": "North America native; cultivated across Europe, Ukraine, Russia, and temperate regions worldwide",
       "colors": [
         "yellow",
+        "gold",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Black-eyed Susans are important for pollinators like bees and butterflies and are often used in wildflower restoration projects."
+      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, trumpet-shaped flowers that come in various vibrant colors. It blooms almost year-round in tropical climates but peaks in summer months.",
-      "bloomingSeason": "June to October in subtropical/tropical areas",
-      "location": "Tropical and subtropical regions worldwide, native to East Asia",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "A low, evergreen shrub with tiny scale-like leaves and spikes of small bell-shaped flowers that carpet moorlands and heathlands in purple. It thrives in acidic, nutrient-poor soils and is a vital nectar source for bees in late summer.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Scotland, Northern England, Ireland, Scandinavia, and heathlands across Europe and parts of Asia",
       "colors": [
-        "red",
+        "purple",
         "pink",
-        "yellow",
-        "orange",
+        "lavender",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The hibiscus flower is a national symbol of several countries and is often used in beverages and traditional medicines."
+      "emoji": "💜",
+      "funFact": "Heather honey is prized for its jelly-like thixotropic texture, which means it must be stirred or pressed to extract rather than spun out."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A tuberous-rooted perennial native to Mexico, recognized for its wide range of flower colors and shapes. Dahlias bloom profusely in late summer and early fall and are popular in garden flower beds and floral displays.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico, widely cultivated worldwide in temperate gardens",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower forming dense colonies, with arching plumes of tiny golden flower heads atop leafy stems. It is a late-season magnet for butterflies, native bees, and other pollinators, and thrives in meadows, fields, and roadsides.",
+      "bloomingSeason": "Late summer to autumn (July to October)",
+      "location": "Eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Dahlias have been cultivated since the 16th century and are the national flower of Mexico."
-    },
-    {
-      "name": "Banksia serrata",
-      "commonName": "Old Man Banksia",
-      "description": "An Australian native shrub or small tree with large, cylindrical golden flower spikes. It blooms mainly in late winter through spring but can produce flowers sporadically toward the end of summer.",
-      "bloomingSeason": "July to October, sometimes August",
-      "location": "Eastern Australia (coastal areas of New South Wales and Queensland)",
-      "colors": [
-        "yellow",
-        "gold"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Banksia flowers provide nectar for a variety of Australian wildlife, including birds, bats, and insects."
+      "funFact": "Goldenrod is often wrongly blamed for hay fever; the real culprit is usually ragweed, whose wind-borne pollen blooms at the same time."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody shrub bearing the largest flower head in the Protea genus, with a dense center of flowers surrounded by showy, pointed bracts that resemble petals. It is adapted to nutrient-poor, fire-prone fynbos habitats and is a popular cut flower.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November), with some blooming earlier in late winter",
+      "location": "Western and Southern Cape of South Africa; national flower of South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red",
+        "silver"
+      ],
+      "emoji": "🌸",
+      "funFact": "Proteas are an ancient plant family that predates the breakup of Gondwana, with fossils dating back around 300 million years."
     }
   ]
 }

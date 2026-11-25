@@ -2,58 +2,61 @@
   "date": "April 12",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning springtime display of pale pink to white flowers. These blossoms symbolize the transient nature of life in Japanese culture and attract visitors to cherry blossom festivals globally.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree covered in clouds of delicate, fragrant blossoms that appear before the leaves. It is celebrated worldwide and is the centerpiece of hanami flower-viewing festivals.",
+      "bloomingSeason": "Late March to mid-April",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The Japanese Cherry Blossom blooms for only about one to two weeks, creating a highly anticipated seasonal event known as Hanami."
+      "funFact": "The 3,000 cherry trees gifted by Tokyo to Washington D.C. in 1912 are the origin of the National Cherry Blossom Festival."
     },
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub with large clusters of funnel-shaped flowers, often purple or pink. It thrives in acidic soils and is widely naturalized in parts of the UK and Ireland.",
-      "bloomingSeason": "April to June",
-      "location": "Native to Southern Europe and Western Asia; naturalized in UK",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A spring bulb with cup-shaped flowers on sturdy stems, available in countless cultivars. Mass plantings create vivid carpets of color in gardens and fields.",
+      "bloomingSeason": "Early April to mid-May",
+      "location": "Netherlands, Northern Europe, North America, and cultivated temperate gardens worldwide",
       "colors": [
-        "purple",
+        "red",
+        "yellow",
         "pink",
-        "white"
+        "purple",
+        "white",
+        "orange"
       ],
-      "emoji": "🌺",
-      "funFact": "Pontic Rhododendron spreads rapidly and can form dense thickets, sometimes outcompeting native vegetation."
+      "emoji": "🌷",
+      "funFact": "During 'Tulip Mania' in the 1630s Netherlands, single bulbs sold for more than the price of a house."
     },
     {
-      "name": "California Poppy",
-      "commonName": "California Poppy",
-      "description": "The state flower of California, this annual plant produces vibrant orange to yellow cup-shaped flowers. It opens in the morning sunlight and closes at night or on cloudy days.",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree native to eastern North America whose clusters of magenta-pink flowers burst directly from bare branches and even the trunk, followed by heart-shaped leaves.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central United States, northern Mexico",
+      "colors": [
+        "magenta",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "The flowers are edible and are sometimes used in salads; the trunk-flowering habit is called cauliflory."
+    },
+    {
+      "name": "Nemophila menziesii",
+      "commonName": "Baby Blue Eyes",
+      "description": "A low-growing annual wildflower with delicate, saucer-shaped sky-blue flowers with white centers. It carpets grasslands and hillsides in wet spring seasons.",
       "bloomingSeason": "March to May",
-      "location": "Western North America, especially California",
+      "location": "California and Oregon, USA; naturalized in gardens worldwide",
       "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "California Poppies are drought-tolerant and can quickly colonize disturbed ground, making them important for erosion control."
-    },
-    {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia with large, fragrant pink to purple flowers that bloom before the leaves emerge, marking one of the first signs of spring in temperate gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated worldwide in temperate regions",
-      "colors": [
-        "pink",
-        "purple",
+        "sky blue",
         "white"
       ],
-      "emoji": "🏵️",
-      "funFact": "The Saucer Magnolia was developed in France in the 19th century as a hybrid between two Asian magnolia species."
+      "emoji": "💙",
+      "funFact": "In Japan's Hitachi Seaside Park, millions of Nemophila bloom in mid-April, turning entire hills into a sea of blue."
     }
   ]
 }

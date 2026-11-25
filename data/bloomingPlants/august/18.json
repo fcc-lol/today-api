@@ -3,56 +3,57 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement during the day. Sunflowers are widely cultivated for their seeds and oil and are iconic in late summer landscapes.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, native to North America",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads that have bright yellow ray petals around a dark central disc. The heads track the sun during early growth, and mature plants can reach 3 meters. It is widely cultivated for seeds, oil, and ornamental use.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, the United States, and Argentina",
       "colors": [
-        "Yellow"
+        "yellow",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflower heads are made up of hundreds of tiny flowers called florets, which mature into seeds."
+      "funFact": "A sunflower head is actually made up of thousands of tiny individual flowers, called florets, arranged in a spiral pattern that follows the Fibonacci sequence."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "Deciduous shrub known for large, globe-shaped flower clusters that can change color based on soil pH, blooming profusely in summer.",
-      "bloomingSeason": "June to August",
-      "location": "East Asia, commonly cultivated worldwide in temperate gardens",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie plant with drooping pinkish-purple petals surrounding a prominent spiky, orange-brown central cone. It is a favorite of pollinators and goldfinches, and it tolerates heat and drought well.",
+      "bloomingSeason": "Midsummer to early fall (June to September)",
+      "location": "Native to eastern and central North America; grown in gardens worldwide in temperate climates",
       "colors": [
-        "Blue",
-        "Pink",
-        "White"
-      ],
-      "emoji": "💐",
-      "funFact": "The blue or pink color of Hydrangea flowers depends on soil acidity—acidic soils produce blue flowers, alkaline soils pink."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An evergreen shrub with massive, striking flower heads resembling large artichokes, native to South Africa and a symbol of the country’s unique flora.",
-      "bloomingSeason": "June to September",
-      "location": "South Africa (fynbos biome)",
-      "colors": [
-        "Pink",
-        "White",
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The protea flower is named after the Greek god Proteus, who could change his form, reflecting the flower's diverse shapes."
-    },
-    {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A perennial herb with tall spikes of bright pink-purple flowers, often one of the first plants to colonize burned forests in northern temperate and boreal regions.",
-      "bloomingSeason": "June to September",
-      "location": "Northern Hemisphere, including North America and Europe",
-      "colors": [
-        "Pink",
-        "Purple"
+        "purple",
+        "pink",
+        "orange"
       ],
       "emoji": "🌸",
-      "funFact": "Fireweed spreads rapidly after fires, helping to stabilize and enrich soil for other plants to grow."
+      "funFact": "The genus name Echinacea comes from the Greek word 'echinos' meaning hedgehog, referring to the spiny central cone of the flower."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant violet-blue flowers. By mid to late August, many lavender fields are at the tail end of peak bloom, and plants attract bees and butterflies in large numbers.",
+      "bloomingSeason": "Early to late summer (June to August) in the Northern Hemisphere",
+      "location": "Native to the Mediterranean region; widely cultivated in Provence (France), England, Bulgaria, Tasmania, and the Pacific Northwest of the United States",
+      "colors": [
+        "purple",
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare' meaning 'to wash' because the Romans used it to scent their baths."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small Australian tree or large shrub that produces fluffy, fragrant golden-yellow globular flower clusters against sickle-shaped green leaves. Its blooming comes at the end of the southern winter, brightening the bush landscape.",
+      "bloomingSeason": "Late winter to spring (July to October) in the Southern Hemisphere",
+      "location": "Native to southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1 each year to mark the start of spring."
     }
   ]
 }

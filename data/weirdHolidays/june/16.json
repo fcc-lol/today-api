@@ -2,36 +2,44 @@
   "date": "June 16",
   "holidays": [
     {
-      "name": "Fresh Veggies Day 🥒",
-      "description": "A day to celebrate the crunch, flavor, and health benefits of fresh vegetables. Whether you love carrots, cucumbers, or kale, this day encourages you to eat more of nature's tasty green gifts.",
-      "origin": "Originating as a health awareness event promoting nutritious eating, Fresh Veggies Day encourages people to replace junk food with vibrant, fresh veggies.",
-      "category": "Food Holiday",
-      "emoji": "🥒",
-      "funFact": "Did you know that some vegetables like carrots actually taste sweeter after being chilled in the fridge? Perfect for a fresh snack!"
-    },
-    {
-      "name": "Bloomsday 🌸",
-      "description": "Celebrated primarily in Dublin and around the world, Bloomsday honors the life and work of Irish writer James Joyce by retracing the steps of his novel's hero, Leopold Bloom, through the city.",
-      "origin": "The day is named after the main character in Joyce’s 'Ulysses,' which is set entirely on June 16, 1904, Joyce's real-life date of first meeting his wife.",
-      "category": "Literary Celebration",
-      "emoji": "🌸",
-      "funFact": "Fans sometimes dress in Edwardian-era clothes and enjoy Irish food, reading passages from 'Ulysses' while wandering Dublin's streets."
-    },
-    {
-      "name": "Go Fishing Day 🎣",
-      "description": "A quirky day dedicated to grabbing your fishing rod and spending time by the water, whether for a relaxing solo trip or a fun outing with friends and family.",
-      "origin": "Started by recreational fishing enthusiasts aiming to promote the calm and joy that only fishing can deliver.",
-      "category": "Outdoor Recreation",
-      "emoji": "🎣",
-      "funFact": "Fishing legends say that June is one of the best months because many fish species are active and plentiful during this season."
-    },
-    {
-      "name": "Fudge Day 🍫",
-      "description": "A sweet celebration for fudge lovers everywhere! Indulge in all kinds of fudge — from classic chocolate to peanut butter and beyond.",
-      "origin": "Unofficial food holiday created by confectioners and fudge shops to boost summer treat sales.",
-      "category": "Food Holiday",
+      "name": "Fudge Day",
+      "description": "A day for indulging in rich, creamy squares of chocolatey (or peanut buttery, or maple-y) fudge. Bakers and candy makers whip up batches, and everyone else politely volunteers as taste testers.",
+      "origin": "National Fudge Day is an unofficial food observance listed in many holiday calendars. Fudge itself is traditionally credited to a 'fudged' batch of caramels in the 1880s, and Vassar College students helped popularize it.",
+      "category": "Food Day",
       "emoji": "🍫",
-      "funFact": "The world’s largest piece of fudge weighed over 3,000 pounds — surely a record meant for serious sweet tooths!"
+      "funFact": "Fudge reportedly got its name from the old slang word 'fudge,' meaning to botch something, because the first batch was an accident. In 1888, Vassar student Emelyn Hartridge made a batch and sold 30 pounds of it at a campus event."
+    },
+    {
+      "name": "Bloomsday",
+      "description": "Fans of James Joyce's novel Ulysses dress in Edwardian clothing, read aloud from the book, and eat the kinds of foods the characters eat, like gorgonzola sandwiches and burgundy wine, with some Dubliners going for a full breakfast of kidneys.",
+      "origin": "The day is set on June 16, 1904, the single day on which the entire novel takes place. It was first celebrated in 1954, on the 50th anniversary, when a group of Irish writers did a pilgrimage around Dublin.",
+      "category": "Literary Celebration",
+      "emoji": "📚",
+      "funFact": "Joyce picked June 16, 1904 because it was the date of his first outing with Nora Barnacle, the woman who would become his wife."
+    },
+    {
+      "name": "International Day of Family Remittances",
+      "description": "A day honoring the hundreds of millions of migrant workers who send money home to support their families, and the huge global impact of these small but vital transfers.",
+      "origin": "The United Nations General Assembly established the observance in 2015, with the first one held on June 16, 2015, to recognize how remittances help families and communities worldwide.",
+      "category": "Awareness Day",
+      "emoji": "💸",
+      "funFact": "Remittances to low- and middle-income countries have totaled hundreds of billions of dollars a year, often surpassing foreign direct investment and official development aid."
+    },
+    {
+      "name": "Juneteenth Eve Cookout Prep Day / Father's Day Season Fly Fishing Day",
+      "description": "Anglers celebrate the hobby of fly fishing, tying flies, and standing in cold rivers wearing waders and contemplating life, usually while catching nothing.",
+      "origin": "Fishing and outdoor groups have long promoted mid-June as prime time for fly fishing, and sporting communities treat the pre-Father's Day period as an unofficial celebration.",
+      "category": "Hobby Observance",
+      "emoji": "🎣",
+      "funFact": "Fly fishing is thought to date back to at least the 2nd century, when the Roman writer Claudius Aelianus described Macedonian anglers using lures made of red wool and feathers."
+    },
+    {
+      "name": "Day of the African Child",
+      "description": "An annual observance that spotlights the education and rights of children across Africa, with events, speeches, and school activities to promote learning and well-being.",
+      "origin": "It honors the students killed in the 1976 Soweto Uprising in South Africa, who were protesting inferior education under apartheid. The Organisation of African Unity first established it in 1991.",
+      "category": "Awareness Day",
+      "emoji": "🌍",
+      "funFact": "The Soweto Uprising began on June 16, 1976, when thousands of schoolchildren marched against being forced to learn in Afrikaans, and it became a turning point in the struggle against apartheid."
     }
   ]
 }

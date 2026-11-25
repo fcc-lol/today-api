@@ -2,36 +2,44 @@
   "date": "April 2",
   "holidays": [
     {
-      "name": "International Pillow Fight Day",
-      "description": "A globally coordinated pillow fight extravaganza where people of all ages grab their fluffiest pillows and meet in public spaces for a massive, playful pillow brawl!",
-      "origin": "Started in 2008 by a group of friends in Seattle who wanted to turn an everyday object into a weapon of joy and release some stress.",
-      "category": "Fun/Pop Culture",
-      "emoji": "🛏️🥊",
-      "funFact": "Sometimes, these pillow fights draw thousands of participants worldwide, turning entire cities into soft battlegrounds!"
+      "name": "National Peanut Butter and Jelly Day",
+      "description": "A day to celebrate the sticky, sweet, and salty sandwich that has rescued lunchboxes everywhere. Whether you are a crunchy or smooth devotee, grape or strawberry loyalist, today you pledge allegiance to the PB&J.",
+      "origin": "This is an unofficial American food holiday, popularized by food-observance calendars. The sandwich itself dates to the early 20th century, with an early recipe for a peanut butter and jelly sandwich appearing in 1901 in the Boston Cooking School Magazine. It later became a staple for U.S. soldiers in World War II.",
+      "category": "Food Day",
+      "emoji": "🥪",
+      "funFact": "The average American kid eats about 1,500 peanut butter and jelly sandwiches before graduating high school."
+    },
+    {
+      "name": "International Fact-Checking Day",
+      "description": "A day dedicated to the noble art of questioning everything you read online, verifying sources, and resisting the urge to share that suspicious meme. It is a celebration of truth, receipts, and healthy skepticism.",
+      "origin": "Launched in 2017 by the International Fact-Checking Network at the Poynter Institute. It was intentionally placed on April 2, right after April Fools' Day, as a sort of sober morning-after to a day of pranks and hoaxes.",
+      "category": "Awareness Day",
+      "emoji": "🔍",
+      "funFact": "It was scheduled the day after April Fools' Day on purpose, so the world can recover from the pranks and check what was actually true."
     },
     {
       "name": "World Autism Awareness Day",
-      "description": "An official United Nations observance aimed at increasing understanding and acceptance of people with autism, encouraging early diagnosis and support.",
-      "origin": "Established by the UN in 2007 to raise awareness worldwide about autism and to promote inclusivity.",
-      "category": "Awareness",
-      "emoji": "🧩💙",
-      "funFact": "Many landmarks around the globe light up in blue on this day as part of the 'Light It Up Blue' campaign."
+      "description": "A global day to promote understanding, acceptance, and inclusion of autistic people. Landmarks around the world light up in blue, and communities host events centered on neurodiversity.",
+      "origin": "Designated by the United Nations General Assembly in 2007, with the first observance in 2008. It was proposed by Qatar and has since grown into a worldwide movement.",
+      "category": "Awareness Day",
+      "emoji": "💙",
+      "funFact": "Many famous buildings, including the Empire State Building and the Sydney Opera House, have glowed blue for the occasion."
     },
     {
-      "name": "National Peanut Butter and Jelly Day (USA)",
-      "description": "A celebration of the iconic sandwich staple that has delighted taste buds and lunchboxes for generations.",
-      "origin": "Origin unknown, but peanut butter and jelly sandwiches became popular in the early 1900s in America, and this day honors their delicious combo.",
-      "category": "Food",
-      "emoji": "🥜🍇🍞",
-      "funFact": "Peanut butter and jelly sandwiches are so beloved that more than 6 million of them are eaten every day in the U.S.!"
+      "name": "International Children's Book Day",
+      "description": "A day for celebrating the magic of kids' books, from bedtime classics to wild picture books about talking vegetables. Libraries and schools hold readings and give out books to encourage young readers.",
+      "origin": "Established in 1967 by the International Board on Books for Young People (IBBY). The date was chosen to honor the birthday of Hans Christian Andersen, born April 2, 1805, the Danish author of The Little Mermaid and The Ugly Duckling.",
+      "category": "Literary Celebration",
+      "emoji": "📚",
+      "funFact": "Each year a different national section of IBBY sponsors the day, and they pick a theme and have an artist design a poster for it."
     },
     {
-      "name": "World Party Day",
-      "description": "A day dedicated to worldwide simultaneous partying — the idea is that everyone should dance, have fun, and unite in joy on the same day.",
-      "origin": "Started by artist Josh Harris in 2004 to promote peace and happiness through synchronized celebrations across the planet.",
-      "category": "Fun/Pop Culture",
-      "emoji": "🎉🌍🕺",
-      "funFact": "On World Party Day, people try to synchronize their celebrations despite different time zones, creating a 24-hour global party."
+      "name": "National Ferret Day",
+      "description": "A day to honor those long, wiggly, mischievous noodle-shaped furballs who steal socks and do the famous weasel war dance. Ferret fans celebrate with treats, playtime, and tunnel adventures.",
+      "origin": "An unofficial pet holiday celebrated by ferret owners and fans in the United States, promoted by pet-themed observance calendars as a way to recognize ferrets as pets.",
+      "category": "Pet Holiday",
+      "emoji": "🦦",
+      "funFact": "When ferrets get super excited, they perform the 'weasel war dance,' a frenzied series of sideways hops, bumps, and chattering sounds."
     }
   ]
 }

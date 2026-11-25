@@ -2,58 +2,59 @@
   "date": "July 7",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A beloved garden rose species that blooms profusely in summer. It has fragrant, colorful flowers and is a parent to many modern roses.",
-      "bloomingSeason": "May to October",
-      "location": "Temperate gardens worldwide, especially in Asia and temperate North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with slender silvery-green leaves and dense spikes of small tubular flowers. It is widely cultivated for essential oils, culinary use, and as a pollinator-friendly garden plant.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌹",
-      "funFact": "China Rose was one of the earliest rose species brought from China to Europe and greatly influenced modern rose breeding."
-    },
-    {
-      "name": "Lupinus texensis",
-      "commonName": "Texas Bluebonnet",
-      "description": "The state flower of Texas, these wildflowers bloom in vibrant blue spikes and carpet the landscape in spring to early summer, often still visible in early July in some areas.",
-      "bloomingSeason": "March to July",
-      "location": "South Central United States, especially Texas",
-      "colors": [
-        "blue",
-        "white"
-      ],
-      "emoji": "💙",
-      "funFact": "Bluebonnets are named after their blue petals that resemble bonnets worn by pioneer women."
-    },
-    {
-      "name": "Dianthus superbus",
-      "commonName": "Fringed Pink",
-      "description": "A wildflower with fringed, sweetly-scented pink flowers that bloom in the summer, thriving in meadows and woodlands.",
-      "bloomingSeason": "June to August",
-      "location": "Europe and Northern Asia",
-      "colors": [
-        "pink",
         "purple",
-        "white"
+        "lavender",
+        "violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender's name comes from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent their baths."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial wildflower with daisy-like blooms featuring drooping pink-purple petals around a spiky, orange-brown central cone. It thrives in prairies and open woodlands and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Midsummer to early fall (June to September)",
+      "location": "Eastern and central North America, prairies and open woods",
+      "colors": [
+        "purple",
+        "pink",
+        "orange"
       ],
       "emoji": "🌸",
-      "funFact": "The fringed petals of Dianthus superbus have inspired its common name, referring to its delicate ‘fringed’ appearance."
+      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, a reference to the spiny central cone."
     },
     {
-      "name": "Eucalyptus globulus",
-      "commonName": "Blue Gum Eucalyptus",
-      "description": "This fast-growing evergreen tree produces clusters of white aromatic flowers without petals. It blooms in summer and is iconic in Australian landscapes.",
-      "bloomingSeason": "June to September",
-      "location": "Australia and cultivated worldwide in suitable climates",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above water and spectacular, many-petaled flowers on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters and is revered in many cultures.",
+      "bloomingSeason": "Summer (June to August), peaking during the monsoon season in Asia",
+      "location": "South and East Asia, India, China, Vietnam, and northern Australia",
       "colors": [
+        "pink",
         "white"
       ],
-      "emoji": "🌿",
-      "funFact": "The Blue Gum Eucalyptus is widely used for its oil and was one of the first Eucalyptus species introduced internationally."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-structured surface that repels water and dirt, an effect known as the 'lotus effect' that inspired self-cleaning materials."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub producing the largest flower head in the Protea genus, with a bowl of silky-tipped bracts surrounding a center of tightly packed florets. It thrives in the nutrient-poor, well-drained soils of fynbos vegetation.",
+      "bloomingSeason": "Late autumn through spring in the Southern Hemisphere, with blooms often present in midwinter (May to September)",
+      "location": "Western and Southern Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa's national flower and is one of the oldest flowering plant families, dating back around 300 million years."
     }
   ]
 }

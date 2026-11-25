@@ -2,61 +2,72 @@
   "date": "June 12",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Garden Roses",
-      "description": "Roses are classic garden plants known for their fragrant, often multi-petaled blooms. Many varieties are in full flower during early summer, showcasing a wide range of colors from white to deep red.",
-      "bloomingSeason": "Late spring to early summer",
-      "location": "Temperate regions worldwide, cultivated globally",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, fragrant, often double blooms held above deep green, glossy foliage. Late-blooming varieties are at their peak in cooler northern gardens around mid-June.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Siberia, Mongolia and northern China; widely cultivated in temperate gardens of North America and Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty worldwide."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This wildflower features tall spikes of densely packed pea-like flowers. It thrives in cooler climates and blooms profusely in late spring and early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Native to western North America, commonly found in meadows and along roadsides in temperate zones",
-      "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines enrich the soil by fixing nitrogen, making them important for ecosystem health."
+      "funFact": "Peonies can live and bloom for over 100 years, and ants visiting the buds are harmless; they simply feed on the sugary nectar on the bud surface."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree known for its distinctive cylindrical flower spikes composed of hundreds of tiny individual flowers. It blooms mainly in late autumn to early summer.",
-      "bloomingSeason": "Autumn to early summer (March to June)",
-      "location": "Coastal regions of eastern Australia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and spikes of small tubular flowers. In the Mediterranean and southern Europe, blooming begins in earnest in June, attracting bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August)",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania and the Pacific Northwest of the USA",
       "colors": [
-        "yellow",
-        "orange"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌼",
-      "funFact": "Banksia flowers provide an important nectar source for Australian birds and mammals during blooming season."
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "This aquatic plant produces large, fragrant, cup-shaped flowers that rise above the water surface. It typically blooms in warm summer months.",
-      "bloomingSeason": "Late spring to summer (May to August)",
-      "location": "Asia, cultivated in ponds and water gardens in tropical and subtropical regions",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it is not in bloom in June, but in the Northern Hemisphere subtropics, such as parts of Mexico, Florida and southern California, it blooms in late spring to early summer, carpeting streets with fallen flowers.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June)",
+      "location": "Native to South America; planted in subtropical regions of the Americas, Africa, Asia and Australia, including Pretoria, South Africa, and Los Angeles, USA",
       "colors": [
-        "pink",
-        "white"
+        "Blue-violet",
+        "Lavender"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, nicknamed the 'Jacaranda City', thousands of trees line the streets, though there they bloom in October and November."
+    },
+    {
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "A hardy aquatic perennial with round floating pads and star-shaped, many-petaled white flowers with golden centers. The blossoms open in the morning and close in the afternoon on still ponds, lakes and slow rivers.",
+      "bloomingSeason": "Early summer to late summer (June to August)",
+      "location": "Native to Europe, North Africa and parts of western Asia; found in lakes and ponds in temperate regions",
+      "colors": [
+        "White",
+        "Yellow"
+      ],
+      "emoji": "🪷",
+      "funFact": "The flower stalks lengthen and later coil to pull the seed pod underwater, where the seeds ripen."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A striking Australian shrub bearing large, dome-shaped crimson flower heads surrounded by showy bracts. It generally blooms in spring, but in some cooler or higher locations flowering extends later, and plants in the southern hemisphere winter are mostly dormant.",
+      "bloomingSeason": "Spring (September to November), so not typically blooming in June in its home range",
+      "location": "Native to the sandstone ridges around Sydney, New South Wales, Australia",
+      "colors": [
+        "Crimson",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "The lotus flower is a symbol of purity and spiritual enlightenment in many Asian cultures."
+      "funFact": "It is the floral emblem of New South Wales, and its name 'Telopea' comes from the Greek for 'seen from afar'."
     }
   ]
 }

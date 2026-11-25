@@ -2,32 +2,39 @@
   "date": "July 29",
   "events": [
     {
-      "year": 1588,
-      "title": "Start of the Battle of Gravelines",
-      "description": "The English fleet engaged the Spanish Armada off the coast of Gravelines during the Anglo-Spanish War.",
-      "category": "Military",
-      "significance": "This battle was pivotal in halting the Spanish Armada's invasion of England, marking a turning point in naval warfare and the decline of Spanish dominance at sea."
-    },
-    {
-      "year": 1890,
-      "title": "Resignation of Wilhelm II's Chancellor Otto von Bismarck",
-      "description": "Otto von Bismarck resigned as Chancellor of Germany after falling out of favor with Emperor Wilhelm II.",
-      "category": "Political",
-      "significance": "Bismarck's resignation marked the end of an era in German politics and led to significant changes in German and European diplomatic relations."
-    },
-    {
-      "year": 1900,
-      "title": "Opening of the Second Modern Olympic Games",
-      "description": "The II Olympiad was officially opened in Paris, France, continuing the revival of the Olympic Games in the modern era.",
-      "category": "Sports",
-      "significance": "This event signified the growing international importance of the Olympic Games as a global sporting event."
+      "year": 1958,
+      "title": "NASA Established",
+      "description": "President Dwight D. Eisenhower signed the National Aeronautics and Space Act, creating the National Aeronautics and Space Administration (NASA) as a civilian agency to lead American space exploration, replacing the NACA.",
+      "category": "Science and Technology",
+      "significance": "NASA went on to lead the Apollo Moon landings, space shuttle program, and robotic exploration of the solar system, shaping the course of the Space Race and modern space science."
     },
     {
       "year": 1981,
-      "title": "Bristol Zoo Gardens opens Red Pandas exhibit",
-      "description": "Bristol Zoo in the United Kingdom opened an exhibit for Red Pandas, raising awareness for endangered species.",
-      "category": "Environment/Conservation",
-      "significance": "This event highlighted zoo-based conservation efforts and the increasing focus on protecting endangered species globally."
+      "title": "Wedding of Prince Charles and Lady Diana Spencer",
+      "description": "Charles, Prince of Wales, married Lady Diana Spencer at St Paul's Cathedral in London in a ceremony watched by an estimated 750 million people worldwide.",
+      "category": "Politics and Royalty",
+      "significance": "The wedding was one of the most widely viewed television events in history, and Diana became a global cultural icon whose life and death profoundly influenced the British monarchy and public perceptions of royalty."
+    },
+    {
+      "year": 1890,
+      "title": "Death of Vincent van Gogh",
+      "description": "Dutch Post-Impressionist painter Vincent van Gogh died at age 37 in Auvers-sur-Oise, France, two days after shooting himself in the chest.",
+      "category": "Arts and Culture",
+      "significance": "Largely unrecognized during his lifetime, Van Gogh became one of the most influential artists in Western history, and works such as The Starry Night and Sunflowers are among the most celebrated paintings in the world."
+    },
+    {
+      "year": 1805,
+      "title": "Birth of Alexis de Tocqueville",
+      "description": "French political thinker and historian Alexis de Tocqueville was born in Paris. He later traveled through the United States and wrote Democracy in America.",
+      "category": "Births",
+      "significance": "Democracy in America remains a foundational analysis of democratic society, political culture, and equality, and continues to be widely cited in political science and history."
+    },
+    {
+      "year": 1900,
+      "title": "Assassination of King Umberto I of Italy",
+      "description": "King Umberto I was shot and killed in Monza by the anarchist Gaetano Bresci, who said he was avenging the victims of a violent suppression of bread riots in Milan in 1898.",
+      "category": "Politics and Assassinations",
+      "significance": "The killing brought Victor Emmanuel III to the throne, and he reigned during the rise of Fascism in Italy, and it highlighted the wave of anarchist violence at the turn of the 20th century."
     }
   ]
 }

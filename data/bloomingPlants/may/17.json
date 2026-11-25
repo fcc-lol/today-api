@@ -2,57 +2,61 @@
   "date": "May 17",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub native to southern Europe and southwest Asia, known for its large clusters of bell-shaped flowers that range from purple to pink hues. It thrives in temperate regions and is often found in woodland and heathland.",
-      "bloomingSeason": "April to June",
-      "location": "Europe (UK, Spain), Asia Minor",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub with dense, conical clusters of intensely fragrant flowers. It thrives in cold-winter climates and is a beloved garden staple, often planted near homes for its perfume.",
+      "bloomingSeason": "Mid to late spring (late April to early June in the Northern Hemisphere)",
+      "location": "Native to the Balkan Peninsula; widely cultivated across temperate North America, Europe, and Asia",
       "colors": [
-        "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "The nectar of Rhododendron flowers contains grayanotoxins, which can be toxic to humans and animals if ingested."
-    },
-    {
-      "name": "Tibouchina urvilleana",
-      "commonName": "Princess Flower",
-      "description": "A tropical evergreen shrub native to Brazil with vibrant purple, velvety flowers and striking deep green leaves. Often grown in subtropical and warm temperate gardens worldwide.",
-      "bloomingSeason": "Spring to summer (April to August)",
-      "location": "Brazil, cultivated in subtropical regions worldwide",
-      "colors": [
-        "purple"
+        "Lilac",
+        "Purple",
+        "White",
+        "Pink"
       ],
       "emoji": "💜",
-      "funFact": "Princess Flower attracts a variety of pollinators, including bees and butterflies, making it popular for garden biodiversity."
+      "funFact": "Lilacs can live for more than 100 years, and old shrubs often persist at abandoned homesteads long after the buildings are gone."
     },
     {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A North American native perennial wildflower with tall spikes adorned with pea-like flowers, typically in shades of blue, purple, or white. It grows well in sandy soils and open woods.",
-      "bloomingSeason": "April to June",
-      "location": "Eastern USA and Canada",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, showy, often double blooms with a sweet fragrance. It emerges in early spring and flowers in late spring, forming long-lived clumps in gardens.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Siberia, Mongolia, and northern China; cultivated throughout temperate regions worldwide",
       "colors": [
-        "blue",
-        "purple",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
-      "emoji": "🌿",
-      "funFact": "Wild Lupine is an important larval host plant for the endangered Karner Blue butterfly."
+      "emoji": "🌸",
+      "funFact": "Peonies are the national flower of China in many traditions and can live and bloom for over 50 years in the same spot."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial native to North America, recognized by its large purple-pink daisy-like flowers with a spiny central cone. It is widely cultivated for its medicinal properties and attractiveness to pollinators.",
-      "bloomingSeason": "May to September",
-      "location": "Central and Eastern North America",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall subtropical tree covered in clouds of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. In late spring it carpets streets with fallen blossoms in warm-climate cities of the Northern Hemisphere.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere; October to November in the Southern Hemisphere)",
+      "location": "Native to South America; widely planted in Mexico, California, Florida, the Mediterranean, and South Africa",
       "colors": [
-        "purple",
-        "pink"
+        "Blue-violet",
+        "Lavender"
       ],
-      "emoji": "🌻",
-      "funFact": "Echinacea is used traditionally to boost the immune system and is popular in herbal remedies."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas earned it the nickname 'Jacaranda City,' while Mexico City and Lisbon also have famous displays around this time."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "An evergreen shrub that flowers in the cool months of the Southern Hemisphere. Its delicate, often fragrant flowers appear against glossy dark green leaves as autumn deepens toward winter.",
+      "bloomingSeason": "Autumn to early winter (April to July in the Southern Hemisphere)",
+      "location": "Native to Japan; cultivated in Australia, New Zealand, South Africa, and southern Chile",
+      "colors": [
+        "White",
+        "Pink",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea, while sasanqua seeds are pressed for a culinary and cosmetic oil."
     }
   ]
 }

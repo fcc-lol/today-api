@@ -4,56 +4,59 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall, iconic annual plant known for its large, bright yellow flower heads that follow the sun's path across the sky. Sunflowers are widely cultivated for their seeds and oil and provide food and habitat for many pollinators.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, especially North America",
+      "description": "A tall annual with a large, coarse stem and a showy flower head made up of golden ray florets surrounding a dark central disk packed with tiny fertile florets. Young flower heads track the sun across the sky, a behavior called heliotropism.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; widely cultivated across the United States, Ukraine, Russia, France, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "deep brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism during early growth stages, turning their heads to track the sun from east to west daily."
+      "funFact": "Mature sunflowers stop tracking the sun and permanently face east, which warms the flower in the morning and attracts more pollinators."
     },
     {
-      "name": "Rosa rugosa",
-      "commonName": "Rugosa Rose",
-      "description": "A hardy, fragrant shrub rose native to eastern Asia, often found in coastal areas. It produces large, fragrant pink or white blooms and bright red rose hips that persist into autumn.",
-      "bloomingSeason": "June to September",
-      "location": "Temperate coastal areas in East Asia, Europe, and North America (naturalized)",
+      "name": "Hydrangea paniculata",
+      "commonName": "Panicle Hydrangea",
+      "description": "A hardy deciduous shrub that produces large cone-shaped clusters of flowers. The blooms start creamy white or lime green and age to pink, rose, or burgundy as late summer progresses into fall.",
+      "bloomingSeason": "Mid-summer to early fall",
+      "location": "Native to China, Japan, and Sakhalin Island; grown in temperate gardens in North America and Europe",
       "colors": [
-        "Pink",
-        "White"
+        "white",
+        "cream",
+        "pink",
+        "burgundy"
       ],
-      "emoji": "🌹",
-      "funFact": "Rosa rugosa's rose hips are rich in vitamin C and have long been used in traditional medicine and teas."
+      "emoji": "💐",
+      "funFact": "Unlike bigleaf hydrangeas, panicle hydrangeas bloom on new wood, so they reliably flower even after harsh winters."
     },
     {
-      "name": "Lilium pardalinum",
-      "commonName": "Leopard Lily",
-      "description": "A striking wild lily with orange-red flowers spotted with darker markings resembling a leopard's spots. It grows in moist woodlands and stream banks in western North America.",
-      "bloomingSeason": "July to August",
-      "location": "Pacific Coast, Western North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower of meadows, roadsides, and prairies that forms dense colonies. It produces arching plumes of tiny golden flower heads that are a crucial late-season nectar and pollen source for bees, butterflies, and other insects.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to North America; naturalized in Europe and Asia",
       "colors": [
-        "Orange",
-        "Red",
-        "Brown spots"
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the true culprit is usually ragweed, which blooms at the same time."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower head in the Protea genus, made of a central cone of tiny flowers surrounded by showy, petal-like bracts. It thrives in the nutrient-poor, acidic soils of the fynbos.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November), with peak flowering in spring",
+      "location": "Native to the Western and Southern Cape of South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "silvery white",
+        "red"
       ],
       "emoji": "🌺",
-      "funFact": "Its spotted flowers attract hummingbirds and other pollinators native to its habitat."
-    },
-    {
-      "name": "Kniphofia uvaria",
-      "commonName": "Red Hot Poker",
-      "description": "A perennial plant with tall spikes of tubular flowers ranging in color from red to yellow, resembling a glowing poker. It thrives in subtropical and temperate climates and is popular in gardens worldwide.",
-      "bloomingSeason": "June to September",
-      "location": "Native to South Africa; cultivated widely in temperate regions",
-      "colors": [
-        "Red",
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🔥",
-      "funFact": "The nectar-rich flowers are a favorite of sunbirds and hummingbirds, acting as a food source during late summer."
+      "funFact": "The king protea is South Africa's national flower, and its ancient lineage predates the breakup of the Gondwana supercontinent."
     }
   ]
 }

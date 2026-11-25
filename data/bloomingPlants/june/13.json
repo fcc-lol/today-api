@@ -2,59 +2,60 @@
   "date": "June 13",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Rose",
-      "description": "Roses are widely cultivated flowering shrubs known for their large, fragrant blooms and thorny stems. They bloom prolifically in late spring through summer in temperate zones.",
-      "bloomingSeason": "May to July",
-      "location": "Northern Hemisphere temperate gardens, including North America, Europe, and parts of Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers above deeply lobed green foliage. It is a beloved cottage garden plant and cut flower, and thrives in cool-winter climates.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate North America, Europe and East Asia",
       "colors": [
-        "red",
         "pink",
         "white",
-        "yellow",
-        "orange"
+        "red",
+        "coral"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty in many cultures."
+      "emoji": "🌸",
+      "funFact": "Some peony plants can live and bloom for more than 50 years, and in China the peony has long been called the 'king of flowers'."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "Bigleaf lupines produce tall spikes covered in dense clusters of pea-like flowers. They are commonly found in wild meadows and garden settings, attracting pollinators.",
-      "bloomingSeason": "Late spring to mid-summer (May to July)",
-      "location": "Western North America, especially in the Pacific Northwest",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of small tubular flowers. It begins blooming in early summer and is a magnet for bees and butterflies.",
+      "bloomingSeason": "Early to mid summer (June to August)",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania and the United States",
       "colors": [
         "purple",
-        "blue",
-        "pink",
-        "white"
+        "lavender",
+        "blue"
       ],
       "emoji": "💜",
-      "funFact": "Lupines enrich the soil by fixing nitrogen via bacteria in their root nodules, improving soil fertility."
+      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing and medicine, and its name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "Coast Banksia is a coastal Australian tree that produces cylindrical flower spikes composed of many tiny flowers, blooming profusely during early winter into late spring and sometimes into early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Coastal Eastern Australia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, semi-deciduous tree with fern-like leaves that becomes covered in clouds of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it is in the late stages of its bloom as winter approaches, and in the Northern Hemisphere it is blooming in warm regions such as California and the Mediterranean.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; planted in South Africa (Pretoria), Australia, California, Florida and the Mediterranean",
       "colors": [
+        "lavender",
+        "blue",
+        "violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because its tens of thousands of jacaranda trees turn the streets purple."
+    },
+    {
+      "name": "Leucanthemum vulgare",
+      "commonName": "Oxeye Daisy",
+      "description": "A hardy wildflower with classic white petals around a bright yellow center, found in meadows, roadsides and grasslands. It grows in clumps and can reach about 1 meter tall.",
+      "bloomingSeason": "Late spring to midsummer (May to August)",
+      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia and New Zealand",
+      "colors": [
+        "white",
         "yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Banksias are important for native wildlife as their flowers provide nectar for birds and insects."
-    },
-    {
-      "name": "Nymphaea odorata",
-      "commonName": "American White Water Lily",
-      "description": "This aquatic plant features large, fragrant white flowers that float on the surface of ponds and lakes, blooming in warm months.",
-      "bloomingSeason": "June to August",
-      "location": "Freshwater bodies across much of North America",
-      "colors": [
-        "white"
-      ],
-      "emoji": "💧",
-      "funFact": "Water lilies have stomata only on the upper surface of their leaves to facilitate gas exchange while floating."
+      "funFact": "The flower heads follow the sun, and the plant was traditionally associated with Midsummer and St. John's Day celebrations on June 24."
     }
   ]
 }

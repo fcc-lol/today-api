@@ -4,30 +4,37 @@
     {
       "year": 1871,
       "title": "Great Chicago Fire Begins",
-      "description": "A massive fire starts in Chicago, Illinois, ultimately destroying a large portion of the city and causing significant loss of life and property.",
+      "description": "The Great Chicago Fire began on the night of October 8 in or near a barn on the southwest side of Chicago. Fueled by dry conditions, wooden buildings, and strong winds, it burned until October 10, destroying about 3.3 square miles of the city, killing roughly 300 people, and leaving about 100,000 residents homeless.",
       "category": "Disaster",
-      "significance": "Led to major urban rebuilding efforts and improved fire safety regulations."
+      "significance": "The fire led to major reforms in building codes and fire safety and prompted the rebuilding of Chicago, which became a center of modern architecture and the birthplace of the skyscraper."
+    },
+    {
+      "year": 1871,
+      "title": "Peshtigo Fire Ignites in Wisconsin",
+      "description": "On the same night as the Chicago fire, a firestorm swept through Peshtigo, Wisconsin, and surrounding areas of Wisconsin and Michigan. It burned over a million acres and killed an estimated 1,200 to 2,500 people.",
+      "category": "Disaster",
+      "significance": "It remains the deadliest wildfire in recorded American history, though it was overshadowed by the Chicago fire, and it highlighted the dangers of logging practices and land clearing."
+    },
+    {
+      "year": 1918,
+      "title": "Alvin York's Act of Heroism in the Meuse-Argonne Offensive",
+      "description": "Corporal Alvin C. York of the US Army led an attack on a German machine gun position in the Argonne Forest during World War I, killing around 25 enemy soldiers and helping capture 132 prisoners.",
+      "category": "Military",
+      "significance": "York was awarded the Medal of Honor and became one of the most celebrated American soldiers of World War I, symbolizing individual valor and the American contribution to the Allied victory."
     },
     {
       "year": 1956,
-      "title": "Suez Crisis Begins",
-      "description": "Israeli forces invade Egypt, marking the start of the Suez Crisis, a conflict involving Egypt, Israel, Britain, and France over control of the Suez Canal.",
-      "category": "Conflict",
-      "significance": "Highlighted Cold War tensions and reshaped Middle Eastern geopolitics."
+      "title": "Don Larsen Pitches a Perfect Game in the World Series",
+      "description": "New York Yankees pitcher Don Larsen threw a perfect game against the Brooklyn Dodgers in Game 5 of the 1956 World Series, retiring all 27 batters he faced.",
+      "category": "Sports",
+      "significance": "It remains the only perfect game in World Series history and one of the most famous achievements in baseball."
     },
     {
-      "year": 1912,
-      "title": "First Balkan War: Battle of Kumanovo",
-      "description": "Serbian and Montenegrin forces defeat the Ottoman army, marking a decisive battle in the First Balkan War.",
-      "category": "Military",
-      "significance": "Influenced the outcome of the First Balkan War and weakened Ottoman presence in Europe."
-    },
-    {
-      "year": 1967,
-      "title": "Thurgood Marshall Nominated to the U.S. Supreme Court",
-      "description": "President Lyndon B. Johnson nominates Thurgood Marshall as the first African American justice of the Supreme Court of the United States.",
-      "category": "Politics/Judicial",
-      "significance": "A landmark moment in civil rights and American judicial history."
+      "year": 1970,
+      "title": "Aleksandr Solzhenitsyn Awarded the Nobel Prize in Literature",
+      "description": "The Swedish Academy awarded the 1970 Nobel Prize in Literature to Russian author Aleksandr Solzhenitsyn for the ethical force with which he pursued the indispensable traditions of Russian literature.",
+      "category": "Arts and Culture",
+      "significance": "The award brought global attention to Soviet censorship and repression, and Solzhenitsyn's later works, such as The Gulag Archipelago, helped undermine the moral legitimacy of the Soviet system."
     }
   ]
 }

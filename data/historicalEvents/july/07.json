@@ -2,32 +2,39 @@
   "date": "July 7",
   "events": [
     {
-      "year": 1456,
-      "title": "Victory at the Siege of Belgrade",
-      "description": "John Hunyadi, a Hungarian general, successfully defends Belgrade against the Ottoman Empire, halting their advance into Europe.",
-      "category": "Military",
-      "significance": "Marked a significant Christian victory and delayed Ottoman expansion into Europe."
+      "year": 1307,
+      "title": "Death of King Edward I of England",
+      "description": "Edward I, known as 'Longshanks' and the 'Hammer of the Scots,' died at Burgh by Sands while marching north to campaign against Scotland. He was succeeded by his son Edward II.",
+      "category": "Death",
+      "significance": "Edward's death marked the end of a reign that reshaped English law and government and brought Wales under English control. His weaker successor soon lost ground in Scotland, culminating in Bannockburn in 1314."
+    },
+    {
+      "year": 1865,
+      "title": "Execution of the Lincoln Assassination Conspirators",
+      "description": "Four people convicted of conspiring in the assassination of President Abraham Lincoln were hanged at the Washington Arsenal: Mary Surratt, Lewis Powell, David Herold, and George Atzerodt.",
+      "category": "Crime and Justice",
+      "significance": "Mary Surratt became the first woman executed by the U.S. federal government. The use of a military tribunal for civilians remains a subject of legal and historical debate."
     },
     {
       "year": 1898,
-      "title": "United States Annexes Hawaii",
-      "description": "The United States formally annexes the Hawaiian Islands after overthrowing the monarchy, incorporating them into its territories.",
-      "category": "Political",
-      "significance": "Expanded U.S. influence in the Pacific and set the stage for Hawaii's eventual statehood."
+      "title": "Annexation of Hawaii",
+      "description": "President William McKinley signed the Newlands Resolution, in which the United States annexed the Republic of Hawaii. The resolution had been passed by Congress amid the Spanish-American War.",
+      "category": "Politics",
+      "significance": "The annexation extended U.S. territory into the Pacific and strengthened its strategic position in the region. Hawaii became a U.S. territory in 1900 and a state in 1959."
     },
     {
-      "year": 1928,
-      "title": "Sliced Bread First Sold",
-      "description": "The first commercially sliced bread is sold by the Chillicothe Baking Company in Missouri, revolutionizing the baking and food industry.",
-      "category": "Social/Cultural",
-      "significance": "Sliced bread became a staple, making bread more convenient and influencing consumer habits."
+      "year": 1937,
+      "title": "Marco Polo Bridge Incident",
+      "description": "Fighting broke out between Chinese and Japanese troops near the Marco Polo Bridge (Lugou Bridge) southwest of Beijing, after a dispute over a missing Japanese soldier.",
+      "category": "War and Conflict",
+      "significance": "The incident escalated into the Second Sino-Japanese War, which merged into World War II in the Pacific and cost millions of lives."
     },
     {
-      "year": 2005,
-      "title": "7/7 London Bombings",
-      "description": "Coordinated suicide bomb attacks target London's public transport system during the morning rush hour, killing 52 and injuring hundreds.",
-      "category": "Terrorism",
-      "significance": "A major terrorist attack in the UK that influenced counterterrorism policies worldwide."
+      "year": 1930,
+      "title": "Construction Begins on Hoover Dam",
+      "description": "Construction of the Hoover Dam (originally Boulder Dam) on the Colorado River began in earnest, with work starting in the Black Canyon on the Nevada-Arizona border.",
+      "category": "Engineering",
+      "significance": "Completed in 1936, the dam was a landmark of American engineering during the Great Depression, supplying hydroelectric power and water to the Southwest and providing thousands of jobs."
     }
   ]
 }

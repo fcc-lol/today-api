@@ -2,28 +2,44 @@
   "date": "July 12",
   "holidays": [
     {
-      "name": "Pecan Pie Day",
-      "description": "Celebrate one of America’s most delicious desserts, pecan pie! This day honors the sweet, nutty treat often enjoyed during holidays and family gatherings.",
-      "origin": "While the exact origin is unclear, pecan pie’s popularity in the southern U.S. dates back to the late 19th century, and this day spotlights that sticky, buttery goodness.",
+      "name": "National Simplicity Day",
+      "description": "A day to unplug from clutter and complexity and embrace a simpler life, inspired by the minimalist spirit of Henry David Thoreau. Celebrants declutter, skip the screens, and spend time in nature.",
+      "origin": "Observed on July 12 to mark the birthday of Henry David Thoreau, author of Walden, who was born in 1817 in Concord, Massachusetts.",
+      "category": "Lifestyle Observance",
+      "emoji": "🌲",
+      "funFact": "Thoreau lived for just over two years in a small cabin at Walden Pond, but he was only about a mile and a half from town and reportedly walked home often for his mother's cookies."
+    },
+    {
+      "name": "National Pecan Pie Day",
+      "description": "A celebration of the gooey, nutty, sugar-packed Southern dessert. Bakers and pie lovers everywhere serve a slice, ideally with a scoop of vanilla ice cream.",
+      "origin": "An unofficial food holiday that honors the classic American pie, which grew popular in the South, where pecans are native. Corn syrup makers helped popularize the modern recipe in the 1930s.",
       "category": "Food Holiday",
       "emoji": "🥧",
-      "funFact": "The world's largest pecan pie was over 40 feet in diameter and weighed more than a ton!"
+      "funFact": "Pecan trees are native to North America, and the word 'pecan' comes from an Algonquin word meaning 'nut that requires a stone to crack.'"
+    },
+    {
+      "name": "National Eight-Track Tape Day",
+      "description": "A nostalgic salute to the chunky cartridge that let people blast music in their cars in the 1960s and 70s. Fans dust off old tapes and talk about how the tape would sometimes switch tracks mid-song.",
+      "origin": "Observed on July 12 as a nod to the audio format developed in the 1960s, famously pushed by Bill Lear of Lear Jet fame, and popular in cars until cassettes took over.",
+      "category": "Pop Culture / Nostalgia",
+      "emoji": "📼",
+      "funFact": "Eight-track players often changed programs mid-song, which is why many songs on eight-track albums faded out and back in or were rearranged to fit the tape's four equal-length programs."
     },
     {
       "name": "Paper Bag Day",
-      "description": "A quirky nod to the humble paper bag, this day encourages people to appreciate reusable bags and think about environmental conservation.",
-      "origin": "Started as an environmental awareness day to reduce plastic bag use and celebrate eco-friendly alternatives.",
-      "category": "Environmental Awareness",
+      "description": "A day to appreciate the humble paper bag, a simple invention that carries groceries, lunches, and the occasional puppet or dramatic hyperventilation. People reuse them for crafts and gift wrap.",
+      "origin": "Commemorates the patenting of a machine for making flat-bottomed paper bags by Margaret Knight, an inventor who started working at a paper bag company in the 1860s and fought to claim credit for her design.",
+      "category": "Invention Observance",
       "emoji": "🛍️",
-      "funFact": "The first paper bag machine was invented in 1852, revolutionizing shopping forever!"
+      "funFact": "Margaret Knight held around 20 patents in her lifetime and was sometimes called 'the female Edison.'"
     },
     {
-      "name": "Different Colored Eyes Day",
-      "description": "A celebration of people born with heterochromia — the rare condition of having two different colored eyes.",
-      "origin": "An unofficial observance that brings awareness to this beautiful genetic rarity and encourages people to embrace uniqueness.",
-      "category": "Unusual Awareness Day",
-      "emoji": "👁️👁️",
-      "funFact": "Famous heterochromic-eyed celebrities include David Bowie and Kate Bosworth!"
+      "name": "Malala Day",
+      "description": "A day recognizing the global right of all children to an education, named for activist Malala Yousafzai. People support girls' education and speak up for young voices.",
+      "origin": "Established by the United Nations on July 12, 2013, to mark Malala's 16th birthday, when she delivered a powerful speech at the UN.",
+      "category": "Awareness Day",
+      "emoji": "📚",
+      "funFact": "Malala became the youngest-ever Nobel Prize laureate when she won the Nobel Peace Prize in 2014 at age 17."
     }
   ]
 }

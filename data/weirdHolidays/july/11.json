@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "World Population Day",
-      "description": "A day dedicated to raising awareness about global population issues and the impact on resources, environment, and development.",
-      "origin": "Established by the United Nations in 1989, inspired by the day when the world's population reached 5 billion in 1987.",
-      "category": "Awareness",
+      "description": "A day to reflect on how many humans are sharing this one spinning rock, and to ponder everything from crowded elevators to the global line for brunch.",
+      "origin": "Established by the United Nations Development Programme's Governing Council in 1989, inspired by the public interest in Five Billion Day on July 11, 1987, when the world's population was estimated to reach five billion.",
+      "category": "Awareness Day",
       "emoji": "🌍",
-      "funFact": "The global population continues to grow rapidly, but on World Population Day people reflect on the challenges and opportunities of this growth."
+      "funFact": "The world population has more than doubled since 1960 and passed 8 billion in November 2022."
     },
     {
-      "name": "National 7-Eleven Day (USA)",
-      "description": "Celebrate the convenience store giant by grabbing a free Slurpee or other tasty treat at 7-Eleven locations nationwide!",
-      "origin": "Started by 7-Eleven in the 1990s to promote the store and reward customers each year on 7/11.",
-      "category": "Food & Pop Culture",
+      "name": "National Slurpee Day (7-Eleven Day)",
+      "description": "Brain-freeze enthusiasts rejoice! Since the date is 7/11, 7-Eleven stores celebrate by giving away free small Slurpees to customers, turning the date into a frosty pilgrimage.",
+      "origin": "7-Eleven began celebrating its birthday with free Slurpees on 7/11 in 2002, tying the brand name to the calendar date. The chain itself dates to 1927 in Dallas, Texas.",
+      "category": "Food Day",
       "emoji": "🥤",
-      "funFact": "On July 11, 7-Eleven often gives away millions of free Slurpees, making it one of the largest free giveaway events! Bonus points if you try to drink it with those tiny red spoon straws."
+      "funFact": "The Slurpee was reportedly inspired by a broken soft-serve machine in a Kansas Dairy Queen, where owner Omar Knedlik found that partially frozen bottled soda was a hit."
+    },
+    {
+      "name": "Cheer Up the Lonely Day",
+      "description": "A day dedicated to reaching out to anyone who might be feeling isolated, whether with a phone call, a note, a visit, or a surprise cupcake.",
+      "origin": "An unofficial observance that grew through grassroots and social media promotion, encouraging people to brighten the day of someone who is lonely.",
+      "category": "Awareness Day",
+      "emoji": "🤗",
+      "funFact": "Researchers have found that chronic loneliness can affect health in ways comparable to smoking up to 15 cigarettes a day, which makes a friendly phone call surprisingly powerful."
     },
     {
       "name": "All American Pet Photo Day",
-      "description": "A fun day to snap and share adorable and funny pictures of your pets to celebrate all the furry, fluffy, scaly, or feathery members of the family.",
-      "origin": "Created in 2003 by Chrisic from PetPics.net to bring pet lovers together worldwide.",
-      "category": "Pop Culture/Animals",
-      "emoji": "🐕📸",
-      "funFact": "Thousands of pet photos flood social media on this day, often leading to viral cuteness overload!"
+      "description": "Pet owners are encouraged to get out their cameras and capture their dogs, cats, hamsters, and lizards in their most photogenic poses, preferably before they knock something off a shelf.",
+      "origin": "An unofficial pet-themed observance that spread through pet-lover communities and social media, celebrating the animals who rule our camera rolls.",
+      "category": "Pet Celebration",
+      "emoji": "🐶",
+      "funFact": "Surveys regularly find that many pet owners have more photos of their pets on their phones than of their friends or family."
     },
     {
-      "name": "Uncommon Instrument Day",
-      "description": "Celebrate musical instruments you don’t see every day — from glass armonicas to theremins to musical saws!",
-      "origin": "A quirky day started by fans of unusual instruments, encouraging people to explore and appreciate musical oddities.",
-      "category": "Music/Quirky",
-      "emoji": "🎶🎵",
-      "funFact": "The theremin, an uncommon instrument, is played without physical contact — you wave your hands in the air to control pitch and volume!"
+      "name": "Mojito Day",
+      "description": "A day to raise a glass of minty, lime-splashed rum goodness and muddle your way into summer bliss, with a non-alcoholic virgin version for those who prefer it.",
+      "origin": "An informal food and drink observance celebrating the classic Cuban cocktail, which has roots in Havana and is long associated with Cuban culture.",
+      "category": "Food Day",
+      "emoji": "🍹",
+      "funFact": "The mojito is said to be a favorite of author Ernest Hemingway, who allegedly drank them at La Bodeguita del Medio in Havana."
     }
   ]
 }

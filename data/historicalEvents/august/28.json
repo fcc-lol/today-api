@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1963,
-      "title": "Martin Luther King Jr.'s \"I Have a Dream\" Speech",
-      "description": "During the March on Washington for Jobs and Freedom, Martin Luther King Jr. delivered his landmark \"I Have a Dream\" speech on the steps of the Lincoln Memorial in Washington, D.C., advocating for racial equality and civil rights.",
+      "title": "March on Washington and 'I Have a Dream' Speech",
+      "description": "Approximately 250,000 people gathered at the Lincoln Memorial in Washington, D.C., for the March on Washington for Jobs and Freedom. Martin Luther King Jr. delivered his 'I Have a Dream' speech, calling for an end to racism and for civil and economic rights for all Americans.",
       "category": "Civil Rights",
-      "significance": "This speech became a defining moment in the American Civil Rights Movement and continues to inspire social justice efforts worldwide."
+      "significance": "The march and speech became defining moments of the American civil rights movement and helped build momentum for the Civil Rights Act of 1964 and the Voting Rights Act of 1965."
     },
     {
       "year": 1845,
-      "title": "The Knickerbocker Storm Hits New York City",
-      "description": "One of the worst snowstorms to hit New York City occurred on this day, dropping significant amounts of snow within 24 hours and causing widespread disruption.",
+      "title": "First Issue of Scientific American Published",
+      "description": "Rufus Porter launched Scientific American as a weekly broadsheet newspaper focused on inventions, patents, and technological progress.",
+      "category": "Science and Media",
+      "significance": "It became the oldest continuously published magazine in the United States and a leading venue for communicating science to the general public."
+    },
+    {
+      "year": 1749,
+      "title": "Birth of Johann Wolfgang von Goethe",
+      "description": "Johann Wolfgang von Goethe was born in Frankfurt, in the Holy Roman Empire. He became a poet, playwright, novelist, and scientist, best known for works such as Faust and The Sorrows of Young Werther.",
+      "category": "Birth / Literature",
+      "significance": "Goethe is regarded as one of the greatest figures in German and world literature and a major influence on Romanticism and European intellectual life."
+    },
+    {
+      "year": 1990,
+      "title": "Iraq Declares Kuwait Its 19th Province",
+      "description": "Weeks after invading Kuwait in August 1990, Iraq's government under Saddam Hussein formally announced the annexation of Kuwait as Iraq's 19th province.",
+      "category": "Politics and War",
+      "significance": "The annexation was condemned internationally and led to UN sanctions and ultimately the U.S.-led coalition's military action in the 1991 Gulf War."
+    },
+    {
+      "year": 2005,
+      "title": "Hurricane Katrina Prompts Mandatory Evacuation of New Orleans",
+      "description": "As Hurricane Katrina intensified into a Category 5 storm in the Gulf of Mexico, New Orleans Mayor Ray Nagin ordered the first-ever mandatory evacuation of the city.",
       "category": "Natural Disaster",
-      "significance": "The storm was notable for its intensity and impact on urban life in the mid-19th century, illustrating early challenges of urban disaster management."
-    },
-    {
-      "year": 1859,
-      "title": "North Carolina Voters Reject Secession",
-      "description": "In a referendum, North Carolina voters decided against secession from the Union, reflecting divided public opinion in the state amidst rising tensions before the American Civil War.",
-      "category": "Political",
-      "significance": "This event highlighted the complex loyalties in border states and set the stage for eventual secession and participation in the Confederacy."
-    },
-    {
-      "year": 1928,
-      "title": "Alexander Fleming Discovers Penicillin",
-      "description": "Alexander Fleming discovered penicillin, the first true antibiotic, when he noticed that a mold had killed bacteria in a petri dish, leading to the development of life-saving antibiotics.",
-      "category": "Scientific Discovery",
-      "significance": "This discovery revolutionized medicine by introducing effective treatment for bacterial infections, dramatically reducing mortality from infectious diseases."
+      "significance": "Katrina made landfall the next day, causing catastrophic flooding and more than 1,800 deaths, and exposed serious failures in disaster preparedness and response in the United States."
     }
   ]
 }

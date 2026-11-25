@@ -4,57 +4,58 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant shrub native to the Mediterranean, known for its spikes of purple flowers and strong aroma. It thrives in sunny, well-drained locations and attracts pollinators like bees and butterflies.",
-      "bloomingSeason": "June to August",
-      "location": "Mediterranean, Europe, North America (cultivated)",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of tiny tubular flowers. It is widely cultivated in gardens and fields and is a magnet for bees and butterflies. Its flowers are harvested for essential oils, culinary use, and sachets.",
+      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
+      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens across Europe and North America",
       "colors": [
         "purple",
-        "violet"
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender essential oil is widely used in aromatherapy for its calming properties."
+      "funFact": "The name lavender likely comes from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub featuring large, showy flowers with five petals, commonly red but also found in pink, yellow, and white varieties. It blooms throughout the warm season in tropical and subtropical climates.",
-      "bloomingSeason": "Year-round in tropical climates; July is peak bloom in many regions",
-      "location": "Tropical Asia, tropical gardens worldwide",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and showy, cup-shaped flowers up to 30 cm across. The leaves repel water thanks to a nanostructured surface. Flowers open in the morning and close by afternoon over several days.",
+      "bloomingSeason": "Summer, peaking July to August",
+      "location": "Asia (India, China, Japan, Vietnam), northern Australia, and ornamental ponds worldwide",
       "colors": [
-        "red",
         "pink",
-        "yellow",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are used to make a popular tart tea called 'agua de Jamaica' in Mexico and the Caribbean."
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C even when the air is much cooler, and seeds have germinated after more than 1,000 years."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A perennial plant known for tall, dense spikes of pea-like flowers in a range of colors including blue, purple, pink, and white. It is native to western North America and is often found blooming in meadows and along roadsides.",
-      "bloomingSeason": "June to August",
-      "location": "Western North America",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy North American prairie perennial with daisy-like flowers featuring drooping pinkish-purple petals around a spiky, orange-brown central cone. It thrives in full sun and tolerates drought and poor soils. Goldfinches feed on the seed heads in late summer.",
+      "bloomingSeason": "June to September",
+      "location": "Eastern and central United States prairies and open woodlands; widely grown in gardens across temperate regions",
       "colors": [
-        "blue",
         "purple",
         "pink",
+        "orange",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines can fix nitrogen in the soil, improving soil fertility."
+      "funFact": "Echinacea comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone, and Native American peoples used it medicinally for centuries."
     },
     {
-      "name": "Tussilago farfara",
-      "commonName": "Coltsfoot",
-      "description": "A perennial herbaceous plant that flowers early to mid-summer in some regions, producing bright yellow daisy-like flowers. It often grows in disturbed soils and along riverbanks.",
-      "bloomingSeason": "May to July",
-      "location": "Europe, Asia, introduced in North America",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with the largest flower heads in the Proteaceae family, reaching up to 30 cm wide. The bloom is made of petal-like bracts surrounding a central cluster of tiny true flowers. It is adapted to fire-prone, nutrient-poor fynbos habitat.",
+      "bloomingSeason": "Southern Hemisphere late winter to spring, with scattered blooms from May to September",
+      "location": "Western and Southern Cape of South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
-        "yellow"
+        "pink",
+        "cream",
+        "red"
       ],
-      "emoji": "🌼",
-      "funFact": "Coltsfoot leaves were traditionally used to soothe coughs and respiratory ailments."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and the genus is named after the Greek god Proteus because of the many forms the family takes."
     }
   ]
 }

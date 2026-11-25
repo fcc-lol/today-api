@@ -2,61 +2,55 @@
   "date": "September 13",
   "plants": [
     {
-      "name": "Aster amellus",
-      "commonName": "European Michaelmas Daisy",
-      "description": "A perennial herbaceous plant native to Europe, known for its vibrant star-shaped flowers that attract pollinators. It typically grows in meadows and grasslands.",
-      "bloomingSeason": "August to October",
-      "location": "Europe",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped lilac-pink flowers in autumn, long after its leaves have died back. The leaves emerge the following spring, which gives it the nickname 'naked ladies'. All parts are highly toxic.",
+      "bloomingSeason": "Late summer to mid autumn (September to October in the Northern Hemisphere)",
+      "location": "Meadows and woodland edges of Europe, widely cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Lilac",
+        "Pale pink",
+        "Purple"
       ],
       "emoji": "🌸",
-      "funFact": "Michaelmas Daisies historically symbolize the arrival of autumn and were named after the Christian feast of Michaelmas on September 29."
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and by plant breeders to induce chromosome doubling."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "An annual plant recognized for its large flower heads and edible seeds. Widely cultivated, sunflowers follow the sun during the day before bloom maturity.",
-      "bloomingSeason": "July to September",
-      "location": "North America and cultivated worldwide",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall herbaceous perennial that forms dense colonies topped with arching plumes of tiny golden-yellow flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to meadows, roadsides, and prairies of North America; naturalized in Europe and Asia",
       "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism in their bud stage, turning their heads to follow the sun from east to west daily."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian native ornamental tree with striking orange to red flowers appearing in large clusters, beloved by nectar-feeding birds.",
-      "bloomingSeason": "September to November",
-      "location": "Australia (especially eastern regions)",
-      "colors": [
-        "orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, Silky Oak is not an oak but is named for its timber's resemblance to oak wood."
-    },
-    {
-      "name": "Dahlia pinnata",
-      "commonName": "Garden Dahlia",
-      "description": "A tuberous perennial known for abundant and colorful flowers appearing late summer through autumn, often used in gardens and floral arrangements.",
-      "bloomingSeason": "July to October",
-      "location": "Mexico and cultivated worldwide",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "purple",
-        "orange",
-        "yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The dahlia is the national flower of Mexico and was originally classified as a genus of the sunflower family."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Guernsey Lily relative)",
+      "description": "A bulbous perennial with strappy leaves and bare stems topped by umbels of sparkling, wavy-petaled pink flowers. It thrives in sunny, well-drained spots and gives welcome color as other garden plants fade.",
+      "bloomingSeason": "Late summer to autumn (September to November in the Northern Hemisphere)",
+      "location": "Native to the Drakensberg mountains of South Africa; cultivated in temperate gardens worldwide",
+      "colors": [
+        "Pink",
+        "Rose pink"
+      ],
+      "emoji": "💮",
+      "funFact": "The petals have a crystalline surface that glitters in the sun, which gives the flowers a sparkling appearance."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden-yellow ball-shaped flower clusters. It blooms at the end of the Southern Hemisphere winter, brightening the bush with sweeping color.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1 each year."
     }
   ]
 }

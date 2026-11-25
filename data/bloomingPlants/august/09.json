@@ -2,60 +2,61 @@
   "date": "August 9",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "An evergreen tropical shrub renowned for its large, brightly colored flowers. These blooms often have a prominent stamen and come in a variety of colors including red, pink, orange, and yellow. Hibiscus rosa-sinensis thrives in warm climates and is commonly cultivated in gardens and landscapes in tropical and subtropical regions.",
-      "bloomingSeason": "Year-round in tropical climates, peak bloom from late spring through summer",
-      "location": "Tropical and subtropical regions worldwide, including parts of Asia, the Pacific Islands, and the southern United States",
-      "colors": [
-        "Red",
-        "Pink",
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are used in herbal teas and traditional medicine, and their vivid colors can attract pollinators like hummingbirds and butterflies."
-    },
-    {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant notable for its large flower head with bright yellow petals and a dark brown center. Sunflowers are heliotropic and their blooms can reach impressive sizes. They are widely cultivated for ornamental purposes, seeds, and oil production.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September)",
-      "location": "Native to North America but cultivated worldwide, especially in temperate regions",
+      "description": "A tall annual with a large, daisy-like flower head made up of golden ray florets surrounding a dark central disk. The flower heads track the sun when young. It is widely grown as an ornamental, a seed crop and an oilseed crop.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, the United States and temperate Asia",
       "colors": [
-        "Yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow to heights over 3 meters. Their seeds are a favorite snack for birds and humans and are rich in healthy oils."
+      "funFact": "Young sunflower buds follow the sun from east to west in a process called heliotropism, but mature blooms stop moving and generally face east."
     },
     {
-      "name": "Delphinium elatum",
-      "commonName": "Delphinium",
-      "description": "A tall perennial flower with spikes of hooded blossoms, typically in shades of blue, purple, pink, and white. Delphiniums prefer cooler summers and are popular in garden borders and cottage gardens.",
-      "bloomingSeason": "Summer, usually June to August",
-      "location": "Native to the Northern Hemisphere, commonly grown in temperate gardens across Europe, Asia, and North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. It thrives in full sun and well-drained soil, and the blooms attract bees and butterflies in large numbers.",
+      "bloomingSeason": "Early to late summer, with peak bloom in July and August in many regions",
+      "location": "Native to the western Mediterranean; widely cultivated in Provence (France), England, Bulgaria, Tasmania and the Pacific Northwest of the United States",
       "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "💐",
-      "funFact": "Delphiniums contain alkaloids making them toxic if ingested, but they are beloved for attracting bees and butterflies."
+      "emoji": "💜",
+      "funFact": "The name lavender is thought to come from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "An evergreen tree or large shrub producing large clusters of brilliant red, pink, or white trumpet-shaped flowers. It is the national flower of Nepal and grows predominantly in mountainous areas.",
-      "bloomingSeason": "Late spring to early summer, but high-altitude varieties may bloom into early August",
-      "location": "Himalayan region, including Nepal, Bhutan, and northeastern India",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves that rise above the water and showy, many-petaled flowers on tall stalks. The leaves have a waxy surface that makes water bead up and roll off. It grows in shallow ponds, lakes and wetlands.",
+      "bloomingSeason": "Summer, peaking from July to August in the Northern Hemisphere",
+      "location": "Asia, from India and China to Japan and northern Australia; cultivated in water gardens worldwide",
       "colors": [
-        "Red",
-        "Pink",
-        "White"
+        "pink",
+        "white"
       ],
-      "emoji": "🌸",
-      "funFact": "The flowers of Rhododendron arboreum are edible and sometimes used to make a refreshing juice or jam in Himalayan cuisines."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries, and one seed about 1,300 years old was successfully germinated."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub with the largest flower head of any protea. The bloom is a bowl of pink-tipped bracts surrounding a central cluster of tiny flowers, and it is set among leathery, oval leaves. It is adapted to fire-prone, nutrient-poor fynbos soils.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with flowering often beginning in August",
+      "location": "Southwestern and southern coastal South Africa, in fynbos vegetation; cultivated in Australia, Hawaii and California",
+      "colors": [
+        "pink",
+        "cream",
+        "silver",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower, and its genus is named after Proteus, the Greek sea god who could change shape."
     }
   ]
 }

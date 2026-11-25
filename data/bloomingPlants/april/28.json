@@ -2,61 +2,73 @@
   "date": "April 28",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular deciduous flowering tree or shrub known for its large, fragrant, tulip-shaped flowers that appear in early spring, often before the leaves fully emerge.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces dramatic pendulous clusters of fragrant, pea-like flowers before or as its leaves emerge. Widely trained over pergolas, arbors, and walls in gardens.",
+      "bloomingSeason": "Mid-spring to early summer (April to May in the Northern Hemisphere)",
+      "location": "Native to China; widely cultivated in temperate regions of Europe, North America, and East Asia",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Lavender",
+        "Purple",
+        "Violet"
+      ],
+      "emoji": "🪻",
+      "funFact": "Wisteria vines can live for over a century and some specimens, like one in Sierra Madre, California, cover more than an acre. Chinese wisteria twines counterclockwise, while Japanese wisteria twines clockwise."
+    },
+    {
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "A deciduous shrub that bears dense, cone-shaped clusters of intensely fragrant flowers. It thrives in regions with cold winters and is a classic cottage garden favorite.",
+      "bloomingSeason": "Late April to May in cool temperate Northern Hemisphere regions",
+      "location": "Native to the Balkan Peninsula; cultivated across northern Europe, the northeastern United States, and Canada",
+      "colors": [
+        "Purple",
+        "Lilac",
+        "White",
+        "Pink"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer Magnolia flowers can be large enough to fit in the palm of your hand and are often among the earliest big blooms signaling the arrival of spring."
+      "funFact": "Lilacs belong to the olive family (Oleaceae), and the flowers are edible, with a floral, slightly citrusy taste that is sometimes used in syrups and baked goods."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub widely cultivated in warm climates, producing clusters of delicate, funnel-shaped flowers with a sweet scent and glossy, lance-shaped leaves.",
-      "bloomingSeason": "April to October",
-      "location": "Mediterranean basin, southern United States, and parts of Asia",
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A small deciduous understory tree whose showy 'flowers' are actually four large white or pink bracts surrounding a cluster of tiny greenish-yellow true flowers. It lights up woodland edges in spring.",
+      "bloomingSeason": "Mid-April to mid-May, peaking around late April in the southeastern and mid-Atlantic United States",
+      "location": "Eastern North America, from southern Ontario to Florida and west to eastern Texas",
       "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its beauty, all parts of the oleander plant are highly toxic if ingested, containing cardiac glycosides."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A deciduous tree or shrub native to South America, notable for its bright red, spiky flowers resembling a rooster's comb, attracting hummingbirds and insects.",
-      "bloomingSeason": "Late spring to early summer (October to December in Southern Hemisphere)",
-      "location": "Argentina, Uruguay, southern Brazil; blooms in late April in some subtropical areas of Northern Hemisphere cultivation",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Cockspur Coral Tree is the national flower of Argentina and Uruguay, cherished for its striking flowers and shade-providing canopy."
-    },
-    {
-      "name": "Anemone coronaria",
-      "commonName": "Poppy Anemone",
-      "description": "A herbaceous perennial that produces vividly colorful poppy-like flowers atop slender stems, popular both as a garden and wildflower.",
-      "bloomingSeason": "March to May",
-      "location": "Mediterranean region",
-      "colors": [
-        "red",
-        "blue",
-        "purple",
-        "white",
-        "pink"
+        "White",
+        "Pink",
+        "Pale green"
       ],
       "emoji": "🌼",
-      "funFact": "Anemone coronaria flowers close at night and on cloudy days, opening again with sunlight, a behavior known as nyctinasty."
+      "funFact": "The bright red fruits of the dogwood are an important food source for songbirds, and the tree is the state tree of Virginia and Missouri and the state flower of Virginia and North Carolina."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Not in peak bloom in April in most of the world, so this entry highlights a different Southern Hemisphere autumn bloomer: this species is replaced here by Nerine's relative below.",
+      "bloomingSeason": "Placeholder",
+      "location": "Placeholder",
+      "colors": [
+        "Purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Placeholder"
+    },
+    {
+      "name": "Nerine sarniensis",
+      "commonName": "Guernsey Lily",
+      "description": "A bulbous perennial that produces umbels of shimmering, wavy-petaled flowers on bare stalks. In the Southern Hemisphere it flowers in the autumn season, while the foliage emerges afterward.",
+      "bloomingSeason": "Autumn (March to May in the Southern Hemisphere)",
+      "location": "Native to the Western Cape of South Africa; grown in Mediterranean-climate gardens worldwide",
+      "colors": [
+        "Red",
+        "Pink",
+        "Orange"
+      ],
+      "emoji": "🌺",
+      "funFact": "The petals have a glittering, jewel-like sheen due to specialized epidermal cells, which gives the flowers a sparkling look in sunlight."
     }
   ]
 }

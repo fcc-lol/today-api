@@ -2,55 +2,58 @@
   "date": "April 3",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its spectacular spring blossoms, often celebrated in festivals, this species produces clusters of delicate pink to white flowers that typically bloom in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, East Asia, cultivated worldwide in temperate climates",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A hybrid flowering cherry tree that produces clouds of delicate, five-petaled blossoms before its leaves emerge. The flowers are pale pink fading to nearly white and have a faint almond scent.",
+      "bloomingSeason": "Late March to mid April",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate parks and gardens worldwide",
       "colors": [
-        "pink",
-        "white"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The blooming of cherry blossoms is so culturally significant in Japan that the government tracks and predicts peak bloom dates each year."
-    },
-    {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A large deciduous shrub or small tree known for its early spring display of large, tulip-shaped flowers that emerge before the leaves, with colors ranging from white to deep pink and purple.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China, widely cultivated in temperate regions worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Magnolias are among the earliest flowering plants, with fossil records dating back 95 million years, predating bees; they are thought to have been pollinated by beetles."
+      "funFact": "The 3,000 cherry trees given by Tokyo to Washington D.C. in 1912 were mostly Yoshino cherries, and the National Cherry Blossom Festival celebrates their peak bloom each spring."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A wild species of daffodil producing bright yellow, trumpet-shaped flowers in clusters on leafless stems, often found in woodlands and meadows.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, particularly the UK and Ireland",
+      "description": "A perennial bulb with trumpet-shaped yellow flowers and gray-green strap-like leaves. The native wild form is smaller and more delicate than cultivated daffodils, with pale outer petals and a deeper yellow trumpet.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe, including the UK, France, and Spain, in woodlands and meadows; widely cultivated in temperate gardens",
       "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The wild daffodil is the original species from which many garden varieties have been bred; it is a symbol of spring in many cultures."
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids that make it toxic, which is why deer and rodents generally leave it alone. Galantamine, a compound from related Amaryllidaceae plants, is used in Alzheimer's medication."
     },
     {
-      "name": "Eucalyptus globulus",
-      "commonName": "Blue Gum Eucalyptus",
-      "description": "A tall evergreen tree known for its aromatic leaves and clusters of creamy white flowers that bloom profusely in early spring, important for honey production.",
-      "bloomingSeason": "Late Winter to Spring (February to April)",
-      "location": "Native to southeastern Australia, widely planted in Mediterranean and subtropical climates worldwide",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A large deciduous tree with spectacular goblet-shaped flowers up to 30 cm across that open on bare branches. The blooms are rich pink to deep rose and make a dramatic display in early spring.",
+      "bloomingSeason": "Late February to April",
+      "location": "Himalayan foothills of Nepal, Bhutan, and northeast India; cultivated in mild gardens in the UK, New Zealand, and the Pacific Northwest",
       "colors": [
-        "white"
+        "Pink",
+        "Rose",
+        "White"
       ],
-      "emoji": "🌿",
-      "funFact": "Blue Gum Eucalyptus flowers have no petals; what appear as flowers are dense clusters of stamens, which are highly attractive to pollinators like bees."
+      "emoji": "🌺",
+      "funFact": "Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, so patient gardeners are rewarded with one of the most dramatic blooms in the plant world."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Although famous for autumn blooms in the north, many Southern Hemisphere gardens see related bulbs such as Nerine and Amaryllis belladonna flowering in March and April. Amaryllis belladonna produces tall bare stems topped with clusters of fragrant, trumpet-shaped pink flowers.",
+      "bloomingSeason": "March to April in the Southern Hemisphere",
+      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, and California",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Amaryllis belladonna is nicknamed the naked lady because its flowers appear on bare stems after the leaves have died back, and its flowers emerge in late summer to autumn in the Southern Hemisphere."
     }
   ]
 }

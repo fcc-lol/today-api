@@ -2,54 +2,62 @@
   "date": "April 24",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub with large clusters of bell-shaped flowers, often in shades of pink to purple. It thrives in mild temperate climates and is commonly found in woodlands and hilly areas.",
-      "bloomingSeason": "April to May",
-      "location": "Temperate regions of Europe and Western Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad, blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to frilly parrot and double forms. April 24 is near peak bloom in the Netherlands and much of northern Europe and the northeastern United States.",
+      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; especially famous in the Netherlands, Northern Europe, and North America; native to Central Asia",
       "colors": [
+        "red",
+        "yellow",
         "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is known for its invasive tendencies in some parts of the UK, outcompeting native plants due to its dense shade and toxins in leaf litter."
-    },
-    {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A fragrant, tall lily with elegant white trumpet-shaped flowers. It prefers Mediterranean climates and is often cultivated in gardens for its beauty and scent.",
-      "bloomingSeason": "April to June",
-      "location": "Mediterranean region",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "Madonna Lily has been cultivated since ancient times and was considered sacred in many cultures, often associated with purity and the Virgin Mary."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A small deciduous tree known for its bright red, spiky, pea-like flowers that attract hummingbirds and other pollinators.",
-      "bloomingSeason": "Spring to early summer (September to November in Southern Hemisphere)",
-      "location": "South America (Argentina, Uruguay, Brazil) and cultivated in subtropical regions worldwide",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay, and its wood was traditionally used to make tools and musical instruments."
-    },
-    {
-      "name": "Magnolia stellata",
-      "commonName": "Star Magnolia",
-      "description": "A deciduous shrub or small tree with large, fragrant, star-shaped white to pale pink flowers. It blooms very early in spring before the leaves appear, often in April.",
-      "bloomingSeason": "March to April",
-      "location": "Japan and cultivated in temperate gardens worldwide",
-      "colors": [
+        "purple",
         "white",
-        "pale pink"
+        "orange"
       ],
       "emoji": "🌷",
-      "funFact": "Star Magnolia was first discovered in Japan in the early 19th century and is often used as an ornamental plant in early spring gardens due to its striking flowers."
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could sell for more than the price of a luxurious canal house in Amsterdam."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine producing dramatic hanging clusters (racemes) of fragrant, pea-like flowers that open before or as the leaves emerge. It can climb pergolas, walls, and trees, and its blooms create spectacular cascading curtains of color.",
+      "bloomingSeason": "Mid-spring (April to May)",
+      "location": "Native to China; widely cultivated in Europe, Japan, and the United States",
+      "colors": [
+        "lavender",
+        "purple",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Wisteria vines can live for over a hundred years, and the famous Chinese wisteria in Sierra Madre, California, covers nearly an acre and weighs hundreds of tons."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial forming dense carpets under deciduous trees. Its nodding, bell-shaped, sweetly scented flowers droop on one side of an arching stem. Late April is the peak of bluebell season in British woodlands.",
+      "bloomingSeason": "Mid-spring (late April to May)",
+      "location": "Native to Western Europe, especially the British Isles; ancient woodlands",
+      "colors": [
+        "violet-blue",
+        "occasionally white",
+        "pink"
+      ],
+      "emoji": "🔔",
+      "funFact": "About half of the world's bluebells grow in the UK, and it is illegal to collect wild bluebell bulbs there under wildlife protection law."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A tall, graceful, semi-deciduous tree with fern-like leaves that bursts into masses of trumpet-shaped lilac-blue flowers. In the Southern Hemisphere, some trees may bloom sporadically in autumn, while in warm northern subtropical regions such as parts of Mexico, Florida, and southern Asia, spring blooming begins around this time.",
+      "bloomingSeason": "Spring to early summer in the Northern Hemisphere subtropics (April to June); October to December in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in Mexico, Florida, South Africa, Australia, and the Mediterranean",
+      "colors": [
+        "lavender-blue",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas earned it the nickname 'Jacaranda City', and fallen blossoms form purple carpets on the streets."
     }
   ]
 }

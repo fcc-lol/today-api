@@ -3,57 +3,58 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are tall annual plants known for their large, bright yellow flower heads that follow the sun's movement throughout the day. They are widely cultivated for their seeds and oil.",
-      "bloomingSeason": "Summer to early autumn (July to September)",
-      "location": "North America, cultivated worldwide",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray florets surrounding a dark central disc. Young flower heads track the sun's movement across the sky, and the plants are widely grown for seeds, oil, and ornamental use.",
+      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
+      "location": "North America (native), cultivated across Europe, Russia, Ukraine, and Asia",
       "colors": [
-        "Yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "red-brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow to heights over 3 meters and their flower heads can be over 30 cm in diameter!"
+      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny individual florets, each of which can develop into a seed."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub or small tree with large, showy flowers often cultivated as an ornamental plant. Flowers are trumpet-shaped and can be found in various colors.",
-      "bloomingSeason": "Year-round in tropical climates, including August",
-      "location": "Tropical Asia, Pacific Islands, widely cultivated in tropical and subtropical regions",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Late-blooming fields in cooler regions are still in flower around this date.",
+      "bloomingSeason": "Summer, often lingering into late August at higher elevations",
+      "location": "Mediterranean region; cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "Red",
-        "Pink",
-        "Yellow",
-        "White",
-        "Orange"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Each hibiscus flower lasts only a day, but the plant blooms continuously during its season."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing, and cooking, and its name comes from the Latin 'lavare,' meaning 'to wash.'"
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower with bright yellow petals surrounding a dark brown cone-shaped center. Often found in meadows and prairies.",
-      "bloomingSeason": "Summer to early fall (July to September)",
-      "location": "Eastern and central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower forming dense plumes of tiny golden-yellow flowers atop leafy stems. It colonizes meadows, roadsides, and field edges, providing late-season nectar and pollen for bees, butterflies, and other pollinators.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "Eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "Yellow",
-        "Brown"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The Black-eyed Susan is the state flower of Maryland."
+      "funFact": "Despite popular belief, goldenrod is rarely the cause of hay fever; the real culprit is usually ragweed, which blooms at the same time but has wind-borne pollen."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "The national flower of South Africa, the King Protea has large, distinctive flower heads with spiky pink and white bracts resembling a crown.",
-      "bloomingSeason": "Winter to spring in South Africa (July to October), blooming still visible in August",
-      "location": "South Africa (Cape Floristic Region)",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "An iconic Australian shrub bearing large, striking crimson flower heads surrounded by showy red bracts. Although the main bloom is in spring, in late winter in the Southern Hemisphere the earliest flowers begin to open in warm, sheltered spots in the sandstone forests of the Sydney region.",
+      "bloomingSeason": "Late winter to spring (August to November) in the Southern Hemisphere",
+      "location": "Southeastern Australia, especially New South Wales near Sydney and the Blue Mountains",
       "colors": [
-        "Pink",
-        "White"
+        "crimson",
+        "red",
+        "occasionally pink or white"
       ],
-      "emoji": "🌸",
-      "funFact": "The King Protea is named after the Greek god Proteus, symbolizing its diverse forms."
+      "emoji": "🌺",
+      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from the Eora Aboriginal word for the plant."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "April 24",
   "events": [
     {
-      "year": 1915,
-      "title": "Armenian Genocide Begins",
-      "description": "The Ottoman Empire begins the systematic extermination of its Armenian population, marking the start of the Armenian Genocide.",
-      "category": "War/Genocide",
-      "significance": "This event led to the deaths of an estimated 1.5 million Armenians and is considered one of the first modern genocides, profoundly impacting Armenian history and international human rights discourse."
+      "year": 1184,
+      "title": "Traditional Date of the Fall of Troy",
+      "description": "According to the calculations of the Hellenistic scholar Eratosthenes, Troy fell to the Greeks on this date in 1184 BCE, ending the legendary ten-year siege described in the epic tradition of the Trojan War. The date is traditional and not confirmed by archaeological evidence.",
+      "category": "Legend/Ancient History",
+      "significance": "The story of Troy became the foundation of Western literature through Homer's Iliad and Odyssey and Virgil's Aeneid, shaping cultural identity for millennia."
     },
     {
-      "year": 1800,
-      "title": "Foundation of the Library of Congress",
-      "description": "The United States Congress establishes the Library of Congress.",
-      "category": "Culture/Education",
-      "significance": "It becomes the research library that officially serves the United States Congress and is the de facto national library of the United States, preserving vast collections of knowledge."
+      "year": 1915,
+      "title": "Start of the Armenian Genocide",
+      "description": "On the night of April 23-24, 1915, Ottoman authorities arrested and deported hundreds of Armenian intellectuals, community leaders, and professionals in Constantinople. This marked the beginning of the systematic mass killing and deportation of Armenians in the Ottoman Empire, in which an estimated 1 to 1.5 million people died.",
+      "category": "Genocide/War",
+      "significance": "April 24 is commemorated annually as Armenian Genocide Remembrance Day. The event was a defining case in the development of the concept of genocide, a term later coined by Raphael Lemkin."
     },
     {
       "year": 1916,
-      "title": "Easter Rising Begins in Ireland",
-      "description": "Irish republicans launch the Easter Rising in Dublin against British rule.",
-      "category": "Political/Rebellion",
-      "significance": "Although the rebellion was suppressed, it galvanized Irish independence movements leading to the establishment of the Irish Free State."
+      "title": "Easter Rising Begins in Dublin",
+      "description": "Irish republicans, including members of the Irish Volunteers and the Irish Citizen Army, launched an armed insurrection in Dublin on Easter Monday, seizing key buildings such as the General Post Office and proclaiming an Irish Republic. The rebellion was suppressed within a week.",
+      "category": "Politics/Revolution",
+      "significance": "Although militarily unsuccessful, the execution of its leaders turned public opinion toward independence and helped lead to the Irish War of Independence and the establishment of the Irish state."
     },
     {
       "year": 1990,
-      "title": "Hubble Space Telescope Launched",
-      "description": "NASA launches the Hubble Space Telescope aboard the Space Shuttle Discovery.",
-      "category": "Science/Technology",
-      "significance": "Hubble provides unprecedented images and data about the universe, revolutionizing astronomy and our understanding of space."
+      "title": "Hubble Space Telescope Deployed",
+      "description": "The Hubble Space Telescope was launched aboard Space Shuttle Discovery on mission STS-31 on April 24, 1990, and placed into low Earth orbit. After a servicing mission in 1993 corrected its initial mirror flaw, it began returning extraordinarily sharp images.",
+      "category": "Science/Space",
+      "significance": "Hubble transformed astronomy by helping determine the age of the universe, observing distant galaxies, and providing evidence about dark energy, while also engaging the public with iconic images of the cosmos."
+    },
+    {
+      "year": 2013,
+      "title": "Rana Plaza Building Collapse",
+      "description": "The eight-story Rana Plaza commercial building in Savar, near Dhaka, Bangladesh, collapsed, killing 1,134 people and injuring about 2,500 more. Most victims were garment workers producing clothing for international brands.",
+      "category": "Disaster/Labor",
+      "significance": "It was one of the deadliest industrial accidents in history and prompted global reforms in garment industry safety, including the Accord on Fire and Building Safety in Bangladesh."
     }
   ]
 }

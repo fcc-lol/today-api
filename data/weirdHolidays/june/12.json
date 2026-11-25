@@ -2,36 +2,44 @@
   "date": "June 12",
   "holidays": [
     {
-      "name": "National Peanut Butter Cookie Day",
-      "description": "A day dedicated to celebrating the chewy, sweet, and salty joy of peanut butter cookies! Perfect excuse to bake (or buy) a batch and enjoy this timeless treat.",
-      "origin": "While the exact origin is unclear, peanut butter cookies have been beloved in American baking since the early 20th century, with this day emerging as a fun food holiday in recent years to honor this delicious cookie variety.",
-      "category": "Food Holiday",
-      "emoji": "🍪",
-      "funFact": "The classic crisscross fork pattern on peanut butter cookies was popularized to flatten the dough evenly, but it’s now a signature look cherished by cookie lovers."
+      "name": "National Red Rose Day",
+      "description": "A day to celebrate the classic red rose, the ultimate symbol of love and romance. Folks are encouraged to give, receive, or simply stop and smell a few red roses.",
+      "origin": "Observed unofficially in the United States, this flower-themed day is part of a long tradition of floral celebrations tied to the rose's status as a symbol of love, and it is widely listed on June 12 in holiday calendars.",
+      "category": "Nature & Flowers",
+      "emoji": "🌹",
+      "funFact": "Fossils show roses have been around for about 35 million years, which means roses were blooming long before humans came up with Valentine's Day."
+    },
+    {
+      "name": "National Jerky Day",
+      "description": "A salute to the chewy, salty, protein-packed snack that has fueled hikers, road-trippers, and gas station adventurers for generations. Flavors range from classic beef to teriyaki, peppered, and even exotic meats.",
+      "origin": "This is an unofficial food holiday popularized by snack lovers and food calendars. Jerky itself has ancient roots, with Indigenous peoples of the Andes making a dried meat called ch'arki.",
+      "category": "Food & Drink",
+      "emoji": "🥩",
+      "funFact": "The word 'jerky' comes from the Quechua word 'ch'arki,' meaning dried, salted meat."
     },
     {
       "name": "Loving Day",
-      "description": "A powerful holiday commemorating the 1967 U.S. Supreme Court decision in Loving v. Virginia, which struck down laws banning interracial marriage, promoting love and equality.",
-      "origin": "Named after the Loving couple, Mildred and Richard Loving, whose legal fight led to this landmark civil rights decision.",
+      "description": "A celebration of the 1967 Supreme Court decision Loving v. Virginia, which struck down laws banning interracial marriage in the United States. It's a day for celebrating love, diversity, and family.",
+      "origin": "The ruling came on June 12, 1967, after Richard and Mildred Loving fought for the right to remain married in Virginia. The day has been celebrated as an informal observance since the late 1990s and gained momentum through grassroots events and festivals.",
+      "category": "Awareness & Social History",
+      "emoji": "💕",
+      "funFact": "The couple's last name was Loving, which is perhaps the most perfectly named case in Supreme Court history."
+    },
+    {
+      "name": "World Day Against Child Labour",
+      "description": "An international awareness day dedicated to highlighting the plight of child laborers and encouraging action to end child labour around the world.",
+      "origin": "Launched by the International Labour Organization in 2002 to draw attention to the global extent of child labour and the efforts needed to eliminate it.",
       "category": "Awareness Day",
-      "emoji": "❤️🤝",
-      "funFact": "Despite the ruling, some couples still face challenges; Loving Day encourages ongoing dialogue about race, marriage, and acceptance."
+      "emoji": "🌍",
+      "funFact": "The ILO's campaign for the day brings together governments, workers' groups, and civil society, and the date was chosen to build year-round momentum for ending child labour."
     },
     {
-      "name": "Russian Language Day",
-      "description": "Celebrates the rich cultural and linguistic heritage of the Russian language worldwide, promoting language learning and appreciation.",
-      "origin": "Established by UNESCO in 2010, June 12 coincides with the birthday of Alexander Pushkin, a renowned Russian poet often considered the father of modern Russian literature.",
-      "category": "Cultural/Language Celebration",
-      "emoji": "📚🇷🇺",
-      "funFact": "Pushkin’s works helped standardize the Russian literary language, making his birthday a fitting day to honor Russian language lovers everywhere."
-    },
-    {
-      "name": "Anne Frank Day",
-      "description": "A day to remember Anne Frank, the young diarist who documented her life in hiding during WWII, inspiring millions with her hope and courage.",
-      "origin": "Observed especially in the Netherlands, it marks June 12, Anne Frank’s birthday, and is a time of reflection on tolerance and human rights.",
-      "category": "Historical/Remembrance Day",
-      "emoji": "📖🕯️",
-      "funFact": "Anne Frank’s diary has been translated into over 70 languages and remains one of the most widely read personal accounts of the Holocaust."
+      "name": "Superman Day",
+      "description": "A day for fans of the Man of Steel to dust off their capes and celebrate the iconic DC superhero with movie marathons, comic readings, and plenty of red-and-blue fashion.",
+      "origin": "Superman Day is a fan-driven pop culture celebration. Superman debuted in Action Comics #1 in 1938, and the character has inspired countless adaptations in comics, film, TV, and animation.",
+      "category": "Pop Culture",
+      "emoji": "🦸",
+      "funFact": "Superman was created by writer Jerry Siegel and artist Joe Shuster, who sold the rights to the character for just $130."
     }
   ]
 }

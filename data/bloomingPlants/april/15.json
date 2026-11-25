@@ -2,56 +2,61 @@
   "date": "April 15",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree known for its large, saucer-shaped flowers that appear before the leaves. The blooms are fragrant and come in shades of white, pink, and purple.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree that produces masses of pale pink to white five-petaled flowers before its leaves emerge. Peak bloom in many temperate regions creates dramatic canopies of blossom that drift down as petals in the wind.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere; later in colder northern Japan and high elevations",
+      "location": "Japan, Washington D.C. USA, Korea, and temperate parks and gardens across Europe and North America",
       "colors": [
-        "white",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Saucer magnolias bloom early in spring and are some of the first trees to flower, often before other leaves emerge."
-    },
-    {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A wildflower species producing bright yellow trumpet-shaped flowers in early spring. It grows naturally in woodland and grassland areas.",
-      "bloomingSeason": "March to May",
-      "location": "Europe, especially the UK and western Europe",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Wild daffodils are important early nectar sources for bees emerging from winter dormancy."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning pink to white blossoms that bloom briefly in spring. It is highly celebrated in Japan and many temperate climates worldwide.",
-      "bloomingSeason": "Late March to mid-April",
-      "location": "Japan, East Asia, and cultivated worldwide",
-      "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Cherry blossoms symbolize the transient nature of life due to their short blooming period."
+      "emoji": "🌸",
+      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a 1912 gift from Tokyo, and most of them are Yoshino cherries."
     },
     {
-      "name": "Grevillea rosmarinifolia",
-      "commonName": "Rosemary Grevillea",
-      "description": "An Australian shrub with needle-like leaves and spider-like red or pink flowers, blooming prominently in spring.",
-      "bloomingSeason": "September to April (Southern Hemisphere)",
-      "location": "Southeastern Australia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Hundreds of cultivars exist, with forms ranging from single and double to fringed and parrot types.",
+      "bloomingSeason": "Mid-April to early May in the Netherlands and much of northern Europe and North America",
+      "location": "Netherlands, Turkey, Central Asia origins; widely cultivated across temperate gardens worldwide",
       "colors": [
         "red",
-        "pink"
+        "yellow",
+        "pink",
+        "purple",
+        "white",
+        "orange"
       ],
-      "emoji": "🌺",
-      "funFact": "Grevilleas are bird-pollinated, attracting honeyeaters with their nectar-rich flowers."
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxury canal house."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose bare branches and even trunks are covered in clusters of magenta-pink pea-like flowers in spring, followed by heart-shaped leaves. It is a favorite early nectar source for native bees.",
+      "bloomingSeason": "Late March to late April",
+      "location": "Eastern and central United States, woodland edges and understory, extending to northern Mexico",
+      "colors": [
+        "magenta",
+        "pink",
+        "lavender"
+      ],
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor; they grow directly from the bark through a trait called cauliflory."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tropical and subtropical tree with fern-like leaves that bursts into clouds of trumpet-shaped lavender-blue flowers. In regions where it has a second bloom, flowering can occur in autumn.",
+      "bloomingSeason": "Autumn bloom (March to April) in parts of the Southern Hemisphere, such as some areas of southern Africa and Australia; main bloom in spring elsewhere",
+      "location": "Native to South America; widely planted in South Africa, Australia, Brazil, and Argentina",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

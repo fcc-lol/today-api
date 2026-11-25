@@ -2,61 +2,59 @@
   "date": "July 22",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical flowering plant known for its large, vibrant, trumpet-shaped flowers which attract butterflies and hummingbirds.",
-      "bloomingSeason": "Year-round in tropical climates; typically blooms profusely in summer in subtropical regions",
-      "location": "Tropical and subtropical regions worldwide, including Southeast Asia, Pacific Islands, and parts of the US like Florida and Hawaii",
-      "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers typically last only a day before wilting but are continuously replaced by new blooms."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A perennial herbaceous plant with tall spikes covered in dense clusters of pea-like flowers. Common in meadows and gardens for its nitrogen-fixing ability.",
-      "bloomingSeason": "June to August",
-      "location": "Native to western North America but widely cultivated and naturalized in Europe and New Zealand",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant flowers that attract bees and butterflies. It thrives in full sun and well-drained soil and is widely grown in gardens and commercial fields.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region; widely cultivated in Provence (France), England, Tasmania, and the northern United States",
       "colors": [
         "purple",
-        "blue",
-        "pink",
-        "white"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines improve soil fertility through symbiotic nitrogen fixation in root nodules."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', since the Romans scented their baths with it."
     },
     {
-      "name": "Rhododendron macrophyllum",
-      "commonName": "Pacific Rhododendron",
-      "description": "An evergreen shrub with large leathery leaves and spectacular clusters of bell-shaped flowers.",
-      "bloomingSeason": "April to July, sometimes extending into late July",
-      "location": "Native to the Pacific Northwest of the United States, especially coastal forests",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem and a showy flower head made of ray florets surrounding a disc of tiny fertile florets. Young flower heads track the sun across the sky.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and Argentina",
       "colors": [
-        "pink",
-        "purple"
+        "yellow",
+        "golden",
+        "brown"
       ],
-      "emoji": "🌿",
-      "funFact": "The Pacific Rhododendron is the state flower of Washington State."
+      "emoji": "🌻",
+      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets, arranged in spirals that follow the Fibonacci sequence."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "A water plant famous for its large round floating leaves and elegant fragrant flowers that rise above the water surface.",
-      "bloomingSeason": "June through August",
-      "location": "Native to Asia, found in ponds and lakes across India, China, Japan, and Southeast Asia",
+      "description": "An aquatic perennial that rises from muddy water with large, round, water-repellent leaves and spectacular fragrant blooms held above the surface. Seed pods that follow the flowers resemble shower heads.",
+      "bloomingSeason": "Summer (June to September in the Northern Hemisphere)",
+      "location": "Asia and northern Australia; cultivated in ponds and lakes worldwide, notably in India, China, Vietnam, and Japan",
       "colors": [
-        "white",
-        "pink"
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-structured surface that causes water and dirt to roll off, a phenomenon known as the 'lotus effect' that has inspired self-cleaning materials."
+    },
+    {
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that forms dense stands with long spikes of bright magenta flowers that open from the bottom upward. It is often one of the first plants to colonize burned or cleared land.",
+      "bloomingSeason": "Mid to late summer (July to September)",
+      "location": "Northern temperate and subarctic regions, including Alaska, Canada, the Pacific Northwest, Scandinavia, and Siberia",
+      "colors": [
+        "magenta",
+        "pink",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "The sacred lotus flower can regulate the temperature of its blooms, similar to warm-blooded animals."
+      "funFact": "Locals in northern regions say that when fireweed blooms reach the top of the spike, summer is nearly over."
     }
   ]
 }

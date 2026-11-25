@@ -2,59 +2,60 @@
   "date": "April 30",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous tree known for its large, fragrant, tulip-shaped flowers that appear before the leaves. It is a very popular ornamental tree in temperate zones.",
-      "bloomingSeason": "March to May",
-      "location": "Temperate regions, widely cultivated in North America, Europe",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody climbing vine that produces long, drooping clusters of fragrant pea-like flowers before or as its leaves emerge. It is widely grown on pergolas, walls, and arbors in temperate gardens.",
+      "bloomingSeason": "Mid-spring to early summer in the Northern Hemisphere (April to May)",
+      "location": "Native to China; cultivated in Europe, Japan, and the United States",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Lavender",
+        "Purple",
+        "Blue-violet"
+      ],
+      "emoji": "🪻",
+      "funFact": "Wisteria vines twine counterclockwise, and some specimens in Japan and California are over 100 years old, with one famous Sierra Madre vine covering nearly an acre."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A bulbous woodland perennial that carpets ancient forest floors with nodding, bell-shaped, sweetly scented flowers on arching stems that droop to one side.",
+      "bloomingSeason": "Mid-April to late May",
+      "location": "Native to Atlantic Europe, especially the United Kingdom, where about half of the world's population grows; found in deciduous woodlands",
+      "colors": [
+        "Violet-blue",
+        "Occasionally white",
+        "Occasionally pink"
+      ],
+      "emoji": "🔔",
+      "funFact": "Bluebells are protected under the UK Wildlife and Countryside Act, and their presence is used as an indicator of ancient woodland."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A small deciduous understory tree whose showy 'flowers' are actually four large petal-like bracts surrounding a cluster of tiny true yellow-green flowers. Its horizontal branching gives it an elegant layered look.",
+      "bloomingSeason": "Mid-spring (April to early May in the eastern United States)",
+      "location": "Native to eastern North America from Ontario to Florida and Mexico; widely planted as an ornamental",
+      "colors": [
+        "White",
+        "Pink",
+        "Pale yellow-green center"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer Magnolia was one of the earliest hybrid magnolias developed in France in the 1820s, combining large blooms with hardiness."
+      "funFact": "Dogwood is the state tree of Virginia and Missouri, and its bright red fall berries are an important food source for songbirds."
     },
     {
-      "name": "Cherry Blossom (Prunus serrulata)",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Iconic ornamental cherry tree known for its spectacular ephemeral pink or white flowers, signaling spring in many parts of the world.",
-      "bloomingSeason": "Late March to early May depending on region",
-      "location": "East Asia (Japan, Korea, China), cultivated worldwide in temperate climates",
+      "name": "Colchicum autumnale",
+      "commonName": "Eucalyptus-leaved? No: Southern Hemisphere Autumn Bloomer, Aloe arborescens (Krantz Aloe)",
+      "description": "A large, multi-stemmed succulent shrub with rosettes of toothed blue-green leaves. In late autumn to winter in the Southern Hemisphere it produces tall candle-like spikes of tubular flowers that attract sunbirds and bees.",
+      "bloomingSeason": "Late autumn to winter in the Southern Hemisphere (starting around April to May)",
+      "location": "Native to southern Africa (South Africa, Malawi, Mozambique, Zimbabwe); grown in dry gardens worldwide",
       "colors": [
-        "pink",
-        "white"
+        "Orange",
+        "Red",
+        "Occasionally yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Cherry blossoms only last about 1-2 weeks in full bloom, and their fleeting beauty is celebrated with annual festivals called Hanami in Japan."
-    },
-    {
-      "name": "Strelitzia reginae",
-      "commonName": "Bird of Paradise",
-      "description": "Tropical plant known for striking, bird-like flowers resembling a tropical bird in flight. It thrives in warm climates and often blooms year-round in ideal conditions.",
-      "bloomingSeason": "Year-round in frost-free areas, peaks from late winter to late spring",
-      "location": "Native to South Africa; cultivated in subtropical & tropical gardens worldwide",
-      "colors": [
-        "orange",
-        "blue"
-      ],
-      "emoji": "🦜",
-      "funFact": "The ‘beak’ of the Bird of Paradise flower is actually a specialized leaf bract protecting the flowers."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Garden Lupine",
-      "description": "A perennial wildflower often grown in gardens for its tall, dense spikes of pea-like flowers. It is a nitrogen-fixing legume which improves soil quality.",
-      "bloomingSeason": "April to June",
-      "location": "Native to western North America, widely naturalized in Europe and New Zealand",
-      "colors": [
-        "purple",
-        "blue",
-        "white",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Lupines have a unique structure allowing them to fix nitrogen in the soil via symbiotic bacteria, enriching poor soils."
+      "emoji": "🌺",
+      "funFact": "Aloe arborescens has been used traditionally as a hedge plant and for soothing burns, and its nectar-rich flowers are a vital winter food for birds in South Africa."
     }
   ]
 }

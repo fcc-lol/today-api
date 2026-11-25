@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Milk Chocolate Day",
-      "description": "Celebrate the sweet, creamy delight of milk chocolate! Indulge in a bar, bake it into desserts, or just savor the smooth, melty goodness that has delighted chocoholics for generations.",
-      "origin": "While the exact origin date is uncertain, this day celebrates the invention of milk chocolate by Daniel Peter in 1875, who combined cocoa with powdered milk to create the world’s first milk chocolate bar.",
-      "category": "Food Holiday",
+      "description": "A day for celebrating the smooth, creamy, sweet cousin of dark chocolate. Fans are encouraged to unwrap a milk chocolate bar, bake with it, or dunk anything within reach into a melted pool of it.",
+      "origin": "A U.S. food holiday of unclear authorship, one of several chocolate days on the calendar. Milk chocolate itself was invented in 1875 in Switzerland by Daniel Peter, who teamed up with Henri Nestlé, the maker of condensed milk.",
+      "category": "Food Day",
       "emoji": "🍫",
-      "funFact": "Milk chocolate wasn't popular until the invention of conching by Rodolphe Lindt in 1879, which made it smooth and melt-in-your-mouth delicious!"
+      "funFact": "Daniel Peter spent about eight years perfecting his recipe because the water content in fresh milk kept ruining the chocolate. Condensed milk finally solved the problem."
     },
     {
-      "name": "World Nature Conservation Day",
-      "description": "A day to raise awareness about the importance of protecting our natural world and the rich biodiversity that sustains life on Earth. Perfect for tree-huggers and environmentalists!",
-      "origin": "Established by the United Nations to promote harmony between humans and nature and encourage sustainable development.",
+      "name": "National Hamburger Day (Alternate Observance: National Milk Chocolate Day's Neighbor) - World Hepatitis Day",
+      "description": "A serious but important global awareness day dedicated to educating people about viral hepatitis, encouraging testing, vaccination, and treatment around the world.",
+      "origin": "Observed on July 28 to honor the birthday of Nobel Prize winner Dr. Baruch Blumberg, who discovered the hepatitis B virus. The World Health Assembly officially designated it a World Health Organization day in 2010.",
       "category": "Awareness Day",
-      "emoji": "🌱",
-      "funFact": "Deforestation accounts for about 15% of global greenhouse gas emissions, making conservation crucial in combating climate change."
+      "emoji": "🎗️",
+      "funFact": "World Hepatitis Day is one of only eleven official global public health campaigns marked by the WHO. Blumberg also developed the first hepatitis B vaccine."
     },
     {
-      "name": "Tau Day",
-      "description": "A quirky celebration for math enthusiasts who argue that τ (tau), approximately 6.28, is a more natural and useful circle constant than π (pi)!",
-      "origin": "Created by math lovers who believe that tau (τ = 2π) should replace pi as the fundamental circle constant because it relates directly to the circumference of a circle.",
-      "category": "Pop Culture / Mathematical Holiday",
-      "emoji": "🌀",
-      "funFact": "Tau advocates claim using τ simplifies many formulas, such as the unit circle, making math both easier and more fun!"
+      "name": "National Heavenly Hash Day",
+      "description": "A tribute to the dessert delight known as heavenly hash, a sweet mix of chocolate, marshmallows, and nuts, often found in ice cream or candy form. Participants are encouraged to indulge in the gooey, crunchy, chocolatey combination.",
+      "origin": "A foodie observance from the American snack calendar, rooted in Southern dessert traditions where the name 'heavenly hash' described a mix of fruit, marshmallows, and cream long before it became a rocky road cousin.",
+      "category": "Food Day",
+      "emoji": "🍨",
+      "funFact": "Heavenly hash has been the name of several different recipes, from a fruit salad with marshmallows to a chocolate candy, so nobody can agree what it actually is."
     },
     {
-      "name": "Father-in-Law Day",
-      "description": "A tongue-in-cheek holiday to appreciate the often mysterious, sometimes intimidating, but always special father-in-law in your life. Show some love, or share a funny story!",
-      "origin": "An unofficial observance created by internet communities to honor the unique role fathers-in-law play in families.",
-      "category": "Family Holiday",
-      "emoji": "👔",
-      "funFact": "Studies show that good relationships with in-laws can boost family happiness and reduce stress — so maybe send a card!"
+      "name": "National Parents' Day (Fourth Sunday Cousin) / Rainbow Day Alternative: World Nature Conservation Day",
+      "description": "A day to think about the planet's natural resources, from forests to rivers, and to take small steps like planting trees, picking up litter, or simply hugging a tree with no shame whatsoever.",
+      "origin": "Observed internationally on July 28 as a way to promote the protection of natural resources, which are the foundation of a healthy society and a stable environment.",
+      "category": "Environmental Observance",
+      "emoji": "🌳",
+      "funFact": "Trees in a forest can share nutrients and warning signals through underground fungal networks, which scientists have nicknamed the 'wood wide web.'"
+    },
+    {
+      "name": "Beatrix Potter's Birthday",
+      "description": "A cozy fan celebration of the English author and illustrator behind Peter Rabbit, with readers picking up a little book, wearing a blue jacket, or avoiding Mr. McGregor's garden.",
+      "origin": "Helen Beatrix Potter was born on July 28, 1866, in London. Her books began as an illustrated letter to a sick child in 1893 and were self-published in 1901 after publishers rejected them.",
+      "category": "Pop Culture",
+      "emoji": "🐰",
+      "funFact": "Potter became a prize-winning sheep breeder and left more than 4,000 acres of land to Britain's National Trust, protecting the Lake District landscape."
     }
   ]
 }

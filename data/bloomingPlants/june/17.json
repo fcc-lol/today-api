@@ -2,56 +2,60 @@
   "date": "June 17",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose native to Southwest China known for its continuous blooming habit and fragrant flowers. It is a key ancestor of modern garden roses, often blooming profusely in early summer through autumn in temperate zones.",
-      "bloomingSeason": "May to October",
-      "location": "China, cultivated worldwide in temperate climates",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant flowers. It thrives in sunny, well-drained soils and is widely grown in gardens and commercial fields for its essential oil.",
+      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens worldwide",
       "colors": [
-        "red",
+        "purple",
+        "lavender",
+        "blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing, and medicine; the name comes from the Latin 'lavare,' meaning 'to wash.'"
+    },
+    {
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, forming a low, suckering shrub with fragrant, richly colored semi-double flowers. It is a parent of many modern garden roses and blooms abundantly in mid-June.",
+      "bloomingSeason": "Early to midsummer (June in temperate Northern Hemisphere)",
+      "location": "Central and southern Europe and western Asia; cultivated in gardens worldwide",
+      "colors": [
         "pink",
+        "crimson",
+        "magenta"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rosa gallica 'Officinalis,' the Apothecary's Rose, was used in medieval medicine and is said to have been the emblem of the House of Lancaster."
+    },
+    {
+      "name": "Leucanthemum vulgare",
+      "commonName": "Oxeye Daisy",
+      "description": "A hardy perennial wildflower with classic white petals around a yellow center, growing in meadows, roadsides, and grasslands. Its flowering stems rise up to 60 cm above lobed basal leaves.",
+      "bloomingSeason": "Late spring to midsummer (May to August)",
+      "location": "Native to Europe and temperate Asia; naturalized in North America, Australia, and New Zealand",
+      "colors": [
         "white",
         "yellow"
       ],
-      "emoji": "🌹",
-      "funFact": "The China Rose was one of the first roses to be brought to Europe in the 18th century, introducing remontant (repeat) blooming to rose varieties."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "An aquatic plant with large floating leaves and fragrant white flowers that open during the day and close at night. It grows in freshwater lakes and ponds across Europe and parts of Asia.",
-      "bloomingSeason": "June to August",
-      "location": "Europe and parts of Asia, freshwater habitats",
-      "colors": [
-        "white"
-      ],
-      "emoji": "💧",
-      "funFact": "Water lilies have water-repellent leaves that help them stay afloat, and their flowers provide habitat for butterflies and dragonflies."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A perennial wildflower native to eastern North America that forms dense spikes of pea-like flowers. It is important as a host plant for the Karner blue butterfly and blooms in late spring to early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Eastern United States, sandy soils and open pine barrens",
-      "colors": [
-        "blue",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Wild Lupine fixes nitrogen in the soil, improving fertility and benefiting other plants in its ecosystem."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree or shrub with distinctive cylindrical flower spikes that bloom throughout much of the year but are plentiful in late autumn to winter in native regions. On the east coast, it often blooms in June, providing nectar for birds and insects.",
-      "bloomingSeason": "Year-round, peaks in autumn and winter in Australia (Southern Hemisphere winter is June-August)",
-      "location": "Eastern Australia coastal regions",
-      "colors": [
-        "yellow"
-      ],
       "emoji": "🌼",
-      "funFact": "Banksias have unique flower structures adapted to attract pollinating birds with large nectar supplies."
+      "funFact": "In some regions it is called the 'moon daisy' because its white petals appear to glow in the twilight of midsummer evenings."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub producing the largest flower heads of any protea, with a bowl of pink bracts surrounding a central mass of tiny flowers. It is adapted to nutrient-poor soils and fire-prone fynbos habitat.",
+      "bloomingSeason": "Late autumn to spring in the Southern Hemisphere, with peak bloom from about May to September",
+      "location": "Western and Southern Cape of South Africa; grown in Australia, California, and Hawaii",
+      "colors": [
+        "pink",
+        "cream",
+        "silver",
+        "red"
+      ],
+      "emoji": "🌺",
+      "funFact": "King Protea is the national flower of South Africa, and its flower heads can reach up to 30 cm across."
     }
   ]
 }

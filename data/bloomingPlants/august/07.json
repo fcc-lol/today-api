@@ -4,55 +4,59 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads that track the sun's movement through the day. Sunflowers thrive in temperate climates and are widely cultivated for their seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "North America, Europe, cultivated worldwide",
+      "description": "A tall annual with large, daisy-like composite flower heads made up of yellow ray florets surrounding a dark central disk. The heads track the sun when young. It is widely grown as an ornamental, for seed, and for oil.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
+      "location": "Native to North America; cultivated worldwide, with major fields in the United States, Ukraine, Russia, and France",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "orange",
+        "brown",
+        "red"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters (10 feet) tall and their flower heads exhibit heliotropism, turning to face the sun to maximize photosynthesis."
+      "funFact": "Young sunflower buds follow the sun from east to west (heliotropism), but mature flowers face east and stop moving."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. It is grown for ornament, perfume, and essential oil.",
+      "bloomingSeason": "Early to late summer (June to August), with peak bloom in July in many regions",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
+      "colors": [
+        "purple",
+        "lavender",
+        "blue",
+        "white"
+      ],
+      "emoji": "💜",
+      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash', as the Romans used it to scent their baths."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial plant with large, fragrant pink or white flowers that rise above the water surface. The lotus is significant culturally and spiritually in many Asian traditions.",
-      "bloomingSeason": "June to August",
-      "location": "Asia, especially India and China",
+      "description": "An aquatic perennial with large, round leaves held above the water and spectacular, fragrant blooms on tall stalks. The flowers open in the morning and close at night over several days. It is revered in many Asian cultures.",
+      "bloomingSeason": "Summer (June to September), peaking in July and August",
+      "location": "Asia, including India, China, Japan, Vietnam, and Thailand, and northern Australia; widely cultivated in ponds worldwide",
       "colors": [
-        "Pink",
-        "White"
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-textured surface that repels water and dirt, known as the 'lotus effect', which has inspired self-cleaning materials."
+    },
+    {
+      "name": "Chamaenerion angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that forms spires of vivid magenta-pink flowers, blooming from the bottom of the spike upward. It is among the first plants to colonize burned or disturbed land. It grows in meadows, roadsides, and forest clearings.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September)",
+      "location": "Northern temperate and subarctic regions, including Alaska, Canada, Scandinavia, Siberia, and northern Europe",
+      "colors": [
+        "magenta",
+        "pink",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the lotus plant are edible and it can regulate its flower temperature, maintaining heat like warm-blooded animals."
-    },
-    {
-      "name": "Alstroemeria aurea",
-      "commonName": "Peruvian Lily",
-      "description": "A vibrant perennial flower with trumpet-shaped blooms in shades of orange, yellow, and red, native to South America. Often cultivated as a garden plant or cut flower.",
-      "bloomingSeason": "July to September",
-      "location": "Chile, Argentina, cultivated worldwide",
-      "colors": [
-        "Orange",
-        "Yellow",
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Alstroemerias have a unique twisting stem mechanism; their leaves appear to be upside down due to a twist in the petiole."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A robust wildflower native to North America, known for its distinctive purple petals surrounding a spiny central cone. Popular in gardens and naturalized areas.",
-      "bloomingSeason": "June to August",
-      "location": "Central and Eastern United States",
-      "colors": [
-        "Purple",
-        "Pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Purple coneflowers are important medicinal plants used to boost the immune system and have been traditionally used by Native Americans."
+      "funFact": "Locals say that when the flowers reach the top of the spike, summer is nearly over, making fireweed a natural seasonal clock."
     }
   ]
 }

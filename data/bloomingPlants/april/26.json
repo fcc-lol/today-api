@@ -2,60 +2,62 @@
   "date": "April 26",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree known for its large, fragrant, tulip-shaped flowers that emerge in early spring before the leaves develop.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of North America, Europe, and Asia",
-      "colors": [
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Saucer Magnolia blooms before its leaves appear, creating a spectacular floral display that can last up to two weeks."
-    },
-    {
-      "name": "Lantana camara",
-      "commonName": "Lantana",
-      "description": "A hardy flowering shrub often used in warm climates as ground cover or ornamental hedges, known for clusters of small, brightly colored flowers.",
-      "bloomingSeason": "Late spring to fall (including April in warmer climates)",
-      "location": "Tropical and subtropical regions worldwide, including parts of India, Africa, and the southern United States",
-      "colors": [
-        "yellow",
-        "orange",
-        "red",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Lantana flowers can change colors as they age, attracting a variety of pollinators with different hues throughout their blooming period."
-    },
-    {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A spring ephemeral wildflower growing in deciduous forests with mottled leaves resembling trout patterns and nodding yellow flowers.",
-      "bloomingSeason": "March to May",
-      "location": "Eastern North America",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Yellow Trout Lily often grows in colonies formed by vegetative reproduction and is an indicator of rich, undisturbed woods."
-    },
-    {
       "name": "Wisteria sinensis",
       "commonName": "Chinese Wisteria",
-      "description": "A vigorous, deciduous climbing vine prized for its cascading clusters of fragrant flowers in spring.",
-      "bloomingSeason": "April to May",
-      "location": "Native to China, widely cultivated in temperate regions including the United States and Europe",
+      "description": "A vigorous woody climbing vine that produces long, pendulous clusters of fragrant pea-like flowers. It twines counterclockwise and can cover pergolas, walls, and trees. Flowers appear before or with the emerging leaves.",
+      "bloomingSeason": "Mid-spring to early summer (April to May in the Northern Hemisphere)",
+      "location": "Native to China; widely cultivated in temperate gardens across Asia, Europe, and North America",
       "colors": [
-        "purple",
-        "lavender",
-        "white"
+        "Lavender",
+        "Purple",
+        "Violet-blue"
       ],
-      "emoji": "🌿",
-      "funFact": "Wisteria can live for over 50 years, and some specimens bloom for more than a month each spring."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines can live for over a century, and the famous Sierra Madre wisteria in California, planted in 1894, covers about an acre and weighs several tons."
+    },
+    {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad blue-green leaves. Late-flowering cultivars are at their peak in late April, after early daffodils and crocuses have faded.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Cultivated worldwide in temperate regions, especially the Netherlands; ancestors native to Central Asia",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxurious canal house."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A woodland bulb forming carpets of nodding, bell-shaped, sweetly scented flowers that droop to one side of an arching stem. It thrives in the dappled light of ancient deciduous woodlands.",
+      "bloomingSeason": "Mid-April to May",
+      "location": "Native to Western Europe, especially the United Kingdom, Ireland, France, and Spain",
+      "colors": [
+        "Violet-blue",
+        "Occasionally white",
+        "Occasionally pink"
+      ],
+      "emoji": "🔔",
+      "funFact": "Bluebells are a protected species in the UK, and it is illegal to collect wild bulbs; they can take 5 to 7 years to flower from seed."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, fern-leaved tree that bursts into masses of trumpet-shaped lilac-blue flowers. In the Southern Hemisphere, some trees continue blooming into late autumn in warmer areas, while others bloom sporadically; in the Northern Hemisphere subtropics, early blooming begins around late April to May.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (April to June); primarily October to November in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Texas, and the Mediterranean",
+      "colors": [
+        "Lilac",
+        "Blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in Pretoria, South Africa, the tree gives the city the nickname 'Jacaranda City'."
     }
   ]
 }

@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Ice Cream Sandwich Day",
-      "description": "A delicious day dedicated to celebrating the perfect cool-and-sweet treat: the ice cream sandwich. Whether it's the classic vanilla between chocolate cookies or a wacky new flavor combo, it's all about chilly indulgence!",
-      "origin": "Became popular in the USA as ice cream sandwiches gained nostalgic popularity, celebrated unofficially by ice cream aficionados.",
-      "category": "Food Holiday",
-      "emoji": "🍦🍪",
-      "funFact": "The ice cream sandwich dates back to early 1900s in New York, sold by street vendors as a sidewalk treat."
+      "description": "A day to celebrate the glorious union of two cookies or wafers hugging a slab of cold, creamy ice cream. Bonus points for letting it melt down your wrist.",
+      "origin": "Ice cream sandwiches date back to the late 1800s, when street vendors in New York City sold them to the public for a penny. The day itself is an unofficial food observance that grew out of the dessert's enduring popularity.",
+      "category": "Food",
+      "emoji": "🍦",
+      "funFact": "The ice cream sandwich was reportedly popularized by pushcart vendors in New York City, and in 1945 a young Jerry Newberg is credited with helping popularize the modern wafer-style version, which sold for a nickel."
     },
     {
-      "name": "World UFO Day",
-      "description": "A day to ponder extraterrestrial visitors and all things unidentified flying objects. UFO enthusiasts gather to discuss alien phenomena, watch sci-fi, and maybe even scan the skies.",
-      "origin": "Started by UFO research groups to promote awareness of UFO sightings and extraterrestrial life.",
-      "category": "Pop Culture / Awareness",
-      "emoji": "🛸👽",
-      "funFact": "August 2 marks the anniversary of the alleged Roswell UFO crash in 1947."
+      "name": "National Colorado Day",
+      "description": "A day for the Centennial State to show off its mountains, its legal status as the 38th state, and its general smugness about having 300 days of sunshine (or so they say).",
+      "origin": "Colorado was admitted to the Union on August 1, 1876, and Colorado Day is commonly observed in the state around this time, marking its statehood, which came 100 years after the Declaration of Independence.",
+      "category": "Regional",
+      "emoji": "🏔️",
+      "funFact": "Colorado earned the nickname 'Centennial State' because it joined the Union just 100 years after the Declaration of Independence was signed."
     },
     {
-      "name": "International Beer Day",
-      "description": "Raise your glass! This day is all about appreciating beer, brewers, and beer lovers worldwide. Perfect excuse to cheers with friends over a cold one.",
-      "origin": "Launched in 2007 to celebrate beer culture and encourage enjoying beer responsibly.",
-      "category": "Food & Drink",
-      "emoji": "🍺🍻",
-      "funFact": "International Beer Day is celebrated on the first Friday of August, often falling on or near August 2."
+      "name": "National Play Outside Day",
+      "description": "A cheerful order to put down your phone, step away from the couch, and go interact with that bright glowing orb in the sky. Mud, grass stains, and skinned knees are all encouraged.",
+      "origin": "This observance is part of a broader movement to encourage children and adults to spend more time outdoors, as concerns grew about screen time and indoor lifestyles.",
+      "category": "Awareness",
+      "emoji": "🌳",
+      "funFact": "Studies suggest that spending just 20 minutes in a natural setting can measurably lower stress hormone levels like cortisol."
     },
     {
-      "name": "National Coloring Book Day",
-      "description": "Dust off those crayons and markers because it’s time to celebrate the artistic (and sometimes borderline therapeutic) joy of coloring books for all ages.",
-      "origin": "An unofficial holiday aimed at encouraging creativity, stress relief, and fun through coloring.",
-      "category": "Creative Arts",
-      "emoji": "🎨🖍️",
-      "funFact": "Adult coloring books have become a multimillion-dollar industry because of their mental wellness benefits."
+      "name": "National Farmer's Market Week Kickoff",
+      "description": "A celebration of heirloom tomatoes, suspiciously large zucchini, artisanal honey, and the person who always insists you try a free sample of goat cheese.",
+      "origin": "The USDA designates the first full week of August as National Farmers Market Week, recognizing the role of local markets in communities and small agriculture.",
+      "category": "Food",
+      "emoji": "🥕",
+      "funFact": "The number of farmers markets in the United States has grown from fewer than 2,000 in the mid-1990s to well over 8,000 today."
+    },
+    {
+      "name": "International Beer Day (Eve)",
+      "description": "A warm-up for the world's most refreshing unofficial holiday, where fans of hops, malt, and foam gather to raise a glass and toast brewers, bartenders, and fellow enthusiasts.",
+      "origin": "International Beer Day began in 2007 in Santa Cruz, California, started by Jesse Avshalomov and friends, and is traditionally held on the first Friday of August, so celebrations often spill across this weekend.",
+      "category": "Food and Drink",
+      "emoji": "🍺",
+      "funFact": "The day has three stated purposes: to gather with friends and enjoy beer, to celebrate the people who brew and serve it, and to unite the world under the banner of beer."
     }
   ]
 }

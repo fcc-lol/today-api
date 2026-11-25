@@ -2,32 +2,39 @@
   "date": "November 10",
   "events": [
     {
+      "year": 1483,
+      "title": "Birth of Martin Luther",
+      "description": "Martin Luther was born in Eisleben, in the County of Mansfeld, Holy Roman Empire. He became an Augustinian monk and theologian who later challenged the practices of the Catholic Church.",
+      "category": "Birth",
+      "significance": "Luther's 95 Theses in 1517 sparked the Protestant Reformation, which reshaped Christianity, European politics, and culture."
+    },
+    {
       "year": 1775,
-      "title": "Founding of the United States Marine Corps",
-      "description": "The Continental Congress establishes the Continental Marines as a maritime infantry force for the newly formed United States.",
+      "title": "Founding of the U.S. Marine Corps",
+      "description": "The Continental Congress, meeting in Philadelphia, resolved to raise two battalions of marines to serve as landing forces with the fleet during the American Revolutionary War. The Marines trace their origins to Tun Tavern.",
       "category": "Military",
-      "significance": "This marks the creation of the United States Marine Corps, a key branch of the U.S. Armed Forces known for amphibious and expeditionary warfare."
+      "significance": "This established the origin of the United States Marine Corps, which is celebrated annually on November 10 as the Marine Corps Birthday."
     },
     {
       "year": 1871,
-      "title": "Henry Morton Stanley locates David Livingstone",
-      "description": "Journalist and explorer Henry Morton Stanley finds Dr. David Livingstone, a missionary and explorer, in Ujiji, near Lake Tanganyika in Africa, reportedly greeting him with 'Dr. Livingstone, I presume?'.",
+      "title": "Stanley Meets Livingstone",
+      "description": "Journalist and explorer Henry Morton Stanley found the missing Scottish missionary David Livingstone in Ujiji, near Lake Tanganyika, reportedly greeting him with the words 'Dr. Livingstone, I presume?'",
       "category": "Exploration",
-      "significance": "This event symbolizes European exploration in Africa during the 19th century and reignited interest in the African continent."
+      "significance": "The meeting became one of the most famous episodes of European exploration in Africa and drew worldwide public attention to the continent."
+    },
+    {
+      "year": 1938,
+      "title": "Death of Mustafa Kemal Atatürk",
+      "description": "Mustafa Kemal Atatürk, founder and first President of the Republic of Turkey, died at Dolmabahçe Palace in Istanbul at age 57.",
+      "category": "Death",
+      "significance": "Atatürk led Turkey's War of Independence and implemented sweeping political, legal, and cultural reforms that modernized the country. Turkey observes a moment of silence each year on this date."
     },
     {
       "year": 1989,
-      "title": "Velvet Revolution culminates in the formation of the first non-communist government in Czechoslovakia since 1948",
-      "description": "Following peaceful protests, the Communist government resigns, and Václav Havel becomes president, marking a significant step in ending communist rule in Eastern Europe.",
-      "category": "Political",
-      "significance": "Marks the transition of Czechoslovakia from communist rule to democracy during the broader collapse of Eastern Bloc communist regimes."
-    },
-    {
-      "year": 1928,
-      "title": "Alexander Fleming discovers penicillin",
-      "description": "Fleming observes that a mold (Penicillium notatum) killing bacteria leads to the discovery of penicillin, the first true antibiotic.",
-      "category": "Science/Medicine",
-      "significance": "Penicillin revolutionizes medicine by providing an effective treatment for bacterial infections, saving countless lives."
+      "title": "Fall of the Berlin Wall Begins",
+      "description": "The day after East Germany opened its borders, crowds of East and West Germans gathered at the Berlin Wall, and people began dismantling sections of it with hammers and chisels while additional border crossings were opened.",
+      "category": "Politics",
+      "significance": "The dismantling of the Wall symbolized the collapse of communist rule in Eastern Europe and led to German reunification in 1990 and the end of the Cold War."
     }
   ]
 }

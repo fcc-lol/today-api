@@ -2,59 +2,62 @@
   "date": "September 22",
   "plants": [
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial native to North America, known for its large daisy-like purple flowers and prominent cone-shaped centers. It attracts pollinators such as bees and butterflies and is often used in herbal remedies.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern and Central United States",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in autumn, without any leaves present. The leaves appear the following spring and die back by summer. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Late summer to autumn (September to October)",
+      "location": "Native to damp meadows in Europe; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
+        "Pale pink",
+        "Lilac",
         "Purple",
-        "Pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Echinacea has been traditionally used by Native Americans for its medicinal properties, especially to support the immune system."
-    },
-    {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A tuberous perennial native to Mexico, notable for its wide range of flower forms and colors. Dahlias produce large, showy blooms that often appear in late summer and early fall, making them popular in gardens and floral arrangements.",
-      "bloomingSeason": "July to October",
-      "location": "Mexico and widely cultivated in temperate zones worldwide",
-      "colors": [
-        "Red",
-        "Pink",
-        "Orange",
-        "Yellow",
         "White"
       ],
-      "emoji": "🌺",
-      "funFact": "Dahlias are the national flower of Mexico and have over 42 species growing wild in the country."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and used by plant breeders to induce chromosome doubling. Its leafless autumn flowers earned it the nickname 'naked ladies'."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower with dense clusters of small yellow flowers. It is native to North America and blooms in late summer and early fall, often signaling the arrival of autumn.",
-      "bloomingSeason": "August to October",
-      "location": "North America, especially Canada and United States",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, hairy-stemmed perennial that forms large clumps covered in daisy-like flowers with golden-yellow centers. It is a vital late-season nectar source for pollinators and thrives in meadows, roadsides and prairies.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America, from Canada to Alabama; cultivated worldwide",
       "colors": [
-        "Yellow"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Magenta"
       ],
-      "emoji": "💛",
-      "funFact": "Goldenrod is an important late-season nectar source for bees and butterflies."
+      "emoji": "💜",
+      "funFact": "New England asters are a key stopover food source for migrating monarch butterflies, which refuel on their nectar during their journey to Mexico in September."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub native to Japan, known for its smaller, fragrant flowers that bloom from early fall into winter. It is often used for ornamental purposes in gardens and is prized for its glossy leaves and extended blooming period.",
-      "bloomingSeason": "September to December",
-      "location": "Japan and cultivated in temperate regions",
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A bulbous perennial whose bright red, spidery flowers with long curved stamens emerge on leafless stalks in early autumn. The strap-like leaves appear after flowering and persist through winter.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
+      "colors": [
+        "Red",
+        "Crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "In Japan, these flowers bloom around the autumn equinox (Higanbana) and are traditionally planted along rice paddies and graves; their toxic bulbs deter rodents and moles."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A large evergreen shrub with the largest flower head in the Protea genus, featuring a bowl of showy pinkish bracts surrounding a central cone of tiny true flowers. It is adapted to fire-prone, nutrient-poor soils.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November), peaking around September",
+      "location": "Fynbos region of the Western and Eastern Cape, South Africa; cultivated in Australia, Hawaii and California",
       "colors": [
         "Pink",
-        "White",
-        "Red"
+        "Cream",
+        "Red",
+        "Silvery white"
       ],
-      "emoji": "🌹",
-      "funFact": "Sasanqua camellias bloom in autumn, providing color and fragrance when many other plants have finished flowering."
+      "emoji": "🌸",
+      "funFact": "The King Protea is South Africa's national flower, and the genus is named after Proteus, the Greek sea god who could change shape, reflecting the group's great diversity."
     }
   ]
 }

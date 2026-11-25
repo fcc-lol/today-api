@@ -2,60 +2,59 @@
   "date": "July 3",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are iconic flowering shrubs widely cultivated in gardens and landscapes worldwide. They produce large, fragrant flowers that come in many colors, often blooming repeatedly through the summer.",
-      "bloomingSeason": "Late spring to early autumn (May to September)",
-      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant purple flowers. It thrives in full sun and well-drained soil, and is widely cultivated for ornamental use, essential oils, and as a magnet for bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region; widely cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for thousands of years and can have over 300 species worldwide."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This tall perennial herb produces striking spikes of pea-like flowers, well known for their vivid colors and attractiveness to pollinators.",
-      "bloomingSeason": "June to August",
-      "location": "Native to western North America but cultivated widely in temperate regions",
-      "colors": [
-        "blue",
         "purple",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Lupines can fix nitrogen in the soil, enriching the ground and helping other plants grow."
-    },
-    {
-      "name": "Tibouchina urvilleana",
-      "commonName": "Glory Bush",
-      "description": "An evergreen shrub bearing large, velvety purple flowers that bloom profusely during summer in subtropical and tropical climates.",
-      "bloomingSeason": "Late spring to early autumn",
-      "location": "Native to Brazil, grown as ornamental shrub in warm climates including southern USA and Mediterranean",
-      "colors": [
-        "purple"
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Tibouchina flowers attract hummingbirds and butterflies, enhancing garden biodiversity."
+      "funFact": "The name lavender likely derives from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "A large aquatic plant with round floating leaves and striking, fragrant flowers that open in the morning and close at night, often blooming during warm summer months.",
-      "bloomingSeason": "June to August",
-      "location": "Native to Asia and Australia, found in warm freshwater ponds and lakes",
+      "description": "An aquatic perennial with large, round leaves that repel water and striking flowers rising above the surface on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters and begins its peak bloom in early summer.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Asia, from India and China to Japan and northern Australia; cultivated in water gardens worldwide",
       "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The Sacred Lotus flower is revered in many cultures symbolizing purity and spiritual awakening."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds have been germinated after more than 1,000 years of dormancy, and the flower's surface is so water-repellent it inspired the term 'lotus effect' in materials science."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy North American prairie perennial with daisy-like flowers featuring drooping pink-purple petals around a spiky orange-brown central cone. It is popular in gardens, tolerates drought, and attracts pollinators and goldfinches.",
+      "bloomingSeason": "Early summer to early fall (June to September)",
+      "location": "Eastern and central United States prairies and open woodlands; cultivated globally",
+      "colors": [
+        "purple",
+        "pink",
+        "orange",
+        "bronze"
+      ],
+      "emoji": "🌸",
+      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiky central cone, and the plant has been used in traditional Native American medicine."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Not in peak bloom everywhere on July 3, but in the Northern Hemisphere's tropics and in some subtropical areas, scattered late flowering occurs. Better examples of Southern Hemisphere winter bloomers are Protea cynaroides, a bold shrub with huge, bowl-shaped flower heads surrounded by pink bracts, flowering in southern African winter and spring.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics; some trees flower sporadically afterward",
+      "location": "Native to South America; planted in Los Angeles, Florida, Mediterranean regions, and parts of Asia and Africa",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "Jacaranda trees in Pretoria, South Africa, are so numerous that the city is nicknamed the 'Jacaranda City', and their fallen flowers carpet streets in purple."
     }
   ]
 }

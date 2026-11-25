@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 64,
-      "title": "Great Fire of Rome begins",
-      "description": "A major fire breaks out in Rome, which lasts for six days and causes widespread destruction across the city.",
+      "title": "Great Fire of Rome Begins",
+      "description": "A fire broke out in the merchant shops near the Circus Maximus and burned for about six days, destroying or damaging large parts of Rome. The emperor Nero was in Antium when it began and returned to organize relief efforts.",
       "category": "Disaster",
-      "significance": "The fire leads to significant rebuilding efforts under Emperor Nero and has long-lasting impacts on Roman urban planning and architecture."
+      "significance": "One of the most famous urban disasters of antiquity, it reshaped the city's architecture and building regulations and led Nero to blame and persecute Christians, according to Tacitus."
+    },
+    {
+      "year": 1918,
+      "title": "Birth of Nelson Mandela",
+      "description": "Nelson Rolihlahla Mandela was born in Mvezo, in the Eastern Cape of South Africa. He became an anti-apartheid activist, was imprisoned for 27 years, and later led the country's transition to democracy.",
+      "category": "Birth",
+      "significance": "Mandela became South Africa's first democratically elected president in 1994 and a global symbol of reconciliation and the struggle against racial injustice. The UN designated July 18 as Nelson Mandela International Day."
     },
     {
       "year": 1925,
-      "title": "Scopes Trial begins",
-      "description": "The trial of John T. Scopes starts in Dayton, Tennessee, for teaching evolution in a public school, challenging the Butler Act prohibiting such teachings.",
-      "category": "Legal/Science",
-      "significance": "The trial becomes a landmark case in the debate between science and religion in education and highlights issues of academic freedom."
+      "title": "Publication of Mein Kampf",
+      "description": "Adolf Hitler's political manifesto and autobiography, Mein Kampf, was first published in Germany. The first volume had been written while Hitler was imprisoned after the failed Beer Hall Putsch.",
+      "category": "Politics",
+      "significance": "The book laid out the ideology of racial hatred, antisemitism, and expansionism that underpinned Nazi Germany, and it is studied today to understand the origins of the Holocaust and World War II."
     },
     {
-      "year": 1947,
-      "title": "Roswell UFO incident occurs",
-      "description": "An unidentified flying object reportedly crashes near Roswell, New Mexico, sparking conspiracy theories and government cover-up allegations.",
-      "category": "Science/Conspiracy",
-      "significance": "The incident fuels UFO lore and remains a popular subject in discussions on extraterrestrial life and government secrecy."
+      "year": 1936,
+      "title": "Start of the Spanish Civil War",
+      "description": "Army officers led by Francisco Franco and others launched a military coup against the Second Spanish Republic, beginning in Spanish Morocco on July 17 and spreading to mainland Spain on July 18. The coup failed to take control of the whole country and escalated into a prolonged civil war.",
+      "category": "War",
+      "significance": "The three-year conflict ended in a Nationalist victory and the dictatorship of Franco, which lasted until 1975. It also served as a testing ground for weapons and tactics later used in World War II."
     },
     {
-      "year": 1994,
-      "title": "Comet Shoemaker-Levy 9 impacts Jupiter",
-      "description": "Fragments of the comet Shoemaker-Levy 9 collide with Jupiter, observed by telescopes worldwide, marking the first direct observation of extraterrestrial collisions.",
-      "category": "Science/Astronomy",
-      "significance": "The event provides valuable data on planetary impacts and Jupiter's atmosphere, advancing understanding of cometary dynamics."
+      "year": 1969,
+      "title": "Chappaquiddick Incident",
+      "description": "Senator Edward Kennedy drove his car off a bridge on Chappaquiddick Island, Massachusetts, and Mary Jo Kopechne, a passenger, drowned. Kennedy did not report the accident until the next morning.",
+      "category": "Politics",
+      "significance": "The scandal damaged Kennedy's reputation and is widely believed to have undermined his future presidential ambitions."
     }
   ]
 }

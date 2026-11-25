@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Pi Approximation Day",
-      "description": "A whimsical celebration of the mathematical constant π (pi) approximated as 22/7! Math enthusiasts and number nerds rejoice on this day with pie-eating contests, math puzzles, and pi-themed parties.",
-      "origin": "The date 22/7 (July 22) is used because 22 divided by 7 is a common fractional approximation of pi.",
-      "category": "Math/Science Celebration",
+      "description": "A day for math nerds to celebrate the fraction 22/7, which is a handy approximation of pi. Expect pie, puns, and people arguing about decimals.",
+      "origin": "Written as 22/7 in day/month format, the date matches the ancient fraction approximation of pi. Archimedes of Syracuse showed around 250 BCE that pi lies between 223/71 and 22/7.",
+      "category": "Science & Math",
       "emoji": "🥧",
-      "funFact": "Pi Approximation Day celebrates a rational approximation, whereas the actual value of pi is an irrational number with infinite non-repeating decimals."
+      "funFact": "22/7 is about 3.142857, which is accurate to two decimal places. Pi itself starts 3.14159, so the fraction is close but not quite right."
     },
     {
-      "name": "Ratcatcher's Day",
-      "description": "Commemorates the legendary Ratcatcher of Hamelin, who is said to have rid the town of rats—and then mysteriously disappeared with the children! A quirky day to honor pest control and folklore.",
-      "origin": "Based on the folkloric tale from Hamelin, Germany, where the Pied Piper lured away rats (then children) from the town in the Middle Ages.",
-      "category": "Folklore/History",
+      "name": "National Hammock Day",
+      "description": "An unofficial holiday dedicated to swinging gently between two trees and doing absolutely nothing. Napping is encouraged and productivity is optional.",
+      "origin": "Hammock Day is an informal summer observance that grew out of the long tradition of hammock lounging. Hammocks were first used by Indigenous peoples of Central and South America.",
+      "category": "Relaxation",
+      "emoji": "🛌",
+      "funFact": "Christopher Columbus's crew reportedly brought hammocks back to Europe, and sailors later adopted them as space-saving beds on ships."
+    },
+    {
+      "name": "Spooner's Day",
+      "description": "A day to honor the Reverend William Archibald Spooner by deliberately mixing up the first sounds of your words. Try telling someone to enjoy a 'lack of pies' instead of a 'pack of lies'.",
+      "origin": "Spooner's Day marks the birthday of William Archibald Spooner, born July 22, 1844. He was an Oxford scholar famous for accidental slips of the tongue, which are now called spoonerisms.",
+      "category": "Language & Wordplay",
+      "emoji": "🗣️",
+      "funFact": "Many of the spoonerisms credited to Spooner were probably invented by his students and others, so he may have said far fewer than legend claims."
+    },
+    {
+      "name": "Ice Cream Sandwich Day",
+      "description": "A day to celebrate the frozen treat made from ice cream squished between two cookies or wafers. The only rule is to eat it before it drips down your arm.",
+      "origin": "Ice cream sandwiches date back to the late 1800s, when street vendors in New York City sold them to workers on the cheap. The food holiday has become a summer favorite on the calendar.",
+      "category": "Food",
+      "emoji": "🍦",
+      "funFact": "The treat is often credited to pushcart vendors in New York City, where early versions were sold for just a penny."
+    },
+    {
+      "name": "Rat-Catcher's Day",
+      "description": "A day inspired by the Pied Piper of Hamelin legend, in which a piper in colorful clothes lured rats away with his music. Today is a good day to appreciate pest control and old fairy tales.",
+      "origin": "The legend is said to be tied to July 22, 1376, the date traditionally given for the Pied Piper's town tale. The story is recorded in the German town of Hamelin, where children were said to have vanished after the piper wasn't paid.",
+      "category": "Folklore",
       "emoji": "🐀",
-      "funFact": "Some versions of the Ratcatcher's story suggest it is a metaphor for the Black Death and its impact on European towns."
-    },
-    {
-      "name": "Pi Approximation Day (Alternate)",
-      "description": "Even more math fun celebrating pi—not the exact date, but the fraction 22/7 that approximates it. Math geeks use this day to nerd out on calculations, constants, and sometimes eat lots of pie!",
-      "origin": "The fraction 22 over 7, known since antiquity as a handy way to approximate pi, led to this numeric celebration.",
-      "category": "Math/Science Celebration",
-      "emoji": "🧮",
-      "funFact": "Archimedes first provided 22/7 as an approximation for pi over 2000 years ago!"
-    },
-    {
-      "name": "Moon Day",
-      "description": "Remembering the first manned Moon landing by Apollo 11 astronauts in 1969, this day honors space exploration and humanity’s giant leap.",
-      "origin": "July 20-22 marks the first successful Moon landing orbit and return to Earth by Apollo 11 astronauts in 1969, with some celebrations extending to July 22.",
-      "category": "Space Exploration/Awareness",
-      "emoji": "🌕",
-      "funFact": "Neil Armstrong and Buzz Aldrin spent about 21 hours on the lunar surface, but Moon Day celebrations sometimes include the whole duration of the mission ending July 22."
+      "funFact": "The Hamelin story is so famous that the town has a Rat Catcher's House and holds a Pied Piper play every summer."
     }
   ]
 }

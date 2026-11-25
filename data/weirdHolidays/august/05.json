@@ -2,36 +2,44 @@
   "date": "August 5",
   "holidays": [
     {
-      "name": "National Underwear Day",
-      "description": "A cheeky celebration encouraging everyone to embrace comfort and confidence by rocking their favorite underwear—whether it's fancy lingerie or cozy boxers!",
-      "origin": "Started in 2003 by Australian undergarment brand \"Bonds\" to promote body positivity and break the taboo around underwear.",
-      "category": "Unusual/Fun",
-      "emoji": "🩲",
-      "funFact": "Some people celebrate by wearing only their underwear outside as a fun, liberating protest against social norms!"
-    },
-    {
       "name": "National Oyster Day",
-      "description": "A tasty tribute to the briny bivalve mollusks that have been enjoyed by coastal cultures for centuries. Perfect for seafood lovers to indulge in oysters raw, grilled, or fried!",
-      "origin": "Began as an American food holiday to honor and celebrate the oyster’s culinary and ecological importance.",
-      "category": "Food",
+      "description": "A day to celebrate the briny, slippery bivalve by slurping them raw on the half shell, grilling them, or frying them up. Oyster lovers gather at raw bars to toast the humble mollusk.",
+      "origin": "An unofficial American food observance promoted by seafood fans and food-holiday calendars. Oysters have been eaten for thousands of years, and the day gives enthusiasts a reason to indulge.",
+      "category": "Food Day",
       "emoji": "🦪",
-      "funFact": "Oysters can filter up to 50 gallons of water a day, making them natural water purifiers and essential to ocean health."
+      "funFact": "A single oyster can filter up to 50 gallons of water a day, making oysters natural water purifiers. Oysters can also change sex during their lifetime."
     },
     {
-      "name": "Work Like a Dog Day",
-      "description": "A humorous day to poke fun at hard work and hustle culture by comparing your effort to that of a hardworking dog, or to remind yourself to take breaks!",
-      "origin": "An unofficial fun observance that encourages balancing diligence with play and relaxation.",
-      "category": "Humor/Work",
-      "emoji": "🐶",
-      "funFact": "Dogs often work to assist humans in tasks like herding, hunting, or rescue — making this day a nod to their loyal work ethic."
+      "name": "National Waitresses and Waiters Day",
+      "description": "A day for thanking the people who carry five plates at once, memorize your complicated order, and smile while you ask for extra napkins. Tip generously and be kind!",
+      "origin": "An unofficial American observance created to honor restaurant servers and recognize the hard work behind the dining experience.",
+      "category": "Appreciation Day",
+      "emoji": "🍽️",
+      "funFact": "The word 'tip' is often (though debatedly) said to come from 'To Insure Promptness,' but this is likely a myth. The practice actually dates back to Tudor England."
     },
     {
-      "name": "National Friendship Day (UK)",
-      "description": "A day to appreciate and celebrate the friendships that bring joy and support. Different countries observe Friendship Day on various dates; in the UK, it’s often celebrated on August 5.",
-      "origin": "Friendship Day was first proposed in 1958 and adopted by many cultures worldwide on different days throughout summer.",
-      "category": "Social/Relationship",
-      "emoji": "🤝",
-      "funFact": "In addition to exchanging cards and gifts, some people celebrate by organizing group activities or sharing stories about their closest friends."
+      "name": "National Work Like a Dog Day",
+      "description": "A day to embrace relentless, tail-wagging productivity, or to honor the many working dogs that herd, guide, search, rescue, and sniff out trouble. Fetch those deadlines!",
+      "origin": "An unofficial observance that plays on the old idiom 'work like a dog' and honors the real working dogs that serve humans every day.",
+      "category": "Pop Culture / Animal Day",
+      "emoji": "🐕",
+      "funFact": "Dogs trained for scent detection can have up to 300 million olfactory receptors, compared to about 6 million in humans, which is why they are so good at their jobs."
+    },
+    {
+      "name": "International Beer Day (First Friday of August Observance Window)",
+      "description": "Beer lovers around the world raise a glass to celebrate brewers, bartenders, and the ancient beverage itself. It's celebrated in dozens of countries with tastings, toasts, and brewery visits.",
+      "origin": "Started in 2007 in Santa Cruz, California, by Jesse Avshalomov, who wanted a day to gather with friends, appreciate the people who make and serve beer, and unite the world through beer. It is observed on the first Friday of August, which sometimes lands on August 5.",
+      "category": "Drink Day",
+      "emoji": "🍺",
+      "funFact": "Beer is one of the oldest fermented beverages in the world, with evidence of brewing going back more than 5,000 years in ancient Mesopotamia and Egypt."
+    },
+    {
+      "name": "Underwear Day",
+      "description": "A cheeky observance dedicated to the most essential and least discussed layer of your wardrobe. Some celebrate by wearing their funkiest pair or giving the gift of fresh briefs.",
+      "origin": "An unofficial novelty holiday popularized by clothing retailers and quirky calendar sites as a lighthearted excuse to talk about undergarments.",
+      "category": "Silly Observance",
+      "emoji": "🩲",
+      "funFact": "The earliest known underwear was a simple loincloth, and ancient Egyptians wore linen versions as far back as 3000 BCE."
     }
   ]
 }

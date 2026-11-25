@@ -2,39 +2,39 @@
   "date": "June 24",
   "events": [
     {
-      "year": 793,
-      "title": "Viking Raid on Lindisfarne",
-      "description": "Norse Viking raiders attacked the monastery at Lindisfarne, off the northeast coast of England, marking the beginning of the Viking Age in Europe.",
-      "category": "Military/Exploration",
-      "significance": "This event signaled the start of extensive Viking raids and influence across Europe, affecting political and cultural landscapes."
+      "year": 1314,
+      "title": "Battle of Bannockburn Concludes",
+      "description": "On the second day of the battle, Scottish forces led by Robert the Bruce decisively defeated the larger English army of King Edward II near Stirling, Scotland.",
+      "category": "Military",
+      "significance": "The victory secured de facto Scottish independence and strengthened Robert the Bruce's position as king, leading to formal English recognition of Scottish sovereignty in the 1328 Treaty of Edinburgh-Northampton."
     },
     {
       "year": 1497,
-      "title": "John Cabot Sighted North America",
-      "description": "Explorer John Cabot, sailing under the English flag, sighted land in North America, believed to be Newfoundland.",
+      "title": "John Cabot Reputedly Lands in North America",
+      "description": "According to traditional accounts, Italian navigator John Cabot, sailing under commission from King Henry VII of England, sighted and landed on the North American coast, likely in Newfoundland or Cape Breton.",
       "category": "Exploration",
-      "significance": "This expedition paved the way for future English claims and colonization in the Americas."
+      "significance": "The voyage laid the foundation for English claims to North America and later British colonization of the continent."
     },
     {
-      "year": 1916,
-      "title": "Battle of Mont Sorrel Begins",
-      "description": "The Battle of Mont Sorrel, a significant World War I battle between Canadian and German forces near Ypres, Belgium, commenced.",
+      "year": 1812,
+      "title": "Napoleon's Grande Armée Crosses the Niemen River",
+      "description": "Napoleon Bonaparte led a force of more than 400,000 men across the Niemen River into Russian territory, beginning the French invasion of Russia.",
       "category": "Military",
-      "significance": "This battle was notable for intense trench warfare and highlighted the sacrifices of Canadian forces during WWI."
+      "significance": "The campaign ended in catastrophic losses for France and marked a turning point in the Napoleonic Wars, contributing to Napoleon's eventual downfall."
     },
     {
       "year": 1948,
-      "title": "Berlin Airlift Begins",
-      "description": "The Western Allies initiated the Berlin Airlift to circumvent the Soviet blockade of West Berlin.",
-      "category": "Political/Military",
-      "significance": "The airlift symbolized Western commitment to West Berlin during the early Cold War, showcasing logistical ingenuity and political resolve."
+      "title": "Soviet Blockade of West Berlin Begins",
+      "description": "The Soviet Union halted road, rail, and barge traffic between West Germany and the Western-controlled sectors of Berlin, prompting the Western Allies to organize the Berlin Airlift.",
+      "category": "Politics",
+      "significance": "It was one of the first major crises of the Cold War and led to the supply of West Berlin by air for nearly a year, strengthening Western unity and contributing to the creation of NATO and the division of Germany."
     },
     {
-      "year": 2010,
-      "title": "World Health Organization Declares Haiti Cholera Outbreak Over",
-      "description": "WHO officially declared the end of the cholera outbreak in Haiti that began after the 2010 earthquake.",
-      "category": "Health/Public Policy",
-      "significance": "Marked a major milestone in public health recovery efforts in the aftermath of a devastating natural disaster."
+      "year": 2022,
+      "title": "U.S. Supreme Court Overturns Roe v. Wade",
+      "description": "In Dobbs v. Jackson Women's Health Organization, the Supreme Court ruled that the Constitution does not confer a right to abortion, overturning Roe v. Wade (1973) and Planned Parenthood v. Casey (1992).",
+      "category": "Law",
+      "significance": "The decision returned abortion regulation to individual states and reshaped American law, politics, and healthcare access."
     }
   ]
 }

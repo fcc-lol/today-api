@@ -2,54 +2,62 @@
   "date": "May 27",
   "plants": [
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A striking white lily native to the Balkans and the eastern Mediterranean, known for its elegant trumpet-shaped flowers and strong fragrance. It’s often found blooming in late spring to early summer in temperate climates.",
-      "bloomingSeason": "May to July",
-      "location": "Mediterranean region, cultivated in temperate gardens worldwide",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped double or single blooms atop sturdy stems with deeply lobed glossy green foliage. A beloved cottage garden staple that can live for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China and Siberia; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "The Madonna Lily has been cultivated since ancient times and is often associated with purity and the Virgin Mary in Christian symbolism."
+      "funFact": "Peonies can live and bloom for over 100 years, and ants visiting the buds are harmless and do not need to be removed for the flowers to open."
     },
     {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "A large evergreen shrub or small tree with brilliant clusters of red to orange-red bell-shaped flowers. It thrives in the Himalayan region and blooms dramatically in the late spring.",
-      "bloomingSeason": "April to June",
-      "location": "Himalayas, South Asia",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A deciduous shrub with fragrant, semi-double to double flowers and prickly stems. One of the oldest cultivated roses, it forms dense thickets and has been the parent of many garden varieties.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Central and southern Europe, and western Asia; cultivated worldwide in temperate gardens",
       "colors": [
-        "red",
-        "orange"
+        "Deep pink",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "🌺",
-      "funFact": "Rhododendron arboreum is the national flower of Nepal and is very important culturally and ecologically in the Himalayan foothills."
+      "emoji": "🌹",
+      "funFact": "Dried petals of Rosa gallica 'Officinalis' keep their fragrance for years, which is why it was used by medieval apothecaries in Provins, France."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A popular fragrant herb with spikes of purple flowers, widely cultivated for its aromatic oils and decorative appeal. It blooms prominently in late spring and early summer in temperate climates.",
-      "bloomingSeason": "June to August (starts blooming in late May in warmer climates)",
-      "location": "Native to the Mediterranean, commonly grown in gardens worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tropical and subtropical tree with fern-like leaves that erupts in massive clusters of trumpet-shaped lavender-blue flowers, carpeting the ground beneath the canopy with purple petals.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in parts of the Southern Hemisphere",
+      "location": "Native to South America; planted in Los Angeles, Mexico, South Africa, Australia and the Mediterranean",
       "colors": [
-        "purple"
+        "Lavender",
+        "Purple",
+        "Blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender was prized by ancient Egyptians for mummification and by the Romans for bathing and scenting their homes."
+      "funFact": "In Pretoria, South Africa, the thousands of jacaranda trees lining the streets earned it the nickname 'Jacaranda City'."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree known for its cylindrical flower spikes composed of hundreds of tiny individual flowers, ranging from cream to yellow shades. It blooms in autumn and spring depending on the region along the coast.",
-      "bloomingSeason": "March to May and again in spring in some areas",
-      "location": "Eastern coastal Australia",
+      "name": "Delphinium elatum",
+      "commonName": "Larkspur / Candle Delphinium",
+      "description": "A towering perennial with dense spikes of flowers up to 2 meters tall. Each spike is packed with individual blooms, often with a contrasting central 'bee' of petals.",
+      "bloomingSeason": "Late spring to midsummer (May to July)",
+      "location": "Alpine meadows of Europe and Siberia; popular in temperate English-style gardens",
       "colors": [
-        "cream",
-        "yellow"
+        "Blue",
+        "Purple",
+        "White",
+        "Pink"
       ],
-      "emoji": "🌻",
-      "funFact": "Banksias are an important food source for many nectar-feeding birds and mammals in Australia."
+      "emoji": "🪻",
+      "funFact": "All parts of delphiniums are toxic to humans and livestock, yet their flower spikes are among the most prized in cut-flower arrangements."
     }
   ]
 }

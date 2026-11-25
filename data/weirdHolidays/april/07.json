@@ -2,36 +2,44 @@
   "date": "April 7",
   "holidays": [
     {
-      "name": "World Health Day",
-      "description": "A day dedicated to global health awareness, marking the founding of the World Health Organization in 1948. It encourages everyone to focus on health issues and wellness worldwide.",
-      "origin": "Established by the World Health Organization in 1948 to commemorate its founding.",
-      "category": "Awareness Day",
-      "emoji": "🩺",
-      "funFact": "Each year, World Health Day focuses on a different health theme, ranging from mental health to climate change's impact on health."
+      "name": "National Beer Day",
+      "description": "Americans raise a frosty mug to celebrate the day in 1933 when beer became legal again after Prohibition. Cheers, with a side of pretzels.",
+      "origin": "The Cullen-Harrison Act took effect on April 7, 1933, allowing beer with up to 3.2% alcohol by weight to be sold. The modern observance was started by Justin Smith, who created a Facebook page in 2009 and pushed for the day to be recognized.",
+      "category": "Food & Drink",
+      "emoji": "🍺",
+      "funFact": "When the law took effect at 12:01 a.m., crowds gathered outside breweries, and trucks of beer were sent to the White House. President Franklin D. Roosevelt reportedly said, 'I think this would be a good time for a beer.'"
     },
     {
       "name": "No Housework Day",
-      "description": "A quirky observance urging everyone to take a break from all domestic chores. It’s a perfect excuse to kick back, relax, and let the dishes pile up!",
-      "origin": "Started by a magazine editor in the UK in the 1980s as a way to encourage relaxation and self-care.",
-      "category": "Lifestyle/Fun",
-      "emoji": "🛋️",
-      "funFact": "No Housework Day is celebrated every year on the Saturday after Easter, giving people a break after the busy holiday."
+      "description": "A guilt-free holiday encouraging you to put down the mop, ignore the dishes, and let the dust bunnies live in peace for 24 hours.",
+      "origin": "This unofficial observance was reportedly created as a lighthearted excuse to skip chores. It has no single documented founder and spread through lists of quirky celebrations.",
+      "category": "Lifestyle",
+      "emoji": "🧹",
+      "funFact": "The average person spends roughly 2 to 3 hours a day on household chores, so skipping a day gives you back a surprising chunk of time for naps."
     },
     {
-      "name": "National Coffee Cake Day",
-      "description": "A sweet celebration dedicated to the deliciously crumbly, cinnamon-swirled coffee cake that pairs perfectly with your morning brew.",
-      "origin": "Became popular in the US as a way to honor this beloved breakfast treat.",
-      "category": "Food Holiday",
-      "emoji": "🍰☕",
-      "funFact": "Despite the name, coffee cake doesn’t usually contain coffee; it’s meant to be enjoyed with a cup of coffee!"
+      "name": "World Health Day",
+      "description": "A global health awareness day where the world focuses on a different health theme each year, from mental health to universal health coverage.",
+      "origin": "It marks the founding of the World Health Organization on April 7, 1948. The first World Health Assembly in 1948 decided to observe it, and it has been celebrated since 1950.",
+      "category": "Awareness Day",
+      "emoji": "🩺",
+      "funFact": "The WHO is credited with coordinating the global effort that eradicated smallpox, declared eliminated in 1980, which is the only human disease eradicated so far."
     },
     {
-      "name": "Festival of Astrology",
-      "description": "An unconventional day for astrology enthusiasts to cast horoscopes, share zodiac insights, and celebrate cosmic mysteries.",
-      "origin": "Informally embraced by astrology fans around the world, gaining popularity on social media.",
-      "category": "Pop Culture/Spiritual",
-      "emoji": "♈✨",
-      "funFact": "On this day, many astrologers release special forecasts and prediction videos, making it a starry social media hotspot."
+      "name": "Caramel Popcorn Day",
+      "description": "A sweet and crunchy snack holiday devoted to popcorn coated in gooey caramel. Perfect for movie nights and for sticking to your teeth.",
+      "origin": "A food-industry style unofficial observance, it grew from the popularity of caramel-coated popcorn, which has been sold since the late 1800s. Cracker Jack, introduced at the 1893 World's Columbian Exposition, popularized the treat.",
+      "category": "Food",
+      "emoji": "🍿",
+      "funFact": "Cracker Jack was mentioned in the 1908 song 'Take Me Out to the Ball Game,' making caramel popcorn part of baseball tradition."
+    },
+    {
+      "name": "Day of Remembrance for Victims of the Rwanda Genocide",
+      "description": "Though not a quirky celebration, this serious observance sits alongside the fun ones on April 7 and invites reflection, education, and a commitment to preventing atrocities.",
+      "origin": "The United Nations designated April 7 as the International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda. The date marks the start of the 100 days of violence in 1994.",
+      "category": "Remembrance",
+      "emoji": "🕯️",
+      "funFact": "Rwanda holds a 100-day commemoration period called Kwibuka, which means 'to remember' in Kinyarwanda."
     }
   ]
 }

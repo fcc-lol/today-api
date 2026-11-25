@@ -2,32 +2,39 @@
   "date": "May 2",
   "events": [
     {
-      "year": 2011,
-      "title": "Death of Osama bin Laden",
-      "description": "Osama bin Laden, the founder and leader of al-Qaeda, was killed by United States Navy SEALs in Abbottabad, Pakistan during a covert operation called Operation Neptune Spear.",
-      "category": "Military/Global Security",
-      "significance": "This event marked a significant milestone in the War on Terror, symbolizing the demise of the mastermind behind the September 11 attacks and dealing a major blow to al-Qaeda."
+      "year": 1519,
+      "title": "Death of Leonardo da Vinci",
+      "description": "Leonardo da Vinci, the Italian polymath, painter of the Mona Lisa and The Last Supper, died at Clos Lucé near Amboise, France, at age 67, in the service of King Francis I.",
+      "category": "Death",
+      "significance": "Leonardo's art, anatomical studies, engineering designs, and notebooks made him the archetype of the Renaissance man and left a lasting influence on art and science."
+    },
+    {
+      "year": 1808,
+      "title": "Dos de Mayo Uprising in Madrid",
+      "description": "The people of Madrid rose against the occupying French forces of Napoleon Bonaparte, and the revolt was brutally suppressed by Marshal Murat's troops, with reprisals and executions the following day.",
+      "category": "Military",
+      "significance": "The uprising sparked the Peninsular War and the Spanish struggle for independence from French rule, and was immortalized in Goya's paintings The Second of May 1808 and The Third of May 1808."
     },
     {
       "year": 1945,
-      "title": "Soviet Forces Capture Berlin Reichstag",
-      "description": "Soviet troops raised the Red Flag over the Reichstag building in Berlin, symbolizing the defeat of Nazi Germany near the end of World War II.",
-      "category": "World War II",
-      "significance": "The capture of the Reichstag was a key moment leading to the fall of Berlin and the unconditional surrender of Germany days later, effectively ending the war in Europe."
+      "title": "Fall of Berlin",
+      "description": "Berlin garrison commander General Helmuth Weidling surrendered the city to Soviet forces under Marshal Georgy Zhukov, following the Battle of Berlin and days after Adolf Hitler's suicide.",
+      "category": "Military",
+      "significance": "The capture of the German capital effectively ended major fighting in Europe in World War II and led to Germany's unconditional surrender days later."
     },
     {
-      "year": 2016,
-      "title": "Death of Prince",
-      "description": "Prince Rogers Nelson, the iconic American musician, singer, and songwriter known for hits like 'Purple Rain', died unexpectedly at his home in Minnesota.",
-      "category": "Culture/Music",
-      "significance": "Prince's death marked the loss of a highly influential artist whose innovative music and persona left a lasting impact on popular culture and the music industry."
+      "year": 2011,
+      "title": "Death of Osama bin Laden",
+      "description": "Al-Qaeda founder Osama bin Laden was killed in Abbottabad, Pakistan, by U.S. Navy SEALs during a covert raid (it occurred on May 2 local time, late May 1 in the U.S.).",
+      "category": "Military",
+      "significance": "The operation ended a decade-long manhunt for the mastermind of the September 11, 2001 attacks and was a major moment in the war on terror."
     },
     {
-      "year": 1611,
-      "title": "King James Bible Published",
-      "description": "The first edition of the King James Version of the Bible was published in London, commissioned by King James I of England.",
-      "category": "Religion/Literature",
-      "significance": "This translation became one of the most widely read and influential English versions of the Bible, impacting Christianity and English literature for centuries."
+      "year": 1536,
+      "title": "Arrest of Anne Boleyn",
+      "description": "Anne Boleyn, second wife of King Henry VIII of England, was arrested on charges of adultery, incest, and treason and taken to the Tower of London.",
+      "category": "Politics",
+      "significance": "Her arrest led to her execution on May 19, 1536, and was a pivotal episode in the Tudor dynasty, affecting the succession and the course of the English Reformation, as her daughter later became Elizabeth I."
     }
   ]
 }

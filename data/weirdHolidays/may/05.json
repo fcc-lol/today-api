@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "Cinco de Mayo",
-      "description": "A spirited celebration of Mexican heritage, famously marking the Mexican army's unlikely victory over the French at the Battle of Puebla in 1862.",
-      "origin": "Commemorates the Battle of Puebla during the Franco-Mexican War, gaining popularity mainly in the United States as a day to celebrate Mexican culture.",
-      "category": "Cultural/Historical",
-      "emoji": "🇲🇽🎉",
-      "funFact": "Despite its festive reputation, Cinco de Mayo is somewhat minor in Mexico, where the bigger celebration is Mexican Independence Day on September 16."
+      "description": "A celebration of Mexican heritage and culture that in the United States has turned into a giant festival of tacos, margaritas, sombreros, and mariachi music.",
+      "origin": "It commemorates the Mexican army's unlikely victory over French forces at the Battle of Puebla on May 5, 1862. Mexican-Americans in California embraced the date in the 1860s as a show of solidarity with Mexico.",
+      "category": "Cultural Celebration",
+      "emoji": "🌮",
+      "funFact": "Cinco de Mayo is not Mexico's Independence Day (that's September 16), and it is celebrated far more enthusiastically in the U.S. than in most of Mexico, where it is mainly observed in the state of Puebla."
     },
     {
-      "name": "National Astronaut Day",
-      "description": "A day to honor the brave men and women who have ventured beyond Earth's atmosphere and to inspire future space explorers.",
-      "origin": "Established to commemorate the first American in orbit, Alan Shepard’s historic spaceflight on May 5, 1961.",
-      "category": "Awareness/Science",
-      "emoji": "🚀👨‍🚀",
-      "funFact": "Alan Shepard played golf on the moon during a later Apollo mission — talk about taking the sport to new heights!"
+      "name": "Revenge of the Fifth",
+      "description": "A playful Star Wars fan holiday for Sith lords and dark side devotees, the villainous answer to May the Fourth, when fans trade Jedi robes for Imperial capes and heavy breathing.",
+      "origin": "The name riffs on the 2005 film Star Wars: Episode III - Revenge of the Sith (originally pitched as 'Revenge of the Jedi' for the 1983 film). Fans started marking May 5 as the day after Star Wars Day to give the dark side its due.",
+      "category": "Pop Culture",
+      "emoji": "🌌",
+      "funFact": "George Lucas originally titled Return of the Jedi as 'Revenge of the Jedi' and even printed posters and T-shirts before deciding that Jedi wouldn't seek revenge, which is a Sith trait."
     },
     {
       "name": "National Hoagie Day",
-      "description": "A delicious food holiday celebrating the hoagie, the beloved sandwich packed with meats, cheeses, veggies, and all the tasty fixings.",
-      "origin": "Originated in Philadelphia, 'hoagie' is said to come from workers called 'Hog Islanders' who made these sandwiches during World War I.",
-      "category": "Food",
-      "emoji": "🥪",
-      "funFact": "The hoagie was once called a 'hero,' 'sub,' or 'grinder,' depending on which region you’re in — but hoagie lovers stay loyal to the Philly name!"
+      "description": "A day devoted to the mighty submarine sandwich, piled with deli meats, cheese, crisp veggies, and oil and vinegar, all stuffed into a long roll.",
+      "origin": "The hoagie is a Philadelphia specialty. One popular origin story says it came from Italian workers at the Hog Island shipyard during World War I, who were called 'hoggies' and ate big sandwiches for lunch.",
+      "category": "Food Holiday",
+      "emoji": "🥖",
+      "funFact": "In 1992, Philadelphia's Pennsylvania state legislature-adjacent hoagie fans were so serious about the sandwich that the city has long argued over whether it is a hoagie, a sub, a hero, or a grinder depending on where you stand."
     },
     {
-      "name": "Wallpaper Week Begins",
-      "description": "An unusual observance marking the start of Wallpaper Week, a celebration of the quirky, colorful, and decorative wall coverings that have adorned homes for centuries.",
-      "origin": "Created by the trade industry to shine a spotlight on the creative and sometimes eccentric world of wallpaper design.",
-      "category": "Pop Culture/Design",
-      "emoji": "🖼️🎨",
-      "funFact": "The oldest known wallpaper was found in a palace from the Ming dynasty in China, dating back to the 14th century!"
+      "name": "International Midwives' Day",
+      "description": "A worldwide day of appreciation for the midwives who help bring new humans into the world, often with remarkable skill, patience, and very little sleep.",
+      "origin": "The day was first proposed in 1987 at a conference of the International Confederation of Midwives in the Netherlands and has been observed every May 5 since 1992.",
+      "category": "Awareness Day",
+      "emoji": "👶",
+      "funFact": "Midwifery is considered one of the oldest professions in human history, and references to midwives appear in ancient Egyptian texts, including the Ebers Papyrus from around 1550 BCE."
+    },
+    {
+      "name": "Children's Day in Japan (Kodomo no Hi)",
+      "description": "A national holiday in Japan where families fly colorful carp-shaped streamers called koinobori, display samurai helmets, and eat sticky rice cakes wrapped in leaves to wish children health and strength.",
+      "origin": "It began as Tango no Sekku, a seasonal festival with roots in ancient China, and became an official national holiday in Japan in 1948 as part of Golden Week.",
+      "category": "International Holiday",
+      "emoji": "🎏",
+      "funFact": "The carp streamers are used because carp are said to swim bravely upstream and turn into dragons, so each fish stands for a child's hope of overcoming obstacles."
     }
   ]
 }

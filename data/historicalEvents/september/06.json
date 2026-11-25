@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1522,
-      "title": "Return of Magellan's Expedition",
-      "description": "The remaining ship of Ferdinand Magellan's expedition, the Victoria, returned to Spain, completing the first circumnavigation of the Earth.",
+      "title": "Victoria Completes the First Circumnavigation of the Globe",
+      "description": "The Victoria, the sole surviving ship of Ferdinand Magellan's expedition, arrived at Sanlúcar de Barrameda in Spain under the command of Juan Sebastián Elcano, with 18 survivors aboard. The voyage had begun in 1519 with five ships and around 270 men.",
       "category": "Exploration",
-      "significance": "Marked the first successful circumnavigation, proving the world was round and connected by ocean routes."
+      "significance": "This was the first voyage to sail around the world, proving the Earth could be circumnavigated by sea and greatly expanding European understanding of global geography."
     },
     {
       "year": 1901,
-      "title": "Assassination of President William McKinley",
-      "description": "U.S. President William McKinley was shot by anarchist Leon Czolgosz and died several days later.",
+      "title": "President William McKinley Shot in Buffalo",
+      "description": "At the Pan-American Exposition in Buffalo, New York, President William McKinley was shot twice by anarchist Leon Czolgosz while greeting the public. He died of his wounds on September 14, 1901.",
       "category": "Politics",
-      "significance": "Led to the presidency of Theodore Roosevelt and changes in U.S. security and policy."
+      "significance": "McKinley's assassination elevated Theodore Roosevelt to the presidency and led to the Secret Service taking on formal, full-time responsibility for protecting the president."
     },
     {
-      "year": 1972,
-      "title": "Munich Massacre Begins",
-      "description": "Palestinian terrorists took Israeli athletes hostage at the Munich Olympics, leading to a deadly hostage crisis.",
-      "category": "Terrorism",
-      "significance": "One of the deadliest terrorist attacks in Olympic history, impacting future security measures."
+      "year": 1943,
+      "title": "Allied Forces Bomb Targets as Italy Prepares to Surrender; Battle of Smolensk Offensive Continues",
+      "description": "On this date in 1943, the Soviet Red Army pressed on with the Smolensk operation on the Eastern Front, which recaptured Yelnya and moved toward Smolensk, while Allied forces continued operations in the wake of the Italian armistice announced days earlier.",
+      "category": "Military",
+      "significance": "The Soviet advances in late summer 1943 marked a sustained shift in momentum on the Eastern Front, as German forces were pushed steadily westward."
     },
     {
-      "year": 1991,
-      "title": "Collapse of the Soviet Union Begins",
-      "description": "The leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the Soviet Union effectively dissolved.",
-      "category": "Political History",
-      "significance": "Marked the official end of the USSR and the emergence of independent post-Soviet states."
+      "year": 1966,
+      "title": "Assassination of Hendrik Verwoerd",
+      "description": "Hendrik Verwoerd, Prime Minister of South Africa and chief architect of the apartheid system, was stabbed to death in the House of Assembly in Cape Town by parliamentary messenger Dimitri Tsafendas.",
+      "category": "Politics",
+      "significance": "The killing of the leading architect of apartheid was a major shock in South African politics, though the apartheid system continued under his successor, B. J. Vorster, for nearly three more decades."
+    },
+    {
+      "year": 1997,
+      "title": "Funeral of Diana, Princess of Wales",
+      "description": "Diana's funeral was held at Westminster Abbey in London and watched by an estimated 2.5 billion people worldwide, following her death in a car crash in Paris on August 31, 1997. Elton John performed a rewritten version of 'Candle in the Wind'.",
+      "category": "Culture",
+      "significance": "The funeral became one of the most-watched television events in history and prompted a widespread public debate about the monarchy and public mourning in Britain."
     }
   ]
 }

@@ -2,59 +2,62 @@
   "date": "April 13",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Japanese Cherry Blossom is famous for its stunning, delicate pink to white flowers that herald spring in Japan and many temperate parts of the world. This ornamental tree is often planted in parks and gardens and is celebrated during cherry blossom festivals.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, temperate regions worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of delicate, slightly fragrant blossoms that appear before the leaves emerge. It is planted widely in parks, along rivers, and in avenues across temperate regions. In many places the peak bloom is brief, lasting only about a week or two.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions of Europe and North America",
       "colors": [
-        "Pink",
-        "White"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The bloom period of the cherry blossoms in Japan is very short, often just about one week, symbolizing the fleeting nature of life."
+      "funFact": "The Yoshino cherry is the main tree celebrated at hanami festivals in Japan, and the trees gifted by Tokyo to Washington D.C. in 1912 were of this variety."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "Oleander is a hardy evergreen shrub that produces clusters of fragrant flowers in various colors. It thrives in warm climates and is widely used in Mediterranean and subtropical landscaping.",
-      "bloomingSeason": "April to October",
-      "location": "Mediterranean, Southwestern USA, subtropical regions",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Hundreds of cultivars exist, with forms ranging from simple cups to fringed and parrot types. It thrives in cool springs and well-drained soil.",
+      "bloomingSeason": "Early to late spring (April is peak in the Northern Hemisphere)",
+      "location": "Netherlands, Turkey, Central Asia origins, and gardens throughout temperate Northern Hemisphere regions",
       "colors": [
-        "Pink",
-        "White",
         "Red",
-        "Yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, but its beauty and tolerance to dry conditions make it a popular ornamental plant."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "Saucer Magnolia is a popular early spring blooming tree with large, tulip-shaped flowers in shades of white, pink, and purple. It blooms before the leaves fully emerge, creating a spectacular display.",
-      "bloomingSeason": "March to April",
-      "location": "China (native), temperate regions worldwide",
-      "colors": [
+        "Yellow",
         "Pink",
+        "Purple",
         "White",
-        "Purple"
+        "Orange"
       ],
       "emoji": "🌷",
-      "funFact": "Magnolia flowers are some of the oldest flowering plants, dating back over 95 million years to the time of the dinosaurs."
+      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxurious canal house."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Daffodil",
-      "description": "Daffodils are bulbous perennials famous for their bright yellow or white trumpet-shaped flowers, signaling the arrival of spring in many regions of the Northern Hemisphere.",
-      "bloomingSeason": "March to April",
-      "location": "Europe, North America, temperate regions",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "A winter annual wildflower that forms dense carpets of flower spikes across roadsides and prairies. The palmate leaves and pea-like blossoms are topped with a distinctive white tip that turns maroon as the flower ages. It prefers open, sunny, well-drained soils.",
+      "bloomingSeason": "Late March to early May",
+      "location": "Central and southern Texas, USA",
       "colors": [
-        "Yellow",
-        "White"
+        "Deep blue",
+        "Purple",
+        "White tips"
       ],
-      "emoji": "💐",
-      "funFact": "Daffodils contain a toxic alkaloid called lycorine, which deters herbivores from eating them."
+      "emoji": "💙",
+      "funFact": "Texas Bluebonnet is the state flower of Texas, and it is illegal to pick it only in myth; the idea that it's against the law is a popular misconception."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "A bulbous perennial best known for its autumn flowers, but in the Southern Hemisphere it is naturalised in places where it blooms during the local autumn. Its crocus-like blossoms appear without leaves, which is why it is nicknamed 'naked ladies'. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Autumn (blooms in April in parts of the Southern Hemisphere)",
+      "location": "Cultivated in southern Australia, New Zealand, and southern South America; native to Europe",
+      "colors": [
+        "Pink",
+        "Lilac",
+        "Pale purple"
+      ],
+      "emoji": "🌺",
+      "funFact": "Colchicum produces colchicine, a compound used in medicine to treat gout and in plant breeding to double chromosome numbers."
     }
   ]
 }

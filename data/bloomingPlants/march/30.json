@@ -2,56 +2,56 @@
   "date": "March 30",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "Japanese Cherry Blossom is a deciduous tree famous for its beautiful and abundant pink to white flowers that bloom in early spring, marking the arrival of warmer weather.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, temperate regions worldwide (cultivated)",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous flowering cherry covered in clouds of delicate, slightly fragrant blossoms that appear before the leaves emerge. It is the iconic tree of hanami celebrations and is widely planted in parks and along waterways across temperate regions.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate parks worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "In Japan, the blooming of cherry blossoms is celebrated with hanami, a traditional flower-viewing festival."
+      "funFact": "The Yoshino cherry trees around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912, and their peak bloom date is tracked closely each year by the National Park Service."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "The wild daffodil is a perennial herbaceous plant with bright yellow trumpet-shaped flowers that typically bloom in early spring in woodland and meadow habitats.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, temperate woodlands",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers and blue-green strap-like leaves. It grows wild in woodlands and meadows of western Europe and is the ancestor of many garden daffodil cultivars.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe (UK, France, Spain, Belgium) and naturalized in North America",
       "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild daffodils are often among the first spring flowers to bloom, symbolizing rebirth and renewal."
+      "funFact": "All parts of daffodils contain toxic alkaloids such as lycorine, and a compound from them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Ceanothus",
-      "commonName": "California Lilac",
-      "description": "Ceanothus is a genus of shrubs native to North America, known for clusters of small, fragrant blue to purple flowers that bloom in spring, attracting pollinators like bees and butterflies.",
-      "bloomingSeason": "March to May",
-      "location": "California and western North America",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall subtropical tree with fern-like foliage that bursts into masses of lavender-blue trumpet-shaped flowers. In the Southern Hemisphere, a second, lighter flowering sometimes occurs in autumn, while in places like Argentina and parts of Africa early blooms may appear.",
+      "bloomingSeason": "Spring in the tropics and subtropics; sporadic autumn blooms in the Southern Hemisphere; main bloom September to November in the south",
+      "location": "Native to Argentina and Bolivia; cultivated in northern Australia, South Africa, India, and Mexico",
       "colors": [
-        "blue",
-        "purple"
+        "lavender",
+        "violet-blue"
       ],
-      "emoji": "💙",
-      "funFact": "Some species of Ceanothus are nitrogen-fixing, improving soil fertility."
+      "emoji": "💜",
+      "funFact": "In Mexico City and parts of Pretoria, jacaranda trees carpet the streets in purple when they drop their flowers, creating a famous seasonal spectacle."
     },
     {
-      "name": "Erica carnea",
-      "commonName": "Winter Heath",
-      "description": "Winter Heath is a low-growing evergreen shrub producing small, bell-shaped flowers in shades of pink, purple, or white, blooming from late winter through early spring.",
-      "bloomingSeason": "February to April",
-      "location": "Central and Southern Europe",
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A compact deciduous shrub or small tree bearing star-shaped flowers with many narrow, strap-like petals. The fragrant blooms open on bare branches in early spring and can be damaged by late frosts.",
+      "bloomingSeason": "Late March to April",
+      "location": "Native to Japan; widely grown in gardens in the eastern United States, Europe, and temperate Asia",
       "colors": [
-        "pink",
-        "purple",
-        "white"
+        "white",
+        "pale pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Winter Heath blooms early in the year, often flowering under snow cover or just as it melts."
+      "emoji": "🌟",
+      "funFact": "Magnolias are among the most ancient flowering plants, having evolved before bees existed, and their flowers are thought to have been adapted for pollination by beetles."
     }
   ]
 }

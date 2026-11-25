@@ -2,39 +2,39 @@
   "date": "September 29",
   "events": [
     {
+      "year": 1066,
+      "title": "William the Conqueror Lands at Pevensey",
+      "description": "William, Duke of Normandy, landed with his invasion force at Pevensey on the south coast of England, beginning his campaign to claim the English throne. This came just days after Harold Godwinson defeated Norwegian forces at Stamford Bridge.",
+      "category": "Military",
+      "significance": "The landing led to the Battle of Hastings in October 1066 and the Norman conquest of England, which transformed English language, law, nobility, and culture."
+    },
+    {
       "year": 1789,
-      "title": "Congress passes the Judiciary Act of 1789",
-      "description": "The United States Congress passes the Judiciary Act, establishing the federal judiciary and the Supreme Court.",
-      "category": "Political",
-      "significance": "This act laid the foundation for the U.S. federal court system and established the Supreme Court as the highest court in the country."
+      "title": "U.S. Army Established by Congress",
+      "description": "The First United States Congress passed an act creating a regular army of about 700 men, continuing the force that had been maintained under the Articles of Confederation.",
+      "category": "Politics",
+      "significance": "It marked the formal establishment of a permanent national military force under the new Constitution, forming the foundation of the modern U.S. Army."
     },
     {
       "year": 1829,
-      "title": "First modern police force established in London",
-      "description": "The Metropolitan Police Service is founded by then-Home Secretary Sir Robert Peel.",
-      "category": "Social",
-      "significance": "This marked the creation of the first modern and organized police force, which influenced policing systems worldwide."
+      "title": "Metropolitan Police Founded in London",
+      "description": "Home Secretary Robert Peel's Metropolitan Police Force, whose officers became known as 'Bobbies' or 'Peelers', began operating in London, with officers first appearing on the streets.",
+      "category": "Law and Society",
+      "significance": "It is regarded as the model for modern civilian policing, emphasizing crime prevention and public consent, and influenced police forces worldwide."
     },
     {
-      "year": 1941,
-      "title": "The Babi Yar massacre begins",
-      "description": "Nazi forces start the mass execution of over 33,000 Jews in Babi Yar ravine near Kiev during World War II.",
-      "category": "Military/War",
-      "significance": "One of the largest single massacres of Jews during the Holocaust, showcasing the brutality of Nazi genocidal policies."
+      "year": 1902,
+      "title": "Death of Émile Zola",
+      "description": "The French novelist and journalist Émile Zola died in Paris from carbon monoxide poisoning caused by a blocked chimney. He was the leading figure of the naturalist literary movement and author of the Rougon-Macquart novel cycle.",
+      "category": "Arts and Literature",
+      "significance": "Zola's open letter 'J'Accuse...!' defended Alfred Dreyfus and became a landmark in the fight against injustice and antisemitism, shaping the role of public intellectuals."
     },
     {
-      "year": 1954,
-      "title": "CERN established",
-      "description": "The European Organization for Nuclear Research (CERN) is founded to promote nuclear research and collaboration among European countries.",
-      "category": "Science",
-      "significance": "CERN became a leading center in particle physics research, contributing to significant scientific discoveries such as the discovery of the Higgs boson."
-    },
-    {
-      "year": 1998,
-      "title": "Google is incorporated",
-      "description": "Larry Page and Sergey Brin officially incorporate the company Google, which would revolutionize internet search and technology.",
-      "category": "Technology/Business",
-      "significance": "Google's creation transformed information accessibility and has had a vast impact on global technology and communication."
+      "year": 1990,
+      "title": "Aleksandr Solzhenitsyn Citizenship Restored",
+      "description": "The Soviet government under Mikhail Gorbachev moved toward restoring citizenship to exiled writer Aleksandr Solzhenitsyn, and his work The Gulag Archipelago was soon to be published in the USSR as Soviet censorship collapsed.",
+      "category": "Politics",
+      "significance": "It symbolized the thaw of Soviet repression and the reckoning with the Stalinist past in the final years of the Soviet Union."
     }
   ]
 }

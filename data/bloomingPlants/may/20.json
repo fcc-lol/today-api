@@ -2,62 +2,62 @@
   "date": "May 20",
   "plants": [
     {
-      "name": "Rhododendron spp.",
-      "commonName": "Rhododendron",
-      "description": "Rhododendrons are woody shrubs known for their large clusters of showy flowers and glossy evergreen leaves. They thrive in temperate zones and are popular in gardens and wild mountain forests.",
-      "bloomingSeason": "April to June",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with glossy, deeply lobed leaves. A cornerstone of cottage gardens and cut flower production.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
         "pink",
-        "purple",
+        "white",
         "red",
+        "coral"
+      ],
+      "emoji": "🌸",
+      "funFact": "Peonies can live and bloom for over 50 years in the same spot, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
+    },
+    {
+      "name": "Iris germanica",
+      "commonName": "Bearded Iris",
+      "description": "A rhizomatous perennial with sword-shaped gray-green leaves and showy flowers with three upright standards and three drooping falls, the latter bearing a fuzzy 'beard'.",
+      "bloomingSeason": "Late spring (May in temperate Northern Hemisphere regions)",
+      "location": "Hybrid of Mediterranean origin; cultivated throughout temperate regions worldwide",
+      "colors": [
+        "purple",
+        "blue",
+        "yellow",
+        "white",
+        "bronze"
+      ],
+      "emoji": "🪻",
+      "funFact": "The iris is named after the Greek goddess of the rainbow, and the dried rhizomes of related species, called orris root, are used in perfumery."
+    },
+    {
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching, thorny deciduous shrub of hedgerows and woodland edges, bearing delicate five-petaled flowers followed by bright red rose hips in autumn.",
+      "bloomingSeason": "Late May through July in Europe",
+      "location": "Native to Europe, northwest Africa, and western Asia; naturalized in North America, Australia, and New Zealand",
+      "colors": [
+        "pale pink",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The name 'Rhododendron' means 'rose tree' in Greek, reflecting the rose-like appearance of its flowers."
+      "emoji": "🌹",
+      "funFact": "Rose hips from the dog rose are extremely rich in vitamin C, and during World War II British children collected them to make a vitamin-rich syrup."
     },
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "A tropical to subtropical tree famous for its stunning, vibrant violet-blue trumpet-shaped flowers that form panicles covering the tree, creating a spectacular floral display.",
-      "bloomingSeason": "Late spring to early summer",
-      "location": "Native to South America, widely planted in Australia, South Africa, and southern USA",
+      "commonName": "Jacaranda",
+      "description": "A graceful tropical to subtropical tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they fall.",
+      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; planted in Mexico, Southern California, Florida, Africa, and Australia",
       "colors": [
-        "blue",
-        "purple"
-      ],
-      "emoji": "💜",
-      "funFact": "The Jacaranda tree can live up to 50 years and is a symbol of spring in many cities like Pretoria, South Africa, known as the 'Jacaranda City'."
-    },
-    {
-      "name": "Lupinus spp.",
-      "commonName": "Lupine",
-      "description": "Lupines are herbaceous plants or shrubs bearing tall, spike-like clusters of pea-shaped flowers. They fix nitrogen in the soil, improving fertility and are favorite wildflowers in many regions.",
-      "bloomingSeason": "Spring to early summer",
-      "location": "North and South America, Mediterranean",
-      "colors": [
-        "blue",
+        "lavender",
         "purple",
-        "pink",
-        "white",
-        "yellow"
+        "blue"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines have specialized root nodules that host nitrogen-fixing bacteria, making them important in ecological restoration."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "This hybrid magnolia tree produces large, fragrant, tulip-shaped flowers early in spring, often still blooming around late May in cooler climates.",
-      "bloomingSeason": "March to May",
-      "location": "Cultivated widely in temperate gardens worldwide",
-      "colors": [
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "Magnolias evolved before bees existed and are pollinated primarily by beetles, some of the Earth's oldest pollinators."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, so many jacarandas have been planted that it is nicknamed the 'Jacaranda City', and in Mexico City the late spring bloom turns streets purple."
     }
   ]
 }

@@ -2,59 +2,60 @@
   "date": "October 6",
   "plants": [
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Chrysanthemum",
-      "description": "Chrysanthemums are hardy perennials often called 'mums,' popular in gardens and floral arrangements. They have bushy, flowering stems and come in many vibrant colors, symbolizing autumn in many cultures.",
-      "bloomingSeason": "September to November",
-      "location": "Temperate regions worldwide (Asia, Europe, North America)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up pale lilac-pink, goblet-shaped flowers in autumn without any leaves present. The strap-like foliage appears the following spring and dies back by summer, giving rise to its nickname 'naked ladies'.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Meadows and woodland edges across Europe; widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "yellow",
-        "orange",
-        "red",
-        "white",
-        "purple"
+        "Pale lilac",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust perennial wildflower with clusters of daisy-like blooms featuring yellow centers and numerous narrow petals. It is a vital late-season nectar source for pollinators preparing for winter or migration.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Prairies, meadows and roadsides of eastern and central North America",
+      "colors": [
+        "Purple",
+        "Violet",
+        "Pink",
+        "Magenta"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely heavily on New England asters for fuel during their long autumn migration to Mexico."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular deciduous to semi-evergreen tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. Streets and parks are carpeted in fallen blossoms during peak bloom.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Native to South America; famously planted in Pretoria and Johannesburg (South Africa), Sydney and Brisbane (Australia), and Buenos Aires (Argentina)",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, nicknamed the 'Jacaranda City', the October bloom is so iconic that it has inspired local festivals, and tradition says a blossom falling on your head brings good luck."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing tiny, clustered flowers with an intensely sweet scent reminiscent of apricots and peaches. It is a beloved ornamental across East Asia and in warm temperate gardens elsewhere.",
+      "bloomingSeason": "Autumn (late September to October)",
+      "location": "Native to China and Japan; cultivated in East Asia, southeastern United States and Mediterranean regions",
+      "colors": [
+        "Creamy white",
+        "Pale yellow",
+        "Orange"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums were first cultivated in China over 3,000 years ago and are considered a symbol of longevity and rejuvenation."
-    },
-    {
-      "name": "Rhododendron arboreum",
-      "commonName": "Tree Rhododendron",
-      "description": "An evergreen shrub or small tree known for its spectacular clusters of bright flowers. It thrives in mountainous regions and is the national flower of Nepal.",
-      "bloomingSeason": "September to October",
-      "location": "Himalayan regions, Nepal, India, Bhutan",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "The tree rhododendron can grow up to 20 meters tall and is an important nectar source for honey bees in its native habitat."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern Australia, valued for both its ornamental orange flowers and timber.",
-      "bloomingSeason": "September to November",
-      "location": "Subtropical to tropical regions, Australia and cultivated worldwide",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Despite its common name, Silky Oak is not an oak; its name comes from the silky texture of the wood and oak-like leaves."
-    },
-    {
-      "name": "Clerodendrum paniculatum",
-      "commonName": "Pagoda Flower",
-      "description": "Tropical shrub with large, showy clusters shaped like a pagoda, attracting butterflies and hummingbirds.",
-      "bloomingSeason": "Late summer to October",
-      "location": "Southeast Asia, tropical gardens",
-      "colors": [
-        "bright orange",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The pagoda flower is often planted in temple gardens across Southeast Asia due to its striking architectural flower arrangement."
+      "funFact": "In China, the flowers are used to flavor teas, wines, jams and cakes, and the city of Guilin is named for its osmanthus trees, with the Mid-Autumn Festival traditionally celebrating its bloom."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "November 15",
   "events": [
     {
-      "year": 1889,
-      "title": "Brazil Becomes a Republic",
-      "description": "The Empire of Brazil was officially abolished and the country was declared a republic, marking the end of the monarchy under Emperor Pedro II.",
-      "category": "Political",
-      "significance": "This event transformed Brazil's political landscape, initiating the Brazilian Republic era and influencing its modern governance."
+      "year": 1315,
+      "title": "Battle of Morgarten",
+      "description": "Swiss Confederates ambushed and defeated a larger Habsburg army led by Duke Leopold I at the Morgarten pass, using the terrain to their advantage against heavily armored knights.",
+      "category": "Military",
+      "significance": "The victory strengthened the early Swiss Confederacy and is regarded as a foundational moment in Swiss independence and the reputation of Swiss infantry."
     },
     {
-      "year": 1920,
-      "title": "League of Nations Holds Its First Assembly",
-      "description": "The League of Nations convened its inaugural assembly in Geneva, Switzerland, aiming to promote peace and cooperation following World War I.",
-      "category": "International Relations",
-      "significance": "The League represented the first major international effort to maintain global peace and prevent future conflicts."
+      "year": 1777,
+      "title": "Articles of Confederation Adopted by the Continental Congress",
+      "description": "The Second Continental Congress approved the Articles of Confederation and sent them to the states for ratification, establishing a framework for a loose union of the thirteen states.",
+      "category": "Politics",
+      "significance": "The Articles served as the first constitution of the United States, and their weaknesses led to the drafting of the U.S. Constitution in 1787."
+    },
+    {
+      "year": 1889,
+      "title": "Brazil Becomes a Republic",
+      "description": "A military coup led by Marshal Deodoro da Fonseca deposed Emperor Pedro II and proclaimed the Republic of the United States of Brazil, ending the Brazilian Empire.",
+      "category": "Politics",
+      "significance": "The event ended nearly 67 years of monarchy in Brazil and began the country's republican era."
+    },
+    {
+      "year": 1945,
+      "title": "Manhattan Project Scientists' Declaration and Trinity Aftermath: Truman, Attlee and King Issue Atomic Declaration",
+      "description": "On November 15, 1945, U.S. President Harry Truman, British Prime Minister Clement Attlee and Canadian Prime Minister Mackenzie King issued a joint declaration on atomic energy, calling for international control and proposing a UN commission to address the dangers of nuclear weapons.",
+      "category": "Diplomacy",
+      "significance": "The declaration was an early effort at nuclear arms control and led to the creation of the UN Atomic Energy Commission in 1946."
     },
     {
       "year": 1971,
-      "title": "UN Passes Resolution on Palestine",
-      "description": "The United Nations General Assembly recognized the rights of the Palestinian people and granted observer status to the Palestine Liberation Organization (PLO).",
-      "category": "International Politics",
-      "significance": "This resolution marked a significant step in international recognition of Palestinian representation and rights."
-    },
-    {
-      "year": 1926,
-      "title": "First Macy's Thanksgiving Day Parade",
-      "description": "The inaugural Macy's Thanksgiving Day Parade was held in New York City, becoming an annual tradition with large floats, balloons, and performances.",
-      "category": "Cultural",
-      "significance": "The parade became an iconic American cultural event, symbolizing the start of the holiday season."
+      "title": "Intel Releases the 4004 Microprocessor",
+      "description": "Intel publicly introduced the 4004, the first commercially available single-chip microprocessor, designed by Federico Faggin, Ted Hoff, Stanley Mazor, and Masatoshi Shima.",
+      "category": "Science and Technology",
+      "significance": "The 4004 launched the microprocessor era, paving the way for personal computers and the modern digital revolution."
     }
   ]
 }

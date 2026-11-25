@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Museum Day",
-      "description": "A day to raise awareness about museums and their role in cultural exchange, enrichment of cultures, and development of mutual understanding.",
-      "origin": "Established by the International Council of Museums (ICOM) in 1977 to promote the importance of museums worldwide.",
-      "category": "Awareness/Education",
-      "emoji": "🖼️",
-      "funFact": "Each year International Museum Day has a different theme, encouraging museums globally to create unique events and exhibits!"
+      "description": "A day when museums around the globe celebrate their role in society, often with free admission, midnight openings, and quirky special exhibits. It's the perfect excuse to wander among dinosaur bones, ancient pottery, and suspiciously quiet security guards.",
+      "origin": "Established in 1977 by the International Council of Museums (ICOM), with each year featuring a different theme.",
+      "category": "Cultural Observance",
+      "emoji": "🏛️",
+      "funFact": "Many museums take part in 'Museum Night' events around this date, where people can explore exhibits after dark, which is basically a real-life version of Night at the Museum."
     },
     {
       "name": "No Dirty Dishes Day",
-      "description": "A fun, lighthearted day that encourages everyone to tackle that growing pile of dishes and celebrate the satisfaction of a clean kitchen.",
-      "origin": "An informal observance created by cleaning enthusiasts and social media to motivate people to stay on top of household chores.",
-      "category": "Household/Fun",
+      "description": "A glorious unofficial holiday dedicated to avoiding the sink full of dirty dishes. Celebrate by using paper plates, ordering takeout, or eating directly from the pot like a delightful raccoon.",
+      "origin": "An unofficial, fun-loving observance popularized through lists of quirky food and household holidays. Nobody knows who first declared it, but sink-haters everywhere approve.",
+      "category": "Household Fun",
       "emoji": "🍽️",
-      "funFact": "No Dirty Dishes Day is often celebrated by challenging friends and family to see who can clean their dishes the fastest!"
+      "funFact": "The dishwasher was invented by Josephine Cochrane in 1886, reportedly because she was fed up with her servants chipping her fine china."
     },
     {
-      "name": "National Bike to Work Day (USA)",
-      "description": "A day urging commuters to pedal their way to work to promote fitness, reduce pollution, and enjoy a change of pace.",
-      "origin": "Part of National Bike Month in the United States, started in 1956 by the League of American Bicyclists.",
-      "category": "Health/Environment",
-      "emoji": "🚴",
-      "funFact": "Cities often organize group rides and offer free bike tune-ups on this day to encourage participation."
+      "name": "International Pickle Day",
+      "description": "A tangy tribute to everything brined, fermented, and crunchy. Pickle fans snack on dills, gherkins, and even pickle-flavored treats like ice cream and candy.",
+      "origin": "An informal food celebration created by pickle enthusiasts and food calendar compilers who believe cucumbers deserve a spa day in vinegar.",
+      "category": "Food Holiday",
+      "emoji": "🥒",
+      "funFact": "Cleopatra is said to have credited pickles for her beauty, and Americans eat billions of pickles every year."
     },
     {
-      "name": "Vesak (sometimes falls on May 18)",
-      "description": "A major Buddhist festival celebrating the birth, enlightenment, and death of Buddha, marked with colorful processions and lanterns.",
-      "origin": "An ancient tradition honoring Gautama Buddha, celebrated differently across Buddhist countries according to the lunar calendar.",
-      "category": "Religious/Cultural",
-      "emoji": "🕯️",
-      "funFact": "Millions of Buddhists worldwide release lanterns into the sky on Vesak, creating luminous night spectacles."
+      "name": "Visit Your Relatives Day",
+      "description": "A day devoted to dropping in on aunts, uncles, cousins, and that one relative who always asks about your love life. Bring snacks as a peace offering.",
+      "origin": "An unofficial observance that encourages family bonding, listed among popular quirky holiday calendars as a reminder to reconnect with relatives you only see at weddings and funerals.",
+      "category": "Family Fun",
+      "emoji": "👨‍👩‍👧‍👦",
+      "funFact": "Studies on family connection suggest that regular contact with extended relatives is linked to better emotional well-being, so grandma's questionable casserole is actually good for you."
+    },
+    {
+      "name": "Endangered Species Day (Third Friday in May Observance Window)",
+      "description": "A day for celebrating and learning about threatened plants and animals, from pandas to obscure beetles that deserve a fan club. Events often include wildlife walks, habitat cleanups, and adorable photo contests.",
+      "origin": "Created by the U.S. Senate in 2006 to encourage people to protect endangered species and their habitats. It falls on the third Friday in May, so it sometimes lands near May 18.",
+      "category": "Awareness Day",
+      "emoji": "🐼",
+      "funFact": "The Endangered Species Act of 1973 has helped prevent the extinction of an estimated 99 percent of the species it protects, including the bald eagle."
     }
   ]
 }

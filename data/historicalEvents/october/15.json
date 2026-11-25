@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1582,
-      "title": "Implementation of the Gregorian Calendar",
-      "description": "In countries adopting the Gregorian calendar, October 15 followed October 4 directly to correct calendar drift.",
-      "category": "Calendar Reform",
-      "significance": "This reform standardized the calendar used by much of the world and corrected inaccuracies in the Julian calendar affecting date accuracy."
+      "title": "Gregorian Calendar Takes Effect Following Skipped Dates",
+      "description": "In Catholic countries such as Italy, Spain, Portugal, and Poland-Lithuania, October 15, 1582 was the first day of the Gregorian calendar, following Thursday, October 4 of the Julian calendar. Ten days were skipped to correct drift in the calendar's alignment with the solar year, as decreed by Pope Gregory XIII.",
+      "category": "Science and Culture",
+      "significance": "The Gregorian calendar became the most widely used civil calendar in the world, standardizing timekeeping and the calculation of dates, including Easter."
     },
     {
-      "year": 1928,
-      "title": "Discovery of Penicillin",
-      "description": "Alexander Fleming discovered the antibiotic substance penicillin, the first true antibiotic, which would revolutionize medicine.",
-      "category": "Scientific Discovery",
-      "significance": "Penicillin's discovery marked the beginning of modern antibiotics, significantly reducing deaths from bacterial infections."
+      "year": 1815,
+      "title": "Napoleon Arrives on Saint Helena",
+      "description": "Following his defeat at Waterloo, Napoleon Bonaparte arrived on the remote South Atlantic island of Saint Helena aboard HMS Northumberland to begin his final exile under British guard.",
+      "category": "Politics and Military",
+      "significance": "His exile ended the Napoleonic era in Europe; he remained on the island until his death in 1821, and the Congress of Vienna order was secured."
     },
     {
-      "year": 1966,
-      "title": "Launch of the USSR's Luna 12",
-      "description": "The Soviet Union launched Luna 12, an unmanned spacecraft that orbited the Moon and sent back high-resolution photographs.",
-      "category": "Space Exploration",
-      "significance": "Luna 12 contributed valuable lunar reconnaissance data during the early space race between the US and USSR."
+      "year": 1844,
+      "title": "Birth of Friedrich Nietzsche",
+      "description": "Friedrich Nietzsche, the German philosopher, cultural critic, and philologist, was born in Röcken, in the Prussian Province of Saxony.",
+      "category": "Births",
+      "significance": "Nietzsche's works, including Thus Spoke Zarathustra and Beyond Good and Evil, profoundly influenced existentialism, postmodernism, and modern Western thought."
     },
     {
-      "year": 1987,
-      "title": "Black Monday Stock Market Crash",
-      "description": "Stock markets around the world crashed, with the Dow Jones Industrial Average falling over 22% in a single day.",
-      "category": "Economic Event",
-      "significance": "This was one of the largest single-day percentage declines in stock market history, leading to significant economic reforms."
+      "year": 1917,
+      "title": "Execution of Mata Hari",
+      "description": "Margaretha Zelle, the Dutch exotic dancer known as Mata Hari, was executed by a French firing squad at Vincennes after being convicted of espionage for Germany during World War I.",
+      "category": "War and Espionage",
+      "significance": "Her case became one of history's most famous spy stories, though historians have since questioned the strength of the evidence against her."
+    },
+    {
+      "year": 1969,
+      "title": "Vietnam Moratorium Protests",
+      "description": "Millions of Americans took part in demonstrations, rallies, and vigils across the United States as part of the Moratorium to End the War in Vietnam, one of the largest anti-war protests in American history.",
+      "category": "Social Movements",
+      "significance": "The Moratorium demonstrated the breadth of public opposition to the Vietnam War and put pressure on the Nixon administration's war policy."
     }
   ]
 }

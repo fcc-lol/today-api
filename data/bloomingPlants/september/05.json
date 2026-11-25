@@ -4,57 +4,54 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall, annual plant known for its large, bright yellow flower heads that follow the sun's movement throughout the day. Widely cultivated and also found growing wild in fields.",
-      "bloomingSeason": "July to September",
-      "location": "North America, cultivated worldwide",
+      "description": "A tall annual with large golden-yellow flower heads that track the sun when young. Widely cultivated for seeds, oil, and ornamental use, and also found growing wild in prairies and roadsides.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated worldwide in temperate regions including the United States, Ukraine, Russia, and Argentina",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism when young, turning their flower heads to face the sun during the day."
+      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial commonly found in meadows and gardens with daisy-like flowers featuring vibrant golden-yellow petals and dark brown central cones.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower forming dense plumes of tiny golden flowers atop tall stems. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators preparing for autumn.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to meadows, fields, and roadsides of eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "yellow",
-        "brown"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Black-eyed Susans are popular with butterflies and birds, which feed on their nectar and seeds."
+      "funFact": "Goldenrod is often wrongly blamed for hay fever, but its pollen is heavy and sticky and spread by insects; ragweed blooming at the same time is the real culprit."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A striking flowering tree or shrub with bright red, spiny flowers that resemble a rooster's comb, blooming profusely in late summer and early fall.",
-      "bloomingSeason": "August to October",
-      "location": "South America, especially Argentina and Uruguay",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like pink-lilac blooms in early autumn with no leaves present. The strap-like foliage appears the following spring and dies back by early summer.",
+      "bloomingSeason": "Late summer to autumn (late August to October)",
+      "location": "Meadows and woodland edges of Europe, from the British Isles to central and southern Europe; grown in gardens in temperate zones worldwide",
       "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "This tree is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Dahlias (genus Dahlia)",
-      "commonName": "Dahlia",
-      "description": "Tubers producing a variety of flower shapes and vivid colors, popular in gardens worldwide. Blooms peak late summer through fall.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico and Central America, widely cultivated globally",
-      "colors": [
-        "red",
-        "pink",
-        "purple",
-        "white",
-        "yellow",
-        "orange"
+        "pale pink",
+        "lilac",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "Dahlias are the national flower of Mexico and come in over 42 species and thousands of cultivars."
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is used medicinally to treat gout and in plant breeding to double chromosome numbers."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, a small evergreen tree covered in fluffy, fragrant golden pom-pom flowers. In the Southern Hemisphere, early September is the start of the wattle blooming peak as winter ends.",
+      "bloomingSeason": "Late winter to spring (July to October in the Southern Hemisphere)",
+      "location": "Southeastern Australia, including Victoria, South Australia, New South Wales, and the Australian Capital Territory",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Australia celebrates National Wattle Day on September 1, marking the start of spring, and the golden and green colors of Australia's sporting teams were inspired by wattle."
     }
   ]
 }

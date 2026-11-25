@@ -2,25 +2,39 @@
   "date": "December 23",
   "events": [
     {
-      "year": 1783,
-      "title": "George Washington's Farewell to the Continental Army",
-      "description": "General George Washington gave his farewell address to the Continental Army at Rocky Hill, New Jersey, marking the end of his command in the Revolutionary War.",
-      "category": "Military/Political",
-      "significance": "This event symbolized the voluntary relinquishment of power, reinforcing the principles of civilian control and setting a precedent for presidential conduct."
-    },
-    {
       "year": 1913,
-      "title": "Ford Motor Company Introduces the Moving Assembly Line",
-      "description": "Henry Ford unveiled the first moving assembly line for the mass production of automobiles, revolutionizing manufacturing processes.",
-      "category": "Technology/Industry",
-      "significance": "This innovation drastically lowered production costs and made automobiles affordable to the masses, transforming transportation and industry."
+      "title": "Federal Reserve Act Signed into Law",
+      "description": "President Woodrow Wilson signed the Federal Reserve Act, creating the Federal Reserve System as the central banking system of the United States. The act established a network of regional reserve banks overseen by a Federal Reserve Board.",
+      "category": "Politics and Economics",
+      "significance": "It created a central bank to provide a more stable and flexible monetary and financial system, shaping U.S. economic policy and influencing global finance for more than a century."
     },
     {
-      "year": 1954,
-      "title": "Closure of the Geneva Conference",
-      "description": "The Geneva Conference concluded, leading to agreements on the ceasefire in Indochina and the temporary division of Vietnam at the 17th parallel.",
-      "category": "Diplomatic/Political",
-      "significance": "These agreements significantly shaped the geopolitical landscape of Southeast Asia and set the stage for the Vietnam War."
+      "year": 1823,
+      "title": "Publication of 'A Visit from St. Nicholas'",
+      "description": "The poem 'A Visit from St. Nicholas,' better known as 'The Night Before Christmas,' was published anonymously in the Troy Sentinel newspaper in New York. It was later attributed to Clement Clarke Moore.",
+      "category": "Culture and Literature",
+      "significance": "The poem helped define the modern image of Santa Claus, including the reindeer, sleigh, and chimney, and shaped Christmas traditions in America and beyond."
+    },
+    {
+      "year": 1947,
+      "title": "Invention of the Transistor Demonstrated",
+      "description": "Physicists John Bardeen and Walter Brattain, working with William Shockley at Bell Laboratories, demonstrated the first working point-contact transistor to colleagues.",
+      "category": "Science and Technology",
+      "significance": "The transistor replaced vacuum tubes and became the foundation of modern electronics and computing, earning the trio the 1956 Nobel Prize in Physics."
+    },
+    {
+      "year": 1972,
+      "title": "Survivors of the Andes Flight Disaster Rescued",
+      "description": "The last 16 survivors of Uruguayan Air Force Flight 571, which crashed in the Andes in October 1972, were rescued by helicopter after 72 days in extreme conditions. Two of the survivors had trekked for days to find help.",
+      "category": "Disaster and Survival",
+      "significance": "The ordeal became one of the most famous survival stories in history, drawing worldwide attention and inspiring books and films."
+    },
+    {
+      "year": 1805,
+      "title": "Birth of Joseph Smith",
+      "description": "Joseph Smith, founder of the Latter Day Saint movement and the Church of Jesus Christ of Latter-day Saints, was born in Sharon, Vermont.",
+      "category": "Religion and Births",
+      "significance": "Smith founded a major American religious movement that grew into a global faith with millions of adherents and a significant influence on the history of the American West."
     }
   ]
 }

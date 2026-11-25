@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "International Joke Day",
-      "description": "A day dedicated to sharing laughter and telling your best jokes to friends, family, and coworkers. It's an opportunity to brighten someone's day with humor and wit.",
-      "origin": "While the exact origin is unclear, International Joke Day has been celebrated informally online and among humor enthusiasts to encourage joy and lightheartedness worldwide.",
-      "category": "Humor & Fun",
-      "emoji": "😂",
-      "funFact": "The best jokes on International Joke Day often come from unexpected places—like dad jokes! Perfect day to break out your punniest lines."
-    },
-    {
-      "name": "World UFO Day",
-      "description": "Celebrates the existence and sightings of Unidentified Flying Objects. Fans of extraterrestrial life gather to share stories, watch sci-fi movies, and keep an eye on the skies.",
-      "origin": "Created by enthusiasts to raise awareness about UFOs and promote research into alien life, this day encourages open-mindedness about the universe's mysteries.",
-      "category": "Pop Culture & Science",
-      "emoji": "🛸",
-      "funFact": "July 1 was chosen because some believe an alleged UFO incident happened on this day in 1947 at Roswell, New Mexico."
-    },
-    {
-      "name": "Creative Ice Cream Flavors Day",
-      "description": "A delicious celebration that encourages ice cream lovers and makers to invent and enjoy the weirdest, wildest, and most creative ice cream flavors imaginable.",
-      "origin": "This unofficial food holiday arose from the ice cream industry's love of innovation and consumers' desire for unique tastes and experiences.",
-      "category": "Food & Culinary",
-      "emoji": "🍦",
-      "funFact": "Some creative ice cream flavors include bacon, wasabi, and even garlic — dare to try one today?"
+      "description": "A day dedicated to telling jokes, puns, and groan-worthy one-liners to anyone within earshot. Dad jokers everywhere are encouraged to run wild, and the worse the pun, the better.",
+      "origin": "Established by humorist Wayne Reinagel, founder of the Humor Institute, to encourage people to lighten up and share laughter at the start of summer.",
+      "category": "Pop Culture / Humor",
+      "emoji": "🤣",
+      "funFact": "The oldest known joke is a Sumerian proverb about flatulence, dating back to around 1900 BCE, proving that potty humor has always been a classic."
     },
     {
       "name": "Canada Day",
-      "description": "Canada’s national day commemorating the confederation of the country on July 1, 1867. Festivities include fireworks, parades, and maple-flavored treats!",
-      "origin": "Marks the joining of three colonies into one nation called Canada, celebrating unity and cultural heritage.",
-      "category": "National Holiday",
-      "emoji": "🍁",
-      "funFact": "Canada Day celebrations are so big that they often include canoe races, traditional music, and even the ‘largest pancake breakfast’ events."
+      "description": "Canada's national holiday, packed with fireworks, parades, red-and-white outfits, and plenty of poutine. It is a day when Canadians celebrate the country with maple-flavored enthusiasm and backyard barbecues.",
+      "origin": "Originally called Dominion Day, it commemorates the 1867 enactment of the Constitution Act, which united Canada's colonies into a single federation. It was renamed Canada Day in 1982.",
+      "category": "Official National Holiday",
+      "emoji": "🇨🇦",
+      "funFact": "July 1 is also known as 'Moving Day' in Quebec, when most residential leases end and thousands of people relocate all at once, leaving streets full of couches and boxes."
+    },
+    {
+      "name": "Ice Cream Sandwich Day",
+      "description": "A day to enjoy the perfect marriage of creamy frozen ice cream pressed between two soft cookies or wafers. It is an unofficial excuse to eat dessert in the summer heat.",
+      "origin": "This unofficial food holiday grew out of the popularity of the frozen treat, which is said to have been sold by pushcart vendors in New York City in the late 1800s.",
+      "category": "Food Holiday",
+      "emoji": "🍦",
+      "funFact": "In Singapore, street vendors sell ice cream served between slices of plain bread, a tradition that is still going strong today."
+    },
+    {
+      "name": "National Gingersnap Day",
+      "description": "A day to celebrate the spicy, crunchy cookie that has been dunked in coffee and milk for centuries. Bakers and cookie lovers alike enjoy a snap of ginger zing.",
+      "origin": "This is an unofficial food observance celebrating the traditional ginger-flavored cookie, which descends from medieval European gingerbread recipes.",
+      "category": "Food Holiday",
+      "emoji": "🍪",
+      "funFact": "Queen Elizabeth I is credited with popularizing gingerbread by having it shaped into likenesses of visiting dignitaries."
+    },
+    {
+      "name": "Zip Code Day",
+      "description": "A day to appreciate those five little digits that help your mail find its way. It honors the humble postal code and the system that sorts billions of letters.",
+      "origin": "The United States Post Office Department introduced ZIP codes on July 1, 1963, to speed up mail sorting and delivery.",
+      "category": "Historical / Pop Culture",
+      "emoji": "📮",
+      "funFact": "ZIP stands for Zone Improvement Plan, and the mascot of the program was a cartoon character named Mr. ZIP who appeared on stamps and mailings."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "May 29",
   "holidays": [
     {
-      "name": "Put A Pillow On Your Fridge Day",
-      "description": "A quirky day encouraging people to place a pillow on their fridge for good luck and good dreams, believed to bring peace to your household.",
-      "origin": "This odd tradition likely stems from old superstitions mixing domestic comfort with dream symbolism.",
-      "category": "Quirky Tradition",
-      "emoji": "🛏️🧊",
-      "funFact": "Some people actually leave pillows on their fridges for weeks, claiming it helps them sleep better!"
+      "name": "Put a Pillow on Your Fridge Day",
+      "description": "A cheeky observance that asks you to set a pillow on top of your refrigerator, mostly so you can enjoy the absurdity of it. Nobody can quite explain what the pillow is for, and that is the whole point.",
+      "origin": "This is an unofficial, internet-era novelty day with no clear founder. It spread through quirky holiday calendars and social media lists.",
+      "category": "Pop Culture / Silly Observance",
+      "emoji": "🛏️",
+      "funFact": "Many novelty-day calendars list it, but no one has ever produced a credible reason for the pillow, which makes it one of the most delightfully pointless holidays around."
+    },
+    {
+      "name": "National Biscuit Day",
+      "description": "A day to celebrate fluffy, buttery American-style biscuits, whether you slather them in gravy, honey, jam, or fried chicken.",
+      "origin": "It is an unofficial food holiday popular in the United States, especially in the South where biscuits are a cultural staple.",
+      "category": "Food Holiday",
+      "emoji": "🥐",
+      "funFact": "The word biscuit comes from the Latin 'bis coctus', meaning 'twice baked', yet a real American biscuit is baked only once."
     },
     {
       "name": "Learn About Composting Day",
-      "description": "Dedicated to educating people about the benefits and methods of composting to reduce waste and create rich soil.",
-      "origin": "Started by environmental groups aiming to promote sustainable waste management and gardening.",
-      "category": "Environmental Awareness",
-      "emoji": "♻️🌱",
-      "funFact": "Composting can reduce household waste by up to 30% and reduce methane emissions from landfills."
+      "description": "A day for turning banana peels and eggshells into garden gold. It encourages people to explore the stinky but rewarding science of compost.",
+      "origin": "An unofficial awareness day tied to environmental and gardening communities, it fits neatly into late spring when many people start their gardens.",
+      "category": "Awareness Day",
+      "emoji": "🌱",
+      "funFact": "A healthy compost pile can heat up to 130-160°F (54-71°C) in its center thanks to hardworking microbes, which is hot enough to steam on a cold morning."
     },
     {
-      "name": "Resistor Day",
-      "description": "Celebrated by electronics enthusiasts to honor the humble resistor, a crucial component in circuits that controls electric current.",
-      "origin": "Unofficial holiday among engineering and maker communities appreciating electronic components.",
-      "category": "Tech/Science",
-      "emoji": "🔌⚙️",
-      "funFact": "The color bands on resistors represent numerical values and can be read like a secret code!"
+      "name": "International Day of UN Peacekeepers",
+      "description": "A day to honor the people who serve in United Nations peacekeeping missions and to remember those who lost their lives in the line of duty.",
+      "origin": "The UN General Assembly established it in 2002. May 29 was chosen because it marks the date in 1948 when the first UN peacekeeping mission, the UN Truce Supervision Organization, began operations in the Middle East.",
+      "category": "Official International Observance",
+      "emoji": "🕊️",
+      "funFact": "UN peacekeepers wear famous light blue helmets and berets, a color chosen because it is seen as neutral and distinct from the colors of military forces."
     },
     {
-      "name": "Birthday of John F. Kennedy, Jr.",
-      "description": "Fans celebrate the birthday of JFK Jr., American lawyer, journalist, and magazine publisher, symbolic for his charisma and legacy.",
-      "origin": "Honored more informally by history buffs and those nostalgic for American politics of the 90s.",
-      "category": "Pop Culture/History",
-      "emoji": "🇺🇸🎂",
-      "funFact": "JFK Jr.'s life inspired a generation fascinated with politics, style, and tragic destiny."
+      "name": "Paper Clip Day",
+      "description": "A tribute to the humble paper clip, the bent-wire office hero that holds your documents together and doubles as a lock pick, phone SIM ejector, and fidget toy.",
+      "origin": "An unofficial office-supply and trivia observance. The date is often cited among quirky calendars celebrating everyday inventions.",
+      "category": "Invention / Office Culture",
+      "emoji": "📎",
+      "funFact": "During World War II, Norwegians wore paper clips on their lapels as a quiet symbol of unity and resistance against Nazi occupation."
     }
   ]
 }

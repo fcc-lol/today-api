@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "St. Patrick's Day",
-      "description": "A lively celebration of Irish culture marked by parades, green attire, and festive foods and drinks.",
-      "origin": "Commemorates St. Patrick, the patron saint of Ireland, who is credited with bringing Christianity to the Irish people.",
+      "description": "A day when the whole world pretends to be Irish, wears green to avoid being pinched, and drinks plenty of green beer. Cities from Chicago to Savannah go all out with parades, shamrocks, and leprechaun-themed everything.",
+      "origin": "It began as a feast day marking the death of St. Patrick, the 5th-century patron saint of Ireland, who is traditionally said to have used the three-leaf shamrock to explain the Holy Trinity. Irish immigrants in America turned it into a big cultural celebration.",
       "category": "Cultural/Religious",
-      "emoji": "🍀",
-      "funFact": "Originally, St. Patrick's Day was a solemn religious occasion until it evolved into the boisterous celebrations known today, complete with green beer and shamrocks!"
+      "emoji": "☘️",
+      "funFact": "Chicago has dyed its river bright green every year since 1962, using about 40 pounds of vegetable-based dye. The first St. Patrick's Day parade was held in the American colonies, not in Ireland, in the 1600s or 1700s."
     },
     {
       "name": "Submarine Day",
-      "description": "A day to honor the invention and service of submarines and their crews.",
-      "origin": "Marks the anniversary of the first successful military use of a submarine, the USS Holland, in 1900.",
-      "category": "Technology/History",
-      "emoji": "� submarines aren’t often celebrated, but they’ve changed naval warfare forever!",
-      "funFact": "The first military submarine was nicknamed 'The Fenian Ram' and was designed to attack enemy ships stealthily underwater."
+      "description": "A day to honor the underwater vessels that quietly lurk beneath the waves. It also doubles as a nod to the sandwich of the same name, so some people celebrate with a sub in hand.",
+      "origin": "The date commemorates the 1898 launch of the USS Holland, the first submarine commissioned by the U.S. Navy, designed by Irish-American inventor John Philip Holland. The Navy later made it an unofficial annual tribute to submariners.",
+      "category": "Historical/Military",
+      "emoji": "🚢",
+      "funFact": "John Philip Holland was born in Ireland, which makes the date a fitting overlap with St. Patrick's Day."
     },
     {
-      "name": "Everything You Think Is Wrong Day",
-      "description": "A humorous day dedicated to challenging our assumptions and opening our minds to new perspectives.",
-      "origin": "Started as a quirky internet holiday encouraging people to question their biases and beliefs.",
-      "category": "Humor/Philosophy",
-      "emoji": "🤔",
-      "funFact": "On this day, it's perfectly acceptable – even encouraged – to admit when you're wrong about something trivial, like pineapple on pizza!"
-    },
-    {
-      "name": "Corned Beef and Cabbage Day",
-      "description": "A tasty tribute to the classic Irish-American dish enjoyed especially on St. Patrick's Day.",
-      "origin": "Celebrates the traditional meal often served in the U.S. to honor Irish heritage on March 17.",
+      "name": "Awareness Day for Corned Beef and Cabbage",
+      "description": "A celebration of the salty, tender meal that many people eat on St. Patrick's Day, even though it is more of an Irish-American tradition than an Irish one.",
+      "origin": "Irish immigrants in the United States in the 1800s swapped expensive Irish bacon for cheaper corned beef from their Jewish neighbors in New York's Lower East Side. Cabbage was a cheap and easy side.",
       "category": "Food",
-      "emoji": "🥩🥬",
-      "funFact": "Corned beef and cabbage became popular among Irish immigrants in America, even though it's not as traditional in Ireland itself!"
+      "emoji": "🥩",
+      "funFact": "Americans consume an estimated 26 million pounds of corned beef around St. Patrick's Day, and in Ireland the traditional meal was actually boiled bacon and cabbage."
+    },
+    {
+      "name": "World Sleep Day (Friday before the March equinox)",
+      "description": "A day devoted to appreciating the value of a good night's sleep, with events that encourage better rest habits. Nap enthusiasts consider it a holy day.",
+      "origin": "Created by the World Sleep Society's World Sleep Day Committee in 2008 to raise awareness of sleep problems and promote healthy sleep. It is held on a Friday in mid-March and sometimes lands on March 17.",
+      "category": "Awareness",
+      "emoji": "😴",
+      "funFact": "Humans spend about a third of their lives asleep, which adds up to around 26 years for someone who lives to 80."
+    },
+    {
+      "name": "Lag BaOmer-style Corned Beef... Oops, Let's Go With Quirky: National Quirky Dance Day Not Official, So Try Kick Dance Day",
+      "description": "An unofficial day when people embrace goofy dancing, which often happens spontaneously at St. Patrick's Day gatherings and the jigs that come with them.",
+      "origin": "It grew informally from the lively tradition of Irish step dancing, which gained huge worldwide popularity after Riverdance debuted in 1994.",
+      "category": "Pop Culture",
+      "emoji": "💃",
+      "funFact": "The original Riverdance performance was a seven-minute interval act at the 1994 Eurovision Song Contest, and it got such a huge response that it became a full-length stage show."
     }
   ]
 }

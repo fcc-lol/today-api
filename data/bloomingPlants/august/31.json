@@ -4,53 +4,54 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads known for turning to face the sun. Widely cultivated for its seeds and ornamental value.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, native to North America",
+      "description": "A tall annual with large daisy-like flower heads made of a dark central disc surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, and the plant is widely grown for seeds, oil, and ornamental use.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
       "colors": [
-        "Yellow"
+        "yellow",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers follow the sun across the sky during their bud stage, a behavior called heliotropism."
+      "funFact": "Young sunflower buds follow the sun from east to west each day (heliotropism), but mature flowers stop moving and face east, which helps warm them and attract pollinators."
     },
     {
-      "name": "Lilium lancifolium",
-      "commonName": "Tiger Lily",
-      "description": "A robust perennial lily with striking orange flowers spotted with dark markings. Grows well in temperate climates.",
-      "bloomingSeason": "July to September",
-      "location": "Native to East Asia, widely cultivated in temperate gardens",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower forming tall stems topped with plume-like clusters of tiny golden flowers. It thrives in meadows, roadsides, and open fields and is an important late-season nectar source for bees, butterflies, and other pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to North America, from eastern Canada through the northern and central United States; naturalized in Europe and Asia",
       "colors": [
-        "Orange",
-        "Black spots"
+        "golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Tiger lilies are unique among lilies because their bulbs produce small bulblets used for propagation."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
     },
     {
-      "name": "Banksia spinulosa",
-      "commonName": "Hairpin Banksia",
-      "description": "An Australian native shrub or small tree, featuring cylindrical flower spikes with numerous bright yellow to orange flowers that attract birds and insects.",
-      "bloomingSeason": "Late winter to early spring in native range but some varieties bloom sporadically including late summer",
-      "location": "Eastern Australia",
+      "name": "Lespedeza thunbergii",
+      "commonName": "Japanese Bush Clover (Hagi)",
+      "description": "A graceful arching shrub-like perennial that produces cascading sprays of small pea-shaped magenta-pink flowers. It is beloved in Japanese gardens and temples, where its flowing branches create a fountain effect in late summer.",
+      "bloomingSeason": "Late summer to early autumn (August to October)",
+      "location": "Native to Japan, Korea, and China; grown in temperate gardens worldwide",
       "colors": [
-        "Yellow",
-        "Orange"
+        "magenta",
+        "pink",
+        "purple"
       ],
-      "emoji": "🌿",
-      "funFact": "Banksia flowers produce a nectar that's a food source for many birds and mammals in Australia."
+      "emoji": "🌸",
+      "funFact": "Hagi is one of the Seven Flowers of Autumn (Aki no Nanakusa) in Japan and is mentioned in more poems in the ancient Man'yoshu anthology than any other plant."
     },
     {
-      "name": "Tithonia rotundifolia",
-      "commonName": "Mexican Sunflower",
-      "description": "A fast-growing annual with bright orange to red daisy-like flowers known for attracting butterflies and hummingbirds.",
-      "bloomingSeason": "Summer to early fall",
-      "location": "Native to Mexico and Central America, widely grown in warm climates",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub with feathery blue-green foliage and fluffy, fragrant, ball-shaped golden flower clusters. In Australia it flowers at the end of winter, brightening bushland and gardens as spring approaches.",
+      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including South Australia, Victoria, New South Wales, and the ACT",
       "colors": [
-        "Orange",
-        "Red"
+        "golden yellow"
       ],
-      "emoji": "🌞",
-      "funFact": "Mexican Sunflowers are often used in gardens to attract pollinators like butterflies and hummingbirds."
+      "emoji": "🌳",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring, right after the blooming begins in earnest."
     }
   ]
 }

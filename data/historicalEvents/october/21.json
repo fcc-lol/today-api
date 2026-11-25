@@ -4,30 +4,37 @@
     {
       "year": 1805,
       "title": "Battle of Trafalgar",
-      "description": "The British Royal Navy, under Admiral Horatio Nelson, decisively defeated the combined fleets of France and Spain, ensuring British naval supremacy.",
+      "description": "A British Royal Navy fleet commanded by Vice-Admiral Horatio Nelson decisively defeated the combined French and Spanish fleets off the coast of Spain near Cape Trafalgar. Nelson was mortally wounded by a sniper during the battle and died shortly before its conclusion.",
       "category": "Military",
-      "significance": "This battle prevented Napoleon's plans to invade Britain and established British naval dominance for over a century."
+      "significance": "The victory cemented British naval supremacy for over a century and ended Napoleon's hopes of invading Britain by sea."
     },
     {
       "year": 1879,
-      "title": "First Successful Electric Light Bulb Demonstration",
-      "description": "Thomas Edison demonstrated the first practical incandescent light bulb that could be used commercially.",
+      "title": "Thomas Edison Demonstrates a Practical Incandescent Light Bulb",
+      "description": "At his laboratory in Menlo Park, New Jersey, Thomas Edison and his team successfully tested a carbon-filament incandescent lamp that burned for about 13.5 hours, and later for much longer with refinements.",
       "category": "Science and Technology",
-      "significance": "This invention revolutionized indoor lighting and paved the way for widespread electrical illumination."
+      "significance": "This breakthrough led to commercially viable electric lighting and helped usher in the age of widespread electrification."
     },
     {
-      "year": 1967,
-      "title": "Che Guevara Captured in Bolivia",
-      "description": "Revolutionary leader Che Guevara was captured by Bolivian forces assisted by the CIA.",
-      "category": "Political",
-      "significance": "Marked the end of Guevara's attempts to incite revolution in South America and his subsequent execution made him an iconic figure."
+      "year": 1833,
+      "title": "Birth of Alfred Nobel",
+      "description": "Alfred Nobel, the Swedish chemist, engineer, and inventor, was born in Stockholm. He invented dynamite in 1867 and amassed a large fortune through his industrial enterprises.",
+      "category": "Birth",
+      "significance": "Nobel's will established the Nobel Prizes, which have become the most prestigious international awards in physics, chemistry, medicine, literature, and peace."
     },
     {
-      "year": 2011,
-      "title": "Facebook Goes Public",
-      "description": "Facebook held its initial public offering (IPO) on the NASDAQ stock exchange.",
-      "category": "Business and Technology",
-      "significance": "Represented one of the largest technology IPOs in history, highlighting the rise of social media companies."
+      "year": 1959,
+      "title": "Guggenheim Museum Opens in New York City",
+      "description": "The Solomon R. Guggenheim Museum, designed by architect Frank Lloyd Wright, opened to the public on Fifth Avenue in Manhattan. Its distinctive spiraling, inverted-ziggurat design was radical for its time.",
+      "category": "Arts and Culture",
+      "significance": "The building became an icon of modern architecture and reshaped ideas about how museums could be designed and how art could be displayed."
+    },
+    {
+      "year": 1966,
+      "title": "Aberfan Disaster",
+      "description": "A colliery spoil tip collapsed and slid onto the Welsh village of Aberfan, engulfing Pantglas Junior School and nearby houses. 144 people died, including 116 children.",
+      "category": "Disaster",
+      "significance": "The tragedy prompted major reforms in mining safety and regulation of waste tips in Britain and led to inquiries that criticized the National Coal Board for negligence."
     }
   ]
 }

@@ -4,62 +4,60 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun. It is widely cultivated for its seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions of North America, cultivated worldwide",
+      "description": "A tall annual with large golden-yellow flower heads that track the sun when young. Widely cultivated for seeds, oil, and ornamental use, and also growing wild in prairies and roadsides across North America.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "North America, Europe, and temperate regions worldwide",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their heads to follow the sun during the day, maximizing photosynthesis."
+      "funFact": "A sunflower head is not a single flower but a composite of hundreds to thousands of tiny florets arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This perennial plant features tall spikes densely packed with vibrant flowers, commonly blue, purple, or pink. It thrives in meadows and open woodlands.",
-      "bloomingSeason": "Late June to August",
-      "location": "Western North America, cultivated in temperate gardens",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Fields of lavender are at peak bloom or being harvested in late July and early August.",
+      "bloomingSeason": "Early to late summer (June to August)",
+      "location": "Mediterranean region, Provence in France, England, and temperate gardens worldwide",
       "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines enrich soil nitrogen by hosting nitrogen-fixing bacteria in their root nodules."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub famous for its large, showy flowers that come in many colors. It blooms throughout warm seasons and is often grown as an ornamental plant.",
-      "bloomingSeason": "Year-round in tropical climates, peaks in summer",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves held above the water and spectacular pink or white flowers up to 30 cm wide. The blooms open in the morning and close at night, rising from muddy ponds and lakes.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Asia, including India, China, Japan, and Vietnam, and northern Australia",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Yellow",
-        "Orange"
+        "pink",
+        "white",
+        "pale yellow"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C even when the air is much cooler, and lotus seeds have been germinated after more than 1,000 years of dormancy."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub with giant flower heads surrounded by colorful bracts, resembling a crown. Native to the fynbos of South Africa, where it blooms during the Southern Hemisphere's late winter and early spring, with flowering beginning around this time.",
+      "bloomingSeason": "Late winter to early summer in the Southern Hemisphere (roughly May to November, with peak from August)",
+      "location": "Fynbos region of the Western Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "red",
+        "silver"
       ],
       "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and used to make herbal teas known for their tart flavor."
-    },
-    {
-      "name": "Alcea rosea",
-      "commonName": "Hollyhock",
-      "description": "A biennial or short-lived perennial with tall spikes covered in large, cup-shaped flowers. Commonly found in cottage gardens and along fences.",
-      "bloomingSeason": "June to August",
-      "location": "Native to Asia and Europe, widely cultivated",
-      "colors": [
-        "Pink",
-        "Red",
-        "White",
-        "Yellow",
-        "Purple"
-      ],
-      "emoji": "🌼",
-      "funFact": "Hollyhock flowers attract pollinators like bees and hummingbirds, promoting garden biodiversity."
+      "funFact": "The King Protea is the national flower of South Africa, and the protea family is so ancient that it dates back to before the supercontinent Gondwana split apart."
     }
   ]
 }

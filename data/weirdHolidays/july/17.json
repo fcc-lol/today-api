@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "World Emoji Day",
-      "description": "A day dedicated to celebrating the fun, expressive, and colorful world of emojis that spice up our digital conversations.",
-      "origin": "July 17 was chosen because the calendar emoji 📅 typically shows this date on Apple's iOS dating back to 2013, marking the first announcement of the iCal application.",
-      "category": "Pop Culture",
-      "emoji": "📅",
-      "funFact": "World Emoji Day was first celebrated in 2014 and has since become an annual event where new emojis are often previewed or launched."
+      "description": "A global celebration of those tiny yellow faces and symbols we all use to say what words can't. People mark the day by flooding social media with their favorite emojis and sometimes throwing emoji-themed parties.",
+      "origin": "Created in 2014 by Jeremy Burge of Emojipedia. The date, July 17, was chosen because it appears on the 📅 calendar emoji in Apple's design, which shows July 17.",
+      "category": "Pop Culture / Technology",
+      "emoji": "😂",
+      "funFact": "The calendar emoji on iPhones displays July 17, and that is the reason the date was picked for World Emoji Day. Apple's choice dates back to the original Mac-era keynote announcement of iCal."
     },
     {
-      "name": "National Tattoo Day (US)",
-      "description": "A day to honor the art of tattoos, the artists who create them, and all those who wear their stories on their skin.",
-      "origin": "Began as an informal celebration among tattoo communities in the United States and gained traction as a fun day to appreciate body art.",
-      "category": "Culture/Art",
-      "emoji": "🖋️",
-      "funFact": "Tattooing is one of the oldest forms of body modification, with archaeological evidence dating back over 5,000 years!"
-    },
-    {
-      "name": "Yellow Pig Day",
-      "description": "A quirky, math-themed holiday celebrating the number 17, which is a prime number, with the yellow pig as its mascot.",
-      "origin": "Started at the University of Illinois at Urbana-Champaign by math enthusiasts and described in the humorous 'Yellow Pig' concept created by mathematician Ed Barbeau.",
-      "category": "Geek Culture",
-      "emoji": "🐷",
-      "funFact": "It’s celebrated on July 17 (7/17) because 17 is the smallest whole number that’s the sum, product, and count of its prime factors!"
-    },
-    {
-      "name": "Gummi Worm Day",
-      "description": "A sweet and chewy celebration of everyone's favorite gummy candy worm, perfect for indulging your candy cravings.",
-      "origin": "An unofficial food holiday created by candy lovers and marketers, spotlighted in the summer when candy sales often rise.",
+      "name": "National Peach Ice Cream Day",
+      "description": "A day for scooping up creamy, fruity peach ice cream at the peak of summer peach season. Fans make homemade batches with fresh, juicy peaches or grab a cone from the local creamery.",
+      "origin": "The day is a food observance that falls in the middle of National Ice Cream Month, which was declared in July by President Ronald Reagan in 1984. Peach ice cream gets its own day as a summer favorite when peaches are at their ripest.",
       "category": "Food",
-      "emoji": "🍬",
-      "funFact": "Gummi worms were the first gummy candies introduced in the US in the early 1980s and helped popularize the gummy candy craze!"
+      "emoji": "🍑",
+      "funFact": "Peach ice cream was a favorite of early American ice cream makers, and it was often one of the first fruit flavors made at home with hand-cranked freezers."
+    },
+    {
+      "name": "National Yellow Pig Day",
+      "description": "A delightfully absurd celebration of the number 17 through the mythical yellow pig. Mathematicians and fans gather to celebrate, sometimes with yellow-pig songs, stories, and pig-shaped snacks.",
+      "origin": "It began in 1982 when two Princeton math students, Michael Spivak and Jeremy Cohen, were fascinated by the number 17 and a yellow pig. It spread through math departments, and the day falls on 7/17 because 17 is the sacred number of the yellow pig.",
+      "category": "Math / Absurd Humor",
+      "emoji": "🐷",
+      "funFact": "Yellow Pig Day has become a tradition at Harvey Mudd College and other colleges, where it has included singing yellow pig carols and even delivering yellow-pig-themed lectures about the number 17."
+    },
+    {
+      "name": "World Day for International Justice",
+      "description": "A serious yet noteworthy observance that commemorates the adoption of the Rome Statute, which established the International Criminal Court. It highlights the global fight against impunity for the gravest crimes.",
+      "origin": "It marks the adoption of the Rome Statute on July 17, 1998. It is also known as International Criminal Justice Day, and it has been observed since the statute was adopted.",
+      "category": "Awareness Day",
+      "emoji": "⚖️",
+      "funFact": "The Rome Statute came into force in 2002 after 60 countries had ratified it, and the court sits in The Hague in the Netherlands."
+    },
+    {
+      "name": "Tell a Joke Day",
+      "description": "A day dedicated to groan-worthy puns, dad jokes, and knock-knock classics. Everyone is encouraged to spread laughter by telling at least one joke to a friend, coworker, or stranger.",
+      "origin": "It is an unofficial humor observance popular in holiday calendars, designed to encourage laughter and lighten up the middle of summer.",
+      "category": "Humor / Fun",
+      "emoji": "🤣",
+      "funFact": "Laughter reduces stress hormones, so telling a bad joke may actually be good for your health, even if the groans are loud."
     }
   ]
 }

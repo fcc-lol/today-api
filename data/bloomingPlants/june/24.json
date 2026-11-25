@@ -2,60 +2,57 @@
   "date": "June 24",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are iconic flowering shrubs known for their layered petals and pleasant fragrance. In temperate regions, many rose varieties are in full bloom during late spring to early summer, including June. They are widely cultivated in gardens and parks worldwide.",
-      "bloomingSeason": "May to July",
-      "location": "Temperate regions worldwide, including Europe, North America, and parts of Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with slender gray-green leaves and dense spikes of small tubular flowers. Widely cultivated in gardens and fields for its essential oil, and a magnet for bees and butterflies.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and are symbols of love and beauty in many cultures."
+      "emoji": "💜",
+      "funFact": "Lavender fields in Provence reach peak bloom around late June to July, and the plant's name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Lupine",
-      "description": "Lupines are herbaceous plants with tall spikes of flowers resembling pea blossoms. They thrive in temperate climates and bloom in late spring to early summer. Often found in wild meadows and cultivated gardens, they are nitrogen-fixing plants that improve soil fertility.",
-      "bloomingSeason": "May to July",
-      "location": "North America and parts of Europe, especially in cooler temperate zones",
+      "name": "Hypericum perforatum",
+      "commonName": "St. John's Wort",
+      "description": "A hardy perennial wildflower with bright yellow, five-petaled flowers dotted with tiny black glands. Found in meadows, roadsides, and open woodlands, and long used in herbal medicine.",
+      "bloomingSeason": "June to September",
+      "location": "Native to Europe, western Asia and North Africa; naturalized in North America, Australia and elsewhere",
       "colors": [
-        "blue",
+        "yellow",
+        "golden"
+      ],
+      "emoji": "🌼",
+      "funFact": "It is named for St. John the Baptist, whose feast day is June 24, because it typically blooms around the summer solstice and was traditionally gathered on St. John's Eve."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall tree with fern-like leaves that bursts into masses of trumpet-shaped lavender-blue flowers, carpeting streets with fallen blossoms. It is a spectacular sight in subtropical cities.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere (October to December), with some blooming in the Northern Hemisphere's early summer (May to June)",
+      "location": "Native to South America; planted in California, Florida, Mediterranean regions, and parts of Africa and Australia",
+      "colors": [
         "purple",
+        "blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, and in Southern California, the jacaranda bloom is celebrated every year, and in some areas the falling flowers are said to bring good luck."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers rising on tall stalks. It thrives in warm, shallow ponds and wetlands.",
+      "bloomingSeason": "June to September",
+      "location": "Native to Asia and Australia; cultivated in ponds across India, China, Japan, Vietnam, and the southern United States",
+      "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Some species of lupines can fix nitrogen in the soil, making them valuable in crop rotation."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant tree (Royal Poinciana)",
-      "description": "A striking tree known for its vivid scarlet flowers and fern-like leaves. It blooms in late spring to early summer in tropical and subtropical regions. Its fiery red-orange flowers create spectacular displays in urban and natural landscapes.",
-      "bloomingSeason": "May to July",
-      "location": "Tropical and subtropical regions, including the Caribbean, Africa, and South Asia",
-      "colors": [
-        "red",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "The flamboyant tree’s flowers have long stamens that give the appearance of flames, inspiring its common name."
-    },
-    {
-      "name": "Boronia heterophylla",
-      "commonName": "Red Boronia",
-      "description": "A small shrub native to southwestern Australia, renowned for its bright red, star-shaped flowers. It blooms in the southern hemisphere’s winter to early summer, making June a prime month for viewing its vibrant floral displays.",
-      "bloomingSeason": "June to August",
-      "location": "Southwestern Australia",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Boronias are prized in Australian gardens for their fragrant and colorful flowers despite their relatively short blooming period."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-textured surface that repels water and dirt, a phenomenon known as the 'lotus effect' that inspired self-cleaning materials."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1860,
-      "title": "Abraham Lincoln Elected 16th President of the United States",
-      "description": "Abraham Lincoln wins the U.S. presidential election, becoming the first Republican president. His election was a catalyst for the secession of Southern states, leading up to the American Civil War.",
-      "category": "Political",
-      "significance": "Marked a turning point in American history, leading to the preservation of the Union and the abolition of slavery."
+      "title": "Abraham Lincoln Elected President",
+      "description": "Republican candidate Abraham Lincoln won the United States presidential election, defeating Stephen Douglas, John C. Breckinridge, and John Bell without carrying a single Southern state.",
+      "category": "Politics",
+      "significance": "Lincoln's election prompted the secession of Southern states beginning with South Carolina in December 1860, leading to the American Civil War."
     },
     {
-      "year": 1913,
-      "title": "First Daylight Saving Time Implemented in the United States",
-      "description": "The United States implements daylight saving time for the first time as a way to conserve energy during World War I.",
-      "category": "Social/Political",
-      "significance": "Introduced a major change in timekeeping across the country, influencing daily life and energy consumption patterns."
+      "year": 1869,
+      "title": "First Intercollegiate Football Game",
+      "description": "Rutgers defeated Princeton 6-4 in New Brunswick, New Jersey, in what is considered the first intercollegiate American football game, played under rules closer to soccer than the modern game.",
+      "category": "Sports",
+      "significance": "This game marked the beginning of college football in the United States, which evolved into one of the country's most popular sports."
     },
     {
-      "year": 1999,
-      "title": "Pervez Musharraf Leads Military Coup in Pakistan",
-      "description": "General Pervez Musharraf seizes power in Pakistan through a military coup, overthrowing the civilian government of Nawaz Sharif.",
-      "category": "Political",
-      "significance": "Marked a significant shift in Pakistan's governance, impacting its domestic policies and international relations."
+      "year": 1814,
+      "title": "Birth of Adolphe Sax",
+      "description": "Belgian instrument maker Adolphe Sax, inventor of the saxophone, was born in Dinant, Belgium.",
+      "category": "Birth",
+      "significance": "His invention of the saxophone in the 1840s transformed music, becoming central to jazz, classical, and popular music."
     },
     {
-      "year": 1903,
-      "title": "Formation of the First West African Country- Liberia Declared a Republic",
-      "description": "Liberia, established by freed American slaves, officially declares itself a republic with its own constitution.",
-      "category": "Political",
-      "significance": "Signifies an important development in African self-governance and the history of freed African Americans."
+      "year": 1935,
+      "title": "Edwin Armstrong Demonstrates FM Radio",
+      "description": "Edwin Howard Armstrong presented his system of frequency modulation (FM) radio to the Institute of Radio Engineers in New York City.",
+      "category": "Science and Technology",
+      "significance": "FM provided static-free, high-fidelity sound and became a dominant standard for radio broadcasting worldwide."
+    },
+    {
+      "year": 2012,
+      "title": "Barack Obama Re-elected President",
+      "description": "Barack Obama won a second term as President of the United States, defeating Republican nominee Mitt Romney.",
+      "category": "Politics",
+      "significance": "Obama became the first Democrat since Franklin D. Roosevelt to win a majority of the popular vote in two consecutive elections."
     }
   ]
 }

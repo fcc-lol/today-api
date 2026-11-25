@@ -2,59 +2,62 @@
   "date": "June 11",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A popular garden rose species known for its continuous blooming throughout much of the year, especially thriving in subtropical and tropical climates. It features fragrant flowers that can be single or double-petaled.",
-      "bloomingSeason": "Spring to Autumn (April to November)",
-      "location": "Native to Southwest China but widely cultivated worldwide in subtropical and temperate regions",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with deeply lobed green foliage. It is a beloved cottage garden staple and can live for decades with little care.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens of North America and Europe",
       "colors": [
-        "red",
         "pink",
         "white",
-        "yellow"
+        "red",
+        "coral"
       ],
-      "emoji": "🌹",
-      "funFact": "China Rose is one of the ancestors of modern hybrid tea roses, contributing to the wide variety of roses available today."
+      "emoji": "🌸",
+      "funFact": "Peony plants can live for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not needed for the flowers to open."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic shrub popular in gardens and used in aromatherapy, English lavender produces tall spikes of fragrant purple flowers that attract bees and butterflies.",
-      "bloomingSeason": "Late Spring to Mid Summer (May to July)",
-      "location": "Native to the Mediterranean; widely grown in temperate zones worldwide",
+      "description": "An aromatic evergreen subshrub with silvery-green narrow leaves and spikes of small tubular flowers. It thrives in sunny, well-drained soils and attracts bees and butterflies in great numbers.",
+      "bloomingSeason": "Early to mid summer (June to August), beginning in southern regions in late spring",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania, and the western United States",
       "colors": [
         "purple",
-        "blue"
+        "lavender",
+        "blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used as a natural insect repellent and its oil is often used to promote relaxation."
+      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare' meaning 'to wash' because the Romans used it to scent baths."
     },
     {
-      "name": "Delphinium elatum",
-      "commonName": "Garden Larkspur",
-      "description": "Tall perennial plants with striking, tall spikes of densely packed flowers, commonly used in cottage gardens for vertical accents and bees' attraction.",
-      "bloomingSeason": "Late Spring to Early Summer (June to July)",
-      "location": "Native to Europe and Asia; cultivated in temperate regions worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A tall, fast-growing tree with fern-like foliage that is covered in clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it blooms in spring, while in the Northern Hemisphere it peaks in late spring to early summer.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in California, Florida, Mexico, the Mediterranean, and Africa",
       "colors": [
+        "lavender",
         "blue",
-        "purple",
-        "white",
-        "pink"
+        "purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Despite their beauty, larkspur plants are toxic to livestock and humans if ingested."
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed the 'Jacaranda City,' and a carpet of fallen purple blossoms covers the roads."
     },
     {
-      "name": "Nymphaea alba",
-      "commonName": "White Water Lily",
-      "description": "A floating aquatic plant with large, fragrant white flowers that open in the morning and close by late afternoon, often found in temperate freshwater bodies.",
-      "bloomingSeason": "Late Spring to Early Autumn (May to September)",
-      "location": "Native to Europe and North Africa; found in freshwater lakes and ponds across temperate Europe",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub that produces the largest flower head in the protea family, with a bowl of pointed pink bracts surrounding a central cluster of tiny flowers. It is adapted to the nutrient-poor, fire-prone fynbos habitat.",
+      "bloomingSeason": "Late autumn to early winter in the Southern Hemisphere, with flowering from roughly May to December and peaks in early winter",
+      "location": "Native to the Western and Eastern Cape of South Africa; grown in Australia, California, and Hawaii",
       "colors": [
-        "white"
+        "pink",
+        "cream",
+        "silvery-white",
+        "crimson"
       ],
-      "emoji": "💧",
-      "funFact": "The white water lily has significant cultural importance in many societies and is a symbol of purity and peace."
+      "emoji": "🌺",
+      "funFact": "The King Protea is the national flower of South Africa, and its genus is named after the Greek god Proteus, who could change his shape."
     }
   ]
 }

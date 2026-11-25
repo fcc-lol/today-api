@@ -2,32 +2,39 @@
   "date": "August 15",
   "events": [
     {
-      "year": 1947,
-      "title": "India Gains Independence from British Rule",
-      "description": "India officially gained its independence from British colonial rule on August 15, 1947, becoming a sovereign nation after nearly 200 years of British dominance.",
-      "category": "Political",
-      "significance": "Marked the end of British colonial rule in India and the birth of the world's largest democracy."
-    },
-    {
-      "year": 1945,
-      "title": "End of World War II in Asia - Victory over Japan Day (V-J Day)",
-      "description": "Japan formally surrendered to the Allied forces on August 15, 1945, effectively ending World War II in Asia after nearly six years of conflict.",
-      "category": "Military",
-      "significance": "Signified the conclusion of the deadliest conflict in human history and led to significant geopolitical changes worldwide."
-    },
-    {
-      "year": 1969,
-      "title": "Woodstock Music & Art Fair Begins",
-      "description": "The iconic Woodstock festival started on August 15, 1969, drawing hundreds of thousands of people to a music festival symbolizing the counterculture movement of the 1960s.",
-      "category": "Cultural",
-      "significance": "Became a defining moment of 1960s youth culture and music history."
+      "year": 1769,
+      "title": "Birth of Napoleon Bonaparte",
+      "description": "Napoleon Bonaparte was born in Ajaccio, Corsica. He rose through the ranks of the French military during the Revolution, became First Consul in 1799, and crowned himself Emperor of the French in 1804.",
+      "category": "Birth",
+      "significance": "Napoleon reshaped European politics, law, and warfare. His Napoleonic Code influenced legal systems worldwide, and his conquests redrew the map of Europe."
     },
     {
       "year": 1914,
-      "title": "First Battle of the Marne Begins",
-      "description": "On August 15, 1914, during World War I, the First Battle of the Marne commenced, halting the German advance into France and setting the stage for trench warfare.",
-      "category": "Military",
-      "significance": "Marked a critical turning point in WWI, preventing a quick German victory in the West."
+      "title": "Opening of the Panama Canal",
+      "description": "The Panama Canal officially opened to commercial traffic when the SS Ancon made the first full transit through the waterway connecting the Atlantic and Pacific Oceans.",
+      "category": "Engineering Milestone",
+      "significance": "The canal dramatically shortened maritime travel between oceans, transformed global trade and naval strategy, and stands as one of the greatest engineering achievements of the early 20th century."
+    },
+    {
+      "year": 1945,
+      "title": "Japan Announces Surrender in World War II",
+      "description": "Emperor Hirohito broadcast the Imperial Rescript on the Termination of the War, announcing Japan's acceptance of the Allied terms of surrender. The day is commemorated as V-J Day and as Liberation Day in Korea.",
+      "category": "War",
+      "significance": "The announcement effectively ended World War II, and the end of Japanese rule led to the liberation of Korea and other occupied territories, ushering in the postwar era."
+    },
+    {
+      "year": 1947,
+      "title": "Independence of India",
+      "description": "India became independent from British rule at midnight, with Jawaharlal Nehru becoming the first Prime Minister. The same period saw the partition of British India into India and Pakistan.",
+      "category": "Independence",
+      "significance": "The end of British colonial rule in South Asia was a landmark in the decolonization movement, though partition caused mass displacement and violence affecting millions."
+    },
+    {
+      "year": 1969,
+      "title": "Woodstock Music Festival Begins",
+      "description": "The Woodstock Music and Art Fair opened in Bethel, New York, drawing roughly 400,000 attendees over three days with performances by Jimi Hendrix, Janis Joplin, The Who, and many others.",
+      "category": "Culture",
+      "significance": "Woodstock became a defining moment of the 1960s counterculture and a lasting symbol of music, peace, and community."
     }
   ]
 }

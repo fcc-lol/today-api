@@ -4,57 +4,58 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "The common sunflower is a tall annual plant known for its large, bright yellow flower heads that track the sun. It is widely cultivated for its seeds and oil and also grows wild in many temperate regions.",
-      "bloomingSeason": "July to September",
-      "location": "North America, Europe, Temperate regions",
+      "description": "A tall annual plant with a large, coarse stem topped by a showy flower head with golden ray petals surrounding a dark central disc of tiny florets. The heads track the sun during early development. Widely cultivated for seed, oil, and ornament, and native to North America.",
+      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
+      "location": "North America, Europe, Ukraine, Russia, and temperate regions worldwide",
       "colors": [
-        "Yellow"
+        "yellow",
+        "gold",
+        "orange",
+        "deep red"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow to be over 3 meters tall, and their flower heads consist of thousands of tiny flowers called florets."
+      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual flowers arranged in a Fibonacci spiral pattern."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical evergreen shrub that produces large, colorful flowers often used in landscaping and gardens in warm climates. Flowers can be single or double and come in a variety of colors.",
-      "bloomingSeason": "Year-round in tropical climates, prominently blooming in summer",
-      "location": "Tropical and subtropical regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray narrow leaves and slender spikes of tiny tubular flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Harvested for essential oils, sachets, and culinary uses.",
+      "bloomingSeason": "Mid-summer, peaking July to August in the Northern Hemisphere",
+      "location": "Mediterranean region, southern France (Provence), England, Bulgaria, and gardens worldwide",
       "colors": [
-        "Red",
-        "Pink",
-        "Yellow",
-        "White"
+        "purple",
+        "lavender",
+        "violet",
+        "blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers only last for a day but bloom continuously during the growing season."
+      "emoji": "💜",
+      "funFact": "Despite its name, English lavender is native to the western Mediterranean; the Romans used it in bathwater, and the name comes from the Latin 'lavare' meaning to wash."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A perennial herbaceous plant with dense spikes of pea-like flowers, popular in gardens and wildflower meadows. It enriches soil by fixing nitrogen.",
-      "bloomingSeason": "June to August",
-      "location": "North America, introduced in Europe and elsewhere",
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that forms spires of bright magenta-pink flowers that open from the bottom up. It is among the first plants to colonize burned or cleared land and carpets mountain meadows and roadsides in late summer.",
+      "bloomingSeason": "July to September",
+      "location": "Alaska, Canada, northern United States, Scandinavia, Siberia, and the Rocky Mountains",
       "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
+        "magenta",
+        "pink",
+        "purple"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines are known for their ability to improve soil fertility through nitrogen fixation."
+      "funFact": "Locals say that when the fireweed blooms reach the top of the stalk, summer is nearly over; it also produces a prized honey."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "This iconic South African shrub produces striking large flower heads resembling artichokes with pink bracts surrounding central florets. Often used in floral arrangements.",
-      "bloomingSeason": "June to September",
-      "location": "South Africa",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Australia's national floral emblem, a small tree or large shrub with sickle-shaped phyllodes and dense, fluffy, fragrant golden ball-shaped flower clusters that light up the bush during the southern winter and early spring.",
+      "bloomingSeason": "Late winter to spring (July to October) in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
       "colors": [
-        "Pink",
-        "White"
+        "golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "The King Protea is the national flower of South Africa and can live for decades in wild conditions."
+      "emoji": "🌼",
+      "funFact": "Australia celebrates National Wattle Day on September 1, and the golden wattle's green and gold colors inspired the country's official sporting colors."
     }
   ]
 }

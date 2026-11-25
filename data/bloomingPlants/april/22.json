@@ -2,58 +2,62 @@
   "date": "April 22",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Pontic Rhododendron",
-      "description": "An evergreen shrub known for its large clusters of fragrant, tubular flowers. It thrives in temperate climates and is often found in woodland edges and heathlands.",
-      "bloomingSeason": "March to May",
-      "location": "Western Europe, particularly mild Atlantic climates",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A spring-flowering bulb with cup-shaped blooms on sturdy stems and broad, blue-green leaves. Thousands of cultivars exist, ranging from classic single cups to frilled parrot and double peony types. Late April is peak bloom in many temperate gardens.",
+      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
+      "location": "Netherlands, northern Europe, and temperate regions of North America; originally native to Central Asia",
       "colors": [
-        "purple",
+        "red",
+        "yellow",
         "pink",
-        "white"
+        "purple",
+        "white",
+        "orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During the Dutch Golden Age in the 1630s, tulip bulbs became so valuable that a single rare bulb could cost more than a house in Amsterdam."
+    },
+    {
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "A vigorous woody twining vine that produces dramatic hanging clusters of fragrant flowers before its leaves fully emerge. It can climb pergolas, walls, and trees, and live for decades.",
+      "bloomingSeason": "Mid to late spring (April to May)",
+      "location": "Native to China; widely cultivated in Japan, Europe, and the eastern and western United States",
+      "colors": [
+        "lavender",
+        "violet",
+        "blue-purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Chinese wisteria twines counterclockwise, while Japanese wisteria twines clockwise, which helps distinguish the two species when not in bloom."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like flowers burst directly from bare branches and even the trunk before heart-shaped leaves appear. It is a valuable early nectar source for native bees.",
+      "bloomingSeason": "Early to mid spring, lingering into late April in cooler areas",
+      "location": "Eastern and central North America, from Ontario to Mexico",
+      "colors": [
+        "magenta",
+        "pink",
+        "lavender"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendron ponticum can be invasive outside its native range, especially in parts of the UK and Ireland."
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor; they are sometimes tossed into salads or used as a garnish."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous tree famous for its large, tulip-shaped flowers that appear before the leaves, heralding spring's arrival in many temperate gardens.",
-      "bloomingSeason": "Early to late April",
-      "location": "Cultivated widely in temperate regions including North America, Europe, and parts of Asia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall, fern-leaved tree covered with trumpet-shaped lavender-blue flowers in dense panicles. Flowering carpets streets and gardens with fallen blossoms. In the Southern Hemisphere, its main bloom is in spring (Oct-Nov), but in tropical and subtropical areas such as parts of Northern Hemisphere warm zones, flowering begins from late April into May and June.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (late April to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; grown in Florida, southern California, Mexico, South Africa, and Australia, with bloom starting in places like Mexico City around April",
       "colors": [
-        "white",
-        "pink",
+        "blue-violet",
         "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "Saucer Magnolia was created by crossing Magnolia denudata and Magnolia liliiflora in the early 19th century."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A striking tropical tree with vivid red, spiky flowers attracting hummingbirds and pollinators. It grows well in subtropical and tropical climates.",
-      "bloomingSeason": "Spring to early summer (September to April in Southern Hemisphere, including April)",
-      "location": "Native to South America, blooming in Southern Hemisphere spring regions",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is Argentina's national flower, symbolizing resilience and beauty."
-    },
-    {
-      "name": "Anemone nemorosa",
-      "commonName": "Wood Anemone",
-      "description": "A delicate spring wildflower of deciduous woodlands, producing star-shaped blooms that carpet forest floors in early spring.",
-      "bloomingSeason": "March to May",
-      "location": "Temperate regions of Europe and Asia",
-      "colors": [
-        "white",
-        "pale pink",
-        "blue"
-      ],
-      "emoji": "🌼",
-      "funFact": "Wood Anemones spread primarily through underground rhizomes, allowing for large colonies to form."
+      "emoji": "🌳",
+      "funFact": "Mexico City's jacarandas, introduced from Brazil in the early 1900s by a Japanese gardener named Tatsugoro Matsumoto, turn the city purple each spring."
     }
   ]
 }

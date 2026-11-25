@@ -2,60 +2,56 @@
   "date": "September 15",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement across the sky (heliotropism). Sunflowers are widely cultivated for their seeds and oil and are native to North America.",
-      "bloomingSeason": "July to September",
-      "location": "North America, cultivated worldwide",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The strap-shaped leaves emerge the following spring and die back by early summer, giving rise to the nickname 'naked ladies'.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October)",
+      "location": "Europe, from Britain through central Europe; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "Yellow",
-        "Brown"
+        "pale pink",
+        "lilac",
+        "lavender",
+        "white"
       ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers can grow up to 3 meters tall and their seeds are a popular snack and source of oil."
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A native North American wildflower popular in gardens for its purple daisy-like flowers with prominent cones. It attracts pollinators and has medicinal uses related to the immune system.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, rhizomatous perennial forming dense colonies topped with arching plumes of tiny yellow flower heads. It thrives in meadows, roadsides and prairies and is a vital late-season nectar and pollen source for bees, butterflies and other insects.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to North America (eastern and central United States and Canada); naturalized in Europe and Asia",
       "colors": [
-        "Purple",
-        "Pink"
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; its pollen is heavy and sticky and insect-carried, while the wind-borne pollen of ragweed blooming at the same time is the true culprit."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Cape Flower)",
+      "description": "A bulbous perennial with strappy leaves and sturdy stems topped by umbels of frilly, wavy-petaled pink flowers that sparkle in sunlight. It is popular in warm, sunny borders and makes a long-lasting cut flower.",
+      "bloomingSeason": "Early autumn in the Northern Hemisphere (September to November)",
+      "location": "Native to the Drakensberg mountains of South Africa; cultivated in temperate gardens in the UK, Europe and North America",
+      "colors": [
+        "pink",
+        "deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea is used in traditional herbal medicine to help reduce symptoms of the common cold."
+      "funFact": "The petals have a glittering, crystalline sheen, which gave rise to the common name 'Guernsey lily' relatives and has made Nerine a favorite for late-season color when most other bulbs are dormant."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A tuberous perennial plant cultivated for its large, colorful, intricate flowers that bloom late summer into fall. Native to Mexico, dahlias come in a variety of forms and colors.",
-      "bloomingSeason": "August to October",
-      "location": "Native to Mexico, cultivated worldwide",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "An evergreen small tree or large shrub with sickle-shaped gray-green phyllodes and fluffy, fragrant globular flower clusters. In Australia's late winter to early spring it bursts into bloom, brightening bushland and gardens.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia, New South Wales and the Australian Capital Territory",
       "colors": [
-        "Red",
-        "Pink",
-        "Yellow",
-        "White",
-        "Orange",
-        "Purple"
+        "bright golden yellow"
       ],
-      "emoji": "💐",
-      "funFact": "Dahlias are the national flower of Mexico and were originally cultivated by the Aztecs."
-    },
-    {
-      "name": "Salvia leucantha",
-      "commonName": "Mexican Bush Sage",
-      "description": "A semi-evergreen shrub with velvety purple flower spikes and silvery white bracts. It blooms late summer to fall, thriving in warm climates and attracting hummingbirds and butterflies.",
-      "bloomingSeason": "August to November",
-      "location": "Central and Southern Mexico",
-      "colors": [
-        "Purple",
-        "White"
-      ],
-      "emoji": "🌿",
-      "funFact": "Mexican Bush Sage is drought tolerant and often used in xeriscaping gardens."
+      "emoji": "🌳",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

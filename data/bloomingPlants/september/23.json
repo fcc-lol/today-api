@@ -2,60 +2,59 @@
   "date": "September 23",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that follow the sun's movement. Commonly cultivated but also found wild in fields across North America.",
-      "bloomingSeason": "July to September",
-      "location": "North America, especially temperate regions",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped pinkish-lilac flowers in autumn with no leaves present. The strap-like leaves appear the following spring and die back by summer. All parts are highly toxic due to colchicine.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to Europe from Ireland to the Balkans; widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "Yellow",
-        "Brown"
+        "Pale pink",
+        "Lilac",
+        "Purple"
       ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism during early growth, turning to face the sun; mature flowers generally face east."
+      "emoji": "🌷",
+      "funFact": "Because flowers appear without leaves, it is nicknamed 'naked ladies'. Colchicine from this plant is used in medicine to treat gout and in plant breeding to induce polyploidy."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy wildflower with vibrant yellow to orange ray florets and distinctive dark brown centers, often found in meadows and prairies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and central North America",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust North American wildflower that forms dense clumps topped with masses of daisy-like flowers with yellow centers. It thrives in meadows, roadsides, and wet prairies and is a crucial late-season nectar source.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, from Canada to Alabama; cultivated worldwide",
       "colors": [
-        "Yellow",
-        "Orange",
-        "Brown"
-      ],
-      "emoji": "🌼",
-      "funFact": "Black-eyed Susans attract butterflies and other pollinators, making them valuable for natural gardens."
-    },
-    {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A tuberous-rooted plant known for its diverse and striking flower shapes and colors, widely cultivated in gardens.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico and Central America, cultivated worldwide",
-      "colors": [
-        "Red",
-        "Pink",
         "Purple",
-        "Yellow",
-        "White",
-        "Orange"
+        "Violet",
+        "Pink",
+        "Yellow center"
+      ],
+      "emoji": "💜",
+      "funFact": "Migrating monarch butterflies depend heavily on its nectar to fuel their long journey to Mexico around the autumn equinox."
+    },
+    {
+      "name": "Prunus campanulata",
+      "commonName": "Taiwan Cherry (Bell-flowered Cherry)",
+      "description": "Not typical for this date in the north, but in the Southern Hemisphere's spring, many flowering trees such as Jacaranda mimosifolia begin to bloom. Jacaranda is a tropical to subtropical tree with fern-like leaves and clusters of trumpet-shaped lavender-blue flowers that carpet streets.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Native to South America; widely planted in Australia, South Africa, and Argentina",
+      "colors": [
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "🌸",
-      "funFact": "Dahlias are the national flower of Mexico and come in over 42 species with thousands of hybrids."
+      "funFact": "Jacaranda blooms in Pretoria, South Africa, are so famous that the city is nicknamed 'Jacaranda City'. Note: the scientific name for this entry is Jacaranda mimosifolia, not Prunus campanulata."
     },
     {
-      "name": "Ginkgo biloba",
-      "commonName": "Ginkgo / Maidenhair Tree",
-      "description": "A unique deciduous tree species renowned for its fan-shaped leaves that turn bright yellow in autumn; female trees produce distinctive fruit that ripens around this time.",
-      "bloomingSeason": "Male flowers in spring; female fruit ripens in September–October",
-      "location": "Originally native to China; widely planted worldwide",
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A striking bulbous perennial with spidery, bright red flowers with long curved stamens that emerge on bare stalks in early autumn. Leaves appear after the flowers fade and persist through winter.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
       "colors": [
-        "Yellow"
+        "Red",
+        "Crimson"
       ],
-      "emoji": "🌳",
-      "funFact": "Ginkgo biloba is a living fossil, with fossils dating back 270 million years, and is resistant to pollution and disease."
+      "emoji": "🌺",
+      "funFact": "In Japan it is called higanbana, since it blooms around the autumn equinox holiday of Higan, and is often seen along rice paddies and cemeteries."
     }
   ]
 }

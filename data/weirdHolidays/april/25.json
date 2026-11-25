@@ -2,36 +2,44 @@
   "date": "April 25",
   "holidays": [
     {
-      "name": "World Penguin Day 🐧",
-      "description": "Celebrate everyone's favorite tuxedoed birds, the penguins! It's the day to appreciate their quirky wobbles and adorable waddles, while learning about penguin conservation.",
-      "origin": "Commemorates the annual northward migration of penguins on this date in the Southern Hemisphere.",
-      "category": "Wildlife Awareness",
+      "name": "National Zucchini Bread Day",
+      "description": "A day to celebrate the humble zucchini by baking it into a sweet, moist loaf. It is the perfect excuse to finally use up the mountain of squash that gardeners cannot seem to give away.",
+      "origin": "Like many food days, it grew out of grassroots food-observance calendars and baking enthusiasts. Its exact founder is unknown, but it has been popular in American food circles for decades.",
+      "category": "Food Day",
+      "emoji": "🍞",
+      "funFact": "Zucchini plants are so prolific that some gardeners jokingly lock their cars in summer to avoid neighbors secretly leaving surplus zucchini on the seats."
+    },
+    {
+      "name": "World Penguin Day",
+      "description": "A day to celebrate our tuxedo-wearing, belly-sliding, flightless feathered friends. Penguin fans mark it with penguin facts, conservation efforts, and plenty of waddling.",
+      "origin": "It coincides with the annual northward migration of Adélie penguins from their breeding grounds, which researchers at the McMurdo Station in Antarctica noted occurs around this date. The observance was popularized by researchers and wildlife fans.",
+      "category": "Animal Appreciation",
       "emoji": "🐧",
-      "funFact": "Did you know some penguins propose to their mates with a special pebble? Talk about 'rock-solid' relationships!"
+      "funFact": "Penguins propose to their mates with pebbles, and a male Gentoo will search carefully for the perfect smooth stone to give his sweetheart."
     },
     {
-      "name": "DNA Day 🧬",
-      "description": "Dive into the double helix and celebrate the discovery of DNA's structure. It's a day for genetics geeks and curious minds to marvel at life's genetic blueprint.",
-      "origin": "Marks the 1953 discovery of the DNA double helix by Watson and Crick.",
-      "category": "Science and Education",
+      "name": "DNA Day",
+      "description": "A nerdy celebration of the double helix, the molecule that makes you, you. Scientists and students mark the day with genetics lessons, DNA extraction experiments, and strawberry DNA labs.",
+      "origin": "It commemorates the April 25, 1953 publication of the papers by Watson, Crick, Franklin, Wilkins, and colleagues in Nature describing the structure of DNA. The US Congress also recognized it in 2003 after the completion of the Human Genome Project.",
+      "category": "Science Celebration",
       "emoji": "🧬",
-      "funFact": "If you unraveled all the DNA in your body, it would stretch from the Earth to the Sun and back over 300 times!"
+      "funFact": "If you unwound all the DNA in a single human body and stretched it out, it would reach to the Sun and back many times over."
     },
     {
-      "name": "Zipper Day 🧷",
-      "description": "A quirky nod to the humble zipper, that little invention which keeps our pants up and our bags closed! Celebrate its convenience and ingenuity.",
-      "origin": "Commemorates the April 25, 1913 patent date for the modern zipper by Gideon Sundback.",
-      "category": "Invention and Innovation",
-      "emoji": "🧷",
-      "funFact": "The original zippers were called 'clasp lockers' and were used on boots before becoming a clothing staple."
+      "name": "National Telephone Day",
+      "description": "A day for honoring the invention that let humans yell at each other from across town, and eventually let us avoid answering calls entirely. Celebrate by actually picking up the phone and calling someone.",
+      "origin": "The observance is an unofficial one that honors the telephone's role in communication, tied to the invention's history with Alexander Graham Bell in the 1870s.",
+      "category": "Pop Culture / Technology",
+      "emoji": "📞",
+      "funFact": "Bell reportedly suggested that people should answer the phone by saying 'Ahoy!' rather than 'Hello.'"
     },
     {
-      "name": "Arbor Day (Observed in some US states) 🌳",
-      "description": "A day to plant a tree and appreciate the leafy green wonders that give us oxygen, shade, and beauty.",
-      "origin": "Varies by state; some celebrate on April 25 to honor tree planting and environmental stewardship.",
-      "category": "Environmental Awareness",
-      "emoji": "🌳",
-      "funFact": "The first Arbor Day was in 1872, and over one million trees were planted on that day alone!"
+      "name": "Hug a Plumber Day",
+      "description": "A tongue-in-cheek day to thank the people who rescue us from clogged drains, burst pipes, and mysterious basement flooding. Show gratitude to the hero in the wrench-wielding overalls.",
+      "origin": "It was created by plumbing enthusiasts and trade supporters to highlight the importance of the profession, which is credited with major public health advances.",
+      "category": "Occupation Appreciation",
+      "emoji": "🔧",
+      "funFact": "The word plumber comes from the Latin word plumbum, meaning lead, because ancient Roman pipes were made of that metal."
     }
   ]
 }

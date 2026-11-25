@@ -2,36 +2,44 @@
   "date": "March 21",
   "holidays": [
     {
-      "name": "International Day of Forests",
-      "description": "A day to celebrate and raise awareness about the importance of forests for our planet’s health and well-being.",
-      "origin": "Declared by the United Nations in 2012 to promote conservation and sustainable management of forests worldwide.",
-      "category": "Environmental Awareness 🌳",
-      "emoji": "🌳",
-      "funFact": "More than 1.6 billion people depend on forests for their livelihoods, including many indigenous communities!"
-    },
-    {
-      "name": "World Puppetry Day",
-      "description": "A whimsical day to honor the ancient art of puppetry and the storytellers who bring characters to life with strings, hands, and imagination.",
-      "origin": "Started in 2003 by the Union Internationale de la Marionnette to celebrate puppet arts globally.",
-      "category": "Arts & Culture 🎭",
-      "emoji": "🎭",
-      "funFact": "Puppetry dates back over 3,000 years with evidence in ancient Egypt and Greece!"
-    },
-    {
-      "name": "National French Bread Day (USA)",
-      "description": "A tasty celebration dedicated to the iconic crunchy, crusty, and oh-so-delicious French bread aka baguette!",
-      "origin": "Unofficial American food day to honor one of the most iconic breads worldwide.",
-      "category": "Food 🍞",
-      "emoji": "🥖",
-      "funFact": "French law once banned women from wearing high heels and an apron while baking bread — but baguettes won everyone’s hearts anyway!"
+      "name": "World Poetry Day",
+      "description": "A day for reading, writing, and performing verse, from epic odes to scribbled limericks on napkins. Poetry slams, open mics, and rhyming chaos erupt around the globe.",
+      "origin": "UNESCO adopted March 21 as World Poetry Day in 1999 at its General Conference in Paris to support linguistic diversity and give endangered languages a chance to be heard through poetry.",
+      "category": "Cultural Observance",
+      "emoji": "📜",
+      "funFact": "The date coincides with the start of spring in the Northern Hemisphere, a season poets have been gushing about for thousands of years."
     },
     {
       "name": "World Down Syndrome Day",
-      "description": "A day to raise awareness and support for people with Down syndrome, promoting their rights and inclusion in society.",
-      "origin": "Established by the United Nations in 2012; the date 3/21 symbolizes the triplication (trisomy) of the 21st chromosome that causes Down syndrome.",
-      "category": "Health Awareness 🎗️",
-      "emoji": "🎗️",
-      "funFact": "This date was chosen because people with Down syndrome have three copies of chromosome 21 instead of two!"
+      "description": "Celebrated by wearing brightly mismatched or colorful socks, a cheerful way to start conversations about inclusion and celebrate people with Down syndrome.",
+      "origin": "The date 3/21 represents the triplication of the 21st chromosome, which causes Down syndrome. The UN officially recognized it in 2011, with the first observance in 2012.",
+      "category": "Awareness Day",
+      "emoji": "🧦",
+      "funFact": "The Lots of Socks campaign works because chromosomes look a bit like socks, and wearing odd, funky pairs is the unofficial uniform of the day."
+    },
+    {
+      "name": "International Day of Forests",
+      "description": "A day to hug a tree, plant a sapling, and appreciate the leafy giants that quietly provide our oxygen, paper, and shady naps.",
+      "origin": "The United Nations General Assembly established it in 2012 to raise awareness of the importance of all types of forests and trees outside forests.",
+      "category": "Environmental Observance",
+      "emoji": "🌲",
+      "funFact": "Forests cover about 31 percent of the planet's land area, and some trees communicate and share nutrients through underground fungal networks nicknamed the wood wide web."
+    },
+    {
+      "name": "Nowruz (Persian New Year)",
+      "description": "A festive celebration of spring featuring a Haft-Seen table of seven symbolic items starting with S, jumping over bonfires, and sprouting wheatgrass for good luck.",
+      "origin": "With roots in ancient Zoroastrian tradition over 3,000 years old, Nowruz means new day and begins at the exact moment of the spring equinox.",
+      "category": "Cultural Festival",
+      "emoji": "🔥",
+      "funFact": "The New Year can begin at any time of day or night, since it is calculated to the exact second of the equinox, and families gather to count down just like on New Year's Eve."
+    },
+    {
+      "name": "National French Bread Day",
+      "description": "A carb-lover's dream where people celebrate the crusty, golden baguette by tearing into it with reckless abandon, preferably with cheese and butter.",
+      "origin": "An unofficial American food holiday honoring the iconic bread of France, observed by bakeries and bread fans on the first day of spring.",
+      "category": "Food Holiday",
+      "emoji": "🥖",
+      "funFact": "A 1993 French law, the Décret Pain, says a traditional baguette can only contain flour, water, salt, and yeast, and must be made and baked on-site."
     }
   ]
 }

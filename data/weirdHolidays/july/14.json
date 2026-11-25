@@ -2,36 +2,44 @@
   "date": "July 14",
   "holidays": [
     {
-      "name": "Bastille Day",
-      "description": "France’s national day commemorating the storming of the Bastille prison in 1789, symbolizing liberty and the French Revolution.",
-      "origin": "Marks the French Revolution’s pivotal event on July 14, 1789, when revolutionaries stormed the Bastille fortress-prison in Paris.",
-      "category": "Historical / National Holiday",
-      "emoji": "🇫🇷",
-      "funFact": "The largest military parade in Europe marches down the Champs-Élysées every Bastille Day."
+      "name": "Shark Awareness Day",
+      "description": "A day to celebrate and learn about sharks, those misunderstood predators of the deep. Aquariums, marine biologists, and ocean lovers use it to bust myths and promote shark conservation.",
+      "origin": "Created by conservation groups, aquariums, and wildlife organizations to counter the fear and misconceptions fueled by movies and media, and to highlight the threat of overfishing and finning.",
+      "category": "Awareness Day",
+      "emoji": "🦈",
+      "funFact": "Sharks are older than trees. They have existed for over 400 million years, while the earliest trees appeared roughly 350 million years ago."
     },
     {
-      "name": "National Mac and Cheese Day",
-      "description": "A delicious day to celebrate the creamy, cheesy comfort food favorite: macaroni and cheese.",
-      "origin": "An unofficial food holiday created to honor the classic American comfort dish beloved by millions.",
+      "name": "Pandemonium Day",
+      "description": "A day dedicated to embracing chaos, noise, and wild disorder. Celebrants are encouraged to let loose, make a little ruckus, and enjoy the madness of everyday life.",
+      "origin": "An unofficial observance inspired by the word 'pandemonium,' coined by poet John Milton in Paradise Lost (1667) as the name of the capital of Hell.",
+      "category": "Unofficial Observance",
+      "emoji": "🤪",
+      "funFact": "The word 'pandemonium' literally means 'all demons' from Greek roots, and Milton invented it for his epic poem."
+    },
+    {
+      "name": "Nude Day",
+      "description": "An unofficial day when some people celebrate by going clothing-free in appropriate private or designated places. It promotes body positivity and comfort in one's own skin.",
+      "origin": "Often called International Nude Day, it grew out of naturist and body-acceptance communities and spread through social media as a lighthearted, unofficial observance.",
+      "category": "Unofficial Observance",
+      "emoji": "🩲",
+      "funFact": "Naturist clubs and resorts have been around for over a century, with organized nudist movements flourishing in Germany in the early 1900s."
+    },
+    {
+      "name": "Mac and Cheese Day",
+      "description": "A celebration of the gooey, cheesy, comforting classic. People mark the occasion with homemade bakes, boxed nostalgia, or gourmet versions topped with lobster or truffle.",
+      "origin": "A food-focused unofficial holiday celebrated on July 14 by fans of the dish, promoted by food brands and social media foodies. Note that National Macaroni and Cheese Day is also commonly observed on June 12.",
       "category": "Food Holiday",
       "emoji": "🧀",
-      "funFact": "Mac and cheese became popular in the U.S. after Thomas Jefferson brought back a pasta and cheese recipe from Italy."
+      "funFact": "Thomas Jefferson helped popularize macaroni and cheese in America after serving a macaroni pie at a state dinner in 1802."
     },
     {
-      "name": "World Chimpanzee Day",
-      "description": "An awareness day dedicated to the protection and appreciation of chimpanzees and their habitat.",
-      "origin": "Established by conservation groups to promote the protection of chimpanzees worldwide on their birth month.",
-      "category": "Awareness / Conservation",
-      "emoji": "🐒",
-      "funFact": "Chimpanzees share about 98% of their DNA with humans, making them our closest animal relatives."
-    },
-    {
-      "name": "National Tape Measure Day",
-      "description": "A quirky celebration honoring the invention of the tape measure, an essential tool for measurements in daily life.",
-      "origin": "Commemorates the birthday of Alvin J. Fellows, who patented the spring tape measure in 1868.",
-      "category": "Invention / Tool Holiday",
-      "emoji": "📏",
-      "funFact": "The first modern tape measure was invented by Alvin J. Fellows in 1868, revolutionizing measuring for inventors and builders alike."
+      "name": "Bastille Day (La Fête Nationale)",
+      "description": "France's national day, celebrated with fireworks, military parades, street parties, and plenty of wine and baguettes. Francophiles worldwide join in with French-themed festivities.",
+      "origin": "It commemorates the storming of the Bastille prison in Paris on July 14, 1789, a flashpoint of the French Revolution.",
+      "category": "National Holiday",
+      "emoji": "🇫🇷",
+      "funFact": "When the Bastille was stormed, it held only seven prisoners: four forgers, two nobles held for 'deviant' behavior, and one man deemed insane."
     }
   ]
 }

@@ -2,56 +2,59 @@
   "date": "July 6",
   "plants": [
     {
-      "name": "Rosa 'Knock Out'",
-      "commonName": "Knock Out Rose",
-      "description": "A robust and disease-resistant rose variety widely cultivated in gardens, known for continuous blooming throughout summer.",
-      "bloomingSeason": "Late spring to fall",
-      "location": "Temperate regions worldwide (commonly North America and Europe)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen subshrub with narrow gray-green leaves and dense spikes of small tubular flowers held on slender stems. It is widely cultivated in gardens and commercial fields for its essential oil and attracts large numbers of bees and butterflies.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Tasmania, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink"
-      ],
-      "emoji": "🌹",
-      "funFact": "Knock Out roses are prized for their ability to bloom repeatedly and resist common rose diseases, making them popular for low-maintenance gardens."
-    },
-    {
-      "name": "Nymphaea spp.",
-      "commonName": "Water Lily",
-      "description": "Aquatic plants that produce beautiful floating flowers on ponds and lakes, opening during the day and closing at night.",
-      "bloomingSeason": "Late spring through summer",
-      "location": "Temperate and tropical zones worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "yellow",
+        "purple",
+        "lavender",
         "blue"
       ],
-      "emoji": "🌼",
-      "funFact": "Water lilies regulate their temperature and can generate heat to attract pollinators, similar to some tropical plants."
+      "emoji": "💜",
+      "funFact": "The name lavender comes from the Latin 'lavare' meaning 'to wash', since the Romans used it to scent their baths."
     },
     {
-      "name": "Tilia cordata",
-      "commonName": "Small-leaved Lime or Linden",
-      "description": "A deciduous tree whose fragrant flowers attract many pollinators and are often used to make herbal tea.",
-      "bloomingSeason": "Early to mid-summer (June to July)",
-      "location": "Europe and parts of western Asia",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large daisy-like flower head made of many tiny florets arranged in a Fibonacci spiral, surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, a behavior called heliotropism.",
+      "bloomingSeason": "Early July through September in temperate Northern Hemisphere regions",
+      "location": "Native to North America; grown extensively in Ukraine, Russia, the Great Plains of the USA, and France",
       "colors": [
-        "yellowish-green"
+        "yellow",
+        "gold",
+        "brown"
       ],
-      "emoji": "🌳",
-      "funFact": "Linden flowers are a favorite of bees, leading to production of high-quality linden honey cherished in Europe."
+      "emoji": "🌻",
+      "funFact": "Once mature, sunflower heads stop tracking the sun and permanently face east, which warms them in the morning and attracts more pollinators."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing ornamental tree native to Australia, producing striking orange flowers that attract birds.",
-      "bloomingSeason": "Winter to summer months (June to December) depending on region",
-      "location": "Australia, also cultivated in subtropical regions worldwide",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves that rise above the water and showy, fragrant flowers on tall stalks. Its leaves have a micro-textured surface that repels water and dirt.",
+      "bloomingSeason": "Summer, peaking from June to August",
+      "location": "Native to Asia and northern Australia; found in ponds and wetlands in India, China, Vietnam, and Japan",
       "colors": [
-        "orange"
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their temperature to about 30-35°C (86-95°F), even when the surrounding air is cooler, thanks to a heat-producing process similar to that of warm-blooded animals."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody evergreen shrub producing the largest flower head of any protea, a bowl-shaped bloom of stiff pointed bracts surrounding a center of fuzzy flowers. It thrives in the nutrient-poor, well-drained soils of fynbos habitat.",
+      "bloomingSeason": "Southern Hemisphere winter and spring, with blooms beginning around June and July",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, California, and Hawaii",
+      "colors": [
+        "pink",
+        "cream",
+        "red"
       ],
       "emoji": "🌺",
-      "funFact": "Despite the name 'Silky Oak,' this plant is not an oak but a member of the Proteaceae family and produces nectar-rich flowers."
+      "funFact": "It is the national flower of South Africa, and its ancient lineage predates the breakup of the supercontinent Gondwana."
     }
   ]
 }

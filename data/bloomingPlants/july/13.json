@@ -2,56 +2,61 @@
   "date": "July 13",
   "plants": [
     {
-      "name": "Lilium auratum",
-      "commonName": "Golden-rayed Lily",
-      "description": "A stunning lily native to Japan known for its large, fragrant white flowers with golden stripes and freckled spots. It blooms in summer and is highly prized in horticulture.",
-      "bloomingSeason": "June to August",
-      "location": "Japan, temperate gardens worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with narrow silvery-green leaves and dense spikes of fragrant flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Widely cultivated in gardens and in commercial fields for its essential oil.",
+      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region; cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "white",
-        "golden yellow"
+        "purple",
+        "violet",
+        "lavender blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender fields in Provence reach peak bloom in early to mid July, and the plant has been used since Roman times to scent baths, which is where its name likely comes from (Latin 'lavare', to wash)."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with daisy-like flowers featuring drooping pink-purple petals around a spiky, orange-brown central cone. It tolerates heat and drought and attracts pollinators and goldfinches.",
+      "bloomingSeason": "Early summer to early fall (June to September)",
+      "location": "Eastern and central North America, in prairies and open woodlands; widely grown in gardens worldwide",
+      "colors": [
+        "purple",
+        "pink",
+        "orange",
+        "bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Lilium auratum is often called the 'King of Lilies' due to its majestic size and striking fragrance."
+      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiky central cone. Native Americans used the plant medicinally for centuries."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual plant characterized by its large flower heads with bright yellow ray florets and dark brown centers. Sunflowers track the sun’s movement across the sky during the day (heliotropism) especially in bud stage.",
-      "bloomingSeason": "July to September",
-      "location": "Native to North America, widely cultivated globally",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers that rise on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters and is revered in many cultures.",
+      "bloomingSeason": "Summer (June to September in the Northern Hemisphere; during the monsoon season in South Asia)",
+      "location": "Asia, from India and China to Japan and Vietnam, and northern Australia; cultivated in water gardens worldwide",
       "colors": [
-        "yellow",
-        "brown"
+        "pink",
+        "white"
       ],
-      "emoji": "🌻",
-      "funFact": "Sunflowers can grow exceptionally tall, some varieties exceeding 3 meters (10 feet) in height."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic structure that makes them superhydrophobic, causing water and dirt to roll off. This 'lotus effect' has inspired self-cleaning materials."
     },
     {
-      "name": "Eryngium maritimum",
-      "commonName": "Sea Holly",
-      "description": "A spiny, silver-blue wildflower found on sandy sea coasts of Europe. It adds a unique architectural element to coastal dunes and blooms midsummer.",
-      "bloomingSeason": "June to August",
-      "location": "European coastal dunes, Mediterranean to Atlantic coasts",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody shrub with large, showy flower heads made of colorful bracts surrounding a central cluster of tiny flowers. It is the largest of the proteas, with blooms up to 30 cm across. It thrives in the fynbos of the Cape region.",
+      "bloomingSeason": "Late autumn to early spring in the Southern Hemisphere, with peak flowering in winter months including July in many areas, and flowers occurring year-round in some populations",
+      "location": "Western and Southern Cape of South Africa, in fynbos vegetation",
       "colors": [
-        "blue",
-        "silver"
-      ],
-      "emoji": "🌿",
-      "funFact": "The name 'Eryngium' originates from the Greek word 'Eryngion', where it was believed to have medicinal properties."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An evergreen flowering tree native to Australia that produces bright orange to yellow brush-like flowers, popular in subtropical gardens.",
-      "bloomingSeason": "June to August",
-      "location": "Eastern Australia, also cultivated in similar climates worldwide",
-      "colors": [
-        "orange",
-        "yellow"
+        "pink",
+        "cream",
+        "red",
+        "silvery-white"
       ],
       "emoji": "🌺",
-      "funFact": "Despite its common name 'Silky Oak', this tree is not a true oak, and its wood is prized for furniture making due to its durability and attractive grain."
+      "funFact": "The king protea is the national flower of South Africa. The genus is named after Proteus, the Greek god who could change his shape, reflecting the great diversity of the protea family."
     }
   ]
 }

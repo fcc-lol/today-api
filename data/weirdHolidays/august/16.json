@@ -2,36 +2,44 @@
   "date": "August 16",
   "holidays": [
     {
-      "name": "National Tell a Joke Day",
-      "description": "A day dedicated to spreading laughter by telling jokes, puns, and funny tales to friends, family, and even strangers!",
-      "origin": "Originating in the U.S., it encourages humor to brighten people’s lives and reduce stress.",
-      "category": "Humor/Entertainment",
-      "emoji": "😂",
-      "funFact": "The world record for the longest joke ever told is over 68,000 words long — that's a LOT of laughter!"
-    },
-    {
       "name": "National Rum Day",
-      "description": "Celebrate the iconic spirit distilled from sugarcane—rum! Perfect for enthusiasts to enjoy tropical drinks or learn about rum's rich history.",
-      "origin": "An unofficial U.S. food holiday celebrating the versatile alcoholic beverage that has been popular since the 17th century.",
+      "description": "A day for raising a glass to the molasses-based spirit of pirates and tiki bars. Fans sip classic daiquiris, mojitos, and dark-and-stormies, or just pour a little over some pineapple.",
+      "origin": "An unofficial observance with no single documented founder. It grew in popularity through social media and spirits marketing, and is separate from International Rum Day, which is celebrated on other dates by some groups.",
       "category": "Food & Drink",
-      "emoji": "🍹",
-      "funFact": "Pirates famously favored rum, inspiring the term 'grog' when the British Navy mixed rum with water."
+      "emoji": "🥃",
+      "funFact": "Rum was once part of the daily ration for sailors in the British Royal Navy, a tradition that lasted until 1970 and was known as the 'Tot'."
     },
     {
-      "name": "Airborne Day",
-      "description": "Honoring the paratroopers and airborne forces who bravely serve and have shaped military history.",
-      "origin": "Originated as a U.S. Army observance commemorating the first official use of airborne troops in 1940.",
-      "category": "Military/History",
-      "emoji": "🪂",
-      "funFact": "The first airborne operation in combat was during World War II at the Battle of Normandy in 1944."
-    },
-    {
-      "name": "Rollercoaster Day",
-      "description": "A fun celebration for thrill-seekers to ride their favorite rollercoasters or reminisce about exciting amusement park adventures.",
-      "origin": "Unofficial holiday celebrated mainly by theme park enthusiasts and ride lovers.",
-      "category": "Entertainment/Leisure",
+      "name": "National Roller Coaster Day",
+      "description": "A thrill-seeker's holiday for screaming, laughing, and clutching the safety bar as you plummet down a hill at high speed. Amusement park fans celebrate by riding their favorite coasters.",
+      "origin": "Celebrated on August 16 because it marks the anniversary of the patent for the first American roller coaster, the 'Switchback Railway', granted to LaMarcus Adna Thompson in 1885.",
+      "category": "Pop Culture & Fun",
       "emoji": "🎢",
-      "funFact": "The world’s tallest rollercoaster is Kingda Ka in New Jersey, reaching a dizzying 456 feet!"
+      "funFact": "The Switchback Railway at Coney Island opened in 1884 and only reached about 6 miles per hour, yet people lined up to pay a nickel to ride it."
+    },
+    {
+      "name": "National Tell a Joke Day",
+      "description": "A day dedicated to groaning at puns, delivering punchlines, and annoying your coworkers with dad jokes. The worse the joke, the better the celebration.",
+      "origin": "An unofficial observance that popped up in humor circles and on calendars of fun days, encouraging people to share laughter with friends, family, and strangers.",
+      "category": "Humor",
+      "emoji": "😂",
+      "funFact": "One of the oldest known recorded jokes is a Sumerian proverb about a husband and wife, dating back to around 1900 BC."
+    },
+    {
+      "name": "National Bratwurst Day",
+      "description": "A salute to the German sausage that sizzles on grills, nestles in buns, and begs for a generous squirt of mustard and a pile of sauerkraut.",
+      "origin": "This food holiday is celebrated in the United States on August 16, with the day promoted by sausage fans and food calendars as a nod to German culinary heritage, particularly popular in Wisconsin.",
+      "category": "Food",
+      "emoji": "🌭",
+      "funFact": "The word 'bratwurst' comes from Old High German 'brät' meaning finely chopped meat, and 'wurst' meaning sausage. It does not come from the word 'braten' (to fry), though many people assume it does."
+    },
+    {
+      "name": "Bennington Battle Day",
+      "description": "A Vermont state holiday remembering a Revolutionary War victory, celebrated with parades, reenactments, and plenty of local pride.",
+      "origin": "It commemorates the Battle of Bennington on August 16, 1777, when American forces defeated a detachment of British and German troops that had gone looking for supplies, including horses and, reportedly, food.",
+      "category": "Historical",
+      "emoji": "🎖️",
+      "funFact": "Although the battle is named after Bennington, Vermont, it was actually fought in Walloomsac, New York, a few miles away."
     }
   ]
 }

@@ -4,53 +4,57 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant perennial shrub known for its aromatic purple flower spikes and silvery-green foliage. English Lavender is popular in gardens and used in essential oils and dried flower arrangements.",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. It is widely grown in gardens and commercial fields, and its blooms attract bees and butterflies in large numbers.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Mediterranean region; cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "colors": [
+        "purple",
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender oil has been used since Roman times, and the plant's name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flowers above broad, glossy green leaves. It thrives in partial shade and moist, rich soil, and is a classic feature of summer gardens.",
+      "bloomingSeason": "June to September",
+      "location": "Native to Japan; widely cultivated in Europe, the Azores, and eastern North America",
+      "colors": [
+        "blue",
+        "pink",
+        "purple",
+        "white"
+      ],
+      "emoji": "💠",
+      "funFact": "The flower color depends on soil pH and aluminum availability: acidic soils produce blue flowers, while alkaline soils produce pink ones."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves held above the water and spectacular flowers on tall stalks. The leaves have a waxy surface that repels water and dirt. It flowers in warm shallow ponds and wetlands.",
       "bloomingSeason": "June to August",
-      "location": "Mediterranean region, widely cultivated in temperate zones worldwide",
+      "location": "Asia, from India and China to Japan; also naturalized in northern Australia and parts of the southern United States",
       "colors": [
-        "Purple",
-        "Lavender"
+        "pink",
+        "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Lavender has been used historically for its calming scent and was even buried with the dead in ancient Egypt."
+      "emoji": "🪷",
+      "funFact": "Lotus flowers can regulate their own temperature, staying at about 30–35°C (86–95°F) even when the air is much cooler, which helps attract pollinating beetles."
     },
     {
-      "name": "Rhododendron macrophyllum",
-      "commonName": "Pacific Rhododendron",
-      "description": "A large flowering shrub native to the Pacific Northwest of North America, producing large clusters of bell-shaped pink to reddish flowers. It thrives in moist, shaded forest areas.",
-      "bloomingSeason": "May to July",
-      "location": "Pacific Northwest, United States and Canada",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall subtropical tree with fern-like leaves that is covered with clusters of trumpet-shaped lavender flowers. In some regions it blooms in the southern spring, but in the Northern Hemisphere it also blooms around late spring to early summer in warm climates such as California and Florida.",
+      "bloomingSeason": "Late May to June in the Northern Hemisphere; October to November in the Southern Hemisphere",
+      "location": "Native to South America; planted in Pretoria (South Africa), Sydney, Los Angeles, and Mediterranean-climate cities",
       "colors": [
-        "Pink",
-        "Red"
+        "lavender",
+        "purple-blue"
       ],
-      "emoji": "🌸",
-      "funFact": "The Pacific Rhododendron is the state flower of Washington and is valued for its ornamental beauty."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "Floating aquatic perennial with large, round leaves and fragrant white flowers that open during the day and close at night. It inhabits calm freshwater lakes and ponds.",
-      "bloomingSeason": "June to August",
-      "location": "Europe and parts of North Africa and Asia",
-      "colors": [
-        "White",
-        "Yellow center"
-      ],
-      "emoji": "💧",
-      "funFact": "White water lilies have been culturally significant for centuries, often symbolizing purity and tranquility in various mythologies."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A deciduous tree or shrub producing striking bright red, spiky flowers that attract hummingbirds and butterflies. Often found along riverbanks and in warm temperate climates.",
-      "bloomingSeason": "Late spring to summer",
-      "location": "South America, especially Argentina, Uruguay, and Brazil",
-      "colors": [
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Cockspur Coral Tree is the national flower of Argentina and Uruguay and is admired for its vibrant and unusual flower shape."
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because tens of thousands of these trees line its streets and carpet the ground with fallen purple blossoms."
     }
   ]
 }

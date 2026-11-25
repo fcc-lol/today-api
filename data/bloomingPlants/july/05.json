@@ -2,63 +2,63 @@
   "date": "July 5",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are iconic flowering shrubs known for their fragrant, showy blooms. In temperate regions, many rose varieties bloom profusely in early to midsummer, including July. They are widely cultivated but also found in wild forms.",
-      "bloomingSeason": "Late spring to mid summer (May to July)",
-      "location": "Temperate regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of fragrant purple flowers that attract bees and butterflies. Widely grown in gardens and commercial fields for essential oil production.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been used for over 5,000 years for their beauty, fragrance, and symbolic meanings in cultures around the world."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which gave the plant its name from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "The sacred lotus is an aquatic perennial plant famous for its large, fragrant flowers that rise above the water surface. It typically blooms in summer months under warm climates.",
-      "bloomingSeason": "June to August",
-      "location": "Asia (India, China, Japan), tropical and subtropical wetlands",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark disk of tiny seed-producing florets. Early varieties begin flowering in early July.",
+      "bloomingSeason": "Early summer to early fall (July to September)",
+      "location": "Native to North America; cultivated widely in Ukraine, Russia, Argentina, and the United States",
       "colors": [
+        "yellow",
+        "orange",
+        "brown",
+        "burgundy"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds track the sun from east to west during the day (heliotropism), but mature flowers stop moving and face east."
+    },
+    {
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "A deciduous shrub with large rounded clusters of showy flowers. Flower color varies with soil acidity: acidic soils produce blue blooms, while alkaline soils produce pink ones.",
+      "bloomingSeason": "Early summer to early fall (June to September)",
+      "location": "Native to Japan; grown in temperate gardens in Europe, North America, and the Azores",
+      "colors": [
+        "blue",
         "pink",
+        "purple",
         "white"
       ],
-      "emoji": "🌸",
-      "funFact": "The lotus flower folds its petals at night and reopens them at dawn, symbolizing rebirth and purity in many Asian cultures."
-    },
-    {
-      "name": "Alcea rosea",
-      "commonName": "Hollyhock",
-      "description": "Hollyhocks are tall biennial or short-lived perennials prized for their tall spikes lined with multiple blossoms. They bloom heavily in midsummer and are common in cottage gardens and wild along roadsides.",
-      "bloomingSeason": "June to August",
-      "location": "Native to Asia and Europe; cultivated worldwide in temperate zones",
-      "colors": [
-        "pink",
-        "red",
-        "white",
-        "yellow",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "Hollyhocks can grow up to 8 feet tall and attract many pollinators like bees and butterflies."
+      "emoji": "💠",
+      "funFact": "Aluminum availability in acidic soil is what turns the flowers blue, so gardeners can change the bloom color by adjusting soil pH."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "Native to South Africa, the King Protea is famous for its large, striking flower heads resembling artichokes. It blooms primarily in the Southern Hemisphere’s winter and early spring, which corresponds to July in that climate.",
-      "bloomingSeason": "June to September",
-      "location": "South Africa, fynbos biome",
+      "description": "An evergreen shrub with the largest flower heads in the Protea genus, up to 30 cm across, with pink-tipped bracts surrounding a central cone. In the Southern Hemisphere, it blooms in winter and spring, with some flowering in the cool months.",
+      "bloomingSeason": "Late winter to spring in South Africa, with scattered blooms from autumn to early spring (about May to November)",
+      "location": "Fynbos region of the Western Cape, South Africa",
       "colors": [
         "pink",
-        "white",
-        "red"
+        "cream",
+        "silver-white",
+        "crimson"
       ],
-      "emoji": "🌼",
-      "funFact": "The king protea is South Africa’s national flower, and its name derives from the Greek god Proteus, known for changing shape, reflecting the protea’s diverse forms."
+      "emoji": "🌺",
+      "funFact": "King Protea is South Africa's national flower and is one of the oldest flowering plants, with a lineage dating back about 300 million years."
     }
   ]
 }

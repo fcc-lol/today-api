@@ -2,36 +2,44 @@
   "date": "June 23",
   "holidays": [
     {
-      "name": "International Widow's Day",
-      "description": "A day to recognize and support widows worldwide, raising awareness about the challenges they face and advocating for their rights and dignity.",
-      "origin": "Established by the United Nations in 2011 to address the issues of widows, including poverty and social stigma, which affect millions globally.",
+      "name": "National Pink Day",
+      "description": "A day to celebrate all things pink, from flamingos and bubblegum to rosé and cotton candy. Folks are encouraged to wear pink, eat pink foods, and decorate with the cheerful color.",
+      "origin": "An unofficial observance popularized through novelty-holiday calendars and social media, celebrating the color's associations with joy, kindness, and playfulness.",
+      "category": "Color Celebration",
+      "emoji": "🩷",
+      "funFact": "The 'Baker-Miller Pink' shade was once used to paint holding cells in some prisons in the late 1970s because researchers believed it could calm aggression, though later studies found the effect to be short-lived."
+    },
+    {
+      "name": "Let It Go Day",
+      "description": "A day to release grudges, clutter, worries, and perfectionism. Think of it as permission to stop stressing, whether you belt the Frozen song in the shower or simply toss out that junk drawer.",
+      "origin": "An unofficial self-care observance that encourages people to let go of what no longer serves them. It's a popular theme on wellness and novelty-holiday calendars.",
+      "category": "Wellness / Pop Culture",
+      "emoji": "❄️",
+      "funFact": "The song 'Let It Go' from Disney's Frozen won the Academy Award for Best Original Song in 2014 and has been translated into more than 40 languages for the film's international releases."
+    },
+    {
+      "name": "International Widows Day",
+      "description": "A United Nations observance that shines a light on the poverty, discrimination, and legal injustice many widows face around the world. It is a serious awareness day amid the quirkier ones on this date.",
+      "origin": "The UN General Assembly officially designated June 23 as International Widows Day in 2010, following years of advocacy by the Loomba Foundation, which first marked the day in 2005.",
       "category": "Awareness Day",
-      "emoji": "👰‍♀️",
-      "funFact": "Widows often face discrimination and poverty, yet many cultures historically neglected their rights, making this day crucial for global empathy and action."
+      "emoji": "🕊️",
+      "funFact": "The date was chosen to honor the anniversary of the day Raj Loomba's mother became a widow in 1954, and the Loomba Foundation was created in her memory."
     },
     {
-      "name": "National Pink Day (USA)",
-      "description": "A cheerful day dedicated to celebrating the color pink in all its shades and forms, embracing its fun, vibrant, and sometimes rebellious connotations.",
-      "origin": "An unofficial and playful observance created by color enthusiasts in the USA, popularized via social media challenges and fashion statements.",
-      "category": "Color/Fun Day",
-      "emoji": "🎀",
-      "funFact": "Pink was once a color associated with masculinity in the early 1900s before evolving into the feminine symbol it often represents today!"
+      "name": "United Nations Public Service Day",
+      "description": "A day to applaud the civil servants who keep the world running, from the people who fix the roads and process permits to those who answer the phones at city hall.",
+      "origin": "The UN General Assembly designated June 23 as UN Public Service Day in 2002 to recognize the value and virtue of public service to the community.",
+      "category": "Official Observance",
+      "emoji": "🏛️",
+      "funFact": "The UN Public Service Awards, given on this day, recognize innovative government programs, and winners have included projects ranging from digital citizen portals to community health initiatives."
     },
     {
-      "name": "Go Skateboarding Day",
-      "description": "An annual event encouraging people of all ages to hop on their skateboards and showcase their skills, creativity, and love for skating culture.",
-      "origin": "Started by the International Association of Skateboard Companies in 2004 as a way to promote skateboarding and bring communities together.",
-      "category": "Sports/Culture",
-      "emoji": "🛹",
-      "funFact": "Some cities organize huge skate jams and competitions; in 2010, a Guinness World Record was set with over 8000 skateboarders rolling together!"
-    },
-    {
-      "name": "Upsy Daisy Day",
-      "description": "A quirky day to perk up your spirits, encourage positivity, and brighten someone's day — much like the cheerful 'upsy daisy' saying said to toddlers.",
-      "origin": "Unofficial fun holiday from the UK that embraces optimism and the power of a smile through playful antics and kind gestures.",
-      "category": "Feel-Good/Quirky",
-      "emoji": "🌼",
-      "funFact": "The phrase 'upsy daisy' likely originated from a gentle way to help children or animals stand up, now inspiring adult fun and silliness too!"
+      "name": "Typewriter Day",
+      "description": "A tribute to the clacking, dinging, ink-ribbon marvel that powered a century of writing. Typewriter fans celebrate by banging out letters, poems, and the occasional ill-advised novel.",
+      "origin": "The date honors the anniversary of Christopher Latham Sholes receiving a patent for his typewriter on June 23, 1868.",
+      "category": "History / Technology",
+      "emoji": "⌨️",
+      "funFact": "The QWERTY keyboard layout is often said to have been designed to keep typebars from jamming, which is why common letter pairs were separated, and that layout still dominates the phone in your pocket today."
     }
   ]
 }

@@ -2,57 +2,60 @@
   "date": "September 27",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy flowering plant common in North American prairies and gardens, known for its bright yellow petals and dark brown central cone. It attracts pollinators such as bees and butterflies.",
-      "bloomingSeason": "July to October",
-      "location": "Eastern and Central North America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped pinkish-lilac flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by early summer. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to Europe, including the UK, France and Germany; widely cultivated in temperate gardens in North America and Asia",
       "colors": [
-        "yellow",
-        "brown"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are often used in wildflower mixes to restore natural prairies and attract beneficial insects."
+      "emoji": "🌷",
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and in plant breeding to induce chromosome doubling. It is sometimes called 'naked ladies' because the flowers appear without leaves."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub popular in Mediterranean climates, producing clusters of fragrant flowers throughout much of the year, but especially abundant in late summer to fall.",
-      "bloomingSeason": "Spring to November",
-      "location": "Mediterranean Basin, Southern USA, and similar climates",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, bushy perennial wildflower with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in moist meadows, roadsides and prairies, and is a vital late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rocky Mountains; cultivated worldwide",
       "colors": [
-        "pink",
-        "white",
-        "red"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow center"
       ],
-      "emoji": "🌺",
-      "funFact": "Oleander is highly toxic if ingested, yet it has been used medicinally in traditional medicine under strict conditions."
+      "emoji": "💜",
+      "funFact": "Monarch butterflies depend heavily on New England asters for fuel during their autumn migration to Mexico, and the timing of the bloom often coincides with their passage."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing Australian native tree with fern-like leaves and bright orange, brush-shaped flowers that bloom in late winter through to spring and sometimes into early fall in favorable climates.",
-      "bloomingSeason": "Winter to fall (varies by location)",
-      "location": "Eastern Australia and subtropical regions worldwide",
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Guernsey Lily relative)",
+      "description": "A bulbous perennial with strappy leaves and sturdy stems topped with umbels of narrow-petaled, wavy-edged pink flowers that shimmer with a glittering surface. It prefers sunny, well-drained positions and blooms as days shorten.",
+      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
+      "location": "Native to the Drakensberg mountains of South Africa; widely grown in gardens of the UK, Europe and the Pacific coast of North America",
       "colors": [
-        "orange"
-      ],
-      "emoji": "🌲",
-      "funFact": "Despite its common name, Silky Oak is not a true oak but gets its name from its timber which has a silky texture."
-    },
-    {
-      "name": "Fuchsia magellanica",
-      "commonName": "Hardy Fuchsia",
-      "description": "A deciduous shrub or small tree native to South America, producing elegant, pendulous flowers in vivid pinks and purples that bloom late summer through fall.",
-      "bloomingSeason": "Summer to fall",
-      "location": "Southern Chile and Argentina; widely cultivated in temperate zones",
-      "colors": [
-        "pink",
-        "purple",
-        "red"
+        "Bright pink",
+        "Rose pink"
       ],
       "emoji": "🌸",
-      "funFact": "Fuchsias are named after the German botanist Leonhart Fuchs and are popular for attracting hummingbirds during bloom."
+      "funFact": "The petals have a sparkling, diamond-dust appearance, which is why nerines are sometimes called 'diamond lilies'. They bloom best when bulbs are crowded and baked by summer sun."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing, semi-deciduous tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers, carpeting streets and parks with fallen blossoms.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (late September to November)",
+      "location": "Native to South America; famous in Pretoria (South Africa), Sydney and Brisbane (Australia), and Buenos Aires (Argentina)",
+      "colors": [
+        "Lavender",
+        "Blue-violet",
+        "Purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, nicknamed the 'Jacaranda City', thousands of trees bloom in spring, and in Australia a folk belief holds that a jacaranda blossom falling on your head brings good luck."
     }
   ]
 }

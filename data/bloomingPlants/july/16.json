@@ -2,59 +2,58 @@
   "date": "July 16",
   "plants": [
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "A classic species of rose native to Europe, especially prized for its rich fragrance and deep pink to crimson flowers. It has been cultivated since medieval times and is often found blooming in summer gardens.",
-      "bloomingSeason": "June to July",
-      "location": "Temperate regions of Europe and North America (cultivated)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of fragrant flowers that attract bees and butterflies. It is widely cultivated for essential oils, culinary use, and ornamental borders.",
+      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, with major cultivation in Provence (France), England, Bulgaria, and the northern United States",
+      "colors": [
+        "purple",
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "The name Lavandula likely comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large composite flower head made of hundreds of tiny florets. Young flower heads track the sun across the sky, and mature plants are valued for seeds, oil, and ornament.",
+      "bloomingSeason": "Mid to late summer (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated in Ukraine, Russia, Argentina, and the United States",
+      "colors": [
+        "yellow",
+        "golden orange",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "The spiral patterns in a sunflower head follow Fibonacci numbers, which allows the seeds to pack in as efficiently as possible."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial that rises from muddy water on long stalks, bearing large, fragrant flowers and round, water-repellent leaves. It is culturally important in many Asian traditions and is also grown for edible seeds and rhizomes.",
+      "bloomingSeason": "Summer (June to August in temperate Asia)",
+      "location": "Asia, including India, China, Japan, and Vietnam, and northern Australia; widely grown in ponds worldwide",
       "colors": [
         "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic surface structure that makes them self-cleaning, a phenomenon known as the 'lotus effect'."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A striking evergreen shrub with large, rounded flower heads surrounded by showy bracts. Although its main bloom is in spring, in some years a few flowers can appear into the Southern Hemisphere winter, and related Australian natives such as Banksia flower in July.",
+      "bloomingSeason": "Spring in Australia (September to November), with Southern Hemisphere winter flowering in related species like Banksia ericifolia",
+      "location": "Southeastern Australia, particularly the Sydney region of New South Wales",
+      "colors": [
         "crimson",
         "red"
       ],
-      "emoji": "🌹",
-      "funFact": "Rosa gallica is historically significant as it was used to make 'rose water' and early perfumes."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Bigleaf Lupine",
-      "description": "A tall, striking flowering plant with dense spikes of pea-like flowers. It is native to western North America and often blooms in summer, attracting numerous pollinators.",
-      "bloomingSeason": "June to August",
-      "location": "Western North America (Pacific Northwest)",
-      "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Lupines fix nitrogen in the soil through symbiotic bacteria in their roots, improving soil fertility."
-    },
-    {
-      "name": "Nymphaea nouchali",
-      "commonName": "Star Lotus",
-      "description": "An aquatic plant with star-shaped blue or white flowers that float on the surface of ponds and lakes. Native to South and Southeast Asia, it blooms in warm summer months.",
-      "bloomingSeason": "June to August",
-      "location": "Tropical and subtropical Asia",
-      "colors": [
-        "blue",
-        "white"
-      ],
-      "emoji": "💧",
-      "funFact": "The Star Lotus is the national flower of Sri Lanka and symbolizes purity and enlightenment."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy North American wildflower known for its large purple-pink petals and prominent cone-shaped center. Blooms peak in mid-summer and it is used medicinally and ornamentally.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central United States (wild and cultivated)",
-      "colors": [
-        "purple",
-        "pink"
-      ],
-      "emoji": "🌻",
-      "funFact": "Echinacea is valued in herbal medicine for boosting the immune system and treating colds."
+      "emoji": "🌺",
+      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from an Aboriginal word meaning 'seen from afar'."
     }
   ]
 }

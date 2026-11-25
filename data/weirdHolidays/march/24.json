@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Chocolate Covered Raisin Day",
-      "description": "A delightful day dedicated to enjoying the sweet, chewy treat of chocolate-covered raisins — a perfect blend of fruit and chocolate!",
-      "origin": "Originated as a fun food day to celebrate the popular snack, no specific founder but embraced by confectionery enthusiasts.",
-      "category": "Food Holiday",
-      "emoji": "🍫🍇",
-      "funFact": "Chocolate-covered raisins were once dubbed 'Nature’s Candy' because they combine the health benefits of fruit with the indulgence of chocolate!"
+      "description": "A day to celebrate the humble raisin by dunking it in chocolate and eating it by the handful, ideally at a movie theater or while pretending it's a healthy snack.",
+      "origin": "Like many American food days, it appears to be a promotional observance that grew out of the snack industry and food-calendar enthusiasts, with no single documented founder.",
+      "category": "Food Day",
+      "emoji": "🍫",
+      "funFact": "Chocolate covered raisins have long been a classic movie theater candy, and they are often sold under brand names like Raisinets, which debuted in the 1920s."
+    },
+    {
+      "name": "National Cocktail Day",
+      "description": "A day for raising a glass to the art of mixology, whether that means a fancy craft cocktail or a lovingly shaken classic made at home.",
+      "origin": "The day is an unofficial observance popularized through bar and spirits marketing, and its date has varied, with March 24 being one commonly listed.",
+      "category": "Food and Drink Day",
+      "emoji": "🍸",
+      "funFact": "The word cocktail was defined in print in 1806 in an upstate New York newspaper as a mix of spirits, sugar, water, and bitters."
     },
     {
       "name": "World Tuberculosis Day",
-      "description": "An important awareness day to raise public health attention on the global fight against tuberculosis (TB), a serious infectious disease.",
-      "origin": "Commemorates the discovery of the TB bacterium by Robert Koch on March 24, 1882.",
+      "description": "A serious but important global awareness day dedicated to educating the public about tuberculosis and the push to end the epidemic.",
+      "origin": "It marks the date in 1882 when Dr. Robert Koch announced he had discovered the bacterium that causes TB, and the World Health Organization recognizes it each year.",
       "category": "Awareness Day",
-      "emoji": "🦠🩺",
-      "funFact": "TB was once known as 'consumption' due to the severe weight loss it caused in patients."
+      "emoji": "🫁",
+      "funFact": "Koch's discovery was so significant that he later won the 1905 Nobel Prize in Physiology or Medicine."
     },
     {
-      "name": "Puppy Day",
-      "description": "A heartwarming day to celebrate puppies and encourage adoption of furry friends in need of a forever home.",
-      "origin": "Created by animal lovers and advocates to spotlight the joy and companionship puppies bring.",
-      "category": "Animal Day",
-      "emoji": "🐶🎉",
-      "funFact": "Puppies open their eyes for the first time about two weeks after birth, opening up a whole new world of curiosity and mischief!"
+      "name": "Digital Learning Day Adjacent: Cheesesteak Day",
+      "description": "A day to honor the Philadelphia cheesesteak, a sandwich of thinly sliced beef, melted cheese, and fried onions on a long roll, and to argue loudly about the right cheese.",
+      "origin": "National Cheesesteak Day is a food observance tied to Philadelphia's famous sandwich, which is credited to Pat Olivieri, who reportedly created it in the 1930s.",
+      "category": "Food Day",
+      "emoji": "🥪",
+      "funFact": "The cheesesteak legend says Pat Olivieri, a hot dog vendor, first grilled beef for himself, and a cab driver asked for one of his own, leading to a sandwich empire."
     },
     {
-      "name": "Berry Hunting Day",
-      "description": "An unofficial quirky celebration where enthusiasts hunt for wild berries or enjoy berry-themed treats.",
-      "origin": "Celebrated by nature lovers and berry fans who appreciate the thrill of foraging and tasting fresh berries.",
-      "category": "Outdoor Activity/Food Holiday",
-      "emoji": "🍓🍒",
-      "funFact": "Wild berries have served as an important food source for humans and wildlife for thousands of years."
+      "name": "Chocolate Covered Raisin Day's Rival: Cheerleading Hug Day Alternative: Barbie Day Alternative: Day of Remembrance for Archbishop Romero",
+      "description": "The International Day for the Right to the Truth Concerning Gross Human Rights Violations honors victims of human rights abuses and the dignity of those who fight for justice.",
+      "origin": "The United Nations established it in 2010, choosing March 24 to honor Archbishop Óscar Romero, who was assassinated in El Salvador in 1980.",
+      "category": "Awareness Day",
+      "emoji": "🕊️",
+      "funFact": "Archbishop Romero was canonized as a saint by Pope Francis in 2018."
     }
   ]
 }

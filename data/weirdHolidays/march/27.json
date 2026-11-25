@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "World Theatre Day",
-      "description": "A day to celebrate the magic of theatre and the performing arts worldwide. It’s a chance to appreciate all the drama (and comedy) life offers on stage!",
-      "origin": "Established in 1961 by the International Theatre Institute (ITI), the day promotes awareness of theatre’s importance across cultures.",
-      "category": "Cultural/Arts",
+      "description": "A global celebration of the performing arts, when theatres around the world dim the lights, raise the curtain, and remind everyone that drama is best experienced live (and preferably with overpriced snacks).",
+      "origin": "Founded in 1961 by the International Theatre Institute (ITI) at the ITI World Congress in Vienna. Each year a prominent theatre figure writes an International Message, which is read in theatres worldwide.",
+      "category": "Arts & Culture",
       "emoji": "🎭",
-      "funFact": "Many theatres around the globe offer free or discounted performances on this day to encourage new audiences."
+      "funFact": "The first World Theatre Day message was written by French playwright Jean Cocteau in 1962."
     },
     {
-      "name": "Texas Day",
-      "description": "A day to celebrate the unique history, culture, and identity of the Lone Star State, even if you’re not a Texan!",
-      "origin": "Named by local observances to honor Texas; March 27 is when Texas was admitted to the Union in 1845.",
-      "category": "Regional Pride",
+      "name": "Quirky Country Music Song Titles Day",
+      "description": "A day to celebrate the glorious absurdity of country music song titles, from heartbreak to pickup trucks to dogs, with humor and twang in equal measure.",
+      "origin": "An unofficial, fan-driven observance listed in quirky holiday calendars, inspired by country music's long tradition of wonderfully punny and over-the-top song titles.",
+      "category": "Music & Pop Culture",
       "emoji": "🤠",
-      "funFact": "Texas was once an independent nation before becoming the 28th state of the USA!"
+      "funFact": "Real country titles include 'I've Got Tears in My Ears from Lyin' on My Back in My Bed While I Cry Over You' and 'How Can I Miss You If You Won't Go Away?'"
+    },
+    {
+      "name": "Scribble Day",
+      "description": "A day to put pen to paper and doodle without judgment. No talent required, and the more chaotic the squiggles, the better. Perfect for meetings that could have been emails.",
+      "origin": "An informal creative observance that encourages people to embrace spontaneous drawing and play, popularized through online lists of fun and unusual days.",
+      "category": "Creativity",
+      "emoji": "✏️",
+      "funFact": "Studies have suggested that doodling can actually help people retain information, so scribbling during a boring lecture may be quietly boosting your memory."
     },
     {
       "name": "Respect Your Cat Day",
-      "description": "A purr-fect day to show extra love and admiration for your feline friends, because they rule the house!",
-      "origin": "Unofficial holiday created by cat enthusiasts to encourage people to pamper their cats.",
-      "category": "Pet Appreciation",
+      "description": "A day for humans to acknowledge their feline overlords. Respect the cat's schedule, its personal space, and its sacred right to knock things off tables.",
+      "origin": "A lighthearted unofficial pet observance that encourages cat owners to better understand and honor their cats' body language and boundaries.",
+      "category": "Animals & Pets",
       "emoji": "🐱",
-      "funFact": "Cats reportedly spend about 70% of their lives sleeping, so give them a comfy spot today!"
+      "funFact": "Cats have a specialized collarbone structure that lets them squeeze through any gap their head can fit through, which is why they always appear to be somewhere you didn't expect."
     },
     {
-      "name": "National Scallops Day",
-      "description": "A delicious day devoted to the sweet and succulent shellfish scallops. Time to cook up some buttery seafood goodness!",
-      "origin": "Unofficial food holiday celebrated by seafood fans and chefs alike to honor this prized ingredient.",
-      "category": "Food",
-      "emoji": "🦪",
-      "funFact": "Scallops can swim by rapidly opening and closing their shells — talk about active seafood!"
+      "name": "Take a Walk in the Park Day",
+      "description": "An invitation to step away from screens and stroll through a park, breathing fresh air, greeting squirrels, and pretending you totally planned to be outdoors.",
+      "origin": "An informal wellness observance that began circulating in calendars of fun national days, promoting outdoor activity and the mental benefits of nature.",
+      "category": "Wellness & Outdoors",
+      "emoji": "🌳",
+      "funFact": "Research has found that spending just 20 minutes in a natural setting can measurably lower stress hormone levels."
     }
   ]
 }

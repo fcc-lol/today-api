@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Creamsicle Day",
-      "description": "Celebrate the delightful frozen treat that combines creamy vanilla and tangy orange flavors in a refreshing popsicle form.",
-      "origin": "The Creamsicle was invented in the early 1900s, with the treat becoming popular in the 1950s as an ideal summer frozen dessert.",
-      "category": "Food Holiday",
-      "emoji": "🍦",
-      "funFact": "The Creamsicle actually came before the more famous Fudgsicle, making it one of the first branded ice pops in America!"
+      "description": "A day to celebrate the nostalgic frozen treat that combines tangy orange sherbet with creamy vanilla ice cream, all on a stick. Perfect for sticky fingers and sunny afternoons.",
+      "origin": "An unofficial food holiday that has circulated in food-day calendars. The treat itself became popular in the early 20th century, when Henry Nelson Burt of Detroit, Michigan, is credited with the original ice cream bar and its frozen-orange variations. The Creamsicle brand was trademarked by Popsicle's parent company.",
+      "category": "Food Day",
+      "emoji": "🍊",
+      "funFact": "The name 'Creamsicle' is a trademark, so technically a creamsicle from another brand is just an orange-and-cream bar. The flavor combo has since spread to sodas, candies, cocktails, and even cupcakes."
     },
     {
-      "name": "Violet Warning Day",
-      "description": "A quirky day that humorously warns people about the surprising invasiveness of violet flowers in gardens.",
-      "origin": "Originated from gardening communities noticing how these seemingly innocent flowers spread rapidly and take over beds and lawns.",
-      "category": "Nature/Environmental Awareness",
-      "emoji": "💜",
-      "funFact": "Though delicate-looking, violets can spread underground by runners, making them tough to remove once established."
+      "name": "National Navajo Code Talkers Day",
+      "description": "A day honoring the Navajo Marines who used their native language to create an unbreakable military code during World War II.",
+      "origin": "In 1982, the U.S. government designated August 14 as National Navajo Code Talkers Day, honoring the Navajo men who served as radio operators in the Pacific theater and helped transmit secret messages the Japanese never cracked.",
+      "category": "Awareness Day",
+      "emoji": "🪶",
+      "funFact": "The Navajo Code Talkers helped send and receive over 800 messages without error during the battle of Iwo Jima, and the code was kept classified until 1968."
     },
     {
-      "name": "National Black Cow Day",
-      "description": "A celebration of the tasty classic soda fountain drink made with root beer and creamy vanilla ice cream.",
-      "origin": "Black Cow is a vintage soda fountain favorite dating back to the early 20th century, often enjoyed as a retro indulgence.",
-      "category": "Food Holiday",
-      "emoji": "🥤",
-      "funFact": "Different regions have variations of the Black Cow; in some places, it's called a Root Beer Float."
-    },
-    {
-      "name": "National Financial Awareness Day",
-      "description": "A day to raise awareness about the importance of financial literacy and awareness of personal finances.",
-      "origin": "Created by financial education advocates to encourage better money management and understanding of finances.",
+      "name": "Financial Awareness Day",
+      "description": "A day dedicated to taking a good, hard look at your wallet, bank account, and spending habits. It encourages people to learn about budgeting, saving, and avoiding that mystery subscription you forgot about.",
+      "origin": "An informal awareness observance promoted by personal finance enthusiasts and educators, intended to nudge people toward financial literacy in the late summer, after vacation spending has taken its toll.",
       "category": "Awareness Day",
       "emoji": "💰",
-      "funFact": "Research shows many Americans struggle with basic money management skills—this day aims to help change that!"
+      "funFact": "Studies regularly find that many people underestimate how much they spend on subscriptions, often by well over 100 dollars a month."
+    },
+    {
+      "name": "National Tattoo Removal Day",
+      "description": "A tongue-in-cheek day for anyone with regrettable ink, from ex-partner names to questionable tribal designs. It is a day to consider a fresh start for your skin.",
+      "origin": "A humorous, unofficial observance that popped up on quirky holiday calendars, tied to the growing popularity of laser tattoo removal services over the past couple of decades.",
+      "category": "Unofficial Observance",
+      "emoji": "✨",
+      "funFact": "Laser tattoo removal works by shattering ink particles into pieces small enough for the body's immune system to carry away, and it often takes many sessions to fade a tattoo completely."
+    },
+    {
+      "name": "Pakistan Independence Day Eve Celebrations",
+      "description": "As Pakistan prepares to mark its Independence Day on August 14, streets, rooftops, and vehicles are decked out in green and white flags, bunting, and face paint in a festive spectacle.",
+      "origin": "Pakistan became an independent nation on August 14, 1947, following the partition of British India. The date has been celebrated annually with flag-raising ceremonies, parades, fireworks, and patriotic songs.",
+      "category": "Cultural Celebration",
+      "emoji": "🇵🇰",
+      "funFact": "At midnight on August 14, many Pakistanis celebrate with fireworks and honking horns, and it's common to see motorbikes and rickshaws covered head to toe in national flag colors."
     }
   ]
 }

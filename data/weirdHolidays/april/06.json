@@ -2,36 +2,44 @@
   "date": "April 6",
   "holidays": [
     {
-      "name": "Tweed Day",
-      "description": "A day to celebrate the classic Scottish fabric worn proudly by all manner of folks—from dashing dandies to smart detectives! Don your favorite tweed jacket, cap, or skirt and embrace your inner old-school charm.",
-      "origin": "Originating in Scotland, Tweed Day celebrates the heritage and craftsmanship of tweed fabric, often associated with outdoor sports and traditional Scottish attire.",
-      "category": "Fashion/Cultural",
-      "emoji": "🧥",
-      "funFact": "Tweed was originally designed to be durable and water-resistant, making it perfect for hunting and farming in the damp Scottish countryside."
+      "name": "National Tartan Day",
+      "description": "A day to celebrate all things plaid-ish and Scottish, when people proudly don tartan kilts, scarves, and ties and the bagpipes come out to play.",
+      "origin": "The U.S. Senate designated April 6 as National Tartan Day in 1997, and it was formally recognized in 2005. The date marks the signing of the Declaration of Arbroath in 1320, Scotland's declaration of independence.",
+      "category": "Cultural Observance",
+      "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "funFact": "New York City hosts a Tartan Day Parade featuring hundreds of pipers, and Canada celebrates its own Tartan Day on April 6 too."
+    },
+    {
+      "name": "National Caramel Popcorn Day",
+      "description": "A sticky, crunchy salute to popcorn drenched in buttery caramel, perfect for movie nights, fairground nostalgia, and ruining your dental work.",
+      "origin": "This unofficial food holiday grew out of the American snack tradition that took off with Cracker Jack, which debuted in the late 1800s and made caramel-coated popcorn a household favorite.",
+      "category": "Food Holiday",
+      "emoji": "🍿",
+      "funFact": "Cracker Jack was mentioned in the 1908 song 'Take Me Out to the Ball Game,' making it one of the few snacks immortalized in a baseball anthem."
     },
     {
       "name": "New Beer's Eve",
-      "description": "Raise a glass! New Beer's Eve is the celebration that happens on the eve of the anniversary of the repeal of Prohibition in the U.S., perfect for craft beer enthusiasts and history buffs alike.",
-      "origin": "Commemorates the date in 1933 when the Cullen–Harrison Act went into effect, allowing the sale of beer with low alcohol content, effectively ending Prohibition.",
-      "category": "Food & Drink/Historical",
+      "description": "The night before the anniversary of the end of Prohibition-era beer bans, when fans of suds gather to toast the 'new' beer that is about to be legal again.",
+      "origin": "On April 6, 1933, the day before the Cullen-Harrison Act took effect on April 7, Americans stocked up and celebrated the return of legal beer with 3.2% alcohol content after years of Prohibition.",
+      "category": "Drink Holiday",
       "emoji": "🍺",
-      "funFact": "Many breweries host special events on New Beer's Eve to honor the liberating moment for beer lovers everywhere."
+      "funFact": "When beer became legal again, Budweiser sent a team of Clydesdales to deliver a case to the White House, starting a long-running marketing tradition."
     },
     {
-      "name": "Tartan Day",
-      "description": "Celebrate Scottish heritage beyond Scotland! Tartan Day honors Scottish culture and its widespread influence, with parades, music, and plenty of kilts and bagpipes.",
-      "origin": "Established in 1998 in North America, Tartan Day commemorates the signing of the Declaration of Arbroath in 1320, Scotland's declaration of independence.",
-      "category": "Cultural Heritage",
-      "emoji": "🏴",
-      "funFact": "In addition to Scotland, Tartan Day is celebrated by Scottish descendants around the world, including the U.S., Canada, and Australia."
+      "name": "World Table Tennis Day",
+      "description": "A day dedicated to ping pong, the sport where tiny balls fly at alarming speeds and basements everywhere become Olympic arenas.",
+      "origin": "The International Table Tennis Federation established World Table Tennis Day in 2015 to promote the sport worldwide, choosing April 6 to mark the date of the first World Table Tennis Championships in 1926.",
+      "category": "Sports Observance",
+      "emoji": "🏓",
+      "funFact": "Table tennis balls can spin at over 9,000 revolutions per minute, and the sport was once banned in the Soviet Union for a time over health concerns."
     },
     {
-      "name": "Siblings Day (U.S.)",
-      "description": "A fun and quirky observance to honor the unique relationship you have with your siblings—whether they're partners in crime, lifelong friends, or just people who share your DNA!",
-      "origin": "Founded in 1995 by Claudia Evart to celebrate the importance of siblings and family bonds.",
-      "category": "Family/Relationship",
-      "emoji": "👫",
-      "funFact": "Siblings Day is not yet a federal holiday but is widely celebrated on social media with hashtags and photos of sibling love."
+      "name": "International Day of Sport for Development and Peace",
+      "description": "A global celebration of using sports, from soccer to hopscotch, as a tool to bring people together and promote peace and understanding.",
+      "origin": "The United Nations General Assembly declared April 6 as the day in 2013, selecting it because the first modern Olympic Games opened in Athens on April 6, 1896.",
+      "category": "Awareness Day",
+      "emoji": "🏅",
+      "funFact": "The 1896 Athens Olympics featured just 14 nations and about 241 athletes, and winners received silver medals and olive branches instead of gold."
     }
   ]
 }

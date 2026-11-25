@@ -2,36 +2,44 @@
   "date": "September 1",
   "holidays": [
     {
-      "name": "National No Rhyme (Nor Reason) Day",
-      "description": "Celebrate the mysterious side of language by honoring words and phrases that just don’t rhyme with anything else—no reason, no rhyme! Embrace the quirky oddities of English.",
-      "origin": "Started as a playful acknowledgment of the difficulties poets and songwriters face trying to rhyme awkward words, this day was adopted by linguists and language lovers.",
-      "category": "Language & Literature",
-      "emoji": "🗣️",
-      "funFact": "Despite its name, 'orange,' 'silver,' and 'purple' are famous words celebrated on this day for their lack of perfect rhymes."
-    },
-    {
-      "name": "Tattoo Removal Day",
-      "description": "A day for those considering saying goodbye to a tattoo—whether due to a change of heart or a new aesthetic direction!",
-      "origin": "Coincides with the increasing popularity and accessibility of tattoo removal technology in the 21st century.",
-      "category": "Health & Lifestyle",
-      "emoji": "🧴",
-      "funFact": "The most commonly removed tattoo is a name, highlighting how relationships can outlast ink!"
-    },
-    {
       "name": "National Cherry Popover Day",
-      "description": "A delicious day dedicated to enjoying cherry popovers, delightfully airy pastries filled with sweet cherries, perfect for a breakfast treat or dessert.",
-      "origin": "A culinary celebration created by baking enthusiasts in the U.S. to spotlight this lesser-known pastry variety.",
-      "category": "Food & Drink",
+      "description": "A day to celebrate the puffy, golden, cherry-filled pastry that is part popover, part dessert, and entirely worth getting flour on your shirt for.",
+      "origin": "Like many food observances, it comes from the unofficial national food day calendar, which is kept going by food fans and social media rather than any government. The exact creator is unclear.",
+      "category": "Food Holiday",
       "emoji": "🍒",
-      "funFact": "Popovers owe their fluffy texture to steam puffing the batter; cherries just add a sweet surprise!"
+      "funFact": "Popovers got their name because the batter expands so much in the oven that it 'pops over' the top of the baking cup. They are close relatives of Yorkshire pudding."
     },
     {
-      "name": "Beginning of Meteorological Autumn (Northern Hemisphere)",
-      "description": "Mark the official start of meteorological fall, based on calendar months rather than the equinox, welcoming cooler weather and changing leaves.",
-      "origin": "Meteorologists use this date for consistent seasonal statistics, differing from the astronomical autumn.",
-      "category": "Seasonal & Nature",
-      "emoji": "🍂",
-      "funFact": "Meteorological seasons divide the year into four groups of three months each for easier climate comparison."
+      "name": "World Letter Writing Day",
+      "description": "A day for putting down the phone and writing an actual letter by hand, with paper, a pen, and possibly a questionable amount of sealing wax.",
+      "origin": "It was created by letter-writing enthusiasts who wanted to keep the old art of correspondence alive in the digital age. It is observed informally around the world.",
+      "category": "Pop Culture Celebration",
+      "emoji": "✉️",
+      "funFact": "Some of the oldest known letters are clay tablets from ancient Mesopotamia, which means early mail came with a serious weight problem."
+    },
+    {
+      "name": "Emma Nutt Day",
+      "description": "A day honoring Emma Nutt, the world's first female telephone operator, who proved that a friendly voice could change an entire industry.",
+      "origin": "Emma Nutt started work on September 1, 1878, in Boston at the Edwin Holmes Telephone Dispatch Company. Her pleasant, calm voice impressed the company so much that it soon hired women for nearly all operator jobs.",
+      "category": "Historical Observance",
+      "emoji": "☎️",
+      "funFact": "Emma Nutt was also the first person ever to answer a phone call as a paid job, and she worked as an operator for around 33 years. Her sister Stella Nutt became the second female operator."
+    },
+    {
+      "name": "Ginger Cat Appreciation Day",
+      "description": "A day for admiring orange tabbies, the fluffy, food-obsessed, chaotic goofballs of the cat world.",
+      "origin": "It began as an internet-driven pet holiday, as fans of orange cats took to social media to share photos and stories of their fiery felines.",
+      "category": "Pet Holiday",
+      "emoji": "🐈",
+      "funFact": "About 80 percent of orange cats are male, because the gene for orange fur is carried on the X chromosome. A female must inherit it from both parents, while a male needs only one copy."
+    },
+    {
+      "name": "Chilean Pisco Sour Day Observance Season Kickoff / No Rhyme Day",
+      "description": "An unofficial observance, also known as the 'Slap-Happy Start to Autumn,' used by many people around the world to declare the first day of 'ber' months and begin pumpkin spice countdowns.",
+      "origin": "The 'Ber Months' tradition began in the Philippines, where people start celebrating Christmas as soon as September begins. The 'Ber Months' are September, October, November, and December.",
+      "category": "Cultural Tradition",
+      "emoji": "🎄",
+      "funFact": "Filipinos often kick off the Christmas season on September 1 by playing Christmas songs, most famously Jose Mari Chan's 'Christmas in Our Hearts,' which has become a seasonal meme."
     }
   ]
 }

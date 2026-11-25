@@ -2,54 +2,61 @@
   "date": "May 1",
   "plants": [
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A popular deciduous flowering tree known for its large, tulip-shaped pink and white flowers that appear before the leaves in spring. Commonly found in temperate gardens worldwide, especially in North America and Europe.",
-      "bloomingSeason": "March to May",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Thousands of cultivars exist, ranging from single early types to frilled parrot and double forms. It is a hallmark of spring gardens in temperate climates.",
+      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
+      "location": "Cultivated worldwide; famous displays in the Netherlands, such as Keukenhof, and in temperate gardens in North America and Europe",
       "colors": [
-        "pink",
-        "white"
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "In the 1630s, tulip bulbs in the Netherlands became so valuable during 'Tulip Mania' that a single rare bulb could cost more than a house."
+    },
+    {
+      "name": "Hyacinthoides non-scripta",
+      "commonName": "English Bluebell",
+      "description": "A woodland bulb that forms dense carpets beneath deciduous trees, with drooping, one-sided spikes of fragrant, bell-shaped flowers. It thrives in ancient, undisturbed woodlands and is an indicator of old forest habitat.",
+      "bloomingSeason": "Late April to May",
+      "location": "Native to the British Isles, western France, Spain, and Belgium woodlands",
+      "colors": [
+        "Violet-blue",
+        "White"
+      ],
+      "emoji": "🔔",
+      "funFact": "The UK holds roughly half of the world's bluebell population, and it is illegal to dig up wild bluebells there under the Wildlife and Countryside Act."
+    },
+    {
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "A small deciduous understory tree whose showy 'flowers' are actually four large petal-like bracts surrounding a cluster of tiny greenish-yellow true flowers. Its horizontal branching gives it an elegant layered form, and it turns red in autumn with bright red fruits.",
+      "bloomingSeason": "Mid-April to May",
+      "location": "Eastern North America, from southern Ontario to Florida and west to eastern Texas",
+      "colors": [
+        "White",
+        "Pink",
+        "Pale green center"
       ],
       "emoji": "🌸",
-      "funFact": "Saucer Magnolias are among the earliest trees to bloom in spring, often marking the arrival of the season."
+      "funFact": "Flowering dogwood is the state tree of Virginia and North Carolina, and its hard wood was once used to make weaving shuttles and golf club heads."
     },
     {
-      "name": "Lilium candidum",
-      "commonName": "Madonna Lily",
-      "description": "A striking white lily species with large, fragrant trumpet-shaped flowers. It thrives in Mediterranean climates and is often cultivated in gardens for its elegant appearance and scent.",
-      "bloomingSeason": "April to June",
-      "location": "Mediterranean region and cultivated worldwide",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing, semi-deciduous tree with fern-like foliage and large panicles of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere tropics and subtropics it blooms in late spring, while in the Southern Hemisphere its main bloom is in October to November, although some trees flower in other seasons in warm regions.",
+      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in Mexico, southern California, Florida, and the Mediterranean",
       "colors": [
-        "white"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Historically, the Madonna Lily symbolizes purity and has been depicted in many religious artworks."
-    },
-    {
-      "name": "Eschscholzia californica",
-      "commonName": "California Poppy",
-      "description": "The state flower of California, this wildflower has vibrant orange to yellow cup-shaped blooms that open in sunny weather. It grows in open fields and hillsides, often carpeting them in bright colors.",
-      "bloomingSeason": "March to May",
-      "location": "Western North America, especially California",
-      "colors": [
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "California Poppies close their petals at night and reopen with morning sunlight, exhibiting nyctinastic movements."
-    },
-    {
-      "name": "Cassia fistula",
-      "commonName": "Golden Shower Tree",
-      "description": "A tropical flowering tree with spectacular hanging clusters of bright yellow flowers. It is prominent in South and Southeast Asia and blooms profusely during the dry season, signaling the arrival of summer.",
-      "bloomingSeason": "April to June",
-      "location": "India, Thailand, Sri Lanka, and surrounding regions",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "The Golden Shower Tree is the national tree of Thailand and symbolizes Thai royalty and prosperity."
+      "emoji": "💜",
+      "funFact": "In Mexico City, jacaranda trees bloom around March to May, carpeting streets in purple, and the tree's flowers falling is said by some to be a sign of good luck."
     }
   ]
 }

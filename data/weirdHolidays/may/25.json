@@ -2,36 +2,44 @@
   "date": "May 25",
   "holidays": [
     {
+      "name": "Towel Day",
+      "description": "Fans of Douglas Adams carry a towel with them all day long to honor the author of The Hitchhiker's Guide to the Galaxy. Towels get draped over shoulders, tucked into backpacks, and waved proudly in offices and on public transit.",
+      "origin": "Started in 2001, two weeks after Douglas Adams died on May 11, 2001. Fans organized the tribute online, and it has been held every year since.",
+      "category": "Pop Culture",
+      "emoji": "🧖",
+      "funFact": "In the books, a towel is described as the most useful item an interstellar hitchhiker can have, since it can be used for warmth, as a weapon, or as a signal for rescue."
+    },
+    {
       "name": "Geek Pride Day",
-      "description": "A day to celebrate all things geeky — from comics and science fiction to tech and gaming. Embrace your inner nerd and proudly show off your fandom!",
-      "origin": "Started in 2006 in Spain to commemorate the birthday of Star Wars and the release of the first Star Wars movie.",
+      "description": "A celebration of geek culture, from sci-fi and fantasy fans to gamers, coders, and science enthusiasts. Participants are encouraged to proudly embrace their nerdy passions without apology.",
+      "origin": "It first appeared in Spain in 2006 as Orgullo Friki, chosen to coincide with the anniversary of the 1977 release of Star Wars. It later spread to other countries, and the day is now tied to Towel Day as well.",
       "category": "Pop Culture",
       "emoji": "🤓",
-      "funFact": "The date (May 25) was chosen because it’s the original release date of Star Wars in 1977, a cultural cornerstone for geeks worldwide."
+      "funFact": "The date was picked because it is the anniversary of the original Star Wars premiering on May 25, 1977, and it is also Towel Day, so geeks get a double celebration."
     },
     {
-      "name": "National Missing Children’s Day (U.S.)",
-      "description": "A solemn day to honor missing and abducted children and to spread awareness about child safety and recovery efforts.",
-      "origin": "Established in 1983 by President Ronald Reagan to mark the anniversary of the disappearance of Etan Patz, one of the first missing children widely publicized in the U.S.",
-      "category": "Awareness",
-      "emoji": "🕯️",
-      "funFact": "Etan Patz’s case helped spark the modern kidnappings awareness movement, including the creation of the 'Amber Alert' system."
+      "name": "National Wine Day",
+      "description": "An unofficial day to uncork a bottle of your favorite red, white, rosé, or sparkling wine. Wine lovers raise a glass, try a new variety, or visit a vineyard.",
+      "origin": "It is an informal food and drink observance popularized in the United States through social media and food-holiday calendars, with no single official founder.",
+      "category": "Food & Drink",
+      "emoji": "🍷",
+      "funFact": "Wine has been made for thousands of years, and the oldest known winery was found in a cave in Armenia, dating back about 6,100 years."
     },
     {
-      "name": "Towel Day",
-      "description": "Celebrate the life and works of Douglas Adams, author of 'The Hitchhiker’s Guide to the Galaxy,' by carrying a towel with you all day—because you never know when it might come in handy!",
-      "origin": "Started in 2001 by fans two weeks after Adams’ death on May 11, as a tribute to a beloved sci-fi author.",
-      "category": "Pop Culture",
-      "emoji": "🧴",
-      "funFact": "In Adams’ book, a towel is described as \"about the most massively useful thing an interstellar hitchhiker can have.\""
+      "name": "National Missing Children's Day",
+      "description": "A day of awareness to remember missing children and to encourage families, schools, and communities to focus on child safety. Many people wear blue or forget-me-not flowers.",
+      "origin": "Established in the United States in 1983 by President Ronald Reagan after the disappearance of Etan Patz in 1979. May 25 was chosen as the anniversary of his disappearance.",
+      "category": "Awareness Day",
+      "emoji": "💙",
+      "funFact": "The date is also observed internationally as International Missing Children's Day, and the forget-me-not flower is used as a symbol of the cause."
     },
     {
-      "name": "Brown-Bag It Day",
-      "description": "Skip the fast food and bring your lunch from home to save money and eat healthier — plus maybe show off your creative sandwich skills!",
-      "origin": "Promoted by health organizations and employees’ groups to encourage home-packed lunches and better nutrition.",
-      "category": "Food & Lifestyle",
-      "emoji": "🥪",
-      "funFact": "Brown-bagging your lunch can reportedly save you over $1,300 a year!"
+      "name": "National Tap Dance Day",
+      "description": "A day to shuffle, ball-change, and clatter your way through the streets in honor of tap dancing. Dance studios hold performances and free classes to celebrate the rhythmic art form.",
+      "origin": "Signed into U.S. law in 1989 by President George H. W. Bush. The date honors the birthday of Bill 'Bojangles' Robinson, born May 25, 1878.",
+      "category": "Arts & Entertainment",
+      "emoji": "🩰",
+      "funFact": "Bill 'Bojangles' Robinson famously danced up and down a staircase in films with Shirley Temple, and he once ran 100 yards backward in 13 seconds."
     }
   ]
 }

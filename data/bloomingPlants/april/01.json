@@ -2,54 +2,56 @@
   "date": "April 1",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree known for its spectacular display of pink to white flowers that signal the arrival of spring in Japan and many temperate regions. It holds cultural significance and is celebrated with festivals called Hanami.",
-      "bloomingSeason": "March to April",
-      "location": "Japan, temperate zones in Northern Hemisphere",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of pale pink-white, five-petaled blossoms that appear before the leaves emerge. It is the iconic cherry tree of Japanese hanami celebrations and lines streets, parks and rivers across temperate Asia, Europe and North America.",
+      "bloomingSeason": "Late March to mid April",
+      "location": "Japan (Tokyo, Kyoto), Washington D.C. USA, Korea, and temperate parks worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The blooming of cherry blossoms is so significant in Japan that it is monitored closely, and forecasts are made annually to predict the best viewing times."
+      "funFact": "The Yoshino cherry is a clonal cultivar, so most trees in a region bloom almost simultaneously, and the Japan Meteorological Agency tracks the 'cherry blossom front' as it moves north each spring."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A small to medium-sized tree that produces vibrant red flowers shaped somewhat like cockscombs. It is popular in subtropical and tropical regions and valued for its ornamental beauty.",
-      "bloomingSeason": "Late summer to early autumn in Northern Hemisphere; in some Southern Hemisphere locations it blooms around March to April",
-      "location": "Native to South America, cultivated in subtropical regions worldwide",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers with paler yellow outer petals, rising above blue-green strap-like leaves. It grows in woodlands and meadows in western Europe and is widely cultivated in gardens.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe (UK, France, Spain), naturalized in North America and cultivated in temperate gardens worldwide",
       "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Erythrina crista-galli is the national flower of Argentina and Uruguay."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia that produces large, tulip-shaped flowers ranging from white to deep pink. It is widely planted in temperate gardens and blooms early in the spring, often before leaves emerge.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated widely in temperate regions across both hemispheres",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "Saucer Magnolia is a hybrid between Magnolia denudata and Magnolia liliiflora and was first bred in France in the 1820s."
-    },
-    {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "An Australian native tree well known for its cylindrical golden flower spikes that provide nectar for birds and insects. It blooms mostly in the warmer months, including early autumn in Australia which aligns with April in the Southern Hemisphere.",
-      "bloomingSeason": "Summer to autumn (January to April)",
-      "location": "Eastern Australia coast",
-      "colors": [
-        "yellow"
+        "yellow",
+        "pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Banksias play a vital ecological role as a food source for nectar-feeding animals and are adapted to survive bushfires."
+      "funFact": "Daffodils contain the alkaloid lycorine, which makes them toxic to most grazing animals and even to other flowers if cut stems are placed together in a vase."
+    },
+    {
+      "name": "Magnolia stellata",
+      "commonName": "Star Magnolia",
+      "description": "A compact deciduous shrub or small tree bearing fragrant, star-shaped flowers with many narrow strap-like tepals. The blooms open on bare branches in early spring and can be damaged by late frosts.",
+      "bloomingSeason": "Late March to April",
+      "location": "Native to Japan, widely grown in the northeastern United States, Europe and temperate Asia",
+      "colors": [
+        "white",
+        "pale pink"
+      ],
+      "emoji": "🤍",
+      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, which is why their sturdy flowers are thought to have evolved to be pollinated by beetles."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tall subtropical tree with fern-like leaves that erupts in masses of lavender-blue trumpet-shaped flowers. In the Southern Hemisphere, early autumn can bring a late or repeat bloom, and the fallen petals carpet streets in purple.",
+      "bloomingSeason": "Spring in the Northern Hemisphere tropics (March to May); main bloom October to December in the Southern Hemisphere with occasional autumn flowering",
+      "location": "Native to South America (Argentina, Bolivia); planted in Mexico, India, Pretoria South Africa, and Australia",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "💜",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees that turn the city purple."
     }
   ]
 }

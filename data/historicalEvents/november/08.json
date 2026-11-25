@@ -2,39 +2,39 @@
   "date": "November 8",
   "events": [
     {
+      "year": 1895,
+      "title": "Röntgen Discovers X-rays",
+      "description": "German physicist Wilhelm Conrad Röntgen, working at the University of Würzburg, noticed a fluorescent glow on a screen near a shielded cathode-ray tube and identified a new kind of penetrating radiation, which he called X-rays.",
+      "category": "Science",
+      "significance": "The discovery revolutionized medicine through diagnostic imaging and opened the way to modern physics. Röntgen received the first Nobel Prize in Physics in 1901."
+    },
+    {
       "year": 1923,
-      "title": "Beer Hall Putsch",
-      "description": "Adolf Hitler and the Nazi Party attempt to overthrow the Weimar Republic government in Munich, Germany, but fail and Hitler is arrested.",
-      "category": "Political Event",
-      "significance": "This failed coup marked an early and significant step in Hitler's political career, leading to his imprisonment during which he wrote Mein Kampf, setting the foundations for Nazi ideology."
-    },
-    {
-      "year": 1932,
-      "title": "Franklin D. Roosevelt Elected President of the United States",
-      "description": "Franklin D. Roosevelt is elected as the 32nd President of the United States, defeating incumbent Herbert Hoover amid the Great Depression.",
-      "category": "Political Event",
-      "significance": "Roosevelt's election led to the New Deal policies that aimed to recover the U.S. economy and reshape American social and political landscapes."
-    },
-    {
-      "year": 1960,
-      "title": "John F. Kennedy Elected President of the United States",
-      "description": "John F. Kennedy defeats Richard Nixon to become the 35th President of the United States, becoming the youngest elected U.S. president at the time.",
-      "category": "Political Event",
-      "significance": "Kennedy’s presidency included significant events such as the Cuban Missile Crisis and the beginning of the space race; his election symbolized a generational shift in American politics."
-    },
-    {
-      "year": 2016,
-      "title": "Donald Trump Elected President of the United States",
-      "description": "Businessman and television personality Donald Trump is elected as the 45th President of the United States, defeating Hillary Clinton.",
-      "category": "Political Event",
-      "significance": "Trump's election marked a major shift in American political discourse and policy, characterized by strong populist and nationalist rhetoric."
+      "title": "Beer Hall Putsch Begins",
+      "description": "Adolf Hitler and the Nazi Party attempted to seize power in Bavaria by storming a political meeting at the Bürgerbräukeller in Munich on the evening of November 8. The coup attempt collapsed the following day when police fired on marchers.",
+      "category": "Politics",
+      "significance": "The failed putsch led to Hitler's trial and imprisonment, during which he wrote Mein Kampf, and it taught him to pursue power through legal and electoral means, shaping the Nazi rise in the early 1930s."
     },
     {
       "year": 1895,
-      "title": "George Bernard Shaw's Play 'The Man of Destiny' Premieres",
-      "description": "The Irish playwright George Bernard Shaw premieres his play 'The Man of Destiny' in London, exploring themes of history and leadership.",
-      "category": "Cultural Event",
-      "significance": "This early work by Shaw contributed to modern drama and theatrical innovation, influencing 20th-century literature and performance arts."
+      "title": "Birth of Margaret Mitchell Is Not Today; Correction Placeholder Removed",
+      "description": "Placeholder removed.",
+      "category": "Other",
+      "significance": "Placeholder removed."
+    },
+    {
+      "year": 1960,
+      "title": "John F. Kennedy Elected President",
+      "description": "Democratic Senator John F. Kennedy of Massachusetts defeated Vice President Richard Nixon in one of the closest presidential elections in U.S. history, becoming the youngest person elected to the presidency at age 43 and the first Catholic.",
+      "category": "Politics",
+      "significance": "Kennedy's election marked a generational shift in American politics, and the campaign featured the first televised presidential debates, which changed the role of media in elections."
+    },
+    {
+      "year": 1950,
+      "title": "First Jet-to-Jet Dogfight",
+      "description": "During the Korean War, U.S. Air Force Lt. Russell J. Brown, flying an F-80 Shooting Star, shot down a North Korean MiG-15 in the first air-to-air combat between jet aircraft.",
+      "category": "Military",
+      "significance": "The engagement marked the beginning of the jet age in aerial warfare and signaled the end of propeller-driven fighters as the dominant combat aircraft."
     }
   ]
 }

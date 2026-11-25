@@ -3,24 +3,38 @@
   "events": [
     {
       "year": 1831,
-      "title": "Charles Darwin Departs on the HMS Beagle",
-      "description": "Charles Darwin sets sail from Plymouth, England, on the HMS Beagle for his voyage around the world, which would contribute to the development of his theory of evolution.",
-      "category": "Exploration/Science",
-      "significance": "This journey provided Darwin with critical observations and specimens that formed the basis of his theory of natural selection, revolutionizing biology."
+      "title": "HMS Beagle Departs on Darwin's Voyage",
+      "description": "After earlier delays and a false start, HMS Beagle set sail from Plymouth, England, on its second survey expedition under Captain Robert FitzRoy, with the young naturalist Charles Darwin aboard.",
+      "category": "Science and Exploration",
+      "significance": "The five-year voyage gave Darwin the observations of geology, fossils, and wildlife, especially in the Galapagos Islands, that led to his theory of evolution by natural selection and the 1859 publication of On the Origin of Species."
     },
     {
-      "year": 1932,
-      "title": "The 1932 Winter Olympics Open in Lake Placid, USA",
-      "description": "The III Olympic Winter Games officially opened in Lake Placid, New York, marking the first Winter Olympics held in the United States.",
-      "category": "Sports",
-      "significance": "This event helped popularize winter sports in the United States and set a precedent for future Winter Olympic Games hosted in North America."
+      "year": 1571,
+      "title": "Birth of Johannes Kepler",
+      "description": "Johannes Kepler was born in the Free Imperial City of Weil der Stadt in the Holy Roman Empire. He became a mathematician and astronomer who worked with Tycho Brahe's observational data.",
+      "category": "Birth",
+      "significance": "Kepler formulated the three laws of planetary motion, which described the elliptical orbits of planets and later provided a foundation for Isaac Newton's law of universal gravitation."
     },
     {
-      "year": 1978,
-      "title": "Dominique Strauss-Kahn Born",
-      "description": "Dominique Strauss-Kahn, French economist and politician, was born. He would later serve as Managing Director of the International Monetary Fund (IMF).",
-      "category": "Births/Politics",
-      "significance": "Strauss-Kahn played a significant role in global finance and European politics during the early 2000s."
+      "year": 1945,
+      "title": "Founding of the IMF and World Bank",
+      "description": "The Articles of Agreement of the International Monetary Fund and the International Bank for Reconstruction and Development, agreed at the 1944 Bretton Woods Conference, came into force after 29 countries ratified them.",
+      "category": "Economics and Politics",
+      "significance": "These institutions became pillars of the postwar international financial system, shaping global monetary cooperation, reconstruction, and development lending for decades."
+    },
+    {
+      "year": 1949,
+      "title": "Netherlands Transfers Sovereignty to Indonesia",
+      "description": "After a four-year independence struggle and negotiations at the Round Table Conference in The Hague, the Netherlands formally recognized Indonesian sovereignty in a ceremony in Amsterdam.",
+      "category": "Politics and Decolonization",
+      "significance": "The transfer ended centuries of Dutch colonial rule in the East Indies and marked a major milestone in the postwar wave of decolonization in Asia."
+    },
+    {
+      "year": 1979,
+      "title": "Soviet Forces Storm Kabul Palace and Install Babrak Karmal",
+      "description": "Soviet special forces stormed Tajbeg Palace in Kabul, killing Afghan President Hafizullah Amin, and the Soviets installed Babrak Karmal as the new leader during the early stage of their invasion of Afghanistan.",
+      "category": "War and Politics",
+      "significance": "The operation escalated the Soviet-Afghan War, which lasted nearly a decade, strained Cold War relations, and contributed to the later decline of the Soviet Union and the rise of militant movements in the region."
     }
   ]
 }

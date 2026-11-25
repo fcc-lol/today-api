@@ -2,61 +2,62 @@
   "date": "August 22",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, vibrant flowers that can be red, pink, orange, yellow, or white. It blooms year-round in tropical climates and is widely cultivated as an ornamental plant.",
-      "bloomingSeason": "Year-round in tropical regions, peaks in summer",
-      "location": "Tropical regions worldwide, including Southeast Asia and Pacific Islands",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, coarse stem and a big flower head made of golden ray florets surrounding a dark central disc packed with tiny florets that develop into seeds. Young flower heads track the sun across the sky. It is grown as a garden ornamental and a major oilseed crop.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; widely cultivated in the United States, Ukraine, Russia, Argentina, and Europe",
       "colors": [
-        "red",
-        "pink",
-        "orange",
         "yellow",
-        "white"
+        "gold",
+        "orange",
+        "deep red",
+        "brown"
       ],
-      "emoji": "🌺",
-      "funFact": "Each hibiscus flower blooms for just one day but is continuously replaced by new blooms."
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds follow the sun from east to west during the day (heliotropism), but mature flowers stop moving and generally face east."
     },
     {
-      "name": "Heliotropium arborescens",
-      "commonName": "Heliotrope",
-      "description": "A fragrant annual or perennial plant with clusters of small purple, white, or lavender flowers. It thrives in summer and early autumn gardens in temperate zones.",
-      "bloomingSeason": "Summer to early autumn (July-September)",
-      "location": "Originally from Peru, commonly grown in temperate gardens worldwide",
+      "name": "Hydrangea paniculata",
+      "commonName": "Panicle Hydrangea",
+      "description": "A hardy deciduous shrub that produces large cone-shaped flower clusters. The blooms open creamy white and often age to pink or burgundy as late summer progresses, giving a changing display well into autumn.",
+      "bloomingSeason": "Mid-summer to fall",
+      "location": "Native to China, Japan, and Sakhalin; widely grown in temperate gardens in North America and Europe",
       "colors": [
-        "purple",
         "white",
-        "lavender"
-      ],
-      "emoji": "💜",
-      "funFact": "Heliotrope's name derives from 'helios' (sun) and 'tropos' (turn), as its flowers historically were thought to turn to face the sun."
-    },
-    {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub that produces large, ball-shaped clusters of flowers, with color depending on soil pH (blue in acidic soils, pink in alkaline). Typically blooms mid-summer through early autumn.",
-      "bloomingSeason": "Mid-summer to early autumn (June-September)",
-      "location": "Native to Japan, widely cultivated in temperate gardens",
-      "colors": [
-        "blue",
+        "cream",
         "pink",
-        "white"
+        "burgundy"
       ],
       "emoji": "🌸",
-      "funFact": "The flower color can be changed by adjusting soil pH—aluminum availability influences bloom color."
+      "funFact": "Unlike bigleaf hydrangeas, panicle hydrangeas bloom on new wood, so they reliably flower even after harsh winters, and their color does not depend on soil pH."
     },
     {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A fast-growing wildflower with tall spikes of bright pink to purple flowers, common in disturbed areas and boreal forests. It blooms prolifically in late summer after forest fires or clearings.",
-      "bloomingSeason": "Mid to late summer (July-September)",
-      "location": "Boreal and temperate regions of North America and Eurasia",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower of meadows, roadsides, and field edges, bearing dense plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects preparing for autumn.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "Native to northern and central North America; naturalized in Europe and Asia",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "An evergreen shrub with the largest flower head in the Protea genus, a bowl-shaped bloom of pointed pink bracts surrounding a center of pale, downy flowers. It thrives in the fynbos habitat on nutrient-poor, well-drained soils.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (peak around August to November, with some flowering through the year)",
+      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, California, and Hawaii",
       "colors": [
         "pink",
-        "purple"
+        "cream",
+        "silvery white",
+        "crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Fireweed is one of the first plants to colonize areas after forest fires, hence the name."
+      "funFact": "The King Protea is South Africa's national flower, and the plant has adapted to wildfires with thick underground stems that resprout after burns."
     }
   ]
 }

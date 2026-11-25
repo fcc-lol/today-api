@@ -2,36 +2,44 @@
   "date": "June 19",
   "holidays": [
     {
-      "name": "Juneteenth",
-      "description": "Celebrates the emancipation of the last remaining enslaved African Americans in the United States on June 19, 1865.",
-      "origin": "Derived from the combination of 'June' and 'nineteenth,' marking when Union soldiers arrived in Galveston, Texas, to announce freedom.",
-      "category": "Historical / Cultural",
-      "emoji": "🎉",
-      "funFact": "Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the U.S. and was declared a federal holiday in 2021."
-    },
-    {
-      "name": "National Garfield the Cat Day",
-      "description": "A day to celebrate everyone's favorite lasagna-loving, Monday-hating orange cat created by Jim Davis.",
-      "origin": "Commemorates the premiere of the Garfield comic strip which started in 1978.",
-      "category": "Pop Culture / Comic Strip",
-      "emoji": "🐱🍝",
-      "funFact": "Garfield holds the Guinness World Record for being the most widely syndicated comic strip in the world."
-    },
-    {
-      "name": "International Day for the Elimination of Sexual Violence in Conflict",
-      "description": "Raised global awareness about the need to end sexual violence during armed conflicts.",
-      "origin": "Established by the United Nations in 2015 to commemorate the 2012 murder of peace activist and Nobel laureate Bangura.",
-      "category": "Awareness / Human Rights",
-      "emoji": "🕊️",
-      "funFact": "This day honors courage and dedication of survivors and advocates working towards peace and justice in conflict zones."
-    },
-    {
       "name": "National Martini Day",
-      "description": "A spirited celebration of the classic cocktail traditionally made with gin and vermouth and garnished with an olive or lemon twist.",
-      "origin": "Origin debated, but the martini became popular in the early 20th century, and this day honors its timeless sophistication.",
-      "category": "Food & Drink / Cocktail",
+      "description": "A shaken-or-stirred salute to the iconic cocktail of olives, vermouth, and gin (or vodka). Bartenders and cocktail fans raise a stemmed glass in honor of the drink that has starred in more movies than most actors.",
+      "origin": "An unofficial food-and-drink observance that grew out of cocktail culture and bar promotions. Its exact founder is unknown, and it is commonly placed on June 19 in lists of drink holidays. The martini itself rose to fame in the late 1800s and early 1900s in the United States.",
+      "category": "Food & Drink",
       "emoji": "🍸",
-      "funFact": "The perfect martini has inspired endless debates—from shaken or stirred to gin or vodka—bonding fans worldwide."
+      "funFact": "Winston Churchill reportedly liked his martinis so dry that he would simply glance at a bottle of vermouth across the room while pouring his gin."
+    },
+    {
+      "name": "Garfield the Cat's Birthday",
+      "description": "A lasagna-fueled celebration of the lazy, Monday-hating orange tabby who loves naps and hates diets. Fans mark the day with lasagna, cat naps, and eye-rolling at Mondays.",
+      "origin": "Garfield made his comic strip debut on June 19, 1978, created by cartoonist Jim Davis. Fans treat the debut date as the cat's birthday, and it has become an unofficial pop culture celebration.",
+      "category": "Pop Culture",
+      "emoji": "🐱",
+      "funFact": "Garfield became one of the most widely syndicated comic strips in the world, and he was originally named after Jim Davis's grandfather, James Garfield Davis."
+    },
+    {
+      "name": "Juneteenth",
+      "description": "A federal holiday commemorating the end of slavery in the United States, marked with cookouts, parades, music, and reflection. Red foods and drinks like strawberry soda and red velvet cake are popular symbols of resilience and celebration.",
+      "origin": "On June 19, 1865, Union General Gordon Granger arrived in Galveston, Texas, and announced that enslaved people were free, more than two years after the Emancipation Proclamation. It became a federal holiday in the United States in 2021.",
+      "category": "Historical & Cultural",
+      "emoji": "✊🏾",
+      "funFact": "Juneteenth is the first new federal holiday in the United States since Martin Luther King Jr. Day was established in 1983, and its name is a blend of the words June and nineteenth."
+    },
+    {
+      "name": "World Sickle Cell Day",
+      "description": "An awareness day that spotlights sickle cell disease, an inherited blood disorder, and encourages education, research, and support for patients and families around the world.",
+      "origin": "The United Nations General Assembly recognized it in 2008, and it has been observed internationally every June 19 since 2009 to raise awareness of the disease.",
+      "category": "Awareness Day",
+      "emoji": "🩸",
+      "funFact": "Sickle cell disease gets its name from the crescent, sickle-like shape that affected red blood cells can take, resembling the farm tool."
+    },
+    {
+      "name": "Eat Your Vegetables Day",
+      "description": "A day dedicated to finally giving broccoli, spinach, and carrots a chance. Fans celebrate by adding extra greens to every meal, much to the dismay of picky eaters everywhere.",
+      "origin": "A lighthearted unofficial food day that circulates in holiday calendars, designed to encourage healthy eating habits with a wink. It has no known formal founder, which is part of its charm.",
+      "category": "Food & Drink",
+      "emoji": "🥦",
+      "funFact": "Botanically speaking, many foods treated as vegetables, such as tomatoes, cucumbers, and peppers, are actually fruits."
     }
   ]
 }

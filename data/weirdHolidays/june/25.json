@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Catfish Day",
-      "description": "A day to celebrate the delicious and bony freshwater fish known as catfish. Whether fried, grilled, or smoked, catfish is a Southern U.S. favorite and enjoyed by fish lovers everywhere!",
-      "origin": "Established in the U.S. in 1987 to promote the aquaculture industry, especially catfish farming.",
-      "category": "Food Holiday",
+      "description": "A day to honor the whiskered, bottom-dwelling fish that has fed generations of Americans, especially in the South. Celebrate by frying, blackening, or simply admiring a catfish.",
+      "origin": "Established by a 1987 presidential proclamation signed by Ronald Reagan, in recognition of the U.S. farm-raised catfish industry and its economic importance.",
+      "category": "Food Day",
       "emoji": "🐟",
-      "funFact": "Catfish have no scales and their 'whiskers' called barbels help them sense food in muddy waters."
+      "funFact": "Catfish have taste buds all over their bodies, with some species having over 100,000 of them, so they essentially taste with their whole skin."
+    },
+    {
+      "name": "Take Your Dog to Work Day",
+      "description": "A day when employees are encouraged to bring their canine pals to the office, turning meetings into impromptu petting sessions and spreadsheets into chew-toy zones.",
+      "origin": "Created in 1996 by Pet Sitters International to celebrate dogs as companions and to encourage pet adoption. It is observed on the Friday following Father's Day, so the date shifts each year, and it falls in the same week as June 25 in many years.",
+      "category": "Pet Celebration",
+      "emoji": "🐕",
+      "funFact": "Studies suggest having a dog at the workplace can lower employee stress levels throughout the day compared with workplaces without pets."
+    },
+    {
+      "name": "Global Beatles Day",
+      "description": "Fans around the world celebrate the Fab Four by playing their music, hosting sing-alongs, and wearing mop-top wigs with pride.",
+      "origin": "It marks the anniversary of the Beatles performing 'All You Need Is Love' on June 25, 1967, in the first live global television broadcast, Our World, which reached an estimated 400 million viewers.",
+      "category": "Pop Culture",
+      "emoji": "🎸",
+      "funFact": "The 'All You Need Is Love' broadcast included a crowd of famous friends singing along in the studio, including members of the Rolling Stones and Eric Clapton."
     },
     {
       "name": "Log Cabin Day",
-      "description": "This day celebrates the humble log cabin, a symbol of pioneer spirit and early American frontier life, reminding us of simpler times and rugged self-sufficiency.",
-      "origin": "Commemorates the construction of the first log cabins by early European settlers in America during the 1600s.",
-      "category": "Historical / Cultural",
-      "emoji": "🏠",
-      "funFact": "Abraham Lincoln was famously born in a one-room log cabin, symbolizing humble beginnings."
+      "description": "A day to appreciate rustic log cabins, with historic cabins opening their doors to visitors, and fans of cozy woodland living getting to feel extra smug.",
+      "origin": "Observed in various places, with a long tradition in Ohio and other states, to celebrate the pioneer-era building style and the history of early settlers.",
+      "category": "Historical Observance",
+      "emoji": "🛖",
+      "funFact": "Log cabins are widely believed to have been introduced to North America by Swedish and Finnish settlers in the Delaware Valley in the 1600s."
     },
     {
-      "name": "Be Nasty Day",
-      "description": "A tongue-in-cheek holiday encouraging people to be cheeky, bold, and a little mischievous (all in good fun, of course). It's a day for playful rudeness and shaking off politeness!",
-      "origin": "Origin unknown but popularized by internet memes and social media to encourage sass and humor.",
-      "category": "Humor / Pop Culture",
-      "emoji": "😈",
-      "funFact": "The sassiest tweets are often posted on Be Nasty Day, making it a viral social media celebration."
-    },
-    {
-      "name": "Seward's Day (Alaska)",
-      "description": "This state holiday commemorates the 1867 signing of the treaty where the U.S. purchased Alaska from Russia, a.k.a 'Seward's Folly' because many thought buying Alaska was a mistake!",
-      "origin": "Named after U.S. Secretary of State William H. Seward who negotiated the purchase of Alaska.",
-      "category": "Historical",
-      "emoji": "❄️",
-      "funFact": "At the time, people mocked the purchase but Alaska turned out to be rich in natural resources like oil and gold!"
+      "name": "National Strawberry Parfait Day",
+      "description": "A layered celebration of strawberries, cream, and crunchy granola or cookie crumbles, served in a tall glass so everyone can admire the structure before wrecking it with a spoon.",
+      "origin": "A modern food-day observance popularized by dessert lovers and social media calendars, with no single official founder.",
+      "category": "Food Day",
+      "emoji": "🍓",
+      "funFact": "The word 'parfait' is French for 'perfect', which is a bold claim for a dessert that is mostly yogurt and berries, but it holds up."
     }
   ]
 }

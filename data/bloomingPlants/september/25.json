@@ -2,58 +2,61 @@
   "date": "September 25",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial native to North America, known for its vibrant yellow petals surrounding a dark brown central cone. Often found in meadows and prairies, it attracts pollinators like butterflies and bees.",
-      "bloomingSeason": "July to October",
-      "location": "Eastern and Central United States",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that sends up goblet-shaped pink-lilac flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by summer. All parts are highly toxic due to colchicine.",
+      "bloomingSeason": "Late summer to autumn (September-October)",
+      "location": "Native to Europe and North Africa meadows; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are the state flower of Maryland and symbolize encouragement and motivation."
-    },
-    {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A popular garden shrub native to Japan, China, and Korea with large, showy flower heads that can change color based on soil pH. Blooms can be pink, blue, or purple, adding vibrant color to late summer and early fall gardens.",
-      "bloomingSeason": "June to October",
-      "location": "Temperate regions worldwide (cultivated)",
-      "colors": [
-        "pink",
-        "blue",
-        "purple",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "The color change in hydrangea flowers is due to aluminum ion availability, which is influenced by soil acidity."
-    },
-    {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A thorny tree native to South America, particularly Argentina and Uruguay, producing striking bright red flowers shaped like a rooster's crest. It blooms in Southern Hemisphere's spring to early summer, corresponding to northern autumn months.",
-      "bloomingSeason": "September to December",
-      "location": "South America, cultivated in subtropical areas worldwide",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Cockspur Coral Tree flowers are rich in nectar, attracting hummingbirds and bees."
-    },
-    {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen",
-      "description": "A hardy tuberous perennial native to the Mediterranean region, often blooming in late summer to autumn. Features upswept pink to mauve flowers with mottled heart-shaped leaves, carpeting woodland floors and rocky areas.",
-      "bloomingSeason": "August to October",
-      "location": "Mediterranean Basin",
-      "colors": [
-        "pink",
-        "purple",
-        "white"
+        "Pink",
+        "Lilac",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "Cyclamen leaves and flowers emerge together in autumn after summer dormancy, adapting to dry Mediterranean summers."
+      "funFact": "Colchicine from this plant is used in medicine to treat gout and in plant breeding to induce polyploidy, doubling chromosome numbers in crops."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, bushy native perennial with masses of daisy-like flowers with yellow centers and narrow purple rays. It thrives in moist meadows and roadsides and is a crucial late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to fall (August-October)",
+      "location": "Eastern and central North America; cultivated in gardens across temperate regions",
+      "colors": [
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies rely heavily on New England asters for nectar to fuel their long autumn migration to Mexico."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely apricot-scented flowers in the leaf axils. It is a beloved ornamental across East Asia and is used to flavor teas, cakes, and liqueurs.",
+      "bloomingSeason": "Autumn (September-October)",
+      "location": "Native to southern China and the Himalayas; grown in Japan, Korea, and the southern United States",
+      "colors": [
+        "Pale yellow",
+        "Orange",
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "In China, the Mid-Autumn Festival is closely associated with osmanthus, and osmanthus cakes and wine are traditional treats."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A woody shrub producing enormous, bowl-shaped flower heads composed of colorful bracts surrounding a central cluster of true flowers. It is adapted to nutrient-poor fynbos soils and fire cycles.",
+      "bloomingSeason": "Spring in Southern Hemisphere (September-November, with some flowering year-round)",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Red"
+      ],
+      "emoji": "🌸",
+      "funFact": "It is the national flower of South Africa, and its flower head can reach up to 30 cm across, the largest in the Protea genus."
     }
   ]
 }

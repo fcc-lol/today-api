@@ -3,35 +3,43 @@
   "holidays": [
     {
       "name": "National Deep Dish Pizza Day",
-      "description": "A day to celebrate the cheesy, saucy, and oh-so-thick pizza style that originated in Chicago. Perfect excuse to indulge in a slice or two of this deliciously heavy pie!",
-      "origin": "Started by pizza enthusiasts and food bloggers who wanted to honor Chicago’s signature deep-dish style pizza.",
-      "category": "Food Holiday",
+      "description": "A day for Chicago-style pizza fans to dig into a thick, cheesy, sauce-on-top pie that needs a fork, a knife, and a nap afterward.",
+      "origin": "Deep dish pizza is widely credited to Chicago in the 1940s, with Pizzeria Uno often named as the birthplace. The food holiday grew out of the internet-era trend of giving every beloved dish its own calendar day.",
+      "category": "Food",
       "emoji": "🍕",
-      "funFact": "The deep dish pizza was invented in 1943 at Pizzeria Uno in Chicago, and the crust is so thick that you can actually eat it with a knife and fork!"
+      "funFact": "A deep dish pizza can take 30 to 45 minutes to bake, so Chicago pizzerias often ask customers to order ahead while they wait."
     },
     {
-      "name": "Go For Broke Day",
-      "description": "A tribute to the Japanese American soldiers in World War II who fought against incredible odds, showing courage and determination with the motto ‘Go For Broke.’",
-      "origin": "Established to honor the 442nd Regimental Combat Team, the most decorated unit of its size and length of service in U.S. military history.",
-      "category": "Awareness Day / Historical",
-      "emoji": "🎖️",
-      "funFact": "Despite facing discrimination at home, the 442nd became the most decorated American unit for its size and length of service during WWII."
+      "name": "National Caramel Day",
+      "description": "A sweet and sticky celebration of caramel in candies, sauces, popcorn, and desserts.",
+      "origin": "Caramel dates back centuries, with sugar cooking techniques developing in Europe and the Middle East. This unofficial food holiday was created to honor the treat's rich, buttery flavor.",
+      "category": "Food",
+      "emoji": "🍮",
+      "funFact": "Caramelization starts at roughly 320°F (160°C), when sugar molecules break down and recombine into hundreds of new flavor compounds."
     },
     {
-      "name": "Walk to Work Day",
-      "description": "Encouraging people to leave the car behind and enjoy a brisk walk to work, promoting health, environmental consciousness, and a fresh start to the day.",
-      "origin": "Started as an urban wellness initiative to reduce traffic congestion and improve physical fitness.",
-      "category": "Health & Environment",
-      "emoji": "🚶‍♂️",
-      "funFact": "Walking to work burns an average of 300 calories and can boost your mood and creativity for the rest of the day!"
+      "name": "Go for Broke Day",
+      "description": "A day dedicated to taking a big risk, going all in, and giving something your absolute best shot, ideally with a little common sense attached.",
+      "origin": "The phrase 'go for broke' became widely known in the 20th century and was famously used as the motto of the Japanese American 442nd Regimental Combat Team in World War II. The observance encourages people to be bold and fearless.",
+      "category": "Motivational",
+      "emoji": "🎲",
+      "funFact": "The 442nd Regimental Combat Team became one of the most decorated units in U.S. military history for its size and length of service."
     },
     {
-      "name": "Be Heard Day",
-      "description": "A lively day dedicated to expressing yourself, speaking your mind, and making your voice count in all areas of life.",
-      "origin": "Created by communicators and advocates to inspire confident expression and active listening worldwide.",
-      "category": "Pop Culture / Awareness",
-      "emoji": "🗣️",
-      "funFact": "Studies show that people who confidently communicate their ideas are 60% more likely to be promoted at work."
+      "name": "Read a Road Map Day",
+      "description": "A cheerful rebellion against GPS, inviting people to unfold a paper map, get slightly lost, and rediscover the lost art of navigating without a talking phone.",
+      "origin": "This unofficial observance appeared as a nostalgic nod to the days before smartphones and satellite navigation, when glove compartments were crammed with folded maps that no one could refold correctly.",
+      "category": "Pop Culture",
+      "emoji": "🗺️",
+      "funFact": "Folding a paper road map back along its original creases is famously difficult, and many people remain convinced that maps were designed to defy refolding."
+    },
+    {
+      "name": "National Raisin and Spice Bar Day",
+      "description": "A celebration of the humble, cinnamon-scented raisin and spice bar, a treat that tastes like grandma's kitchen on a rainy afternoon.",
+      "origin": "Spiced fruit bars have long been a staple of home baking, especially in American recipes passed down through generations. The holiday was created to give this cozy dessert its moment in the spotlight.",
+      "category": "Food",
+      "emoji": "🍪",
+      "funFact": "Raisins are simply dried grapes, and it takes about four pounds of fresh grapes to make one pound of raisins."
     }
   ]
 }

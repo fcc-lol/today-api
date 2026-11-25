@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1863,
-      "title": "Start of the Battle of Gettysburg",
-      "description": "The Battle of Gettysburg starts during the American Civil War. It was one of the largest battles and a turning point in the war.",
+      "title": "Battle of Gettysburg Begins",
+      "description": "Union and Confederate forces clashed near Gettysburg, Pennsylvania, beginning a three-day battle (July 1-3) that became the largest of the American Civil War in terms of casualties.",
       "category": "Military",
-      "significance": "The Union victory at Gettysburg marked a significant turning point in the Civil War, halting the Confederate invasion of the North."
+      "significance": "Widely regarded as the turning point of the American Civil War; Lee's defeat ended his invasion of the North and Confederate hopes for decisive victory on Union soil."
     },
     {
       "year": 1867,
-      "title": "Confederation of Canada",
-      "description": "The Dominion of Canada is formed as the British North America Act takes effect, uniting three colonies into one country.",
-      "category": "Political",
-      "significance": "This marks the birth of Canada as a self-governing dominion within the British Empire, laying the foundation of the modern Canadian state."
+      "title": "Canadian Confederation",
+      "description": "The British North America Act took effect, uniting the Province of Canada (split into Ontario and Quebec), Nova Scotia, and New Brunswick into the Dominion of Canada.",
+      "category": "Politics",
+      "significance": "Marks the founding of modern Canada, celebrated annually as Canada Day, and began its evolution toward full independence from Britain."
     },
     {
-      "year": 1963,
-      "title": "The ZIP code is introduced in the United States",
-      "description": "The United States Postal Service introduces the Zone Improvement Plan (ZIP) code system for mail delivery.",
-      "category": "Social/Technological",
-      "significance": "The ZIP code system improved mail sorting and delivery efficiency, becoming a crucial part of US postal services."
+      "year": 1916,
+      "title": "Battle of the Somme Begins",
+      "description": "British and French forces launched a major offensive against German lines along the Somme River in France. The British Army suffered about 57,000 casualties on the first day, including roughly 19,000 killed, the bloodiest day in its history.",
+      "category": "Military",
+      "significance": "The battle became a symbol of the horror and futility of trench warfare in World War I, lasting until November 1916 with over one million total casualties."
+    },
+    {
+      "year": 1921,
+      "title": "Chinese Communist Party Founded",
+      "description": "The Chinese Communist Party is traditionally marked as founded in July 1921, with its first National Congress held in Shanghai beginning in late July; July 1 is officially commemorated as the Party's founding anniversary.",
+      "category": "Politics",
+      "significance": "The CCP went on to win the Chinese Civil War and establish the People's Republic of China in 1949, shaping modern world politics."
     },
     {
       "year": 1997,
       "title": "Hong Kong Handover",
-      "description": "Hong Kong is handed over from the United Kingdom to the People's Republic of China after 156 years of British colonial rule.",
-      "category": "Political",
-      "significance": "The handover marked the end of British colonialism in Hong Kong, starting a 'one country, two systems' governance arrangement."
+      "description": "The United Kingdom transferred sovereignty of Hong Kong to the People's Republic of China, ending over 150 years of British colonial rule and establishing the Hong Kong Special Administrative Region under the 'one country, two systems' principle.",
+      "category": "Politics",
+      "significance": "Marked the end of one of the last major British colonial territories and a significant moment in China's emergence as a global power."
     }
   ]
 }

@@ -2,32 +2,39 @@
   "date": "June 13",
   "events": [
     {
-      "year": 313,
-      "title": "Edict of Milan Proclaimed",
-      "description": "Emperor Constantine and co-emperor Licinius proclaimed the Edict of Milan, granting religious tolerance throughout the Roman Empire, especially allowing Christianity to be practiced freely.",
-      "category": "Political/Religious",
-      "significance": "Marked a major turning point for Christianity, accelerating its spread and eventual dominance in Europe."
+      "year": 323,
+      "title": "Death of Alexander the Great",
+      "description": "According to many ancient sources and traditional chronologies, Alexander III of Macedon died in Babylon at age 32 after a brief illness, having built an empire stretching from Greece to northwestern India.",
+      "category": "Death",
+      "significance": "His death ended the unified Macedonian empire and led to the Wars of the Diadochi, as his generals divided his territories, spreading Hellenistic culture across the Mediterranean and Near East."
     },
     {
-      "year": 1381,
-      "title": "Peasants' Revolt in England Reaches London",
-      "description": "The Peasants' Revolt, a major uprising across large parts of England, saw the rebel forces enter London and confront King Richard II's government.",
-      "category": "Social/Political",
-      "significance": "Highlighted widespread social discontent and led to significant but temporary changes in labor laws and feudal relations."
+      "year": 1525,
+      "title": "Martin Luther Marries Katharina von Bora",
+      "description": "Protestant reformer Martin Luther married Katharina von Bora, a former nun who had escaped from a convent, in Wittenberg, Germany.",
+      "category": "Religion",
+      "significance": "The marriage helped establish the model of the Protestant clergy household and symbolized the Reformation's rejection of mandatory clerical celibacy."
     },
     {
-      "year": 1944,
-      "title": "Allied Forces Invade Rome During World War II",
-      "description": "Allied forces captured Rome, marking the first Axis capital to fall during World War II.",
-      "category": "Military/War",
-      "significance": "A crucial turning point in the Italian Campaign, boosting Allied morale and weakening Axis control in Europe."
+      "year": 1831,
+      "title": "Birth of James Clerk Maxwell",
+      "description": "Scottish physicist James Clerk Maxwell was born in Edinburgh. He later formulated the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light.",
+      "category": "Birth",
+      "significance": "Maxwell's equations became a cornerstone of modern physics, paving the way for relativity, quantum theory, and technologies such as radio and radar."
+    },
+    {
+      "year": 1966,
+      "title": "Miranda v. Arizona Decided",
+      "description": "The U.S. Supreme Court ruled 5-4 that criminal suspects must be informed of their right to remain silent and to have an attorney before police interrogation.",
+      "category": "Law",
+      "significance": "The decision created the 'Miranda warning' used by U.S. law enforcement and reshaped protections for the rights of the accused."
     },
     {
       "year": 1983,
-      "title": "Pope John Paul II Visits His Native Poland",
-      "description": "Pope John Paul II made a historic visit to Poland, inspiring the Solidarity movement and bolstering opposition to communist rule.",
-      "category": "Religious/Political",
-      "significance": "The visit energized the anti-communist movement, contributing to the eventual fall of communism in Eastern Europe."
+      "title": "Pioneer 10 Crosses the Orbit of Neptune",
+      "description": "NASA's Pioneer 10 spacecraft became the first human-made object to pass beyond the orbit of Neptune, then the outermost planet in its position, on its path out of the solar system.",
+      "category": "Science and Exploration",
+      "significance": "It demonstrated the reach of robotic space exploration and marked a milestone in humanity's journey beyond the planets."
     }
   ]
 }

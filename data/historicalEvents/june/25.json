@@ -1,33 +1,40 @@
 {
-  "date": "June-25",
+  "date": "June 25",
   "events": [
     {
       "year": 1876,
-      "title": "Battle of the Little Bighorn",
-      "description": "Lieutenant Colonel George Armstrong Custer and his troops were defeated by Lakota, Northern Cheyenne, and Arapaho warriors in Montana Territory.",
+      "title": "Battle of the Little Bighorn Begins",
+      "description": "Lakota, Northern Cheyenne, and Arapaho warriors led by leaders including Sitting Bull and Crazy Horse defeated the 7th Cavalry under Lt. Col. George Armstrong Custer in Montana Territory. Custer and over 200 of his men were killed in the engagement, which began on June 25 and continued into June 26.",
       "category": "Military",
-      "significance": "This battle marked a major victory for Native American tribes during the Great Sioux War and had a lasting impact on U.S. policy towards Native Americans."
+      "significance": "It was the most famous victory of Plains Indian forces over the U.S. Army, but it intensified the government's military campaign, leading to the defeat of the Lakota and the seizure of the Black Hills."
     },
     {
       "year": 1950,
-      "title": "Start of the Korean War",
-      "description": "North Korean forces crossed the 38th parallel and invaded South Korea, initiating the Korean War.",
-      "category": "Military",
-      "significance": "The conflict drew in multiple countries, including the U.S. and China, leading to a prolonged Cold War-era military engagement."
+      "title": "Korean War Begins",
+      "description": "North Korean forces crossed the 38th parallel and invaded South Korea in the early hours of June 25, 1950. The United Nations Security Council responded by authorizing military assistance to South Korea, and the United States led a multinational force.",
+      "category": "War",
+      "significance": "The conflict became one of the first major proxy wars of the Cold War, involving the U.S., China, and the Soviet Union, and it left Korea divided to this day."
     },
     {
       "year": 1991,
-      "title": "Croatia and Slovenia Declare Independence from Yugoslavia",
-      "description": "Both republics officially declared their independence, prompting armed conflicts that marked the beginning of the breakup of Yugoslavia.",
-      "category": "Political",
-      "significance": "These declarations triggered the Yugoslav Wars and the eventual dissolution of Yugoslavia into several independent nations."
+      "title": "Croatia and Slovenia Declare Independence",
+      "description": "Croatia and Slovenia formally declared independence from Yugoslavia, breaking away from the federation. Slovenia's declaration was followed by a brief Ten-Day War with the Yugoslav People's Army.",
+      "category": "Politics",
+      "significance": "The declarations marked the start of the breakup of Yugoslavia and the beginning of the Yugoslav Wars, which reshaped the Balkans in the 1990s."
     },
     {
-      "year": 1893,
-      "title": "Grover Cleveland Becomes the Only U.S. President to Serve Two Non-Consecutive Terms",
-      "description": "Grover Cleveland started his second term as the 24th President of the United States.",
-      "category": "Political",
-      "significance": "His unique position highlights an exceptional political career in American presidential history."
+      "year": 1997,
+      "title": "Mir Space Station Collision",
+      "description": "An unmanned Progress M-34 cargo spacecraft collided with the Russian space station Mir during a docking test, puncturing the Spektr module and causing depressurization. The crew sealed off the damaged module to save the station.",
+      "category": "Science and Technology",
+      "significance": "The accident was the most serious in-orbit collision up to that time and highlighted the risks of aging space infrastructure, shaping lessons for international cooperation on the International Space Station."
+    },
+    {
+      "year": 2009,
+      "title": "Death of Michael Jackson",
+      "description": "Michael Jackson, the American singer known as the King of Pop, died in Los Angeles at age 50 from acute propofol intoxication. His death occurred as he prepared for a series of comeback concerts in London.",
+      "category": "Death",
+      "significance": "Jackson was among the best-selling and most influential entertainers of all time, and his death prompted a worldwide outpouring of mourning and renewed attention to his musical legacy."
     }
   ]
 }

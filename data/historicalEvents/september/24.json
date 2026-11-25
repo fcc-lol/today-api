@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1789,
-      "title": "Congress passes the Judiciary Act",
-      "description": "The United States Congress passes the Judiciary Act, which establishes the federal judiciary and the Supreme Court as the highest court in the United States.",
+      "title": "Judiciary Act Passed by U.S. Congress",
+      "description": "The U.S. Congress passed the Judiciary Act of 1789, which established the structure of the federal court system, including the Supreme Court with six justices, thirteen district courts, and three circuit courts. President George Washington signed it into law on September 24, and it also created the office of the Attorney General.",
       "category": "Politics",
-      "significance": "This act laid the foundation for the U.S. federal court system and clarified the jurisdiction of federal courts."
+      "significance": "Laid the foundation of the American federal judiciary and shaped the balance of power between federal and state courts."
+    },
+    {
+      "year": 1852,
+      "title": "First Powered Airship Flight by Henri Giffard",
+      "description": "French engineer Henri Giffard flew a steam-powered airship about 27 kilometers from Paris to Trappes, reaching a speed of roughly 8 km/h. It was the first powered, controlled lighter-than-air flight.",
+      "category": "Science and Technology",
+      "significance": "Demonstrated that dirigible flight was feasible and paved the way for later airships and aviation development."
+    },
+    {
+      "year": 1869,
+      "title": "Black Friday Gold Panic",
+      "description": "Financiers Jay Gould and James Fisk attempted to corner the U.S. gold market, driving the price of gold sharply upward. The scheme collapsed when the U.S. Treasury released gold into the market, causing a sudden crash and widespread financial ruin.",
+      "category": "Economics",
+      "significance": "Exposed the vulnerability of financial markets to manipulation and political corruption during the Gilded Age."
     },
     {
       "year": 1957,
-      "title": "Civil Rights: Little Rock Nine integrate Central High School",
-      "description": "Nine African American students, known as the Little Rock Nine, enter Central High School in Little Rock, Arkansas, following the Supreme Court's decision to desegregate schools.",
+      "title": "Eisenhower Sends Federal Troops to Little Rock",
+      "description": "President Dwight D. Eisenhower ordered the 101st Airborne Division to Little Rock, Arkansas, and federalized the Arkansas National Guard to enforce desegregation and protect nine Black students entering Central High School.",
       "category": "Civil Rights",
-      "significance": "This event was a significant moment in the American Civil Rights Movement, highlighting the federal government's role in enforcing desegregation."
+      "significance": "Showed federal willingness to enforce court-ordered school desegregation over state resistance and became a landmark moment in the civil rights movement."
     },
     {
-      "year": 2003,
-      "title": "Concorde retires from service",
-      "description": "The Concorde, the world's only supersonic passenger airliner, makes its last commercial flight after 27 years of service.",
-      "category": "Technology/Aviation",
-      "significance": "The retirement marked the end of the era of supersonic passenger travel."
-    },
-    {
-      "year": 2013,
-      "title": "Typhoon Haiyan hits the Philippines",
-      "description": "One of the strongest tropical cyclones ever recorded, Typhoon Haiyan, strikes the Philippines causing widespread destruction and thousands of deaths.",
-      "category": "Natural Disaster",
-      "significance": "The typhoon brought attention to the need for improved disaster preparedness and international aid efforts."
+      "year": 1960,
+      "title": "USS Enterprise Launched",
+      "description": "The USS Enterprise (CVN-65), the world's first nuclear-powered aircraft carrier, was launched at Newport News, Virginia.",
+      "category": "Military",
+      "significance": "Marked a major leap in naval technology, providing carriers with nearly unlimited range and transforming naval power projection."
     }
   ]
 }

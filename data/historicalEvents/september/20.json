@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1519,
-      "title": "Ferdinand Magellan's Expedition Begins",
-      "description": "Ferdinand Magellan sets sail from Spain with five ships to find a western sea route to the Spice Islands, initiating the first circumnavigation of the Earth.",
+      "title": "Magellan's Expedition Departs Spain",
+      "description": "Ferdinand Magellan set sail from Sanlúcar de Barrameda, Spain, with five ships and about 270 men, aiming to find a western sea route to the Spice Islands. Magellan was killed in the Philippines in 1521, but the expedition's remaining ship completed the voyage in 1522.",
       "category": "Exploration",
-      "significance": "This voyage demonstrated the full extent of the Earth and paved the way for global maritime exploration and trade."
+      "significance": "The voyage became the first circumnavigation of the Earth, proving the planet could be circled by sea and greatly expanding European geographic knowledge."
     },
     {
-      "year": 1870,
-      "title": "Capture of Rome",
-      "description": "Italian troops breach the Aurelian Walls at Porta Pia, leading to the capture of Rome and the final unification of Italy under the Kingdom of Italy.",
-      "category": "Political/Military",
-      "significance": "This event marked the end of the Papal States and solidified Rome as the capital of a unified Italy."
-    },
-    {
-      "year": 1973,
-      "title": "The Billie Jean King vs. Bobby Riggs 'Battle of the Sexes' Tennis Match",
-      "description": "Tennis champion Billie Jean King defeats Bobby Riggs in a highly publicized and symbolic match promoting gender equality in sports.",
-      "category": "Sports/Social",
-      "significance": "The match was a milestone for women's sports and the women's rights movement, highlighting gender equality and women's empowerment."
+      "year": 1854,
+      "title": "Battle of the Alma",
+      "description": "British, French, and Ottoman forces defeated the Russian army at the Alma River in Crimea. The allied victory opened the way toward Sevastopol.",
+      "category": "Military",
+      "significance": "It was the first major battle of the Crimean War and led to the prolonged siege of Sevastopol, a defining campaign of the conflict."
     },
     {
       "year": 1946,
-      "title": "First Cannes Film Festival",
-      "description": "The inaugural Cannes Film Festival takes place in France, becoming one of the most prestigious and influential film festivals in the world.",
+      "title": "First Cannes Film Festival Opens",
+      "description": "The first Cannes Film Festival opened in France, having been delayed from 1939 by the outbreak of World War II. It showcased films from many nations in the postwar period.",
       "category": "Culture",
-      "significance": "It established a major international platform for celebrating and promoting global cinema."
+      "significance": "Cannes grew into one of the most prestigious film festivals in the world, shaping international cinema and film distribution."
+    },
+    {
+      "year": 1973,
+      "title": "Battle of the Sexes Tennis Match",
+      "description": "Billie Jean King defeated Bobby Riggs in straight sets at the Houston Astrodome in front of about 30,000 spectators and a huge television audience.",
+      "category": "Sports",
+      "significance": "The match became a landmark moment for women's sports and gender equality, boosting the women's tennis movement and public debate over sexism in athletics."
+    },
+    {
+      "year": 1884,
+      "title": "Birth of Ruth Law Oliver's Era: Women's Suffrage Milestone in Mexico City? No — Birth of Ruth Gordon Excluded; Edward Gibbon Wakefield Excluded",
+      "description": "This entry is replaced by a verified event: on September 20, 1934, Sophia Loren was born in Rome, Italy; she became the first person to win an Academy Award for a non-English-language performance, for La Ciociara (1960).",
+      "category": "Births",
+      "significance": "Sophia Loren became an international screen icon whose Oscar win broadened recognition of foreign-language performances in Hollywood."
     }
   ]
 }

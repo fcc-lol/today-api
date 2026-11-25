@@ -2,58 +2,62 @@
   "date": "April 19",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub known for its large clusters of purple to pink trumpet-shaped flowers. It is widely found in temperate regions and often blooms in early to mid-spring.",
-      "bloomingSeason": "March to May",
-      "location": "Temperate regions of Europe and western Asia",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad blue-green leaves. Thousands of cultivars exist, including single, double, fringed, and parrot types. Mid to late April is peak bloom in the Netherlands, northern Europe, and temperate North America.",
+      "bloomingSeason": "Mid spring (April to May in the Northern Hemisphere)",
+      "location": "Netherlands, Northern Europe, Northeastern North America, cultivated worldwide in temperate zones",
       "colors": [
-        "purple",
-        "pink"
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "During 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a house in Amsterdam."
+    },
+    {
+      "name": "Prunus serrulata",
+      "commonName": "Japanese Flowering Cherry",
+      "description": "A deciduous ornamental tree covered in clouds of ruffled blossoms before or as the leaves emerge. Late-blooming cultivars such as 'Kanzan' flower in mid to late April in many temperate regions, while northern Japan's Tohoku and Hokkaido regions see peak sakura around this time.",
+      "bloomingSeason": "Early to mid spring (late March to late April depending on latitude and cultivar)",
+      "location": "Japan (Tohoku and Hokkaido), Eastern United States, Pacific Northwest, Europe",
+      "colors": [
+        "Pale pink",
+        "Deep pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendrons are important nectar sources for bees and butterflies in spring."
+      "funFact": "The Japanese custom of hanami, or flower viewing, has been celebrated for over a thousand years, and the sakura front moves northward across Japan at roughly 2 km per hour."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous tree or large shrub with spectacular large, cup-shaped flowers that appear before the leaves in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions worldwide, commonly cultivated in gardens",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers sprout directly from bare branches and even the trunk, followed by heart-shaped leaves. It is a favorite early food source for native bees.",
+      "bloomingSeason": "Early to mid spring (late March to late April)",
+      "location": "Eastern and Central North America, from Ontario south to Mexico",
       "colors": [
-        "white",
-        "pink",
-        "purple"
+        "Magenta",
+        "Pink",
+        "Lavender"
       ],
-      "emoji": "🌺",
-      "funFact": "Magnolia flowers predate bees; they evolved to be pollinated by beetles."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mild, tangy flavor; they are sometimes added to salads or fried as fritters."
     },
     {
-      "name": "Banksia integrifolia",
-      "commonName": "Coast Banksia",
-      "description": "A native Australian tree or large shrub producing large cylindrical yellow flower spikes, known for attracting birds and mammals.",
-      "bloomingSeason": "April to August (autumn and winter in Australia)",
-      "location": "Coastal eastern Australia",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tropical to subtropical tree with fern-like foliage that bears dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it blooms in spring, but in parts of the tropics and northern subtropics such as Mexico and parts of Florida, early blooms appear in April to May, while other regions have blooms from earlier months lingering into autumn.",
+      "bloomingSeason": "Spring to early summer in the Northern Hemisphere subtropics (April to June); October to December in the Southern Hemisphere",
+      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Africa, and Australia",
       "colors": [
-        "yellow"
+        "Lavender",
+        "Blue-purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Banksia flowers produce abundant nectar that supports a variety of wildlife."
-    },
-    {
-      "name": "Ipomoea purpurea",
-      "commonName": "Common Morning Glory",
-      "description": "A fast-growing vine producing trumpet-shaped flowers with vibrant colors, opening in the morning and closing by afternoon.",
-      "bloomingSeason": "April to September (warm climates)",
-      "location": "Tropical and subtropical regions worldwide, often cultivated",
-      "colors": [
-        "purple",
-        "blue",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Morning glories are known for their rapid growth and twining habit, often covering fences and trellises."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed 'Jacaranda City', and falling flowers create purple carpets on the pavement."
     }
   ]
 }

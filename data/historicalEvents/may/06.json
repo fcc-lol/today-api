@@ -2,39 +2,39 @@
   "date": "May 6",
   "events": [
     {
-      "year": 1954,
-      "title": "Roger Bannister breaks the four-minute mile",
-      "description": "British athlete Roger Bannister becomes the first person to run a mile in under four minutes, clocking 3 minutes 59.4 seconds.",
-      "category": "Sports",
-      "significance": "Marked a significant achievement in athletics, breaking a psychological and physical barrier that had been considered impossible for decades."
-    },
-    {
       "year": 1937,
-      "title": "The Hindenburg disaster",
-      "description": "The German passenger airship LZ 129 Hindenburg catches fire and is destroyed during its attempt to dock at Lakehurst Naval Air Station in New Jersey.",
+      "title": "Hindenburg Disaster",
+      "description": "The German passenger airship LZ 129 Hindenburg caught fire and was destroyed while attempting to dock at Naval Air Station Lakehurst in New Jersey, killing 36 people (13 passengers, 22 crew members, and one ground crewman).",
       "category": "Disaster",
-      "significance": "This tragic event marked the end of the airship era and had a lasting impact on public confidence in airship travel."
+      "significance": "The disaster, captured in dramatic newsreel footage and radio broadcast, ended the era of commercial passenger airships and shattered public confidence in hydrogen-filled rigid airships."
     },
     {
-      "year": 1527,
-      "title": "Sack of Rome",
-      "description": "Troops of Charles V, Holy Roman Emperor, sack Rome, marking the end of the Italian Renaissance.",
-      "category": "Military/Political",
-      "significance": "This event shifted the political landscape of Italy and Europe, weakening the power of the Papacy and marking a turning point in Renaissance history."
+      "year": 1954,
+      "title": "Roger Bannister Breaks the Four-Minute Mile",
+      "description": "British athlete Roger Bannister ran a mile in 3 minutes 59.4 seconds at the Iffley Road track in Oxford, England, becoming the first person to break the four-minute barrier.",
+      "category": "Sports",
+      "significance": "The feat was long considered a physical limit of human capability; its achievement redefined athletic possibility and was followed by other runners breaking the barrier within weeks."
     },
     {
-      "year": 1994,
-      "title": "Elections in South Africa end apartheid",
-      "description": "South Africa holds its first post-apartheid general elections, allowing citizens of all races to vote for the first time.",
-      "category": "Political",
-      "significance": "Marked the official end of apartheid and led to Nelson Mandela becoming South Africa's first black president, a pivotal moment in world history."
+      "year": 1889,
+      "title": "Eiffel Tower Opens to the Public at the Exposition Universelle",
+      "description": "The Eiffel Tower, built as the entrance arch to the 1889 World's Fair in Paris, was opened to the public after its official inauguration in March, with the Exposition Universelle opening on this date.",
+      "category": "Architecture",
+      "significance": "The 300-metre iron structure, initially controversial, became the enduring symbol of Paris and France and a landmark demonstration of modern engineering."
     },
     {
-      "year": 1882,
-      "title": "First performance of Tchaikovsky’s Symphony No. 4",
-      "description": "Pyotr Ilyich Tchaikovsky’s Fourth Symphony is premiered in Moscow, conducted by Nikolai Rubinstein.",
-      "category": "Arts/Music",
-      "significance": "This work is regarded as one of Tchaikovsky's most important symphonies, displaying his emotional depth and contributing significantly to classical music."
+      "year": 1856,
+      "title": "Birth of Sigmund Freud",
+      "description": "Sigmund Freud, the Austrian neurologist and founder of psychoanalysis, was born in Freiberg, Moravia, then part of the Austrian Empire.",
+      "category": "Birth",
+      "significance": "Freud's theories of the unconscious mind, dreams, and psychosexual development profoundly shaped psychology, psychiatry, literature, and popular culture in the 20th century."
+    },
+    {
+      "year": 1941,
+      "title": "Stalin Becomes Chairman of the Council of People's Commissars",
+      "description": "Joseph Stalin assumed the post of Premier of the Soviet Union by becoming Chairman of the Council of People's Commissars, formally adding government leadership to his role as Communist Party General Secretary.",
+      "category": "Politics",
+      "significance": "The move formalized Stalin's direct control of the state weeks before Germany's invasion of the USSR, and he led the Soviet wartime government through World War II."
     }
   ]
 }

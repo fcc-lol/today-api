@@ -2,36 +2,44 @@
   "date": "May 31",
   "holidays": [
     {
+      "name": "National Macaroon Day",
+      "description": "A day to celebrate the sweet, chewy coconut cookie known as the macaroon. Bakers and snackers alike dig into piles of coconut goodness, and some people confuse it with its fancier French cousin, the macaron.",
+      "origin": "A food observance in the United States, popularized by food-holiday calendars. Macaroons trace back to Italian monasteries in the Middle Ages, and the almond-based version spread across Europe before coconut became the star in American recipes.",
+      "category": "Food Day",
+      "emoji": "🥥",
+      "funFact": "The word macaroon comes from the Italian 'maccarone,' meaning paste, which is the same root as the word macaroni."
+    },
+    {
       "name": "World No Tobacco Day",
-      "description": "A day to raise awareness about the dangers of tobacco use and advocate for effective policies to reduce tobacco consumption worldwide.",
-      "origin": "Established by the World Health Organization in 1987 to highlight the health risks associated with tobacco and encourage people to quit.",
+      "description": "A global awareness day encouraging people to give up tobacco for 24 hours and highlighting the health risks of tobacco use. Campaigns each year pick a different theme, from protecting youth to supporting food growers.",
+      "origin": "Established by the World Health Organization's member states in 1987 to draw attention to the tobacco epidemic and its preventable death and disease.",
       "category": "Awareness Day",
       "emoji": "🚭",
-      "funFact": "World No Tobacco Day sparks global events such as the 'No Smoking' flash mobs and creative smoke-free art installations every year!"
+      "funFact": "Each year the WHO gives World No Tobacco Day Awards to individuals and organizations around the world for their efforts to fight tobacco use."
     },
     {
-      "name": "Put a Pillow on Your Fridge Day",
-      "description": "A quirky holiday that encourages people to put a pillow on their fridge as a symbol of protection for their food and a reminder to chill out and relax.",
-      "origin": "A humorous, unofficial holiday with unclear origins, celebrated mostly in North America as a fun way to 'cool off'.",
-      "category": "Quirky Fun",
-      "emoji": "🛏️🧊",
-      "funFact": "Some people claim putting a pillow on the fridge 'absorbs the chill' – even though fridges and pillows don’t exactly mix scientifically!"
+      "name": "Save Your Hearing Day",
+      "description": "A day for reminding everyone to turn down the volume, protect their ears, and think twice before blasting headphones at full volume. It is a good excuse to give your eardrums a quiet break.",
+      "origin": "An awareness observance in the United States, promoted by hearing health advocates to encourage hearing protection and regular hearing checkups.",
+      "category": "Awareness Day",
+      "emoji": "🎧",
+      "funFact": "Hearing damage can begin with prolonged exposure to sounds above about 85 decibels, which is roughly the noise level of heavy city traffic."
     },
     {
-      "name": "Learn about Composting Day",
-      "description": "This day promotes understanding of composting and its benefits, encouraging people to start composting to reduce waste and enrich soil naturally.",
-      "origin": "Started by environmental groups to boost eco-friendly waste management practices in communities around the world.",
-      "category": "Environmental Awareness",
-      "emoji": "🍂♻️",
-      "funFact": "Composting can reduce household waste by up to 30%, turning kitchen scraps into black gold for your garden!"
+      "name": "Brisk Walking Day",
+      "description": "A day for lacing up your sneakers and picking up the pace on a brisk walk. It is perfect for people who want exercise without the commitment of running or the sweat of a gym.",
+      "origin": "An informal fitness observance promoted by health and wellness communities to encourage moderate daily exercise that is easy on the joints.",
+      "category": "Health and Fitness",
+      "emoji": "🚶",
+      "funFact": "A brisk walk is generally defined as about 3 to 4 miles per hour, fast enough to raise your heart rate but still let you hold a conversation."
     },
     {
-      "name": "Choose Day",
-      "description": "A lighthearted day dedicated to making decisions—big or small—to take control of one's life and embrace the power of choice.",
-      "origin": "Informal, motivational observance encouraging proactive living by focusing on the choices that shape our lives.",
-      "category": "Pop Culture / Lifestyle",
-      "emoji": "🤔✅",
-      "funFact": "On Choose Day, some people make all their choices blindfolded for fun—to prove that sometimes trust beats overthinking!"
+      "name": "Hug Your Cat Day",
+      "description": "A day dedicated to showering your feline overlord with affection, assuming the cat consents. Cat owners are encouraged to cuddle, but wise ones accept that the cat sets the terms of any hug.",
+      "origin": "A pet-themed unofficial observance created by cat lovers and shared widely online, in keeping with the internet's lasting devotion to cats.",
+      "category": "Pet Day",
+      "emoji": "🐱",
+      "funFact": "Cats can purr at frequencies between 25 and 150 Hertz, a range some researchers think may help promote bone healing."
     }
   ]
 }

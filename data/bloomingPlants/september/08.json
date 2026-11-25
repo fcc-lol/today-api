@@ -3,60 +3,59 @@
   "plants": [
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "Sunflowers are large, bright yellow flowers known for their ability to track the sun's movement. They thrive in temperate climates and are often cultivated for their seeds and oil.",
-      "bloomingSeason": "July to September",
-      "location": "Temperate regions worldwide, including North America and Europe",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like composite flower heads made of golden ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plant is grown both as an ornamental and as a major oil and seed crop.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
+      "location": "North America, Europe, Ukraine, Russia and Argentina (native to North America)",
       "colors": [
         "yellow",
+        "gold",
+        "orange",
         "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers exhibit heliotropism, turning their flower heads to follow the sun from east to west during the day."
+      "funFact": "Young sunflower buds exhibit heliotropism, following the sun from east to west each day, but mature blooms stop moving and face east, which helps warm them and attract more pollinators."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "Black-eyed Susan features vibrant yellow petals surrounding a dark brown central cone. It is a hardy wildflower frequently seen in meadows and prairies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall perennial wildflower that forms dense colonies and produces arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies and other insects preparing for autumn.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Meadows, roadsides and prairies of North America; naturalized in Europe and Asia",
       "colors": [
-        "yellow",
-        "dark brown"
+        "golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "This plant is the state flower of Maryland, USA, symbolizing encouragement and motivation."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
     },
     {
-      "name": "Dahlias",
-      "commonName": "Dahlia",
-      "description": "Dahlias display a wide variety of colors and flower forms, from small pom-poms to large dinner-plate blooms. They are popular ornamental plants in gardens.",
-      "bloomingSeason": "July to October",
-      "location": "Cultivated worldwide, originally from Mexico and Central America",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up crocus-like goblet flowers in early autumn, before its leaves emerge. The leaves appear the following spring and die back by summer, so the flowers rise on bare ground.",
+      "bloomingSeason": "Late summer to autumn",
+      "location": "Meadows and woodland edges of Europe, from the UK to central Europe; cultivated worldwide in temperate gardens",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "purple",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "💐",
-      "funFact": "Dahlias were declared the national flower of Mexico in 1963, reflecting their cultural significance."
-    },
-    {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "Bigleaf hydrangeas are known for their large, spherical flower clusters that change color based on soil pH, ranging from pink to blue.",
-      "bloomingSeason": "June to September",
-      "location": "Native to Japan; widely cultivated in temperate gardens globally",
-      "colors": [
-        "blue",
-        "pink",
-        "white"
+        "pale pink",
+        "lilac",
+        "mauve"
       ],
       "emoji": "🌸",
-      "funFact": "The color variation in hydrangea flowers is due to aluminum availability in the soil, which is influenced by soil pH."
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that has been used medicinally for gout and is also used by plant breeders to induce chromosome doubling."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A shrub with the largest flower head in the Protea genus, made of a central cluster of tiny flowers surrounded by large, stiff, colorful bracts. It grows in the fynbos vegetation of the Cape region and is South Africa's national flower.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with peak bloom from about late August to November",
+      "location": "Western and Southern Cape, South Africa",
+      "colors": [
+        "pink",
+        "cream",
+        "crimson",
+        "silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The genus is named after Proteus, the Greek sea god who could change shape, referring to the great diversity of forms in the protea family, which is more than 80 million years old."
     }
   ]
 }

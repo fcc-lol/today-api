@@ -2,57 +2,60 @@
   "date": "June 1",
   "plants": [
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A tall perennial plant native to western North America, known for its dense spikes of vibrant flowers that attract pollinators like bees and butterflies.",
-      "bloomingSeason": "May to July",
-      "location": "Temperate North America",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers above deep green, glossy divided foliage. A beloved cottage garden staple and cut flower, it thrives in cold winters and can persist for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility and helping other plants grow."
+      "funFact": "Peony plants can live for over 100 years, and ants are often seen on the flower buds feeding on sugary nectar, though they are not required for blooming."
     },
     {
-      "name": "Rosa rubiginosa",
-      "commonName": "Sweet Briar Rose",
-      "description": "A species of wild rose with fragrant pink flowers and thorny stems, often found in hedgerows and meadows.",
-      "bloomingSeason": "May to June",
-      "location": "Europe and western Asia",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, this compact, suckering shrub produces fragrant, semi-double flowers with golden stamens. It is hardy and was ancestral to many modern garden roses.",
+      "bloomingSeason": "Late spring to early summer (June in Northern Hemisphere)",
+      "location": "Native to central and southern Europe and western Asia; cultivated in gardens worldwide",
       "colors": [
-        "pink"
+        "Deep pink",
+        "Crimson",
+        "Purple"
       ],
       "emoji": "🌹",
-      "funFact": "The leaves of Sweet Briar release a distinctive apple-like scent when crushed."
+      "funFact": "Dried petals of Rosa gallica 'Officinalis' were used in medieval apothecaries and retain their fragrance long after drying, earning it the name Apothecary's Rose."
     },
     {
-      "name": "Nicotiana alata",
-      "commonName": "Flowering Tobacco",
-      "description": "A night-blooming annual or perennial plant often grown in gardens for its fragrant, tubular white or cream flowers.",
-      "bloomingSeason": "Late spring to early fall",
-      "location": "South America (cultivated worldwide)",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular tropical to subtropical tree with fern-like foliage and large clusters of trumpet-shaped lavender-blue flowers that cover the canopy and carpet the ground beneath. In Northern Hemisphere subtropics, bloom begins in late spring.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in Mexico, southern California, Florida, South Africa, and Australia",
       "colors": [
-        "white",
-        "cream"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌿",
-      "funFact": "Flowering Tobacco releases a sweet scent in the evening to attract nocturnal pollinators like moths."
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed the Jacaranda City, and in some places falling blossoms are said to bring good luck."
     },
     {
-      "name": "Grevillea rosmarinifolia",
-      "commonName": "Rosemary Grevillea",
-      "description": "An evergreen shrub native to Australia with needle-like leaves and bright spider-like flowers that provide nectar for birds.",
-      "bloomingSeason": "Late autumn to early spring in Australia, but cultivated varieties may bloom sporadically in other regions",
-      "location": "Australia (cultivated in temperate gardens worldwide)",
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "A rugged Australian tree or shrub with thick, serrated leaves and large cylindrical flower spikes made of thousands of tiny individual flowers. It is an important nectar source for birds and mammals in the cooler months.",
+      "bloomingSeason": "Late autumn to winter in the Southern Hemisphere (roughly February to August, with peak flowering around early winter)",
+      "location": "Eastern coast of Australia, from Queensland to Victoria and Tasmania",
       "colors": [
-        "red",
-        "orange"
+        "Yellow-green",
+        "Golden",
+        "Gray-green"
       ],
-      "emoji": "🌺",
-      "funFact": "Grevilleas are part of the Proteaceae family and have specialized flowers adapted to bird pollination."
+      "emoji": "🌼",
+      "funFact": "Banksia seed cones are woody and often open only after bushfire, releasing seeds into the ash-enriched soil."
     }
   ]
 }

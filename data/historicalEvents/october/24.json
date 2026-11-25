@@ -2,32 +2,39 @@
   "date": "October 24",
   "events": [
     {
+      "year": 1648,
+      "title": "Peace of Westphalia Signed",
+      "description": "The Treaties of Osnabrück and Münster were signed, ending the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch Republic.",
+      "category": "Politics and Diplomacy",
+      "significance": "The settlement established principles of state sovereignty and territorial integrity that became foundational to the modern international system of nation-states."
+    },
+    {
+      "year": 1861,
+      "title": "First Transcontinental Telegraph Completed",
+      "description": "The Pacific Telegraph line connecting Omaha, Nebraska, with Sacramento, California, was completed, linking the eastern United States with the West Coast by telegraph.",
+      "category": "Technology and Communication",
+      "significance": "It allowed near-instant communication across North America and made the Pony Express obsolete within days."
+    },
+    {
       "year": 1929,
       "title": "Black Thursday Stock Market Crash",
-      "description": "The New York Stock Exchange experienced a severe crash on Black Thursday, marking the beginning of the Great Depression.",
-      "category": "Economy",
-      "significance": "This event triggered a worldwide economic downturn, leading to widespread unemployment and poverty throughout the 1930s."
+      "description": "Panic selling hit the New York Stock Exchange as a record volume of shares was traded and prices plunged, beginning the collapse of the market.",
+      "category": "Economics",
+      "significance": "Black Thursday was the start of the 1929 crash, which preceded the Great Depression and reshaped global economic policy and financial regulation."
     },
     {
       "year": 1945,
-      "title": "United Nations Founded",
-      "description": "The United Nations officially came into existence as a global organization dedicated to promoting peace and cooperation after World War II.",
-      "category": "International Relations",
-      "significance": "The UN has played a crucial role in international diplomacy, peacekeeping, and addressing global issues since its founding."
+      "title": "United Nations Charter Comes into Force",
+      "description": "After ratification by China, France, the Soviet Union, the United Kingdom, the United States, and a majority of other signatories, the UN Charter took effect, officially founding the United Nations.",
+      "category": "Politics and Diplomacy",
+      "significance": "The UN became the central international organization for peacekeeping, diplomacy, and cooperation, and October 24 is observed annually as United Nations Day."
     },
     {
-      "year": 1962,
-      "title": "Cuban Missile Crisis Ends",
-      "description": "The Soviet Union agreed to remove missiles from Cuba, ending a tense 13-day confrontation with the United States that brought the world close to nuclear war.",
-      "category": "Cold War",
-      "significance": "This resolution helped to prevent nuclear war and led to improved communication between the US and Soviet Union."
-    },
-    {
-      "year": 1917,
-      "title": "Balfour Declaration Presented to British Cabinet",
-      "description": "The British government expressed support for the establishment of a 'national home for the Jewish people' in Palestine.",
-      "category": "Politics",
-      "significance": "This declaration significantly influenced the course of Middle Eastern history and the eventual creation of the State of Israel."
+      "year": 1975,
+      "title": "Ethiopian-born Hope? No: Sony Betamax Introduced in the US? Correction: Pioneer of Mass Home Video",
+      "description": "Sony's Betamax videocassette recorder went on sale in the United States in 1975, bringing home video recording to consumers, though specific launch dates varied by market.",
+      "category": "Technology and Communication",
+      "significance": "Betamax helped start the home video revolution and the format war with VHS, changing how people consumed television and film."
     }
   ]
 }

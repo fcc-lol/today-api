@@ -2,62 +2,60 @@
   "date": "June 29",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are woody perennial flowering plants known for their large, often fragrant flowers. They bloom widely during late spring and summer and can be found in many varieties worldwide.",
-      "bloomingSeason": "May to July (northern hemisphere) and November to January (southern hemisphere)",
-      "location": "Temperate regions globally, cultivated worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. It is widely grown in gardens and fields and is a favorite of bees and butterflies. Its flowers are harvested for essential oils, sachets, and culinary use.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere",
+      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for centuries, and there are over 300 species and thousands of cultivars worldwide."
+      "emoji": "💜",
+      "funFact": "Lavender's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A perennial wildflower with tall spikes of pea-like flowers, often seen in wild or cultivated settings. It blooms in late spring and early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Western North America, cultivated in temperate gardens",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round, water-repellent leaves held above the water and spectacular fragrant flowers on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters and is revered in many cultures.",
+      "bloomingSeason": "June through August",
+      "location": "Asia, from India and China to Japan, and northern Australia; widely cultivated in water gardens worldwide",
       "colors": [
-        "blue",
+        "pink",
+        "white"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a micro-textured surface that causes water and dirt to roll off, a phenomenon known as the 'lotus effect' that inspires self-cleaning materials."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy North American prairie perennial with daisy-like flowers featuring drooping petals around a prominent spiky orange-brown central cone. It thrives in full sun, tolerates drought, and attracts pollinators, then provides seeds for goldfinches in autumn.",
+      "bloomingSeason": "Late June through September",
+      "location": "Eastern and central North America; cultivated in gardens across temperate regions",
+      "colors": [
         "purple",
         "pink",
+        "orange",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines enrich soil by fixing nitrogen with symbiotic bacteria in their roots, benefiting the surrounding plants."
+      "funFact": "The name Echinacea comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone of the flower."
     },
     {
-      "name": "Nymphaea spp.",
-      "commonName": "Water Lilies",
-      "description": "Aquatic plants rooted in soil in bodies of water, displaying large floating leaves and attractive blossoms that open during the day.",
-      "bloomingSeason": "June to August",
-      "location": "Worldwide in temperate and tropical climates",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic evergreen shrub producing the largest flower heads in the Proteaceae family, with a central cluster of tiny flowers surrounded by colorful, petal-like bracts. It grows in the fynbos vegetation and is adapted to fire and nutrient-poor soils.",
+      "bloomingSeason": "Peak bloom in late winter and spring, with flowering from about May to November in the Southern Hemisphere, including late June",
+      "location": "Western and Southern Cape of South Africa",
       "colors": [
-        "white",
         "pink",
-        "yellow",
-        "blue"
+        "cream",
+        "red"
       ],
-      "emoji": "💧",
-      "funFact": "Many water lily species have flowers that open in early morning and close by afternoon, repeating this cycle for several days."
-    },
-    {
-      "name": "Eucalyptus globulus",
-      "commonName": "Blue Gum Eucalyptus",
-      "description": "A fast-growing evergreen tree native to Australia, known for its peeling bark and clusters of white flowers that bloom in late spring to mid-summer.",
-      "bloomingSeason": "October to January (Southern Hemisphere), can bloom variably in other regions",
-      "location": "Native to southeastern Australia, also cultivated worldwide",
-      "colors": [
-        "white"
-      ],
-      "emoji": "🌿",
-      "funFact": "Blue Gum eucalyptus produces eucalyptus oil used in medicinal and industrial applications, known for its strong scent."
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa's national flower, and its lineage is ancient, with the Proteaceae family dating back more than 300 million years to the supercontinent Gondwana."
     }
   ]
 }

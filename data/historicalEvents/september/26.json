@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1580,
-      "title": "Francis Drake Completes Circumnavigation of the Globe",
-      "description": "Sir Francis Drake returns to England after completing the second circumnavigation of the globe, enhancing English naval prestige.",
+      "title": "Francis Drake Completes Circumnavigation",
+      "description": "English privateer Francis Drake returned to Plymouth aboard the Golden Hind, completing his circumnavigation of the globe, which had begun in 1577. The voyage brought back a vast treasure of Spanish silver and spices.",
       "category": "Exploration",
-      "significance": "This voyage marked a significant achievement in maritime exploration and established England as a formidable naval power."
+      "significance": "Drake became the first Englishman to circumnavigate the world, boosting English naval prestige and challenging Spanish dominance of the seas."
     },
     {
-      "year": 1907,
-      "title": "Fugitive Slave Act Repealed in the U.S.",
-      "description": "The U.S. officially repeals the Fugitive Slave Act, a law that required the return of escaped slaves to their owners.",
-      "category": "Legislation",
-      "significance": "The repeal signaled progressive steps toward civil rights and justice preceding long-term changes in American law."
+      "year": 1687,
+      "title": "Parthenon Damaged by Venetian Bombardment",
+      "description": "During the Morea War, Venetian forces under Francesco Morosini besieged Athens, and a mortar shell struck the Parthenon, where the Ottomans stored gunpowder. The resulting explosion destroyed much of the roof and walls of the ancient temple.",
+      "category": "War",
+      "significance": "The explosion caused irreparable damage to one of the most important monuments of classical antiquity, shaping the ruined state in which it is seen today."
     },
     {
       "year": 1960,
-      "title": "First Live Ever Transatlantic Television Broadcast",
-      "description": "The first live transatlantic television signal is transmitted via the Telstar satellite, connecting the U.S. and Europe in real time.",
-      "category": "Technology",
-      "significance": "This event revolutionized global communications, leading to the modern era of live international broadcasts."
+      "title": "First Kennedy-Nixon Televised Presidential Debate",
+      "description": "Senator John F. Kennedy and Vice President Richard Nixon took part in the first televised U.S. presidential debate, broadcast from Chicago to an audience of tens of millions.",
+      "category": "Politics",
+      "significance": "The debate transformed political campaigning by demonstrating the power of television and image in shaping public opinion, influencing election strategy ever after."
+    },
+    {
+      "year": 1789,
+      "title": "Thomas Jefferson Confirmed as First U.S. Secretary of State",
+      "description": "President George Washington's nomination of Thomas Jefferson as the first Secretary of State was confirmed by the Senate, shortly after the new federal government began operating under the Constitution.",
+      "category": "Politics",
+      "significance": "Jefferson's role helped establish the structure of the executive branch and early American foreign policy."
     },
     {
       "year": 1983,
-      "title": "Sally Ride Becomes First American Woman in Space",
-      "description": "Sally Ride flies aboard the Space Shuttle Challenger, becoming the first American woman to travel into space.",
-      "category": "Space Exploration",
-      "significance": "Her mission paved the way for greater gender diversity in space exploration and inspired many in STEM fields."
+      "title": "Stanislav Petrov Averts Potential Nuclear War",
+      "description": "Soviet Lieutenant Colonel Stanislav Petrov, on duty at an early-warning command center, judged a satellite alert of incoming U.S. missiles to be a false alarm and chose not to report it as an attack.",
+      "category": "Cold War",
+      "significance": "His decision likely prevented a retaliatory nuclear strike during a period of intense Cold War tension, and he is remembered as having helped avert catastrophe."
     }
   ]
 }

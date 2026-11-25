@@ -2,36 +2,44 @@
   "date": "May 21",
   "holidays": [
     {
-      "name": "National Waitstaff Day",
-      "description": "A day to appreciate the hardworking waiters and waitresses who serve us at restaurants, cafes, and diners. It’s about tipping well and saying thank you with a smile!",
-      "origin": "Established in the United States to promote tipping etiquette and recognition for service industry workers.",
-      "category": "Service Industry Appreciation",
-      "emoji": "🍽️",
-      "funFact": "Waitstaff often remember regular customers by their favorite orders or drinks, creating unofficial traditions in many eateries."
-    },
-    {
-      "name": "World Snail Racing Championships",
-      "description": "Exactly what it sounds like: a quirky competition where snails race against each other to claim victory in slow motion!",
-      "origin": "Began in Congham, Norfolk, England, as a humorous local event starting in 1995.",
-      "category": "Quirky Sporting Event",
-      "emoji": "🐌",
-      "funFact": "In the 1995 inaugural race, the winner was a snail called Archie who completed the course in just 2 minutes and 48 seconds—snail speed legends!."
-    },
-    {
       "name": "National Memo Day",
-      "description": "A tribute to the humble memo – those concise messages that pass important (and sometimes hilarious) office updates!",
-      "origin": "An American unofficial holiday celebrating office communication methods.",
-      "category": "Office & Workplace",
+      "description": "A day to celebrate the humble office memo. Write a pointed, passive-aggressive, or heartfelt memo to a coworker, or simply appreciate the art of the brief written note.",
+      "origin": "An unofficial observance tied to workplace culture and the history of internal business communication. Its exact founder is unclear, as with many quirky calendar days.",
+      "category": "Workplace",
       "emoji": "📝",
-      "funFact": "The first memo in history was sent in the early 20th century as a way to streamline communication before email existed."
+      "funFact": "The word 'memo' is short for 'memorandum,' Latin for 'something to be remembered.'"
     },
     {
-      "name": "Endangered Species Day",
-      "description": "A day dedicated to raising awareness about endangered animals and the work needed to protect them.",
-      "origin": "Officially recognized in the United States to encourage conservation efforts.",
-      "category": "Environmental Awareness",
-      "emoji": "🦏",
-      "funFact": "Many species that were critically endangered on May 21 years ago have made remarkable recoveries, thanks to dedicated conservationists."
+      "name": "National Strawberries and Cream Day",
+      "description": "A day to indulge in the classic pairing of juicy strawberries and fluffy whipped or heavy cream. Perfect for dessert, breakfast, or a sunny afternoon snack.",
+      "origin": "A food observance that coincides with the start of strawberry season in many regions. The pairing became famous at the Wimbledon tennis championships, where it has been a tradition since the 1870s.",
+      "category": "Food",
+      "emoji": "🍓",
+      "funFact": "Wimbledon spectators eat roughly 190,000 portions of strawberries and cream during the tournament."
+    },
+    {
+      "name": "World Day for Cultural Diversity for Dialogue and Development",
+      "description": "A United Nations observance celebrating the richness of the world's cultures and encouraging people to learn about and engage with different traditions, languages, and perspectives.",
+      "origin": "The UN General Assembly established it in 2002 after UNESCO's Universal Declaration on Cultural Diversity, adopted in 2001.",
+      "category": "Awareness",
+      "emoji": "🌍",
+      "funFact": "There are over 7,000 languages spoken in the world today, but nearly half are at risk of disappearing."
+    },
+    {
+      "name": "I Need a Patch for That Day",
+      "description": "A tongue-in-cheek day for crafters, scouts, and jacket-decorators to celebrate patches of all kinds, whether embroidered, iron-on, or sew-on, and to find one for every hobby, joke, or personality quirk.",
+      "origin": "A lighthearted unofficial observance among the crafting and patch-collecting communities, fueled by the rise of patch culture on denim jackets and backpacks.",
+      "category": "Crafts",
+      "emoji": "🧵",
+      "funFact": "Embroidered patches date back to ancient times, when they were used to mark military units, and they remain a staple of uniforms today."
+    },
+    {
+      "name": "Talk Like Yoda Day",
+      "description": "Fans of Star Wars speak in Yoda's famously inverted syntax. Quote the Jedi Master, you must. Fun, it will be.",
+      "origin": "A pop culture observance linked to the release of Star Wars: Episode III, Revenge of the Sith on May 19, 2005, and the broader Star Wars celebration season in May.",
+      "category": "Pop Culture",
+      "emoji": "👽",
+      "funFact": "Yoda's speech pattern is called object-subject-verb order, which is very rare in natural human languages."
     }
   ]
 }

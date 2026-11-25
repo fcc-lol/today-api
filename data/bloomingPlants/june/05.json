@@ -2,55 +2,60 @@
   "date": "June 5",
   "plants": [
     {
-      "name": "Rosa rubiginosa",
-      "commonName": "Sweet Briar Rose",
-      "description": "A species of wild rose known for its fragrant leaves and pale pink flowers, native to Europe and western Asia. It blooms profusely in late spring to early summer.",
-      "bloomingSeason": "May to June",
-      "location": "Europe, Western Asia, and widely naturalized elsewhere",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, lush, often fragrant double or single flowers atop sturdy stems with deeply lobed green foliage. It is one of the most beloved cottage garden plants and a popular cut flower.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
       "colors": [
-        "pink"
-      ],
-      "emoji": "🌹",
-      "funFact": "The leaves of Sweet Briar Rose emit a pleasant apple-like fragrance when crushed, due to the presence of abundant glandular hairs."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "A perennial plant with tall spikes of colorful flowers, commonly found in North America’s temperate zones. Its vibrant blooms attract a range of pollinators during late spring and early summer.",
-      "bloomingSeason": "May to July",
-      "location": "North America",
-      "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines are nitrogen-fixing plants that help improve soil fertility by converting atmospheric nitrogen into forms usable by plants."
+      "funFact": "Peonies can live and bloom for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
     },
     {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A woodland wildflower native to eastern North America, named for its mottled leaves resembling a trout’s skin. It flowers in early to mid-spring, often by early June in cooler climates.",
-      "bloomingSeason": "April to June",
-      "location": "Eastern North America",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "A hardy, deciduous shrub with fragrant, semi-double flowers that have golden stamens at the center. It is one of the oldest cultivated roses and a parent to many modern garden roses.",
+      "bloomingSeason": "Early summer (June)",
+      "location": "Native to southern and central Europe and western Asia; grown in temperate gardens worldwide",
       "colors": [
-        "yellow"
+        "Deep pink",
+        "Crimson",
+        "Purple"
+      ],
+      "emoji": "🌹",
+      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally in the Middle Ages and its petals retain fragrance when dried."
+    },
+    {
+      "name": "Leucanthemum vulgare",
+      "commonName": "Oxeye Daisy",
+      "description": "A hardy wildflower forming clumps of upright stems topped with white petals radiating around a bright yellow center. It thrives in meadows, roadsides, and disturbed grasslands.",
+      "bloomingSeason": "Late spring to midsummer (May to August)",
+      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia, and New Zealand",
+      "colors": [
+        "White",
+        "Yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Yellow Trout Lily forms large clonal colonies through underground bulbs, but the plants rarely flower every year."
+      "funFact": "Oxeye daisy flower heads track the sun, and in some regions it is known as the 'Moon Daisy' because the white petals stand out at dusk."
     },
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "A fast-growing tree known for its spectacular display of tubular, bright violet-blue flowers that cover the tree in late spring to early summer.",
-      "bloomingSeason": "Late spring to early summer",
-      "location": "Native to South America; widely cultivated in subtropical regions worldwide",
+      "commonName": "Blue Jacaranda",
+      "description": "A tall, graceful tree with fern-like leaves that is covered in clusters of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics it blooms in late spring and early summer, carpeting streets with fallen petals.",
+      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere subtropics)",
+      "location": "Native to South America; widely planted in California, Mexico, Florida, the Mediterranean, and southern Africa",
       "colors": [
-        "violet"
+        "Lavender",
+        "Blue",
+        "Violet"
       ],
       "emoji": "💜",
-      "funFact": "Jacaranda trees can live up to 50 years and are widely admired for their ornamental beauty in cities like Pretoria, South Africa, and Sydney, Australia."
+      "funFact": "In Pretoria, South Africa, the city is known as the 'Jacaranda City' due to its tens of thousands of jacaranda trees, and a local superstition says a falling bloom on your head brings good luck."
     }
   ]
 }

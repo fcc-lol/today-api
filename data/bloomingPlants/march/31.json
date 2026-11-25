@@ -2,57 +2,59 @@
   "date": "March 31",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning and delicate pink flowers that signal the arrival of spring in many temperate regions. These blossoms create spectacular displays in parks and gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of Japan, Korea, China, and cultivated in many temperate zones worldwide",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A deciduous ornamental tree that produces masses of delicate, fragrant flowers on bare branches before the leaves emerge. Widely planted in parks and along streets, it is the centerpiece of spring flower-viewing celebrations.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere (peak bloom in Washington D.C. and Japan around late March to early April)",
+      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions across Europe and North America",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The Japanese Cherry Blossom has inspired festivals (Hanami) celebrating transient beauty, as the flowers bloom briefly and fall quickly."
+      "funFact": "The 3,000 cherry trees given by Tokyo to Washington D.C. in 1912 are the origin of the National Cherry Blossom Festival, and nearly all Yoshino cherries are clones propagated by grafting from a single original tree."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "A bulbous perennial with trumpet-shaped yellow flowers and blue-green strap-like leaves. It naturalizes in meadows and woodlands, and countless cultivars are grown in gardens.",
+      "bloomingSeason": "Late February to April in the Northern Hemisphere",
+      "location": "Western Europe, including the UK, France, and Spain; widely naturalized in North America",
+      "colors": [
+        "Yellow",
+        "Pale yellow",
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, but galantamine, a compound derived from related Narcissus species, is used to treat symptoms of Alzheimer's disease."
     },
     {
       "name": "Magnolia × soulangeana",
       "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia known for its large, tulip-shaped flowers that bloom early in spring, often before the leaves emerge. They are prized ornamentals for gardens and parks.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China and cultivated widely in temperate regions of the Northern Hemisphere",
+      "description": "A small deciduous tree or large shrub bearing large, goblet-shaped flowers in spring before its leaves unfurl. It is a hybrid of Magnolia denudata and Magnolia liliiflora and is a favorite in temperate gardens.",
+      "bloomingSeason": "Late March to April in temperate Northern Hemisphere",
+      "location": "Cultivated across the eastern United States, the UK, Europe, and East Asia; parent species native to China",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Pink",
+        "Purple",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the most ancient flowering plants and evolved before bees existed, so their tough flowers are adapted to be pollinated by beetles."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Although not in bloom in the north, related Southern Hemisphere autumn bloomers are active now. Here, the placeholder entry is replaced by the better-fit Amaryllis belladonna, a bulb that sends up leafless flower stalks topped by clusters of fragrant, trumpet-shaped blooms in the southern autumn.",
+      "bloomingSeason": "March to April in the Southern Hemisphere (late summer to autumn)",
+      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, and California",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Magnolia flowers evolved before bees existed; early magnolias were pollinated by beetles, one of the oldest pollinators."
-    },
-    {
-      "name": "Waratah (Telopea speciosissima)",
-      "commonName": "Waratah",
-      "description": "An iconic Australian native shrub bearing large, bright red flower heads that bloom in early spring. It is the floral emblem of New South Wales, Australia.",
-      "bloomingSeason": "September to November in Australia but blooms in the Southern Hemisphere spring, which corresponds to March in the Northern Hemisphere when cultivated under controlled conditions.",
-      "location": "Eastern Australia, especially New South Wales",
-      "colors": [
-        "red"
-      ],
-      "emoji": "🌹",
-      "funFact": "Waratah flowers are rich in nectar and attract birds and insects, playing a key role in local ecosystems."
-    },
-    {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A small perennial bulbous plant that produces cup-shaped flowers early in spring, often poking through snow. It is a classic harbinger of spring in temperate regions.",
-      "bloomingSeason": "February to April",
-      "location": "Europe and Western Asia, also cultivated in gardens worldwide",
-      "colors": [
-        "purple",
-        "yellow",
-        "white"
-      ],
-      "emoji": "💜",
-      "funFact": "Some crocus species produce saffron from their stigmas, one of the most expensive spices globally."
+      "funFact": "Amaryllis belladonna is nicknamed the 'naked lady' because its flower stalks emerge without any leaves, which appear only later after the blooms fade."
     }
   ]
 }

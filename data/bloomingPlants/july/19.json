@@ -2,60 +2,60 @@
   "date": "July 19",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are a diverse genus of flowering plants known for their beautiful and fragrant blooms. Many varieties bloom throughout summer, especially in temperate regions of the Northern Hemisphere. They can range from small shrub forms to climbing varieties and are widely cultivated in gardens worldwide.",
-      "bloomingSeason": "Late spring to early autumn (May to September)",
-      "location": "Temperate regions globally, including North America, Europe, and Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with slender silvery-green foliage and dense spikes of fragrant purple flowers. Heavily visited by bees and butterflies, it is widely grown in gardens and commercial fields.",
+      "bloomingSeason": "Early to late summer (June through August in the Northern Hemisphere)",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been cultivated for over 5,000 years and symbolize love and beauty in many cultures."
-    },
-    {
-      "name": "Edelweiss (Leontopodium alpinum)",
-      "commonName": "Edelweiss",
-      "description": "Edelweiss is a perennial herb that thrives in alpine regions, recognizable by its white woolly star-shaped flower heads. It typically blooms in the summer months and is a symbol of rugged mountain beauty in Europe.",
-      "bloomingSeason": "July to September",
-      "location": "Alpine regions of Europe including the Alps and Carpathians",
-      "colors": [
-        "white"
-      ],
-      "emoji": "❄️",
-      "funFact": "Edelweiss was once considered sacred and a symbol of daring love because it grows in inaccessible mountain areas."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Tree",
-      "description": "Jacaranda is a tropical-subtropical tree known for its profuse showy purple-blue trumpet-shaped flowers that bloom in late spring to summer. It is widely planted in warm climates as an ornamental street and garden tree.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Native to South America, widely cultivated in Australia, South Africa, and parts of the southern United States",
-      "colors": [
-        "purple",
-        "blue"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "The flowers of jacaranda trees fall to the ground creating a beautiful purple carpet underneath the tree."
+      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare' meaning 'to wash' because the Romans scented their baths with it."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This perennial wildflower is known for its tall spikes of pea-like flowers that bloom profusely in summer. It is native to western North America but has been widely introduced elsewhere. Lupines thrive in meadows, open woods, and disturbed areas.",
-      "bloomingSeason": "June to August",
-      "location": "Western North America, and naturalized in Europe and New Zealand",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark disc of tiny florets that develop into seeds. It thrives in full sun on farms, in gardens, and along roadsides.",
+      "bloomingSeason": "Midsummer to early fall (July through September in the Northern Hemisphere)",
+      "location": "Native to North America; grown extensively in Ukraine, Russia, Argentina, the United States, and France",
       "colors": [
-        "blue",
-        "purple",
-        "pink",
-        "white"
+        "Yellow",
+        "Orange",
+        "Brown",
+        "Burgundy"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds track the sun from east to west during the day, a behavior called heliotropism, but mature blooms stay fixed facing east."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with drooping pink-purple petals around a spiky, orange-brown central cone. It attracts pollinators and goldfinches and tolerates heat and drought.",
+      "bloomingSeason": "Summer into early fall (June through September)",
+      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in temperate gardens worldwide",
+      "colors": [
+        "Pink",
+        "Purple",
+        "Orange",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines can fix nitrogen in the soil with the help of root bacteria, improving soil fertility."
+      "funFact": "Echinacea's name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone, and Native American peoples used it medicinally for centuries."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree with sickle-shaped leaves (phyllodes) and fluffy, fragrant golden ball-like flower clusters. In the Southern Hemisphere, it begins flowering in late winter, with some early blooms appearing in July.",
+      "bloomingSeason": "Late winter to spring in Australia (July through October)",
+      "location": "Native to southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
     }
   ]
 }

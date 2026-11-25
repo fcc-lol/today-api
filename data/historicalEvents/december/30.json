@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1922,
-      "title": "Formation of the Union of Soviet Socialist Republics (USSR)",
-      "description": "The USSR was officially established, uniting Russia, Ukraine, Belarus, and the Transcaucasian Federation into a single federal state under communist rule.",
-      "category": "Political",
-      "significance": "Marked the beginning of a new federal socialist state that shaped global politics throughout the 20th century."
+      "title": "Formation of the Soviet Union",
+      "description": "The First Congress of Soviets in Moscow ratified the treaty creating the Union of Soviet Socialist Republics, uniting the Russian, Ukrainian, Belarusian, and Transcaucasian Soviet republics into a single federal state.",
+      "category": "Politics",
+      "significance": "The USSR became one of the world's two superpowers, shaping global politics, the Second World War, and the Cold War until its dissolution in 1991."
     },
     {
-      "year": 1924,
-      "title": "First execution by lethal gas in Nevada",
-      "description": "Gee Jon became the first person in the United States executed by lethal gas in Nevada's state prison.",
-      "category": "Legal/Criminal Justice",
-      "significance": "Introduced a new method of execution in the US, highlighting changes in capital punishment practices."
+      "year": 1865,
+      "title": "Birth of Rudyard Kipling",
+      "description": "Rudyard Kipling, the English novelist and poet, was born in Bombay, British India. He later wrote The Jungle Book, Kim, and the poem 'If—'.",
+      "category": "Birth",
+      "significance": "Kipling became one of the most popular writers of the British Empire and in 1907 became the first English-language writer to receive the Nobel Prize in Literature."
     },
     {
-      "year": 1972,
-      "title": "Pakistan executes General Yahya Khan resigns",
-      "description": "General Yahya Khan, former President of Pakistan, steps down after a military defeat in East Pakistan, leading to the independence of Bangladesh.",
-      "category": "Political/Military",
-      "significance": "Triggered the end of West Pakistan's control over East Pakistan and led to the creation of Bangladesh."
+      "year": 1853,
+      "title": "Gadsden Purchase Signed",
+      "description": "The United States signed an agreement with Mexico to buy about 29,670 square miles of land in present-day southern Arizona and New Mexico, negotiated by James Gadsden.",
+      "category": "Politics",
+      "significance": "The purchase established the final continental borders of the contiguous United States and provided a southern route for a transcontinental railroad."
     },
     {
       "year": 2006,
-      "title": "Saddam Hussein's execution",
-      "description": "Saddam Hussein, former Iraqi president, was executed by hanging after being convicted for crimes against humanity.",
-      "category": "Political/Legal",
-      "significance": "Marked the end of Saddam’s regime era and was a significant event in post-invasion Iraq."
+      "title": "Execution of Saddam Hussein",
+      "description": "Saddam Hussein, the former president of Iraq, was executed by hanging in Baghdad after being convicted by an Iraqi court of crimes against humanity for the 1982 killing of 148 Shia villagers in Dujail.",
+      "category": "Politics",
+      "significance": "His execution marked the end of the former dictator's era, but it was controversial and highlighted deep sectarian divisions in post-invasion Iraq."
+    },
+    {
+      "year": 1993,
+      "title": "Israel and the Vatican Establish Diplomatic Relations",
+      "description": "Israel and the Holy See signed the Fundamental Agreement, committing to full diplomatic relations and addressing the legal status of the Catholic Church in Israel.",
+      "category": "Diplomacy",
+      "significance": "The agreement ended decades without formal ties and marked a milestone in Catholic-Jewish relations following the Second Vatican Council's reforms."
     }
   ]
 }

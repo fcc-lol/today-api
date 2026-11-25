@@ -2,39 +2,32 @@
   "date": "September 25",
   "events": [
     {
-      "year": 1066,
-      "title": "William the Conqueror Invades England",
-      "description": "William, Duke of Normandy, lands on the English coast, beginning the Norman Conquest of England.",
-      "category": "Military/Political",
-      "significance": "This invasion led to the Battle of Hastings and significant cultural and political changes in England."
-    },
-    {
       "year": 1513,
-      "title": "Vasco Núñez de Balboa Reaches the Pacific Ocean",
-      "description": "Spanish explorer Vasco Núñez de Balboa becomes the first European to see the Pacific Ocean from the New World, after crossing the Isthmus of Panama.",
+      "title": "Balboa Sights the Pacific Ocean",
+      "description": "Spanish explorer Vasco Núñez de Balboa, after crossing the Isthmus of Panama, became the first European to see the eastern shore of the Pacific Ocean, which he named the South Sea.",
       "category": "Exploration",
-      "significance": "This discovery opened the door for further exploration and expansion into the Pacific region."
+      "significance": "The sighting opened the way for Spanish exploration and colonization along the Pacific coast of the Americas and changed European understanding of world geography."
     },
     {
       "year": 1789,
-      "title": "Congress Passes Bill Creating the U.S. Department of Foreign Affairs",
-      "description": "The United States Congress passes legislation establishing the Department of Foreign Affairs, which would later become the Department of State.",
-      "category": "Political/Government",
-      "significance": "Marked the formal organization of U.S. foreign policy and diplomatic relations."
+      "title": "U.S. Congress Proposes the Bill of Rights",
+      "description": "The First Congress of the United States approved twelve proposed constitutional amendments and sent them to the states for ratification. Ten of these were ratified in 1791 and became the Bill of Rights.",
+      "category": "Politics and Law",
+      "significance": "The Bill of Rights guaranteed fundamental individual liberties such as freedom of speech, religion, and due process, and remains a cornerstone of American constitutional law."
     },
     {
-      "year": 1890,
-      "title": "Sequoia National Park Established",
-      "description": "Sequoia National Park in California is established as the second national park in the United States, protecting giant sequoia trees.",
-      "category": "Environmental/Conservation",
-      "significance": "This was an early step in the conservation movement to protect natural landmarks and biodiversity in the U.S."
+      "year": 1957,
+      "title": "Little Rock Nine Enter Central High School",
+      "description": "Nine Black students were escorted into Little Rock Central High School in Arkansas by federal troops sent by President Dwight D. Eisenhower, after Governor Orval Faubus had used the National Guard to block their entry.",
+      "category": "Civil Rights",
+      "significance": "The event was a landmark in the enforcement of school desegregation following Brown v. Board of Education and showed federal willingness to uphold civil rights rulings."
     },
     {
-      "year": 1937,
-      "title": "Spanish Civil War: Bombing of Guernica",
-      "description": "Guernica, a Basque town in Spain, is bombed by German and Italian warplanes supporting Franco's forces.",
-      "category": "War",
-      "significance": "The attack became a symbol of the horrors of war, inspiring Picasso's famous painting and international condemnation."
+      "year": 1981,
+      "title": "Sandra Day O'Connor Sworn In as Supreme Court Justice",
+      "description": "Sandra Day O'Connor was sworn in as the first woman to serve on the United States Supreme Court, after being nominated by President Ronald Reagan and confirmed by the Senate.",
+      "category": "Politics and Law",
+      "significance": "Her appointment broke a nearly 200-year barrier and she became an influential swing vote on many key decisions until her retirement in 2006."
     }
   ]
 }

@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1782,
-      "title": "Formation of the First Fleet's Arrival at Botany Bay",
-      "description": "The First Fleet, carrying convicts, marines, and officers, arrived at Botany Bay, marking the beginning of British colonization of Australia.",
-      "category": "Exploration/Colonization",
-      "significance": "This event marks the beginning of modern Australian history and British colonial expansion in the Pacific."
+      "title": "George Washington Creates the Badge of Military Merit",
+      "description": "General George Washington ordered the creation of the Badge of Military Merit, a purple heart-shaped cloth award given to soldiers of the Continental Army for exceptional meritorious service.",
+      "category": "Military",
+      "significance": "It is considered the precursor of the modern Purple Heart medal, one of the oldest military decorations still awarded in the United States."
     },
     {
       "year": 1942,
       "title": "Battle of Guadalcanal Begins",
-      "description": "The United States launched an amphibious assault on Guadalcanal in the Pacific, marking the first major offensive by Allied forces against Japan in World War II.",
-      "category": "Military/World War II",
-      "significance": "It represented a turning point in the Pacific War, shifting the momentum towards the Allies."
+      "description": "United States Marines landed on Guadalcanal, Tulagi, and neighboring islands in the Solomon Islands, launching the first major Allied land offensive against Japanese forces in the Pacific Theater of World War II.",
+      "category": "War",
+      "significance": "The campaign became a turning point in the Pacific War, shifting the strategic initiative to the Allies and wearing down Japanese naval and air power."
     },
     {
-      "year": 1990,
-      "title": "Iraqi Forces Invade Kuwait",
-      "description": "Iraq invaded Kuwait, leading to the Gulf War after an international coalition was formed to expel Iraqi forces.",
-      "category": "International Conflict",
-      "significance": "This invasion triggered the Gulf War and significant international military and political intervention."
+      "year": 1927,
+      "title": "Peace Bridge Opens Between the United States and Canada",
+      "description": "The Peace Bridge, connecting Buffalo, New York, and Fort Erie, Ontario, was officially dedicated in a ceremony attended by dignitaries including Edward, Prince of Wales, and Vice President Charles Dawes.",
+      "category": "Infrastructure",
+      "significance": "The bridge symbolized the long-standing peaceful relations between the two countries and remains a major trade and travel crossing."
     },
     {
-      "year": 1964,
-      "title": "Civil Rights Act Signed into U.S. Law",
-      "description": "President Lyndon B. Johnson signed the Civil Rights Act of 1964 into law, prohibiting discrimination based on race, color, religion, sex, or national origin.",
-      "category": "Civil Rights/Legislation",
-      "significance": "The Act was a landmark victory in the American civil rights movement, outlawing segregation and employment discrimination."
+      "year": 1998,
+      "title": "U.S. Embassy Bombings in Kenya and Tanzania",
+      "description": "Truck bombs exploded almost simultaneously outside the U.S. embassies in Nairobi, Kenya, and Dar es Salaam, Tanzania, killing more than 200 people and injuring thousands. Al-Qaeda was responsible.",
+      "category": "Terrorism",
+      "significance": "The attacks brought Osama bin Laden and al-Qaeda to international attention, prompting U.S. retaliatory strikes and reshaping counterterrorism and embassy security policy."
+    },
+    {
+      "year": 1947,
+      "title": "Kon-Tiki Expedition Completes Its Voyage",
+      "description": "Thor Heyerdahl and his crew of five reached the Raroia atoll in the Tuamotu Islands after a 101-day journey across the Pacific Ocean on a balsa-wood raft from Peru.",
+      "category": "Exploration",
+      "significance": "The voyage was meant to show that ancient South Americans could have reached Polynesia, sparking debate about trans-oceanic contact and popularizing experimental archaeology."
     }
   ]
 }

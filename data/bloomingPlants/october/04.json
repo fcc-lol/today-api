@@ -3,54 +3,59 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A perennial flowering plant native to Europe, known for its crocus-like flowers that bloom in fall when the leaves have died back, showcasing large, lily-like flowers.",
-      "bloomingSeason": "September to October",
-      "location": "Europe, temperate regions",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that produces goblet-shaped, crocus-like flowers in autumn, long after its leaves have died back. Flowers emerge directly from the ground without foliage, which earned it the nickname 'naked ladies'. All parts of the plant are highly toxic.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Native to Europe in damp meadows and woodlands; widely cultivated in temperate gardens in North America and elsewhere",
       "colors": [
-        "pink",
-        "purple",
+        "pale pink",
+        "lilac",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "Despite its common name, Autumn Crocus is not a true crocus and contains colchicine, a toxic compound with medical applications."
+      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust perennial wildflower with clusters of daisy-like flowers with yellow centers and many narrow ray petals. It is a vital late-season nectar source for pollinators and thrives in meadows, roadsides, and prairies.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies; grown widely in gardens",
+      "colors": [
+        "purple",
+        "violet",
+        "pink",
+        "magenta"
+      ],
+      "emoji": "💜",
+      "funFact": "Monarch butterflies depend on New England asters for nectar to fuel their long migration to Mexico, which coincides with peak bloom in early October."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tree with fern-like leaves that erupts in massive clusters of trumpet-shaped lavender-blue flowers, often before leaves fully emerge. In spring in the Southern Hemisphere it creates spectacular purple canopies over streets and parks.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November); begins in late September",
+      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa (Pretoria), Australia, and New Zealand's northern regions",
+      "colors": [
+        "lavender",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria in South Africa is known as the 'Jacaranda City' with tens of thousands of jacaranda trees, and fallen blossoms create purple carpets on the streets each October."
     },
     {
       "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus",
-      "description": "An evergreen shrub or small tree famous for its intensely fragrant small flowers that bloom in autumn.",
-      "bloomingSeason": "September to November",
-      "location": "East Asia, especially China and Japan",
+      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
+      "description": "An evergreen shrub or small tree with tiny but intensely fragrant flowers that smell of apricots and ripe peaches. The blossoms appear in clusters along the stems and perfume entire gardens and streets.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Native to Asia, from the Himalayas through China to Japan; commonly planted in China, Japan, and the southeastern United States",
       "colors": [
-        "white",
-        "yellow"
+        "pale yellow",
+        "orange",
+        "white"
       ],
       "emoji": "🌼",
-      "funFact": "Sweet Osmanthus flowers are used to scent tea and make perfumed oils in traditional Chinese culture."
-    },
-    {
-      "name": "Rosa 'Paul Neyron'",
-      "commonName": "Paul Neyron Rose",
-      "description": "A cultivated garden rose variety that often blooms into early fall, producing very large, full-petaled pink flowers.",
-      "bloomingSeason": "May to October",
-      "location": "Worldwide cultivated gardens",
-      "colors": [
-        "deep pink"
-      ],
-      "emoji": "🌹",
-      "funFact": "Known as one of the largest roses, Paul Neyron blooms continuously and is valued for its ornamental appeal."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria (seed pods blooming)",
-      "description": "Though famous for spring blooms, the seed pods of Wisteria can mature and become quite prominent and aesthetically interesting by October, adding unique interest to gardens.",
-      "bloomingSeason": "Spring flowering, seed pods visible in fall",
-      "location": "East Asia, cultivated worldwide",
-      "colors": [
-        "purple flowers in spring; seed pods brown in fall"
-      ],
-      "emoji": "🌱",
-      "funFact": "Wisteria vines can live over 100 years and their twisted trunks and branches add architectural beauty year-round."
+      "funFact": "In China, the Osmanthus blooming season is celebrated alongside the Mid-Autumn Festival, and the flowers are used to flavor teas, wine, cakes, and jams."
     }
   ]
 }

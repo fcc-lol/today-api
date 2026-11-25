@@ -2,60 +2,63 @@
   "date": "July 14",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American native wildflower featuring bright yellow petals surrounding a dark brown central cone. It thrives in prairies and open woodlands and is widely used in gardens for its cheerful summer blooms.",
-      "bloomingSeason": "June to September",
-      "location": "North America (United States, Canada)",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers that attract bees and butterflies. Widely cultivated in gardens and fields for essential oils, culinary use, and ornamental borders.",
+      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens worldwide",
       "colors": [
-        "Yellow",
-        "Brown"
+        "Purple",
+        "Lavender",
+        "Blue-violet"
       ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans attract pollinators like bees and butterflies, making them excellent for supporting local ecosystems."
+      "emoji": "💜",
+      "funFact": "Lavender fields in Provence typically peak in early to mid July, and the plant's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths."
     },
     {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "This tall, erect perennial has dense spikes of pea-like flowers ranging from purple to pink, white, or blue. Native to western North America, it is popular in garden borders and thrives in cooler summer climates.",
-      "bloomingSeason": "June to August",
-      "location": "Western North America; cultivated globally in temperate zones",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large daisy-like flower heads composed of bright yellow ray florets surrounding a dark central disk. The heads track the sun when young and are grown for oil, seeds, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated across the United States, Ukraine, Russia, France, and Europe",
+      "colors": [
+        "Yellow",
+        "Orange",
+        "Brown",
+        "Red"
+      ],
+      "emoji": "🌻",
+      "funFact": "A sunflower head is actually made up of thousands of tiny individual flowers arranged in a Fibonacci spiral pattern, and each one can become a seed."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with drooping pink-purple petals around a spiky orange-brown central cone. It is a magnet for pollinators and goldfinches, and is also popular in herbal remedies.",
+      "bloomingSeason": "Summer (June to September)",
+      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in gardens",
       "colors": [
         "Purple",
         "Pink",
-        "Blue",
-        "White"
+        "Orange",
+        "Magenta"
       ],
       "emoji": "🌸",
-      "funFact": "Lupines fix nitrogen in the soil, improving soil quality and benefiting neighboring plants."
+      "funFact": "The name Echinacea comes from the Greek 'echinos' meaning hedgehog, a reference to the prickly central cone of the flower."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub recognized for its large, bright, trumpet-shaped flowers often seen in vibrant red, pink, or yellow. Commonly cultivated in warm climates and indoors in cooler regions.",
-      "bloomingSeason": "Year-round in tropical climates, including July",
-      "location": "Tropical Asia, widely cultivated in tropical and subtropical regions",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A striking evergreen shrub that produces the largest flower head in the Protea genus, with a bowl-shaped crown of pink-tipped bracts around a central cluster of florets. Adapted to fire-prone fynbos landscapes in the Southern Hemisphere.",
+      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering from autumn through spring (peak around July to November in some regions)",
+      "location": "Fynbos of South Africa's Western and Eastern Cape; South Africa's national flower",
       "colors": [
-        "Red",
         "Pink",
-        "Yellow",
-        "White"
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Hibiscus flowers open in the morning and usually wither by evening, lasting just one day."
-    },
-    {
-      "name": "Erythronium americanum",
-      "commonName": "Yellow Trout Lily",
-      "description": "A spring ephemeral native to eastern North America, this plant blooms early spring, but in southern parts of its range can sometimes bloom into early summer. It has nodding yellow flowers with brownish spots and mottled leaves resembling trout skin.",
-      "bloomingSeason": "March to July, depending on region",
-      "location": "Eastern North America",
-      "colors": [
-        "Yellow",
-        "Brown spots"
-      ],
-      "emoji": "🌼",
-      "funFact": "The mottled leaves help camouflage the plant on the forest floor, providing protection from herbivores."
+      "funFact": "Proteas are among the oldest flowering plants on Earth, dating back around 300 million years, and the genus is named after the Greek god Proteus for its great diversity of forms."
     }
   ]
 }

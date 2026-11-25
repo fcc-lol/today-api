@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1492,
-      "title": "Christopher Columbus Lands in the Americas",
-      "description": "Christopher Columbus and his crew land on an island in the Bahamas during his first voyage across the Atlantic, marking the beginning of sustained European exploration and colonization of the Americas.",
+      "title": "Columbus's Expedition Nears Land",
+      "description": "On the night of October 11-12, 1492, Christopher Columbus's crew sighted signs of land, including floating vegetation and branches, shortly before Rodrigo de Triana spotted land in the early hours of October 12 in the Bahamas.",
       "category": "Exploration",
-      "significance": "This event led to widespread contact between Europe and the Americas, profoundly influencing global history by initiating cultural exchange, colonization, and the eventual rise of European empires in the New World."
+      "significance": "This voyage opened sustained contact between Europe and the Americas, with profound consequences for global trade, colonization, and the peoples of both hemispheres."
+    },
+    {
+      "year": 1811,
+      "title": "Launch of the Steam-Powered Ferry Juliana",
+      "description": "Inventor John Stevens launched the Juliana, the first steam-powered ferry, which began operating between New York City and Hoboken, New Jersey.",
+      "category": "Technology",
+      "significance": "The Juliana was an early milestone in commercial steamboat service and helped demonstrate the viability of steam-powered passenger transport."
+    },
+    {
+      "year": 1962,
+      "title": "Opening of the Second Vatican Council",
+      "description": "Pope John XXIII formally opened the Second Vatican Council in St. Peter's Basilica, gathering thousands of bishops from around the world.",
+      "category": "Religion",
+      "significance": "The Council modernized many Catholic practices, including allowing Mass in vernacular languages and promoting ecumenical dialogue, reshaping the Church in the modern era."
     },
     {
       "year": 1968,
-      "title": "Tommie Smith and John Carlos Raise Black Power Salute at the Olympics",
-      "description": "At the Mexico City Olympics, American athletes Tommie Smith and John Carlos raise their fists in a Black Power salute during the medal ceremony for the 200 meters, drawing global attention to civil rights issues in the United States.",
-      "category": "Civil Rights",
-      "significance": "This iconic protest highlighted racial inequality and injustice, becoming a defining moment in the civil rights movement and in the intersection of sports and social activism."
+      "title": "Launch of Apollo 7",
+      "description": "NASA launched Apollo 7, the first crewed mission of the Apollo program, carrying Wally Schirra, Donn Eisele, and Walter Cunningham on an 11-day Earth-orbit flight.",
+      "category": "Space Exploration",
+      "significance": "The mission successfully tested the Apollo command and service module and included the first live TV broadcasts from American spacecraft, paving the way for the Apollo 8 lunar orbit mission and the Moon landings."
     },
     {
-      "year": 1984,
-      "title": "Mother Teresa Awarded the Nobel Peace Prize",
-      "description": "Mother Teresa is awarded the Nobel Peace Prize for her humanitarian work with the poor and sick in Calcutta (Kolkata), India.",
-      "category": "Humanitarian",
-      "significance": "The award recognized her life's work helping marginalized populations, inspiring global efforts toward compassion and charity."
-    },
-    {
-      "year": 1970,
-      "title": "Fiji Gains Independence from the United Kingdom",
-      "description": "Fiji officially gains independence as a sovereign nation from British colonial rule.",
-      "category": "Political Milestone",
-      "significance": "This marked the end of colonial rule and the beginning of Fiji's self-governance and development as an independent nation."
+      "year": 1884,
+      "title": "Birth of Eleanor Roosevelt",
+      "description": "Anna Eleanor Roosevelt was born in New York City. She became First Lady of the United States during Franklin D. Roosevelt's presidency and later a diplomat and activist.",
+      "category": "Birth",
+      "significance": "She chaired the UN commission that drafted the Universal Declaration of Human Rights and redefined the role of First Lady as an advocate for civil rights and social reform."
     }
   ]
 }

@@ -2,36 +2,44 @@
   "date": "August 22",
   "holidays": [
     {
-      "name": "Be an Angel Day",
-      "description": "A day dedicated to doing random acts of kindness and spreading positivity by being a 'human angel' to those around you.",
-      "origin": "This unofficial holiday encourages people to perform selfless acts and brighten someone's day with kindness and generosity.",
-      "category": "Kindness & Awareness",
-      "emoji": "😇",
-      "funFact": "People often leave surprise gifts or notes for strangers as their angelic deeds on this day!"
-    },
-    {
-      "name": "Tooth Fairy Day",
-      "description": "A whimsical celebration honoring the legendary Tooth Fairy who exchanges children's lost teeth for money or treats.",
-      "origin": "This day celebrates the beloved childhood tradition and mythical creature that visits children when they lose a baby tooth.",
-      "category": "Pop Culture & Childhood",
-      "emoji": "🧚‍♀️",
-      "funFact": "The Tooth Fairy tradition dates back to early European customs, evolving over centuries into the magical figure we know today."
-    },
-    {
       "name": "National Eat a Peach Day",
-      "description": "A tasty tribute to the juicy and delicious peach, encouraging everyone to enjoy this sweet summer fruit in any way they like.",
-      "origin": "A food holiday that celebrates the peach’s peak season and its status as a symbol of summer’s bounty.",
-      "category": "Food & Fruit",
+      "description": "A juicy celebration of the fuzzy, sweet stone fruit at the peak of summer. Folks are encouraged to bite into a ripe peach and let the juice run down their chin, or bake it into cobblers, pies, and grilled dishes.",
+      "origin": "Part of the many informal American food days that cluster around summer harvests. August is peak peach season in the US, and the day is promoted by food bloggers, growers, and peach lovers rather than by any official proclamation.",
+      "category": "Food Day",
       "emoji": "🍑",
-      "funFact": "Peaches have been cultivated for over 4,000 years and were once considered a symbol of immortality in Chinese culture!"
+      "funFact": "Peaches are native to China, where they have been cultivated for over 4,000 years and symbolize immortality and longevity."
     },
     {
-      "name": "World Plant Milk Day",
-      "description": "A celebration promoting plant-based milk alternatives and their benefits for health and the environment.",
-      "origin": "Initiated by The Plant-Based Foods Association to raise awareness of non-dairy milk options and encourage sustainable choices.",
-      "category": "Health & Environment",
-      "emoji": "🥛🌱",
-      "funFact": "The first commercial plant-based milk was soy milk, which originated in China over 2,000 years ago."
+      "name": "National Pecan Torte Day",
+      "description": "A day to indulge in a rich, nutty, layered dessert made with ground pecans in place of flour. Perfect for people who want an excuse to eat cake that feels fancy.",
+      "origin": "Like many food observances, it comes from the informal American calendar of dessert days, popularized online by food-focused sites and bakers. No single founder is officially recorded.",
+      "category": "Food Day",
+      "emoji": "🥧",
+      "funFact": "Pecans are one of the few major nut crops native to North America, and the word 'pecan' comes from an Algonquian word meaning 'nuts requiring a stone to crack.'"
+    },
+    {
+      "name": "Be an Angel Day",
+      "description": "A day dedicated to performing random acts of kindness for others, with no expectation of reward. You are encouraged to be someone's guardian angel by doing small good deeds, such as paying for a stranger's coffee or helping a neighbor.",
+      "origin": "Created by Patricia Ann Hughes, who began the observance in 1993 to encourage people to do good for others in the spirit of angels.",
+      "category": "Awareness Day",
+      "emoji": "😇",
+      "funFact": "The day is observed with no wings required, and the unofficial goal is to do at least one anonymous good deed."
+    },
+    {
+      "name": "Take Your Cat to the Vet Day (Unofficial Cat Care Reminder)",
+      "description": "A reminder for cat owners to schedule that overdue checkup. It is a tongue-in-cheek day that acknowledges the great feline tradition of vanishing under the bed the moment a carrier appears.",
+      "origin": "Pet-care groups and veterinary clinics promote such reminder days online, building on the real push for regular wellness exams for cats, who are famously good at hiding illness.",
+      "category": "Pet Awareness",
+      "emoji": "🐱",
+      "funFact": "Cats instinctively hide signs of pain and illness, a survival trait inherited from wild ancestors, which is why routine vet visits matter so much."
+    },
+    {
+      "name": "Bad Poetry Day",
+      "description": "A day to embrace terrible verse, written on purpose or by accident. Participants write and recite groan-worthy rhymes, forced metaphors, and cringe-inducing odes without shame.",
+      "origin": "A humorous observance that circulates in lists of offbeat holidays, inspired by the long, proud tradition of intentionally awful poetry such as that of William McGonagall, often called the worst poet in the English language.",
+      "category": "Arts and Humor",
+      "emoji": "📝",
+      "funFact": "William McGonagall of Dundee, Scotland, wrote about disasters like the Tay Bridge collapse in verse so unintentionally comic that audiences sometimes threw food at him while he performed."
     }
   ]
 }

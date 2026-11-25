@@ -2,36 +2,44 @@
   "date": "August 6",
   "holidays": [
     {
-      "name": "Hiroshima Day",
-      "description": "A solemn day marking the anniversary of the atomic bombing of Hiroshima, Japan, in 1945 during World War II. It’s observed to remember the tragic loss and to promote peace and nuclear disarmament.",
-      "origin": "Commemorates the first use of an atomic bomb in warfare by the United States on August 6, 1945.",
-      "category": "Historical / Remembrance",
+      "name": "National Fresh Breath Day",
+      "description": "A day dedicated to minty mouths and conversations without wincing. Brush, floss, and pop a mint so everyone you meet gets to enjoy your company at close range.",
+      "origin": "One of many unofficial national days popularized through calendars and social media. Its exact founder is unclear, but it fits neatly into the world of oral hygiene awareness.",
+      "category": "Health & Hygiene",
+      "emoji": "🌿",
+      "funFact": "Bad breath is most often caused by bacteria on the tongue, not the stomach, so scraping your tongue can do more than any mouthwash."
+    },
+    {
+      "name": "National Root Beer Float Day",
+      "description": "Celebrate the classic combination of vanilla ice cream drowning happily in fizzy root beer. Expect foam volcanoes, sticky straws, and nostalgic soda-fountain vibes.",
+      "origin": "The float is credited to Frank J. Wisner, who in 1893 reportedly saw the snow-capped Cow Mountain in Colorado and was inspired to put ice cream in root beer. Historians debate the story, and the day itself is an informal food observance.",
+      "category": "Food & Drink",
+      "emoji": "🥤",
+      "funFact": "In Australia and some other places, a root beer float is sometimes called a 'black cow,' a name that also shows up in old American soda fountain menus."
+    },
+    {
+      "name": "Hiroshima Peace Memorial Day",
+      "description": "A solemn observance in Japan, where people gather for ceremonies, moments of silence, and the floating of paper lanterns on the river to promote peace and nuclear disarmament.",
+      "origin": "It marks the atomic bombing of Hiroshima on August 6, 1945. The Peace Memorial Ceremony is held annually in Hiroshima Peace Memorial Park, with the mayor delivering a peace declaration.",
+      "category": "Remembrance & Awareness",
       "emoji": "🕊️",
-      "funFact": "The mushroom cloud from the bomb was visible over 80,000 feet high — nearly twice the cruising altitude of a commercial airplane!"
+      "funFact": "The Peace Bell is rung at 8:15 a.m., the time of the bombing, and thousands of paper cranes are displayed as symbols of hope, inspired by the story of Sadako Sasaki."
     },
     {
-      "name": "Fresh Breath Day",
-      "description": "Celebrate your pearly whites and mighty mouth by giving your breath a fresh boost! A fun reminder to keep your oral hygiene on point.",
-      "origin": "Created by oral care companies to promote dental health awareness and encourage people to floss and brush.",
-      "category": "Health / Hygiene",
-      "emoji": "😬",
-      "funFact": "Bad breath, officially called halitosis, affects around 25% of people worldwide — so keep flossing to stay fresh!"
+      "name": "Wiggle Your Toes Day",
+      "description": "A playful observance encouraging everyone to kick off their shoes and wiggle their toes freely. It's a small excuse to give your feet some attention and happiness.",
+      "origin": "This is a light-hearted unofficial observance that appears on quirky holiday calendars. It has no clear founder and spreads mostly by word of mouth and social media.",
+      "category": "Silly & Whimsical",
+      "emoji": "🦶",
+      "funFact": "Each human foot has 26 bones, and your toes play a major role in balance, so wiggling them is actually good exercise for your feet."
     },
     {
-      "name": "Happiness Happens Day",
-      "description": "A lighthearted day encouraging everyone to stop, smile, and find happiness in the small moments.",
-      "origin": "Started in 1999 by Steve Wilson and Karen Brady as a reminder that happiness is a choice and can be found every day.",
-      "category": "Wellness / Positivity",
-      "emoji": "😊",
-      "funFact": "Studies show that smiling—even if forced—can actually improve your mood thanks to the brain’s feedback mechanisms!"
-    },
-    {
-      "name": "National Root Beer Float Day (USA)",
-      "description": "Indulge in the classic American summer treat: a scoop of vanilla ice cream floating in a frosty glass of root beer — yum!",
-      "origin": "Celebrated in the USA to honor the delicious soda dessert combo that dates back to the late 19th century.",
-      "category": "Food / Drink",
-      "emoji": "🍨🍺",
-      "funFact": "Root beer floats were invented by Robert McCay Green in Philadelphia in 1874 when he mixed ice cream and soda for a refreshing drink."
+      "name": "International Beer Day (First Friday of August, Often Overlapping)",
+      "description": "A global party for beer lovers to raise a glass, thank brewers and bartenders, and sample brews from around the world. Whenever it lands near August 6, pubs get extra festive.",
+      "origin": "Started in 2007 in Santa Cruz, California, by Jesse Avshalomov, and it has since spread to many countries. It is celebrated on the first Friday of August, which sometimes falls on August 6.",
+      "category": "Food & Drink",
+      "emoji": "🍺",
+      "funFact": "The day has three stated purposes: to gather with friends, to celebrate those who brew and serve beer, and to unite the world under the banner of beer."
     }
   ]
 }

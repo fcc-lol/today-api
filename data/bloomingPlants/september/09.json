@@ -2,63 +2,56 @@
   "date": "September 9",
   "plants": [
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A native North American wildflower known for its bright yellow petals and dark brown central cone. Often found in meadows and prairies, it attracts pollinators like bees and butterflies.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and Central North America",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark central disc. The heads track the sun when young. Widely grown as an ornamental and as a crop for seeds and oil.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
+      "location": "Native to North America; cultivated worldwide in temperate regions including the US, Ukraine, Russia, and Argentina",
       "colors": [
         "yellow",
+        "orange",
         "brown"
       ],
-      "emoji": "🌼",
-      "funFact": "Black-eyed Susans are often used in wildflower mixes to restore native habitats and support biodiversity."
+      "emoji": "🌻",
+      "funFact": "A sunflower head is actually made of hundreds to thousands of tiny individual flowers arranged in a spiral pattern following the Fibonacci sequence."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub with large, showy flowers that come in many colors. It blooms almost year-round in warm climates and is widely cultivated as an ornamental plant.",
-      "bloomingSeason": "Year-round in tropical climates; peaks in late summer and early fall",
-      "location": "Tropical and subtropical Asia, Hawaii, cultivated worldwide",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower that produces dense, arching plumes of tiny golden flower heads. It forms large colonies in meadows, roadsides, and open fields, and is an important late-season nectar source for pollinators.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
       "colors": [
-        "red",
-        "pink",
-        "orange",
-        "yellow",
-        "white"
+        "golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are edible and often used to make herbal teas known as 'hibiscus tea' or 'agua de Jamaica.'"
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects. The real culprit is usually ragweed, which blooms at the same time."
     },
     {
-      "name": "Calluna vulgaris",
-      "commonName": "Heather",
-      "description": "A hardy flowering shrub that covers moorlands and heathlands with tiny pink or purple bell-shaped flowers. It is well adapted to acidic soils and blooms in late summer to early fall.",
-      "bloomingSeason": "July to September",
-      "location": "Europe, parts of Asia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial whose crocus-like flowers appear in autumn without any leaves. The foliage emerges the following spring and dies back by early summer. All parts are highly toxic.",
+      "bloomingSeason": "Late summer to autumn (September to October)",
+      "location": "Meadows and damp grasslands of Europe, from the UK to central Europe; grown in gardens worldwide",
       "colors": [
-        "pink",
+        "pale pink",
+        "lilac",
         "purple"
       ],
       "emoji": "🌸",
-      "funFact": "Heather is traditionally associated with good luck in Scotland and is an important nectar source for bees."
+      "funFact": "It is nicknamed 'naked ladies' because the flowers bloom without leaves. It is the natural source of colchicine, a compound used in medicine to treat gout and in plant breeding."
     },
     {
-      "name": "Dahlia pinnata",
-      "commonName": "Dahlia",
-      "description": "A tuberous-rooted plant admired for its wide variety of flower shapes and vibrant colors. It typically blooms from midsummer through fall and is popular in gardens worldwide.",
-      "bloomingSeason": "July to October",
-      "location": "Native to Mexico and Central America, widely cultivated",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. It blooms at the end of the southern winter and into spring, brightening the Australian bush.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
       "colors": [
-        "red",
-        "purple",
-        "white",
-        "yellow",
-        "pink",
-        "orange"
+        "golden yellow"
       ],
-      "emoji": "🌷",
-      "funFact": "The dahlia is the national flower of Mexico and was originally cultivated by the Aztecs for food and ornamental use."
+      "emoji": "🌿",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated every September 1, the first day of spring."
     }
   ]
 }

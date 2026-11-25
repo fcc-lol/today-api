@@ -2,55 +2,61 @@
   "date": "May 24",
   "plants": [
     {
-      "name": "Rhododendron ponticum",
-      "commonName": "Common Rhododendron",
-      "description": "An evergreen shrub known for its large clusters of vibrant flowers, commonly found in the woodlands and heathlands of western Europe and western Asia. It blooms profusely in spring, attracting many pollinators.",
-      "bloomingSeason": "April to June",
-      "location": "Western Europe, Western Asia",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A long-lived herbaceous perennial with large, often fragrant, double or single blooms held above deep green, glossy foliage. It is a classic cottage garden favorite and a staple of cut-flower arrangements.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens of North America and Europe",
       "colors": [
-        "purple",
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Red",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Rhododendron ponticum is an invasive species in some parts of the world, such as the UK, where it outcompetes native plants."
+      "funFact": "Peonies can live and bloom for more than 50 years in the same spot, and ants are often seen on the buds feeding on sugary nectar, though they are not needed for blooming."
     },
     {
-      "name": "Magnolia grandiflora",
-      "commonName": "Southern Magnolia",
-      "description": "A large evergreen tree native to the southeastern United States, notable for its huge, fragrant white flowers that bloom late spring through summer.",
-      "bloomingSeason": "May to July",
-      "location": "Southeastern United States",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching deciduous shrub with delicate five-petaled flowers that appear along thorny stems. The blooms are followed by bright red rose hips in autumn that are rich in vitamin C.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Hedgerows, woodland edges, and scrubland across Europe, northwest Africa, and western Asia",
       "colors": [
-        "white"
+        "Pale pink",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Southern Magnolia flowers can be up to 12 inches in diameter and are a key source of nectar for bees."
+      "emoji": "🌹",
+      "funFact": "During World War II, British children collected rose hips from dog roses to make vitamin C-rich syrup when citrus imports were scarce."
     },
     {
-      "name": "Echium wildpretii",
-      "commonName": "Tower of Jewels",
-      "description": "A striking biennial plant native to the Canary Islands, characterized by its tall spikes packed densely with small red to pink flowers. It typically blooms in late spring to early summer.",
-      "bloomingSeason": "May to July",
-      "location": "Canary Islands",
+      "name": "Iris sibirica",
+      "commonName": "Siberian Iris",
+      "description": "A clump-forming perennial with slender, grass-like leaves and graceful flowers on tall, slim stems. It thrives in moist soils and is valued for its hardiness and elegant, butterfly-like blooms.",
+      "bloomingSeason": "Late spring to early summer (late May to June)",
+      "location": "Native to central and eastern Europe and northern Asia; grown in meadows, wet grasslands, and gardens in cool temperate zones",
       "colors": [
-        "red",
-        "pink"
+        "Blue",
+        "Purple",
+        "White",
+        "Yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Echium wildpretii can attract thousands of bees owing to its abundant nectar."
+      "emoji": "💜",
+      "funFact": "Unlike bearded irises that grow from rhizomes that need sun-baked drainage, Siberian irises prefer consistent moisture and can form huge clumps that go decades without division."
     },
     {
-      "name": "Tabebuia heterophylla",
-      "commonName": "Pink Trumpet Tree",
-      "description": "A fast-growing tropical tree found in the Caribbean, producing abundant trumpet-shaped pink flowers in late spring. It is valued for its ornamental beauty and shade.",
-      "bloomingSeason": "April to June",
-      "location": "Caribbean Islands",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A spectacular subtropical tree that bursts into clouds of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Streets and parks turn violet when the trees reach peak bloom.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
+      "location": "Native to South America; planted in Mexico, California, Florida, the Mediterranean, and parts of Asia",
       "colors": [
-        "pink"
+        "Lavender",
+        "Violet",
+        "Blue-purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Its wood is highly regarded for quality furniture and construction in the Caribbean."
+      "emoji": "💐",
+      "funFact": "In Mexico City, the jacaranda bloom peaks in spring and the fallen purple flowers carpet the streets, and a local superstition says a blossom falling on your head brings good luck."
     }
   ]
 }

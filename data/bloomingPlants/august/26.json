@@ -2,61 +2,58 @@
   "date": "August 26",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub known for its large, showy flowers with a prominent stamen. It thrives in warm climates and is frequently cultivated in gardens and parks around the world.",
-      "bloomingSeason": "Year-round in tropical climates; peaks in summer and early autumn",
-      "location": "Tropical and subtropical regions worldwide including Southeast Asia, Hawaii, Florida",
-      "colors": [
-        "red",
-        "pink",
-        "yellow",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Some hibiscus species are used to make herbal tea which is known for its tart flavor and high vitamin C content."
-    },
-    {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A hardy perennial wildflower featuring bright yellow petals surrounding a dark brown central cone. It's common in North American meadows and gardens.",
-      "bloomingSeason": "June to September",
-      "location": "Eastern and central North America",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large golden-yellow flower heads that track the sun when young. Widely cultivated for seeds, oil, and ornamental use, and also found growing wild along roadsides and prairies.",
+      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
+      "location": "North America, Europe, and temperate regions worldwide; native to North America",
       "colors": [
         "yellow",
-        "orange"
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Black-eyed Susans attract a variety of pollinators, including bees and butterflies, supporting local ecosystems."
+      "funFact": "Young sunflower buds exhibit heliotropism, following the sun from east to west each day, but mature flowers face east permanently, which warms them early and attracts more pollinators."
     },
     {
-      "name": "Lobelia cardinalis",
-      "commonName": "Cardinal Flower",
-      "description": "A striking wildflower with brilliant scarlet red tubular flowers. It grows naturally in moist areas such as stream banks and wetlands.",
-      "bloomingSeason": "July to September",
-      "location": "Eastern and central North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A perennial wildflower producing dense, arching plumes of tiny golden flower heads. It is an important late-season nectar and pollen source for bees, butterflies, and other insects preparing for fall.",
+      "bloomingSeason": "Late summer to fall (August to October)",
+      "location": "Eastern and central North America, naturalized in Europe and Asia",
       "colors": [
-        "red"
+        "golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "The bright red color of the Cardinal Flower is especially attractive to hummingbirds, which are important pollinators for the species."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time and releases airborne pollen, while goldenrod's pollen is heavy and spread by insects."
     },
     {
-      "name": "Gladiolus spp.",
-      "commonName": "Gladiolus",
-      "description": "Popular garden bulbs known for their tall flower spikes with funnel-shaped blooms. They are widely cultivated for summer and late-summer garden color.",
-      "bloomingSeason": "July to September",
-      "location": "Native to South Africa, widely cultivated in temperate regions globally",
+      "name": "Hydrangea paniculata",
+      "commonName": "Panicle Hydrangea",
+      "description": "A hardy deciduous shrub with large cone-shaped flower clusters that open white or cream and age to pink and burgundy as autumn approaches. Popular in gardens for its reliability and long-lasting blooms.",
+      "bloomingSeason": "Mid-summer to fall (July to October)",
+      "location": "Native to China and Japan; widely cultivated in temperate gardens in North America and Europe",
       "colors": [
-        "red",
-        "pink",
         "white",
-        "purple",
-        "yellow"
+        "cream",
+        "pink",
+        "burgundy"
       ],
-      "emoji": "🌸",
-      "funFact": "The genus name Gladiolus is derived from the Latin word 'gladius' meaning sword, referring to the shape of its leaves."
+      "emoji": "💐",
+      "funFact": "Panicle hydrangeas bloom on new wood, so their buds are rarely killed by winter cold, making them far more dependable bloomers than bigleaf hydrangeas."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small evergreen tree covered in fluffy, fragrant golden-yellow pompom flowers. Blooming in the Southern Hemisphere's late winter, it brightens bushland and gardens before spring begins.",
+      "bloomingSeason": "Late winter to early spring (July to October) in the Southern Hemisphere",
+      "location": "Southeastern Australia",
+      "colors": [
+        "golden yellow"
+      ],
+      "emoji": "🌿",
+      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring in Australia."
     }
   ]
 }

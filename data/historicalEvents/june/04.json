@@ -2,32 +2,39 @@
   "date": "June 4",
   "events": [
     {
-      "year": 1919,
-      "title": "The Versailles Treaty is signed",
-      "description": "The Treaty of Versailles was signed, officially ending World War I and imposing heavy reparations and territorial losses on Germany.",
-      "category": "Political",
-      "significance": "Marked the formal end of WWI and reshaped the map of Europe, setting the stage for geopolitical tensions leading to WWII."
+      "year": 1989,
+      "title": "Tiananmen Square Crackdown",
+      "description": "Chinese military forces moved into Beijing and cleared Tiananmen Square of pro-democracy demonstrators, killing and wounding large numbers of civilians. The protests had been led largely by students calling for political reform and an end to corruption.",
+      "category": "Politics",
+      "significance": "The crackdown ended the 1989 protest movement, led to international condemnation and sanctions, and remains a heavily censored topic in China. It reinforced the Communist Party's tight control over political dissent."
+    },
+    {
+      "year": 1940,
+      "title": "Completion of the Dunkirk Evacuation",
+      "description": "Operation Dynamo ended after more than 330,000 Allied soldiers, mostly British and French, were evacuated from the beaches of Dunkirk, France, as German forces advanced. On the same day Winston Churchill delivered his 'We shall fight on the beaches' speech to the House of Commons.",
+      "category": "Military",
+      "significance": "The evacuation preserved the core of the British Army for future campaigns, and Churchill's speech became a symbol of British resolve in World War II."
     },
     {
       "year": 1942,
-      "title": "Battle of Midway begins",
-      "description": "The Battle of Midway, a crucial naval battle in the Pacific Theater of World War II, began between the United States and Japan.",
+      "title": "Battle of Midway Begins",
+      "description": "The naval battle between the United States and Japan began near Midway Atoll in the Pacific. American carrier aircraft sank four Japanese fleet carriers over the following days, losing the carrier USS Yorktown.",
       "category": "Military",
-      "significance": "A turning point in the Pacific War, severely weakening the Japanese fleet and shifting momentum to the Allies."
+      "significance": "Midway is considered the turning point of the Pacific War, as Japan lost much of its offensive naval air power and the strategic initiative passed to the Allies."
+    },
+    {
+      "year": 1944,
+      "title": "Liberation of Rome",
+      "description": "The U.S. Fifth Army under General Mark Clark entered Rome, making it the first Axis capital to fall to the Allies during World War II. German forces had withdrawn from the city, which was declared an open city.",
+      "category": "Military",
+      "significance": "The capture of Rome was a major Allied milestone in the Italian Campaign, though it was overshadowed two days later by the Normandy landings on D-Day."
     },
     {
       "year": 1989,
-      "title": "Tiananmen Square Massacre",
-      "description": "Chinese troops and tanks suppressed pro-democracy protesters in Beijing's Tiananmen Square, resulting in hundreds to thousands of deaths.",
-      "category": "Political",
-      "significance": "A significant event highlighting the Chinese Communist Party’s resistance to political reform and human rights movements."
-    },
-    {
-      "year": 1913,
-      "title": "First Father’s Day celebrated in the United States",
-      "description": "The first official Father's Day was celebrated, organized by Sonora Smart Dodd to honor fathers and their contributions.",
-      "category": "Cultural",
-      "significance": "Led to the establishment of Father's Day as an annual event in many countries to acknowledge fatherhood."
+      "title": "Poland Holds First Partially Free Elections",
+      "description": "On the same day as the Tiananmen crackdown, Poland held its first partially free parliamentary elections since World War II, in which the Solidarity movement won nearly all of the contested seats.",
+      "category": "Politics",
+      "significance": "The Solidarity victory accelerated the collapse of communist rule in Eastern Europe and became a model for the peaceful revolutions later that year."
     }
   ]
 }

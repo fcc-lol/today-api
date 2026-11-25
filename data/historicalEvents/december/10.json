@@ -2,32 +2,39 @@
   "date": "December 10",
   "events": [
     {
-      "year": 1901,
-      "title": "First Nobel Prize Award Ceremony",
-      "description": "The first Nobel Prize award ceremony was held in Stockholm, Sweden, honoring recipients for achievements in physics, chemistry, medicine, literature, and peace.",
-      "category": "Cultural/Scientific",
-      "significance": "Marked the beginning of one of the most prestigious global awards recognizing outstanding contributions to humanity."
-    },
-    {
       "year": 1948,
-      "title": "Adoption of the Universal Declaration of Human Rights",
-      "description": "The United Nations General Assembly adopted the Universal Declaration of Human Rights, a milestone document outlining fundamental human rights to be universally protected.",
-      "category": "Political/Social",
-      "significance": "Established a common standard for human rights worldwide, influencing international law and human rights movements."
+      "title": "Universal Declaration of Human Rights Adopted",
+      "description": "The United Nations General Assembly, meeting in Paris, adopted the Universal Declaration of Human Rights as Resolution 217 A, with 48 votes in favor, none against, and 8 abstentions.",
+      "category": "Politics and Human Rights",
+      "significance": "It was the first global expression of rights to which all human beings are inherently entitled, and it has since influenced international law, national constitutions, and human rights movements worldwide. Human Rights Day is observed annually on this date."
     },
     {
-      "year": 1896,
-      "title": "Alfred Nobel’s Death and the Foundation of the Nobel Prize",
-      "description": "Alfred Nobel, the Swedish inventor of dynamite and philanthropist, passed away, leaving his fortune to establish the Nobel Prize.",
-      "category": "Biographical/Cultural",
-      "significance": "His bequest led to the creation of the Nobel Prizes, which have had a lasting impact on recognizing achievements across disciplines."
+      "year": 1901,
+      "title": "First Nobel Prizes Awarded",
+      "description": "The first Nobel Prizes were presented in Stockholm on the fifth anniversary of Alfred Nobel's death, honoring achievements in physics, chemistry, medicine, and literature. Wilhelm Röntgen received the Physics prize for discovering X-rays.",
+      "category": "Science and Culture",
+      "significance": "The Nobel Prizes became the most prestigious international awards for achievement in science, literature, and peace, and the ceremony continues each year on December 10."
     },
     {
-      "year": 2018,
-      "title": "First African Female Astronaut to Go to Space",
-      "description": "Wang Yaping, a Chinese astronaut, became the first Chinese woman to conduct a spacewalk during the Shenzhou 13 mission.",
-      "category": "Scientific/Exploration",
-      "significance": "Marked a notable milestone for women in space exploration and China's advancing space program."
+      "year": 1906,
+      "title": "Theodore Roosevelt Wins the Nobel Peace Prize",
+      "description": "U.S. President Theodore Roosevelt was awarded the Nobel Peace Prize for his role in mediating the end of the Russo-Japanese War through the Treaty of Portsmouth.",
+      "category": "Politics and Diplomacy",
+      "significance": "Roosevelt became the first American to win a Nobel Prize in any category, marking the rising role of the United States in international diplomacy."
+    },
+    {
+      "year": 1830,
+      "title": "Birth of Emily Dickinson",
+      "description": "American poet Emily Dickinson was born in Amherst, Massachusetts. She lived a largely reclusive life and wrote nearly 1,800 poems, very few of which were published during her lifetime.",
+      "category": "Birth / Literature",
+      "significance": "Discovered and published posthumously, her innovative style and themes of death, nature, and immortality made her one of the most important figures in American poetry."
+    },
+    {
+      "year": 1869,
+      "title": "Wyoming Territory Grants Women the Right to Vote",
+      "description": "The Wyoming Territory passed the first law in the United States granting women the right to vote and hold public office.",
+      "category": "Politics and Social Reform",
+      "significance": "This milestone for women's suffrage preceded the 19th Amendment by about 50 years and set a precedent for later suffrage victories across the country."
     }
   ]
 }

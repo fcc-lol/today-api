@@ -2,36 +2,44 @@
   "date": "June 8",
   "holidays": [
     {
-      "name": "Best Friends Day",
-      "description": "A heartfelt day dedicated to celebrating the cherished bond of best friends. It’s the perfect excuse to reach out, reminisce, and maybe even plan a quirky adventure together!",
-      "origin": "While the exact origin is unclear, Best Friends Day has been celebrated unofficially since the early 2000s and has grown in popularity thanks to social media.",
-      "category": "Friendship",
-      "emoji": "👯‍♂️",
-      "funFact": "Studies show that having a best friend can improve longevity and reduce stress—so celebrate wisely!"
+      "name": "National Best Friends Day",
+      "description": "A day to celebrate the people who know your worst stories and stick around anyway. Celebrate with a phone call, a surprise snack delivery, or a long overdue hangout with your ride-or-die.",
+      "origin": "An unofficial observance that grew out of greeting-card and social media culture in the United States. It is often listed on June 8, although a separate Best Friends Day is also marked on other dates.",
+      "category": "Pop Culture",
+      "emoji": "👯",
+      "funFact": "Researchers who study friendship say it can take around 200 hours of time together to turn someone into a close friend."
+    },
+    {
+      "name": "National Jelly-Filled Doughnut Day",
+      "description": "A sweet salute to the doughnut that fights back with a surprise gush of fruity filling. Bite carefully unless you want jam on your shirt.",
+      "origin": "Doughnut-themed food days are a staple of the American food holiday calendar, and this one is observed on June 8 in several lists of food observances.",
+      "category": "Food",
+      "emoji": "🍩",
+      "funFact": "Jelly doughnuts are a long-running Hanukkah tradition in Israel, where they are called sufganiyot."
     },
     {
       "name": "World Oceans Day",
-      "description": "An international day to honor and raise awareness about the vast and vital oceans that cover most of our planet.",
-      "origin": "Established by the United Nations in 1992 during the Earth Summit in Rio de Janeiro.",
-      "category": "Environmental Awareness",
+      "description": "A day for honoring the big salty thing that covers most of the planet. People celebrate with beach cleanups, documentaries, and by promising to use fewer plastic straws.",
+      "origin": "Proposed in 1992 at the Earth Summit in Rio de Janeiro, it was officially recognized by the United Nations in 2008 and has been celebrated every June 8 since.",
+      "category": "Awareness Day",
       "emoji": "🌊",
-      "funFact": "Over 80% of the ocean remains unexplored—almost like an alien universe right here on Earth!"
+      "funFact": "The ocean produces roughly half of the oxygen we breathe, so every other breath you take is basically thanks to the sea."
     },
     {
-      "name": "Hug Your Cat Day",
-      "description": "A quirky celebration encouraging cat lovers to give their feline friends extra snuggles and love today—if your cat permits, that is.",
-      "origin": "An unofficial internet holiday that gained traction through social media cat fan clubs around 2010.",
-      "category": "Pet Lover",
-      "emoji": "🐱🤗",
-      "funFact": "Cats generally don’t love hugs, so if your kitty cooperates, you’re definitely their favorite human!"
+      "name": "Name Your Poison Day",
+      "description": "A tongue-in-cheek day for choosing your favorite vice, whether that is coffee, chocolate, or binge-watching TV. It is about owning your guilty pleasures with a wink.",
+      "origin": "This is a lighthearted unofficial observance from online holiday calendars with no single known founder, tied to the idea of picking your preferred indulgence.",
+      "category": "Unofficial Fun",
+      "emoji": "☕",
+      "funFact": "The phrase 'name your poison' dates back to at least the 1800s as a way to invite someone to pick a drink."
     },
     {
-      "name": "National Vichyssoise Day",
-      "description": "A day to savor and celebrate vichyssoise—a smooth, creamy cold potato and leek soup that’s fancy enough for summer parties.",
-      "origin": "Named after the classic French-American chef Louis Diat who popularized the dish in the early 20th century.",
-      "category": "Food Holiday",
-      "emoji": "🥣",
-      "funFact": "Vichyssoise is traditionally served cold, but some daring chefs like to stir things up by serving it warm!"
+      "name": "Upsy Daisy Day",
+      "description": "A cheerful observance meant to help you get out of bed on the right side and tackle the day with a smile. Think of it as a permission slip to be annoyingly positive before noon.",
+      "origin": "A whimsical unofficial holiday inspired by the old British expression 'upsy-daisy', which people say when helping a child up after a tumble.",
+      "category": "Wellness",
+      "emoji": "🌼",
+      "funFact": "Upsy-daisy comes from the 1700s word 'up-a-daisy' and was originally used when lifting babies into the air."
     }
   ]
 }

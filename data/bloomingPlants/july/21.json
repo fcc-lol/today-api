@@ -2,55 +2,59 @@
   "date": "July 21",
   "plants": [
     {
-      "name": "Lilium auratum",
-      "commonName": "Golden-rayed Lily",
-      "description": "A striking lily with large, fragrant white flowers streaked with golden yellow stripes and reddish spots. Native to Japan, it thrives in temperate climates and blooms in midsummer, attracting pollinators like bees and butterflies.",
-      "bloomingSeason": "June to August",
-      "location": "Japan, temperate gardens worldwide",
-      "colors": [
-        "white",
-        "yellow",
-        "red"
-      ],
-      "emoji": "🌸",
-      "funFact": "The Golden-rayed Lily is known for its intense fragrance and is often used in floral arrangements in Japan."
-    },
-    {
-      "name": "Agave americana",
-      "commonName": "Century Plant",
-      "description": "A large succulent plant known for its towering flower spike that can reach up to 9 meters tall. It rarely blooms, generally once after many years (often around 10-30 years), producing clustered yellow-green flowers in summer before dying afterward.",
-      "bloomingSeason": "June to August (when it blooms)",
-      "location": "Native to Mexico and Southwestern USA, cultivated worldwide in warm climates",
-      "colors": [
-        "yellow-green"
-      ],
-      "emoji": "🌵",
-      "funFact": "Despite its name, the Century Plant typically blooms once in a lifetime after decades of growth."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant shrub with spikes of small purple flowers that bloom profusely in summer. Widely cultivated for its essential oils and ornamental use, it attracts bees and butterflies.",
-      "bloomingSeason": "June to August",
-      "location": "Native to the Mediterranean, cultivated worldwide in temperate zones",
+      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. Widely cultivated in gardens and commercial fields, it attracts bees and butterflies and is prized for its essential oil.",
+      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the northern United States",
       "colors": [
-        "purple"
+        "purple",
+        "lavender",
+        "blue"
       ],
-      "emoji": "💜",
-      "funFact": "English Lavender oil is extensively used in aromatherapy for its calming effects."
+      "emoji": "🪻",
+      "funFact": "Lavender was used by ancient Romans to scent their baths, and its name likely derives from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "Native to South Africa, this impressive flower features a large bloom with spiky petals resembling an artichoke. It blooms in mid to late summer and is known for its resilience in dry conditions.",
-      "bloomingSeason": "June to October",
-      "location": "South Africa (Cape Floristic Region)",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large composite flower head made up of yellow ray florets surrounding a dark disk of tiny florets that mature into seeds. Young flower heads track the sun across the sky.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
+      "location": "Native to North America; widely cultivated in Ukraine, Russia, Argentina, France, and the United States",
+      "colors": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "The flower head is actually made up of up to 2,000 individual tiny flowers, and the florets are arranged in spiral patterns following the Fibonacci sequence."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers on tall stalks. Its leaves have a micro-textured surface that repels water and dirt.",
+      "bloomingSeason": "July to September in temperate Asia",
+      "location": "Native to Asia and Australia; found in ponds and wetlands in India, China, Japan, Vietnam, and cultivated worldwide",
       "colors": [
         "pink",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The King Protea is the national flower of South Africa and is highly prized by florists worldwide."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries; one seed about 1,300 years old was successfully germinated, and the flower is able to regulate its own temperature."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "A hardy perennial prairie wildflower with daisy-like flowers with drooping petals around a spiky, orange-brown central cone. It is a favorite of pollinators and goldfinches, which eat the seeds in late summer.",
+      "bloomingSeason": "June to October in the Northern Hemisphere",
+      "location": "Native to eastern and central North America; common in prairies, open woodlands, and cultivated gardens worldwide",
+      "colors": [
+        "purple",
+        "pink",
+        "orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "Echinacea gets its name from the Greek 'echinos' meaning hedgehog, referring to the prickly central cone, and it has long been used in traditional Native American medicine."
     }
   ]
 }

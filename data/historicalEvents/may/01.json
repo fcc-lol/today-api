@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1707,
-      "title": "The Acts of Union 1707 Takes Effect",
-      "description": "The Kingdom of England and the Kingdom of Scotland merge to form the Kingdom of Great Britain.",
-      "category": "Political",
-      "significance": "This event marks the unification of England and Scotland under one government, which profoundly influenced the political landscape of the British Isles."
+      "title": "Act of Union Takes Effect",
+      "description": "The Acts of Union 1707 came into force, uniting the Kingdom of England and the Kingdom of Scotland into a single sovereign state called the Kingdom of Great Britain, with one parliament at Westminster.",
+      "category": "Politics",
+      "significance": "Created the political entity of Great Britain, which became the foundation for the British Empire and a dominant global power in the 18th and 19th centuries."
     },
     {
       "year": 1886,
-      "title": "Haymarket Affair in Chicago",
-      "description": "A peaceful rally in support of workers striking for an eight-hour workday turns violent after a bomb is thrown at police.",
-      "category": "Labor Movement",
-      "significance": "The Haymarket Affair becomes a key moment in labor history, inspiring May 1st as International Workers' Day, symbolizing the fight for workers' rights worldwide."
+      "title": "Haymarket Eight-Hour Day Strikes Begin",
+      "description": "Hundreds of thousands of workers across the United States, centered in Chicago, went on strike demanding an eight-hour workday. The protests preceded the Haymarket affair of May 4, 1886.",
+      "category": "Labor",
+      "significance": "Inspired the international observance of May Day as International Workers' Day and became a landmark in the global labor movement."
     },
     {
       "year": 1931,
-      "title": "Empire State Building Opens in New York City",
-      "description": "The Empire State Building, the tallest building in the world at the time, officially opens to the public.",
-      "category": "Architecture/Engineering",
-      "significance": "A symbol of American innovation and economic strength, the building quickly becomes an architectural icon."
+      "title": "Empire State Building Opens",
+      "description": "U.S. President Herbert Hoover pressed a button in Washington, D.C. to officially turn on the lights of the Empire State Building in New York City. At 1,250 feet, it became the tallest building in the world.",
+      "category": "Architecture",
+      "significance": "It held the title of world's tallest building for nearly 40 years and became an enduring symbol of New York City and American ambition during the Great Depression."
     },
     {
-      "year": 2004,
-      "title": "Expansion of the European Union",
-      "description": "Ten new countries join the European Union in the largest single expansion of the EU to date.",
-      "category": "Political/International Relations",
-      "significance": "This expansion strengthens European integration and reshapes political and economic relations across the continent."
+      "year": 1945,
+      "title": "Announcement of Hitler's Death",
+      "description": "German radio announced that Adolf Hitler had died the previous day, with Admiral Karl Dönitz named as his successor. Around the same time, Soviet forces were completing the capture of Berlin.",
+      "category": "War",
+      "significance": "Marked the collapse of Nazi Germany's leadership and led to Germany's unconditional surrender on May 8, 1945, ending World War II in Europe."
+    },
+    {
+      "year": 2011,
+      "title": "Osama bin Laden Killed",
+      "description": "U.S. Navy SEALs killed al-Qaeda leader Osama bin Laden in a compound in Abbottabad, Pakistan, during a covert operation (May 2 local time in Pakistan, evening of May 1 in the U.S.). President Barack Obama announced the news that night.",
+      "category": "Military",
+      "significance": "Ended a decade-long manhunt for the mastermind of the September 11, 2001 attacks and was a major milestone in the global war on terror."
     }
   ]
 }

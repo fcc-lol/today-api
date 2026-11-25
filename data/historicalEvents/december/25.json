@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 800,
-      "title": "Coronation of Charlemagne as Holy Roman Emperor",
-      "description": "Charlemagne was crowned Emperor of the Romans by Pope Leo III at St. Peter's Basilica, marking the foundation of the Holy Roman Empire in Western Europe.",
-      "category": "Political",
-      "significance": "This event symbolized the fusion of Roman, Christian, and Germanic elements and greatly influenced medieval European politics and culture."
-    },
-    {
-      "year": 336,
-      "title": "Earliest Recorded Celebration of Christmas on December 25",
-      "description": "The first documented celebration of Christmas on December 25 was recorded in Rome, marking the establishment of the date as the Church's official celebration of the birth of Jesus Christ.",
-      "category": "Religious",
-      "significance": "This set the precedent for the widespread Christian tradition of commemorating Christmas on December 25, shaping cultural and religious practices worldwide."
+      "title": "Charlemagne Crowned Emperor of the Romans",
+      "description": "Pope Leo III crowned Charlemagne, King of the Franks, as Emperor of the Romans in St. Peter's Basilica in Rome during Christmas Mass.",
+      "category": "Politics",
+      "significance": "The coronation revived the concept of a Western Roman Empire in Europe, laying the foundation for the Holy Roman Empire and shaping the political relationship between the papacy and European monarchs for centuries."
     },
     {
       "year": 1066,
       "title": "William the Conqueror Crowned King of England",
-      "description": "On December 25th, William the Conqueror was crowned king at Westminster Abbey following his victory at the Battle of Hastings earlier that year.",
-      "category": "Political",
-      "significance": "This coronation marked the beginning of Norman rule in England, significantly influencing the country's language, culture, and governance."
+      "description": "William, Duke of Normandy, was crowned King of England at Westminster Abbey, following his victory at the Battle of Hastings that October.",
+      "category": "Politics",
+      "significance": "The Norman Conquest transformed English society, language, law, and aristocracy, and it permanently altered the course of English and European history."
+    },
+    {
+      "year": 1642,
+      "title": "Birth of Isaac Newton",
+      "description": "Isaac Newton was born in Woolsthorpe, Lincolnshire, England, on this date according to the Julian calendar then used in England (January 4, 1643 in the Gregorian calendar).",
+      "category": "Birth",
+      "significance": "Newton formulated the laws of motion and universal gravitation and co-developed calculus, laying the groundwork for classical mechanics and the Scientific Revolution."
+    },
+    {
+      "year": 1776,
+      "title": "Washington Crosses the Delaware",
+      "description": "On the night of December 25-26, George Washington led the Continental Army across the icy Delaware River to launch a surprise attack on Hessian forces at Trenton, New Jersey.",
+      "category": "Military",
+      "significance": "The subsequent victory at Trenton revived American morale and the Patriot cause at a critical low point in the American Revolutionary War."
     },
     {
       "year": 1991,
-      "title": "Dissolution of the Soviet Union Announced",
-      "description": "Mikhail Gorbachev resigned as president of the Soviet Union, and the USSR ceased to exist as a sovereign state, marking the end of the Cold War era.",
-      "category": "Political",
-      "significance": "The dissolution led to the independence of 15 republics, reshaped global geopolitics, and ended decades of ideological and military confrontation."
+      "title": "Mikhail Gorbachev Resigns as Soviet President",
+      "description": "Mikhail Gorbachev resigned as President of the Soviet Union, and the Soviet flag was lowered from the Kremlin for the last time. The USSR was dissolved the following day.",
+      "category": "Politics",
+      "significance": "This marked the formal end of the Soviet Union and the Cold War, reshaping the global political order and giving rise to fifteen independent nations."
     }
   ]
 }

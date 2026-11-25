@@ -2,55 +2,58 @@
   "date": "March 29",
   "plants": [
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A species of daffodil native to Western Europe, known for its bright yellow trumpet-shaped flowers. It often carpets woodlands and meadows in early spring.",
-      "bloomingSeason": "February to April",
-      "location": "Western and Central Europe",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful deciduous tree covered in clouds of pale pink-white, five-petaled blossoms that appear before the leaves emerge. It is widely planted in parks, along rivers, and in gardens across temperate regions.",
+      "bloomingSeason": "Late March to mid-April in much of the Northern Hemisphere (peak varies by latitude)",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of Europe and North America",
       "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Wild daffodils are often the first sign of spring in many parts of Europe and were historically used to scent perfumes."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its stunning display of pink to white blossoms. It is culturally significant in Japan and widely planted around the world as an ornamental tree.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, temperate regions worldwide",
-      "colors": [
-        "Pink",
-        "White"
+        "pale pink",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms only bloom for about one to two weeks, symbolizing the fleeting nature of life in Japanese culture."
+      "funFact": "The Yoshino cherry is the main tree celebrated during Japan's hanami festivals, and the 1912 gift of 3,000 trees from Tokyo to Washington D.C. established the famed National Cherry Blossom Festival."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large shrub with spectacular flower heads resembling giant artichokes. Native to South Africa, it blooms mostly in late winter to early spring.",
-      "bloomingSeason": "February to April",
-      "location": "South Africa",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A hardy bulbous perennial with a pale yellow outer perianth and a deeper yellow trumpet-shaped corona. It grows in meadows, open woodlands, and gardens, and naturalizes readily.",
+      "bloomingSeason": "Late February to April",
+      "location": "Western Europe (UK, France, Spain, Belgium); widely cultivated and naturalized in North America and elsewhere",
       "colors": [
-        "Pink",
-        "Cream"
+        "yellow",
+        "pale yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, making it toxic to most animals, and galantamine, a compound derived from related Amaryllidaceae plants, is used in medicine to treat Alzheimer's symptoms."
+    },
+    {
+      "name": "Magnolia × soulangeana",
+      "commonName": "Saucer Magnolia",
+      "description": "A small deciduous tree with large, goblet-shaped flowers that open on bare branches in early spring. The tulip-like blossoms are often white inside and flushed pink to purple on the outside.",
+      "bloomingSeason": "Late March to April in the Northern Hemisphere",
+      "location": "Cultivated across the UK, the eastern and western United States, and Europe; hybrid originated in France",
+      "colors": [
+        "pink",
+        "white",
+        "purple"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea is South Africa’s national flower, and its name is derived from the Greek god Proteus, symbolizing diversity."
+      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, and their sturdy flowers are thought to have evolved to be pollinated by beetles."
     },
     {
-      "name": "Magnolia stellata",
-      "commonName": "Star Magnolia",
-      "description": "A small deciduous tree or large shrub producing star-shaped white to pale pink flowers early in spring before the leaves appear.",
-      "bloomingSeason": "March to April",
-      "location": "Japan and widely cultivated in temperate zones",
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily (Naked Lady)",
+      "description": "A bulbous perennial that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped flowers in late summer to autumn of the Southern Hemisphere. The strap-like leaves appear after flowering and die back in summer.",
+      "bloomingSeason": "March to April in the Southern Hemisphere (autumn)",
+      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, Chile, and California",
       "colors": [
-        "White",
-        "Pale Pink"
+        "pink",
+        "rose",
+        "white"
       ],
-      "emoji": "✴️",
-      "funFact": "Star magnolias are among the earliest flowering magnolias and their flowers can sometimes tolerate frost."
+      "emoji": "🌷",
+      "funFact": "It is nicknamed 'Naked Lady' because the flower stalks emerge on bare ground with no leaves, appearing suddenly after autumn rains or the end of summer heat."
     }
   ]
 }

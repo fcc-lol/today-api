@@ -2,32 +2,39 @@
   "date": "July 11",
   "events": [
     {
-      "year": 1804,
-      "title": "Duel Between Alexander Hamilton and Aaron Burr",
-      "description": "Vice President Aaron Burr fatally wounded former Secretary of the Treasury Alexander Hamilton in a duel in Weehawken, New Jersey.",
-      "category": "Political History",
-      "significance": "The duel ended the life of a founding father and had profound effects on American politics and Burr's career."
-    },
-    {
-      "year": 1914,
-      "title": "Start of World War I: Austria-Hungary Declares War on Serbia",
-      "description": "Austria-Hungary declared war on Serbia, marking a key event that escalated into the outbreak of World War I.",
-      "category": "Military History",
-      "significance": "This declaration triggered a chain of alliances and conflicts, leading to a global war."
-    },
-    {
-      "year": 1960,
-      "title": "Independence of the Democratic Republic of the Congo",
-      "description": "The Democratic Republic of the Congo gained independence from Belgium.",
-      "category": "Political History",
-      "significance": "Marked the end of colonial rule and the beginning of self-governance in the Congo."
-    },
-    {
       "year": 1995,
-      "title": "Srebrenica Massacre Occurs During Bosnian War",
-      "description": "Bosnian Serb forces captured the town of Srebrenica and killed more than 8,000 Bosniak men and boys in one of the worst atrocities in Europe since World War II.",
+      "title": "Srebrenica Massacre Begins",
+      "description": "Bosnian Serb forces under General Ratko Mladić captured the UN-designated safe area of Srebrenica during the Bosnian War and began systematically killing Bosniak men and boys. More than 8,000 people were murdered over the following days.",
       "category": "War and Genocide",
-      "significance": "Represented a severe breach of international law and drew global attention to the conflict in Bosnia."
+      "significance": "It was the worst mass killing in Europe since World War II and was later ruled a genocide by the International Criminal Tribunal for the former Yugoslavia and the International Court of Justice."
+    },
+    {
+      "year": 1804,
+      "title": "Burr-Hamilton Duel",
+      "description": "Vice President Aaron Burr shot former Treasury Secretary Alexander Hamilton in a duel at Weehawken, New Jersey. Hamilton died the following day from his wound.",
+      "category": "Politics",
+      "significance": "The duel ended the life of one of America's Founding Fathers and the architect of its financial system, and it effectively destroyed Burr's political career."
+    },
+    {
+      "year": 1893,
+      "title": "Mikimoto Cultured Pearl Breakthrough",
+      "description": "Kokichi Mikimoto produced the first cultured pearl on July 11, 1893, by successfully inducing oysters to form pearls in his Japanese pearl farm.",
+      "category": "Science and Technology",
+      "significance": "His methods launched the cultured pearl industry, making pearls widely affordable and transforming the global jewelry market."
+    },
+    {
+      "year": 1991,
+      "title": "Total Solar Eclipse over Hawaii and Mexico",
+      "description": "A total solar eclipse crossed Hawaii, Mexico, Central America and South America, lasting nearly seven minutes at its maximum, one of the longest of the 20th century.",
+      "category": "Science and Nature",
+      "significance": "It drew thousands of astronomers and tourists and offered a rare opportunity for scientific observation of the solar corona."
+    },
+    {
+      "year": 1767,
+      "title": "Birth of John Quincy Adams",
+      "description": "John Quincy Adams, the sixth President of the United States, was born in Braintree, Massachusetts, son of President John Adams.",
+      "category": "Births",
+      "significance": "He became a leading diplomat, president from 1825 to 1829, and later a prominent anti-slavery congressman, shaping early American foreign policy including the Monroe Doctrine."
     }
   ]
 }

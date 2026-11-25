@@ -2,56 +2,55 @@
   "date": "September 21",
   "plants": [
     {
-      "name": "Aster amellus",
-      "commonName": "European Michaelmas Daisy",
-      "description": "A hardy perennial native to Europe, known for its daisy-like purple flowers that bloom in late summer and early autumn. It thrives in well-drained soils and full sun.",
-      "bloomingSeason": "August to October",
-      "location": "Europe",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A cormous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The strap-shaped leaves appear in spring and die back by summer, giving rise to its nickname 'naked ladies'.",
+      "bloomingSeason": "Late summer to mid-autumn (September to October in the Northern Hemisphere)",
+      "location": "Meadows and woodland edges of Europe; widely cultivated in temperate gardens worldwide",
       "colors": [
-        "purple",
-        "lavender",
-        "white"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
       "emoji": "🌸",
-      "funFact": "Michaelmas daisies are named after the Christian festival of Michaelmas, celebrated around September 29, reflecting their peak bloom time."
+      "funFact": "Colchicum is the source of colchicine, a compound used in treating gout and in plant breeding to induce chromosome doubling. All parts of the plant are highly toxic."
     },
     {
-      "name": "Rudbeckia hirta",
-      "commonName": "Black-eyed Susan",
-      "description": "A North American wildflower recognizable by its bright yellow petals surrounding a dark brown central cone. It blooms profusely in late summer and early fall, attracting pollinators.",
-      "bloomingSeason": "June to September",
-      "location": "North America",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "A tall, rhizomatous perennial that forms dense colonies topped with arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Meadows, roadsides, and prairies of North America; naturalized in Europe and Asia",
       "colors": [
-        "yellow",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Black-eyed Susans are named for their dark, central cone which looks like an eye surrounded by bright petals."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic plant native to Asia, noted for its large, fragrant pink or white flowers that bloom above water in warm months and can still be seen in bloom in early autumn in warmer climates.",
-      "bloomingSeason": "June to October",
-      "location": "Asia and tropical regions",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Sacred Lotus is a symbol of purity and spiritual awakening in many Asian cultures, and its seeds can remain viable for centuries."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An Australian tree that produces vibrant orange clusters of spider-like flowers in late winter to early spring in the Southern Hemisphere, which corresponds to August-September, sometimes extending into October.",
-      "bloomingSeason": "August to October (Southern Hemisphere)",
-      "location": "Australia",
-      "colors": [
-        "orange"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Despite its name, the Silky Oak is not a true oak; it is in the protea family and is valued for its timber and ornamental flowers."
+      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; the real culprit is usually ragweed, which blooms at the same time but releases airborne pollen."
+    },
+    {
+      "name": "Prunus x yedoensis",
+      "commonName": "Yoshino Cherry Companion: Spring-Blooming Southern Hemisphere Cherry",
+      "description": "In the Southern Hemisphere, September marks the height of spring, and ornamental cherry trees burst into bloom with clouds of delicate blossoms before or as the leaves emerge.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to October)",
+      "location": "Gardens and parks in Australia, New Zealand, South Africa, and Chile",
+      "colors": [
+        "White",
+        "Pale pink"
+      ],
+      "emoji": "🌳",
+      "funFact": "Cherry blossom festivals are held in places like Cowra, Australia, and Auckland, New Zealand, around this time of year, mirroring Japan's famous hanami in the opposite season."
+    },
+    {
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily",
+      "description": "A bulbous perennial whose leafless stalks emerge suddenly after autumn rains, topped by striking crimson flowers with long, curling stamens. The foliage appears later in autumn and persists through winter.",
+      "bloomingSeason": "Early to mid-autumn (September to October)",
+      "location": "Native to China, Korea, and Japan; naturalized in the southeastern United States",
+      "colors": [
+        "Crimson red"
+      ],
+      "emoji": "🌺",
+      "funFact": "In Japan, the flower is called higanbana because it blooms around the autumn equinox holiday of Higan, and it is often planted around rice paddies to deter rodents because the bulbs are poisonous."
     }
   ]
 }

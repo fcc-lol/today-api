@@ -2,58 +2,58 @@
   "date": "March 26",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its beautiful, delicate pink to white blossoms that herald the arrival of spring in many temperate regions, especially in Japan and parts of the United States like Washington D.C.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of East Asia, United States (Washington D.C.)",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful deciduous tree that produces clouds of pale pink to nearly white five-petaled flowers before its leaves emerge. It is the most widely planted ornamental cherry in Japan and is celebrated in hanami festivals. Trees are often planted along rivers, in parks, and around temples.",
+      "bloomingSeason": "Late March to mid-April (peak varies by latitude; late March in Tokyo, Washington D.C., and similar climates)",
+      "location": "Japan, Korea, eastern United States, and temperate regions worldwide",
       "colors": [
-        "pink",
+        "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The blooming period of cherry blossoms is very short, often lasting just one to two weeks, making them a cherished symbol of transient beauty in Japanese culture."
+      "funFact": "The cherry trees around the Tidal Basin in Washington, D.C. were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
     },
     {
-      "name": "Nerium oleander",
-      "commonName": "Oleander",
-      "description": "An evergreen shrub with leathery leaves and clusters of vibrant funnel-shaped flowers that bloom profusely in warm climates, often planted for ornamental purposes along roads and in gardens.",
-      "bloomingSeason": "March to October (long blooming season starting early spring)",
-      "location": "Mediterranean Basin, Southwest Asia, cultivated worldwide in warm climates",
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "A bulbous perennial with a bright yellow trumpet surrounded by paler yellow petals. It naturalizes in meadows, woodlands, and gardens, forming sweeping drifts of color in early spring. Cultivated hybrids are among the most popular spring bulbs.",
+      "bloomingSeason": "Late February to April in the Northern Hemisphere",
+      "location": "Western Europe (native), widely naturalized in North America and temperate gardens",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "yellow"
-      ],
-      "emoji": "🌺",
-      "funFact": "Although beautiful, all parts of oleander are highly toxic if ingested, containing compounds that can affect the heart."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid magnolia tree known for its large, tulip-shaped flowers that appear before the leaves and create stunning displays of pink, white, and purple hues in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate gardens worldwide, originally from China and cultivation in Europe and North America",
-      "colors": [
-        "pink",
-        "white",
-        "purple"
+        "yellow",
+        "pale yellow",
+        "cream"
       ],
       "emoji": "🌼",
-      "funFact": "Magnolia flowers evolved before bees were common, and are pollinated mainly by beetles, making them some of the oldest flowering plants on Earth."
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids that are toxic, which is why deer and rodents generally avoid them. One compound, galantamine, is used in medicine for Alzheimer's disease."
     },
     {
-      "name": "Erythrina crista-galli",
-      "commonName": "Cockspur Coral Tree",
-      "description": "A striking deciduous tree with bright red, spiky flowers that bloom in late spring, common in subtropical and tropical regions, and often used as an ornamental plant.",
-      "bloomingSeason": "March to May",
-      "location": "South America (Argentina, Uruguay, Brazil), subtropical and tropical climates",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree whose bare branches and even trunk become studded with clusters of magenta-pink, pea-like flowers before the heart-shaped leaves appear. It is a valuable early nectar source for native bees and a common sight in woodland edges and gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
       "colors": [
-        "red"
+        "magenta",
+        "pink",
+        "rosy purple"
       ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of Argentina and Uruguay, representing resilience and beauty in harsh environments."
+      "emoji": "🌳",
+      "funFact": "Redbud flowers are edible and have a mildly tart flavor. The tree is cauliflorous, meaning blooms can emerge directly from the old wood of the trunk."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A tropical to subtropical tree with fern-like foliage that bursts into masses of trumpet-shaped, lavender-blue flowers. In bloom, entire streets appear to be cloaked in purple, and fallen petals carpet the ground below.",
+      "bloomingSeason": "Spring in the Southern Hemisphere is September to November, but it blooms in autumn in some regions like parts of Northern Argentina and Northern Australia; in the tropics it flowers in March to May",
+      "location": "Native to South America; cultivated in Africa, Australia, India, and Mexico",
+      "colors": [
+        "lavender",
+        "violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City', and the tree is widely planted across the tropics for its dramatic display."
     }
   ]
 }

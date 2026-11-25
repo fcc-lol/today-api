@@ -2,55 +2,58 @@
   "date": "April 6",
   "plants": [
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Cherry Blossom",
-      "description": "A deciduous tree famous for its spectacular display of pink to white blossoms in spring. It is native to Japan, Korea, and China but widely cultivated worldwide as an ornamental plant.",
-      "bloomingSeason": "March to April",
-      "location": "Temperate regions of East Asia and cultivated globally",
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "A graceful ornamental tree that covers its bare branches in clouds of delicate, five-petaled blossoms before the leaves emerge. It is the most widely planted cherry in Japan and in many temperate cities worldwide.",
+      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
+      "location": "Japan, Washington D.C. (USA), Korea, and temperate parks and gardens worldwide",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The blooming of cherry blossoms is celebrated in Japan with festivals called Hanami, symbolizing the ephemeral nature of life."
+      "funFact": "The Yoshino cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and their peak bloom is celebrated each spring with the National Cherry Blossom Festival."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A hardy perennial bulb native to western Europe known for its bright yellow trumpet-shaped flowers that herald the arrival of spring.",
+      "description": "A hardy bulbous perennial with nodding yellow trumpet-shaped flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the ancestor of many garden daffodil cultivars.",
       "bloomingSeason": "March to April",
-      "location": "Europe, particularly the UK and Ireland",
+      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
       "colors": [
-        "yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Wild daffodils are an important early nectar source for pollinators emerging in spring."
+      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, which make it toxic to most grazing animals, and one of its compounds, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A hybrid deciduous magnolia species producing large, fragrant, tulip-shaped flowers that appear before the leaves in early spring.",
-      "bloomingSeason": "March to April",
-      "location": "Native to China, widely grown in temperate gardens worldwide",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "A small deciduous tree with heart-shaped leaves whose magenta-pink flowers burst directly from the branches and even the trunk before the foliage appears. It is a favorite of early-season pollinators.",
+      "bloomingSeason": "Late March to April",
+      "location": "Eastern and central North America, from Ontario to Mexico",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Magenta",
+        "Pink",
+        "Purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Redbud blooms are edible and are sometimes tossed into salads or fried, and the flowers are cauliflorous, meaning they grow directly out of old wood."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily",
+      "description": "A bulbous perennial that sends up bare, sturdy stalks topped with clusters of fragrant, trumpet-shaped pink flowers. The strap-like leaves appear after flowering. It thrives in Mediterranean-type climates.",
+      "bloomingSeason": "March to April in the Southern Hemisphere (autumn)",
+      "location": "Western Cape of South Africa; naturalized in Australia, New Zealand, and California",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Saucer magnolias are among the earliest magnolias to bloom, often heralding spring’s full arrival."
-    },
-    {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "A fast-growing evergreen tree native to eastern Australia, known for its fern-like leaves and clusters of bright orange flowers that attract birds.",
-      "bloomingSeason": "March to May",
-      "location": "Subtropical and tropical regions of Australia, also cultivated in warm climates globally",
-      "colors": [
-        "orange"
-      ],
-      "emoji": "🌿",
-      "funFact": "The Silky Oak’s flowers produce copious nectar, making it popular with nectar-feeding birds such as honeyeaters."
+      "funFact": "Because the flower stalks emerge without any leaves in autumn, the plant is often called the 'naked lady' in Australia and California."
     }
   ]
 }

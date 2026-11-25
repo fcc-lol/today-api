@@ -2,36 +2,44 @@
   "date": "June 20",
   "holidays": [
     {
-      "name": "World Ice Cream Soda Day",
-      "description": "A day dedicated to celebrating the fizzy, creamy delight that is the ice cream soda — a refreshing blend of soda pop and ice cream!",
-      "origin": "Originated in the 19th century, the ice cream soda became a soda fountain favorite in America, and June 20 became a perfect day to honor this sweet treat in summer.",
-      "category": "Food Holiday",
-      "emoji": "🍦🥤",
-      "funFact": "The ice cream soda was invented by Robert McCay Green in 1874 when a customer asked for something different at his soda fountain."
-    },
-    {
-      "name": "Go Fishing Day",
-      "description": "Cast your line and celebrate the joys of fishing, whether it's in a river, lake, or even your backyard pond!",
-      "origin": "This unofficial holiday encourages reconnecting with nature and the relaxing sport of fishing.",
-      "category": "Outdoor/Activity",
-      "emoji": "🎣",
-      "funFact": "Fishing is one of the oldest human activities, dating back at least 40,000 years!"
+      "name": "National Ice Cream Soda Day",
+      "description": "A fizzy, creamy celebration of dropping a scoop of ice cream into soda and sipping the foamy result through a straw. Root beer floats, Coke floats, and neon-colored creations are all welcome.",
+      "origin": "Ice cream sodas are traditionally credited to Robert Green, who supposedly invented one in 1874 at the Franklin Institute's semi-centennial celebration in Philadelphia. Historians debate the story, but the date stuck as an unofficial food holiday.",
+      "category": "Food Day",
+      "emoji": "🥤",
+      "funFact": "Legend says Robert Green ran out of ice for his flavored sodas and used vanilla ice cream instead, accidentally inventing a drink so popular that it helped launch the soda fountain craze."
     },
     {
       "name": "World Refugee Day",
-      "description": "A day to honor the courage and resilience of refugees worldwide and to raise awareness about refugee issues.",
-      "origin": "Established by the United Nations in 2000 to commemorate the strength of refugees globally.",
+      "description": "An internationally recognized awareness day honoring the strength, courage, and resilience of people forced to flee their homes because of conflict or persecution. Events include film screenings, community meals, and fundraising drives.",
+      "origin": "The United Nations General Assembly designated June 20 as World Refugee Day in 2000, to coincide with the 50th anniversary of the 1951 Refugee Convention. It was first observed in 2001.",
       "category": "Awareness Day",
-      "emoji": "🕊️",
-      "funFact": "Every minute, 20 people around the world are forced to flee their homes to escape conflict or persecution."
+      "emoji": "🌍",
+      "funFact": "Before 2001 the day was known in parts of Africa as Africa Refugee Day, which was observed on the same date."
     },
     {
-      "name": "National Vanilla Milkshake Day",
-      "description": "Celebrate the creamy, dreamy delight that is the vanilla milkshake! A perfect chilled treat on a warm June day.",
-      "origin": "A food holiday created to honor the classic American milkshake flavor that’s been a staple in diners since the early 1900s.",
-      "category": "Food Holiday",
-      "emoji": "🥛🍨",
-      "funFact": "Milkshakes were originally made with malt powder and became wildly popular in the 1920s."
+      "name": "Summer Solstice (Litha), Frequent Date",
+      "description": "Depending on the year, the longest day of the Northern Hemisphere often lands on June 20 or 21. Revelers gather for bonfires, flower crowns, sunrise yoga, and ceremonies at ancient stone circles.",
+      "origin": "Solstice celebrations date back thousands of years across Europe and beyond, with pagan festivals like Litha and Midsummer marking the sun's peak. Neo-pagan traditions revived the name Litha in the 20th century.",
+      "category": "Seasonal Observance",
+      "emoji": "☀️",
+      "funFact": "Stonehenge draws thousands of visitors at solstice sunrise, when the sun appears to rise right over the Heel Stone."
+    },
+    {
+      "name": "American Eagle Day",
+      "description": "A patriotic day honoring the bald eagle, the national bird of the United States, with birdwatching, educational events, and conservation efforts.",
+      "origin": "June 20 marks the anniversary of the 1782 adoption of the Great Seal of the United States, which features the bald eagle. The bird's rebound from near extinction has made the day a symbol of conservation success.",
+      "category": "Nature & Patriotic Observance",
+      "emoji": "🦅",
+      "funFact": "Bald eagles build some of the largest nests of any North American bird, with some weighing over a ton."
+    },
+    {
+      "name": "Take Your Cat to the Vet Day (Unofficial)",
+      "description": "A tongue-in-cheek reminder to haul your reluctant feline to a checkup, complete with carrier negotiations, dramatic yowling, and dignified revenge afterward.",
+      "origin": "Pet-awareness calendars and veterinary groups have promoted the unofficial observance to encourage regular wellness visits, since cats are famously skilled at hiding illness.",
+      "category": "Pet Holiday",
+      "emoji": "🐱",
+      "funFact": "Cats instinctively mask pain and illness as a survival trick inherited from their wild ancestors, which is why vets stress routine checkups."
     }
   ]
 }

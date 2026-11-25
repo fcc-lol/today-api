@@ -2,63 +2,58 @@
   "date": "June 20",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Roses",
-      "description": "Roses are woody perennial flowering plants known for their fragrant and beautiful blooms with layered petals. They are widely cultivated in gardens worldwide and come in many varieties and colors.",
-      "bloomingSeason": "Late spring to early summer (May to June) in temperate regions",
-      "location": "Temperate regions of North America, Europe, and Asia",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with silvery-gray narrow leaves and dense spikes of small tubular flowers held on slender stems. Widely cultivated in gardens and commercial fields, it attracts bees and butterflies and is prized for its essential oil.",
+      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
+      "location": "Mediterranean region, southern France (Provence), England, and cultivated across temperate North America and Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple",
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for centuries, and rose oil is a valuable ingredient in perfumery."
+      "emoji": "💜",
+      "funFact": "Lavender was used by the Romans to scent their baths, and its name comes from the Latin 'lavare', meaning 'to wash'."
     },
     {
-      "name": "Aquilegia canadensis",
-      "commonName": "Eastern Red Columbine",
-      "description": "A wildflower native to eastern North America, this plant produces distinctive red and yellow flowers with long spurs, attracting hummingbirds and bees.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Woodlands and rocky slopes in eastern North America",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "A vigorous, arching, thorny wild shrub with delicate five-petaled flowers that have a light sweet scent. After flowering it produces bright red rose hips rich in vitamin C. It is common in hedgerows, woodland edges and scrub.",
+      "bloomingSeason": "Late spring to early summer (May to July)",
+      "location": "Europe, northwest Africa, and western Asia; naturalized in North America, Australia and New Zealand",
       "colors": [
+        "pale pink",
+        "white"
+      ],
+      "emoji": "🌹",
+      "funFact": "During World War II, rose hips from the dog rose were collected in Britain to make vitamin C-rich syrup when citrus fruit was scarce."
+    },
+    {
+      "name": "Leucospermum cordifolium",
+      "commonName": "Nodding Pincushion Protea",
+      "description": "A rounded evergreen shrub of the fynbos with striking domed flower heads bristling with long, curved styles that resemble pins in a cushion. The flowers open in vivid shades of orange and red and are a magnet for sunbirds.",
+      "bloomingSeason": "Southern Hemisphere late winter to spring (August to November), with some early blooms in cooler months; often flowering in the winter-wet season in cultivation",
+      "location": "Western Cape of South Africa; cultivated in Australia, California, and Hawaii",
+      "colors": [
+        "orange",
         "red",
         "yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "The Eastern Red Columbine's flower shape evolved to adapt to pollination by hummingbirds."
+      "emoji": "🧡",
+      "funFact": "Pincushion proteas are pollinated by birds, and their seeds are carried by ants into underground nests, which protect them from fire."
     },
     {
-      "name": "Lagerstroemia indica",
-      "commonName": "Crape Myrtle",
-      "description": "A deciduous shrub or small tree, crape myrtle is prized for its vibrant summer blooms and attractive, peeling bark. It thrives in warm climates.",
-      "bloomingSeason": "Early to late summer (June through September)",
-      "location": "Southeastern United States, Asia, and other warm temperate to tropical regions",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial whose large, showy flowers rise on tall stalks above round, water-repellent leaves. The blooms open in the morning and close at night, and the plant grows in shallow ponds and wetlands.",
+      "bloomingSeason": "Early summer to late summer (June to September)",
+      "location": "Asia from India and China to Japan, southeast Asia and northern Australia; cultivated in ponds worldwide",
       "colors": [
         "pink",
-        "purple",
-        "red",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Crape myrtle flowers can bloom profusely during hot summers, adding vibrant color when many other plants fade."
-    },
-    {
-      "name": "Nymphaea spp.",
-      "commonName": "Water Lilies",
-      "description": "Aquatic plants with broad floating leaves and showy flowers that bloom on calm freshwater surfaces. They open their flowers during the day in summer.",
-      "bloomingSeason": "Late spring to summer (May to August)",
-      "location": "Temperate to tropical freshwater lakes and ponds worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "yellow",
-        "blue"
-      ],
-      "emoji": "💧🌸",
-      "funFact": "Water lily flowers open and close with the sun's movement and can smell sweet to attract pollinators."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for hundreds of years; seeds around 1,300 years old have been successfully germinated."
     }
   ]
 }

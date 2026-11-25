@@ -4,54 +4,61 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual plant known for its large, bright yellow flower heads which track the movement of the sun during the day. Commonly cultivated for its seeds and oil, sunflowers also attract pollinators like bees and birds.",
-      "bloomingSeason": "July to September",
-      "location": "North America, widely cultivated worldwide",
+      "description": "A tall annual with large, daisy-like composite flower heads made of golden ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plant is widely grown for ornament, seeds, and oil.",
+      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere (July to September)",
+      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
       "colors": [
-        "Yellow",
-        "Brown"
+        "yellow",
+        "gold",
+        "orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow to over 3 meters tall and their flower heads are actually made up of hundreds of tiny individual flowers called florets."
+      "funFact": "Young sunflower buds follow the sun from east to west (heliotropism), but mature flower heads typically stop moving and face east, which helps warm them in the morning and attract pollinators."
     },
     {
-      "name": "Lilium lancifolium",
-      "commonName": "Tiger Lily",
-      "description": "A striking perennial lily featuring bright orange petals with dark spots. It is often found in gardens but also grows wild in parts of Asia and North America.",
-      "bloomingSeason": "July to August",
-      "location": "East Asia, North America",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-green foliage and slender spikes of fragrant purple flowers. It thrives in full sun and well-drained soil and is a favorite of bees and butterflies.",
+      "bloomingSeason": "Early to late summer (June to August), with peak bloom in July in many regions",
+      "location": "Native to the western Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the northern United States",
       "colors": [
-        "Orange",
-        "Black spots"
+        "purple",
+        "lavender",
+        "violet",
+        "blue"
       ],
-      "emoji": "🌺",
-      "funFact": "Tiger lilies produce bulbils along their stems which can drop and grow into new plants, allowing them to spread efficiently."
+      "emoji": "💜",
+      "funFact": "The name lavender likely derives from the Latin 'lavare', meaning 'to wash', reflecting its long use by Romans in bathing and laundry."
     },
     {
-      "name": "Agapanthus africanus",
-      "commonName": "African Lily",
-      "description": "An evergreen perennial with clusters of funnel-shaped flowers, commonly blue or white, which bloom in summer. Native to South Africa, widely grown as ornamental plants in temperate regions.",
-      "bloomingSeason": "June to August",
-      "location": "South Africa",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily / Lily of the Nile",
+      "description": "A clump-forming perennial with strap-like leaves and tall, leafless stems topped with rounded umbels of trumpet-shaped blue flowers. It is a popular border and container plant in warm climates.",
+      "bloomingSeason": "Summer in the Northern Hemisphere (July to September); in its native range it blooms in the southern summer",
+      "location": "Native to South Africa; widely grown in coastal California, the Mediterranean, Australia, and the UK",
       "colors": [
-        "Blue",
-        "White"
+        "blue",
+        "violet",
+        "white"
       ],
-      "emoji": "💐",
-      "funFact": "Agapanthus means 'love flower' in Greek, referring to its attractive blooms often associated with love and romance."
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek 'agape' (love) and 'anthos' (flower)."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial wildflower with purple petals and a distinctive spiny central cone. It is popular for its medicinal properties and easy cultivation in gardens.",
-      "bloomingSeason": "June to October",
-      "location": "Eastern North America",
+      "description": "A hardy prairie perennial with drooping pinkish-purple petals around a prominent spiny, orange-brown central cone. It is a magnet for bees, butterflies, and seed-eating goldfinches, and tolerates heat and drought.",
+      "bloomingSeason": "Mid-summer to early autumn (June to October), with strong bloom in August",
+      "location": "Native to eastern and central North America; grown in gardens across temperate regions worldwide",
       "colors": [
-        "Purple",
-        "Brown"
+        "purple",
+        "pink",
+        "orange",
+        "white"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea is known for boosting the immune system and has been traditionally used in herbal remedies."
+      "funFact": "The genus name Echinacea comes from the Greek 'echinos', meaning hedgehog, referring to the spiny central cone of the flower."
     }
   ]
 }

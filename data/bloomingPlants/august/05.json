@@ -2,59 +2,61 @@
   "date": "August 5",
   "plants": [
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical evergreen shrub known for its large, colorful, trumpet-shaped flowers. It thrives in warm climates and blooms nearly year-round in tropical zones, with peak blooming in summer months.",
-      "bloomingSeason": "June to September (peak bloom in summer)",
-      "location": "Tropical and subtropical regions worldwide, including Hawaii, Southeast Asia, and Pacific Islands",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with large, daisy-like flower heads made of golden ray florets surrounding a dark central disc. The heads track the sun in their youth and face east at maturity. Widely cultivated for seeds, oil, and ornament.",
+      "bloomingSeason": "Mid-summer to early fall (July-September in the Northern Hemisphere)",
+      "location": "Native to North America; cultivated across the United States, Europe, Russia, and Ukraine",
       "colors": [
-        "red",
-        "pink",
         "yellow",
+        "gold",
         "orange",
-        "white"
+        "brown"
       ],
-      "emoji": "🌺",
-      "funFact": "Hibiscus flowers are often used to make herbal teas believed to have health benefits, like lowering blood pressure."
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds follow the sun from east to west each day, a movement called heliotropism, and then reset overnight to face east."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial wildflower native to North America, characterized by daisy-like purple petals and a prominent spiky orange center cone. Known for attracting pollinators such as bees and butterflies.",
-      "bloomingSeason": "June to August",
-      "location": "Prairies and open woodlands of eastern and central United States",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in full sun and well-drained soil and is a magnet for bees and butterflies. It is harvested for essential oils, sachets, and culinary use.",
+      "bloomingSeason": "Peak bloom from June to August in the Northern Hemisphere",
+      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
       "colors": [
         "purple",
-        "pink"
+        "lavender",
+        "violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Echinacea is widely used in herbal remedies believed to boost the immune system."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and Romans added it to their bathwater, which is where its name likely comes from, from the Latin 'lavare' meaning 'to wash'."
     },
     {
-      "name": "Banksia grandis",
-      "commonName": "Bull Banksia",
-      "description": "A large shrub or small tree native to southwestern Australia, notable for its massive cylindrical golden flower spikes that are rich in nectar, attracting birds and mammals.",
-      "bloomingSeason": "July to October",
-      "location": "Southwest Australia",
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "A tall perennial wildflower that forms spires of vivid magenta-pink flowers which bloom from the bottom of the spike upward. It colonizes burned or disturbed land, carpeting hillsides in color. It is a vital nectar source for bees and a source of honey.",
+      "bloomingSeason": "July to September in the Northern Hemisphere",
+      "location": "Boreal and temperate regions of North America, Europe, and Asia, including Alaska, Canada, Scandinavia, and Siberia",
       "colors": [
-        "golden yellow"
+        "magenta",
+        "pink",
+        "purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Banksia flowers contain hundreds of tiny individual flowers densely packed into a cone-shaped inflorescence."
+      "emoji": "🌺",
+      "funFact": "Fireweed was among the first plants to regrow after the 1980 Mount St. Helens eruption, and locals say that when the blooms reach the top of the stalk, summer is nearly over."
     },
     {
-      "name": "Alstroemeria aurea",
-      "commonName": "Peruvian Lily",
-      "description": "A vibrant perennial native to South America, producing clusters of lily-like blossoms with unique markings. Popular in bouquets and gardens for its long-lasting flowers.",
-      "bloomingSeason": "Summer to early autumn (December to April in Southern Hemisphere, corresponds to August in Northern Hemisphere cultivation)",
-      "location": "Native to Chile and Argentina; cultivated worldwide",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial with large, round leaves that rise above the water and spectacular, fragrant flowers on tall stalks. The leaves have a water-repellent surface. It is cultivated in ponds and revered in many cultures as a symbol of purity.",
+      "bloomingSeason": "Summer, peaking July to August in temperate Asia",
+      "location": "Native to Asia and northern Australia; widely grown in India, China, Japan, and Vietnam",
       "colors": [
-        "yellow",
-        "orange",
-        "red"
+        "pink",
+        "white",
+        "pale yellow"
       ],
-      "emoji": "🌷",
-      "funFact": "Alstroemeria blooms can last up to two weeks when cut, making them excellent for floral arrangements."
+      "emoji": "🪷",
+      "funFact": "Lotus seeds can remain viable for centuries; one seed about 1,300 years old was successfully germinated after being recovered from a dry lakebed in China."
     }
   ]
 }

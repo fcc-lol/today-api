@@ -2,60 +2,59 @@
   "date": "July 15",
   "plants": [
     {
-      "name": "Rosa spp.",
-      "commonName": "Garden Roses",
-      "description": "Roses are one of the most popular flowering plants worldwide, cultivated in gardens and parks. In temperate zones of the Northern Hemisphere, many rose varieties bloom repeatedly throughout summer, displaying their large, fragrant flowers.",
-      "bloomingSeason": "Late spring to early autumn (May to October)",
-      "location": "Temperate regions globally, especially Northern Hemisphere",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A fragrant evergreen shrub with slender gray-green leaves and dense spikes of small tubular flowers. It is widely cultivated in gardens and in commercial fields for essential oils, and it attracts bees and butterflies in great numbers.",
+      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania, and the northern United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "yellow",
-        "orange"
-      ],
-      "emoji": "🌹",
-      "funFact": "Roses have been symbols of love and beauty for centuries, and some species have medicinal properties used in traditional remedies."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "An herbaceous perennial plant known for its tall spiky flower clusters composed of pea-like flowers. Lupines attract pollinators such as bees and butterflies and thrive in cooler climates.",
-      "bloomingSeason": "Late spring to mid-summer (June to July)",
-      "location": "North American and European temperate zones",
-      "colors": [
-        "blue",
         "purple",
-        "pink",
-        "white"
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌸",
-      "funFact": "Lupines fix nitrogen in the soil, improving soil fertility naturally."
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare', meaning 'to wash', because the Romans used lavender to scent their baths."
     },
     {
       "name": "Helianthus annuus",
-      "commonName": "Sunflower",
-      "description": "A tall annual plant with large, bright yellow flower heads that track the sun's movement during the day (a phenomenon called heliotropism). Commonly cultivated for seeds and oil production.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September)",
-      "location": "Native to North America but cultivated worldwide in temperate and subtropical climates",
+      "commonName": "Common Sunflower",
+      "description": "A tall annual with a large composite flower head made up of a central disk of tiny florets surrounded by showy yellow ray petals. Young flower heads track the sun across the sky, a behavior called heliotropism.",
+      "bloomingSeason": "Midsummer to early fall in the Northern Hemisphere",
+      "location": "Native to North America; widely farmed in Ukraine, Russia, Argentina, and the central United States",
       "colors": [
-        "yellow"
+        "yellow",
+        "golden orange",
+        "brown"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflowers can grow very tall—some varieties reaching over 3 meters—and their flower heads are actually composed of hundreds of tiny flowers called florets."
+      "funFact": "The spiral pattern of seeds in the sunflower head follows the Fibonacci sequence, which packs the seeds as efficiently as possible."
     },
     {
-      "name": "Dombeya wallichii",
-      "commonName": "Tropical Hydrangea",
-      "description": "A tropical flowering plant with large clusters of fragrant, pink to light purple flowers. Thrives in warm climates and often blooms in the summer months when temperatures are high.",
-      "bloomingSeason": "Summer (June to August)",
-      "location": "Tropical regions such as Madagascar and cultivated in subtropical gardens",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "An aquatic perennial that raises large, fragrant flowers on tall stalks above round, water-repellent leaves. It grows in shallow ponds and slow-moving waters, and is culturally important across Asia as a symbol of purity.",
+      "bloomingSeason": "Summer, peaking in July and August in temperate Asia",
+      "location": "Native to Asia and Australia; cultivated in India, China, Japan, Vietnam, and in ponds around the world",
       "colors": [
         "pink",
-        "light purple"
+        "white"
       ],
-      "emoji": "💐",
-      "funFact": "Dombeya wallichii is known as the 'pink ball tree' and is prized for its ornamental value in tropical and subtropical gardens."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic surface structure that makes water bead up and roll off, carrying dirt away. This is known as the 'lotus effect' and has inspired self-cleaning materials."
+    },
+    {
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gum",
+      "description": "A small, graceful mallee-type eucalypt with powdery white-silver bark and weeping branches. Its large, showy flowers appear in the Southern Hemisphere winter and provide nectar for native birds and insects when little else blooms.",
+      "bloomingSeason": "Winter, roughly May to August in Australia",
+      "location": "Native to granite outcrops in Western Australia; grown in gardens in mild climates",
+      "colors": [
+        "pink",
+        "red",
+        "magenta"
+      ],
+      "emoji": "🌸",
+      "funFact": "This species grows naturally only on a few granite outcrops in Western Australia, yet it is a popular ornamental tree around the world."
     }
   ]
 }

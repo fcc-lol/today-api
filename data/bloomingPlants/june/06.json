@@ -2,57 +2,60 @@
   "date": "June 6",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose native to Southwest China, known for its continuous blooming habit throughout the warm months. It bears fragrant, single or semi-double flowers that range in color from pink to red.",
-      "bloomingSeason": "Spring to Fall (April - October)",
-      "location": "Native to China, widely cultivated globally in temperate and subtropical gardens",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers held above deep green, lobed foliage. It is a beloved cut flower and garden staple that thrives in cool-winter climates.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
-        "Pink",
-        "Red"
-      ],
-      "emoji": "🌹",
-      "funFact": "The China Rose was instrumental in breeding many modern hybrid tea roses because of its recurrent blooming."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A perennial wildflower native to eastern North America, characterized by tall spikes densely packed with pea-shaped, blue-purple flowers. It often blooms in open sandy soils and pine barrens.",
-      "bloomingSeason": "Late Spring to Early Summer (May - June)",
-      "location": "Eastern United States and Canada",
-      "colors": [
-        "Blue",
-        "Purple"
+        "pink",
+        "white",
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Wild Lupine is the sole larval host for the endangered Karner blue butterfly, highlighting its ecological importance."
+      "funFact": "Peonies can live for more than 100 years, and ants visiting the flower buds feed on nectar but are not required for blooming."
     },
     {
-      "name": "Delphinium elatum",
-      "commonName": "Elatum Larkspur",
-      "description": "A tall herbaceous perennial with showy racemes of deeply lobed blue, purple, or white flowers. Commonly grown in northern hemisphere gardens as a striking summer ornamental.",
-      "bloomingSeason": "Late Spring to Early Summer (May - June)",
-      "location": "Native to Europe and Asia, cultivated widely in temperate gardens",
+      "name": "Rosa rugosa",
+      "commonName": "Beach Rose",
+      "description": "A tough, thorny deciduous shrub with wrinkled, leathery leaves and fragrant single or semi-double flowers, followed by large, edible orange-red hips rich in vitamin C. It tolerates salt spray and sandy soils.",
+      "bloomingSeason": "Late spring through summer, with peak bloom in early June",
+      "location": "Native to coastal East Asia (northern China, Japan, Korea); naturalized along North Atlantic and Baltic coasts",
       "colors": [
-        "Blue",
-        "Purple",
-        "White"
+        "magenta",
+        "pink",
+        "white"
       ],
-      "emoji": "🏵️",
-      "funFact": "The genus name Delphinium comes from the Greek word for dolphin, as the flower buds are said to resemble dolphins."
+      "emoji": "🌹",
+      "funFact": "Rosa rugosa is considered invasive in parts of Europe and New England because its suckering roots form dense coastal thickets."
     },
     {
-      "name": "Grevillea robusta",
-      "commonName": "Silky Oak",
-      "description": "An evergreen tree native to eastern Australia, producing showy clusters of bright orange to golden-yellow spider-like flowers, attracting birds and insects.",
-      "bloomingSeason": "Late Spring to Early Summer (October - December in Southern Hemisphere)",
-      "location": "Eastern Australia (blooming in Southern Hemisphere spring), cultivated in subtropical regions worldwide",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen subshrub with silvery-gray, narrow leaves and spikes of fragrant purple flowers that attract bees and butterflies. Mediterranean-type climates with well-drained soil suit it best.",
+      "bloomingSeason": "Early to mid summer (June to August), beginning in early June in warmer areas",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria and the Pacific Northwest of the US",
       "colors": [
-        "Orange",
-        "Yellow"
+        "purple",
+        "lavender",
+        "blue-violet"
       ],
-      "emoji": "🌺",
-      "funFact": "Silky Oak wood is valued for its strength and rich color, often used in furniture making and veneer."
+      "emoji": "💜",
+      "funFact": "Lavender has been used for over 2,500 years, and its name likely comes from the Latin 'lavare', meaning 'to wash'."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A large, fern-leaved, semi-deciduous tree that produces dense clusters of trumpet-shaped lavender-blue flowers, carpeting streets and lawns with purple petals when they fall.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in Southern California, Florida, Mexico, South Africa, Australia and the Mediterranean",
+      "colors": [
+        "lavender",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, the jacaranda is so abundant it is nicknamed the 'Jacaranda City', and in Mexico and parts of the US, falling blossoms are said to bring good luck."
     }
   ]
 }

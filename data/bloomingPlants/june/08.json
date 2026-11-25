@@ -2,64 +2,61 @@
   "date": "June 8",
   "plants": [
     {
-      "name": "Rosa chinensis",
-      "commonName": "China Rose",
-      "description": "A species of rose native to Southwest China, widely cultivated and appreciated for its continuous blooming habit and variety of colors.",
-      "bloomingSeason": "Year-round in warm climates; especially prolific from spring to late fall",
-      "location": "Cultivated worldwide, native to China, blooms year-round in subtropical to tropical regions",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "A herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with deeply lobed dark green leaves. A classic cottage garden favorite that returns reliably for decades.",
+      "bloomingSeason": "Late spring to early summer (May to June)",
+      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America and Europe",
       "colors": [
-        "red",
         "pink",
         "white",
-        "yellow"
-      ],
-      "emoji": "🌹",
-      "funFact": "The China Rose was key in developing many modern rose cultivars and is one of the few roses that bloom continuously throughout the year in frost-free areas."
-    },
-    {
-      "name": "Lupinus perennis",
-      "commonName": "Wild Lupine",
-      "description": "A wildflower native to Eastern North America, known for its tall spikes of pea-like flowers and its role as a food source for the endangered Karner blue butterfly.",
-      "bloomingSeason": "Late spring to early summer, typically May to June",
-      "location": "Eastern USA and Canada, blooming naturally in dry, sandy soils",
-      "colors": [
-        "blue",
-        "purple",
-        "white"
+        "red",
+        "coral"
       ],
       "emoji": "🌸",
-      "funFact": "Wild Lupine enriches the soil by fixing nitrogen and supports rare butterfly species."
+      "funFact": "Peonies can live and bloom for more than 50 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
     },
     {
-      "name": "Hibiscus rosa-sinensis",
-      "commonName": "Chinese Hibiscus",
-      "description": "A tropical shrub with large, showy flowers that bloom throughout the year in tropical and subtropical regions, symbolizing delicate beauty.",
-      "bloomingSeason": "Year-round in tropical climates; especially abundant in spring and summer",
-      "location": "Tropical and subtropical regions worldwide; native to East Asia",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, a compact, suckering shrub with richly scented, semi-double flowers in deep shades and bright golden stamens. It forms thickets and is the ancestor of many garden roses.",
+      "bloomingSeason": "Early summer (June to July)",
+      "location": "Southern and Central Europe east to western Asia; cultivated in temperate gardens worldwide",
       "colors": [
-        "red",
+        "crimson",
         "pink",
-        "white",
-        "yellow",
-        "orange"
+        "purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The hibiscus flower is the national flower of several countries, including Malaysia and South Korea."
+      "emoji": "🌹",
+      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally for centuries and its petals retain fragrance when dried."
     },
     {
-      "name": "Anemone coronaria",
-      "commonName": "Poppy Anemone",
-      "description": "A perennial wildflower with distinctive cup-shaped flowers, native to the Mediterranean region, blooming in late spring to early summer.",
-      "bloomingSeason": "April to June",
-      "location": "Mediterranean basin, often found in fields and rocky soils",
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "An aromatic evergreen shrub with silvery-gray, narrow foliage and slender spikes of fragrant violet-blue flowers that attract bees and butterflies. It thrives in sunny, well-drained soils.",
+      "bloomingSeason": "Early to mid summer (June to August) in the Northern Hemisphere",
+      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
       "colors": [
-        "red",
-        "blue",
+        "lavender",
         "purple",
-        "white"
+        "blue"
       ],
-      "emoji": "🌼",
-      "funFact": "These flowers inspired the red poppy symbol for remembrance but belong to a different genus."
+      "emoji": "💜",
+      "funFact": "The name comes from the Latin 'lavare', meaning to wash, as the Romans used lavender to scent their baths."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "A spreading tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In bloom it carpets streets and gardens with fallen petals.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
+      "location": "Native to South America (Argentina, Bolivia); planted in subtropical regions including California, Mexico, South Africa, and the Mediterranean",
+      "colors": [
+        "lavender",
+        "blue",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "In Pretoria, South Africa, thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
     }
   ]
 }

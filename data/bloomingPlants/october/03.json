@@ -2,65 +2,60 @@
   "date": "October 3",
   "plants": [
     {
-      "name": "Dianthus caryophyllus",
-      "commonName": "Carnation",
-      "description": "Carnations are popular garden flowers known for their fragrant, ruffled blooms. They naturally bloom in cooler fall temperatures, often into October in temperate regions. Carnations have a long history of cultivation and come in a variety of colors, celebrated for their symbolic meanings.",
-      "bloomingSeason": "Spring to Fall (peak in Fall)",
-      "location": "Temperate regions worldwide (cultivated)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn without any leaves present. The strap-shaped leaves appear in spring and die back by summer, giving rise to its nickname 'naked ladies'.",
+      "bloomingSeason": "Early to mid autumn (September to October)",
+      "location": "Europe, naturalized in parts of North America; grows in damp meadows and woodland edges",
       "colors": [
-        "Pink",
-        "Red",
-        "White",
-        "Yellow"
+        "pale pink",
+        "lilac",
+        "purple"
       ],
-      "emoji": "🌸",
-      "funFact": "The carnation is said to have appeared on Earth from the tears of the Virgin Mary in Christian legend, symbolizing love and fascination."
+      "emoji": "🌷",
+      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is used in medicine to treat gout and in plant breeding to induce polyploidy."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "Chrysanthemums are quintessential fall-blooming plants. They produce dense, showy flowers in a wide range of colors and shapes. Often blooming strongly in October, chrysanthemums brighten gardens as temperatures drop, heralding the autumn season especially in East Asia and temperate gardens globally.",
-      "bloomingSeason": "Late Summer to Late Fall",
-      "location": "East Asia and cultivated worldwide",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, robust North American perennial wildflower topped with clusters of daisy-like flowers with yellow centers. It is a crucial late-season nectar source for pollinators and migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to mid autumn (August to October)",
+      "location": "Eastern and central North America in meadows, prairies, and roadsides",
       "colors": [
-        "Yellow",
-        "Red",
-        "White",
-        "Purple",
-        "Orange"
+        "purple",
+        "violet",
+        "pink",
+        "yellow"
+      ],
+      "emoji": "💜",
+      "funFact": "New England Aster flower heads close up on cloudy days and at night, opening again with sunlight."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "A fast-growing subtropical tree with fern-like foliage that bursts into masses of trumpet-shaped lavender-blue flowers, often carpeting the ground beneath when the blossoms fall.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
+      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "colors": [
+        "lavender",
+        "blue-violet"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees that turn the streets purple each October."
+    },
+    {
+      "name": "Osmanthus fragrans",
+      "commonName": "Sweet Osmanthus",
+      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of apricots and peaches. It is commonly planted in gardens and temple grounds across East Asia.",
+      "bloomingSeason": "Autumn (September to October)",
+      "location": "Native to China and Japan; cultivated in warm temperate regions worldwide",
+      "colors": [
+        "white",
+        "pale yellow",
+        "orange"
       ],
       "emoji": "🌼",
-      "funFact": "In Japan, the chrysanthemum is a symbol of the Emperor and the Imperial family and is celebrated annually during the 'Festival of Happiness'."
-    },
-    {
-      "name": "Fuchsia magellanica",
-      "commonName": "Hardy Fuchsia",
-      "description": "This fuchsia species is notable for its bell-shaped flowers with contrasting sepals and petals. Hardy to cooler climates, it blooms into early fall and sometimes beyond, especially in mild maritime climates of the Southern Hemisphere and temperate zones.",
-      "bloomingSeason": "Summer to Early Autumn (October in Southern Hemisphere)",
-      "location": "Southern South America and cultivated in temperate gardens worldwide",
-      "colors": [
-        "Pink",
-        "Purple",
-        "Red",
-        "White"
-      ],
-      "emoji": "🌺",
-      "funFact": "Fuchsias are named after the German botanist Leonhart Fuchs and are popular with hummingbirds as their shape facilitates nectar feeding."
-    },
-    {
-      "name": "Lupinus polyphyllus",
-      "commonName": "Large-leaved Lupine",
-      "description": "Though more commonly blooming in late spring to early summer in northern regions, in milder or higher altitude areas lupines can bloom later into fall, including October. These tall spikes of vibrant flowers are important for soil nitrogen fixation and support pollinators.",
-      "bloomingSeason": "Late Spring to Early Fall (some bloom into October)",
-      "location": "Western North America, parts of Europe and cultivated worldwide",
-      "colors": [
-        "Blue",
-        "Purple",
-        "Pink",
-        "White"
-      ],
-      "emoji": "🌿",
-      "funFact": "Lupines enrich soil fertility by fixing nitrogen from the air, making them valuable in crop rotations and gardening."
+      "funFact": "Its blossoms are used in Chinese teas, pastries, and liqueurs, and are central to the Mid-Autumn Festival traditions in Guilin, a city whose name means 'forest of osmanthus'."
     }
   ]
 }
