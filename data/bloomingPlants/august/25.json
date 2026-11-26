@@ -4,57 +4,56 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, daisy-like flower head made up of yellow ray florets around a dark central disk. The heads track the sun when young. It is widely grown as an ornamental and as an oil and seed crop.",
-      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
-      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
+      "description": "Towering stalks topped with huge golden-yellow flower heads and dark, seed-packed centers, turning in unison toward the sun across fields and garden borders.",
+      "bloomingSeason": "Mid-July through late August, with some blooms lasting into September",
+      "location": "Temperate North America, Europe and Asia",
       "colors": [
-        "yellow",
-        "orange",
-        "brown",
-        "burgundy"
+        "Golden yellow",
+        "Brown",
+        "Deep burgundy"
       ],
       "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun across the sky in a behavior called heliotropism. Mature flower heads stop moving and generally face east, which helps warm them in the morning and attracts pollinators."
+      "funFact": "A sunflower head is not one flower but hundreds to thousands of tiny florets. The outer ray florets form the 'petals', and the inner disc florets each become a seed."
     },
     {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower of meadows, roadsides, and prairies that forms dense clonal colonies. It produces arching plumes of tiny golden flower heads that are an important late-season nectar source for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to fall (August to October)",
-      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
+      "description": "Dense, arching plumes of tiny golden flowers light up meadows, roadsides and old fields, buzzing with bees, butterflies and beetles.",
+      "bloomingSeason": "Late July through August, continuing into early autumn",
+      "location": "Eastern and central North America, including the Ottawa region of Canada",
       "colors": [
-        "golden yellow"
+        "Bright yellow",
+        "Gold"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and is spread by insects. The real culprit is usually ragweed, which blooms at the same time."
-    },
-    {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A bulbous perennial that sends up bare flower stalks in late summer, each topped with a cluster of crimson flowers with long, curved stamens. The strap-like leaves appear only after the flowers fade and last through winter.",
-      "bloomingSeason": "Late summer to early fall (August to October)",
-      "location": "Native to China, Korea, and Japan; widely cultivated and naturalized in the southeastern United States",
-      "colors": [
-        "red",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "In Japan this flower blooms around the autumn equinox and is called higanbana. It is often planted around rice paddies and graveyards, partly because its toxic bulbs deter rodents."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and carried by insects. The usual culprit is ragweed, which blooms at the same time."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A woody shrub with the largest flower head in the Protea genus, a bowl of pink-tipped bracts surrounding a center of fuzzy flowers. It is adapted to nutrient-poor soils and to fire in fynbos vegetation.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with peak flowering from late winter through early summer (August to November)",
-      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, Hawaii, and California",
+      "description": "The largest of all proteas, with a bowl-shaped crown of silky-tipped pink bracts around a central cluster of true flowers. It is a showpiece of the Cape's fynbos.",
+      "bloomingSeason": "Mainly winter and spring, June to October, so late August is within the peak",
+      "location": "Western and Eastern Cape fynbos, South Africa (including Kirstenbosch gardens)",
       "colors": [
-        "pink",
-        "cream",
-        "silver",
-        "rose"
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "🌸",
-      "funFact": "The king protea is the national flower of South Africa. The genus is named after Proteus, the Greek sea god who could change his shape, in reference to the many forms of protea flowers."
+      "emoji": "🌺",
+      "funFact": "It is South Africa's national flower. Its lineage is ancient, and the genus name Protea honors the Greek sea god Proteus, who could change shape, a nod to the many forms in the family."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "A small tree that erupts into clouds of fluffy, fragrant golden pom-pom flowers that brighten the southern Australian bush at the end of winter.",
+      "bloomingSeason": "Roughly July to October; August to October around Perth and in much of southeastern Australia",
+      "location": "Southeastern Australia, including South Australia, Victoria and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Golden wattle is Australia's national floral emblem. Wattle Day is celebrated on September 1, the official first day of spring."
     }
   ]
 }

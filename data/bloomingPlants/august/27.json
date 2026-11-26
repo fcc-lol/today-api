@@ -4,57 +4,43 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads composed of golden ray florets surrounding a dark central disk. Heads track the sun when young and are widely grown for seed, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
-      "location": "Native to North America; widely cultivated across Europe, Russia, Ukraine, the United States, and Argentina",
+      "description": "Towering stalks crowned with enormous golden faces that follow the sun across the sky, filling Great Plains fields and farm gardens with a blaze of yellow around a dark, seed-packed center.",
+      "bloomingSeason": "Mid-summer to early autumn, typically July through September in the Northern Hemisphere",
+      "location": "Central and eastern United States, including the Great Plains",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Deep maroon"
       ],
       "emoji": "🌻",
-      "funFact": "The sunflower head is actually made of hundreds to thousands of tiny individual flowers arranged in a Fibonacci spiral pattern."
+      "funFact": "Young sunflower buds track the sun from east to west during the day, then swing back toward the east overnight. Mature blooms stop moving and permanently face east."
     },
     {
       "name": "Calluna vulgaris",
-      "commonName": "Heather (Scotch Heather)",
-      "description": "A low evergreen shrub forming dense carpets on moorlands, covered in tiny bell-shaped flowers. It thrives in acidic, nutrient-poor soils and is a vital nectar source for bees in late summer.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Moorlands and heathlands of Scotland, northern England, Ireland, Scandinavia, and other parts of northern and western Europe",
+      "commonName": "Heather (Scots Heather)",
+      "description": "Wind-swept moorlands turn into rolling carpets of purple as countless tiny bell-shaped blooms open across the wiry, evergreen shrubs. The hills hum with foraging bees.",
+      "bloomingSeason": "Late summer into autumn, roughly August through October",
+      "location": "Moorlands and heathlands of Scotland and northern England",
       "colors": [
-        "purple",
-        "pink",
-        "lavender",
-        "white"
+        "Purple",
+        "Pink",
+        "Lilac",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Heather honey is prized for its jelly-like texture and strong flavor, and the plant was historically used for thatching, bedding, and brewing ale."
+      "funFact": "Heather honey is prized for its thick, jelly-like texture, and beekeepers often move their hives onto the moors in August to catch the bloom."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower bearing dense plumes of tiny golden flower heads. It spreads by rhizomes to form large stands in meadows, roadsides, and open fields, and attracts many pollinators in late summer.",
-      "bloomingSeason": "Late summer to fall (July to October)",
-      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Southern Australia's national floral emblem bursts into fluffy golden pom-poms that perfume the bush with a honeyed fragrance. It is a bright sign that winter is turning toward spring.",
+      "bloomingSeason": "Late winter to early spring, roughly July through September in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and insect-carried; the real culprit is usually ragweed blooming at the same time."
-    },
-    {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "A striking evergreen shrub with large, crimson, dome-shaped flower heads surrounded by red bracts. It grows in sandy soils of sclerophyll forests and is the floral emblem of New South Wales.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November)",
-      "location": "Sandstone areas around Sydney and the Blue Mountains, New South Wales, Australia",
-      "colors": [
-        "crimson",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Its name comes from the Greek 'telopos' meaning 'seen from afar,' and the flower heads are made of hundreds of tiny individual flowers that are pollinated by birds."
+      "funFact": "Australians celebrate National Wattle Day on September 1, and the golden wattle's green and gold colors inspired the country's national sporting colors."
     }
   ]
 }

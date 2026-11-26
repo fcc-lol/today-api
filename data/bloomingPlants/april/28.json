@@ -4,71 +4,46 @@
     {
       "name": "Wisteria sinensis",
       "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces dramatic pendulous clusters of fragrant, pea-like flowers before or as its leaves emerge. Widely trained over pergolas, arbors, and walls in gardens.",
-      "bloomingSeason": "Mid-spring to early summer (April to May in the Northern Hemisphere)",
-      "location": "Native to China; widely cultivated in temperate regions of Europe, North America, and East Asia",
+      "description": "Cascading chains of fragrant, pea-like flowers hang from twisting woody vines. They drape pergolas, walls and old trees in a haze of lilac-purple, and the scent drifts on warm spring air.",
+      "bloomingSeason": "Mid to late spring (typically April to May in the Northern Hemisphere)",
+      "location": "Native to China; widely grown in gardens across temperate Asia, Europe and North America",
       "colors": [
         "Lavender",
-        "Purple",
-        "Violet"
-      ],
-      "emoji": "🪻",
-      "funFact": "Wisteria vines can live for over a century and some specimens, like one in Sierra Madre, California, cover more than an acre. Chinese wisteria twines counterclockwise, while Japanese wisteria twines clockwise."
-    },
-    {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub that bears dense, cone-shaped clusters of intensely fragrant flowers. It thrives in regions with cold winters and is a classic cottage garden favorite.",
-      "bloomingSeason": "Late April to May in cool temperate Northern Hemisphere regions",
-      "location": "Native to the Balkan Peninsula; cultivated across northern Europe, the northeastern United States, and Canada",
-      "colors": [
-        "Purple",
-        "Lilac",
-        "White",
-        "Pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Lilacs belong to the olive family (Oleaceae), and the flowers are edible, with a floral, slightly citrusy taste that is sometimes used in syrups and baked goods."
-    },
-    {
-      "name": "Cornus florida",
-      "commonName": "Flowering Dogwood",
-      "description": "A small deciduous understory tree whose showy 'flowers' are actually four large white or pink bracts surrounding a cluster of tiny greenish-yellow true flowers. It lights up woodland edges in spring.",
-      "bloomingSeason": "Mid-April to mid-May, peaking around late April in the southeastern and mid-Atlantic United States",
-      "location": "Eastern North America, from southern Ontario to Florida and west to eastern Texas",
-      "colors": [
-        "White",
-        "Pink",
-        "Pale green"
-      ],
-      "emoji": "🌼",
-      "funFact": "The bright red fruits of the dogwood are an important food source for songbirds, and the tree is the state tree of Virginia and Missouri and the state flower of Virginia and North Carolina."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "Not in peak bloom in April in most of the world, so this entry highlights a different Southern Hemisphere autumn bloomer: this species is replaced here by Nerine's relative below.",
-      "bloomingSeason": "Placeholder",
-      "location": "Placeholder",
-      "colors": [
+        "Violet",
         "Purple"
       ],
-      "emoji": "🌳",
-      "funFact": "Placeholder"
+      "emoji": "🌸",
+      "funFact": "Wisteria vines twine in a set direction. Chinese wisteria climbs counterclockwise, while Japanese wisteria climbs clockwise. Vines can live for well over a century."
     },
     {
-      "name": "Nerine sarniensis",
-      "commonName": "Guernsey Lily",
-      "description": "A bulbous perennial that produces umbels of shimmering, wavy-petaled flowers on bare stalks. In the Southern Hemisphere it flowers in the autumn season, while the foliage emerges afterward.",
-      "bloomingSeason": "Autumn (March to May in the Southern Hemisphere)",
-      "location": "Native to the Western Cape of South Africa; grown in Mediterranean-climate gardens worldwide",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Cup-shaped blooms stand upright on sturdy stems and come in a wide range of colors and petal shapes. Tulip fields in full bloom look like stripes of bright color laid across the countryside.",
+      "bloomingSeason": "Mid to late spring (peaking in April and into early May in the Netherlands)",
+      "location": "Netherlands, especially the bulb-growing region near Lisse, and temperate gardens across the Northern Hemisphere",
       "colors": [
         "Red",
+        "Yellow",
         "Pink",
-        "Orange"
+        "Orange",
+        "White",
+        "Purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The petals have a glittering, jewel-like sheen due to specialized epidermal cells, which gives the flowers a sparkling look in sunlight."
+      "emoji": "🌷",
+      "funFact": "In 17th-century Holland, tulip bulbs became so valuable that some sold for more than the price of a canal house during the 'tulip mania' boom."
+    },
+    {
+      "name": "Quercus robur",
+      "commonName": "English Oak",
+      "description": "The oak's spring flowers are easy to overlook. Slender, pale-green catkins dangle among the unfurling leaves, and tiny female flowers sit on the twigs. Together they signal the start of the oak's annual cycle.",
+      "bloomingSeason": "Late April to May",
+      "location": "Woodlands, hedgerows and parkland across Europe, including the British Isles",
+      "colors": [
+        "Yellow-green",
+        "Pale green"
+      ],
+      "emoji": "🌳",
+      "funFact": "Oaks are wind-pollinated. A single mature tree can release millions of pollen grains, and only a few will reach a female flower."
     }
   ]
 }

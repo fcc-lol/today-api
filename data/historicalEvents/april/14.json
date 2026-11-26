@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1865,
-      "title": "Assassination of Abraham Lincoln",
-      "description": "President Abraham Lincoln was shot by John Wilkes Booth while attending a performance of Our American Cousin at Ford's Theatre in Washington, D.C. He died the following morning, April 15.",
-      "category": "Politics",
-      "significance": "Lincoln's death, days after the Confederate surrender at Appomattox, was the first assassination of a U.S. president and profoundly shaped Reconstruction and the post-Civil War nation."
+      "title": "Abraham Lincoln Is Shot at Ford's Theatre",
+      "description": "While attending a play at Ford's Theatre in Washington, D.C., President Abraham Lincoln was shot by actor John Wilkes Booth. He died the following morning.",
+      "category": "Death / Assassination",
+      "significance": "Lincoln was the first U.S. president to be assassinated. His death, days after the Civil War effectively ended, changed the course of Reconstruction."
     },
     {
       "year": 1912,
       "title": "RMS Titanic Strikes an Iceberg",
-      "description": "At 11:40 p.m. ship's time, the British ocean liner RMS Titanic struck an iceberg in the North Atlantic on her maiden voyage from Southampton to New York. She sank in the early hours of April 15, with more than 1,500 lives lost.",
+      "description": "Late on the night of April 14, the luxury liner RMS Titanic hit an iceberg in the North Atlantic off Newfoundland on her maiden voyage. She sank in the early hours of April 15.",
       "category": "Disaster",
-      "significance": "The tragedy led to major reforms in maritime safety, including the International Convention for the Safety of Life at Sea, requirements for sufficient lifeboats, and continuous radio watch."
-    },
-    {
-      "year": 1828,
-      "title": "Noah Webster Publishes the American Dictionary of the English Language",
-      "description": "Noah Webster published his landmark two-volume dictionary containing about 70,000 entries, with distinctly American spellings and usages.",
-      "category": "Culture",
-      "significance": "The dictionary helped standardize American English and established the Webster name as a lasting authority on language."
+      "significance": "The sinking killed more than 1,500 people. It led to major reforms in maritime safety, including lifeboat requirements and round-the-clock radio watches."
     },
     {
       "year": 1935,
-      "title": "Black Sunday Dust Storm",
-      "description": "A massive dust storm swept across the Great Plains of the United States, carrying topsoil in huge black clouds over Oklahoma, Texas, Kansas, and neighboring states during the Dust Bowl.",
-      "category": "Environment",
-      "significance": "Black Sunday became a symbol of the Dust Bowl disaster, drawing national attention to soil erosion and leading to federal soil conservation efforts."
+      "title": "Black Sunday Dust Storm Hits the Great Plains",
+      "description": "A huge dust storm swept across the U.S. Midwest and Southern Plains. It darkened the skies and buried farms in drifting dirt during the Dust Bowl years.",
+      "category": "Natural Disaster / Environment",
+      "significance": "The event brought national attention to the Dust Bowl crisis. It helped spur federal soil conservation efforts."
     },
     {
-      "year": 1990,
-      "title": "Prime Minister Hun Sen era milestone: Not applicable",
-      "description": "Replaced entry placeholder: On this date in 1894, Kinetoscope parlors opened to the public; the first commercial showing of Edison's motion picture device took place at 1155 Broadway, New York City.",
-      "category": "Technology",
-      "significance": "The public Kinetoscope exhibition marked an early step in the commercialization of motion pictures and the birth of the film industry."
+      "year": 1981,
+      "title": "Space Shuttle Columbia Returns from Its First Flight",
+      "description": "Columbia, the first Space Shuttle, landed after its maiden orbital mission, which lasted about two days.",
+      "category": "Science / Space Exploration",
+      "significance": "It proved that a reusable, winged spacecraft could fly into orbit and return to land. That opened a new era of human spaceflight."
     }
   ]
 }

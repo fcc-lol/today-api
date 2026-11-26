@@ -2,39 +2,32 @@
   "date": "August 10",
   "events": [
     {
+      "year": 1519,
+      "title": "Magellan's Fleet Sets Sail from Seville",
+      "description": "Ferdinand Magellan led five ships out of Seville. They were bound for the Spice Islands by a western route. Magellan was killed in the Philippines in 1521. Juan Sebastián Elcano took command and brought the expedition home.",
+      "category": "Exploration",
+      "significance": "The voyage became the first circumnavigation of the globe. It proved the world could be sailed around and changed how people understood its size."
+    },
+    {
       "year": 1792,
       "title": "Storming of the Tuileries Palace",
-      "description": "Revolutionary crowds and the Paris National Guard, joined by federalist volunteers, attacked the Tuileries Palace in Paris. King Louis XVI and his family were forced to take refuge with the Legislative Assembly, which suspended the monarchy.",
-      "category": "Politics and Revolution",
-      "significance": "The event effectively ended the French monarchy and paved the way for the proclamation of the First French Republic in September 1792 and the radical phase of the French Revolution."
+      "description": "A Parisian crowd and revolutionary militia attacked the Tuileries Palace during the French Revolution. King Louis XVI was taken into custody and his Swiss Guards were massacred.",
+      "category": "Politics",
+      "significance": "The attack effectively ended the French monarchy. It led to the establishment of the First French Republic."
     },
     {
       "year": 1821,
-      "title": "Missouri Admitted as the 24th U.S. State",
-      "description": "Missouri became the 24th state of the United States after the Missouri Compromise of 1820 resolved a bitter dispute over the expansion of slavery into new territories.",
-      "category": "Politics and Government",
-      "significance": "Missouri entered as a slave state, balanced by Maine as a free state, which temporarily preserved the sectional balance in the Senate while foreshadowing the conflicts that led to the American Civil War."
+      "title": "Missouri Becomes the 24th U.S. State",
+      "description": "Missouri was admitted to the Union after the Missouri Compromise debates. The compromise allowed it in as a slave state and Maine in as a free state.",
+      "category": "Politics",
+      "significance": "Missouri's admission was a key moment in the national struggle over slavery. It also opened the way for westward expansion."
     },
     {
       "year": 1846,
-      "title": "Smithsonian Institution Established",
-      "description": "President James K. Polk signed the act of Congress founding the Smithsonian Institution in Washington, D.C., funded by a bequest from British scientist James Smithson.",
+      "title": "Smithsonian Institution Is Chartered",
+      "description": "President James K. Polk signed the act creating the Smithsonian Institution. The act used a bequest from British scientist James Smithson, who had never visited the United States.",
       "category": "Science and Culture",
-      "significance": "The Smithsonian grew into the world's largest museum, education, and research complex, playing a major role in preserving cultural heritage and advancing scientific knowledge."
-    },
-    {
-      "year": 1945,
-      "title": "Japan Offers to Surrender Under the Potsdam Declaration",
-      "description": "After the atomic bombings of Hiroshima and Nagasaki and the Soviet entry into the war, Japan communicated its willingness to accept the Potsdam Declaration on the condition that the position of the Emperor be preserved.",
-      "category": "War and Conflict",
-      "significance": "This diplomatic step led directly to Japan's formal surrender announced on August 15, 1945, bringing World War II to an end."
-    },
-    {
-      "year": 1993,
-      "title": "Ruth Bader Ginsburg Sworn In as U.S. Supreme Court Justice",
-      "description": "Ruth Bader Ginsburg took the oath of office as an Associate Justice of the Supreme Court of the United States, becoming the second woman to serve on the Court after Sandra Day O'Connor.",
-      "category": "Law and Society",
-      "significance": "Ginsburg became a leading voice on gender equality and civil rights, and a prominent figure in American law and culture until her death in 2020."
+      "significance": "The Smithsonian grew into the world's largest museum and research complex. It is a national center for education, science, and culture."
     }
   ]
 }

@@ -2,61 +2,46 @@
   "date": "April 29",
   "plants": [
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces dramatic cascading clusters of fragrant, pea-like flowers. It can twine over pergolas, walls, and trees, and its blooms appear before or alongside the emerging leaves.",
-      "bloomingSeason": "Mid-spring (April to May in the Northern Hemisphere)",
-      "location": "Native to China; widely cultivated in temperate gardens across Europe, Japan, and North America",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Before its heart-shaped leaves unfurl, the bare branches and even the trunk erupt in clusters of tiny magenta-pink, pea-like blossoms. The effect is a hazy pink cloud drifting through woodland edges and suburban streets, and it is a favorite of early-season bees.",
+      "bloomingSeason": "Early to mid spring, typically April, lasting 2-3 weeks (later at cooler, northern or higher-elevation sites)",
+      "location": "Eastern and central United States, from the Midwest to the Appalachians",
       "colors": [
-        "Lavender",
-        "Violet",
-        "Purple"
-      ],
-      "emoji": "🪻",
-      "funFact": "Wisteria vines can live for over a century, and some famous specimens, like the one in Sierra Madre, California, cover more than an acre."
-    },
-    {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green foliage. Late-season varieties are at their peak in late April, filling parks and fields with bands of color.",
-      "bloomingSeason": "Mid to late spring (April to early May)",
-      "location": "Cultivated worldwide; famous displays in the Netherlands, Turkey, and the Skagit Valley in Washington, USA",
-      "colors": [
-        "Red",
-        "Yellow",
-        "Pink",
-        "Purple",
-        "White",
-        "Orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "During the 1630s Dutch Tulip Mania, a single rare bulb could sell for more than the price of a luxurious canal house."
-    },
-    {
-      "name": "Cornus florida",
-      "commonName": "Flowering Dogwood",
-      "description": "A small deciduous tree whose showy display comes from four large petal-like bracts surrounding a tight cluster of tiny true flowers. It lights up woodland edges and suburban yards in the eastern United States.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "Eastern North America, from southern Ontario to Florida and west to Texas",
-      "colors": [
-        "White",
-        "Pink"
+        "Magenta-pink",
+        "Rose",
+        "Lavender-pink"
       ],
       "emoji": "🌸",
-      "funFact": "The bright red berries that follow the bloom are an important autumn food source for songbirds and other wildlife."
+      "funFact": "Redbud flowers grow directly from old wood, a trait called cauliflory, and they are edible. They have a mild, slightly tangy flavor and are sometimes tossed into salads."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A graceful semi-deciduous tree with fern-like leaves that bursts into masses of trumpet-shaped purple-blue flowers. In the Southern Hemisphere it is finishing its autumn-to-spring cycle, while in the tropics and subtropics some trees bloom in spring.",
-      "bloomingSeason": "Spring in the Northern Hemisphere subtropics (April to June); late spring in South America's northern ranges",
-      "location": "Native to South America (Argentina, Bolivia); cultivated in Mexico, Southern California, Florida, and parts of Asia",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "This vigorous twining vine drapes pergolas, walls and tree branches with long, fragrant, hanging clusters of violet-blue flowers. In full bloom, the cascading racemes look like purple waterfalls, and the scent is sweet and grape-like.",
+      "bloomingSeason": "Spring, April to May",
+      "location": "Native to China; widely grown and naturalized across the eastern United States and temperate gardens worldwide",
       "colors": [
-        "Blue-violet",
-        "Purple"
+        "Violet",
+        "Lavender",
+        "Blue-purple"
       ],
       "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
+      "funFact": "Chinese wisteria twines counterclockwise, while Japanese wisteria twines clockwise. That makes the direction of the vine a quick way to tell the two apart. Mature vines can be strong enough to crush wooden structures."
+    },
+    {
+      "name": "Camassia quamash",
+      "commonName": "Common Camas",
+      "description": "Spikes of star-shaped, deep blue-violet flowers rise above grassy meadows and damp woodland edges. Together they look like a pool of blue water rippling through the grass.",
+      "bloomingSeason": "Late April through May, and sometimes into June in cool weather",
+      "location": "Native to western North America (Pacific Northwest meadows); popular in cottage gardens and meadow plantings in Britain and Europe",
+      "colors": [
+        "Deep blue",
+        "Violet",
+        "Pale blue"
+      ],
+      "emoji": "💙",
+      "funFact": "The bulbs were a staple food for many Indigenous peoples of western North America. They were slow-roasted in earth ovens until sweet and soft, and they remain culturally important today."
     }
   ]
 }

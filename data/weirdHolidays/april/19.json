@@ -2,44 +2,28 @@
   "date": "April 19",
   "holidays": [
     {
-      "name": "Garlic Day",
-      "description": "A pungent celebration of the stinking rose, in which garlic lovers add extra cloves to everything from pasta to ice cream and happily sacrifice their breath for flavor.",
-      "origin": "National Garlic Day is an unofficial food observance, held on April 19 in the United States and on November 19 in some other lists. It was created by food enthusiasts and garlic promoters to celebrate the bulb's culinary and cultural value.",
-      "category": "Food Day",
+      "name": "National Hanging Out Day",
+      "description": "A salute to the humble clothesline. People are encouraged to skip the electric dryer and let their laundry flap in the breeze. The day is meant to show that sunshine and fresh air do a fine job of drying clothes, and that sheets can smell like a spring meadow.",
+      "origin": "The day was promoted by Project Laundry List, an advocacy group founded by Alexander Lee. It campaigns for the right to air-dry clothes and for energy-saving habits.",
+      "category": "Eco-Friendly / Lifestyle",
+      "emoji": "🧺",
+      "funFact": "Some neighborhoods and homeowners' associations in the U.S. have restricted outdoor clotheslines, which sparked 'right to dry' laws in several states."
+    },
+    {
+      "name": "National Garlic Day",
+      "description": "A day for people who think every dish needs more garlic. Roast it, mash it into butter, or toss it on pizza. Just share the breath with fellow garlic lovers.",
+      "origin": "This is an unofficial food observance of unclear origin. It is popular with foodies and garlic fans.",
+      "category": "Food",
       "emoji": "🧄",
-      "funFact": "Garlic is related to onions, leeks, and chives. In ancient Egypt, garlic was reportedly given to the laborers who built the pyramids to keep them strong and healthy."
+      "funFact": "Garlic is a relative of onions, leeks and chives. It has been cultivated for thousands of years, and ancient Egyptian records mention it."
     },
     {
       "name": "Bicycle Day",
-      "description": "A psychedelic-tinged observance of the world's most famous bike ride, taken while the rider was in the middle of a very unusual chemistry experiment.",
-      "origin": "On April 19, 1943, Swiss chemist Albert Hofmann deliberately took LSD, which he had first synthesized in 1938, then rode his bicycle home from his lab in Basel as the effects came on. Counterculture communities began marking the date as Bicycle Day.",
+      "description": "A day that marks one of the most famous bike rides in science history. Swiss chemist Albert Hofmann pedaled home through Basel after an unexpected experience with a compound he had synthesized, and the ride became a legend in pop culture and the history of science.",
+      "origin": "On April 19, 1943, Hofmann deliberately took LSD for the first time in his laboratory. Wartime restrictions meant he cycled home, and the date has been remembered as Bicycle Day ever since.",
       "category": "Pop Culture / Science History",
       "emoji": "🚲",
-      "funFact": "Hofmann had accidentally absorbed a tiny amount of LSD a few days earlier, which is what made him curious enough to run the deliberate self-experiment. He lived to be 102 years old."
-    },
-    {
-      "name": "Hanging Out Day",
-      "description": "A day dedicated to hanging out clothes on the line to dry, in honor of fresh air, energy savings, and the lost art of the clothespin.",
-      "origin": "National Hanging Out Day was created in 1995 by Project Laundry List, an environmental group founded by Alexander Lee, to promote using clotheslines instead of electric dryers and to encourage people to push back against bans on outdoor drying.",
-      "category": "Environmental Awareness",
-      "emoji": "👕",
-      "funFact": "Some American neighborhoods and homeowner associations have banned outdoor clotheslines, which spurred the 'right to dry' movement, and several states have passed laws protecting the practice."
-    },
-    {
-      "name": "Amaretto Day",
-      "description": "A sweet salute to the almond-flavored Italian liqueur, perfect for sipping, baking into desserts, or splashing into coffee.",
-      "origin": "An informal food and drink observance created by fans of the liqueur. Amaretto traces its roots to Saronno, Italy, with a legend dating back to 1525, involving a painter and an innkeeper who gave him an almond-flavored gift.",
-      "category": "Food & Drink Day",
-      "emoji": "🥃",
-      "funFact": "Many amaretto liqueurs are not made from almonds at all but from apricot kernels, which give a similar marzipan-like flavor. 'Amaretto' means 'a little bitter' in Italian."
-    },
-    {
-      "name": "Primrose Day",
-      "description": "A floral British observance in which admirers leave pale yellow primroses at the statue of a famous prime minister, because apparently flowers are the way to honor politicians.",
-      "origin": "Primrose Day began in 1882, a year after the death of British Prime Minister Benjamin Disraeli on April 19, 1881. Queen Victoria sent primroses to his funeral, reportedly calling them his favorite flower, and the Primrose League was later founded to honor his memory.",
-      "category": "Historical Observance",
-      "emoji": "🌼",
-      "funFact": "Disraeli's statue in Parliament Square in London used to be covered in primroses each April 19. The Primrose League grew to have more than a million members at its peak."
+      "funFact": "Hofmann had first synthesized LSD in 1938. He only discovered its effects in 1943, after he accidentally absorbed a tiny amount a few days before the bike ride."
     }
   ]
 }
