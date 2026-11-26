@@ -2,39 +2,39 @@
   "date": "August 29",
   "events": [
     {
+      "year": 1475,
+      "title": "Treaty of Picquigny Ends the Hundred Years' War",
+      "description": "England's Edward IV and France's Louis XI agreed to the Treaty of Picquigny. It formally ended the long conflict between the two kingdoms. Under the deal, Edward withdrew his army from France in return for a large payment and an annual pension.",
+      "category": "Politics/War",
+      "significance": "The treaty closed the final chapter of the Hundred Years' War. It marked the end of England's large-scale attempts to conquer France."
+    },
+    {
       "year": 1526,
-      "title": "Battle of Mohács",
-      "description": "Ottoman forces under Suleiman the Magnificent decisively defeated the Hungarian army of King Louis II at Mohács. Louis II died fleeing the battlefield, leaving the Hungarian throne vacant.",
-      "category": "Military",
-      "significance": "The defeat ended Hungary's independence as a major kingdom, led to its partition among the Ottoman Empire, the Habsburgs and Transylvania, and shifted the balance of power in Central Europe."
+      "title": "Louis II of Hungary Dies After the Battle of Mohács",
+      "description": "Louis II, the last Jagiellonian king of Hungary and Bohemia, died after his army was crushed by Ottoman forces led by Suleiman the Magnificent. He was still a young man when he fell.",
+      "category": "Death/War",
+      "significance": "The defeat shattered the medieval Kingdom of Hungary. It opened the way for Ottoman expansion in Central Europe and for Habsburg rule over Hungary and Bohemia."
     },
     {
       "year": 1831,
-      "title": "Michael Faraday Demonstrates Electromagnetic Induction",
-      "description": "On August 29, 1831, Michael Faraday conducted his first successful experiment showing electromagnetic induction, using an iron ring wound with two coils of wire to produce a transient current in one coil when current in the other changed.",
+      "title": "Faraday Discovers Electromagnetic Induction",
+      "description": "The English scientist Michael Faraday showed that changing a magnetic field can produce an electric current in a nearby circuit. He did this in experiments at the Royal Institution in London.",
       "category": "Science",
-      "significance": "The discovery of electromagnetic induction became the foundation for electric generators, transformers and motors, underpinning modern electrical power technology."
+      "significance": "The discovery of electromagnetic induction is the basis of electric generators and transformers. It underpins modern power generation."
     },
     {
-      "year": 1949,
-      "title": "First Soviet Atomic Bomb Test (RDS-1)",
-      "description": "The Soviet Union detonated its first nuclear weapon, code-named RDS-1 (called 'Joe-1' by the West), at the Semipalatinsk test site in Kazakhstan.",
-      "category": "Science and Technology",
-      "significance": "The test ended the United States' nuclear monopoly and accelerated the Cold War nuclear arms race."
+      "year": 1842,
+      "title": "Treaty of Nanking Ends the First Opium War",
+      "description": "Representatives of Britain and Qing China signed the Treaty of Nanking aboard a British warship. China ceded Hong Kong Island to Britain and opened five ports to foreign trade. It also agreed to pay an indemnity.",
+      "category": "Politics/War",
+      "significance": "The treaty is often seen as the start of China's \"century of humiliation\". It set the pattern for later unequal treaties between China and Western powers."
     },
     {
-      "year": 2005,
-      "title": "Hurricane Katrina Makes Landfall in Louisiana",
-      "description": "Hurricane Katrina struck the U.S. Gulf Coast as a Category 3 storm near Buras-Triumph, Louisiana, causing catastrophic flooding in New Orleans after levee failures. The disaster killed more than 1,800 people and displaced hundreds of thousands.",
-      "category": "Natural Disaster",
-      "significance": "Katrina was among the costliest and deadliest U.S. hurricanes, exposing failures in infrastructure and emergency response and prompting major reforms in disaster management and flood protection."
-    },
-    {
-      "year": 1958,
-      "title": "Birth of Michael Jackson",
-      "description": "Michael Jackson, American singer, songwriter and dancer, was born in Gary, Indiana. He rose to fame with the Jackson 5 before becoming a global solo superstar with albums such as Off the Wall, Thriller and Bad.",
-      "category": "Birth",
-      "significance": "Known as the 'King of Pop,' Jackson transformed popular music, music videos and live performance, and Thriller remains one of the best-selling albums of all time."
+      "year": 1885,
+      "title": "Daimler Patents the First Motorcycle",
+      "description": "German engineer Gottlieb Daimler patented a wooden-framed two-wheeled vehicle powered by a small internal combustion engine. It is regarded as the world's first motorcycle.",
+      "category": "Technology",
+      "significance": "The machine showed that compact gasoline engines could power personal transport. It was an early step toward both motorcycles and automobiles."
     }
   ]
 }

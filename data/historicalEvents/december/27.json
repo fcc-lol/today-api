@@ -2,39 +2,32 @@
   "date": "December 27",
   "events": [
     {
+      "year": 537,
+      "title": "Hagia Sophia Is Consecrated",
+      "description": "Emperor Justinian I presided over the dedication of the rebuilt Hagia Sophia in Constantinople. The great domed cathedral had been finished in under six years, after the earlier church burned down during the Nika riots.",
+      "category": "Milestone",
+      "significance": "The building changed the course of architecture with its enormous dome. It served as a cathedral, a mosque and a museum, and it remains one of the world's most recognizable landmarks."
+    },
+    {
       "year": 1831,
-      "title": "HMS Beagle Departs on Darwin's Voyage",
-      "description": "After earlier delays and a false start, HMS Beagle set sail from Plymouth, England, on its second survey expedition under Captain Robert FitzRoy, with the young naturalist Charles Darwin aboard.",
-      "category": "Science and Exploration",
-      "significance": "The five-year voyage gave Darwin the observations of geology, fossils, and wildlife, especially in the Galapagos Islands, that led to his theory of evolution by natural selection and the 1859 publication of On the Origin of Species."
+      "title": "Charles Darwin Sets Sail on HMS Beagle",
+      "description": "The young naturalist Charles Darwin left Plymouth aboard HMS Beagle on a survey expedition that circled the globe. The voyage lasted almost five years.",
+      "category": "Science",
+      "significance": "Darwin's observations of wildlife and geology on the voyage, especially in the Galápagos Islands, shaped his later theory of evolution by natural selection."
     },
     {
-      "year": 1571,
-      "title": "Birth of Johannes Kepler",
-      "description": "Johannes Kepler was born in the Free Imperial City of Weil der Stadt in the Holy Roman Empire. He became a mathematician and astronomer who worked with Tycho Brahe's observational data.",
-      "category": "Birth",
-      "significance": "Kepler formulated the three laws of planetary motion, which described the elliptical orbits of planets and later provided a foundation for Isaac Newton's law of universal gravitation."
-    },
-    {
-      "year": 1945,
-      "title": "Founding of the IMF and World Bank",
-      "description": "The Articles of Agreement of the International Monetary Fund and the International Bank for Reconstruction and Development, agreed at the 1944 Bretton Woods Conference, came into force after 29 countries ratified them.",
-      "category": "Economics and Politics",
-      "significance": "These institutions became pillars of the postwar international financial system, shaping global monetary cooperation, reconstruction, and development lending for decades."
-    },
-    {
-      "year": 1949,
-      "title": "Netherlands Transfers Sovereignty to Indonesia",
-      "description": "After a four-year independence struggle and negotiations at the Round Table Conference in The Hague, the Netherlands formally recognized Indonesian sovereignty in a ceremony in Amsterdam.",
-      "category": "Politics and Decolonization",
-      "significance": "The transfer ended centuries of Dutch colonial rule in the East Indies and marked a major milestone in the postwar wave of decolonization in Asia."
+      "year": 1968,
+      "title": "Apollo 8 Splashes Down",
+      "description": "Frank Borman, Jim Lovell and William Anders returned safely to Earth. They splashed down in the Pacific Ocean after the first crewed mission to orbit the Moon.",
+      "category": "Space Exploration",
+      "significance": "The mission showed that humans could travel to the Moon and return. It also produced the famous 'Earthrise' photograph, and it paved the way for the Apollo 11 landing in 1969."
     },
     {
       "year": 1979,
-      "title": "Soviet Forces Storm Kabul Palace and Install Babrak Karmal",
-      "description": "Soviet special forces stormed Tajbeg Palace in Kabul, killing Afghan President Hafizullah Amin, and the Soviets installed Babrak Karmal as the new leader during the early stage of their invasion of Afghanistan.",
-      "category": "War and Politics",
-      "significance": "The operation escalated the Soviet-Afghan War, which lasted nearly a decade, strained Cold War relations, and contributed to the later decline of the Soviet Union and the rise of militant movements in the region."
+      "title": "Soviet Forces Seize Control in Afghanistan",
+      "description": "Soviet troops moved into Kabul. President Hafizullah Amin was ousted and killed in a coup backed by Moscow.",
+      "category": "Politics and War",
+      "significance": "The coup began a Soviet–Afghan war that lasted more than a decade. The war reshaped Cold War politics and left lasting effects on Afghanistan and the wider region."
     }
   ]
 }

@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 79,
-      "title": "Eruption of Mount Vesuvius",
-      "description": "According to the traditional date, Mount Vesuvius erupted and buried the Roman cities of Pompeii and Herculaneum under volcanic ash and pumice, killing thousands of residents. Recent archaeological evidence suggests the eruption may have occurred later in the autumn.",
-      "category": "Natural Disaster",
-      "significance": "The eruption preserved Pompeii and Herculaneum almost intact, giving historians and archaeologists an unparalleled window into daily life in the Roman Empire and founding the modern study of volcanology."
+      "title": "Mount Vesuvius Buries Pompeii and Herculaneum",
+      "description": "According to the traditional date, Vesuvius erupted violently and buried the Roman towns of Pompeii and Herculaneum under ash and volcanic debris. Thousands of people died, and the cities lay hidden for centuries.",
+      "category": "Natural disaster",
+      "significance": "The buried cities were preserved in remarkable detail. Their excavation gave us an unmatched view of everyday life in the Roman world."
     },
     {
       "year": 1572,
       "title": "St. Bartholomew's Day Massacre Begins",
-      "description": "In Paris, Catholic mobs and soldiers began killing French Huguenots (Protestants) days after the wedding of Henry of Navarre and Margaret of Valois. The violence spread to other French cities and continued for weeks, killing thousands.",
-      "category": "Religious Violence",
-      "significance": "The massacre deepened the French Wars of Religion and became a lasting symbol of religious intolerance and the dangers of sectarian conflict in Europe."
+      "description": "In Paris, Catholic mobs and royal forces began killing Huguenot (French Protestant) leaders and followers. The violence spread to other French cities over the following weeks.",
+      "category": "Religion and conflict",
+      "significance": "It was one of the deadliest episodes of the French Wars of Religion. It deepened the divide between Catholics and Protestants in France for a generation."
     },
     {
       "year": 1814,
-      "title": "British Burn Washington, D.C.",
-      "description": "During the War of 1812, British forces defeated American troops at the Battle of Bladensburg and entered Washington, D.C., burning the Capitol, the White House, and other public buildings in retaliation for the American burning of York (Toronto) in 1813.",
-      "category": "Military",
-      "significance": "It was the only time a foreign power has captured and occupied the U.S. capital, and the event spurred American resolve that contributed to the successful defense of Baltimore and the writing of The Star-Spangled Banner."
-    },
-    {
-      "year": 1991,
-      "title": "Ukraine Declares Independence from the Soviet Union",
-      "description": "Following the failed hardline coup in Moscow, the Ukrainian parliament adopted the Act of Independence of Ukraine, declaring the country independent of the USSR. A national referendum on December 1 overwhelmingly confirmed it.",
-      "category": "Politics",
-      "significance": "Ukraine's independence was a decisive step in the dissolution of the Soviet Union, which formally ended in December 1991, and reshaped the political map of Eastern Europe."
+      "title": "British Forces Burn Washington",
+      "description": "During the War of 1812, British troops captured Washington, D.C., and set fire to public buildings, including the Capitol and the White House.",
+      "category": "War",
+      "significance": "It was the only time a foreign power has captured and occupied the U.S. capital. The attack became a lasting symbol of the war's low point for the young republic."
     },
     {
       "year": 2006,
-      "title": "Pluto Reclassified as a Dwarf Planet",
-      "description": "The International Astronomical Union voted at its General Assembly in Prague to adopt a formal definition of a planet, which excluded Pluto and reclassified it as a dwarf planet.",
+      "title": "Pluto Is Reclassified as a Dwarf Planet",
+      "description": "The International Astronomical Union voted to adopt a formal definition of \"planet\". Under it, Pluto no longer qualified and was designated a dwarf planet.",
       "category": "Science",
-      "significance": "The decision changed the official count of planets in the Solar System from nine to eight and sparked widespread public debate about how scientific categories are defined."
+      "significance": "The decision reshaped how we classify the solar system. It also sparked a public debate that continues today."
     }
   ]
 }

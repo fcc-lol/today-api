@@ -2,39 +2,39 @@
   "date": "December 30",
   "events": [
     {
-      "year": 1922,
-      "title": "Formation of the Soviet Union",
-      "description": "The First Congress of Soviets in Moscow ratified the treaty creating the Union of Soviet Socialist Republics, uniting the Russian, Ukrainian, Belarusian, and Transcaucasian Soviet republics into a single federal state.",
-      "category": "Politics",
-      "significance": "The USSR became one of the world's two superpowers, shaping global politics, the Second World War, and the Cold War until its dissolution in 1991."
-    },
-    {
-      "year": 1865,
-      "title": "Birth of Rudyard Kipling",
-      "description": "Rudyard Kipling, the English novelist and poet, was born in Bombay, British India. He later wrote The Jungle Book, Kim, and the poem 'If—'.",
-      "category": "Birth",
-      "significance": "Kipling became one of the most popular writers of the British Empire and in 1907 became the first English-language writer to receive the Nobel Prize in Literature."
+      "year": 1066,
+      "title": "Granada Massacre",
+      "description": "A mob stormed the royal palace in Granada, killed the Jewish vizier Joseph ibn Naghrela, and slaughtered much of the city's Jewish population.",
+      "category": "Event",
+      "significance": "It was one of the deadliest episodes of anti-Jewish violence in medieval Iberia. It also marked the end of a period of notable Jewish influence in the Taifa of Granada."
     },
     {
       "year": 1853,
       "title": "Gadsden Purchase Signed",
-      "description": "The United States signed an agreement with Mexico to buy about 29,670 square miles of land in present-day southern Arizona and New Mexico, negotiated by James Gadsden.",
-      "category": "Politics",
-      "significance": "The purchase established the final continental borders of the contiguous United States and provided a southern route for a transcontinental railroad."
+      "description": "U.S. ambassador James Gadsden signed a treaty with Mexico. It transferred roughly 30,000 square miles of land in what is now southern Arizona and New Mexico to the United States.",
+      "category": "Treaty",
+      "significance": "The purchase set the southern border of the contiguous United States. It also secured a viable route for a southern transcontinental railroad."
+    },
+    {
+      "year": 1865,
+      "title": "Rudyard Kipling Is Born",
+      "description": "Joseph Rudyard Kipling was born in Bombay (now Mumbai), British India. He became one of the best-known English-language writers of his era, famous for The Jungle Book and Kim.",
+      "category": "Birth",
+      "significance": "In 1907 Kipling became the first English-language writer to win the Nobel Prize in Literature. His work still shapes how people picture the British Empire and its legacy."
+    },
+    {
+      "year": 1922,
+      "title": "Soviet Union Formally Established",
+      "description": "The First Congress of Soviets of the USSR approved the treaty that united the Russian, Ukrainian, Belarusian and Transcaucasian republics into one state.",
+      "category": "Political milestone",
+      "significance": "The USSR became one of the world's two superpowers and a central player in the 20th century. It lasted until its dissolution in 1991."
     },
     {
       "year": 2006,
-      "title": "Execution of Saddam Hussein",
-      "description": "Saddam Hussein, the former president of Iraq, was executed by hanging in Baghdad after being convicted by an Iraqi court of crimes against humanity for the 1982 killing of 148 Shia villagers in Dujail.",
-      "category": "Politics",
-      "significance": "His execution marked the end of the former dictator's era, but it was controversial and highlighted deep sectarian divisions in post-invasion Iraq."
-    },
-    {
-      "year": 1993,
-      "title": "Israel and the Vatican Establish Diplomatic Relations",
-      "description": "Israel and the Holy See signed the Fundamental Agreement, committing to full diplomatic relations and addressing the legal status of the Catholic Church in Israel.",
-      "category": "Diplomacy",
-      "significance": "The agreement ended decades without formal ties and marked a milestone in Catholic-Jewish relations following the Second Vatican Council's reforms."
+      "title": "Saddam Hussein Executed",
+      "description": "Former Iraqi president Saddam Hussein was hanged in Baghdad. He had been convicted by the Iraqi High Tribunal for crimes against humanity.",
+      "category": "Death",
+      "significance": "His execution ended a dictatorship of more than two decades. It remains a deeply divisive moment in Iraq's modern history."
     }
   ]
 }

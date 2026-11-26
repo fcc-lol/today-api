@@ -2,39 +2,32 @@
   "date": "December 24",
   "events": [
     {
-      "year": 1818,
-      "title": "First Performance of 'Silent Night'",
-      "description": "The Christmas carol 'Stille Nacht' was first performed at the Church of St. Nicholas in Oberndorf, Austria, with lyrics by Joseph Mohr and music by Franz Xaver Gruber.",
-      "category": "Culture",
-      "significance": "It became one of the most widely recognized and translated Christmas carols in the world, and was added to UNESCO's Intangible Cultural Heritage list in 2011."
+      "year": 1524,
+      "title": "Vasco da Gama dies in Cochin",
+      "description": "The Portuguese navigator who opened the sea route from Europe to India around Africa died in Cochin, India. He had returned to India as Portugal's viceroy.",
+      "category": "Death",
+      "significance": "His voyages linked Europe and Asia by sea. They helped build Portugal's trading empire and reshaped global commerce."
     },
     {
       "year": 1814,
-      "title": "Treaty of Ghent Signed",
-      "description": "Representatives of the United States and Great Britain signed the Treaty of Ghent in Belgium, ending the War of 1812.",
+      "title": "Treaty of Ghent signed",
+      "description": "American and British diplomats signed the Treaty of Ghent in Belgium. The treaty ended the War of 1812 and restored prewar boundaries.",
       "category": "Politics and Diplomacy",
-      "significance": "The treaty restored prewar boundaries and ushered in a lasting era of peaceful relations between the United States and Britain, though news of it arrived too late to prevent the Battle of New Orleans."
+      "significance": "News travelled slowly, so the Battle of New Orleans was fought after the signing. The treaty opened a long period of peaceful relations between the United States and Britain."
     },
     {
-      "year": 1851,
-      "title": "Library of Congress Fire",
-      "description": "A fire in the Capitol building destroyed about two-thirds of the Library of Congress collection, including much of Thomas Jefferson's original library.",
-      "category": "Disaster",
-      "significance": "The loss led to a major rebuilding and expansion effort, helping shape the Library of Congress into the world's largest library."
+      "year": 1951,
+      "title": "Libya declares independence",
+      "description": "Libya became an independent kingdom, with Idris I proclaimed its king. It was the first country created through the United Nations.",
+      "category": "Independence",
+      "significance": "Libya's independence came early in the wave of decolonization across Africa and the Middle East."
     },
     {
       "year": 1968,
-      "title": "Apollo 8 Orbits the Moon and Broadcasts Christmas Eve Message",
-      "description": "Apollo 8 astronauts Frank Borman, Jim Lovell, and William Anders became the first humans to orbit the Moon and read from the Book of Genesis in a live broadcast on Christmas Eve, and the crew photographed Earthrise.",
+      "title": "Apollo 8 enters lunar orbit",
+      "description": "Frank Borman, Jim Lovell and William Anders became the first humans to orbit the Moon. On Christmas Eve they broadcast live TV pictures and read from the Book of Genesis.",
       "category": "Science and Exploration",
-      "significance": "The mission was a key step toward the Apollo 11 lunar landing, and the Earthrise photograph became one of the most influential images in history, shaping global environmental awareness."
-    },
-    {
-      "year": 1979,
-      "title": "First Ariane Rocket Launched",
-      "description": "The European Space Agency launched the first Ariane 1 rocket from Kourou, French Guiana, on its maiden flight.",
-      "category": "Science and Exploration",
-      "significance": "The Ariane program established Europe as a major player in commercial space launch and gave it independent access to space."
+      "significance": "The mission showed that crewed lunar flight was possible, which paved the way for the Moon landing. Its views of Earth from lunar orbit changed how people saw their home planet."
     }
   ]
 }

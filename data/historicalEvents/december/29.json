@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1170,
-      "title": "Assassination of Thomas Becket",
-      "description": "Archbishop of Canterbury Thomas Becket was murdered inside Canterbury Cathedral by four knights loyal to King Henry II, following a long dispute between the Church and the Crown over clerical privileges.",
-      "category": "Politics and Religion",
-      "significance": "The killing shocked medieval Christendom, led to Becket's canonization in 1173, and forced Henry II to do public penance. Canterbury became one of Europe's major pilgrimage sites."
+      "title": "Thomas Becket Murdered in Canterbury Cathedral",
+      "description": "Four knights loyal to King Henry II of England killed Archbishop Thomas Becket inside Canterbury Cathedral. The attack followed a long and bitter quarrel between the king and his archbishop over the rights of the Church.",
+      "category": "Death",
+      "significance": "The murder shocked medieval Europe. Becket was soon declared a saint, and Canterbury became one of the most important pilgrimage sites in Christendom."
+    },
+    {
+      "year": 1808,
+      "title": "Birth of Andrew Johnson",
+      "description": "Andrew Johnson was born in Raleigh, North Carolina, into poverty. He rose from tailor's apprentice to become the 17th President of the United States.",
+      "category": "Birth",
+      "significance": "Johnson took office after Abraham Lincoln's assassination and led the country through the early years of Reconstruction. He was the first U.S. president to be impeached."
     },
     {
       "year": 1845,
-      "title": "Texas Admitted as the 28th U.S. State",
-      "description": "President James K. Polk signed the joint resolution admitting the Republic of Texas into the United States as a slave state.",
-      "category": "Politics",
-      "significance": "Annexation heightened tensions with Mexico and helped precipitate the Mexican-American War (1846-1848), while intensifying the national debate over the expansion of slavery."
+      "title": "Texas Joins the United States",
+      "description": "Texas was admitted to the Union as the 28th state. It had been an independent republic for nearly a decade after breaking away from Mexico.",
+      "category": "Political milestone",
+      "significance": "The annexation of Texas increased tensions with Mexico. It helped lead to the Mexican–American War the following year."
     },
     {
       "year": 1890,
-      "title": "Wounded Knee Massacre",
-      "description": "U.S. Army troops of the 7th Cavalry killed an estimated 250 to 300 Lakota Sioux, many of them women and children, at Wounded Knee Creek in South Dakota.",
+      "title": "The Wounded Knee Massacre",
+      "description": "U.S. Army soldiers killed hundreds of Lakota men, women and children at Wounded Knee Creek in South Dakota.",
       "category": "Conflict",
-      "significance": "Often considered the last major armed confrontation of the Indian Wars, it became a lasting symbol of the violent dispossession of Native Americans."
-    },
-    {
-      "year": 1937,
-      "title": "Irish Constitution Takes Effect",
-      "description": "The Constitution of Ireland (Bunreacht na hÉireann), approved by plebiscite in July 1937, came into force, replacing the Irish Free State constitution and establishing the state named Ireland (Éire).",
-      "category": "Politics",
-      "significance": "It established the framework of modern Irish government, including the office of President, and marked a major step in Ireland's constitutional separation from the British Crown."
-    },
-    {
-      "year": 1972,
-      "title": "Eastern Air Lines Flight 401 Crashes in the Florida Everglades",
-      "description": "A Lockheed L-1011 TriStar crashed after the flight crew became preoccupied with a burned-out landing gear indicator light and failed to notice the autopilot had disengaged, killing 101 people.",
-      "category": "Disaster",
-      "significance": "The accident became a landmark case in aviation safety and led to the development of Crew Resource Management training, emphasizing communication and task prioritization in the cockpit."
+      "significance": "Wounded Knee is often seen as the tragic end of the Indian Wars on the American Plains. It remains a powerful symbol of the suffering of Native Americans."
     }
   ]
 }
