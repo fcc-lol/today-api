@@ -4,54 +4,43 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads made of a dark central disc surrounded by bright yellow ray petals. Young flower heads track the sun across the sky, and the plant is widely grown for seeds, oil, and ornamental use.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
+      "description": "Towering stalks carry huge golden-rimmed flower heads with dark, seed-packed centers. Whole fields turn together toward the sun, which makes late-summer farmland look like a sea of yellow.",
+      "bloomingSeason": "Midsummer to early autumn (roughly July to September)",
+      "location": "Northern Hemisphere, including the Great Plains of the United States and the farmlands of France and Ukraine",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Orange",
+        "Deep brown"
       ],
       "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west each day (heliotropism), but mature flowers stop moving and face east, which helps warm them and attract pollinators."
+      "funFact": "What looks like one big flower is a composite head made of hundreds of tiny florets. Each floret can develop into a single seed."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower forming tall stems topped with plume-like clusters of tiny golden flowers. It thrives in meadows, roadsides, and open fields and is an important late-season nectar source for bees, butterflies, and other pollinators.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to North America, from eastern Canada through the northern and central United States; naturalized in Europe and Asia",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "Low, wiry shrubs cover open moorland in a haze of pink and purple. The tiny bell-shaped blooms hum with bees in late summer.",
+      "bloomingSeason": "Late summer to autumn (roughly August to October)",
+      "location": "Moorlands and heaths of Scotland, northern England and northern Europe",
       "colors": [
-        "golden yellow"
+        "Pink",
+        "Lilac",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
-    },
-    {
-      "name": "Lespedeza thunbergii",
-      "commonName": "Japanese Bush Clover (Hagi)",
-      "description": "A graceful arching shrub-like perennial that produces cascading sprays of small pea-shaped magenta-pink flowers. It is beloved in Japanese gardens and temples, where its flowing branches create a fountain effect in late summer.",
-      "bloomingSeason": "Late summer to early autumn (August to October)",
-      "location": "Native to Japan, Korea, and China; grown in temperate gardens worldwide",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Hagi is one of the Seven Flowers of Autumn (Aki no Nanakusa) in Japan and is mentioned in more poems in the ancient Man'yoshu anthology than any other plant."
+      "emoji": "💜",
+      "funFact": "Heather honey is prized for its thick, jelly-like texture. Beekeepers sometimes move hives onto the moors in August to catch the bloom."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub with feathery blue-green foliage and fluffy, fragrant, ball-shaped golden flower clusters. In Australia it flowers at the end of winter, brightening bushland and gardens as spring approaches.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including South Australia, Victoria, New South Wales, and the ACT",
+      "description": "This Australian tree is covered in fluffy, fragrant golden pom-poms that light up the bush at the end of winter. Its sickle-shaped leaves are blue-green and leathery.",
+      "bloomingSeason": "Late winter to spring (roughly July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring, right after the blooming begins in earnest."
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem. National Wattle Day is held on September 1, the day after this feature's date."
     }
   ]
 }

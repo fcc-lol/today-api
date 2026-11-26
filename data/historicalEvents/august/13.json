@@ -2,39 +2,32 @@
   "date": "August 13",
   "events": [
     {
+      "year": 1521,
+      "title": "Tenochtitlan Falls to Spanish Forces",
+      "description": "After a months-long siege, Spanish forces under Hernán Cortés and their indigenous allies took the Aztec capital of Tenochtitlan. The last Aztec ruler, Cuauhtémoc, was captured as he tried to flee across Lake Texcoco.",
+      "category": "Conquest",
+      "significance": "The fall of the city ended the Aztec Empire and opened the way for three centuries of Spanish colonial rule in Mexico."
+    },
+    {
+      "year": 1704,
+      "title": "Victory at Blenheim",
+      "description": "English and Imperial forces led by the Duke of Marlborough and Prince Eugene of Savoy defeated a Franco-Bavarian army near the Bavarian village of Blindheim, known in English as Blenheim.",
+      "category": "Battle",
+      "significance": "The victory broke the myth of French military invincibility. It also changed the course of the War of the Spanish Succession."
+    },
+    {
+      "year": 1899,
+      "title": "Alfred Hitchcock Is Born",
+      "description": "Alfred Hitchcock was born in Leytonstone, on the outskirts of London. He became one of cinema's most celebrated directors.",
+      "category": "Birth",
+      "significance": "Hitchcock helped define the modern suspense thriller, and his visual style still influences filmmakers today."
+    },
+    {
       "year": 1961,
       "title": "Construction of the Berlin Wall Begins",
-      "description": "East German authorities closed the border between East and West Berlin overnight, first with barbed wire and then with concrete blocks, to stop mass emigration to the West.",
-      "category": "Politics/Cold War",
-      "significance": "The Berlin Wall became the most potent physical symbol of the Cold War and the division of Europe, remaining in place until its fall in November 1989."
-    },
-    {
-      "year": 1521,
-      "title": "Fall of Tenochtitlan",
-      "description": "After a siege of nearly three months, Spanish conquistador Hernán Cortés and his indigenous allies captured the Aztec capital Tenochtitlan and its last emperor, Cuauhtémoc.",
-      "category": "Military/Conquest",
-      "significance": "The fall marked the end of the Aztec Empire and the beginning of Spanish colonial rule in Mexico, reshaping the Americas."
-    },
-    {
-      "year": 1818,
-      "title": "Birth of Lucy Stone",
-      "description": "Lucy Stone, an American abolitionist and suffragist, was born in Massachusetts. She became the first woman from Massachusetts to earn a college degree and kept her own surname after marriage.",
-      "category": "Births/Social Reform",
-      "significance": "Stone was a leading figure in the women's rights and anti-slavery movements and helped found the American Woman Suffrage Association."
-    },
-    {
-      "year": 1926,
-      "title": "Birth of Fidel Castro",
-      "description": "Fidel Castro was born in Birán, Cuba. He later led the Cuban Revolution that overthrew Fulgencio Batista in 1959 and governed Cuba for nearly five decades.",
-      "category": "Births/Politics",
-      "significance": "Castro established the first communist state in the Western Hemisphere and was a central figure in Cold War events such as the Cuban Missile Crisis."
-    },
-    {
-      "year": 1889,
-      "title": "Invention of the Coin-Operated Telephone Patented",
-      "description": "William Gray received a patent for the first coin-operated public telephone, which was installed in Hartford, Connecticut.",
-      "category": "Science/Technology",
-      "significance": "The pay telephone made telephone service widely accessible to the public and became a fixture of communication for over a century."
+      "description": "In the early hours of the morning, East German troops began sealing off East Berlin from West Berlin. They began with barbed wire and soon replaced it with concrete.",
+      "category": "Cold War",
+      "significance": "The Wall became the defining symbol of the Cold War's division of Europe. It stood until 1989."
     }
   ]
 }

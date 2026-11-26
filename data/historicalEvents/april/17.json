@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1492,
-      "title": "Santa Fe Capitulations Signed",
-      "description": "Christopher Columbus and the Spanish Crown, represented by Ferdinand II of Aragon and Isabella I of Castile, signed the Capitulations of Santa Fe, which authorized his voyage westward in search of a route to Asia and set out the titles and revenues he would receive.",
+      "title": "Columbus Secures Royal Backing for His Voyage",
+      "description": "In the town of Santa Fe, near Granada, Christopher Columbus and the Spanish Crown signed the Capitulations of Santa Fe. The agreement set out the titles, authority and share of profits Columbus would receive if his planned expedition across the Atlantic succeeded.",
       "category": "Exploration",
-      "significance": "The agreement made Columbus's 1492 expedition possible, leading to sustained European contact with the Americas and reshaping global history."
-    },
-    {
-      "year": 1521,
-      "title": "Martin Luther Appears Before the Diet of Worms",
-      "description": "Martin Luther was questioned by the Holy Roman Empire's imperial assembly at Worms, where he was asked to recant his writings. He appeared on April 17 and, the following day, refused to retract them unless proven wrong by Scripture and reason.",
-      "category": "Religion",
-      "significance": "Luther's defiance was a defining moment of the Protestant Reformation, and led to his condemnation by the Edict of Worms and the deepening split in Western Christianity."
-    },
-    {
-      "year": 1790,
-      "title": "Death of Benjamin Franklin",
-      "description": "Benjamin Franklin, American polymath, printer, scientist, diplomat, and Founding Father, died in Philadelphia at the age of 84.",
-      "category": "Death",
-      "significance": "Franklin was a key figure in the American Revolution and the drafting of the Declaration of Independence and the Constitution, and his scientific work on electricity and civic institutions left a lasting legacy."
+      "significance": "The agreement made Columbus's first voyage possible. It launched a period of European contact with the Americas that reshaped the world."
     },
     {
       "year": 1961,
-      "title": "Bay of Pigs Invasion Begins",
-      "description": "A CIA-backed force of Cuban exiles, Brigade 2506, landed at the Bay of Pigs on Cuba's southern coast in an attempt to overthrow Fidel Castro's government. Cuban forces defeated the invasion within about three days.",
-      "category": "Military/Politics",
-      "significance": "The failed invasion embarrassed the Kennedy administration, strengthened Castro's position, and pushed Cuba closer to the Soviet Union, setting the stage for the Cuban Missile Crisis in 1962."
+      "title": "The Bay of Pigs Invasion Begins",
+      "description": "A force of Cuban exiles, trained and backed by the United States, landed at the Bay of Pigs on Cuba's southern coast. They hoped to spark an uprising against Fidel Castro. They met strong resistance from Cuban forces almost at once.",
+      "category": "Cold War / Military",
+      "significance": "The invasion failed. It embarrassed the young Kennedy administration, strengthened Castro's position and pushed Cuba closer to the Soviet Union. That set the stage for the Cuban Missile Crisis the next year."
     },
     {
-      "year": 1982,
-      "title": "Canada Constitution Act Proclaimed",
-      "description": "Queen Elizabeth II signed the proclamation of the Constitution Act, 1982, in Ottawa, patriating Canada's constitution from the United Kingdom and enacting the Canadian Charter of Rights and Freedoms.",
-      "category": "Politics/Law",
-      "significance": "Canada gained full legal independence over its constitution, and the Charter established constitutionally protected rights and freedoms for Canadians."
+      "year": 1964,
+      "title": "Jerrie Mock Completes a Solo Flight Around the World",
+      "description": "Geraldine 'Jerrie' Mock landed back in Columbus, Ohio, having left on March 19. She flew a single-engine Cessna and became the first woman to fly solo around the globe.",
+      "category": "Aviation / Milestone",
+      "significance": "Mock's flight broke a major barrier in aviation. It showed that women could take on the longest and most demanding flights."
+    },
+    {
+      "year": 1970,
+      "title": "Apollo 13 Splashes Down Safely",
+      "description": "The crippled Apollo 13 spacecraft parachuted into the Pacific Ocean, less than a mile from the recovery ship. An onboard explosion had forced the crew to abandon their Moon landing and use the lunar module as a lifeboat for the trip home.",
+      "category": "Space Exploration",
+      "significance": "The safe return of all three astronauts is remembered as one of the great rescues in the history of spaceflight. It is often called a 'successful failure' for the ingenuity of the crew and Mission Control."
     }
   ]
 }

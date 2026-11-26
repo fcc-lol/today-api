@@ -2,44 +2,28 @@
   "date": "April 23",
   "holidays": [
     {
-      "name": "World Book Night / World Book and Copyright Day",
-      "description": "A global celebration of reading, publishing, and authors, where book lovers swap, gift, and snuggle up with their favorite stories. In Catalonia, it doubles as a romantic holiday where people exchange books and roses.",
-      "origin": "UNESCO declared April 23 World Book and Copyright Day in 1995, chosen because Shakespeare, Cervantes, and Inca Garcilaso de la Vega all died on this date in 1616 (though under different calendars). The Catalan tradition of Sant Jordi dates back centuries.",
-      "category": "Cultural Observance",
-      "emoji": "📚",
-      "funFact": "In Barcelona, roughly 6 million roses and 1.5 million books are sold on this single day, making it one of the biggest book-buying days of the year."
+      "name": "Slay a Dragon Day",
+      "description": "Dust off your imaginary sword and shield. This is the day to face down your own personal dragons, whether that's a towering to-do list, a scary email, or an actual fire-breathing lizard if you have one handy. It falls on the same day as St. George's Day, so expect plenty of dragon-themed fun, banners, and storytelling.",
+      "origin": "The day shares its date with St. George's Day, which marks the anniversary of the death of Saint George. He was a Roman soldier who, according to legend, saved a king's daughter by slaying a dragon. The dragon-slaying tale grew into one of Europe's best-loved legends, and the date became a playful excuse to celebrate dragon-fighting.",
+      "category": "Folklore & Legend",
+      "emoji": "🐉",
+      "funFact": "Saint George was reportedly born in Cappadocia, in what is now Turkey. The dragon story only became attached to him in medieval times, long after his death."
     },
     {
-      "name": "Talk Like Shakespeare Day",
-      "description": "A day to hurl Elizabethan insults and wax poetic with thees, thous, and 'forsooth!' Embrace the Bard by greeting coworkers with 'Good morrow, thou artful dodger!'",
-      "origin": "An unofficial holiday inspired by Shakespeare's traditional birthday on April 23, 1564, a date that is celebrated although his exact birth date is unknown.",
-      "category": "Pop Culture / Literary",
+      "name": "Movie Theatre Day",
+      "description": "A day to celebrate the big screen, the sticky floors, the giant tubs of popcorn and the hush that falls when the lights go down. Grab a ticket, claim your favorite seat and enjoy a film the way it was meant to be seen: with strangers, snacks and a very large screen.",
+      "origin": "It's an unofficial observance with no documented founder. The date lines up with April 23, 1896, when Thomas Edison's Vitascope projected films for a paying audience at Koster and Bial's Music Hall in New York City. Many film historians consider that show the birth of the American movie theater.",
+      "category": "Entertainment & Pop Culture",
+      "emoji": "🎬",
+      "funFact": "That first movie-house screening in 1896 used a screen about 20 feet wide by 12 feet tall, and audiences were amazed by the short films shown on it."
+    },
+    {
+      "name": "National Talk Like Shakespeare Day",
+      "description": "Thou art hereby encouraged to swap everyday chatter for the flowery speech of the Bard. Greet coworkers with a hearty \"good morrow,\" call your friends \"knaves,\" and deliver your lunch order in iambic pentameter. Verily, it is glorious nonsense.",
+      "origin": "The day falls on April 23, traditionally linked to the death of William Shakespeare in 1616 and often to his birth in 1564 as well. It became an official observance in Illinois when Governor Pat Quinn proclaimed it.",
+      "category": "Literature & Language",
       "emoji": "🎭",
-      "funFact": "Shakespeare is credited with inventing or popularizing hundreds of words and phrases, including 'bedazzled,' 'lonely,' and 'break the ice.'"
-    },
-    {
-      "name": "National Cherry Cheesecake Day",
-      "description": "A day for indulging in creamy cheesecake topped with glossy, sweet cherries. Bakers and dessert lovers unite to slice up this tangy, rich treat.",
-      "origin": "A food-industry-style observance that grew through dessert enthusiasts and social media, celebrating one of the most popular cheesecake flavors.",
-      "category": "Food Holiday",
-      "emoji": "🍒",
-      "funFact": "Cheesecake dates back to ancient Greece, where it was reportedly served to athletes at the first Olympic Games in 776 BC."
-    },
-    {
-      "name": "Lover's Day (Dia dos Namorados Alt.) / Take a Chance Day",
-      "description": "A day encouraging people to step out of their comfort zones, whether by trying a new food, asking someone out, or taking a leap on a wild idea.",
-      "origin": "An informal observance popularized in calendars of quirky holidays, meant to remind people that fortune favors the bold.",
-      "category": "Unofficial / Lifestyle",
-      "emoji": "🎲",
-      "funFact": "Studies on regret suggest people often regret the chances they didn't take more than the ones they did, which is the whole spirit of this day."
-    },
-    {
-      "name": "English Language Day (UN)",
-      "description": "The United Nations celebrates the English language on this day, honoring its multilingual diversity and rich history, from Old English to modern memes.",
-      "origin": "Established by the UN Educational, Scientific and Cultural Organization in 2010 to promote multilingualism and cultural diversity, with the date chosen to coincide with Shakespeare's traditional birthday.",
-      "category": "Awareness Day",
-      "emoji": "🗣️",
-      "funFact": "English has borrowed words from over 350 other languages, which makes it famously described as a language that follows other languages down dark alleys to rifle through their pockets."
+      "funFact": "Shakespeare wrote about 39 plays and 154 sonnets, and he is credited with inventing or popularizing many words and phrases we still use today."
     }
   ]
 }

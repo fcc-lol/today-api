@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "Just Because Day",
-      "description": "A holiday that exists for no reason at all. Celebrate by doing something nice, fun, or silly simply because you feel like it, with no occasion required.",
-      "origin": "Believed to have been created in the early 2000s as an unofficial observance and spread through greeting card culture and online holiday calendars. Its creator is unclear, which suits a day without a reason.",
-      "category": "Unofficial Observance",
-      "emoji": "🎁",
-      "funFact": "Because there is no required reason to celebrate, it is one of the few holidays that no one can claim you are celebrating wrong."
+      "description": "This is the day to do something delightfully random and have no explanation ready. Skip down the sidewalk, walk backward, jump in a puddle, compliment a stranger's lawn, or send flowers to a friend. If anyone asks why, you already have your answer.",
+      "origin": "This is an unofficial observance. It encourages people to act on a whim and drop the need for a reason.",
+      "category": "Quirky / Whimsical Observance",
+      "emoji": "🎉",
+      "funFact": "Suggested ways to celebrate include spinning a wheel and then cycling in the opposite direction of the arrow. Whatever you do today, the only explanation you need is 'just because.'"
     },
     {
-      "name": "Pots de Creme Day",
-      "description": "A day to celebrate pots de creme, the silky French custard dessert served in tiny pots or cups. Chocolate is the most popular flavor, but vanilla, coffee, and caramel versions exist too.",
-      "origin": "The dessert comes from France, where the name means 'pots of cream.' The day is a food observance listed on national food holiday calendars.",
-      "category": "Food Holiday",
+      "name": "Tarzan Day",
+      "description": "This day honors the loincloth-wearing, vine-swinging Lord of the Jungle. Fans mark it with a Tarzan movie marathon, a practice of the famous yell, or a re-read of the original adventures.",
+      "origin": "The day marks the anniversary of Tarzan's debut. Edgar Rice Burroughs's story 'Tarzan of the Apes' appeared in All-Story magazine in October 1912, and the character went on to become one of pop culture's biggest icons.",
+      "category": "Pop Culture / Literature",
+      "emoji": "🦍",
+      "funFact": "Burroughs had never been to Africa when he wrote Tarzan. He also named his California ranch 'Tarzana,' and that ranch became the Los Angeles neighborhood of Tarzana."
+    },
+    {
+      "name": "National Pots de Crème Day",
+      "description": "This day celebrates pots de crème, a silky French custard dessert that is richer and creamier than pudding. It is usually served in tiny pots, and chocolate and vanilla are the classic flavors.",
+      "origin": "The dessert comes from France, where its name means 'pots of cream.' Its day on the calendar is an unofficial food observance.",
+      "category": "Food & Drink",
       "emoji": "🍮",
-      "funFact": "Pots de creme are traditionally baked in special lidded porcelain cups called pots de creme, which look like tiny teapots."
-    },
-    {
-      "name": "Cow Milked While Flying in an Airplane Day",
-      "description": "A day honoring one of the oddest stunts in aviation history, when a cow was milked in mid-air. Participants are advised to keep their celebrations at ground level.",
-      "origin": "It marks the 1930 flight of a cow named Elm Farm Ollie, who became the first cow to fly in an airplane, and the first to be milked in flight. The event took place in 1930 at the International Air Exposition in St. Louis, Missouri, and some sources list the day as August 27.",
-      "category": "Pop Culture / History",
-      "emoji": "🐄",
-      "funFact": "The milk was sealed into paper cartons and parachuted down to spectators on the ground, and Ollie reportedly produced 24 quarts."
-    },
-    {
-      "name": "National Banana Lovers Day",
-      "description": "A day for fans of the world's most popular fruit to eat banana splits, banana bread, smoothies, and plain old bananas. Peel-slipping jokes are encouraged.",
-      "origin": "Banana Lovers Day is a food observance that has been promoted since the 2000s by food holiday calendars and banana enthusiasts, as a salute to the humble yellow fruit.",
-      "category": "Food Holiday",
-      "emoji": "🍌",
-      "funFact": "Bananas are technically berries, while strawberries are not."
-    },
-    {
-      "name": "Great Lakes Day Observance of Lunar Gravity... Moon Pie Appreciation",
-      "description": "Fans of the marshmallow-and-graham sandwich cookie dunked in chocolate celebrate the Moon Pie on this day with taste tests and silly picnics.",
-      "origin": "Moon Pies were first made in 1917 in Chattanooga, Tennessee, by the Chattanooga Bakery. A coal miner reportedly asked for a snack as big as the moon, and the bakers obliged.",
-      "category": "Food Holiday",
-      "emoji": "🌙",
-      "funFact": "In Bell Buckle, Tennessee, an annual festival features a giant Moon Pie and an RC Cola, a pairing known as the 'working man's lunch.'"
+      "funFact": "Pots de crème are traditionally baked in small lidded cups called 'pots de crème.' Those cups were made for this one dessert."
     }
   ]
 }

@@ -2,39 +2,32 @@
   "date": "April 18",
   "events": [
     {
+      "year": 1521,
+      "title": "Martin Luther Stands Before the Diet of Worms",
+      "description": "On the second day of his hearing before the Holy Roman Empire's assembly at Worms, Martin Luther was pressed to take back his writings. He refused to do so.",
+      "category": "Religion",
+      "significance": "His defiance set the Protestant Reformation on an irreversible course and permanently split Western Christianity."
+    },
+    {
       "year": 1775,
       "title": "Paul Revere's Midnight Ride",
-      "description": "On the night of April 18, 1775, Paul Revere and William Dawes rode from Boston to Lexington to warn colonial leaders John Hancock and Samuel Adams that British troops were marching to arrest them and seize militia supplies at Concord.",
-      "category": "Military",
-      "significance": "The ride preceded the battles of Lexington and Concord on April 19, which began the American Revolutionary War and was later immortalized in Longfellow's poem."
+      "description": "On the night of April 18, Paul Revere and other riders raced through the Massachusetts countryside. They warned colonists that British troops were on the move toward Lexington and Concord.",
+      "category": "War",
+      "significance": "The warning let militias gather, and the next morning's clashes at Lexington and Concord opened the American Revolutionary War."
     },
     {
       "year": 1906,
-      "title": "San Francisco Earthquake",
-      "description": "At 5:12 a.m., a magnitude 7.9 earthquake struck San Francisco, California, and the fires that followed destroyed about 80 percent of the city. Roughly 3,000 people are estimated to have died and more than half the population was left homeless.",
-      "category": "Natural Disaster",
-      "significance": "One of the deadliest and most destructive natural disasters in US history, it led to major advances in seismology, earthquake-resistant building codes, and urban fire safety."
+      "title": "Great San Francisco Earthquake",
+      "description": "An earthquake of an estimated magnitude of 7.9 struck San Francisco. Fires then raged through the city and destroyed much of it. At least 3,000 people died, and more than half of the population lost their homes.",
+      "category": "Disaster",
+      "significance": "It was one of the worst natural disasters in U.S. history. It reshaped the city and influenced modern earthquake science and building practices."
     },
     {
       "year": 1955,
-      "title": "Death of Albert Einstein",
-      "description": "Albert Einstein, the German-born theoretical physicist who developed the theory of relativity, died at age 76 at Princeton Hospital in New Jersey after an abdominal aortic aneurysm ruptured.",
-      "category": "Death",
-      "significance": "Einstein's work reshaped modern physics, including our understanding of space, time, gravity, and energy, and he remains a lasting symbol of scientific genius."
-    },
-    {
-      "year": 1980,
-      "title": "Independence of Zimbabwe",
-      "description": "Southern Rhodesia became the independent Republic of Zimbabwe after years of armed struggle and the Lancaster House Agreement. Canaan Banana became ceremonial president and Robert Mugabe became prime minister.",
+      "title": "Bandung Conference Opens",
+      "description": "Twenty-nine nations from Asia and Africa gathered in Bandung, Indonesia, for the first large Asian-African Conference.",
       "category": "Politics",
-      "significance": "It ended British colonial rule and white-minority governance in the territory, marking a major milestone in the decolonization of Africa."
-    },
-    {
-      "year": 1946,
-      "title": "League of Nations Dissolved",
-      "description": "The League of Nations, the international organization founded after World War I, held its final assembly in Geneva and voted to dissolve itself, transferring its remaining assets and responsibilities to the United Nations.",
-      "category": "Politics",
-      "significance": "The League's dissolution formally closed the first major experiment in collective security and cleared the way for the UN to become the central body of international cooperation."
+      "significance": "The meeting gave newly independent and developing countries a shared voice. It helped lay the groundwork for the Non-Aligned Movement during the Cold War."
     }
   ]
 }
