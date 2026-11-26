@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
-import { generateStructured } from "./lib/claude.js";
+import { generateStructured, webSearchTool } from "./lib/claude.js";
 import { z } from "zod";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -38,9 +38,10 @@ const getWeirdHolidaysForDate = async (month, day) => {
 
   return generateStructured({
     system:
-      "You are a quirky holiday expert who knows about weird, unusual, and lesser-known holidays and observances. Find 3-5 weird, quirky, or unusual holidays that happen on this specific date. Include both official and unofficial holidays, food days, awareness days, pop culture celebrations, and any other fun or strange observances. Focus on the most interesting, funny, or bizarre ones. Provide the holiday name, a fun description, origin story, category, appropriate emoji, and an interesting fun fact.",
-    prompt: `What weird, quirky, or unusual holidays happen on ${dateString}? Include food holidays, awareness days, pop culture celebrations, and any other fun or strange observances. Make them interesting and entertaining!`,
-    schema: WeirdHolidays
+      "You are a quirky holiday expert who writes about weird, unusual, and lesser-known holidays and observances. Accuracy of the date matters more than quantity. Use web search to check holiday calendars for the exact date you are given, and only include holidays that those sources list on that exact month and day. Skip anything you cannot verify, and skip floating holidays (ones tied to a weekday, like the Friday after Thanksgiving) unless calendars specifically list them on this date. Give 1-3 verified holidays, picking the most interesting, funny, or bizarre ones: food days, awareness days, pop culture celebrations, and other strange observances. Provide the holiday name, a fun description, origin story, category, appropriate emoji, and an interesting fun fact. Write every field for a general audience as polished copy: never mention the websites or calendars you checked, never describe your research, and never say what you could not find. If the origin is unknown, just say it is an unofficial observance of unclear origin and move on.",
+    prompt: `What weird, quirky, or unusual holidays happen on ${dateString}? Search holiday calendars for this exact date, confirm each holiday really falls on ${dateString}, and give me 1-3 of the best verified ones.`,
+    schema: WeirdHolidays,
+    tools: [webSearchTool(6)]
   });
 };
 
@@ -223,6 +224,25 @@ function generateHolidaySummaryAndIndex(processedFiles, dataDir) {
   console.log(`Holiday index saved to: ${indexFile}`);
 }
 
+// Function to generate holidays for a single specific date (useful for spot checks)
+async function generateSingleDate(month, day) {
+  const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
+    month: "long"
+  });
+  console.log(`Generating weird holidays for ${monthName} ${day}...`);
+
+  const monthDir = path.join(__dirname, "../data", "weirdHolidays", monthName.toLowerCase());
+  fs.mkdirSync(monthDir, { recursive: true });
+
+  const holidays = await getWeirdHolidaysForDate(month, day);
+  const filePath = path.join(monthDir, `${String(day).padStart(2, "0")}.json`);
+  fs.writeFileSync(filePath, JSON.stringify(holidays, null, 2));
+
+  console.log(`  ✓ Completed ${monthName} ${day} - ${holidays.holidays?.length || 0} holidays`);
+  console.log(`File saved to: ${filePath}`);
+  return holidays;
+}
+
 // Function to resume from a specific date (useful if script is interrupted)
 async function resumeWeirdHolidaysFromDate(startMonth, startDay) {
   console.log(`Resuming weird holidays from ${startMonth}/${startDay}...`);
@@ -343,8 +363,18 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     resumeWeirdHolidaysFromDate(month, day);
+  } else if (args[0] === "single" && args.length === 3) {
+    const month = parseInt(args[1]);
+    const day = parseInt(args[2]);
+    generateSingleDate(month, day).catch((error) => {
+      console.error(error);
+      process.exit(1);
+    });
   } else {
     console.log("Usage:");
+    console.log(
+      "  node generateWeirdHolidays.js single M D   # Generate single date (month M, day D)"
+    );
     console.log(
       "  node generateWeirdHolidays.js              # Generate for entire year"
     );
@@ -354,4 +384,4 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   }
 }
 
-export { generateWeirdHolidays, resumeWeirdHolidaysFromDate };
+export { generateWeirdHolidays, resumeWeirdHolidaysFromDate, generateSingleDate };

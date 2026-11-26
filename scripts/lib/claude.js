@@ -11,10 +11,11 @@ const getClient = () => {
 };
 
 // Ask Claude for a response that matches a zod schema and return the parsed object
-export const generateStructured = async ({ system, prompt, schema }) => {
+export const generateStructured = async ({ system, prompt, schema, tools }) => {
   const response = await getClient().beta.messages.parse({
     model: MODEL,
     max_tokens: 16000,
+    ...(tools ? { tools } : {}),
     betas: ["server-side-fallback-2026-07-01"],
     fallbacks: "default",
     system,
@@ -37,3 +38,10 @@ export const generateStructured = async ({ system, prompt, schema }) => {
   }
   return response.parsed_output;
 };
+
+// Anthropic-hosted web search, so the model can check facts instead of guessing
+export const webSearchTool = (maxUses = 5) => ({
+  type: "web_search_20260209",
+  name: "web_search",
+  max_uses: maxUses
+});
