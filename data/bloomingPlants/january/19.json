@@ -3,61 +3,45 @@
   "plants": [
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is widely grown in gardens across Japan, the southeastern United States, and western Europe.",
-      "bloomingSeason": "Late autumn to early spring (peak in winter)",
-      "location": "Japan, Korea, southeastern United States, Western Europe, Pacific Northwest",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs and small trees light up the coldest weeks of the year with rose-like blooms. Crimson petals surround a boss of golden stamens, and bright flowers stand out against dark, leathery leaves, sometimes with snow nearby.",
+      "bloomingSeason": "Wild plants flower from about January to March, so January 19 falls within the season.",
+      "location": "Coastal woodlands and gardens of Japan, including the southern and western regions",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made, and Camellia japonica is the official flower of Alabama's neighbor tradition in Japanese tea gardens and temple grounds."
-    },
-    {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial with large trumpet-shaped flowers on tall hollow stalks. In the Southern Hemisphere and tropical regions it blooms outdoors during summer, while in the Northern Hemisphere it is a popular indoor winter bloomer.",
-      "bloomingSeason": "Summer in the Southern Hemisphere; winter indoors in the Northern Hemisphere",
-      "location": "Native to South and Central America and the Caribbean; cultivated worldwide",
-      "colors": [
-        "red",
-        "orange",
-        "white",
-        "pink"
-      ],
-      "emoji": "🌷",
-      "funFact": "Amaryllis bulbs can bloom again year after year, and a single bulb may send up several flower stalks, each carrying up to six large blooms."
-    },
-    {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous large shrub that blooms on bare branches in the depths of winter. Its spidery, ribbon-like petals are strongly fragrant and attract the few insects that are active in cold weather.",
-      "bloomingSeason": "Mid-winter to early spring",
-      "location": "Central and eastern China; cultivated in temperate gardens in Europe and North America",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel petals curl up tightly in freezing temperatures to protect themselves and unfurl again when it warms up."
+      "funFact": "Camellias are closely related to the tea plant, Camellia sinensis. In Japan, the camellia's seeds are pressed into tsubaki oil, which has long been used for hair care and for polishing wood and blades."
     },
     {
       "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of trumpet-shaped flowers atop tall stems. It is a hallmark of Southern Hemisphere summer gardens and is also naturalized in parts of Australia and New Zealand.",
-      "bloomingSeason": "Summer (December to March in the Southern Hemisphere)",
-      "location": "Native to South Africa; widely grown in Australia, New Zealand, and coastal California",
+      "commonName": "African lily, Lily of the Nile",
+      "description": "Rounded globes of trumpet-shaped flowers sit on tall, sturdy stems above arching, strap-like leaves. In midsummer they bring cool blue to sunny borders, roadsides and coastal gardens.",
+      "bloomingSeason": "Peak flowering runs from about November to February in the Southern Hemisphere, which covers mid-January.",
+      "location": "Native to South Africa and widely grown in the summer gardens of Australia",
       "colors": [
-        "blue",
-        "violet",
-        "white"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek words for 'love' and 'flower'."
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. The genus name comes from the Greek words for 'love' and 'flower'. It thrives in heat and thick, fleshy roots store water to survive dry spells."
+    },
+    {
+      "name": "Helleborus niger",
+      "commonName": "Christmas rose, black hellebore",
+      "description": "Nodding, saucer-shaped white flowers with a crown of yellow stamens push up through frost and leaf litter when almost nothing else is awake. They fade to soft pink as they age.",
+      "bloomingSeason": "Flowers from December through the winter months, so it is typically in bloom on January 19, especially in mild winters.",
+      "location": "Mountain woodlands of the Alps and central and southern Europe, as well as cold-season gardens across the Northern Hemisphere",
+      "colors": [
+        "White",
+        "Pale pink",
+        "Yellow"
+      ],
+      "emoji": "❄️",
+      "funFact": "Its name 'niger' (black) refers to its dark roots, not its flowers. The showy 'petals' are actually sepals that stay on the plant for weeks, which keeps the display going long after a normal petal would have dropped."
     }
   ]
 }

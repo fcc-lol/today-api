@@ -4,58 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with slender silvery-green foliage and dense spikes of fragrant purple flowers. Heavily visited by bees and butterflies, it is widely grown in gardens and commercial fields.",
-      "bloomingSeason": "Early to late summer (June through August in the Northern Hemisphere)",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the United States",
+      "description": "Rolling purple rows of silvery, scented spikes stretch across the hills of Provence. The air hums with bees and smells sweet and herbal. Each slender stem carries whorls of tiny violet-blue flowers.",
+      "bloomingSeason": "Late June to early August, with peak color in mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "Purple",
-        "Lavender",
-        "Blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare' meaning 'to wash' because the Romans scented their baths with it."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark disc of tiny florets that develop into seeds. It thrives in full sun on farms, in gardens, and along roadsides.",
-      "bloomingSeason": "Midsummer to early fall (July through September in the Northern Hemisphere)",
-      "location": "Native to North America; grown extensively in Ukraine, Russia, Argentina, the United States, and France",
-      "colors": [
-        "Yellow",
-        "Orange",
-        "Brown",
-        "Burgundy"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun from east to west during the day, a behavior called heliotropism, but mature blooms stay fixed facing east."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with drooping pink-purple petals around a spiky, orange-brown central cone. It attracts pollinators and goldfinches and tolerates heat and drought.",
-      "bloomingSeason": "Summer into early fall (June through September)",
-      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in temperate gardens worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This is South Africa's national flower. Its huge, artichoke-like bloom is ringed with stiff pink bracts around a soft, silky center. It flowers boldly in the cool southern winter, when many gardens are quiet.",
+      "bloomingSeason": "Roughly April to October, so it covers the southern winter month of July",
+      "location": "Fynbos shrublands of the Western Cape, South Africa",
       "colors": [
         "Pink",
-        "Purple",
-        "Orange",
+        "Cream",
         "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Echinacea's name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone, and Native American peoples used it medicinally for centuries."
+      "emoji": "🌺",
+      "funFact": "Proteas are an ancient plant family. They are named after the Greek sea god Proteus, who could change his shape, because the family has so many different forms."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small evergreen tree with sickle-shaped leaves (phyllodes) and fluffy, fragrant golden ball-like flower clusters. In the Southern Hemisphere, it begins flowering in late winter, with some early blooms appearing in July.",
-      "bloomingSeason": "Late winter to spring in Australia (July through October)",
-      "location": "Native to southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "name": "Eucalyptus leucoxylon",
+      "commonName": "Yellow Gum (South Australian Blue Gum)",
+      "description": "Pale, mottled bark gives this tree a ghostly look. In the Australian winter it is covered in fluffy flower clusters that attract flocks of honey-feeding birds. Wild trees are often cream, and many garden selections are pink or red.",
+      "bloomingSeason": "Autumn through winter into spring, roughly April to September, which includes July",
+      "location": "Southeastern Australia, especially South Australia and Victoria",
       "colors": [
-        "Golden yellow"
+        "Cream",
+        "Pink",
+        "Red"
       ],
-      "emoji": "🌼",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+      "emoji": "🌳",
+      "funFact": "Eucalyptus flowers have no petals. The fluffy 'blossom' is a mass of stamens, and a cap called an operculum covers the bud until it pops off."
     }
   ]
 }

@@ -4,53 +4,42 @@
     {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The strap-shaped leaves appear in spring and die back by summer, giving rise to its nickname 'naked ladies'.",
-      "bloomingSeason": "Late summer to mid-autumn (September to October in the Northern Hemisphere)",
-      "location": "Meadows and woodland edges of Europe; widely cultivated in temperate gardens worldwide",
+      "description": "Just as the leaves of other plants turn, this bulb sends up goblet-shaped lilac-pink flowers straight from bare ground. Its strappy leaves appeared months earlier and have long since died back, so the blooms stand alone like delicate chalices in damp meadows and garden borders.",
+      "bloomingSeason": "Early autumn (September to October)",
+      "location": "Meadows and gardens across temperate Europe",
       "colors": [
-        "Pale pink",
         "Lilac",
-        "Mauve"
+        "Pale Pink",
+        "Soft Purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Colchicum is the source of colchicine, a compound used in treating gout and in plant breeding to induce chromosome doubling. All parts of the plant are highly toxic."
+      "emoji": "🌷",
+      "funFact": "Despite its name, it is not a true crocus. It belongs to the lily relatives, and every part of it is highly toxic, containing colchicine, a compound still used in medicine and in plant breeding."
     },
     {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A tall, rhizomatous perennial that forms dense colonies topped with arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Meadows, roadsides, and prairies of North America; naturalized in Europe and Asia",
+      "description": "Tall, arching plumes of tiny golden flowers light up roadsides, old fields and prairie edges at summer's end. The blooms hum with bees, butterflies and hoverflies stocking up before winter.",
+      "bloomingSeason": "July to September, peaking in late summer and early autumn",
+      "location": "Eastern and central North America, including the northeastern United States",
       "colors": [
-        "Golden yellow"
+        "Golden Yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; the real culprit is usually ragweed, which blooms at the same time but releases airborne pollen."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and carried by insects. The real culprit is usually ragweed, which blooms at the same time."
     },
     {
-      "name": "Prunus x yedoensis",
-      "commonName": "Yoshino Cherry Companion: Spring-Blooming Southern Hemisphere Cherry",
-      "description": "In the Southern Hemisphere, September marks the height of spring, and ornamental cherry trees burst into bloom with clouds of delicate blossoms before or as the leaves emerge.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to October)",
-      "location": "Gardens and parks in Australia, New Zealand, South Africa, and Chile",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest of all proteas, this South African shrub bears dinner-plate-sized flower heads. Rows of silky, pink-tipped bracts surround a crown of fuzzy centre florets, and the whole bloom looks like an artichoke wearing a royal crown.",
+      "bloomingSeason": "Winter to spring (June to October)",
+      "location": "Fynbos of the Western Cape, South Africa, including Kirstenbosch gardens",
       "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "🌳",
-      "funFact": "Cherry blossom festivals are held in places like Cowra, Australia, and Auckland, New Zealand, around this time of year, mirroring Japan's famous hanami in the opposite season."
-    },
-    {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A bulbous perennial whose leafless stalks emerge suddenly after autumn rains, topped by striking crimson flowers with long, curling stamens. The foliage appears later in autumn and persists through winter.",
-      "bloomingSeason": "Early to mid-autumn (September to October)",
-      "location": "Native to China, Korea, and Japan; naturalized in the southeastern United States",
-      "colors": [
-        "Crimson red"
+        "Pink",
+        "Cream",
+        "Silvery White"
       ],
       "emoji": "🌺",
-      "funFact": "In Japan, the flower is called higanbana because it blooms around the autumn equinox holiday of Higan, and it is often planted around rice paddies to deter rodents because the bulbs are poisonous."
+      "funFact": "The king protea is South Africa's national flower. It belongs to a plant family so ancient that it dates back to when the southern continents were joined in Gondwana."
     }
   ]
 }

@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1532,
-      "title": "Battle of Cajamarca",
-      "description": "Spanish conquistador Francisco Pizarro and a small force ambushed and captured Inca emperor Atahualpa in Cajamarca, Peru, killing thousands of his unarmed attendants and soldiers.",
-      "category": "Conquest and Military",
-      "significance": "The capture of Atahualpa was a decisive step in the Spanish conquest of the Inca Empire, which led to the collapse of the largest pre-Columbian empire in the Americas and the establishment of Spanish colonial rule in South America."
+      "title": "Atahualpa Is Captured at Cajamarca",
+      "description": "The Inca ruler Atahualpa was seized by Francisco Pizarro and a small band of Spanish conquistadors at Cajamarca, in what is now Peru. The Spaniards ambushed him in the middle of a meeting.",
+      "category": "Conquest",
+      "significance": "The capture of Atahualpa opened the way for Spain to conquer the Inca Empire, one of the largest states in the Americas."
+    },
+    {
+      "year": 1632,
+      "title": "Gustavus Adolphus Dies at Lützen",
+      "description": "Swedish forces defeated an imperial army under Albrecht von Wallenstein at the Battle of Lützen during the Thirty Years' War. Their king, Gustavus Adolphus, was killed in the fighting.",
+      "category": "Death / Battle",
+      "significance": "The loss of one of Europe's most admired military leaders changed the course of the war. Sweden had risen to become a major power under his rule."
+    },
+    {
+      "year": 1869,
+      "title": "The Suez Canal Opens",
+      "description": "The Suez Canal officially opened to shipping. It linked the Mediterranean Sea with the Red Sea across Egypt.",
+      "category": "Engineering milestone",
+      "significance": "The canal cut thousands of miles from sea routes between Europe and Asia and reshaped global trade."
     },
     {
       "year": 1907,
-      "title": "Oklahoma Admitted as the 46th U.S. State",
-      "description": "President Theodore Roosevelt issued a proclamation admitting Oklahoma to the Union, merging Oklahoma Territory and Indian Territory into a single state.",
-      "category": "Politics and Government",
-      "significance": "Statehood ended the separate Indian Territory, where several Native American nations had been relocated, and reshaped the political and cultural landscape of the American Southwest and Plains."
-    },
-    {
-      "year": 1933,
-      "title": "United States Recognizes the Soviet Union",
-      "description": "President Franklin D. Roosevelt established formal diplomatic relations with the Soviet Union after sixteen years of nonrecognition following the 1917 Bolshevik Revolution, following an agreement with Foreign Minister Maxim Litvinov.",
-      "category": "Diplomacy",
-      "significance": "The recognition opened official channels between the two powers, laying groundwork for their later wartime alliance during World War II and shaping the dynamics of 20th-century geopolitics."
-    },
-    {
-      "year": 1945,
-      "title": "UNESCO Founded",
-      "description": "The United Nations Educational, Scientific and Cultural Organization was established when its constitution was signed in London by representatives of 37 countries.",
-      "category": "International Organizations",
-      "significance": "UNESCO became the UN agency for promoting international cooperation in education, science, and culture, and it designates World Heritage Sites to protect cultural and natural landmarks worldwide."
-    },
-    {
-      "year": 1996,
-      "title": "Death of Pioneering Computer Scientist Not Applicable: Launch of Mars Global Surveyor Preceded",
-      "description": "On November 7, 1996, Mars Global Surveyor launched; on November 16, 1974, the Arecibo message was transmitted to the globular star cluster M13 to demonstrate human technological capability.",
-      "category": "Science and Space",
-      "significance": "The Arecibo message remains one of humanity's most famous deliberate attempts to send a signal into space and sparked ongoing debate on communication with extraterrestrial intelligence."
+      "title": "Oklahoma Becomes the 46th State",
+      "description": "Oklahoma was admitted to the United States as the 46th state. It was formed by merging Oklahoma Territory with Indian Territory.",
+      "category": "Political milestone",
+      "significance": "Statehood ended the separate Indian Territory and marked a major turning point for the region's Native American nations."
     }
   ]
 }

@@ -2,65 +2,45 @@
   "date": "December 10",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green, palmate leaves and nodding, cup-shaped white flowers that age to pink. It thrives in cool, shaded woodland conditions and is prized for flowering in the depths of winter.",
-      "bloomingSeason": "Early winter to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name, the Christmas rose is not a true rose but a member of the buttercup family, and all parts of the plant are toxic."
-    },
-    {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub whose showy 'flowers' are actually colorful bracts surrounding small yellow cyathia. Outdoors in warm climates it can reach several meters in height, while elsewhere it is a popular potted holiday plant.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in frost-free regions such as Southern California, Florida, Hawaii and Australia, and indoors worldwide",
+      "description": "In the wild, poinsettia is a tall, open shrub or small tree. It reaches 3–4 metres in the seasonally dry forests of Mexico and Central America. In December it is topped with flaming red bracts that look like petals. The true flowers are tiny yellow-green clusters at their centre.",
+      "bloomingSeason": "Winter, with peak display in December",
+      "location": "Mexico and Central America (native range); widely grown as a Christmas plant worldwide",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream",
-        "marbled"
+        "Red",
+        "Crimson",
+        "Yellow-green"
       ],
       "emoji": "🎄",
-      "funFact": "Poinsettias need long nights of about 12 to 14 hours of uninterrupted darkness for several weeks to trigger their colorful bracts, which is why they bloom around December."
+      "funFact": "The bright red parts of a poinsettia are not petals. They are modified leaves called bracts, which change colour as the plant gets ready to flower."
     },
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus (Christmas Cactus)",
-      "description": "An epiphytic cactus with flat, segmented, claw-edged stems and pendant, zygomorphic flowers that appear at the stem tips. In nature it grows in tree branches and rock crevices in humid forests.",
-      "bloomingSeason": "Late autumn to winter (November to January)",
-      "location": "Native to the coastal mountains of southeastern Brazil; cultivated as a houseplant worldwide",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia (Sazanka)",
+      "description": "This glossy-leaved evergreen from Japan opens single, silky blooms in red, pink and white as the winter chill sets in. The petals drop one at a time and scatter across the ground like confetti.",
+      "bloomingSeason": "Late autumn to early winter (late October through December)",
+      "location": "Japan, in gardens and hedgerows; also widely cultivated in temperate regions",
       "colors": [
-        "pink",
-        "red",
-        "magenta",
-        "white",
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Unlike desert cacti, this species lives in humid, shady forests, and it sets flower buds in response to cool temperatures and long nights."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with feathery, fern-like leaves that erupts in dense clusters of large, vivid flowers. It is among the most spectacular flowering trees of the tropics and subtropics.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (November to January); flowering varies in the tropics depending on the dry season",
-      "location": "Native to Madagascar; widely planted in the tropics and subtropics including Brazil, northern Australia, South Africa, India and the Caribbean",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "In the wild in Madagascar the species is endangered, even though it is one of the most commonly planted ornamental trees in the world."
+      "funFact": "In Japan the sazanka is a classic sign of winter. Its petals fall individually, unlike the whole-flower drop of the related Camellia japonica."
+    },
+    {
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "This Australian native shrub is covered in small creamy flowers in early summer. As each flower fades, its sepals swell into papery, ruby-red structures that glow against the dark green foliage. It is a natural fit for the southern-hemisphere festive season.",
+      "bloomingSeason": "Late spring to summer, with flowers opening from December",
+      "location": "Coastal and sandstone country of New South Wales, Australia",
+      "colors": [
+        "Cream",
+        "Ruby red"
+      ],
+      "emoji": "🌿",
+      "funFact": "The red \"petals\" are actually enlarged calyx lobes. They turn red after the small white flowers have finished."
     }
   ]
 }

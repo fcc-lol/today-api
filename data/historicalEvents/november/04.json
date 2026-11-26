@@ -2,39 +2,32 @@
   "date": "November 4",
   "events": [
     {
+      "year": 1847,
+      "title": "Chloroform's Anaesthetic Power Is Discovered",
+      "description": "In Edinburgh, Scottish physician James Young Simpson discovered the anaesthetic properties of chloroform. He and his colleagues tested it on themselves.",
+      "category": "Science & Medicine",
+      "significance": "Chloroform soon became widely used in surgery and childbirth. It helped change how pain was managed in medicine."
+    },
+    {
       "year": 1922,
-      "title": "Howard Carter Discovers Entrance to Tutankhamun's Tomb",
-      "description": "British archaeologist Howard Carter's team uncovered the first step leading down to the tomb of Pharaoh Tutankhamun in the Valley of the Kings, Egypt. The full entrance was cleared over the following days, and the tomb was officially opened in 1923.",
+      "title": "The Steps to Tutankhamun's Tomb Are Found",
+      "description": "Howard Carter's excavation team in Egypt's Valley of the Kings uncovered the top of a buried staircase. It led to a sealed doorway.",
       "category": "Archaeology",
-      "significance": "The find was the most intact royal Egyptian tomb ever discovered, sparking worldwide fascination with ancient Egypt and transforming modern archaeology."
+      "significance": "The staircase led to the tomb of Tutankhamun. It was the best-preserved royal tomb ever found in Egypt, and it set off worldwide fascination with ancient Egypt."
     },
     {
       "year": 1979,
-      "title": "Iran Hostage Crisis Begins",
-      "description": "Militant Iranian students, supporting the Islamic Revolution, stormed the U.S. Embassy in Tehran and took 66 Americans hostage. 52 of them were held for 444 days, until January 1981.",
-      "category": "Politics",
-      "significance": "The crisis reshaped U.S.-Iran relations, damaged Jimmy Carter's presidency, and influenced American foreign policy in the Middle East for decades."
+      "title": "The Iran Hostage Crisis Begins",
+      "description": "Militant students stormed the U.S. Embassy in Tehran and took about 90 hostages. They were angry that the deposed Shah had been admitted to the United States.",
+      "category": "Politics & Diplomacy",
+      "significance": "The standoff lasted 444 days. It reshaped U.S.–Iran relations and influenced American politics for years."
     },
     {
       "year": 2008,
-      "title": "Barack Obama Elected President of the United States",
-      "description": "Senator Barack Obama of Illinois defeated Republican John McCain in the U.S. presidential election, winning both the electoral and popular vote.",
+      "title": "Barack Obama Is Elected President",
+      "description": "Senator Barack Obama of Illinois defeated Senator John McCain of Arizona in the U.S. presidential election.",
       "category": "Politics",
-      "significance": "Obama became the first African American elected U.S. president, marking a historic milestone in American history and the civil rights struggle."
-    },
-    {
-      "year": 1956,
-      "title": "Soviet Forces Crush the Hungarian Revolution",
-      "description": "Soviet troops launched a large-scale military assault on Budapest to suppress the Hungarian uprising against Soviet-imposed policies. Thousands of Hungarians were killed and about 200,000 fled the country.",
-      "category": "War and Conflict",
-      "significance": "The crackdown demonstrated Soviet determination to maintain control over Eastern Europe and the limits of de-Stalinization, shaping Cold War dynamics."
-    },
-    {
-      "year": 1995,
-      "title": "Assassination of Israeli Prime Minister Yitzhak Rabin",
-      "description": "Rabin was shot and killed by Yigal Amir, a right-wing Israeli extremist, at a peace rally in Tel Aviv in support of the Oslo Accords.",
-      "category": "Assassination",
-      "significance": "Rabin's death was a major blow to the Israeli-Palestinian peace process and deeply affected Israeli politics and society."
+      "significance": "Obama became the 44th U.S. president and the first African American to hold the office."
     }
   ]
 }

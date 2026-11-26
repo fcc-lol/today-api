@@ -2,39 +2,32 @@
   "date": "March 14",
   "events": [
     {
-      "year": 1879,
-      "title": "Birth of Albert Einstein",
-      "description": "Albert Einstein was born in Ulm, in the Kingdom of Württemberg, German Empire. He would go on to develop the theory of special relativity in 1905 and the theory of general relativity in 1915, and received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect.",
-      "category": "Birth",
-      "significance": "Einstein revolutionized modern physics and our understanding of space, time, gravity, and energy, and became one of the most influential scientists in history."
-    },
-    {
       "year": 1794,
       "title": "Eli Whitney Patents the Cotton Gin",
-      "description": "Eli Whitney received a U.S. patent for his cotton gin, a machine that mechanically separated cotton fibers from their seeds far faster than hand labor.",
+      "description": "Inventor Eli Whitney received a U.S. patent for his cotton gin. The machine quickly separated cotton fibers from their seeds, a job that had been slow and laborious to do by hand.",
       "category": "Invention",
-      "significance": "The cotton gin transformed Southern agriculture and made cotton hugely profitable, but it also greatly intensified the demand for enslaved labor in the United States."
+      "significance": "The cotton gin made cotton farming far more profitable and helped drive the expansion of slavery in the American South. It also reshaped the economy of the United States."
+    },
+    {
+      "year": 1879,
+      "title": "Albert Einstein Is Born",
+      "description": "Albert Einstein was born in Ulm, in the German Empire. He grew up to become one of the most influential physicists in history.",
+      "category": "Birth",
+      "significance": "Einstein's theories of relativity transformed our understanding of space, time and gravity. His name has become shorthand for genius."
     },
     {
       "year": 1883,
-      "title": "Death of Karl Marx",
-      "description": "Karl Marx, the German philosopher, economist, and political theorist, died in London at age 64 and was buried at Highgate Cemetery. He had co-authored The Communist Manifesto with Friedrich Engels in 1848 and written Das Kapital.",
+      "title": "Karl Marx Dies in London",
+      "description": "Philosopher, economist and revolutionary thinker Karl Marx died in London at age 64. He had spent his later years in exile in Britain.",
       "category": "Death",
-      "significance": "Marx's ideas on class struggle and capitalism became the foundation of Marxism and profoundly shaped political movements, economics, and social theory worldwide in the 20th century."
-    },
-    {
-      "year": 1943,
-      "title": "Liquidation of the Kraków Ghetto Begins",
-      "description": "During World War II, Nazi German forces began the liquidation of the Kraków Ghetto in occupied Poland on March 13-14, 1943, deporting many residents to the Płaszów camp and Auschwitz and killing many others.",
-      "category": "War/Atrocity",
-      "significance": "The event was part of the Holocaust's systematic destruction of Jewish communities in Europe and is remembered as an example of the brutality of Nazi occupation."
+      "significance": "Marx's writings, including The Communist Manifesto and Das Kapital, shaped political movements, economic debates and revolutions around the world for more than a century."
     },
     {
       "year": 2018,
-      "title": "Death of Stephen Hawking",
-      "description": "Stephen Hawking, the English theoretical physicist and cosmologist, died at age 76 in Cambridge, England. He was known for his work on black holes, Hawking radiation, and for his popular science book A Brief History of Time. His death occurred on Einstein's birthday and Pi Day.",
+      "title": "Stephen Hawking Dies at 76",
+      "description": "Stephen Hawking, the Cambridge physicist, died at his home in Cambridge, England. He had lived for decades with motor neurone disease.",
       "category": "Death",
-      "significance": "Hawking advanced understanding of black holes and cosmology, and inspired the public with science despite living with ALS for decades."
+      "significance": "Hawking advanced our understanding of black holes and the origins of the universe. His bestseller A Brief History of Time brought cosmology to millions of readers."
     }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "May 12",
   "events": [
     {
+      "year": 1364,
+      "title": "Jagiellonian University Is Founded",
+      "description": "King Casimir III the Great founded a university in Kraków, Poland. It later became known as the Jagiellonian University and is the oldest university in Poland.",
+      "category": "Milestone",
+      "significance": "It became a leading center of learning in Central Europe, and Nicolaus Copernicus later studied there."
+    },
+    {
+      "year": 1551,
+      "title": "San Marcos University Is Founded in Lima",
+      "description": "The National University of San Marcos was established in Lima, Peru, by royal decree.",
+      "category": "Milestone",
+      "significance": "It is the oldest university in South America and has shaped the continent's intellectual life for over four centuries."
+    },
+    {
       "year": 1820,
-      "title": "Birth of Florence Nightingale",
-      "description": "Florence Nightingale, the English social reformer and statistician, was born in Florence, Italy. She rose to prominence while managing nurses during the Crimean War and later founded the Nightingale Training School for nurses at St Thomas' Hospital in London.",
+      "title": "Florence Nightingale Is Born",
+      "description": "Florence Nightingale was born in Florence, Italy, to a wealthy British family. She defied social expectations to pursue nursing.",
       "category": "Birth",
-      "significance": "Considered the founder of modern nursing, she transformed hospital sanitation and healthcare practice and pioneered the use of statistical graphics in public health. International Nurses Day is celebrated on her birthday."
+      "significance": "Her work during the Crimean War and her use of statistics to improve sanitation helped lay the foundations of modern nursing and hospital care."
     },
     {
       "year": 1932,
       "title": "Lindbergh Baby Found Dead",
-      "description": "The body of Charles Augustus Lindbergh Jr., the 20-month-old son of aviator Charles Lindbergh, was discovered near the family's home in Hopewell, New Jersey, about two months after his kidnapping.",
+      "description": "Ten weeks after being kidnapped, the infant son of aviator Charles Lindbergh was found dead near the family's home in Hopewell, New Jersey.",
       "category": "Crime",
-      "significance": "The case, dubbed the 'Crime of the Century,' led to the Federal Kidnapping Act (the Lindbergh Law) and prompted major advances in forensic investigation and federal law enforcement."
+      "significance": "The case gripped the world and led to the federal kidnapping law known as the Lindbergh Law."
     },
     {
       "year": 1949,
       "title": "Soviet Union Lifts the Berlin Blockade",
-      "description": "The Soviet Union ended its blockade of West Berlin, which had begun in June 1948, reopening road, rail, and canal access to the western sectors of the city.",
+      "description": "The Soviet Union ended its blockade of land routes into West Berlin. The blockade had begun in June 1948 and had been met by a massive Western airlift.",
       "category": "Politics",
-      "significance": "The end of the blockade was an early Cold War victory for the Western Allies, whose Berlin Airlift had sustained the city, and it preceded the formal creation of West Germany later that month."
-    },
-    {
-      "year": 1949,
-      "title": "Berlin Airlift Success Concludes Blockade Crisis",
-      "description": "With the blockade lifted, the Western Allies' airlift, which delivered over two million tons of supplies to West Berlin, was shown to have succeeded, though flights continued for several months to build up reserves.",
-      "category": "Military",
-      "significance": "The airlift demonstrated Western resolve and logistical capability and helped solidify the NATO alliance formed in April 1949."
-    },
-    {
-      "year": 1943,
-      "title": "Axis Forces Surrender in Tunisia",
-      "description": "Axis forces in North Africa, with the surrender of the remaining German and Italian troops in Tunisia, effectively ended the North African Campaign of World War II.",
-      "category": "Military",
-      "significance": "The loss of North Africa removed Axis forces from the continent, opened the way for the Allied invasion of Sicily and Italy, and resulted in the capture of hundreds of thousands of Axis troops."
+      "significance": "It was an early Cold War standoff that ended without direct war, and it hardened the division between East and West in Europe."
     }
   ]
 }

@@ -2,59 +2,48 @@
   "date": "November 4",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in a wide range of forms, from pompons to spider types. Widely cultivated in gardens and for cut flowers, it thrives in the cool temperatures of late fall.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
-      "colors": [
-        "Yellow",
-        "White",
-        "Bronze",
-        "Purple",
-        "Red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the national flower of Japan, and the Imperial Seal of Japan features a stylized chrysanthemum. The flower is honored each year at the Festival of Happiness on the ninth day of the ninth lunar month."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A spectacular tree of subtropical regions that is covered in clouds of trumpet-shaped lavender-blue flowers in the Southern Hemisphere spring. Its fern-like foliage is feathery and semi-deciduous, and fallen blossoms carpet streets in purple.",
-      "bloomingSeason": "Spring (October to December in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), and Argentina",
+      "description": "Whole streets and parks turn lavender-purple as this tree's trumpet-shaped flowers open in huge clusters over feathery, fern-like leaves. When the blooms fall, they carpet the pavement in violet.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere, roughly October to December",
+      "location": "Pretoria, South Africa, and Sydney and Brisbane, Australia",
       "colors": [
         "Lavender",
-        "Blue-purple"
+        "Purple",
+        "Violet"
       ],
-      "emoji": "🌳",
-      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because of its tens of thousands of jacaranda trees, and there is a local superstition that if a jacaranda blossom falls on your head, you will have good luck."
+      "emoji": "🌸",
+      "funFact": "Jacaranda is native to South America. Its seeds are held in flat, round pods that rattle in the wind, and the tree now lines city streets on several continents."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Chrysanthemums fill autumn gardens with dense, layered pompoms and spidery blooms. They are at their best when other flowers are fading, and cool nights bring out rich colour.",
+      "bloomingSeason": "Autumn, typically September to November in the Northern Hemisphere",
+      "location": "Gardens across Japan, China, Europe and the northern United States",
+      "colors": [
+        "Gold",
+        "Bronze",
+        "White",
+        "Crimson",
+        "Pink"
+      ],
+      "emoji": "🌼",
+      "funFact": "Japan holds chrysanthemum festivals every autumn, and the flower is a symbol of the Imperial family. Each bloom is really a cluster of many tiny flowers called florets."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that is one of the first camellias to flower, producing delicate, often lightly fragrant single or semi-double blooms with prominent golden stamens against glossy dark green leaves. It provides valuable nectar for pollinators late in the season.",
-      "bloomingSeason": "Late autumn to early winter (October to December in the Northern Hemisphere)",
-      "location": "Native to Japan and southern China; grown in gardens in the southeastern United States, Europe, and Australia",
+      "description": "Delicate, open-faced blossoms with golden stamens appear on glossy evergreen shrubs as the weather cools. Their light fragrance and cheerful colour brighten gardens when many plants are going dormant.",
+      "bloomingSeason": "Autumn to early winter, about October to December",
+      "location": "Southeastern United States, such as Georgia and the Carolinas, and southern Japan",
       "colors": [
         "White",
-        "Pink",
-        "Rose-red"
+        "Pale pink",
+        "Rose"
       ],
-      "emoji": "🌸",
-      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis, and its seeds are pressed to produce camellia oil, which is used in cooking and cosmetics in Japan and China."
-    },
-    {
-      "name": "Sternbergia lutea",
-      "commonName": "Winter Daffodil",
-      "description": "A bulbous perennial that produces bright, crocus-like golden flowers in the fall, often appearing in rocky Mediterranean hillsides and gardens after the first autumn rains. Its strap-like leaves emerge with or just after the flowers and persist through winter.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "Mediterranean region, from Spain to Iran and the Caucasus",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌷",
-      "funFact": "Many botanists believe Sternbergia lutea is the 'lily of the field' mentioned in the Bible's Sermon on the Mount, owing to its brilliant yellow color and presence in the Holy Land."
+      "emoji": "🌺",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make camellia oil, which is used in cooking and cosmetics in Asia."
     }
   ]
 }

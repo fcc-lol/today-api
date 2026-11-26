@@ -4,56 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of fragrant flowers that attract bees and butterflies. It is widely cultivated for essential oils, culinary use, and ornamental borders.",
-      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, with major cultivation in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Silvery-green mounds send up slender spikes of fragrant violet-blue flowers. The blooms hum with bees and perfume the warm summer air. In the fields of Provence they form rippling purple rows that stretch to the horizon.",
+      "bloomingSeason": "Late June to August in the Northern Hemisphere, usually peaking in July",
+      "location": "Provence, southern France, and Mediterranean-climate gardens across Europe",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name Lavandula likely comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large composite flower head made of hundreds of tiny florets. Young flower heads track the sun across the sky, and mature plants are valued for seeds, oil, and ornament.",
-      "bloomingSeason": "Mid to late summer (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated in Ukraine, Russia, Argentina, and the United States",
-      "colors": [
-        "yellow",
-        "golden orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The spiral patterns in a sunflower head follow Fibonacci numbers, which allows the seeds to pack in as efficiently as possible."
+      "funFact": "Lavender belongs to the mint family. Its name likely comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent their baths."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial that rises from muddy water on long stalks, bearing large, fragrant flowers and round, water-repellent leaves. It is culturally important in many Asian traditions and is also grown for edible seeds and rhizomes.",
-      "bloomingSeason": "Summer (June to August in temperate Asia)",
-      "location": "Asia, including India, China, Japan, and Vietnam, and northern Australia; widely grown in ponds worldwide",
+      "description": "Large, elegant blossoms rise on tall stalks above round, waxy leaves that float on still ponds and lakes. Each flower opens at dawn in soft layers of pink petals around a golden seed pod.",
+      "bloomingSeason": "Mid-summer, typically June through August in temperate East Asia",
+      "location": "Ponds and wetlands across Japan, China and temperate Asia",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White",
+        "Golden yellow"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus leaves have a microscopic surface structure that makes them self-cleaning, a phenomenon known as the 'lotus effect'."
+      "funFact": "Lotus leaves are covered in microscopic bumps that make water bead up and roll off, carrying dirt with it. Scientists call this the 'lotus effect' and have copied it in self-cleaning coatings."
     },
     {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "A striking evergreen shrub with large, rounded flower heads surrounded by showy bracts. Although its main bloom is in spring, in some years a few flowers can appear into the Southern Hemisphere winter, and related Australian natives such as Banksia flower in July.",
-      "bloomingSeason": "Spring in Australia (September to November), with Southern Hemisphere winter flowering in related species like Banksia ericifolia",
-      "location": "Southeastern Australia, particularly the Sydney region of New South Wales",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. Butterflies and goldfinches flock to them in prairies and cottage gardens at the height of summer.",
+      "bloomingSeason": "June to September, usually at its best in July",
+      "location": "Eastern and central North America, from prairies to home gardens",
       "colors": [
-        "crimson",
-        "red"
+        "Purple",
+        "Pink",
+        "Orange"
       ],
-      "emoji": "🌺",
-      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from an Aboriginal word meaning 'seen from afar'."
+      "emoji": "🌸",
+      "funFact": "The name Echinacea comes from the Greek 'echinos', meaning hedgehog, a nod to the prickly central cone. Many Native American peoples used the plant medicinally."
     }
   ]
 }

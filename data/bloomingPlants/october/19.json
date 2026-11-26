@@ -4,59 +4,46 @@
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A fast-growing tree with fern-like leaves that erupts into dense clusters of trumpet-shaped lavender-blue flowers, often carpeting streets and lawns with fallen petals.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), and Argentina",
+      "description": "Whole streets and parks turn lavender-purple as trees about 10 to 15 meters tall come into flower. Clusters of trumpet-shaped blooms hang over feathery fern-like foliage. When the petals drop, they leave a violet carpet on the pavement below.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere, peaking from October to November",
+      "location": "Pretoria, South Africa, and across eastern Australia, including Sydney and Brisbane",
       "colors": [
         "Lavender",
-        "Purple",
-        "Blue"
+        "Violet",
+        "Purple"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, jacarandas line the streets in such numbers that the city is nicknamed 'Jacaranda City', and a fallen blossom on your head is said to bring good luck."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial whose crocus-like pink-lilac flowers emerge from bare ground in autumn, with leaves appearing only the following spring.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Meadows and woodland edges across Europe; cultivated in gardens in temperate regions worldwide",
-      "colors": [
-        "Pale pink",
-        "Lilac",
-        "Mauve"
-      ],
-      "emoji": "🌷",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+      "emoji": "🌸",
+      "funFact": "Jacarandas come from South America, but Pretoria is nicknamed the Jacaranda City because it has tens of thousands of them. The trees bloom there in mid to late October."
     },
     {
       "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, hardy perennial wildflower with sturdy hairy stems topped with masses of daisy-like flowers featuring golden-yellow centers and many narrow petals.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Eastern and central North America in prairies, meadows, and roadsides",
+      "commonName": "New England aster",
+      "description": "This tall North American wildflower lights up meadows and roadsides in autumn with daisy-like blooms. Each flower has a golden-yellow center ringed by many narrow rays. The blooms are a vital late-season food source for pollinators.",
+      "bloomingSeason": "Late summer to mid-autumn, typically August to October",
+      "location": "Eastern and central North America, including the northeastern United States",
       "colors": [
         "Purple",
         "Violet",
         "Pink",
-        "Yellow center"
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "It is a crucial late-season nectar source for migrating monarch butterflies, which fuel up on its flowers during their journey to Mexico."
+      "emoji": "💜",
+      "funFact": "The flower heads close at night and on cloudy days. Migrating monarch butterflies rely on the nectar to fuel their journey south to Mexico."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark leaves and delicate, often fragrant flowers that open earlier than most other camellias, brightening autumn gardens.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Australia",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden cosmos",
+      "description": "Cosmos has airy, feathery foliage and delicate, saucer-shaped blooms that sway on tall, slender stems. It is a cheerful, easy-going garden favorite. It keeps flowering until the first hard frost.",
+      "bloomingSeason": "Summer through the first frost, often still in flower in October in mild-autumn regions",
+      "location": "Gardens in temperate regions of the Northern Hemisphere; native to Mexico",
       "colors": [
-        "White",
         "Pink",
-        "Rose-red"
+        "White",
+        "Magenta",
+        "Crimson"
       ],
-      "emoji": "🌸",
-      "funFact": "It is a close relative of Camellia sinensis, the plant that gives us tea, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
+      "emoji": "🌼",
+      "funFact": "The name comes from the Greek word kosmos, meaning order or harmony, a nod to the balanced symmetry of its petals."
     }
   ]
 }

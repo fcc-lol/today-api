@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1770,
-      "title": "Boston Massacre",
-      "description": "British soldiers fired into a crowd of colonists on King Street in Boston, killing five people after tensions over the occupation of the city and taxation escalated.",
-      "category": "Political/Military",
-      "significance": "The incident inflamed anti-British sentiment in the American colonies and became a rallying point in the lead-up to the American Revolution."
+      "title": "The Boston Massacre",
+      "description": "On a snowy night in Boston, a crowd confronted British soldiers outside the Custom House. The soldiers fired into the crowd and killed five colonists, among them Crispus Attucks.",
+      "category": "Political Event",
+      "significance": "Patriot leaders widely publicized the shooting. It deepened colonial anger at British rule and helped push the colonies toward the American Revolution."
+    },
+    {
+      "year": 1946,
+      "title": "Churchill Popularizes the 'Iron Curtain'",
+      "description": "Winston Churchill gave a speech at Westminster College in Fulton, Missouri. He warned that an 'iron curtain' had descended across Europe, dividing the continent.",
+      "category": "Politics",
+      "significance": "The phrase became shorthand for the East-West divide. It captured the start of the Cold War and shaped how the West described Soviet influence."
     },
     {
       "year": 1953,
       "title": "Death of Joseph Stalin",
-      "description": "Soviet leader Joseph Stalin died at his dacha near Moscow after suffering a stroke, ending nearly three decades of absolute rule over the Soviet Union.",
+      "description": "Soviet leader Joseph Stalin died in Moscow on the evening of March 5, after a cerebral hemorrhage. He had ruled the USSR for almost three decades.",
       "category": "Death",
-      "significance": "His death triggered a power struggle and led to de-Stalinization under Nikita Khrushchev, reshaping Soviet politics and the dynamics of the Cold War."
+      "significance": "His death set off a power struggle in the Kremlin. It led to Nikita Khrushchev's rise and to a gradual easing of the harshest Soviet repression."
     },
     {
-      "year": 1946,
-      "title": "Churchill's 'Iron Curtain' Speech",
-      "description": "Winston Churchill delivered his address at Westminster College in Fulton, Missouri, declaring that an 'iron curtain' had descended across Europe, dividing the continent.",
-      "category": "Politics/Diplomacy",
-      "significance": "The speech helped define the emerging Cold War division between the Soviet-dominated East and the Western democracies, and shaped Western policy toward the USSR."
+      "year": 1970,
+      "title": "Nuclear Non-Proliferation Treaty Takes Effect",
+      "description": "The Treaty on the Non-Proliferation of Nuclear Weapons entered into force. China, France, the Soviet Union, the United Kingdom and the United States were the nuclear powers that took part.",
+      "category": "Milestone",
+      "significance": "It remains the cornerstone of global efforts to prevent the spread of nuclear weapons and to promote disarmament and peaceful nuclear cooperation."
     },
     {
-      "year": 1512,
-      "title": "Birth of Gerardus Mercator",
-      "description": "Flemish cartographer Gerardus Mercator was born in Rupelmonde, in the County of Flanders. He later developed the Mercator projection, a world map projection published in 1569.",
-      "category": "Birth/Science",
-      "significance": "The Mercator projection revolutionized navigation by allowing sailors to plot courses as straight lines, and it remains one of the most recognized map projections."
-    },
-    {
-      "year": 1960,
-      "title": "Che Guevara Photographed by Alberto Korda",
-      "description": "At a memorial service in Havana for victims of the La Coubre explosion, photographer Alberto Korda captured the portrait of Che Guevara known as 'Guerrillero Heroico'.",
-      "category": "Culture/Photography",
-      "significance": "The image became one of the most reproduced photographs in history and a global symbol of revolution and counterculture."
+      "year": 1979,
+      "title": "Voyager 1 Reaches Jupiter",
+      "description": "NASA's Voyager 1 made its closest approach to Jupiter, passing about 172,000 miles from the planet. It captured detailed images of the planet and its moons, including volcanic activity on Io.",
+      "category": "Science",
+      "significance": "The flyby revealed the first active volcanoes seen beyond Earth. It transformed scientists' understanding of the outer solar system."
     }
   ]
 }

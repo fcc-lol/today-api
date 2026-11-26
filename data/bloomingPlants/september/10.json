@@ -2,60 +2,43 @@
   "date": "September 10",
   "plants": [
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster",
-      "description": "A clump-forming perennial with abundant daisy-like flower heads featuring yellow centers surrounded by narrow petal-like rays. It is a vital late-season nectar source for bees and migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern North America, widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "purple",
-        "violet",
-        "blue",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "The name Aster comes from the Greek word for star, and the flowers are a key fuel stop for monarch butterflies on their autumn migration to Mexico."
-    },
-    {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial whose goblet-shaped flowers emerge naked from the ground in autumn, without leaves, which appear the following spring. Often seen in damp meadows and woodland edges.",
-      "bloomingSeason": "Late summer to autumn (September to October)",
-      "location": "Europe, from Britain and Ireland to the Balkans; cultivated in temperate gardens",
+      "commonName": "Meadow Saffron (Autumn Crocus)",
+      "description": "Pale lavender-pink goblets rise straight from bare ground on leafless stems. The glossy leaves of spring are long gone, so the flowers seem to appear from nowhere. Clusters of them dot damp meadows and woodland edges as summer ends.",
+      "bloomingSeason": "August to September, so it is in flower on September 10",
+      "location": "Meadows and woodland edges across Europe, and in cool-climate gardens in the Northern Hemisphere",
       "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
+        "Lavender",
+        "Pink"
       ],
-      "emoji": "🌸",
-      "funFact": "Despite its name it is not a true crocus, and all parts are highly toxic because they contain colchicine, a compound used in medicine to treat gout."
+      "emoji": "🌷",
+      "funFact": "Despite the name, it is not a true crocus or the source of saffron. All parts of the plant are highly toxic. It also yields colchicine, a compound that has been used in medicine and in plant breeding."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub with feathery blue-green foliage and fragrant, fluffy golden globular flower clusters that light up the Australian bush as winter turns to spring.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
+      "description": "Australia's national floral emblem is covered in fluffy, fragrant golden pom-poms. Whole hillsides glow yellow against the grey-green foliage as winter turns to spring, and the blossoms draw in honeyeaters and bees.",
+      "bloomingSeason": "Late winter to early spring (typically August and September), so it is in flower on September 10",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales, in woodlands and open forests",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
+      "emoji": "🌼",
+      "funFact": "Australia celebrates Wattle Day on September 1, the traditional start of spring, because the tree is in full bloom at that time."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large bright flower heads that track the sun when young. In September, late plantings and fields are in full bloom or setting seed, attracting bees, finches and other wildlife.",
-      "bloomingSeason": "Summer to early autumn (July to September)",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, Argentina and temperate regions worldwide",
+      "name": "Hylotelephium spectabile",
+      "commonName": "Showy Stonecrop (Ice Plant)",
+      "description": "Flat-topped flower heads, packed with tiny star-shaped blooms, open green and slowly deepen to rosy carmine. Thick, succulent grey-green leaves set them off. In early autumn the heads are alive with bees and butterflies.",
+      "bloomingSeason": "August to September, so it is in flower on September 10",
+      "location": "Native to East Asia (China and Korea). Widely grown in temperate gardens in Europe and North America.",
       "colors": [
-        "yellow",
-        "orange",
-        "red",
-        "burgundy"
+        "Pink",
+        "Carmine",
+        "Rose"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west in a behavior called heliotropism, but mature flowers stay facing east."
+      "emoji": "🦋",
+      "funFact": "The plant was long sold as Sedum spectabile, and many gardeners still know it by that name. Its fleshy leaves store water, which makes it tough in dry spells and a dependable late-season nectar source for pollinators."
     }
   ]
 }

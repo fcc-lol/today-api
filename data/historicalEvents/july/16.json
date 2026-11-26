@@ -2,39 +2,32 @@
   "date": "July 16",
   "events": [
     {
+      "year": 1769,
+      "title": "Mission San Diego de Alcalá Is Founded",
+      "description": "Franciscan friar Junípero Serra founded Mission San Diego de Alcalá, the first of California's missions. It was the start of a chain of settlements along the Pacific coast.",
+      "category": "Exploration and Settlement",
+      "significance": "The mission grew into the city of San Diego. It also set the pattern for Spanish colonization in California, with lasting consequences for the region's Indigenous peoples."
+    },
+    {
+      "year": 1790,
+      "title": "The Residence Act Creates the U.S. Capital District",
+      "description": "President George Washington signed the Residence Act. It authorized a permanent seat of government on the Potomac River.",
+      "category": "Politics",
+      "significance": "The act led to the creation of Washington, D.C. It settled a bitter early dispute over where the national capital would be."
+    },
+    {
       "year": 1945,
-      "title": "Trinity Test: First Atomic Bomb Detonated",
-      "description": "The United States conducted the world's first nuclear weapon test at the Alamogordo Bombing and Gunnery Range in New Mexico, detonating a plutonium implosion device code-named 'Gadget' as part of the Manhattan Project.",
+      "title": "The Trinity Test Ushers in the Atomic Age",
+      "description": "In the New Mexico desert, the United States detonated a plutonium-based nuclear device. It was the first nuclear explosion ever conducted.",
       "category": "Science and Technology",
-      "significance": "Marked the beginning of the nuclear age, directly paving the way for the atomic bombings of Hiroshima and Nagasaki and reshaping global geopolitics, warfare, and the Cold War arms race."
+      "significance": "The Manhattan Project's success changed warfare and global politics. It opened the nuclear era, and weeks later atomic bombs were used in Japan."
     },
     {
       "year": 1969,
       "title": "Apollo 11 Launches Toward the Moon",
-      "description": "Apollo 11, carrying astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins, lifted off from Kennedy Space Center in Florida atop a Saturn V rocket at 9:32 a.m. EDT.",
+      "description": "Apollo 11 lifted off from Cape Kennedy, Florida, carrying Neil Armstrong, Buzz Aldrin and Michael Collins. It was bound for the first crewed Moon landing.",
       "category": "Space Exploration",
-      "significance": "Began the first crewed mission to land on the Moon, which achieved the goal set by President Kennedy and became a defining moment of human exploration and the Space Race."
-    },
-    {
-      "year": 622,
-      "title": "Traditional Start of the Islamic Calendar",
-      "description": "July 16, 622 CE (Julian) is commonly used as the epoch of the Islamic Hijri calendar, associated with the Prophet Muhammad's migration (Hijra) from Mecca to Medina.",
-      "category": "Religion",
-      "significance": "Established the reference point for the Islamic lunar calendar, still used by Muslims worldwide to determine religious observances."
-    },
-    {
-      "year": 1790,
-      "title": "Establishment of the District of Columbia as the U.S. Capital",
-      "description": "President George Washington signed the Residence Act, which authorized the creation of a permanent capital on the Potomac River, to be situated in a district not exceeding ten miles square.",
-      "category": "Politics",
-      "significance": "Laid the foundation for Washington, D.C., resolving a contentious debate over the location of the national capital and shaping the early political compromise between North and South."
-    },
-    {
-      "year": 1999,
-      "title": "Death of John F. Kennedy Jr.",
-      "description": "John F. Kennedy Jr., his wife Carolyn Bessette-Kennedy, and her sister Lauren Bessette died when the small plane Kennedy was piloting crashed into the Atlantic Ocean near Martha's Vineyard, Massachusetts.",
-      "category": "Deaths",
-      "significance": "The tragedy ended the life of the son of President John F. Kennedy and prompted national mourning, often viewed as another chapter in the Kennedy family's history of public loss."
+      "significance": "Four days later, humans first walked on the Moon. The mission was a defining achievement of the Space Race."
     }
   ]
 }

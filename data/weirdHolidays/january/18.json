@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "Winnie the Pooh Day",
-      "description": "A celebration of the honey-loving bear from the Hundred Acre Wood. Fans mark the day with honey snacks, Pooh stories, and wearing red shirts without pants, if they dare.",
-      "origin": "Chosen to honor the birthday of A. A. Milne, the author of Winnie-the-Pooh, who was born on January 18, 1882.",
-      "category": "Pop Culture",
-      "emoji": "🍯",
-      "funFact": "The real bear that inspired Pooh was a Canadian black bear named Winnipeg, or 'Winnie,' who lived at the London Zoo and was named after the city of Winnipeg."
+      "description": "A day to celebrate the honey-loving bear from the Hundred Acre Wood. Share a pot of honey, reread a favorite story, or practice Pooh-style kindness and gentle naps.",
+      "origin": "The day marks the birthday of A. A. Milne, born January 18, 1882, who created Winnie-the-Pooh and based the stories on his son Christopher Robin's stuffed animals.",
+      "category": "Pop Culture / Literature",
+      "emoji": "🐻",
+      "funFact": "Pooh was partly inspired by a real black bear named Winnipeg, who lived at the London Zoo and was brought to England by a Canadian soldier."
+    },
+    {
+      "name": "National Thesaurus Day",
+      "description": "A word-nerd holiday for finding better, fancier, or funnier ways to say what you mean. Swap out a tired word for a more vivid one and enjoy the vocabulary.",
+      "origin": "The day marks the birthday of Peter Mark Roget, born January 18, 1779, who published his famous thesaurus in 1852.",
+      "category": "Language / Literature",
+      "emoji": "📚",
+      "funFact": "Roget was a physician and inventor, and he began his word lists as a hobby long before they became one of the world's best-known reference books."
     },
     {
       "name": "National Peking Duck Day",
-      "description": "A day for savoring crispy-skinned roast duck wrapped in thin pancakes with scallions and hoisin sauce. It is a delicious excuse to go fancy with your dinner.",
-      "origin": "An unofficial food holiday, popularized by food-day calendars. Peking duck itself dates back to imperial China, where it was served at royal banquets.",
+      "description": "A salute to the glossy, crisp-skinned roasted duck, served with thin pancakes, scallions, and sweet bean sauce. It's a good excuse for a fancy dinner.",
+      "origin": "This is an unofficial food observance of unclear origin. It honors a dish that dates back centuries in Chinese cuisine.",
       "category": "Food",
       "emoji": "🦆",
-      "funFact": "Traditional Peking duck preparation involves pumping air between the skin and meat and then hanging the bird to dry, which is what produces that famously crackly skin."
-    },
-    {
-      "name": "Thesaurus Day",
-      "description": "A day for word nerds to celebrate synonyms, antonyms, and the joy of never repeating yourself. Participants swap out boring words for splendid, magnificent, resplendent alternatives.",
-      "origin": "Observed on the birthday of Peter Mark Roget, born January 18, 1779, the British physician who created Roget's Thesaurus in 1852.",
-      "category": "Literary",
-      "emoji": "📚",
-      "funFact": "Roget did not start his famous thesaurus until after he retired from medicine at age 61, and he reportedly had a lifelong habit of compiling lists."
-    },
-    {
-      "name": "National Gourmet Coffee Day",
-      "description": "Coffee lovers are encouraged to ditch the gas-station brew and treat themselves to a high-quality, artisanal cup. Fancy beans and pour-over rituals are welcome.",
-      "origin": "An unofficial observance created by coffee enthusiasts and food-day calendars to encourage appreciation for specialty roasts.",
-      "category": "Food",
-      "emoji": "☕",
-      "funFact": "The term 'gourmet coffee' generally refers to beans grown at high altitudes, which develop more complex flavors because they mature more slowly."
-    },
-    {
-      "name": "Women's Day in Wiggle-Room Appreciation: Hat Day (National Hat Day)",
-      "description": "Also known as Hat Day in some calendars, this is a day for donning a favorite headwear, from fedoras to beanies to ridiculous party hats.",
-      "origin": "An unofficial observance that takes place in the dead of winter, when hats are practical as well as stylish.",
-      "category": "Fashion",
-      "emoji": "🎩",
-      "funFact": "Before the 1960s it was considered improper for a gentleman to go outdoors without a hat, and the decline of hat-wearing is often partly credited to President John F. Kennedy, who often went hatless."
+      "funFact": "Traditional Peking duck is often carved at the table, and a skilled chef may slice it into more than 100 pieces."
     }
   ]
 }

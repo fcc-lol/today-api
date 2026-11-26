@@ -2,39 +2,32 @@
   "date": "June 23",
   "events": [
     {
-      "year": 1868,
-      "title": "Christopher Latham Sholes Patents the Typewriter",
-      "description": "Christopher Latham Sholes, together with Carlos Glidden and Samuel Soule, received a U.S. patent for a practical typewriter in Milwaukee, Wisconsin. The design was later sold to E. Remington and Sons, who began mass-producing it in 1873.",
-      "category": "Science and Technology",
-      "significance": "The typewriter transformed office work and written communication, and the QWERTY layout from Sholes's design remains the standard keyboard arrangement today."
-    },
-    {
-      "year": 1912,
-      "title": "Birth of Alan Turing",
-      "description": "Alan Mathison Turing was born in Maida Vale, London. He became a mathematician and logician who formalized the concepts of algorithm and computation with the Turing machine and played a key role in breaking the German Enigma cipher during World War II at Bletchley Park.",
-      "category": "Births",
-      "significance": "Turing is widely regarded as the father of theoretical computer science and artificial intelligence, and his wartime codebreaking helped shorten World War II."
-    },
-    {
       "year": 1757,
       "title": "Battle of Plassey",
-      "description": "Forces of the British East India Company under Robert Clive defeated the Nawab of Bengal, Siraj ud-Daulah, at Plassey. The victory was aided by the defection of Mir Jafar, the Nawab's commander.",
-      "category": "Battles and Wars",
-      "significance": "The battle established British East India Company dominance in Bengal and marked a key step toward British colonial rule over the Indian subcontinent."
+      "description": "Robert Clive led about 3,000 British East India Company troops against the much larger army of Bengal's Nawab, Siraj ud-Daulah, near the village of Plassey. Clive won, helped by divisions within the Nawab's own ranks.",
+      "category": "Battle",
+      "significance": "The victory laid the groundwork for the East India Company's control of Bengal. It was a major step toward British dominance in India."
+    },
+    {
+      "year": 1865,
+      "title": "Stand Watie Surrenders",
+      "description": "At Fort Towson in Indian Territory, Cherokee leader Brigadier General Stand Watie surrendered his Confederate forces. He was the last Confederate general in the field to lay down arms.",
+      "category": "War",
+      "significance": "His surrender marked the effective end of organized Confederate military resistance in the American Civil War."
+    },
+    {
+      "year": 1894,
+      "title": "International Olympic Committee Founded",
+      "description": "At a congress at the Sorbonne in Paris, led by French educator Pierre de Coubertin, delegates voted to establish the International Olympic Committee. They also agreed to revive the Olympic Games for the modern era.",
+      "category": "Sports",
+      "significance": "The meeting launched the modern Olympic movement. The first modern Games followed in Athens in 1896."
     },
     {
       "year": 1972,
       "title": "Title IX Signed into Law",
-      "description": "President Richard Nixon signed Title IX of the Education Amendments of 1972, which prohibits sex-based discrimination in any education program or activity receiving federal financial assistance.",
-      "category": "Law and Politics",
-      "significance": "Title IX dramatically expanded opportunities for women and girls in American education and athletics and remains a cornerstone of gender equity law."
-    },
-    {
-      "year": 1985,
-      "title": "Air India Flight 182 Bombing",
-      "description": "Air India Flight 182, flying from Montreal to London and onward to Delhi, was destroyed by a bomb off the coast of Ireland, killing all 329 people on board. A related bomb explosion at Narita Airport in Japan killed two baggage handlers the same day.",
-      "category": "Disasters and Terrorism",
-      "significance": "It was the deadliest act of aviation terrorism before September 11, 2001, and led to major reforms in airport security and Canadian counterterrorism efforts."
+      "description": "President Richard Nixon signed the Education Amendments of 1972. They included Title IX, which bars sex-based discrimination in education programs that receive federal funding.",
+      "category": "Law and Civil Rights",
+      "significance": "Title IX transformed American schools and universities. It opened up far greater opportunities for women, especially in athletics and academics."
     }
   ]
 }

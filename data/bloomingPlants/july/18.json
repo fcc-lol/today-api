@@ -4,58 +4,43 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers that attract bees and butterflies. Widely cultivated in gardens and commercial fields for essential oils.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean native; cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "description": "Rolling rows of silvery-green shrubs erupt into waves of violet-blue flower spikes. The air hums with bees and carries a sweet, herbal perfume. Peak bloom turns the countryside into a purple patchwork.",
+      "bloomingSeason": "Late June to early August, with peak bloom in mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans used it to scent baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads made up of hundreds of tiny florets. The heads track the sun when young and face east when mature.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; widely cultivated in Ukraine, Russia, Argentina, the United States, and France",
-      "colors": [
-        "yellow",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The spiral arrangement of seeds in a sunflower head follows the Fibonacci sequence, which maximizes seed packing efficiency."
+      "funFact": "The name comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with lavender."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular fragrant flowers rising on tall stalks. The leaves have a water-repellent surface.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Asia and northern Australia, including India, China, Japan, and Vietnam; grown in ponds worldwide",
+      "description": "Dinner-plate-sized blossoms rise above the water on tall stalks, over big round leaves that bead water like quicksilver. Each bloom opens in the morning and closes at night, and lasts about three days.",
+      "bloomingSeason": "Summer, around June to July and often later",
+      "location": "Warm-temperate and tropical Asia, in ponds and lakes across China and Japan",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their own temperature to about 30-35°C, even when the air is much cooler, thanks to a heat-producing process similar to that of warm-blooded animals."
+      "funFact": "Lotus leaves have a microscopic, wax-coated surface that makes water roll off and carry dirt away. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     },
     {
-      "name": "Eucalyptus leucoxylon",
-      "commonName": "Yellow Gum",
-      "description": "A medium-sized Australian tree with smooth mottled bark and clusters of nectar-rich flowers that provide an important food source for native birds and bees during the southern winter.",
-      "bloomingSeason": "Late autumn through winter and spring (May to November in the Southern Hemisphere)",
-      "location": "South Australia and Victoria, Australia",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. Butterflies and goldfinches crowd the flowers across sunny prairies and garden borders.",
+      "bloomingSeason": "June to September, sometimes reblooming in fall",
+      "location": "Eastern and central North America, in prairies and open woodlands and in gardens worldwide",
       "colors": [
-        "red",
-        "pink",
-        "cream",
-        "white"
+        "Purple",
+        "Pink",
+        "Orange-bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Yellow gum flowers vary in color from cream to deep red, and the cultivar 'Rosea' is a popular street tree that feeds lorikeets and honeyeaters in winter."
+      "funFact": "The name comes from the Greek 'echinos', meaning hedgehog. It refers to the prickly central cone. Goldfinches often eat the seeds from the spent seed heads in late summer."
     }
   ]
 }

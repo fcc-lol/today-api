@@ -2,62 +2,46 @@
   "date": "April 19",
   "plants": [
     {
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "Clouds of pale, almost white-pink blossoms cover bare branches before the leaves appear. Petals drift down like confetti in the spring breeze. The effect is one of the most celebrated sights of the season.",
+      "bloomingSeason": "Late March to mid-April in lowland Japan. Peak bloom comes later at higher elevations and farther north, so flowers are still opening in northern Honshu and Hokkaido around April 19.",
+      "location": "Northern Japan (Tohoku and Hokkaido), especially castle parks such as Hirosaki",
+      "colors": [
+        "Pale pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Every Yoshino cherry traces back to a single original tree, because the cultivar is propagated by grafting. The trees are genetic clones, so they bloom in near-perfect synchrony."
+    },
+    {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad blue-green leaves. Thousands of cultivars exist, including single, double, fringed, and parrot types. Mid to late April is peak bloom in the Netherlands, northern Europe, and temperate North America.",
-      "bloomingSeason": "Mid spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, Northern Europe, Northeastern North America, cultivated worldwide in temperate zones",
+      "description": "Cup-shaped blooms in nearly every color stand on smooth, upright stems above blue-green leaves. Whole fields turn into bands of vivid color. They are a symbol of spring across the Netherlands.",
+      "bloomingSeason": "Early April to early May in the Netherlands, with peak bloom usually in mid to late April",
+      "location": "Bollenstreek bulb region of the Netherlands, including Lisse and Keukenhof",
       "colors": [
         "Red",
         "Yellow",
         "Pink",
         "White",
-        "Purple",
-        "Orange"
+        "Purple"
       ],
       "emoji": "🌷",
-      "funFact": "During 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a house in Amsterdam."
+      "funFact": "Tulips came from the mountains of Central Asia. In the 1630s their bulbs became so valuable in Holland that a single rare bulb could cost more than a house."
     },
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Flowering Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of ruffled blossoms before or as the leaves emerge. Late-blooming cultivars such as 'Kanzan' flower in mid to late April in many temperate regions, while northern Japan's Tohoku and Hokkaido regions see peak sakura around this time.",
-      "bloomingSeason": "Early to mid spring (late March to late April depending on latitude and cultivar)",
-      "location": "Japan (Tohoku and Hokkaido), Eastern United States, Pacific Northwest, Europe",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "Goblet-shaped flowers rise from the ground on bare stems.",
+      "bloomingSeason": "Autumn in the Northern Hemisphere. In the Southern Hemisphere, where April is autumn, it blooms around April.",
+      "location": "Southern Hemisphere gardens, such as those in New Zealand and southern Australia",
       "colors": [
-        "Pale pink",
-        "Deep pink",
-        "White"
+        "Lilac",
+        "Pink"
       ],
-      "emoji": "🌸",
-      "funFact": "The Japanese custom of hanami, or flower viewing, has been celebrated for over a thousand years, and the sakura front moves northward across Japan at roughly 2 km per hour."
-    },
-    {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers sprout directly from bare branches and even the trunk, followed by heart-shaped leaves. It is a favorite early food source for native bees.",
-      "bloomingSeason": "Early to mid spring (late March to late April)",
-      "location": "Eastern and Central North America, from Ontario south to Mexico",
-      "colors": [
-        "Magenta",
-        "Pink",
-        "Lavender"
-      ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a mild, tangy flavor; they are sometimes added to salads or fried as fritters."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tropical to subtropical tree with fern-like foliage that bears dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it blooms in spring, but in parts of the tropics and northern subtropics such as Mexico and parts of Florida, early blooms appear in April to May, while other regions have blooms from earlier months lingering into autumn.",
-      "bloomingSeason": "Spring to early summer in the Northern Hemisphere subtropics (April to June); October to December in the Southern Hemisphere",
-      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Africa, and Australia",
-      "colors": [
-        "Lavender",
-        "Blue-purple"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed 'Jacaranda City', and falling flowers create purple carpets on the pavement."
+      "emoji": "🌼",
+      "funFact": "The plant's leaves emerge in spring, long after the flowers have faded. This is why it is nicknamed the naked lady."
     }
   ]
 }

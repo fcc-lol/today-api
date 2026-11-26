@@ -2,39 +2,32 @@
   "date": "March 31",
   "events": [
     {
-      "year": 1889,
-      "title": "Eiffel Tower Officially Inaugurated",
-      "description": "Gustave Eiffel climbed the tower's 1,710 steps to raise the French tricolour at the summit, marking the completion of the structure built for the 1889 Exposition Universelle in Paris. At 300 meters, it was the tallest man-made structure in the world.",
-      "category": "Architecture and Engineering",
-      "significance": "The tower became the enduring symbol of Paris and France and demonstrated the potential of wrought-iron engineering, remaining the world's tallest structure until 1930."
-    },
-    {
       "year": 1596,
-      "title": "Birth of René Descartes",
-      "description": "The French philosopher, mathematician, and scientist was born in La Haye en Touraine, France. He later authored Discourse on the Method and Meditations on First Philosophy, which contain the famous statement 'Cogito, ergo sum' (I think, therefore I am).",
+      "title": "René Descartes is born",
+      "description": "The future philosopher and mathematician was born in La Haye en Touraine, France. He grew up to coin the phrase \"I think, therefore I am.\" He also developed the Cartesian coordinate system.",
       "category": "Birth",
-      "significance": "Descartes is regarded as the father of modern Western philosophy and founded analytic geometry, linking algebra and geometry through the Cartesian coordinate system."
+      "significance": "Descartes is often called the father of modern philosophy. His analytic geometry links algebra and geometry, and it underpins much of modern mathematics and science."
     },
     {
-      "year": 1931,
-      "title": "Hawke's Bay Earthquake Strikes New Zealand",
-      "description": "A magnitude 7.8 earthquake struck the Hawke's Bay region of New Zealand's North Island, devastating the cities of Napier and Hastings. Around 256 people were killed and fires destroyed much of Napier's commercial center.",
-      "category": "Natural Disaster",
-      "significance": "It remains New Zealand's deadliest natural disaster in recorded history. The rebuilding of Napier in the Art Deco style created one of the world's most notable collections of 1930s architecture and led to stricter building codes in New Zealand."
+      "year": 1727,
+      "title": "Sir Isaac Newton dies",
+      "description": "The English mathematician and physicist died in London at age 84. He was honored with a state funeral at Westminster Abbey. Dates are given in the modern Gregorian calendar.",
+      "category": "Death",
+      "significance": "Newton's laws of motion, his theory of universal gravitation and his work on calculus and optics laid the foundations of classical physics."
+    },
+    {
+      "year": 1889,
+      "title": "The Eiffel Tower officially opens",
+      "description": "Engineer Gustave Eiffel unfurled a French flag at the summit of his iron tower in Paris. The ceremony marked the opening of the structure built for the Universal Exhibition. At 324 meters (1,063 feet), it was the tallest structure in the world.",
+      "category": "Milestone",
+      "significance": "Once criticized by some Parisian artists, the tower became the best-known symbol of Paris and France. It also showed what iron construction could achieve."
     },
     {
       "year": 1918,
-      "title": "Daylight Saving Time First Observed in the United States",
-      "description": "The United States first observed daylight saving time on March 31, 1918, after Congress passed the Standard Time Act, which also established time zones. The measure was intended to conserve fuel and energy during World War I.",
-      "category": "Politics and Society",
-      "significance": "The act established standardized time zones across the country and introduced the practice of seasonal clock changes, which continues to be debated and practiced in many nations today."
-    },
-    {
-      "year": 1959,
-      "title": "The 14th Dalai Lama Crosses into India",
-      "description": "Following the failed Tibetan uprising against Chinese rule, Tenzin Gyatso, the 14th Dalai Lama, crossed the border into India after a perilous journey across the Himalayas and was granted asylum by the Indian government.",
-      "category": "Politics and Religion",
-      "significance": "This event began the Tibetan government-in-exile based in Dharamshala, India, and brought international attention to the Tibetan cause, which remains a major issue in global politics and human rights discussions."
+      "title": "Daylight Saving Time begins in the United States",
+      "description": "Clocks across the country moved forward for the first time under a national daylight saving law. The measure was introduced as a wartime effort to save energy.",
+      "category": "Milestone",
+      "significance": "The first national daylight saving time began a practice of seasonal clock changes that the US and many other countries still follow."
     }
   ]
 }

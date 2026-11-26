@@ -2,39 +2,32 @@
   "date": "July 25",
   "events": [
     {
+      "year": 1593,
+      "title": "Henry IV of France Converts to Catholicism",
+      "description": "After years of religious civil war, the Protestant-raised king publicly renounced his faith and embraced Roman Catholicism in a ceremony at the Basilica of Saint-Denis.",
+      "category": "Politics & Religion",
+      "significance": "The move helped end France's Wars of Religion and secured Henry's acceptance as king. It paved the way for the Edict of Nantes in 1598, which granted religious toleration to French Protestants."
+    },
+    {
+      "year": 1603,
+      "title": "James I Crowned King of England and Scotland",
+      "description": "James VI of Scotland was crowned at Westminster Abbey as James I of England, ruling both kingdoms after the death of Elizabeth I.",
+      "category": "Royalty & Politics",
+      "significance": "The Union of the Crowns brought the two realms under one monarch for the first time, a step toward the eventual creation of Great Britain."
+    },
+    {
       "year": 1909,
-      "title": "Louis Blériot Crosses the English Channel",
-      "description": "French aviator Louis Blériot flew his Blériot XI monoplane from Calais, France, to Dover, England, in about 36 minutes, becoming the first person to cross the English Channel in a heavier-than-air aircraft and winning a £1,000 prize offered by the Daily Mail.",
-      "category": "Science and Technology",
-      "significance": "The flight showed the practical potential of aviation, ended Britain's perception of itself as an island safe from attack, and boosted the growth of the aircraft industry."
-    },
-    {
-      "year": 1978,
-      "title": "Birth of Louise Brown, the First 'Test-Tube Baby'",
-      "description": "Louise Joy Brown was born at Oldham General Hospital in England. She was the first human born after conception by in vitro fertilization (IVF), a procedure developed by Robert Edwards and Patrick Steptoe.",
-      "category": "Science and Medicine",
-      "significance": "Her birth opened the era of assisted reproductive technology, which has helped millions of people conceive. Robert Edwards received the Nobel Prize in Physiology or Medicine in 2010."
-    },
-    {
-      "year": 1943,
-      "title": "Mussolini Removed from Power in Italy",
-      "description": "After the Allied invasion of Sicily and a vote of no confidence by the Grand Council of Fascism, King Victor Emmanuel III dismissed Benito Mussolini as prime minister and had him arrested. Marshal Pietro Badoglio was appointed to lead the government.",
-      "category": "Politics and War",
-      "significance": "The fall of Mussolini ended over two decades of Fascist rule, led to Italy's armistice with the Allies in September 1943, and altered the course of World War II in Europe."
-    },
-    {
-      "year": 1814,
-      "title": "Battle of Lundy's Lane",
-      "description": "American and British forces fought near Niagara Falls in one of the bloodiest battles of the War of 1812. It was fought into the night and ended in a tactical draw, with heavy casualties on both sides.",
-      "category": "Military",
-      "significance": "The battle halted American attempts to invade Upper Canada and strengthened Canadian resolve and identity. It remains among the deadliest engagements fought on Canadian soil."
+      "title": "Blériot Flies Across the English Channel",
+      "description": "French aviator Louis Blériot piloted his Blériot XI monoplane from France to England in about 36 minutes, becoming the first person to cross the Channel by airplane.",
+      "category": "Science & Exploration",
+      "significance": "The flight showed that aircraft could cross natural barriers that had long protected nations. It sparked huge public excitement about aviation and its military potential."
     },
     {
       "year": 1957,
-      "title": "Tunisia Abolishes the Monarchy and Becomes a Republic",
-      "description": "Tunisia's Constituent Assembly voted to abolish the monarchy of Muhammad VIII al-Amin, the Bey of Tunis, and proclaimed the country a republic. Habib Bourguiba became its first president.",
+      "title": "Tunisia Becomes a Republic",
+      "description": "A year after gaining independence from France, Tunisia abolished its monarchy and proclaimed a republic, with Habib Bourguiba as its first president.",
       "category": "Politics",
-      "significance": "The move completed Tunisia's transition after gaining independence from France in 1956 and set up the republic that Bourguiba led for 30 years."
+      "significance": "Bourguiba's long leadership shaped modern Tunisia, which pursued notable social reforms, including expanded women's rights, in the post-colonial Arab world."
     }
   ]
 }

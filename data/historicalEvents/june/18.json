@@ -2,39 +2,39 @@
   "date": "June 18",
   "events": [
     {
-      "year": 1815,
-      "title": "Battle of Waterloo",
-      "description": "Napoleon Bonaparte was decisively defeated near Waterloo in present-day Belgium by the Seventh Coalition, led by the Duke of Wellington and Prussian Field Marshal Gebhard von Blücher.",
-      "category": "Military",
-      "significance": "The defeat ended Napoleon's rule as Emperor of the French after his Hundred Days return, closing the Napoleonic Wars and reshaping the European balance of power for decades."
-    },
-    {
       "year": 1812,
       "title": "United States Declares War on Britain",
-      "description": "President James Madison signed the declaration of war passed by Congress, beginning the War of 1812 against the United Kingdom over trade restrictions, impressment of American sailors, and British support for Native American resistance.",
-      "category": "Politics/War",
-      "significance": "It was the first time the United States formally declared war on another nation, and the conflict strengthened American national identity and sovereignty."
+      "description": "President James Madison signed the declaration of war passed by Congress. It began the War of 1812 against the United Kingdom. The dispute centered on British trade restrictions, the impressment of American sailors, and tensions on the frontier.",
+      "category": "War",
+      "significance": "It was the first time the United States formally declared war. The conflict boosted American national identity and shaped relations with Britain and Canada."
+    },
+    {
+      "year": 1815,
+      "title": "Battle of Waterloo",
+      "description": "Near a small Belgian village, the Duke of Wellington and Prussian Field Marshal Gebhard Leberecht von Blücher defeated Napoleon Bonaparte. Napoleon was forced to abdicate as French emperor for the second and final time.",
+      "category": "Battle",
+      "significance": "Waterloo ended more than two decades of nearly continuous European war. It closed the Napoleonic era and set the stage for a long period of relative peace among Europe's great powers."
+    },
+    {
+      "year": 1928,
+      "title": "Amelia Earhart Crosses the Atlantic by Air",
+      "description": "Amelia Earhart became the first woman to fly across the Atlantic Ocean in an aircraft. She was a passenger on the flight, with Wilmer Stultz as pilot and Lou Gordon as mechanic.",
+      "category": "Aviation",
+      "significance": "The flight made Earhart an international celebrity. It launched the career that would make her one of the most celebrated figures in aviation history."
     },
     {
       "year": 1940,
-      "title": "Churchill's 'Finest Hour' Speech and De Gaulle's Appeal",
-      "description": "Winston Churchill delivered his 'This was their finest hour' speech to the House of Commons as France collapsed. The same day, Charles de Gaulle broadcast his Appeal of 18 June from London via the BBC, urging the French to continue resisting Germany.",
-      "category": "Politics/War",
-      "significance": "Both addresses galvanized Allied resolve during World War II, and de Gaulle's appeal marked the beginning of the Free French movement."
+      "title": "De Gaulle's Appeal of 18 June",
+      "description": "From exile in London, General Charles de Gaulle spoke on BBC radio to the French people as France was falling to Germany. He urged them to continue the fight and refuse to accept defeat.",
+      "category": "World War II",
+      "significance": "The broadcast is seen as the founding moment of the Free French movement. It made de Gaulle the voice of French resistance."
     },
     {
       "year": 1983,
-      "title": "Sally Ride Becomes First American Woman in Space",
-      "description": "Astronaut Sally Ride launched aboard the Space Shuttle Challenger on mission STS-7, serving as a mission specialist.",
-      "category": "Science/Space",
-      "significance": "Her flight broke a major barrier in space exploration and inspired generations of women to pursue careers in science, technology, engineering, and mathematics."
-    },
-    {
-      "year": 1942,
-      "title": "Birth of Paul McCartney",
-      "description": "Paul McCartney, the English singer-songwriter and bassist, was born in Liverpool, England.",
-      "category": "Birth/Culture",
-      "significance": "As a co-founder of The Beatles and a prolific solo artist, McCartney became one of the most influential and commercially successful musicians in history."
+      "title": "Sally Ride Becomes the First American Woman in Space",
+      "description": "Astronaut Sally Ride launched aboard the Space Shuttle Challenger on mission STS-7. She served as a mission specialist on the six-day flight.",
+      "category": "Space Exploration",
+      "significance": "Ride's flight broke a major barrier in the U.S. space program. It inspired generations of girls and women to pursue science and exploration."
     }
   ]
 }

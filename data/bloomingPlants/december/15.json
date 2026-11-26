@@ -4,62 +4,44 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In its native habitat it grows into a woody shrub up to 4 meters tall, and it is now cultivated worldwide as a holiday plant.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide, grown outdoors in tropical and subtropical regions such as Florida, Hawaii, and southern California",
+      "description": "In the wild, poinsettia is a tall, sprawling shrub or small tree, nothing like the compact potted plants sold in winter. It can reach 3–4 meters. Its flaming crowns are made of bright bracts, which are modified leaves. They surround tiny yellow-green flower clusters at the center.",
+      "bloomingSeason": "Wild plants bloom in December, in the dry winter season.",
+      "location": "Mexico and Central America, where it is native",
       "colors": [
         "Red",
-        "White",
-        "Pink",
+        "Crimson",
         "Cream",
-        "Marbled"
-      ],
-      "emoji": "🎄",
-      "funFact": "Poinsettias need long nights of about 12 hours of uninterrupted darkness for around 8 to 10 weeks to develop their colored bracts. The Aztecs called the plant Cuetlaxochitl and used its sap to make a reddish dye."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. Thousands of cultivars exist, with single, semi-double, and fully double blooms. It thrives in mild, humid climates with acidic soil and partial shade.",
-      "bloomingSeason": "Late autumn through early spring (November to March)",
-      "location": "Native to Japan, Korea, and eastern China; widely grown in the southeastern United States, the Pacific Northwest, the UK, and Mediterranean Europe",
-      "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Variegated"
+        "Pink"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant that produces tea. In Japan, camellias are called tsubaki and their oil has been used for centuries for hair care and for polishing samurai swords."
+      "funFact": "The showy 'petals' aren't petals. The true flowers are the tiny cup-shaped clusters, called cyathia, in the middle of the colored bracts."
     },
     {
-      "name": "Nuytsia floribunda",
-      "commonName": "Western Australian Christmas Tree",
-      "description": "The world's largest mistletoe, growing as a tree up to 10 meters tall. In early summer it is covered in brilliant, fiery orange flower clusters. It is a hemiparasite that taps into the roots of neighboring plants.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (November to January)",
-      "location": "Southwestern Western Australia, in sandy soils of woodlands and heathlands",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "This glossy-leaved evergreen shrub flowers in the cool days of late autumn and early winter, when most gardens have gone quiet. Its open, silky blooms have golden stamens at the center. They often drift down in drifts of fallen petals beneath the bush.",
+      "bloomingSeason": "Autumn into early winter. Flowering usually starts in October or November and continues through December or January.",
+      "location": "Native to southern Japan. It is widely grown in the mild-winter gardens of the southern United States and Europe.",
       "colors": [
-        "Orange",
-        "Golden yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "This tree is a root parasite that can attach to the roots of other plants, and it has even been known to cut through underground cables, mistaking them for roots. Its flowering coincides with Christmas, which gave it its common name."
-    },
-    {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial with large trumpet-shaped flowers, usually 2 to 4 per thick hollow stem. In the Northern Hemisphere it is forced indoors to bloom for the winter holidays, while in the Southern Hemisphere it blooms naturally in the early summer garden.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; spring to early summer outdoors in the Southern Hemisphere",
-      "location": "Native to the tropical and subtropical Americas, especially the Andes and Brazil; cultivated worldwide",
-      "colors": [
-        "Red",
         "White",
-        "Pink",
-        "Orange",
-        "Striped"
+        "Pale pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Plants sold as amaryllis are actually Hippeastrum. The true Amaryllis genus contains only two species and is native to South Africa. A single large bulb can produce flower stalks over 60 cm tall."
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to produce a culinary and cosmetic oil."
+    },
+    {
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "This Australian native shrub puts on its festive show at the start of summer. Small creamy flowers open, and then their sepals swell and turn a rich red. The bush ends up covered in red, papery 'blossoms' that look like petals.",
+      "bloomingSeason": "Flowers open from December onwards in southeastern Australia's summer.",
+      "location": "Eastern Australia, including the New South Wales coast and ranges, and gardens as far south as Canberra",
+      "colors": [
+        "Cream",
+        "Red"
+      ],
+      "emoji": "🎄",
+      "funFact": "The red color isn't from petals. After each small flower fades, its calyx enlarges and turns red, which makes the plant a popular Christmas decoration in Australia."
     }
   ]
 }

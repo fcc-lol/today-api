@@ -3,57 +3,30 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that bears fragrant, five-petaled flowers on bare branches in late winter. It is celebrated across East Asia, and ume plum festivals draw crowds in Japan and China at this time of year.",
-      "bloomingSeason": "Late winter to early spring (late January to March)",
-      "location": "Japan, China, Korea (native); cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare, gnarled branches break into fragrant blossoms in white, blush and deep rose, often while frost is still in the air. Each flower is about the size of a thumbnail. The scent is spicy-sweet and carries well on cold air. Japan's famous plum groves are a favorite place to see them.",
+      "bloomingSeason": "Late winter to early spring, roughly February to March, with the flowers opening before the leaves",
+      "location": "Japan, including its famous plum groves and festivals, and across East Asia",
       "colors": [
         "White",
         "Pink",
-        "Deep red"
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms traditionally herald the end of winter in East Asia and bloom weeks before cherry blossoms. In Japanese culture they symbolize perseverance because they flower in the cold."
+      "funFact": "Ume blooms weeks before cherry blossoms, so in East Asian culture it is a symbol of perseverance and the first promise of spring. Its green fruits are pickled as umeboshi and steeped in liqueur."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and carpets woodlands and gardens in late winter.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Common snowdrop",
+      "description": "Nodding, white, bell-shaped flowers hang from slender stems above grey-green strap leaves. Each bloom has a small green mark on its inner petals. Snowdrops carpet woodland floors and churchyards in drifts, often pushing up through frost or snow.",
+      "bloomingSeason": "Typically January to February, and increasingly earlier in mild winters",
+      "location": "Woodlands, gardens and churchyards across the United Kingdom and much of Europe",
       "colors": [
         "White",
         "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce galantamine, a compound used in medicines for Alzheimer's disease. Enthusiasts called galanthophiles pay high prices for rare cultivars."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen Australian tree or large shrub with fluffy, golden, fragrant flower balls. Its blooming runs from late winter into spring, and it is a vital food source for native insects and birds.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October, with early blooms in some regions)",
-      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
-    },
-    {
-      "name": "Plumeria rubra",
-      "commonName": "Frangipani",
-      "description": "A tropical deciduous shrub or small tree with thick succulent branches and clusters of waxy, intensely fragrant flowers. It thrives in warm climates and often blooms through the warmer months in the tropics.",
-      "bloomingSeason": "Warm season; in the tropics, flowering can occur most of the year, including February in the Southern Hemisphere summer",
-      "location": "Native to Central America, Mexico and the Caribbean; widely grown in Hawaii, Southeast Asia, Africa, and Australia",
-      "colors": [
-        "White",
-        "Yellow",
-        "Pink",
-        "Red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Frangipani flowers are strongest in scent at night to attract hawk moths, yet the flowers offer no nectar and trick pollinators by mimicry."
+      "funFact": "Snowdrops make a natural antifreeze-like protein that helps them cope with cold. Their bulbs are also the original source of galantamine, a compound used in medicine."
     }
   ]
 }

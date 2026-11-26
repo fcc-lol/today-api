@@ -4,58 +4,43 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in Japan, China, and Korea, where it is prized as a harbinger of spring and often grown as bonsai.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "East Asia (Japan, China, Korea); cultivated worldwide in temperate gardens",
+      "description": "Gnarled branches, still bare of leaves, burst into clouds of delicately scented blossoms. The flowers open while late-winter chill lingers, and their sweet, spicy fragrance drifts through gardens and orchards. They are a beloved herald of spring.",
+      "bloomingSeason": "Late January to mid-March, often peaking in late February and early March",
+      "location": "Japan, including the orchards and shrine gardens of Honshu, plus eastern China and Korea",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pale pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms bloom while snow may still be on the ground, so they symbolize perseverance and hope in East Asian culture. The fruit is pickled to make umeboshi and used to flavor umeshu liqueur."
+      "funFact": "Ume blossoms have been celebrated in East Asian poetry and art for well over a thousand years. Their fruit is pickled into umeboshi and steeped into plum wine."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals. It carpets woodlands, meadows, and gardens across western Europe, and countless cultivars are grown in gardens elsewhere.",
-      "bloomingSeason": "Early spring (late February to April)",
-      "location": "Western Europe (UK, France, Spain); naturalized in North America and cultivated in temperate regions worldwide",
+      "description": "Wild daffodils light up woodlands and meadows with nodding, golden trumpets framed by paler petals. They carpet the ground in drifts of yellow, a cheerful sign that winter is loosening its grip.",
+      "bloomingSeason": "Late February through March, with March 10 falling within the typical peak in many areas",
+      "location": "Western Europe, including the woodlands and meadows of England, Wales and France",
       "colors": [
-        "yellow",
-        "pale yellow",
-        "cream"
+        "Yellow",
+        "Pale yellow",
+        "Cream"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils contain lycorine and galantamine. Galantamine is extracted from related Narcissus and Galanthus species and used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "All parts of the daffodil contain toxic alkaloids. One of them, galantamine, was first studied from related bulbs and is now used in medicine."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large evergreen shrub with giant, bowl-shaped flower heads made of colorful bracts surrounding a central cluster of true flowers. It grows in the fynbos vegetation of South Africa and is a popular cut flower.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere, with flowering from about February to May in some populations",
-      "location": "Western and Southern Cape, South Africa",
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "Silky, cup-shaped blooms in glowing orange cover hillsides and roadsides. The petals open in full sun and fold closed on cloudy days and at night, so whole slopes seem to switch on and off with the light.",
+      "bloomingSeason": "Late winter through spring, with early blooms appearing in March in warm years, especially after winter rains",
+      "location": "California, USA, including the Central Valley foothills and southern deserts and grasslands",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Orange",
+        "Golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower. Proteas are an ancient plant lineage that predates the breakup of Gondwana, and the flower heads can reach 30 cm across."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A towering deciduous tree from the Himalayas that bears huge, goblet-shaped, fragrant flowers on bare branches. It is grown in mild, moist gardens in Britain, New Zealand, and the Pacific Northwest.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Himalayan foothills (Nepal, Bhutan, Sikkim, Yunnan); cultivated in mild temperate gardens",
-      "colors": [
-        "deep pink",
-        "rose",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "Magnolia trees are among the oldest flowering plants. Their flowers evolved before bees existed and are adapted to pollination by beetles, and a Campbell's magnolia may take 20 or more years from seed to flower."
+      "emoji": "🧡",
+      "funFact": "It is the official state flower of California. Its petals close at night and in cool, cloudy weather."
     }
   ]
 }

@@ -2,39 +2,32 @@
   "date": "January 16",
   "events": [
     {
-      "year": 1547,
-      "title": "Ivan IV Crowned First Tsar of Russia",
-      "description": "Ivan IV, known as Ivan the Terrible, was crowned in the Dormition Cathedral in Moscow, becoming the first ruler to be formally crowned with the title Tsar of All Russia.",
+      "year": -27,
+      "title": "Octavian Becomes Augustus",
+      "description": "The Roman Senate bestowed the title \"Augustus\" on Octavian, Julius Caesar's adopted heir. The honor set him apart from every other Roman politician and gave him unmatched prestige.",
       "category": "Politics",
-      "significance": "The coronation elevated the status of the Muscovite ruler, laid the foundation for the Russian Tsardom, and shaped Russian autocratic rule for centuries."
+      "significance": "The date is traditionally seen as the symbolic end of the Roman Republic and the start of the Roman Empire. Augustus became its first emperor."
     },
     {
-      "year": 1605,
-      "title": "First Edition of Don Quixote Published",
-      "description": "The first part of Miguel de Cervantes' novel El ingenioso hidalgo don Quijote de la Mancha was published in Madrid, though the exact date is traditionally cited as around this time following its licensing in late 1604.",
-      "category": "Literature",
-      "significance": "Often regarded as the first modern novel and one of the greatest works of fiction, it profoundly influenced Western literature."
-    },
-    {
-      "year": 1920,
-      "title": "Prohibition Begins in the United States",
-      "description": "The Eighteenth Amendment to the U.S. Constitution took effect, banning the manufacture, sale, and transportation of intoxicating liquors nationwide.",
-      "category": "Law and Society",
-      "significance": "Prohibition led to the rise of organized crime and bootlegging, and was repealed in 1933 by the Twenty-first Amendment, serving as a lasting lesson in the limits of legislating social behavior."
-    },
-    {
-      "year": 1991,
-      "title": "Operation Desert Storm Begins",
-      "description": "A U.S.-led coalition launched a massive air campaign against Iraq, beginning the Gulf War following Iraq's invasion and occupation of Kuwait in August 1990 (it began January 17 local time in the Persian Gulf, evening of January 16 in the US).",
-      "category": "Military",
-      "significance": "The war liberated Kuwait, showcased advanced precision military technology, and reshaped U.S. involvement and geopolitics in the Middle East."
+      "year": 1919,
+      "title": "Prohibition Becomes Part of the U.S. Constitution",
+      "description": "Nebraska became the 36th state to ratify the Eighteenth Amendment. That gave the amendment the three-fourths majority it needed. It banned the manufacture, sale and transport of intoxicating liquors in the United States.",
+      "category": "Law and Politics",
+      "significance": "Nationwide Prohibition began a year later and reshaped American society. It fueled organized crime and speakeasies. It was repealed in 1933, and it remains a famous example of a constitutional reform that backfired."
     },
     {
       "year": 1979,
-      "title": "Shah of Iran Leaves the Country",
-      "description": "Mohammad Reza Pahlavi, the Shah of Iran, fled Iran amid widespread protests and unrest, leaving the country under a regency council.",
+      "title": "The Shah of Iran Leaves the Country",
+      "description": "Amid mass protests and growing unrest, Mohammad Reza Pahlavi left Iran, ostensibly for a short vacation. He never returned.",
       "category": "Politics",
-      "significance": "His departure marked a decisive turning point in the Iranian Revolution, leading to the end of the monarchy and the establishment of the Islamic Republic under Ayatollah Khomeini."
+      "significance": "His departure was a turning point in the Iranian Revolution. It ended Iran's monarchy and led to the founding of the Islamic Republic. The change reshaped the politics of the Middle East."
+    },
+    {
+      "year": 2003,
+      "title": "Space Shuttle Columbia Launches on Its Final Mission",
+      "description": "Columbia lifted off from Kennedy Space Center on mission STS-107, a 16-day science flight. It was the shuttle's 28th mission.",
+      "category": "Science and Exploration",
+      "significance": "Foam debris struck the shuttle's wing during launch. Columbia broke apart on re-entry on February 1, killing all seven astronauts. The loss led to major safety reforms in NASA's shuttle program."
     }
   ]
 }

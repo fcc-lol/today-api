@@ -4,60 +4,44 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flowers (cyathia) surrounded by showy colored bracts that are often mistaken for petals. Grows outdoors as a large shrub in warm climates and is widely used as a potted holiday plant elsewhere.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide in warm regions and as an indoor plant",
+      "description": "Wild poinsettias grow as tall shrubs in the dry forests of southern Mexico. In late December they carry fiery crimson bracts, which are leaves that look like petals. These surround clusters of tiny yellow flowers. The bright bracts are the plant's way of attracting pollinators.",
+      "bloomingSeason": "Late autumn through winter (roughly November to February) in its native range",
+      "location": "Southern Mexico, including Guerrero and Oaxaca, and widely grown in warm climates around the world",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream",
-        "Marbled"
+        "red",
+        "yellow",
+        "green"
       ],
       "emoji": "🎄",
-      "funFact": "Poinsettias are short-day plants, so they need long uninterrupted nights to develop their colorful bracts. The Aztecs called it cuetlaxochitl and used the sap for medicine and the bracts for dye."
+      "funFact": "The Aztecs called it cuetlaxochitl and used its sap to make a reddish dye and as a traditional medicine. Poinsettias flower in short days, so they bloom around Christmas."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers. Early-flowering cultivars open in the cool months of winter, brightening gardens when little else blooms.",
-      "bloomingSeason": "Late autumn to early spring (December to March)",
-      "location": "Native to Japan, Korea and eastern China; grown in temperate gardens in the southeastern United States, Europe, Australia and New Zealand",
+      "name": "Delosperma cooperi",
+      "commonName": "Cooper's Hardy Ice Plant",
+      "description": "Southern Africa is in midsummer in late December. Succulent mats of this ice plant are covered in glossy, daisy-like magenta flowers that open wide in full sun and close in dull weather.",
+      "bloomingSeason": "Summer, roughly November to March in the Southern Hemisphere",
+      "location": "Native to the Eastern Cape and Free State of South Africa and Lesotho, and also grown in gardens in Australia and New Zealand",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Variegated"
+        "magenta",
+        "purple",
+        "pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "The flowers look like they are covered in tiny ice crystals. Those shimmering surface cells hold water and help the plant survive drought."
+    },
+    {
+      "name": "Metrosideros excelsa",
+      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
+      "description": "This coastal evergreen clings to cliffs and beaches. In December it becomes a mass of crimson pompom flowers made of long, bristly stamens, which draw nectar-loving birds such as tūī and bellbirds.",
+      "bloomingSeason": "Late spring to midsummer, peaking in December",
+      "location": "Coastal North Island of New Zealand",
+      "colors": [
+        "crimson",
+        "red",
+        "yellow"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan, the camellia (tsubaki) has long been associated with winter and the tea ceremony."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading, umbrella-shaped tree with fern-like leaves that becomes covered in brilliant clusters of flowers. Southern Hemisphere populations and some tropical regions bloom around the summer months, making it a spectacular sight at Christmas.",
-      "bloomingSeason": "Summer (December to February in the Southern Hemisphere); late spring to summer in the tropics",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, South America, the Caribbean and Africa",
-      "colors": [
-        "Scarlet",
-        "Orange-red",
-        "Yellow"
-      ],
-      "emoji": "🔥",
-      "funFact": "Although it is a famously common tree in the tropics, the royal poinciana is endangered in its native Madagascar. Its long seed pods can reach 60 cm and rattle in the wind."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery dark green leaves and nodding, cup-shaped white flowers with golden stamens. It flowers in the depths of winter, often pushing through frost and snow.",
-      "bloomingSeason": "Midwinter to early spring (December to March)",
-      "location": "Native to mountainous woodlands of central and southern Europe, including the Alps and northern Apennines; cultivated in temperate gardens worldwide",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name it is not a true rose and is entirely unrelated to the rose family; it belongs to the buttercup family. All parts of the plant are toxic, and legend says it first bloomed from the tears of a girl with no gift for the Christ child."
+      "funFact": "Its flowering peaks around Christmas, so New Zealanders call it the Christmas tree. Some individual trees are hundreds of years old."
     }
   ]
 }

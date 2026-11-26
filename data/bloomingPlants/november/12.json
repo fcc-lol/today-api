@@ -2,64 +2,48 @@
   "date": "November 12",
   "plants": [
     {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Whole avenues turn into drifts of lavender-violet as clouds of trumpet-shaped blooms cover the feathery-leaved branches. Petals fall to carpet streets and pavements in purple.",
+      "bloomingSeason": "Late September through November (spring in the Southern Hemisphere)",
+      "location": "Pretoria, South Africa, and subtropical eastern Australia",
+      "colors": [
+        "lavender",
+        "violet",
+        "purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Native to South America, jacarandas were planted so widely in Pretoria that it is nicknamed the Jacaranda City. Tradition says a blossom landing on your head brings good luck."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub opens delicate, often fragrant flowers just as autumn gardens fade. Its blooms are single or semi-double, with golden stamens in the center, and they drop petals in soft drifts under the bush.",
+      "bloomingSeason": "Autumn into early winter, starting October–November and continuing through December or January",
+      "location": "Japan, where it is native, and in mild temperate gardens worldwide",
+      "colors": [
+        "white",
+        "pink",
+        "rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "It is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed for camellia oil, long used in Japan for hair and skin care."
+    },
+    {
       "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A hardy perennial prized for dense, layered blooms in many forms, from pompons to spiders. It is one of the last major garden flowers to bloom in the Northern Hemisphere, thriving in cool autumn temperatures and short days.",
-      "bloomingSeason": "Mid-autumn to early winter (October to December in the Northern Hemisphere)",
-      "location": "Cultivated in East Asia, Europe, and North America; native to China",
+      "commonName": "Florist's chrysanthemum",
+      "description": "Dense, many-petaled flower heads in rich autumn shades light up gardens, temples and flower shows when most other blooms are over. Petals may be spiky, pom-pom round or spidery, depending on the cultivar.",
+      "bloomingSeason": "Autumn, peaking in October and November",
+      "location": "Japan and East Asia, and gardens across the Northern Hemisphere",
       "colors": [
         "yellow",
         "white",
         "bronze",
-        "red",
-        "purple",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are a photoperiodic short-day plant, and in Japan the Chrysanthemum Festival honors the flower, which is also the emblem of the Imperial family."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A large, semi-deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. In late spring the blooms carpet streets and gardens with purple petals across the Southern Hemisphere.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to Argentina and Bolivia; widely planted in Australia, South Africa (Pretoria), Brazil, and New Zealand",
-      "colors": [
-        "lavender",
-        "blue",
+        "pink",
         "purple"
       ],
-      "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'. Australian students traditionally say that if a jacaranda blossom falls on your head, you will pass your exams."
-    },
-    {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves that produces delicate, often lightly fragrant flowers in autumn, earlier than most other camellias. It is common in gardens and hedges in mild climates.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to southern Japan; cultivated in the southeastern United States, Europe, and Australia",
-      "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to make camellia oil, used in Japan for cooking, cosmetics, and hair care."
-    },
-    {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen",
-      "description": "A small woodland tuberous perennial whose swept-back pink flowers appear before the marbled, ivy-shaped leaves. It naturalizes beneath trees and shrubs and brings color to the autumn forest floor.",
-      "bloomingSeason": "Late summer to late autumn (September to November)",
-      "location": "Native to the Mediterranean region and southern Europe through Turkey; naturalized in the UK and parts of North America",
-      "colors": [
-        "pink",
-        "magenta",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "After flowering, the flower stalks coil like springs and pull the seed capsules to the ground, where ants help disperse the seeds."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums bloom in response to shortening autumn days, a trait called short-day flowering. Growers exploit it by covering plants to trigger blooms at other times of year."
     }
   ]
 }

@@ -2,63 +2,61 @@
   "date": "December 16",
   "plants": [
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In its native habitat it can grow up to 4 meters tall, and it is now a worldwide symbol of the Christmas season.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Native to southern Mexico and Central America; grown outdoors in warm regions such as Florida, California, Hawaii, and the Mediterranean, and as a houseplant worldwide",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "Glossy evergreen shrubs covered in silky, open-faced blooms with golden stamens. They brighten the dim days of early winter and often drop their petals like confetti beneath the branches.",
+      "bloomingSeason": "Autumn through early winter, typically October to January",
+      "location": "Gardens in Japan, its native home, and the mild-winter southeastern United States",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream",
-        "Marbled"
-      ],
-      "emoji": "🎄",
-      "funFact": "The colorful parts are modified leaves called bracts, which change color in response to the long nights of short-day photoperiods. The Aztecs called it cuetlaxochitl and used it to make dye and medicine."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like, cup-shaped flowers. It thrives in mild, humid winters and partially shaded locations, and thousands of cultivars have been developed.",
-      "bloomingSeason": "Late autumn through early spring (December to March)",
-      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, the UK, Australia, New Zealand, and Europe",
-      "colors": [
-        "Red",
         "Pink",
         "White",
-        "Variegated"
+        "Rose-red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of the tea plant (Camellia sinensis), and it has been cultivated in Japan for centuries, where it is called tsubaki and symbolizes the arrival of winter's beauty."
+      "emoji": "🌸",
+      "funFact": "Sasanqua camellias are close relatives of the tea plant, Camellia sinensis, and their seeds are pressed to make camellia oil."
     },
     {
       "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tropical tree with fern-like leaves that becomes covered in vivid clusters of flowers. In parts of the Southern Hemisphere, it blooms during the summer months, creating spectacular scarlet canopies.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (November to January); also blooms in late spring to summer in the tropics",
-      "location": "Native to Madagascar; widely planted in northern Australia, Brazil, southern Africa, and tropical regions of the Caribbean and Asia",
+      "commonName": "Royal Poinciana",
+      "description": "A wide, umbrella-shaped tropical tree that turns into a blaze of scarlet-orange when in full flower, with feathery fern-like leaves beneath. It lights up summer streets and parks.",
+      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with main flowering often starting in late November or early December",
+      "location": "Tropical Queensland, Australia, including Magnetic Island",
       "colors": [
         "Scarlet",
-        "Orange-red",
-        "Yellow"
+        "Orange-red"
       ],
-      "emoji": "🌳",
-      "funFact": "This tree is considered critically endangered in its native Madagascar, even though it is one of the most commonly planted ornamental trees in the tropics. Its seed pods can reach 60 cm in length and rattle in the wind."
+      "emoji": "🌺",
+      "funFact": "Although it is one of the world's most celebrated tropical trees, it is native to Madagascar, where wild populations are now endangered."
     },
     {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily (Lily of the Nile)",
-      "description": "A clump-forming perennial with strap-shaped leaves and tall, leafless stems topped by large, rounded umbels of trumpet-shaped flowers. It is hardy, drought-tolerant, and a favorite in summer gardens of the Southern Hemisphere.",
-      "bloomingSeason": "Summer (December to February) in the Southern Hemisphere",
-      "location": "Native to South Africa's Eastern Cape; naturalized and cultivated in Australia, New Zealand, Chile, and coastal California",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A tough, low-growing perennial that opens nodding, cup-shaped white flowers with golden centers in the depths of winter. It blooms through frost and rain, when little else in the garden stirs.",
+      "bloomingSeason": "Early winter to spring, from about December to April",
+      "location": "Gardens across Europe and the cooler Northern Hemisphere, native to the mountains of central and southern Europe",
       "colors": [
-        "Blue",
-        "Violet",
-        "White"
+        "White",
+        "Blush pink",
+        "Golden yellow"
       ],
-      "emoji": "💜",
-      "funFact": "Despite its common name, it is not a true lily. The name Agapanthus comes from the Greek words agape (love) and anthos (flower), and in some regions it has become an invasive weed."
+      "emoji": "❄️",
+      "funFact": "Its flowers often age to a rosy-pink blush, and the plant earned its festive name because it blooms around Christmas."
+    },
+    {
+      "name": "Schlumbergera truncata",
+      "commonName": "Holiday Cactus",
+      "description": "A jungle cactus with arching, segmented stems that drip with vivid tubular flowers at the tips. It grows on tree branches in humid forests rather than in desert sand.",
+      "bloomingSeason": "Early November into January",
+      "location": "Mountain forests of southeastern Brazil, and in homes around the world",
+      "colors": [
+        "Magenta",
+        "Pink",
+        "Red",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌵",
+      "funFact": "In the wild it is an epiphyte, rooting in tree crevices and moss rather than soil, and it flowers in response to shorter days and cooler nights."
     }
   ]
 }

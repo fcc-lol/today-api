@@ -2,58 +2,46 @@
   "date": "March 21",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous tree that produces abundant clusters of delicate, fragrant, five-petaled blossoms before its leaves emerge, creating a cloud-like canopy of pale flowers. It is the most famous ornamental cherry in Japan and is widely planted in parks and along rivers.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions of the Northern Hemisphere",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "The Yoshino cherry is the centerpiece of Japan's hanami tradition, and the Japan Meteorological Agency publishes an annual 'cherry blossom forecast' tracking the bloom front as it moves northward."
-    },
-    {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with trumpet-shaped golden flowers and paler outer petals, rising above strap-like blue-green leaves. It grows in woodlands and meadows and is the ancestor of many cultivated daffodil varieties.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, especially the United Kingdom, France, and Spain; naturalized in North America",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "Nodding, trumpet-shaped golden flowers rise from blue-green strap-like leaves. They carpet damp woodlands, meadows and old pastures in a golden haze, and the pale outer petals frame a deeper yellow trumpet.",
+      "bloomingSeason": "March to April, sometimes starting earlier in mild winters",
+      "location": "Woodlands, meadows and pastures of Britain and western Europe",
       "colors": [
         "Yellow",
-        "Pale yellow"
+        "Pale yellow",
+        "Gold"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, which deter grazing animals, and galantamine from related Narcissus species is used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "This is the native British daffodil, and it is smaller and more delicate than the garden hybrids bred from it. In the UK it is often called the Lent lily because it flowers around the season of Lent."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A small deciduous tree or large shrub bearing large, goblet-shaped flowers on bare branches in early spring. The blossoms are often tinged with pink or purple at the base and are a hallmark of spring in temperate gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Cultivated across temperate Europe, the eastern and western United States, and East Asia",
+      "name": "Amaryllis belladonna",
+      "commonName": "March Lily (Belladonna Lily)",
+      "description": "Bare, sturdy stems shoot up before the leaves appear. Each carries a cluster of fragrant, trumpet-shaped pink blooms that glow against the dry late-summer landscape.",
+      "bloomingSeason": "Late summer to early autumn, peaking around March in the Southern Hemisphere",
+      "location": "Western Cape, South Africa",
       "colors": [
         "Pink",
+        "Rose",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Its leafless flower stalks inspired the nickname 'naked ladies'. Its common name, March lily, comes from its habit of blooming in the southern autumn, around March."
+    },
+    {
+      "name": "Cyclamen persicum",
+      "commonName": "Persian Cyclamen",
+      "description": "Swept-back petals in white to deep pink, with a magenta blotch at the base, hover above marbled silver-green leaves. They flower on rocky hillsides and in shrubland, brightening the cool, damp end of the Mediterranean winter.",
+      "bloomingSeason": "Winter to spring",
+      "location": "Rocky hillsides and woodland of the eastern Mediterranean, including Israel, Lebanon and Turkey",
+      "colors": [
         "White",
-        "Purple"
+        "Pale pink",
+        "Magenta"
       ],
-      "emoji": "🌷",
-      "funFact": "Magnolias are among the most ancient flowering plants, having evolved before bees existed, and their flowers are thought to have been pollinated by beetles."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "Despite its name, in the Southern Hemisphere this bulb flowers in autumn, when its goblet-shaped, crocus-like blooms emerge leafless from the ground. Its flowers appear without foliage, which has earned it the nickname 'naked ladies'.",
-      "bloomingSeason": "March to April in the Southern Hemisphere (autumn); September to October in the Northern Hemisphere",
-      "location": "Cultivated in Australia, New Zealand, and South Africa; native to Europe",
-      "colors": [
-        "Pink",
-        "Lilac",
-        "Pale purple"
-      ],
-      "emoji": "💜",
-      "funFact": "This plant is the source of colchicine, a compound used to treat gout and also used by plant breeders to induce chromosome doubling in crops."
+      "emoji": "🌺",
+      "funFact": "After pollination, the flower stalk coils like a spring and pulls the developing seed capsule down toward the soil. This helps the seeds land in a sheltered spot."
     }
   ]
 }

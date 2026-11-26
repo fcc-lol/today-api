@@ -2,62 +2,45 @@
   "date": "August 2",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large golden-yellow flower heads that track the sun when young. Widely cultivated for seeds, oil, and ornamental use, and also growing wild in prairies and roadsides across North America.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "North America, Europe, and temperate regions worldwide",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is not a single flower but a composite of hundreds to thousands of tiny florets arranged in a Fibonacci spiral pattern."
-    },
-    {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Fields of lavender are at peak bloom or being harvested in late July and early August.",
-      "bloomingSeason": "Early to late summer (June to August)",
-      "location": "Mediterranean region, Provence in France, England, and temperate gardens worldwide",
+      "commonName": "True Lavender",
+      "description": "Rolling fields of silvery-green shrubs erupt in spikes of fragrant violet-blue flowers. They hum with bees and scent the warm summer air with a sweet, herbal perfume.",
+      "bloomingSeason": "Mid-June to late August, peaking in July",
+      "location": "Provence and the French Alps, France",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round leaves held above the water and spectacular pink or white flowers up to 30 cm wide. The blooms open in the morning and close at night, rising from muddy ponds and lakes.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Asia, including India, China, Japan, and Vietnam, and northern Australia",
-      "colors": [
-        "pink",
-        "white",
-        "pale yellow"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C even when the air is much cooler, and lotus seeds have been germinated after more than 1,000 years of dormancy."
+      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A striking evergreen shrub with giant flower heads surrounded by colorful bracts, resembling a crown. Native to the fynbos of South Africa, where it blooms during the Southern Hemisphere's late winter and early spring, with flowering beginning around this time.",
-      "bloomingSeason": "Late winter to early summer in the Southern Hemisphere (roughly May to November, with peak from August)",
-      "location": "Fynbos region of the Western Cape, South Africa",
+      "description": "South Africa's national flower is a huge, bowl-shaped bloom up to 30 cm across. It has a crown of stiff, silky-tipped bracts in shades of pink and cream, and it stands out against the winter fynbos.",
+      "bloomingSeason": "July to October (late winter to spring in the Southern Hemisphere)",
+      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
       "colors": [
-        "pink",
-        "cream",
-        "red",
-        "silver"
+        "Pink",
+        "Cream",
+        "Rose red"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea is the national flower of South Africa, and the protea family is so ancient that it dates back to before the supercontinent Gondwana split apart."
+      "funFact": "The genus is named after the Greek sea god Proteus, who could change shape. The name nods to how varied proteas are."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Large, goblet-shaped blossoms rise on tall stalks above round, water-repellent leaves. The petals open at dawn in pink and white and give off a soft, sweet fragrance over still summer ponds.",
+      "bloomingSeason": "July to August in the Northern Hemisphere's temperate summer",
+      "location": "Ponds and wetlands across temperate and subtropical Asia",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic texture that makes water bead up and roll off, carrying dirt away. Scientists call this the 'lotus effect' and have copied it in self-cleaning materials."
     }
   ]
 }

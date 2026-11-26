@@ -4,60 +4,49 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In frost-free regions it grows into a large landscape shrub several meters tall.",
-      "bloomingSeason": "Late autumn to winter (November to February in the Northern Hemisphere)",
-      "location": "Native to southern Mexico and Central America; widely grown in warm climates such as California, Florida, the Mediterranean, and Australia, and as a potted plant worldwide",
+      "description": "Wild poinsettias are tall, leggy shrubs. Their fiery bracts, which are leaves that look like petals, blaze in the dry season and surround tiny yellow flower clusters. The bracts are the showy part, and they light up hillsides and gardens at the start of the holiday season.",
+      "bloomingSeason": "Late autumn to winter, roughly November through February",
+      "location": "Native to southern Mexico and Central America, where it blooms in the wild. It is also grown outdoors in warm regions such as southern California and Florida.",
       "colors": [
         "Red",
+        "Crimson",
         "Pink",
-        "White",
         "Cream",
-        "Marbled"
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Poinsettias only develop their colorful bracts when nights are long, needing about 12 to 14 hours of uninterrupted darkness for several weeks, which is why they color up around the holidays."
+      "funFact": "Poinsettias flower in response to long nights. They need about 12 hours or more of uninterrupted darkness each day for several weeks to set their colorful bracts. That is why they peak around the winter holidays."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant single or semi-double flowers. It blooms earlier than the common camellia and tolerates more sun.",
-      "bloomingSeason": "Autumn to early winter (October to January)",
-      "location": "Native to Japan; cultivated across the southeastern United States, the UK, Europe, and temperate Asia",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving Cactus",
+      "description": "This is a forest-dwelling cactus with arching, segmented stems. In late autumn, the stem tips bear dangling, asymmetrical flowers that look like small tropical lanterns. In the wild it perches on tree branches and rocks in cool, misty mountain forests.",
+      "bloomingSeason": "Late autumn into early winter, typically November through December",
+      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro. It is widely grown as a houseplant across North America and Europe.",
       "colors": [
-        "White",
+        "Magenta",
         "Pink",
-        "Rose-red"
-      ],
-      "emoji": "🌸",
-      "funFact": "Sasanqua camellias are related to the tea plant, and their seeds are pressed to produce camellia oil used in cooking and cosmetics in Japan and China."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low, clump-forming perennial with leathery evergreen leaves and nodding, cup-shaped white flowers with golden stamens that age to pinkish green. It thrives in cool, shaded woodland conditions.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to mountain woodlands of the Alps and the northern Apennines in central and southern Europe; grown in temperate gardens worldwide",
-      "colors": [
+        "Orange",
+        "Red",
         "White",
-        "Pale pink",
-        "Green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, the Christmas rose is not a true rose but a buttercup relative, and all parts of it are toxic."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with fern-like feathery leaves that erupts in huge clusters of vivid blossoms. The flowers are followed by long, dark woody seed pods.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere tropics (October to January in places such as Brazil and Australia); blooms in May to July in the Northern Hemisphere",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Brazil, northern Australia, India, the Caribbean, and Africa",
-      "colors": [
-        "Scarlet",
-        "Orange-red",
         "Yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "The royal poinciana is endangered in its native Madagascar even though it is one of the most widely planted ornamental trees in the world."
+      "emoji": "🌸",
+      "funFact": "This cactus grows on trees and has no spines. It is an epiphyte, and its flat, jointed stems have pointed teeth along the edges. Those teeth are one way to tell it apart from the Christmas cactus, which has scalloped edges."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "In late spring, this tree is covered in clouds of lavender-blue trumpet flowers. The blooms drop to carpet streets and gardens in violet. Its feathery, fern-like leaves add to the dreamy look of the canopy.",
+      "bloomingSeason": "Southern Hemisphere spring, from about October to December. Blooming peaks in November in many places.",
+      "location": "Native to South America. It is grown as a street tree in Australia, South Africa and Argentina. It flowers around December 1 in places such as Brisbane and Sydney, where the bloom is tapering off.",
+      "colors": [
+        "Lavender",
+        "Violet",
+        "Blue-purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Jacaranda trees are popular in Pretoria, South Africa, which is nicknamed the Jacaranda City. The tree is a favorite in Australia, where its bloom is linked with the end of the university year."
     }
   ]
 }

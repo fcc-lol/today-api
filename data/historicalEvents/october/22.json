@@ -2,39 +2,32 @@
   "date": "October 22",
   "events": [
     {
-      "year": 1962,
-      "title": "Kennedy Announces Cuban Missile Crisis Naval Quarantine",
-      "description": "In a televised address, U.S. President John F. Kennedy revealed that the Soviet Union had placed offensive nuclear missiles in Cuba and announced a naval quarantine of the island to prevent further shipments of military equipment.",
-      "category": "Politics/Cold War",
-      "significance": "This marked the start of the most dangerous phase of the Cold War, bringing the United States and the Soviet Union to the brink of nuclear war and leading to lasting changes in superpower diplomacy, including the Moscow-Washington hotline."
-    },
-    {
-      "year": 1883,
-      "title": "Metropolitan Opera Opens in New York City",
-      "description": "The Metropolitan Opera opened its first season with a performance of Gounod's Faust at its original house on Broadway at 39th Street in Manhattan.",
-      "category": "Arts/Culture",
-      "significance": "The Met became one of the world's leading opera companies and a cornerstone of American cultural life, helping establish New York as a global center for the performing arts."
-    },
-    {
-      "year": 1938,
-      "title": "Chester Carlson Makes the First Xerographic Copy",
-      "description": "Inventor Chester Carlson, with assistant Otto Kornei, produced the first xerographic image in Astoria, Queens, using the inscription '10-22-38 Astoria'.",
-      "category": "Science/Technology",
-      "significance": "Xerography became the basis for modern photocopying and led to the founding of the Xerox Corporation, transforming how offices and institutions reproduced and shared documents."
+      "year": 1707,
+      "title": "Disaster Strikes the Royal Navy off the Isles of Scilly",
+      "description": "A fleet returning from the Mediterranean was caught in stormy weather and misjudged its position. Four Royal Navy ships were wrecked off the Isles of Scilly, and at least 1,400 sailors died.",
+      "category": "Disaster",
+      "significance": "It was one of the worst maritime disasters in British history. It led directly to the Longitude Act of 1714, which spurred the search for a reliable way to measure longitude at sea."
     },
     {
       "year": 1844,
       "title": "The Great Disappointment",
-      "description": "Followers of the Millerite movement, who believed Jesus Christ would return to Earth on this date as calculated by preacher William Miller, waited in vain and experienced profound disillusionment when nothing happened.",
+      "description": "Followers of the preacher William Miller had predicted that Christ would return on this day. When nothing happened, thousands of Millerites were left shaken.",
       "category": "Religion",
-      "significance": "The event led to the fragmentation of the Millerites and contributed to the formation of new denominations, including the Seventh-day Adventist Church, shaping American religious history."
+      "significance": "Out of the aftermath came new religious movements, including the Seventh-day Adventist Church, which still has millions of members."
     },
     {
-      "year": 1979,
-      "title": "Shah of Iran Admitted to the United States for Medical Treatment",
-      "description": "The deposed Shah Mohammad Reza Pahlavi was allowed to enter the United States for cancer treatment in New York, despite warnings from some officials about possible backlash in Iran.",
-      "category": "Politics/International Relations",
-      "significance": "The decision inflamed anti-American sentiment in Iran and directly led to the seizure of the U.S. Embassy in Tehran on November 4, 1979, triggering the 444-day hostage crisis."
+      "year": 1883,
+      "title": "The Metropolitan Opera House Opens in New York",
+      "description": "The Metropolitan Opera opened its first house on Broadway at 39th Street with a performance of Gounod's Faust.",
+      "category": "Arts and Culture",
+      "significance": "The Met became one of the world's leading opera companies and a lasting center of American musical life."
+    },
+    {
+      "year": 1962,
+      "title": "Kennedy Reveals Soviet Missiles in Cuba",
+      "description": "In a televised address, President John F. Kennedy told Americans that Soviet missile sites had been found in Cuba. He announced a naval quarantine of the island.",
+      "category": "Politics and Diplomacy",
+      "significance": "The speech brought the Cuban Missile Crisis into public view. The standoff was the closest the Cold War came to nuclear war."
     }
   ]
 }

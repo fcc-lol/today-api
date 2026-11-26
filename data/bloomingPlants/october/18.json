@@ -2,61 +2,48 @@
   "date": "October 18",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A bushy perennial with dense, layered flower heads in many forms, including pompon, spider, and decorative types. It is a staple of autumn gardens and is cultivated widely for cut flowers and potted displays.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; originated in China and widely grown in Japan, Europe, and North America",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants that set buds as nights lengthen. Japan's Imperial family uses a 16-petal chrysanthemum as its emblem."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall native perennial of North American meadows and roadsides with clusters of daisy-like flowers with yellow centers. It is a vital late-season nectar source for pollinators, including migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Eastern and central North America, in moist meadows, prairies, and roadsides",
-      "colors": [
-        "purple",
-        "violet",
-        "pink"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies migrating south in October depend heavily on its nectar to fuel their journey to Mexico."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Blue Jacaranda",
-      "description": "A deciduous tree with fern-like leaves that erupts in sprays of trumpet-shaped lavender-blue flowers. In spring, whole streets are carpeted in fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), and Argentina",
+      "description": "Whole streets turn lilac as these feathery-leaved trees cover themselves in clusters of trumpet-shaped blooms. The fallen flowers carpet pavements and parked cars in violet.",
+      "bloomingSeason": "Early October to November (peaking in late October and November in Sydney, and through October in Brisbane)",
+      "location": "Sydney and Brisbane, eastern Australia (native to South America)",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lilac",
+        "Purple",
+        "Violet-blue"
       ],
-      "emoji": "🌸",
-      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 trees, and a local superstition says a blossom falling on your head brings good luck."
+      "emoji": "🌳",
+      "funFact": "Native to South America, jacarandas have become a symbol of spring in Australia. Their bloom is so well loved that cities hold festivals around it."
     },
     {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily",
-      "description": "A bulbous perennial that sends up bare stalks topped by umbels of frilly, sparkling pink flowers well after most garden plants have faded. It thrives in sunny, well-drained sites and often flowers in the dry warmth of autumn.",
-      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
-      "location": "Native to South Africa's Drakensberg mountains; grown in gardens of the UK, Europe, and the Pacific Northwest",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped blooms emerge straight from bare soil, without a leaf in sight, and dot damp meadows and garden borders with soft pink and lilac. The leaves appeared months earlier and have already died away.",
+      "bloomingSeason": "Late summer to autumn, typically September to October",
+      "location": "Meadows and gardens across temperate Europe, including Britain and central Europe",
       "colors": [
-        "pink",
-        "rose"
+        "Pink",
+        "Lilac",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "The petals have a glittering, crystalline sheen, which gives some nerines the name 'Guernsey lily' and a reputation for sparkling in sunlight."
+      "emoji": "🌸",
+      "funFact": "Despite its name, it is not a true crocus. It belongs to the lily relatives, and its flowers are a source of colchicine, a powerful compound used in medicine and plant breeding. All parts of the plant are highly poisonous."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Daisy-like flowers with silky, notched petals sway above fine, ferny foliage on tall stems. They keep producing blooms until the first frost, which makes them a cheerful sight in October gardens.",
+      "bloomingSeason": "Midsummer until first frost, roughly July to October",
+      "location": "Gardens across temperate Northern Hemisphere regions (native to Mexico)",
+      "colors": [
+        "White",
+        "Pink",
+        "Magenta",
+        "Crimson",
+        "Golden-yellow centre"
+      ],
+      "emoji": "🌼",
+      "funFact": "The name comes from the Greek word kosmos, meaning order or harmony. It refers to the neat, balanced arrangement of the petals."
     }
   ]
 }

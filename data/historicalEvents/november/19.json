@@ -2,39 +2,32 @@
   "date": "November 19",
   "events": [
     {
-      "year": 1863,
-      "title": "Lincoln Delivers the Gettysburg Address",
-      "description": "President Abraham Lincoln delivered a roughly two-minute speech at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, months after the pivotal Civil War battle fought there in July 1863.",
-      "category": "Politics",
-      "significance": "The address redefined the Civil War as a struggle for human equality and a 'new birth of freedom,' and it remains one of the most celebrated speeches in American history."
-    },
-    {
       "year": 1493,
       "title": "Columbus Lands on Puerto Rico",
-      "description": "During his second voyage to the New World, Christopher Columbus landed on the island he named San Juan Bautista, now known as Puerto Rico, which was inhabited by the Taíno people.",
+      "description": "On his second voyage to the Americas, Christopher Columbus reached the island the Taíno people called Borikén. He named it San Juan Bautista. It later became known as Puerto Rico, meaning \"rich port.\"",
       "category": "Exploration",
-      "significance": "The landing began Spanish colonization of Puerto Rico, which had profound consequences for the Taíno population and shaped the island's cultural and political history."
+      "significance": "The landing began Spanish colonization of Puerto Rico. That colonization reshaped the Caribbean and the lives of its Indigenous peoples."
     },
     {
-      "year": 1969,
-      "title": "Apollo 12 Astronauts Walk on the Moon",
-      "description": "Charles 'Pete' Conrad and Alan Bean became the third and fourth humans to walk on the Moon, landing in the Ocean of Storms near the Surveyor 3 probe, while Richard Gordon orbited above in the command module.",
-      "category": "Science and Space",
-      "significance": "Apollo 12 demonstrated that NASA could perform a precise lunar landing and carry out extended surface science, strengthening the foundation for later, more ambitious Apollo missions."
+      "year": 1863,
+      "title": "Lincoln Delivers the Gettysburg Address",
+      "description": "At the dedication of the Soldiers' National Cemetery in Pennsylvania, President Abraham Lincoln gave a speech of about 270 words. It came months after the Battle of Gettysburg, in the middle of the Civil War.",
+      "category": "Politics",
+      "significance": "The speech is one of the most celebrated in American history. It recast the war as a struggle for equality and a \"new birth of freedom.\""
     },
     {
       "year": 1917,
-      "title": "Birth of Indira Gandhi",
-      "description": "Indira Gandhi, daughter of Jawaharlal Nehru, was born in Allahabad, British India. She later became India's first and, to date, only female prime minister, serving from 1966 to 1977 and again from 1980 until her assassination in 1984.",
-      "category": "Births",
-      "significance": "Her leadership shaped modern India through the 1971 war with Pakistan and the creation of Bangladesh, the Green Revolution, the nuclear program, and the controversial Emergency period."
+      "title": "Indira Gandhi Is Born",
+      "description": "Indira Gandhi was born in Allahabad, India. She was the daughter of Jawaharlal Nehru, India's first prime minister. She served four terms as prime minister and was assassinated in 1984.",
+      "category": "Birth",
+      "significance": "She was India's first and only female prime minister. She was one of the most powerful and polarizing leaders of the 20th century."
     },
     {
-      "year": 1999,
-      "title": "Shenzhou 1 Launched by China",
-      "description": "China launched Shenzhou 1, its first uncrewed test flight of the Shenzhou spacecraft, orbiting Earth 14 times before landing in Inner Mongolia the following day.",
+      "year": 1969,
+      "title": "Apollo 12 Lands on the Moon",
+      "description": "Astronauts Pete Conrad and Alan Bean touched down in the Ocean of Storms. They became the third and fourth humans to walk on the Moon, a few months after Apollo 11.",
       "category": "Science and Space",
-      "significance": "The flight was the first step in China's human spaceflight program, which led to its first crewed mission in 2003 and the building of its own space station."
+      "significance": "The mission showed that NASA could land precisely at a chosen target. It also brought back lunar samples and instruments for scientific study."
     }
   ]
 }

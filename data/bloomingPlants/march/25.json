@@ -4,54 +4,56 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A deciduous tree that covers its bare branches in clouds of pale pink-white, lightly almond-scented blossoms before the leaves emerge. It is the iconic cherry of hanami festivals and is widely planted in parks and along waterways.",
-      "bloomingSeason": "Late March to mid April in temperate Northern Hemisphere",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate cities worldwide",
+      "description": "Clouds of airy, blush-white blossoms wrap every branch before the leaves appear. Around the Tidal Basin the trees turn the waterfront into a pale pink haze that reflects in the still water.",
+      "bloomingSeason": "Late March to early April, with peak bloom most often falling between the last week of March and the first week of April",
+      "location": "Washington, D.C., USA (Tidal Basin and National Mall)",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Soft pink"
       ],
       "emoji": "🌸",
-      "funFact": "The cherry trees around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912, and their peak bloom is tracked closely each year, often falling in late March."
+      "funFact": "The first Yoshino trees were a gift from Tokyo to Washington in 1912. Peak bloom is officially declared when 70% of the Yoshino blossoms are open."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with a trumpet-shaped yellow corona surrounded by paler yellow petals. It grows in woodlands, meadows, and grassy banks and has produced countless garden cultivars.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "Silky, cup-shaped flowers glow like spilled marmalade across hillsides and roadsides. The petals open in full sun and fold shut on cloudy days and at dusk.",
+      "bloomingSeason": "Spring, with March to May the strongest bloom period",
+      "location": "California, USA, in grasslands, foothills and open slopes",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Orange",
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, and one of its compounds, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "California poppy is the state flower of California. Despite its brilliant color, it belongs to the poppy family and its finely cut, blue-green foliage is almost as distinctive as its flowers."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "March Lily (Belladonna Lily)",
+      "description": "Leafless stems shoot up from the dry ground, each topped with a cluster of fragrant, trumpet-shaped pink blooms. They appear when the summer heat starts to fade, long after the foliage has died back.",
+      "bloomingSeason": "Late summer to autumn, flowering around March in the Southern Hemisphere",
+      "location": "Southwestern Cape, South Africa, where it is native",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
+      ],
+      "emoji": "🌷",
+      "funFact": "Its common name comes from its habit of flowering in March in the Southern Hemisphere. It is also called the naked lady, because the flowers appear on bare stalks without leaves."
     },
     {
       "name": "Magnolia campbellii",
       "commonName": "Campbell's Magnolia",
-      "description": "A large Himalayan tree that produces enormous, goblet-shaped flowers on bare branches in early spring. The blooms can reach 25 cm across and appear in rich shades of pink to deep rose.",
-      "bloomingSeason": "Late February to April",
-      "location": "Himalayan foothills (Nepal, Bhutan, northeast India, southwest China) and cultivated in mild gardens in Britain, New Zealand, and the Pacific Northwest",
+      "description": "Enormous, goblet-shaped flowers open on bare branches high in the Himalayan forest. Their pink petals look like tropical water lilies lifted into the treetops.",
+      "bloomingSeason": "March to May",
+      "location": "Eastern Himalaya, including Bhutan, Nepal and northeast India, and adjoining parts of China",
       "colors": [
-        "pink",
-        "rose",
-        "white"
+        "Deep pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Seedling trees of this species can take 20 years or more to flower for the first time, which is why gardeners often joke that patience is the main requirement for growing it."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Southern Hemisphere cultivated relatives) and Cyclamen hederifolium",
-      "description": "Placeholder replaced below.",
-      "bloomingSeason": "N/A",
-      "location": "N/A",
-      "colors": [
-        "N/A"
-      ],
-      "emoji": "🌿",
-      "funFact": "N/A"
+      "funFact": "Seedlings can take decades to flower for the first time. This is one reason the tree's showy blooms are so prized by gardeners and plant collectors."
     }
   ]
 }

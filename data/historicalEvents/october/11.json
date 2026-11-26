@@ -2,39 +2,32 @@
   "date": "October 11",
   "events": [
     {
-      "year": 1492,
-      "title": "Columbus's Expedition Nears Land",
-      "description": "On the night of October 11-12, 1492, Christopher Columbus's crew sighted signs of land, including floating vegetation and branches, shortly before Rodrigo de Triana spotted land in the early hours of October 12 in the Bahamas.",
-      "category": "Exploration",
-      "significance": "This voyage opened sustained contact between Europe and the Americas, with profound consequences for global trade, colonization, and the peoples of both hemispheres."
-    },
-    {
-      "year": 1811,
-      "title": "Launch of the Steam-Powered Ferry Juliana",
-      "description": "Inventor John Stevens launched the Juliana, the first steam-powered ferry, which began operating between New York City and Hoboken, New Jersey.",
-      "category": "Technology",
-      "significance": "The Juliana was an early milestone in commercial steamboat service and helped demonstrate the viability of steam-powered passenger transport."
-    },
-    {
-      "year": 1962,
-      "title": "Opening of the Second Vatican Council",
-      "description": "Pope John XXIII formally opened the Second Vatican Council in St. Peter's Basilica, gathering thousands of bishops from around the world.",
-      "category": "Religion",
-      "significance": "The Council modernized many Catholic practices, including allowing Mass in vernacular languages and promoting ecumenical dialogue, reshaping the Church in the modern era."
-    },
-    {
-      "year": 1968,
-      "title": "Launch of Apollo 7",
-      "description": "NASA launched Apollo 7, the first crewed mission of the Apollo program, carrying Wally Schirra, Donn Eisele, and Walter Cunningham on an 11-day Earth-orbit flight.",
-      "category": "Space Exploration",
-      "significance": "The mission successfully tested the Apollo command and service module and included the first live TV broadcasts from American spacecraft, paving the way for the Apollo 8 lunar orbit mission and the Moon landings."
+      "year": 1531,
+      "title": "Zwingli Falls at the Battle of Kappel",
+      "description": "Huldrych Zwingli, the leading figure of the Swiss Reformation in Zürich, was killed in battle when Catholic cantons attacked Zürich's forces. The fighting followed a dispute over a food blockade.",
+      "category": "Death",
+      "significance": "His death halted the spread of the Zwinglian Reformation in Switzerland. It helped fix the religious divide between Protestant and Catholic regions of the Swiss Confederation."
     },
     {
       "year": 1884,
-      "title": "Birth of Eleanor Roosevelt",
-      "description": "Anna Eleanor Roosevelt was born in New York City. She became First Lady of the United States during Franklin D. Roosevelt's presidency and later a diplomat and activist.",
+      "title": "Eleanor Roosevelt Is Born",
+      "description": "Anna Eleanor Roosevelt was born in New York City. She became First Lady of the United States and one of the most influential public figures of the 20th century.",
       "category": "Birth",
-      "significance": "She chaired the UN commission that drafted the Universal Declaration of Human Rights and redefined the role of First Lady as an advocate for civil rights and social reform."
+      "significance": "She redefined the role of First Lady and later helped draft the Universal Declaration of Human Rights as a U.S. delegate to the United Nations."
+    },
+    {
+      "year": 1962,
+      "title": "Second Vatican Council Opens",
+      "description": "Pope John XXIII opened the Second Vatican Council in St. Peter's Basilica. Thousands of bishops from around the world gathered in Rome.",
+      "category": "Religion",
+      "significance": "The council reshaped Catholic worship and the Church's relations with other faiths and the modern world. Among other changes, Mass could now be celebrated in local languages instead of Latin."
+    },
+    {
+      "year": 1968,
+      "title": "Apollo 7 Launches",
+      "description": "NASA launched Apollo 7, the first crewed flight of the Apollo program. Its crew orbited Earth for nearly eleven days to test the command and service module.",
+      "category": "Milestone",
+      "significance": "The mission cleared the way for Apollo 8 to orbit the Moon two months later. That put the U.S. on track to reach the Moon by the end of the decade."
     }
   ]
 }

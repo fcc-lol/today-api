@@ -2,39 +2,32 @@
   "date": "January 24",
   "events": [
     {
+      "year": 76,
+      "title": "Birth of the future emperor Hadrian",
+      "description": "Publius Aelius Hadrianus was born into a Roman family with roots in Hispania. He became emperor in 117 AD.",
+      "category": "Birth",
+      "significance": "Hadrian ruled Rome at its height. He is remembered for consolidating the empire's borders, most famously with Hadrian's Wall in Britain, and for his large building projects."
+    },
+    {
+      "year": 1712,
+      "title": "Frederick the Great is born",
+      "description": "The future king of Prussia was born in Berlin. He took the throne in 1740 and became one of the best-known monarchs in European history.",
+      "category": "Birth",
+      "significance": "Frederick turned Prussia into a major European military and political power. He also became a patron of the arts and a leading figure of the Enlightenment."
+    },
+    {
       "year": 1848,
-      "title": "Gold Discovered at Sutter's Mill",
-      "description": "James W. Marshall found gold flakes in the American River at Sutter's Mill in Coloma, California, while overseeing construction of a sawmill for John Sutter.",
-      "category": "Economics and Exploration",
-      "significance": "The discovery triggered the California Gold Rush of 1849, drawing roughly 300,000 people to California, accelerating its path to statehood in 1850 and reshaping the economy and demographics of the American West."
-    },
-    {
-      "year": 1935,
-      "title": "First Canned Beer Sold",
-      "description": "The Gottfried Krueger Brewing Company of Newark, New Jersey, began selling Krueger's Finest Beer and Cream Ale in cans to customers in Richmond, Virginia, after a successful test market.",
-      "category": "Business and Technology",
-      "significance": "Canned beer proved popular and practical, helping transform the beverage packaging industry and consumer habits after the end of Prohibition."
-    },
-    {
-      "year": 1965,
-      "title": "Death of Winston Churchill",
-      "description": "Sir Winston Churchill, the British statesman who led the United Kingdom through World War II as Prime Minister, died at age 90 in London, 70 years to the day after his father Lord Randolph Churchill's death.",
-      "category": "Death and Politics",
-      "significance": "Churchill's death prompted a state funeral on a scale not seen for a non-royal in Britain, and marked the passing of one of the 20th century's most influential leaders, remembered for his wartime oratory and resolve."
+      "title": "Gold is discovered at Sutter's Mill",
+      "description": "James W. Marshall found gold at a sawmill site in Coloma, California. The discovery set off the California Gold Rush, and some 300,000 people eventually made their way to the region.",
+      "category": "Major Event",
+      "significance": "The Gold Rush reshaped the American West. It sped up California's path to statehood and drew people from around the world."
     },
     {
       "year": 1984,
-      "title": "Apple Macintosh Introduced",
-      "description": "Apple Computer unveiled the Macintosh personal computer, announced by Steve Jobs at the company's shareholder meeting in Cupertino, following the famous '1984' Super Bowl commercial days later.",
-      "category": "Technology",
-      "significance": "The Macintosh popularized the graphical user interface and mouse for mainstream consumers, shaping the future of personal computing and desktop publishing."
-    },
-    {
-      "year": 1972,
-      "title": "Shoichi Yokoi Found in Guam",
-      "description": "Japanese soldier Shoichi Yokoi was discovered living in the jungles of Guam, where he had hidden for nearly 28 years after the island's liberation in 1944, unaware that World War II had ended.",
-      "category": "War and Human Interest",
-      "significance": "His discovery drew worldwide attention to the phenomenon of Japanese holdouts and the enduring influence of wartime loyalty, and his return to Japan sparked national debate."
+      "title": "The Apple Macintosh goes on sale",
+      "description": "Apple began selling the Macintosh, a compact personal computer. It followed a famous Super Bowl commercial that aired two days earlier.",
+      "category": "Milestone",
+      "significance": "The Mac was the first commercially successful personal computer with a graphical interface and a mouse. It helped bring computing to ordinary users."
     }
   ]
 }

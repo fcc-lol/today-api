@@ -2,61 +2,44 @@
   "date": "September 14",
   "plants": [
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster",
-      "description": "A clump-forming perennial native to eastern North America, covered in daisy-like flower heads with yellow centers. It is a late-season nectar source for migrating monarch butterflies and many native bees.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern North America; widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "purple",
-        "violet",
-        "blue",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "The name Aster comes from the Greek word for star, and asters were once burned by ancient peoples to drive away serpents."
-    },
-    {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A bulbous perennial that sends up goblet-shaped flowers in autumn without any leaves present. The leaves emerge the following spring and die back by early summer. It is not a true crocus and all parts are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Meadows and woodland edges of Europe, from Britain to the Balkans; grown in gardens in temperate regions",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Pale lilac-pink goblets rise straight from bare ground, with no leaves in sight. They carpet damp meadows and light woodland edges like a scattering of tulips that came up out of season.",
+      "bloomingSeason": "Late August to October",
+      "location": "Meadows and gardens across Europe, from the British Isles to central Europe",
       "colors": [
-        "pale lilac",
-        "pink",
-        "purple"
+        "Lilac",
+        "Pink",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "It is nicknamed 'naked ladies' because the flowers appear without leaves, and it is the source of colchicine, a compound used in medicine and plant breeding."
+      "funFact": "The flowers bloom in autumn, but the leaves and seed capsules appear the following spring. Every part of the plant contains colchicine, a toxic compound that scientists use in plant breeding to double chromosome numbers."
     },
     {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A striking bulbous plant with spidery, recurved red flowers and long protruding stamens on bare stalks. The narrow leaves appear after flowering and persist through winter.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
+      "name": "Aster novae-angliae",
+      "commonName": "New England Aster",
+      "description": "Dense clusters of daisy-like blooms with golden centers and many narrow petals light up prairies, roadsides and gardens. Monarch butterflies stop here to feed on their long autumn migration.",
+      "bloomingSeason": "Late August to October",
+      "location": "Eastern and central North America, from New England to the Midwest prairies",
       "colors": [
-        "red",
-        "scarlet"
+        "Purple",
+        "Violet",
+        "Pink"
       ],
-      "emoji": "🌺",
-      "funFact": "In Japan it blooms around the autumn equinox, called Higan, and is strongly associated with that Buddhist season, often planted along rice paddies and cemeteries."
+      "emoji": "💜",
+      "funFact": "Its flower heads close up on cloudy days and at night, and open again in full sun. It is one of the most important late-season nectar sources for migrating monarchs."
     },
     {
-      "name": "Watsonia borbonica",
-      "commonName": "Cape Bugle Lily",
-      "description": "A cormous perennial with tall spikes of tubular pink flowers rising above sword-shaped leaves. It thrives in sunny, well-drained sites and flowers as the Southern Hemisphere spring begins.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Western Cape of South Africa fynbos; naturalized in parts of Australia and elsewhere",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Branches are covered in fluffy, fragrant golden pom-poms that glow against blue-green foliage. Southern Australia's bushland turns sunny yellow as winter gives way to spring.",
+      "bloomingSeason": "Late winter to mid-spring (roughly July to October)",
+      "location": "Southeastern and southern Australia, including Victoria, New South Wales and South Australia",
       "colors": [
-        "pink",
-        "rose",
-        "white"
+        "Golden yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Fynbos plants like this one often flower most profusely after fire, as the smoke and cleared ground trigger blooming."
+      "emoji": "🌼",
+      "funFact": "It is Australia's national floral emblem. National Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

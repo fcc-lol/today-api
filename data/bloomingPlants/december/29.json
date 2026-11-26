@@ -4,60 +4,46 @@
     {
       "name": "Hippeastrum hybrids",
       "commonName": "Amaryllis",
-      "description": "Bulbous perennials with large trumpet-shaped flowers atop thick, hollow stalks. In the Southern Hemisphere they bloom outdoors in midsummer gardens, and in the Northern Hemisphere they are forced indoors as popular winter holiday plants.",
-      "bloomingSeason": "Late December to March (outdoors in the Southern Hemisphere); forced indoors in the Northern Hemisphere in winter",
-      "location": "Native to South America; cultivated worldwide, outdoors in Australia, South Africa, and New Zealand and indoors in Europe and North America",
+      "description": "Towering trumpet-shaped blooms in rich shades of red, white and pink open atop sturdy, leafless stalks. Gardeners in the Southern Hemisphere see them flower outdoors in the warmth of midsummer. Elsewhere, they are a familiar sight on windowsills during the winter holidays.",
+      "bloomingSeason": "Southern Hemisphere: late spring to midsummer (roughly November to January). Indoors in the Northern Hemisphere: winter, usually December to February.",
+      "location": "Gardens in Australia, New Zealand and South Africa, and indoor displays across the Northern Hemisphere",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "orange",
-        "striped"
+        "Red",
+        "White",
+        "Pink",
+        "Orange"
       ],
       "emoji": "🌺",
-      "funFact": "Amaryllis flower stalks can grow up to an inch per day under warm conditions, and the bulbs can rebloom for decades with proper care."
+      "funFact": "Amaryllis bulbs store so much energy that a single bulb can send up a flower stalk that grows several inches in just a few days."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African lily",
+      "description": "Round clusters of blue-violet, funnel-shaped flowers sway on tall stems above arching, strap-like leaves. In midsummer they fill Southern Hemisphere gardens and roadsides with waves of color.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December to February",
+      "location": "Native to South Africa's Eastern Cape; widely grown in Australia and New Zealand",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💠",
+      "funFact": "Its name comes from the Greek words for 'love' and 'flower'. Despite the common name, it is not a true lily."
     },
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers that open in the cool season. It thrives in mild, humid climates and brightens winter gardens when little else is blooming.",
-      "bloomingSeason": "Late autumn through early spring (peaking December to March)",
-      "location": "Native to Japan, Korea, and eastern China; widely grown in the southeastern United States, the Pacific Northwest, Western Europe, and Australia",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs are covered in rose-like blossoms in the cool months. The blooms stand out against dark green leaves, adding color to winter gardens in mild climates.",
+      "bloomingSeason": "Late autumn through early spring, with many varieties in flower in December and January",
+      "location": "Gardens in the southeastern United States, the Pacific coast of North America, western Europe and Japan",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia japonica is a close relative of the tea plant (Camellia sinensis), and thousands of cultivars have been bred over centuries in Japan and beyond."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with feathery fern-like leaves that produces spectacular clusters of large flowers. It blooms in tropical and subtropical regions, with strong displays in the Southern Hemisphere summer.",
-      "bloomingSeason": "Southern Hemisphere summer, roughly November to February; at other times in the Northern tropics",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, Brazil, India, and the Caribbean",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "Although it is one of the world's most celebrated ornamental trees, the royal poinciana is endangered in its native Madagascar."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped flowers with golden stamens. It blooms in the cold of winter, often pushing flowers up through frost and light snow.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens across Europe and North America",
-      "colors": [
-        "white",
-        "pale pink"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, the Christmas rose is not a true rose but belongs to the buttercup family, and all parts of the plant are toxic."
+      "funFact": "Camellia japonica is related to the tea plant, Camellia sinensis. Both belong to the same genus."
     }
   ]
 }

@@ -2,72 +2,47 @@
   "date": "June 12",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A long-lived herbaceous perennial with large, fragrant, often double blooms held above deep green, glossy foliage. Late-blooming varieties are at their peak in cooler northern gardens around mid-June.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to Siberia, Mongolia and northern China; widely cultivated in temperate gardens of North America and Europe",
+      "name": "Rosa 'Gertrude Jekyll' and other garden roses (Rosa spp.)",
+      "commonName": "Garden Rose",
+      "description": "Mid-June is peak rose season in temperate Northern Hemisphere gardens. Old English-style roses open in layers of silky, fragrant petals. Their perfume drifts across cottage borders, arbors and walls, and bees crowd the open blooms.",
+      "bloomingSeason": "Late May to July, with the main flush in June",
+      "location": "Temperate Europe and the United States, including England and the Pacific Northwest",
       "colors": [
         "Pink",
-        "White",
         "Red",
-        "Coral"
+        "White",
+        "Yellow",
+        "Apricot"
       ],
-      "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 100 years, and ants visiting the buds are harmless; they simply feed on the sugary nectar on the bud surface."
+      "emoji": "🌹",
+      "funFact": "Fossils show roses have existed for more than 30 million years. That is long before humans began breeding them."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and spikes of small tubular flowers. In the Mediterranean and southern Europe, blooming begins in earnest in June, attracting bees and butterflies.",
-      "bloomingSeason": "Early to late summer (June to August)",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania and the Pacific Northwest of the USA",
+      "description": "Silvery-green mounds send up slender spikes of tiny, fragrant purple flowers. In the sunny Mediterranean hills, the blooms hum with bees and scent the warm air with their clean, herbal fragrance.",
+      "bloomingSeason": "Late spring to midsummer, with flowering beginning in June in southern Europe",
+      "location": "Mediterranean Europe, especially Provence in southern France",
       "colors": [
-        "Purple",
         "Lavender",
-        "Blue-violet"
+        "Purple",
+        "Violet"
       ],
       "emoji": "💜",
-      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A tall, graceful tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it is not in bloom in June, but in the Northern Hemisphere subtropics, such as parts of Mexico, Florida and southern California, it blooms in late spring to early summer, carpeting streets with fallen flowers.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June)",
-      "location": "Native to South America; planted in subtropical regions of the Americas, Africa, Asia and Australia, including Pretoria, South Africa, and Los Angeles, USA",
-      "colors": [
-        "Blue-violet",
-        "Lavender"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, nicknamed the 'Jacaranda City', thousands of trees line the streets, though there they bloom in October and November."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "A hardy aquatic perennial with round floating pads and star-shaped, many-petaled white flowers with golden centers. The blossoms open in the morning and close in the afternoon on still ponds, lakes and slow rivers.",
-      "bloomingSeason": "Early summer to late summer (June to August)",
-      "location": "Native to Europe, North Africa and parts of western Asia; found in lakes and ponds in temperate regions",
-      "colors": [
-        "White",
-        "Yellow"
-      ],
-      "emoji": "🪷",
-      "funFact": "The flower stalks lengthen and later coil to pull the seed pod underwater, where the seeds ripen."
+      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash'. Romans used the herb to scent their baths."
     },
     {
       "name": "Telopea speciosissima",
       "commonName": "New South Wales Waratah",
-      "description": "A striking Australian shrub bearing large, dome-shaped crimson flower heads surrounded by showy bracts. It generally blooms in spring, but in some cooler or higher locations flowering extends later, and plants in the southern hemisphere winter are mostly dormant.",
-      "bloomingSeason": "Spring (September to November), so not typically blooming in June in its home range",
-      "location": "Native to the sandstone ridges around Sydney, New South Wales, Australia",
+      "description": "Waratah flowers are crimson, dome-shaped heads ringed by bold red bracts. Each head is made of hundreds of tiny flowers. Native to the sandstone bushland around Sydney, it is the floral emblem of New South Wales.",
+      "bloomingSeason": "Late winter to spring, roughly August to November",
+      "location": "Southeastern Australia",
       "colors": [
         "Crimson",
         "Red"
       ],
       "emoji": "🌺",
-      "funFact": "It is the floral emblem of New South Wales, and its name 'Telopea' comes from the Greek for 'seen from afar'."
+      "funFact": "The waratah's nectar-rich flowers are pollinated mainly by honeyeater birds. The name comes from an Aboriginal word meaning 'seen from afar'."
     }
   ]
 }

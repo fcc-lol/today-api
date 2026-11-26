@@ -2,39 +2,32 @@
   "date": "March 13",
   "events": [
     {
+      "year": 1639,
+      "title": "Harvard College Receives Its Name",
+      "description": "The young college in Cambridge, Massachusetts, was named in honor of clergyman John Harvard, its first major donor. His gift of money and books helped keep the fledgling school going.",
+      "category": "Education",
+      "significance": "Harvard became the oldest institution of higher learning in the United States and grew into one of the most influential universities in the world."
+    },
+    {
       "year": 1781,
       "title": "William Herschel Discovers Uranus",
-      "description": "British astronomer William Herschel observed a new object from his garden in Bath, England, initially thinking it was a comet. It was later confirmed to be a planet, the seventh from the Sun.",
+      "description": "Using a telescope in Bath, England, the German-born astronomer William Herschel spotted a new object that turned out to be a planet. It was the first planet found since antiquity.",
       "category": "Science",
-      "significance": "It was the first planet discovered with a telescope and the first found since antiquity, doubling the known size of the solar system and changing the understanding of the cosmos."
+      "significance": "The discovery roughly doubled the known size of the solar system and showed that the heavens still held major surprises."
     },
     {
       "year": 1881,
-      "title": "Assassination of Tsar Alexander II",
-      "description": "Tsar Alexander II of Russia was killed in Saint Petersburg by a bomb thrown by members of the revolutionary group Narodnaya Volya (People's Will), just after he had approved plans for limited reforms.",
+      "title": "Tsar Alexander II Is Assassinated",
+      "description": "Russia's Tsar Alexander II was killed by a bomb in St. Petersburg, in a plot carried out by revolutionaries including Ignacy Hryniewiecki. He died shortly after reforming Russia, including freeing the serfs.",
       "category": "Politics",
-      "significance": "His death ended the era of liberal reform in Russia, ushered in the more repressive reign of Alexander III, and intensified revolutionary movements that contributed to the later fall of the Romanov dynasty."
+      "significance": "His death ended an era of reform in Russia. His successor turned to harsher repression, which shaped the country's path toward later upheavals."
     },
     {
-      "year": 1930,
-      "title": "Discovery of Pluto Announced",
-      "description": "The Lowell Observatory in Flagstaff, Arizona, announced the discovery of Pluto, found by Clyde Tombaugh through comparison of photographic plates. The announcement was made on the anniversary of Herschel's discovery of Uranus and Percival Lowell's birthday.",
-      "category": "Science",
-      "significance": "Pluto was regarded as the ninth planet for 76 years until its reclassification as a dwarf planet in 2006, a change that reshaped the definition of planet and the study of the Kuiper Belt."
-    },
-    {
-      "year": 1938,
-      "title": "Anschluss: Austria Annexed by Nazi Germany",
-      "description": "Austria was formally incorporated into the German Reich through a law enacted in Vienna, following the arrival of German troops on March 12 and pressure on the Austrian government.",
-      "category": "War and Politics",
-      "significance": "The Anschluss was a key step in Hitler's expansionist policy, violated the Treaty of Versailles, and demonstrated the unwillingness of European powers to stop German aggression ahead of World War II."
-    },
-    {
-      "year": 2013,
-      "title": "Jorge Mario Bergoglio Elected Pope Francis",
-      "description": "The papal conclave elected Cardinal Jorge Mario Bergoglio of Argentina as the 266th pope following Benedict XVI's resignation. He took the name Francis.",
-      "category": "Religion",
-      "significance": "He became the first pope from the Americas and the Southern Hemisphere, the first Jesuit pope, and the first non-European pope in over 1,200 years."
+      "year": 1954,
+      "title": "The Battle of Dien Bien Phu Begins",
+      "description": "Viet Minh forces under General Vo Nguyen Giap opened a massive artillery bombardment on the French garrison at Dien Bien Phu in northern Vietnam.",
+      "category": "Military",
+      "significance": "The French defeat that followed ended the First Indochina War and French colonial rule in Indochina, and it set the stage for the later conflict in Vietnam."
     }
   ]
 }

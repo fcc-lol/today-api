@@ -2,39 +2,39 @@
   "date": "November 3",
   "events": [
     {
-      "year": 1957,
-      "title": "Sputnik 2 Launches Laika into Orbit",
-      "description": "The Soviet Union launched Sputnik 2, carrying Laika, a stray dog from Moscow, making her the first animal to orbit the Earth. Laika died in orbit within hours from overheating and stress, though this was not publicly disclosed for decades.",
-      "category": "Science and Space Exploration",
-      "significance": "It demonstrated that a living organism could survive launch and weightlessness, paving the way for human spaceflight, while also raising ethical debates about animal testing in space research."
+      "year": 1493,
+      "title": "Columbus Sights Dominica",
+      "description": "On his second voyage to the New World, Christopher Columbus spotted a lush, mountainous island in the Caribbean on a Sunday morning. He named it Dominica, after the Latin word for Sunday.",
+      "category": "Exploration",
+      "significance": "The sighting opened the Lesser Antilles to European exploration and colonization, and it began a long, often violent period of contact between Europe and the Caribbean."
+    },
+    {
+      "year": 1812,
+      "title": "Napoleon's Army Is Defeated at Vyazma",
+      "description": "As the Grande Armée retreated from Moscow in worsening weather, Russian forces defeated its rear guard at the Battle of Vyazma.",
+      "category": "Battle",
+      "significance": "The defeat added to the attrition that wrecked Napoleon's invasion of Russia. It was one of the setbacks that eventually led to his downfall."
     },
     {
       "year": 1903,
-      "title": "Panama Declares Independence from Colombia",
-      "description": "Panama proclaimed its separation from Colombia with the backing of the United States, whose warships prevented Colombian forces from suppressing the uprising. The U.S. recognized the new republic within days.",
-      "category": "Politics and Independence",
-      "significance": "The secession cleared the way for the Hay-Bunau-Varilla Treaty and the construction of the Panama Canal, which transformed global maritime trade and established U.S. influence in the region."
+      "title": "Panama Declares Independence",
+      "description": "Panama broke away from Colombia in a swift and almost bloodless revolution. The United States quickly gave its support to the new nation.",
+      "category": "Politics",
+      "significance": "Independence cleared the way for the Panama Canal treaty and construction of the canal, which reshaped global trade and U.S. influence in Latin America."
     },
     {
-      "year": 1964,
-      "title": "Washington, D.C. Residents Vote in a Presidential Election",
-      "description": "In the U.S. presidential election, Lyndon B. Johnson won in a landslide over Barry Goldwater. It was also the first presidential election in which residents of Washington, D.C. could vote, following ratification of the 23rd Amendment in 1961.",
-      "category": "Politics and Elections",
-      "significance": "Johnson's victory gave him a strong mandate for his Great Society programs, and the election extended presidential voting rights to D.C. residents for the first time."
+      "year": 1908,
+      "title": "William Howard Taft Wins the Presidency",
+      "description": "Voters elected Taft, Theodore Roosevelt's chosen successor, as the 27th president of the United States.",
+      "category": "Politics",
+      "significance": "Taft later became the only person to serve as both U.S. president and Chief Justice of the United States."
     },
     {
-      "year": 1493,
-      "title": "Columbus Sights Dominica",
-      "description": "On his second voyage to the Americas, Christopher Columbus sighted an island in the Lesser Antilles on a Sunday and named it Dominica, from the Latin for Sunday.",
-      "category": "Exploration",
-      "significance": "The landfall marked the start of expanded European exploration and colonization of the Caribbean, with profound consequences for the Indigenous peoples of the region."
-    },
-    {
-      "year": 1918,
-      "title": "Kiel Mutiny Begins",
-      "description": "German sailors at Kiel mutinied when ordered to sail on a final, hopeless naval operation against the British. The revolt spread rapidly to other ports and cities across Germany.",
-      "category": "War and Revolution",
-      "significance": "The mutiny sparked the German Revolution of 1918-1919, contributed to the abdication of Kaiser Wilhelm II, and hastened the end of World War I and the founding of the Weimar Republic."
+      "year": 1957,
+      "title": "Sputnik 2 Carries Laika Into Orbit",
+      "description": "The Soviet Union launched Sputnik 2 from Baikonur Cosmodrome. On board was Laika, a dog who became the first animal to orbit the Earth.",
+      "category": "Science and Space",
+      "significance": "The mission showed that a living creature could survive launch and weightlessness. That was an important early step toward human spaceflight, and it also raised ethical questions about animal testing."
     }
   ]
 }

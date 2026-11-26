@@ -3,56 +3,54 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up crocus-like lilac-pink flowers in autumn, without any leaves present. The leaves appear the following spring and die back by early summer. All parts of the plant are highly toxic due to colchicine.",
-      "bloomingSeason": "Early to mid autumn (September to October in the Northern Hemisphere)",
-      "location": "Europe, naturalized in damp meadows and woodland edges; widely cultivated in temperate gardens worldwide",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "In damp meadows, bare pink-lilac goblets push straight out of the ground, with no leaves around them. They look like crocuses that have lost their way. The foliage only appears the following spring.",
+      "bloomingSeason": "September to October, which includes September 19",
+      "location": "Meadows and grasslands across central and western Europe",
       "colors": [
+        "Pale pink",
         "Lilac",
-        "Pink",
-        "Pale purple"
+        "Soft purple"
       ],
       "emoji": "🌷",
-      "funFact": "Colchicine from this plant is used in medicine to treat gout and by plant breeders to induce chromosome doubling. The flowers are nicknamed 'naked ladies' because they bloom without leaves."
+      "funFact": "Despite the name, it is not a true crocus. It belongs to the lily family and contains colchicine, a toxic compound. Plant breeders use colchicine to double the chromosomes of other plants."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower with arching plumes of tiny golden-yellow flower heads. It forms dense colonies in meadows, roadsides, and fields, and provides vital late-season nectar and pollen for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to fall (August to October)",
-      "location": "North America, in meadows, prairies, and roadsides; invasive in parts of Europe and Asia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden wattle",
+      "description": "Australia's national floral emblem covers itself in fluffy, fragrant golden pom-poms in the southern spring. Each ball is a cluster of 40 to 80 tiny flowers. Whole hillsides glow gold.",
+      "bloomingSeason": "Late August to September, which covers September 19",
+      "location": "Southeastern Australia, including South Australia, Victoria and New South Wales",
       "colors": [
         "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and insect-carried; the true culprit is usually ragweed, which blooms at the same time."
+      "funFact": "Australians celebrate National Wattle Day on September 1. In full bloom the tree displays the green and gold of the country's national colours."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden-yellow flower balls. It blooms in late winter to spring in Australia and is a hardy species of dry woodlands and scrub.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including Victoria, New South Wales, and South Australia",
+      "name": "Solidago canadensis",
+      "commonName": "Canadian goldenrod",
+      "description": "Tall stems carry arching plumes of tiny golden flowers. Bees, butterflies and beetles crowd onto them in the late-summer sun. It lights up roadsides, prairies and meadows as autumn approaches.",
+      "bloomingSeason": "August to October, which includes September 19",
+      "location": "Eastern and central North America, from Canada to the central United States",
       "colors": [
-        "Golden yellow"
+        "Bright yellow",
+        "Gold"
       ],
-      "emoji": "🌳",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
+      "emoji": "💛",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and travels by insect. Ragweed, which blooms at the same time, is usually the real culprit."
     },
     {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "An easy-to-grow annual with feathery foliage and daisy-like flowers on tall, slender stems. It thrives in full sun and poor soil and blooms prolifically until the first frost, attracting pollinators in autumn gardens.",
-      "bloomingSeason": "Summer through fall (June to first frost)",
-      "location": "Native to Mexico and Central America; cultivated in gardens worldwide, with naturalized populations in many regions",
+      "name": "Lycoris radiata",
+      "commonName": "Red spider lily (higanbana)",
+      "description": "Leafless stalks shoot up almost overnight. Each is topped with a crown of crimson flowers whose long, curling stamens look like spider legs. In Japan, rice-field edges and riverbanks flush red around the autumn equinox.",
+      "bloomingSeason": "Around September, peaking near the autumn equinox, which covers September 19",
+      "location": "Japan, plus gardens in China, Korea and the southeastern United States",
       "colors": [
-        "Pink",
-        "White",
-        "Magenta",
-        "Crimson"
+        "Crimson red"
       ],
-      "emoji": "🌸",
-      "funFact": "The name Cosmos comes from the Greek word 'kosmos', meaning order or harmony, which was inspired by the orderly arrangement of its petals."
+      "emoji": "🌺",
+      "funFact": "The Japanese name higanbana refers to the equinox week of Higan, when the flowers appear. They are traditionally planted around rice paddies and graveyards because the bulbs are toxic to rodents and other pests."
     }
   ]
 }

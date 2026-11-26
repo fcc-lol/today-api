@@ -2,39 +2,32 @@
   "date": "September 21",
   "events": [
     {
+      "year": 1776,
+      "title": "Great Fire of New York",
+      "description": "During the British occupation of New York City in the American Revolutionary War, a fire broke out and destroyed up to 1,000 buildings, a large share of the city.",
+      "category": "Disaster",
+      "significance": "The blaze left much of the city in ruins and remains one of the most destructive fires in early American history."
+    },
+    {
       "year": 1937,
-      "title": "Publication of The Hobbit",
-      "description": "J.R.R. Tolkien's fantasy novel The Hobbit, or There and Back Again, was published by George Allen & Unwin in London. It follows the hobbit Bilbo Baggins on a quest with a group of dwarves and the wizard Gandalf to reclaim treasure guarded by the dragon Smaug.",
-      "category": "Literature",
-      "significance": "The book became a classic of children's literature and led to the creation of The Lord of the Rings, shaping the modern fantasy genre."
+      "title": "The Hobbit is published",
+      "description": "J.R.R. Tolkien's children's fantasy novel about Bilbo Baggins and his unexpected journey was first published in the United Kingdom.",
+      "category": "Culture",
+      "significance": "The book's success led to The Lord of the Rings and helped shape modern fantasy literature."
     },
     {
-      "year": 1792,
-      "title": "France Abolishes the Monarchy",
-      "description": "The newly convened National Convention voted to abolish the monarchy, ending the reign of Louis XVI and establishing the way for the First French Republic, which was proclaimed the following day.",
+      "year": 1964,
+      "title": "Malta gains independence",
+      "description": "Malta became independent from the United Kingdom after more than 160 years of British rule. At first it kept the British monarch as head of state.",
       "category": "Politics",
-      "significance": "This marked a turning point of the French Revolution, ending centuries of monarchical rule and influencing republican movements across Europe."
+      "significance": "Independence began Malta's path as a sovereign nation. It became a republic on December 13, 1974."
     },
     {
-      "year": 1981,
-      "title": "Belize Gains Independence",
-      "description": "Belize, formerly British Honduras, became fully independent from the United Kingdom, with George Cadle Price serving as its first Prime Minister.",
-      "category": "Politics",
-      "significance": "Independence completed decolonization of mainland British territories in Central America, though a territorial dispute with Guatemala continued."
-    },
-    {
-      "year": 1866,
-      "title": "Birth of H.G. Wells",
-      "description": "Herbert George Wells, English writer, was born in Bromley, Kent. He wrote pioneering science fiction works including The Time Machine, The War of the Worlds, and The Invisible Man.",
-      "category": "Births",
-      "significance": "Wells is regarded as one of the fathers of science fiction, and his works shaped the genre and public thinking about the future and technology."
-    },
-    {
-      "year": 1938,
-      "title": "Great New England Hurricane",
-      "description": "A powerful Category 3 hurricane struck Long Island and southern New England without much warning, killing around 600 people and destroying thousands of homes and boats.",
-      "category": "Natural Disasters",
-      "significance": "One of the deadliest and most destructive hurricanes in U.S. northeastern history, it spurred improvements in weather forecasting and hurricane warning systems."
+      "year": 2013,
+      "title": "Westgate Mall attack in Nairobi",
+      "description": "Militants from the extremist group al-Shabaab attacked the Westgate shopping mall in Nairobi, Kenya, and a siege followed. At least 63 civilians were killed before Kenyan security forces ended it.",
+      "category": "Terrorism",
+      "significance": "The attack was among the deadliest terrorist incidents in Kenya's history and drew global attention to the threat from al-Shabaab."
     }
   ]
 }

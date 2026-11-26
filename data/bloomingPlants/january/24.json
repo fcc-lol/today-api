@@ -2,60 +2,46 @@
   "date": "January 24",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and showy rose-like flowers. It is widely cultivated in temperate gardens and thrives in partial shade with acidic, well-drained soil.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; cultivated in the southeastern United States, Europe, and Australia",
-      "colors": [
-        "red",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant used to make tea, and its seeds yield camellia oil used in cooking and cosmetics."
-    },
-    {
       "name": "Prunus mume",
-      "commonName": "Chinese Plum (Ume)",
-      "description": "A small deciduous tree that blooms on bare branches in the cold of winter, producing fragrant five-petaled flowers. It is a beloved symbol of perseverance in East Asian culture.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Native to southern China; cultivated in Japan, Korea, and Taiwan",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "Ume are among the first trees to flower each year. Their bare, dark branches are covered in small, five-petaled blossoms with a sweet, spicy fragrance. The flowers are often seen against late-winter chill, which makes them a symbol of resilience.",
+      "bloomingSeason": "Early January to early March in the earliest-flowering gardens, with the main season later in colder regions",
+      "location": "Atami, Shizuoka Prefecture, Japan (Atami Plum Garden)",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pale pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Because it flowers amid snow and frost, the plum blossom is one of the 'Three Friends of Winter' in Chinese art, along with pine and bamboo."
+      "funFact": "Ume fruit is pickled into umeboshi and steeped in liqueur to make umeshu. The tree has been prized in East Asia for well over a thousand years, and poets there often celebrated it before the cherry."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody shrub with large, spectacular flower heads made up of colorful bracts surrounding a central cluster of tiny flowers. It is adapted to nutrient-poor soils and fire-prone fynbos habitat.",
-      "bloomingSeason": "Southern Hemisphere summer (peak from December to February, with blooms in other seasons too)",
-      "location": "South Africa, in the fynbos of the Western and Eastern Cape",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia (Tsubaki)",
+      "description": "This evergreen shrub has glossy, deep-green leaves. Its blooms look like perfect rosettes of satin petals around a boss of golden stamens. They appear in the cold months, when little else is in flower.",
+      "bloomingSeason": "January to March in the wild, with cultivated varieties flowering from late autumn through spring",
+      "location": "Coastal woodlands and gardens of Japan, Korea and southern China",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Red",
+        "Pink",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "The King Protea is the national flower of South Africa, and its genus is named after the Greek god Proteus because of the wide variety of forms it takes."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Camellia oil, pressed from the seeds, has long been used in Japan as a hair and skin care oil."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with fern-like leaves that becomes covered in brilliant clusters of flowers in the warm season. It is a favorite shade and ornamental tree in tropical and subtropical regions.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in dry seasons in some tropical regions",
-      "location": "Native to Madagascar; widely planted in Australia, Brazil, and tropical regions worldwide",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Round clusters of trumpet-shaped flowers sit on tall, slender stems above fountains of strap-like leaves. In midsummer in the Southern Hemisphere they form blue-violet globes that hum with visiting bees.",
+      "bloomingSeason": "Mainly November to February, which covers midsummer in the Southern Hemisphere",
+      "location": "Native to South Africa, widely grown in gardens across Australia and other Southern Hemisphere regions",
       "colors": [
-        "scarlet",
-        "orange",
-        "red"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌳",
-      "funFact": "Although it is a spectacular and common street tree around the globe, the Royal Poinciana is endangered in its native habitat in Madagascar."
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from Greek words meaning 'love flower'. It has become so successful outside its homeland that it is considered a weed in parts of Australia."
     }
   ]
 }

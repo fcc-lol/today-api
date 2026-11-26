@@ -2,58 +2,60 @@
   "date": "February 7",
   "plants": [
     {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the depths of winter. It is widely cultivated in East Asia and prized for both its ornamental flowers and its tart fruit used in pickling and liqueurs.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "deep red"
-      ],
-      "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom while snow may still be on the ground."
-    },
-    {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It naturalizes in woodlands and gardens, often pushing up through frost and snow.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Snowdrop",
+      "description": "Nodding, milk-white bells with delicate green-marked inner petals push through frost and leaf litter in woodlands, churchyards and gardens. They often form drifts that look like a late dusting of snow.",
+      "bloomingSeason": "January to February, and sometimes earlier in mild winters",
+      "location": "United Kingdom and temperate Europe",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrops make a natural antifreeze-like protein and contain galantamine, a compound that has inspired a medicine used for Alzheimer's disease."
     },
     {
-      "name": "Hamamelis x intermedia",
-      "commonName": "Witch Hazel",
-      "description": "A large deciduous shrub with spidery, ribbon-like petals that appear on leafless branches and emit a spicy fragrance. Many cultivars are grown in temperate gardens for winter interest.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Hybrid of Asian species; cultivated across Europe and North America",
+      "name": "Prunus mume",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Fragrant, five-petaled blossoms open on bare, gnarled branches while cold air still lingers. The scent is sweet and spicy, and each flower is a small pale-pink cup. Ume groves are a much-loved sign that winter is turning toward spring.",
+      "bloomingSeason": "Late winter, typically January to February",
+      "location": "Japan, China and temperate East Asia, as well as mild gardens elsewhere",
       "colors": [
-        "yellow",
-        "orange",
-        "copper-red"
+        "Pale pink",
+        "White",
+        "Deep rose"
       ],
-      "emoji": "🌼",
-      "funFact": "The petals curl up tightly in freezing weather to protect themselves and then unfurl when temperatures rise."
+      "emoji": "🌸",
+      "funFact": "Ume blooms weeks before cherry blossoms, and in East Asian art it symbolizes perseverance because it flowers through the cold."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flame Tree)",
-      "description": "A broad, umbrella-shaped tropical tree that becomes covered in clusters of vivid blooms. In some regions it blooms in the warm season, which in the Southern Hemisphere includes February.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to March); spring to summer in the northern tropics",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, Brazil, and South Africa",
+      "name": "Camellia japonica",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs carry rose-like blooms, from single cups to dense formal doubles, against dark leaves. In mild-winter gardens they are a showy burst of color in the coldest months.",
+      "bloomingSeason": "Winter to early spring, with many cultivars at peak in February",
+      "location": "Southeastern United States gardens, and its native Japan and Korea",
       "colors": [
-        "scarlet",
-        "orange-red"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Although it is famous worldwide, the Flame Tree is endangered in its native Madagascar habitat."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African lily",
+      "description": "Tall, sturdy stems lift round clusters of funnel-shaped, blue-violet flowers above arching strap-like leaves. In the height of southern summer they make a vivid, long-lasting display.",
+      "bloomingSeason": "Mid to late summer, December to February",
+      "location": "Eastern Cape, South Africa, and Southern Hemisphere gardens",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, it is not a true lily. Its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

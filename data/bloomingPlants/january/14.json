@@ -4,59 +4,43 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and showy rose-like flowers. It is widely cultivated in temperate gardens and thrives in partial shade with acidic, well-drained soil.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea and China; cultivated in the southeastern United States, Europe and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with layered satin petals and golden centers. They bring bold color to the quiet days of mid-winter gardens.",
+      "bloomingSeason": "Late autumn through early spring, peaking in midwinter",
+      "location": "Japan, the southeastern United States and the Pacific coast of North America",
       "colors": [
         "Red",
         "Pink",
-        "White",
-        "Variegated"
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and camellia oil has been used in Japan for centuries as a hair and skin treatment."
+      "funFact": "Camellia sinensis, a close relative, is the plant that gives us tea. Camellia japonica is Japan's famous winter flower and has been cultivated there for centuries."
     },
     {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Barbados Lily (Amaryllis)",
-      "description": "A bulbous perennial producing large trumpet-shaped flowers on tall hollow stalks. In the wild it grows in tropical and subtropical regions, and hybrids are popular as potted plants and in warm gardens.",
-      "bloomingSeason": "Winter in the Northern Hemisphere when forced indoors; wild and garden plants bloom in the Southern Hemisphere summer (December to February)",
-      "location": "Native to Central and South America and the Caribbean; grown worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic, dinner-plate-sized flower head with a crown of silky pink bracts around a downy center. It blooms on the sun-baked slopes of the southern summer.",
+      "bloomingSeason": "Peak flowering in late spring and summer in the Southern Hemisphere, with some blooms from late winter to autumn",
+      "location": "Fynbos of the Western Cape, South Africa",
       "colors": [
-        "Red",
-        "Orange",
         "Pink",
-        "White"
+        "Cream",
+        "Silvery-white"
       ],
-      "emoji": "🌷",
-      "funFact": "Many plants sold as amaryllis are actually Hippeastrum, a different genus from the true South African Amaryllis belladonna."
+      "emoji": "🌸",
+      "funFact": "It is South Africa's national flower. The plant is adapted to fire, and its thick underground stems can resprout after bushfires."
     },
     {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of tubular blue flowers held on tall stalks. It is tolerant of heat and drought and is common in coastal gardens.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
-      "location": "Native to South Africa; widely naturalized in Australia and New Zealand",
+      "name": "Eranthis hyemalis",
+      "commonName": "Winter Aconite",
+      "description": "Small, buttercup-yellow cups that sit on a green ruff of leaves. They push up through frost and sometimes snow.",
+      "bloomingSeason": "Midwinter to early spring, typically January to March",
+      "location": "Woodlands and gardens of Europe, including the UK, naturalized in parts of North America",
       "colors": [
-        "Blue",
-        "Violet",
-        "White"
+        "Yellow",
+        "Green"
       ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words for 'love' and 'flower'."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low evergreen perennial that blooms during the coldest months, with nodding saucer-shaped white flowers surrounding golden stamens. It thrives in woodland conditions with alkaline soil.",
-      "bloomingSeason": "Midwinter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "🤍",
-      "funFact": "Despite blooming in snow, hellebores are poisonous, and in folklore they were once believed to ward off evil spirits."
+      "emoji": "🌼",
+      "funFact": "The flowers close up in dull, cold weather and open wide in sunshine, so they are mostly pollinated on mild winter days by early bees."
     }
   ]
 }

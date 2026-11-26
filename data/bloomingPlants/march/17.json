@@ -4,55 +4,42 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful ornamental tree that covers its branches in clouds of pale pink-white, almond-scented blossoms before the leaves emerge. It is the most widely planted cherry for hanazakura festivals and is a hallmark of early spring in temperate regions.",
-      "bloomingSeason": "Late March to mid April in Japan and the mid-Atlantic US; earlier in warmer areas of southern Japan and Korea",
-      "location": "Japan, South Korea, Washington D.C. (USA), and temperate regions worldwide",
+      "description": "Clouds of blush-white, almond-scented blossoms cover bare branches before the leaves appear. Each petal falls in a soft drift, so the ground looks as pretty as the trees.",
+      "bloomingSeason": "Mid-March to mid-April in warmer parts of its range, with peak bloom in many cities in late March. Some southern Japanese cities, including Fukuoka, may see the first blooms around mid-to-late March.",
+      "location": "Southern Japan, including Kyushu, and warm-climate regions of the Northern Hemisphere",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The Yoshino cherry trees around the Tidal Basin in Washington D.C. were a 1912 gift from Tokyo, and in warm years they can begin blooming around mid-March."
+      "funFact": "Cherry blossom forecasting is a national pastime in Japan. Every spring, the 'cherry blossom front' moves north across the islands, and millions of people gather for hanami, the tradition of picnicking under the blooms."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and blue-green strap-like leaves. It naturalizes in woodlands and meadows and is a classic harbinger of spring in Western Europe, with countless garden cultivars derived from it.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
+      "commonName": "Wild Daffodil",
+      "description": "A trumpet of golden yellow sits inside a ring of paler petals. Wild daffodils bloom in woodland and meadow clearings, and in a good year they carpet the ground in gold.",
+      "bloomingSeason": "Late February to April in Western Europe, with many populations in full flower in mid-March",
+      "location": "Woodlands and meadows of England, Wales and Western Europe",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils contain lycorine and other alkaloids that make them toxic to most animals, which is why deer and rodents usually leave them alone. One alkaloid, galantamine, is used in medicine for Alzheimer's disease."
+      "funFact": "Daffodil bulbs contain a compound called galantamine, which has been developed into a medicine for the symptoms of Alzheimer's disease. The same bulbs are toxic if eaten, which is one reason deer and rabbits leave them alone."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A deciduous small tree or large shrub bearing large, tulip-shaped goblet flowers on bare branches in early spring. The blooms are white to pink-purple, often flushed darker at the base, and they can be spectacular in gardens and parks.",
-      "bloomingSeason": "Late February to April",
-      "location": "Cultivated across temperate Asia, Europe, and North America (hybrid originated in France)",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest flower head in the protea family looks like a bowl of silky pink petal-like bracts around a crown of fine, pale center hairs. It grows on rocky mountain slopes in the fynbos, where it stands out against the scrubby green.",
+      "bloomingSeason": "Mainly late summer to early summer in the Southern Hemisphere, with peak flowering from about February to June in some areas. March can be a time when flowers appear in some regions, but timing varies by location.",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Pink",
+        "Cream",
+        "Silver-white"
       ],
-      "emoji": "🌷",
-      "funFact": "Magnolias are among the most ancient flowering plants, and their flowers evolved before bees existed, so they are pollinated by beetles. The hybrid was first raised in France in the 1820s by Étienne Soulange-Bodin."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda (Blue Jacaranda)",
-      "description": "A fast-growing subtropical tree with fern-like leaves and dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere, some trees still carry late-season blooms in early autumn, and the carpets of fallen petals are striking.",
-      "bloomingSeason": "Mainly October to December in the Southern Hemisphere, with a secondary or lingering bloom into March in some locations; spring (April to June) in the Northern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and California",
-      "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "In Sydney, Australia, jacaranda blooms are a signature of the end of the year, and in Pretoria, South Africa, the city is nicknamed the Jacaranda City because of its tens of thousands of trees."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its thick, fire-resistant stems let it survive the wildfires that regularly sweep through the fynbos, and it regrows from underground woody tissue."
     }
   ]
 }

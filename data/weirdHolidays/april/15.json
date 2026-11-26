@@ -2,44 +2,28 @@
   "date": "April 15",
   "holidays": [
     {
-      "name": "National Take a Wild Guess Day",
-      "description": "A day dedicated to trusting your gut and making a bold guess about anything, from trivia answers to what's in the mystery casserole at the office potluck. Accuracy is optional, confidence is mandatory.",
-      "origin": "This is an unofficial, humorous observance listed in quirky holiday calendars. It has no single documented founder, and it spread through novelty-day lists and social media.",
-      "category": "Unofficial Fun Day",
-      "emoji": "🎯",
-      "funFact": "Guessing under uncertainty is a real field of study, and research shows people's quick gut estimates are often surprisingly close, especially when averaged across a crowd."
-    },
-    {
-      "name": "National Banana Day",
-      "description": "A tribute to the world's most popular fruit, celebrated with banana bread, banana splits, smoothies, and peeling with unearned swagger.",
-      "origin": "An unofficial food observance popularized by food-holiday calendars. Bananas have been traded globally since the late 1800s, when refrigerated shipping made them a household staple.",
-      "category": "Food Day",
-      "emoji": "🍌",
-      "funFact": "Bananas are technically berries, while strawberries are not. The bananas in stores are mostly one variety, the Cavendish, and they are genetically near-identical clones."
-    },
-    {
-      "name": "National Glazed Spiral Ham Day",
-      "description": "A salute to the sweet, sticky, pre-sliced holiday centerpiece that makes carving effortless and leftovers endless.",
-      "origin": "An unofficial food observance that falls around Easter season in many years, when spiral ham is a traditional table star. Spiral slicing was patented in the 1940s by Harry Hoenselaar, who started the HoneyBaked Ham company.",
-      "category": "Food Day",
-      "emoji": "🍖",
-      "funFact": "Harry Hoenselaar invented a spiral ham slicing machine and opened his first HoneyBaked Ham store in Detroit in 1957."
-    },
-    {
-      "name": "World Art Day",
-      "description": "An international celebration of creativity, painting, sculpting, doodling, and all the ways humans make things beautiful. It encourages everyone to pick up a pencil and make something, however questionable.",
-      "origin": "Recognized by UNESCO, which in 2019 proclaimed April 15 as World Art Day to promote art and its contribution to sustainable development. The date honors the birthday of Leonardo da Vinci, born April 15, 1452.",
-      "category": "Awareness Day",
-      "emoji": "🎨",
-      "funFact": "Leonardo da Vinci wrote his notebooks in mirror-image script, and he left behind fewer than 20 confirmed paintings despite being one of history's most famous artists."
-    },
-    {
-      "name": "Rubber Eraser Day",
-      "description": "A day to appreciate the humble eraser, the unsung hero of every mistake ever made in pencil. Celebrate by correcting your errors and enjoying the satisfying crumbly shavings.",
-      "origin": "An unofficial observance said to honor the invention of the rubber eraser. In 1770, English engineer Edward Nairne reportedly sold the first rubber erasers after discovering that rubber could rub out pencil marks.",
-      "category": "Invention Day",
+      "name": "National Rubber Eraser Day",
+      "description": "A salute to the humble pink wedge that lets us pretend our mistakes never happened. Celebrate by erasing a doodle, a typo, or a questionable life choice (pencil only).",
+      "origin": "It is an unofficial observance of unclear origin. It honors the invention that made pencil mistakes fixable.",
+      "category": "Products & Technology",
       "emoji": "🧽",
-      "funFact": "Before rubber erasers, people commonly used bread crumbs to rub out pencil and charcoal marks."
+      "funFact": "Before rubber erasers became common, people rubbed out pencil marks with wads of bread. English engineer Edward Nairne is often credited with selling the first rubber erasers in the 1770s."
+    },
+    {
+      "name": "National Take a Wild Guess Day",
+      "description": "A day that rewards hunches, gut feelings and bold, unsupported answers. Guess how many jellybeans are in the jar, what's for dinner, or who's calling. Being wrong is part of the fun.",
+      "origin": "It is an unofficial observance of unclear origin. It encourages people to trust their instincts and enjoy not knowing for sure.",
+      "category": "Weird & Obscure",
+      "emoji": "🎲",
+      "funFact": "Estimating is a real skill. In a famous 1906 observation by Francis Galton, a crowd at a county fair guessed an ox's weight, and the average of their guesses landed within about one percent of the true figure."
+    },
+    {
+      "name": "National That Sucks Day",
+      "description": "A permission slip to complain about the small stuff, like stubbed toes, soggy fries and slow Wi-Fi. You acknowledge the bad thing, say \"that sucks,\" and move on, ideally with a laugh.",
+      "origin": "It is an unofficial observance of unclear origin. It falls on April 15, which is also Tax Day in the U.S., so the timing fits.",
+      "category": "Fun & Joy",
+      "emoji": "😖",
+      "funFact": "The date lines up with Tax Day in the United States. That makes it a convenient moment for a collective groan."
     }
   ]
 }

@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1498,
-      "title": "Vasco da Gama Arrives in Calicut",
-      "description": "Portuguese explorer Vasco da Gama reached Calicut on the Malabar Coast of India after sailing around the Cape of Good Hope, completing the first direct sea voyage from Europe to India.",
+      "title": "Vasco da Gama Reaches India",
+      "description": "After rounding the southern tip of Africa and crossing the Indian Ocean, Portuguese explorer Vasco da Gama anchored off Calicut on India's Malabar Coast. He was the first European to reach India by sea.",
       "category": "Exploration",
-      "significance": "Opened a direct maritime trade route between Europe and Asia, launching the era of Portuguese dominance in the Indian Ocean spice trade and reshaping global commerce and colonialism."
+      "significance": "The voyage opened a direct maritime trade route between Europe and Asia. It set the stage for Portugal's rise as a global trading power and for centuries of European involvement in the Indian Ocean."
+    },
+    {
+      "year": 1506,
+      "title": "Christopher Columbus Dies in Valladolid",
+      "description": "The Italian-born navigator who led Spanish voyages across the Atlantic died in Valladolid, Spain. He was about 54 years old, and he was still pressing the Spanish crown to honor the rewards he felt he was owed.",
+      "category": "Death",
+      "significance": "Columbus's voyages began lasting contact between Europe and the Americas, a turning point in world history that reshaped continents, economies and peoples."
     },
     {
       "year": 1873,
-      "title": "Levi Strauss and Jacob Davis Receive Patent for Blue Jeans",
-      "description": "Levi Strauss and tailor Jacob Davis were granted U.S. Patent No. 139,121 for using copper rivets to reinforce the stress points of work pants, creating what became blue jeans.",
-      "category": "Business and Invention",
-      "significance": "The patent launched one of the most enduring garments in history, which grew from workwear into a global symbol of casual fashion and American culture."
-    },
-    {
-      "year": 1902,
-      "title": "Cuba Becomes an Independent Republic",
-      "description": "The United States ended its military occupation of Cuba, and Tomás Estrada Palma was inaugurated as the first president of the Republic of Cuba.",
-      "category": "Politics",
-      "significance": "Marked formal Cuban independence after the Spanish-American War, though the Platt Amendment kept significant U.S. influence over Cuban affairs for decades."
+      "title": "Blue Jeans Receive a U.S. Patent",
+      "description": "San Francisco merchant Levi Strauss and Reno tailor Jacob Davis were granted a U.S. patent for work pants reinforced with copper rivets at the stress points.",
+      "category": "Invention",
+      "significance": "The patent marked the birth of blue jeans, which grew from durable workwear into one of the most recognizable and widely worn garments in the world."
     },
     {
       "year": 1927,
-      "title": "Charles Lindbergh Begins Historic Transatlantic Flight",
-      "description": "Charles Lindbergh took off from Roosevelt Field, New York, in the Spirit of St. Louis on the first solo nonstop transatlantic flight, landing in Paris the next day, May 21.",
+      "title": "Lindbergh Takes Off for Paris",
+      "description": "Charles Lindbergh left Roosevelt Field on Long Island, New York, in the single-engine Spirit of St. Louis. He was attempting the first solo nonstop flight across the Atlantic.",
       "category": "Aviation",
-      "significance": "Lindbergh's flight made him a global celebrity, proved the potential of long-distance air travel, and spurred rapid growth of the commercial aviation industry."
-    },
-    {
-      "year": 1932,
-      "title": "Amelia Earhart Begins Solo Transatlantic Flight",
-      "description": "Exactly five years after Lindbergh, Amelia Earhart took off from Newfoundland in a Lockheed Vega and landed in Northern Ireland the next day, becoming the first woman to fly solo across the Atlantic.",
-      "category": "Aviation",
-      "significance": "Earhart's achievement broke gender barriers in aviation and inspired generations of women pilots."
+      "significance": "The flight, which landed in Paris the next day, made Lindbergh a global celebrity. It also gave a major boost to public confidence in air travel and to the aviation industry."
     }
   ]
 }

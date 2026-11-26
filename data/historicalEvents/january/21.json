@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1793,
-      "title": "Execution of King Louis XVI",
-      "description": "Louis XVI of France was guillotined in the Place de la Révolution in Paris after being convicted of treason by the National Convention during the French Revolution.",
+      "title": "Louis XVI Is Guillotined",
+      "description": "After being convicted of treason by the National Convention, King Louis XVI of France was executed by guillotine in Paris at age 38.",
       "category": "Politics",
-      "significance": "His death ended the thousand-year tradition of French monarchy for the time being and marked a radical turning point in the Revolution, intensifying conflict between revolutionary France and the monarchies of Europe."
+      "significance": "His death ended any hope of a constitutional monarchy in France. It pushed the French Revolution into a more radical phase and alarmed monarchies across Europe."
     },
     {
       "year": 1924,
-      "title": "Death of Vladimir Lenin",
-      "description": "Vladimir Lenin, founder of the Russian Communist Party and first head of the Soviet government, died at age 53 at his estate in Gorki after a series of strokes.",
-      "category": "Deaths",
-      "significance": "His death triggered a power struggle within the Soviet leadership that ultimately led to Joseph Stalin's rise to supreme power and shaped the future course of the Soviet Union."
-    },
-    {
-      "year": 1950,
-      "title": "Death of George Orwell",
-      "description": "English author Eric Arthur Blair, known as George Orwell, died of tuberculosis in London at age 46, shortly after publishing Nineteen Eighty-Four in 1949.",
-      "category": "Deaths",
-      "significance": "Orwell's works, including Animal Farm and Nineteen Eighty-Four, remain enduring critiques of totalitarianism and have contributed terms such as 'Big Brother' and 'Orwellian' to the common language."
-    },
-    {
-      "year": 1976,
-      "title": "Concorde Commences Commercial Supersonic Service",
-      "description": "British Airways and Air France simultaneously launched the first scheduled commercial supersonic passenger flights with Concorde, flying from London to Bahrain and from Paris to Rio de Janeiro.",
-      "category": "Technology",
-      "significance": "Concorde marked a milestone in aviation, cutting transatlantic travel time to about three and a half hours and remaining an icon of engineering until its retirement in 2003."
+      "title": "Vladimir Lenin Dies",
+      "description": "Lenin, founder of the Soviet state, died at his country estate at Gorki after a series of strokes.",
+      "category": "Death",
+      "significance": "His death set off a power struggle that ended with Joseph Stalin in control. It shaped the course of the Soviet Union for decades."
     },
     {
       "year": 1954,
-      "title": "Launch of USS Nautilus",
-      "description": "The USS Nautilus, the world's first operational nuclear-powered submarine, was launched at Groton, Connecticut, with First Lady Mamie Eisenhower breaking the traditional bottle of champagne.",
-      "category": "Technology",
-      "significance": "Nuclear propulsion allowed submarines to stay submerged for extended periods, transforming naval warfare and strategy during the Cold War."
+      "title": "USS Nautilus Is Launched",
+      "description": "First Lady Mamie Eisenhower launched the USS Nautilus at Groton, Connecticut. It was the world's first nuclear-powered submarine.",
+      "category": "Science and Technology",
+      "significance": "Nuclear propulsion let submarines stay submerged for long periods. This changed naval strategy and the Cold War balance of power."
+    },
+    {
+      "year": 1976,
+      "title": "Concorde Begins Passenger Service",
+      "description": "British Airways and Air France began commercial supersonic flights on the same day. One flew from London to Bahrain and the other from Paris to Rio de Janeiro.",
+      "category": "Milestone",
+      "significance": "Concorde cut transatlantic travel times to about three and a half hours. It remains a landmark of aviation engineering."
     }
   ]
 }

@@ -2,59 +2,59 @@
   "date": "August 6",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem topped by a broad flower head made up of golden ray florets surrounding a dark disc of tiny florets. Young flower heads track the sun across the sky. It is grown as an ornamental and as an oil and seed crop, and it also grows wild in open areas.",
-      "bloomingSeason": "Midsummer to early autumn in the Northern Hemisphere (July to September)",
-      "location": "Native to North America; widely cultivated across Europe, Russia, Ukraine, and the northern United States",
-      "colors": [
-        "yellow",
-        "gold",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The sunflower head is not a single flower but a composite of up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
-    },
-    {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. It is grown in gardens and on large commercial fields for essential oil.",
-      "bloomingSeason": "Early to late summer, with peak bloom in July and into August",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
+      "commonName": "True Lavender",
+      "description": "Rolling Provençal hillsides ripple with violet-blue spikes, and the warm air hums with bees and smells of sweet, herbal perfume. By early August the earliest fields are fading, but many high-altitude and later-blooming plantings are still in color.",
+      "bloomingSeason": "Mid-June to late August, peaking in July",
+      "location": "Provence and the French Alps, France",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely derives from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
+      "funFact": "The name comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with lavender."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Tall, sturdy stems carry huge golden-rayed flower heads that face the sun across summer fields and gardens. Each head is made of hundreds of tiny florets, packed around a dark center.",
+      "bloomingSeason": "July through August, and into early autumn in many cultivars",
+      "location": "Temperate North America and Europe, in fields and gardens",
+      "colors": [
+        "Golden yellow",
+        "Orange",
+        "Deep brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "Young sunflower buds track the sun from east to west during the day. Mature flowers stop moving and mostly face east."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower is a dramatic bloom, with a bowl of silky pink bracts around a crown of pale, fuzzy florets. Heads can reach 30 cm across, and they bloom in the cool southern winter.",
+      "bloomingSeason": "July to October, in the southern hemisphere winter and spring",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Proteas are an ancient plant family. The genus is named after the Greek sea god Proteus, who could change his shape, because the plants vary so much in form."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial whose large, round leaves and showy, fragrant flowers rise on stalks above the water surface. The leaves repel water and dirt. The flowers open in the morning and close by afternoon over a few days. It is rooted in muddy pond and wetland bottoms.",
-      "bloomingSeason": "Summer, peaking from June to August",
-      "location": "Native to Asia and northern Australia; cultivated in China, India, Japan, Vietnam, and in water gardens around the world",
+      "description": "Pink-tipped petals rise on tall stems above round, water-repellent leaves on warm ponds and lakes. Each bloom opens in the morning and closes again in the evening.",
+      "bloomingSeason": "Mainly June to August",
+      "location": "Ponds and lakes across China and East Asia",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy, and the leaf's self-cleaning surface inspired the term 'lotus effect' in materials science."
-    },
-    {
-      "name": "Chamaenerion angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower producing long spikes of vivid magenta-pink flowers that bloom from the bottom of the spike upward. It rapidly colonizes burned or disturbed land, often forming sweeping carpets of color. The seeds bear silky fluff that disperses on the wind.",
-      "bloomingSeason": "Mid to late summer (July to September)",
-      "location": "Circumpolar across the Northern Hemisphere, including Alaska, Canada, northern Europe, Siberia, and mountainous regions",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Fireweed is often among the first plants to reappear after wildfires, and the progress of blooming up the spike is said to signal the approaching end of summer."
+      "funFact": "Lotus leaves have a microscopic surface structure that sheds water and dirt. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     }
   ]
 }

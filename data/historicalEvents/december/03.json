@@ -2,39 +2,39 @@
   "date": "December 3",
   "events": [
     {
-      "year": 1967,
-      "title": "First Human Heart Transplant",
-      "description": "Surgeon Christiaan Barnard performed the world's first human-to-human heart transplant at Groote Schuur Hospital in Cape Town, South Africa, on patient Louis Washkansky, who lived for 18 days after the operation.",
-      "category": "Science and Medicine",
-      "significance": "This milestone opened the era of modern transplant surgery and led to major advances in immunosuppression and organ donation, saving countless lives in the decades since."
-    },
-    {
       "year": 1818,
-      "title": "Illinois Admitted as the 21st U.S. State",
-      "description": "Illinois was admitted to the Union as the 21st state, following the passage of an enabling act and the approval of its constitution by Congress.",
-      "category": "Politics and Government",
-      "significance": "Illinois became a major center of agriculture, transportation, and industry, and later produced figures such as Abraham Lincoln who shaped the nation's history."
-    },
-    {
-      "year": 1984,
-      "title": "Bhopal Gas Tragedy",
-      "description": "A leak of methyl isocyanate gas from the Union Carbide pesticide plant in Bhopal, India, exposed hundreds of thousands of people to toxic fumes overnight, killing thousands immediately and many more in later years.",
-      "category": "Disaster",
-      "significance": "It is considered one of the worst industrial disasters in history and prompted worldwide reforms in industrial safety, environmental regulation, and corporate accountability."
-    },
-    {
-      "year": 1992,
-      "title": "First SMS Text Message Sent",
-      "description": "Engineer Neil Papworth sent the first text message, reading 'Merry Christmas,' over the Vodafone network in the United Kingdom to Richard Jarvis, who received it on a computer.",
-      "category": "Technology",
-      "significance": "The event marked the beginning of text messaging, which grew into a dominant form of global communication and paved the way for modern mobile messaging."
+      "title": "Illinois Becomes the 21st U.S. State",
+      "description": "Illinois was admitted to the Union as the 21st state. It had grown from a frontier territory along the Mississippi and Ohio rivers.",
+      "category": "Politics",
+      "significance": "Illinois grew into a major center of agriculture, transport and industry in the American Midwest. It later produced leaders such as Abraham Lincoln."
     },
     {
       "year": 1894,
-      "title": "Death of Robert Louis Stevenson",
-      "description": "Scottish novelist and poet Robert Louis Stevenson, author of Treasure Island and Strange Case of Dr Jekyll and Mr Hyde, died in Samoa at age 44 after suffering a cerebral hemorrhage.",
-      "category": "Arts and Literature",
-      "significance": "Stevenson's adventure stories and psychological fiction remain widely read and have profoundly influenced popular literature and storytelling."
+      "title": "Robert Louis Stevenson Dies in Samoa",
+      "description": "The Scottish author of Treasure Island and Strange Case of Dr Jekyll and Mr Hyde died of a stroke at his home in Vailima, Samoa. He was 44. He had settled in the South Pacific in search of a healthier climate.",
+      "category": "Death",
+      "significance": "Stevenson's adventure stories and psychological tales are still widely read and adapted. His unfinished novel Weir of Hermiston was published after his death."
+    },
+    {
+      "year": 1910,
+      "title": "Neon Lighting Makes Its Public Debut",
+      "description": "French engineer Georges Claude showed neon lighting to the public at the Paris Motor Show. Glowing tubes of gas lit up the exhibition.",
+      "category": "Science & Technology",
+      "significance": "Neon lighting went on to shape the look of advertising and city nightlife around the world, from Parisian boulevards to the Las Vegas Strip."
+    },
+    {
+      "year": 1967,
+      "title": "First Human Heart Transplant",
+      "description": "At Groote Schuur Hospital in Cape Town, South African surgeon Christiaan Barnard led a team that replaced the failing heart of grocer Louis Washkansky with one from a young accident victim.",
+      "category": "Medicine",
+      "significance": "The operation showed that transplanting a human heart was possible. It opened the way to modern transplant surgery, which now saves many lives each year."
+    },
+    {
+      "year": 1984,
+      "title": "Bhopal Gas Disaster",
+      "description": "A toxic gas leak at a Union Carbide pesticide plant in Bhopal, India, exposed hundreds of thousands of people to poisonous fumes. The leak began overnight and the worst of its impact was felt on December 3.",
+      "category": "Disaster",
+      "significance": "It is regarded as one of the worst industrial disasters in history. It led to lasting health problems for survivors and prompted stronger safety and accountability standards for hazardous industries."
     }
   ]
 }

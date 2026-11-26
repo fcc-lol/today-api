@@ -2,56 +2,48 @@
   "date": "April 1",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of pale pink-white, five-petaled blossoms that appear before the leaves emerge. It is the iconic cherry tree of Japanese hanami celebrations and lines streets, parks and rivers across temperate Asia, Europe and North America.",
-      "bloomingSeason": "Late March to mid April",
-      "location": "Japan (Tokyo, Kyoto), Washington D.C. USA, Korea, and temperate parks worldwide",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Chalices of saturated colour rise on sturdy stems from the cool, damp soil of the Dutch bulb fields. Early varieties are opening into ribbons of red, yellow, pink and purple. The main show follows in the weeks after.",
+      "bloomingSeason": "Late March to mid-May, usually at its best in mid-April",
+      "location": "The Netherlands (bulb-growing regions and gardens such as Keukenhof)",
       "colors": [
-        "pale pink",
-        "white"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
       ],
-      "emoji": "🌸",
-      "funFact": "The Yoshino cherry is a clonal cultivar, so most trees in a region bloom almost simultaneously, and the Japan Meteorological Agency tracks the 'cherry blossom front' as it moves north each spring."
-    },
-    {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers with paler yellow outer petals, rising above blue-green strap-like leaves. It grows in woodlands and meadows in western Europe and is widely cultivated in gardens.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe (UK, France, Spain), naturalized in North America and cultivated in temperate gardens worldwide",
-      "colors": [
-        "yellow",
-        "pale yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Daffodils contain the alkaloid lycorine, which makes them toxic to most grazing animals and even to other flowers if cut stems are placed together in a vase."
+      "emoji": "🌷",
+      "funFact": "In 17th-century Holland, tulip bulbs became so prized that single bulbs reportedly sold for more than the price of a fine townhouse. The episode is remembered as 'tulip mania'."
     },
     {
       "name": "Magnolia stellata",
       "commonName": "Star Magnolia",
-      "description": "A compact deciduous shrub or small tree bearing fragrant, star-shaped flowers with many narrow strap-like tepals. The blooms open on bare branches in early spring and can be damaged by late frosts.",
-      "bloomingSeason": "Late March to April",
-      "location": "Native to Japan, widely grown in the northeastern United States, Europe and temperate Asia",
+      "description": "Before a single leaf unfurls, the bare branches of this small tree burst into fragrant, many-petalled white stars. Fuzzy, pussy-willow-like buds open into ribbon-thin petals that flutter in the early spring breeze. It is one of the first real signs of the season in temperate gardens.",
+      "bloomingSeason": "March to April",
+      "location": "Temperate gardens of North America and other cool-temperate regions (native to Japan)",
       "colors": [
-        "white",
-        "pale pink"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🤍",
-      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, which is why their sturdy flowers are thought to have evolved to be pollinated by beetles."
+      "funFact": "Magnolias belong to one of the oldest flowering plant lineages. Their blooms evolved before bees were common, so they are built tough enough to be pollinated by beetles."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall subtropical tree with fern-like leaves that erupts in masses of lavender-blue trumpet-shaped flowers. In the Southern Hemisphere, early autumn can bring a late or repeat bloom, and the fallen petals carpet streets in purple.",
-      "bloomingSeason": "Spring in the Northern Hemisphere tropics (March to May); main bloom October to December in the Southern Hemisphere with occasional autumn flowering",
-      "location": "Native to South America (Argentina, Bolivia); planted in Mexico, India, Pretoria South Africa, and Australia",
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily, Naked Lady",
+      "description": "Leafless stems shoot up from the bare earth, each topped with a cluster of rose-pink, trumpet-shaped, sweetly scented flowers. The blooms appear after the foliage has died back, which gives the plant its cheeky nickname. In warm, dry-summer climates the display peaks in spring.",
+      "bloomingSeason": "Spring in California and other warm, dry-summer regions, with blooms commonly appearing in April",
+      "location": "Coastal and central California gardens (native to South Africa's Western Cape)",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Rose pink",
+        "Pale pink",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees that turn the city purple."
+      "emoji": "🌸",
+      "funFact": "The flower stalks emerge without any leaves, so the bulbs seem to flower from bare ground. Each bulb's foliage grows in the cooler months and dies back before the flowers appear."
     }
   ]
 }

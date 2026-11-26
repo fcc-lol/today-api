@@ -4,60 +4,58 @@
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A fast-growing subtropical tree with fern-like leaves that erupts in dense clusters of trumpet-shaped lavender-blue flowers, often before the leaves fully emerge. Streets lined with jacarandas turn into purple corridors, and fallen blossoms carpet the ground beneath.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), New Zealand's north, and Argentina",
+      "description": "Streets turn lavender-blue as clouds of trumpet-shaped flowers open on the tree's feathery branches. Fallen blossoms carpet pavements and cars in violet. The display is at its most dramatic when the tree is bare of leaves and covered only in flowers.",
+      "bloomingSeason": "Late September to November (spring in the Southern Hemisphere)",
+      "location": "Pretoria, South Africa",
       "colors": [
-        "lavender",
-        "purple",
-        "blue-violet"
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "💜",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, and University of Sydney students traditionally say that if a jacaranda flower falls on your head, you will pass your exams."
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of the thousands of these South American trees lining its streets."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Flamboyant (Royal Poinciana)",
+      "description": "A broad, umbrella-shaped tree set ablaze with scarlet-orange blossoms. Each flower has one petal streaked with white and yellow. Long dark seed pods hang from the branches after the flowers fade.",
+      "bloomingSeason": "November to January, at the end of the dry season",
+      "location": "Madagascar, its native home",
+      "colors": [
+        "Scarlet",
+        "Orange-red",
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🔥",
+      "funFact": "This tree is native to Madagascar but is now planted in tropical regions worldwide, and it is considered threatened in its wild homeland."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves that produces delicate, fragrant, often single or semi-double blooms in autumn when most other plants are winding down. It is valued as a hedge, espalier, or specimen and provides important late-season nectar for pollinators.",
-      "bloomingSeason": "Mid-autumn to early winter (October to January) in the Northern Hemisphere",
-      "location": "Native to Japan; cultivated in the southeastern United States, Mediterranean Europe, and the UK",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub brightens the dim autumn garden with delicate, open flowers that have golden stamens. Many are lightly fragrant. Petals drift down like confetti as the blooms age.",
+      "bloomingSeason": "Autumn into early winter, commonly from October or November through December or January",
+      "location": "Japan and temperate gardens of the Northern Hemisphere",
       "colors": [
-        "white",
-        "pink",
-        "red"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia sasanqua petals drop individually, unlike many Camellia japonica flowers, and its seeds are pressed to produce tea seed oil used in cooking and cosmetics in Asia."
+      "funFact": "Camellia sasanqua flowers in autumn, ahead of the better-known Camellia japonica, which blooms in winter and spring."
     },
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub native to the tropical dry forests of Mexico whose showy 'flowers' are actually colorful modified leaves (bracts) surrounding tiny yellow true flowers called cyathia. In the wild it can grow into a tree several meters tall, with bracts coloring as days shorten.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in warm climates and as a holiday potted plant worldwide",
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved cyclamen",
+      "description": "Swept-back pink petals rise on slender stems from bare woodland soil. The ivy-shaped leaves, marbled in silver and green, follow the flowers. Patches of them light up shady corners as the days grow short.",
+      "bloomingSeason": "October to November, into early December",
+      "location": "Gardens and woodlands of the United Kingdom and Europe, native to southern Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "cream"
+        "Pink",
+        "White",
+        "Magenta"
       ],
-      "emoji": "🎄",
-      "funFact": "Poinsettias are short-day plants that need about 12 hours of uninterrupted darkness nightly for roughly 8 to 10 weeks to develop their colorful bracts, and the Aztecs used the plant to produce a reddish dye."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A bold evergreen shrub with the largest flower head in the Protea genus, up to 30 cm across, made up of pink-tipped bracts surrounding a central cone of tiny flowers. It thrives in the nutrient-poor, acidic soils of the fynbos and is adapted to periodic fire.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak bloom from about October to January",
-      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa; cultivated in Australia, Hawaii, and California",
-      "colors": [
-        "pink",
-        "cream",
-        "silvery-white",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and the plant's thick underground lignotuber allows it to resprout after wildfires."
+      "emoji": "🌷",
+      "funFact": "After pollination the flower stalk coils like a spring and pulls the seed capsule down toward the soil. Ants then carry the seeds away."
     }
   ]
 }

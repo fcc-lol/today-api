@@ -2,39 +2,39 @@
   "date": "June 28",
   "events": [
     {
+      "year": 1389,
+      "title": "Battle of Kosovo",
+      "description": "Ottoman forces under Sultan Murad I faced a Serbian-led coalition on the field of Kosovo. The battle was hard-fought, and it opened the way for Ottoman expansion across Southeastern Europe.",
+      "category": "Military",
+      "significance": "The battle became a lasting symbol in Serbian memory and is still commemorated each year on Vidovdan."
+    },
+    {
+      "year": 1838,
+      "title": "Queen Victoria Is Crowned",
+      "description": "At Westminster Abbey, the 19-year-old Victoria was crowned Queen of the United Kingdom. Her reign was to last more than 63 years.",
+      "category": "Royalty",
+      "significance": "Her reign gave its name to the Victorian era, a period of industrial growth, imperial expansion and social change in Britain."
+    },
+    {
+      "year": 1846,
+      "title": "Adolphe Sax Patents the Saxophone",
+      "description": "Belgian instrument maker Adolphe Sax received a patent for his new brass-and-reed invention, the saxophone.",
+      "category": "Culture and Invention",
+      "significance": "The saxophone became central to jazz, popular music and the modern orchestra."
+    },
+    {
       "year": 1914,
       "title": "Assassination of Archduke Franz Ferdinand",
-      "description": "Archduke Franz Ferdinand of Austria, heir to the Austro-Hungarian throne, and his wife Sophie were shot in Sarajevo by Gavrilo Princip, a Bosnian Serb nationalist affiliated with the Young Bosnia movement.",
-      "category": "Politics/Assassination",
-      "significance": "The assassination triggered the July Crisis, leading Austria-Hungary to declare war on Serbia and setting off a chain of alliances that escalated into World War I."
+      "description": "Archduke Franz Ferdinand of Austria and his wife Sophie were shot dead in Sarajevo by the Serb nationalist Gavrilo Princip.",
+      "category": "Assassination",
+      "significance": "The killings set off a chain of diplomatic crises that led to the outbreak of World War I."
     },
     {
       "year": 1919,
       "title": "Treaty of Versailles Signed",
-      "description": "Germany and the Allied Powers signed the Treaty of Versailles in the Hall of Mirrors at the Palace of Versailles, exactly five years after the assassination of Franz Ferdinand.",
-      "category": "Diplomacy/War",
-      "significance": "The treaty formally ended World War I, imposed territorial losses, military restrictions, and reparations on Germany, and created the League of Nations. Its harsh terms are often cited as a factor in the rise of Nazism and World War II."
-    },
-    {
-      "year": 1838,
-      "title": "Coronation of Queen Victoria",
-      "description": "Victoria was crowned Queen of the United Kingdom at Westminster Abbey, a year after she ascended the throne at age 18 following the death of her uncle William IV.",
-      "category": "Royalty/Politics",
-      "significance": "Her reign of over 63 years, the Victorian era, saw the expansion of the British Empire, the Industrial Revolution, and major social and cultural change."
-    },
-    {
-      "year": 1776,
-      "title": "Battle of Sullivan's Island",
-      "description": "American defenders at a palmetto-log fort in Charleston Harbor, South Carolina, under Colonel William Moultrie repelled a British naval attack led by Admiral Peter Parker.",
-      "category": "Military",
-      "significance": "The victory delayed British operations in the South for years and boosted American morale just days before the Declaration of Independence was adopted."
-    },
-    {
-      "year": 1491,
-      "title": "Birth of Henry VIII",
-      "description": "Henry VIII, future King of England, was born at Greenwich Palace, the second son of Henry VII and Elizabeth of York.",
-      "category": "Birth/Royalty",
-      "significance": "Henry VIII broke with the Roman Catholic Church, established the Church of England, and reshaped English religion, government, and the monarchy during his reign."
+      "description": "Germany and the Allied powers signed the Treaty of Versailles in France, five years to the day after the Sarajevo assassination.",
+      "category": "Diplomacy",
+      "significance": "The treaty formally ended World War I and reshaped the map of Europe. Its terms remained a source of bitter dispute in the years that followed."
     }
   ]
 }

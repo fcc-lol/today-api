@@ -2,44 +2,28 @@
   "date": "July 4",
   "holidays": [
     {
-      "name": "Independence Day",
-      "description": "The big American fireworks bash, where millions of people grill meat, wave flags, and set off things that go boom in the name of freedom. Hot dogs, watermelon, and sparklers are practically mandatory.",
-      "origin": "Marks the adoption of the Declaration of Independence by the Continental Congress in 1776, when the thirteen colonies declared their separation from Great Britain. It became a federal holiday in 1870.",
-      "category": "National Holiday",
-      "emoji": "🎆",
-      "funFact": "Congress actually voted for independence on July 2, 1776, and John Adams predicted that July 2 would be the day celebrated forever. Americans have been celebrating two days later ever since."
-    },
-    {
-      "name": "Nathan's Hot Dog Eating Contest",
-      "description": "A gloriously absurd competitive eating spectacle at Coney Island, where contestants race to cram as many hot dogs and buns as possible into their mouths in ten minutes.",
-      "origin": "Legend says it began in 1916 when four immigrants settled an argument over who was the most patriotic by seeing who could eat the most hot dogs. Historians say the story was a publicity invention, and the contest has been documented since the 1970s.",
-      "category": "Pop Culture / Food Event",
-      "emoji": "🌭",
-      "funFact": "Joey Chestnut has won the contest many times, including a record 76 hot dogs and buns in 10 minutes in 2021."
-    },
-    {
-      "name": "National Barbecue Day",
-      "description": "An unofficial food holiday on which people fire up the grill and celebrate smoky, charred, sauce-slathered goodness, which overlaps nicely with the Independence Day cookout.",
-      "origin": "A food-industry and foodie observance that grew from the American tradition of Fourth of July cookouts, with no single official founder.",
-      "category": "Food Holiday",
-      "emoji": "🍖",
-      "funFact": "Barbecue and Independence Day have been linked since colonial times. George Washington reportedly attended a barbecue in 1769 and wrote about it in his diary."
+      "name": "Sidewalk Egg Frying Day",
+      "description": "On the hottest day of the summer calendar, this sizzling observance invites you to crack an egg onto the pavement and see whether the sun can cook breakfast for you. Bring a spatula and a sense of optimism.",
+      "origin": "This is an unofficial observance of unclear origin. It likely grew out of the old folk challenge of testing whether a summer heat wave is hot enough to cook on concrete.",
+      "category": "Quirky Summer Observance",
+      "emoji": "🍳",
+      "funFact": "Frying an egg on a sidewalk is much harder than it looks. Concrete is a poor heat conductor and usually needs to reach well above 130°F to set an egg, and even then the egg may take a long time to cook."
     },
     {
       "name": "National Caesar Salad Day",
-      "description": "A celebration of the crunchy, garlicky, anchovy-kissed salad that somehow became a restaurant staple around the world.",
-      "origin": "Said to have been invented on July 4, 1924, by restaurateur Caesar Cardini in Tijuana, Mexico, when a holiday rush emptied his kitchen and he improvised with what was left.",
+      "description": "A day to toss crisp romaine with garlicky dressing, crunchy croutons, and shaved Parmesan. It honors one of the world's best-known salads on the same day Americans are firing up their grills.",
+      "origin": "The salad is traditionally credited to restaurateur Caesar Cardini, who is said to have invented it on July 4, 1924, at his restaurant in Tijuana, Mexico. The story goes that a busy holiday weekend left him short on ingredients, so he improvised with what he had.",
       "category": "Food Holiday",
       "emoji": "🥗",
-      "funFact": "The original recipe reportedly had no anchovies. The anchovy flavor was said to come from Worcestershire sauce."
+      "funFact": "The salad is named after its creator, Caesar Cardini, and not after Julius Caesar. The original recipe is often said to have contained no anchovies, and the faint anchovy flavor came from Worcestershire sauce."
     },
     {
-      "name": "Independence from Meat Day",
-      "description": "A tongue-in-cheek vegetarian counter-celebration inviting people to declare independence from meat on the biggest grilling day of the year.",
-      "origin": "Started by vegetarian and animal advocacy circles as a playful twist on Independence Day, encouraging people to try plant-based cookouts.",
-      "category": "Awareness Day",
-      "emoji": "🥦",
-      "funFact": "Plant-based hot dogs and burgers have become more common at Fourth of July cookouts, putting this observance in direct, friendly competition with Nathan's hot dog contest."
+      "name": "Alice in Wonderland Day",
+      "description": "Tumble down the rabbit hole with a tea party, a Mad Hatter hat, and a few impossible things before breakfast. It celebrates the curious, nonsensical world of Wonderland.",
+      "origin": "The day marks July 4, 1862, when mathematician Charles Dodgson, who wrote as Lewis Carroll, first told the story of Alice's adventures to Alice Liddell and her sisters during a boat trip on the River Thames.",
+      "category": "Literary & Pop Culture",
+      "emoji": "🐇",
+      "funFact": "Alice Liddell was a real child, and Dodgson later wrote the story down at her request. The published book, Alice's Adventures in Wonderland, came out in 1865."
     }
   ]
 }

@@ -2,56 +2,44 @@
   "date": "March 27",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
+      "name": "Prunus × yedoensis 'Somei-Yoshino'",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful ornamental tree that covers its bare branches in clouds of pale pink-white, lightly almond-scented blossoms before the leaves emerge. It is the most widely planted cherry tree in Japan and is the centerpiece of hanami flower-viewing celebrations.",
-      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate parks and gardens worldwide",
+      "description": "Bare branches disappear under clouds of blush-white blossoms. Petals drift down like confetti at the slightest breeze. Whole parks turn into pale pink tunnels, and crowds gather beneath them for hanami, the Japanese custom of picnicking under the blooms.",
+      "bloomingSeason": "Late March to early April in Tokyo, with the timing shifting earlier or later by region and year",
+      "location": "Tokyo and the Kanto region, Honshu, Japan",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The Yoshino cherry's blooming forecast is tracked so closely in Japan that the 'cherry blossom front' is reported on the nightly news as it moves northward."
+      "funFact": "Nearly every Somei-Yoshino tree is a clone, grown from grafted cuttings of one original cultivar. That is why trees across a city often open within days of one another."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals, rising above blue-green strap-like leaves. It carpets woodlands and meadows in spring and is the ancestor of many garden daffodil varieties.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Clusters of magenta-pink, pea-like flowers burst straight from bare branches and even from the trunk. They glow against the gray of early spring woodland. Heart-shaped leaves follow once the show is over.",
+      "bloomingSeason": "Mid-to-late March through mid-April, before the leaves emerge",
+      "location": "Eastern and central United States, in woodland edges, gardens and city streets",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Rose-purple",
+        "Magenta-pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Daffodils contain the compound galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "emoji": "🌳",
+      "funFact": "Redbud is in the pea family. Its flowers are edible and have a mildly tangy taste, and bees depend on them as an early spring food source."
     },
     {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A majestic Himalayan tree producing enormous goblet-shaped flowers up to 25 cm across on bare branches in early spring. The blooms range from deep pink to rose and are among the most spectacular of any magnolia.",
-      "bloomingSeason": "Late February to April",
-      "location": "Eastern Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild-climate gardens in the UK, New Zealand, and the Pacific Northwest",
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron (Lali Gurans)",
+      "description": "Mountain slopes of the Himalayas blaze with rounded trusses of crimson, pink and white blooms. They hang among glossy, leathery leaves with a silvery or rusty underside. In full bloom, whole hillsides look like they are on fire.",
+      "bloomingSeason": "March through April, and into May at higher elevations",
+      "location": "Himalayan hillsides of Nepal, between roughly 1,500 and 4,000 meters",
       "colors": [
-        "deep pink",
-        "rose",
-        "white"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "A Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, so gardeners must be very patient."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "This is a placeholder replaced below.",
-      "bloomingSeason": "placeholder",
-      "location": "placeholder",
-      "colors": [
-        "placeholder"
-      ],
-      "emoji": "🌷",
-      "funFact": "placeholder"
+      "funFact": "It is the national flower of Nepal. Nepal is home to about 30 rhododendron species, more than any other country."
     }
   ]
 }

@@ -2,39 +2,32 @@
   "date": "April 9",
   "events": [
     {
+      "year": 1682,
+      "title": "La Salle Claims the Mississippi Basin for France",
+      "description": "After canoeing down the Mississippi River, French explorer René-Robert Cavelier de La Salle reached its mouth at the Gulf of Mexico. He claimed the whole river basin for King Louis XIV and named it Louisiana.",
+      "category": "Exploration",
+      "significance": "The claim gave France a vast North American territory. That territory was later sold to the United States in the 1803 Louisiana Purchase."
+    },
+    {
       "year": 1865,
-      "title": "Lee Surrenders at Appomattox Court House",
+      "title": "Lee Surrenders at Appomattox",
       "description": "Confederate General Robert E. Lee surrendered the Army of Northern Virginia to Union General Ulysses S. Grant at Appomattox Court House, Virginia.",
-      "category": "War/Military",
-      "significance": "The surrender effectively marked the end of the American Civil War, though some Confederate forces continued fighting for several weeks. It paved the way for national reunification and Reconstruction."
+      "category": "War",
+      "significance": "The surrender effectively ended the American Civil War. It was a decisive step toward the war's conclusion and the preservation of the Union."
     },
     {
-      "year": 1940,
-      "title": "Germany Invades Denmark and Norway",
-      "description": "Nazi Germany launched Operation Weserübung, invading Denmark and Norway. Denmark capitulated within hours, while Norway resisted for about two months.",
-      "category": "War/Military",
-      "significance": "The invasion secured Germany's access to Scandinavian resources, particularly Swedish iron ore, and to Atlantic naval bases, and expanded the war in Europe in World War II."
+      "year": 1939,
+      "title": "Marian Anderson Sings at the Lincoln Memorial",
+      "description": "The Daughters of the American Revolution refused to let contralto Marian Anderson perform at Constitution Hall. She gave an Easter Sunday concert at the Lincoln Memorial instead, before a crowd of about 75,000.",
+      "category": "Culture and Civil Rights",
+      "significance": "The concert became a landmark moment in the struggle against racial discrimination in America. It showed how art could challenge segregation."
     },
     {
-      "year": 1865,
-      "title": "Ratification Era: Passage of the Civil Rights Act of 1866 over Presidential Veto",
-      "description": "On April 9, 1866, the U.S. Congress overrode President Andrew Johnson's veto to pass the Civil Rights Act of 1866, the first major law passed over a presidential veto.",
-      "category": "Politics/Law",
-      "significance": "The act declared all persons born in the United States to be citizens and laid the groundwork for the Fourteenth Amendment, shaping American civil rights law."
-    },
-    {
-      "year": 1959,
-      "title": "NASA Introduces the Mercury Seven Astronauts",
-      "description": "NASA publicly introduced its first seven astronauts, the Mercury Seven, at a press conference in Washington, D.C.: Scott Carpenter, Gordon Cooper, John Glenn, Gus Grissom, Wally Schirra, Alan Shepard, and Deke Slayton.",
-      "category": "Science/Space",
-      "significance": "The announcement marked the beginning of the American human spaceflight program and made the astronauts national heroes during the Space Race."
-    },
-    {
-      "year": 1967,
-      "title": "First Boeing 737 Rolls Out",
-      "description": "Boeing unveiled the first 737 airliner at its Renton, Washington factory, designed as a short-to-medium-range twin-engine jet.",
-      "category": "Technology/Aviation",
-      "significance": "The 737 became one of the best-selling commercial aircraft in history and a mainstay of global air travel for decades."
+      "year": 1942,
+      "title": "Bataan Surrenders to Japanese Forces",
+      "description": "About 75,000 American and Filipino troops on the Bataan Peninsula surrendered to Japanese forces during World War II. The surrender was followed by the Bataan Death March.",
+      "category": "War",
+      "significance": "It was one of the largest surrenders in American military history. The brutal march that followed became a lasting symbol of wartime suffering."
     }
   ]
 }

@@ -4,57 +4,56 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful deciduous tree that produces clouds of delicate, fragrant blossoms before its leaves emerge. It is the most celebrated cherry blossom cultivar and a centerpiece of spring festivals, planted widely in parks and along rivers and avenues.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of the Northern Hemisphere",
+      "description": "Bare branches turn into clouds of blush-white, almond-scented blossoms. Petals drift down like confetti and carpet paths and water in pink. Crowds gather each spring to see them around Washington's Tidal Basin.",
+      "bloomingSeason": "Late March to early April around Washington, D.C., where peak bloom usually falls in the last days of March or the first days of April",
+      "location": "Tidal Basin, Washington, D.C., USA (originally from Japan)",
       "colors": [
-        "pale pink",
-        "white"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The Yoshino cherry trees around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
+      "funFact": "Yoshino cherries are a cultivated hybrid. The first trees at the Tidal Basin were a 1912 gift from Tokyo, and the blossoms open before the leaves, which makes the display look even denser."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and slender blue-green leaves. It thrives in meadows, woodlands, and gardens, and is one of the most recognizable heralds of spring in temperate Europe.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, especially England, Wales, France, and Spain; widely naturalized in North America",
+      "name": "Nerine sarniensis",
+      "commonName": "Guernsey Lily",
+      "description": "Spidery, glittering crimson-scarlet flowers rise on bare stems from the Cape's autumn fynbos. The petals shimmer as if dusted with gold. They flower while the bulbs are leafless, and the display lights up rocky mountain slopes.",
+      "bloomingSeason": "Autumn (March to April) in the Southern Hemisphere",
+      "location": "Western Cape, South Africa",
       "colors": [
-        "yellow",
-        "pale yellow",
-        "cream"
-      ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids, but one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A small deciduous tree or large shrub bearing large, tulip-shaped goblet flowers on bare branches in early spring. It is a popular ornamental in gardens and streets across mild temperate climates.",
-      "bloomingSeason": "Early to mid spring (March to April)",
-      "location": "Cultivated across the southeastern United States, the United Kingdom, Europe, and Australia",
-      "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Scarlet",
+        "Crimson",
+        "Gold shimmer"
       ],
       "emoji": "🌺",
-      "funFact": "Magnolias are among the most ancient flowering plants, having evolved before bees existed, and their flowers are thought to have been pollinated by beetles."
+      "funFact": "The 'Guernsey' name probably comes from a shipwreck legend. Bulbs washed ashore on the Channel Island of Guernsey and took root there. They are in fact native to South Africa."
     },
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "Though named for autumn, a close relative group in the Southern Hemisphere and autumn-flowering bulbs such as Sternbergia and Zephyranthes bloom now as the season turns there. Colchicum bears goblet-shaped lilac flowers that emerge directly from the ground without leaves.",
-      "bloomingSeason": "Autumn in the Northern Hemisphere; March flowering for Southern Hemisphere cultivated plantings with autumn bloom",
-      "location": "Cultivated in South Africa, Australia, and New Zealand; native to Europe",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A Himalayan giant that bursts into huge, goblet-shaped pink blooms on bare winter branches. In mild Cornish gardens it often flowers from mid to late March. A mature tree in full flower is a spectacular sight against the spring sky.",
+      "bloomingSeason": "Mid to late March in the mild gardens of Cornwall; late winter to early spring in its native range",
+      "location": "Cornwall, England, UK (native to the Himalayas)",
       "colors": [
-        "lilac",
-        "pink",
-        "white"
+        "Deep pink",
+        "Rose",
+        "Pale pink"
       ],
-      "emoji": "💜",
-      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and in plant breeding to double chromosome numbers."
+      "emoji": "🌷",
+      "funFact": "Magnolias are among the oldest flowering plants. Their blooms evolved before bees existed, so they are sturdy enough to be pollinated by beetles."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "Silky, satin-textured cups of molten orange blaze across hillsides, and in wet years whole valleys turn gold. The petals close on cloudy days and at night, then open again in the sun.",
+      "bloomingSeason": "Mid-March to early May in the Antelope Valley, with peak display varying by rainfall",
+      "location": "Antelope Valley, California, USA",
+      "colors": [
+        "Orange",
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "California's state flower. In wet winters its blooms can be so dense that the 'superbloom' is visible from space."
     }
   ]
 }

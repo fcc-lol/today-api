@@ -2,39 +2,32 @@
   "date": "July 19",
   "events": [
     {
+      "year": 1588,
+      "title": "The Spanish Armada Is Sighted in the English Channel",
+      "description": "English lookouts spotted the great Spanish fleet off the coast of Cornwall. The sighting set in motion the running sea battles that followed in the days after. Beacons and messengers carried the alarm across England.",
+      "category": "Military",
+      "significance": "The failure of the Armada to invade England became a turning point in European naval power and a lasting symbol of English resilience."
+    },
+    {
+      "year": 1692,
+      "title": "Five Women Hanged in the Salem Witch Trials",
+      "description": "Five women were executed by hanging in Salem, Massachusetts, after being convicted of witchcraft. They were Sarah Good, Elizabeth Howe, Susannah Martin, Rebecca Nurse and Sarah Wildes. The hysteria gripping the colony had by then led to dozens of accusations.",
+      "category": "Crime and Justice",
+      "significance": "The Salem trials have become a enduring cautionary tale about mass hysteria, flawed legal process, and the danger of persecution."
+    },
+    {
       "year": 1848,
       "title": "Seneca Falls Convention Opens",
-      "description": "The first women's rights convention in the United States began in Seneca Falls, New York, organized by Elizabeth Cady Stanton, Lucretia Mott, and others. The gathering continued into July 20 and produced the Declaration of Sentiments, modeled on the Declaration of Independence, which demanded equal rights for women including the right to vote.",
-      "category": "Social Movement",
-      "significance": "Marked the formal beginning of the organized women's suffrage movement in the United States, laying the groundwork for the 19th Amendment in 1920."
+      "description": "A two-day women's rights convention began in Seneca Falls, New York. It was organized by activists including Elizabeth Cady Stanton and Lucretia Mott. Attendees debated and later adopted a Declaration of Sentiments calling for equality.",
+      "category": "Social Reform",
+      "significance": "The convention is widely regarded as the starting point of the organized women's suffrage movement in the United States."
     },
     {
-      "year": 1900,
-      "title": "Opening of the First Line of the Paris Métro",
-      "description": "The first line of the Paris Métro, Line 1, opened between Porte de Vincennes and Porte Maillot, just in time to serve visitors to the 1900 Exposition Universelle held in the city.",
-      "category": "Infrastructure",
-      "significance": "Began one of the world's most iconic and densely used urban rapid transit systems, which influenced urban transit design and became a symbol of Parisian life."
-    },
-    {
-      "year": 1799,
-      "title": "Discovery of the Rosetta Stone",
-      "description": "French soldiers under Napoleon's Egyptian campaign, while strengthening fortifications near the town of Rashid (Rosetta), uncovered a granodiorite stele inscribed with a decree in three scripts: Egyptian hieroglyphic, Demotic, and ancient Greek.",
-      "category": "Archaeology",
-      "significance": "The stone provided the key that allowed Jean-François Champollion to decipher Egyptian hieroglyphs in the 1820s, opening ancient Egyptian civilization to modern scholarship."
-    },
-    {
-      "year": 1979,
-      "title": "Sandinista Revolution Triumphs in Nicaragua",
-      "description": "The Sandinista National Liberation Front (FSLN) took power in Managua after the fall of dictator Anastasio Somoza Debayle, who had fled the country days earlier, ending over four decades of rule by the Somoza family.",
-      "category": "Politics",
-      "significance": "The revolution reshaped Nicaraguan politics and became a major Cold War flashpoint in Central America, leading to the U.S.-backed Contra war and the Iran-Contra affair."
-    },
-    {
-      "year": 1980,
-      "title": "Moscow Summer Olympics Open",
-      "description": "The Games of the XXII Olympiad opened in Moscow, the first Olympics held in Eastern Europe. They were affected by a boycott led by the United States and joined by dozens of other nations in protest of the Soviet invasion of Afghanistan.",
-      "category": "Sports and Politics",
-      "significance": "Highlighted the intrusion of Cold War politics into international sport and led to a retaliatory Soviet-led boycott of the 1984 Los Angeles Games."
+      "year": 1903,
+      "title": "Maurice Garin Wins the First Tour de France",
+      "description": "French cyclist Maurice Garin crossed the finish line to win the inaugural Tour de France. The race had been created to boost newspaper sales. Riders faced huge distances on rough roads.",
+      "category": "Sports",
+      "significance": "The race grew into the world's most famous cycling event and a cornerstone of the sport."
     }
   ]
 }

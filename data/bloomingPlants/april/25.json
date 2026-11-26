@@ -4,61 +4,48 @@
     {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad, blue-green leaves. Thousands of cultivars exist, ranging from single and double forms to fringed and parrot types. Late-season tulips peak in cool temperate gardens in late April.",
-      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; wild ancestors from Central Asia",
+      "description": "Rows of goblet-shaped blooms stretch across the Dutch bulb fields in bands of crimson, butter yellow, blush pink and near-black purple. From a distance the fields look like a striped quilt laid over the flat landscape.",
+      "bloomingSeason": "Late March to early May, with the Dutch peak in mid to late April",
+      "location": "Bulb region of the Netherlands, including the fields near Lisse and Keukenhof Gardens",
       "colors": [
         "red",
         "yellow",
         "pink",
-        "white",
         "purple",
+        "white",
         "orange"
       ],
       "emoji": "🌷",
-      "funFact": "In the 1630s, tulip bulbs in the Netherlands became so valuable that single bulbs sold for more than the price of a house during 'Tulip Mania'."
+      "funFact": "In the 1630s tulip bulbs became so prized in the Dutch Republic that single bulbs sold for more than the price of a canal house. This episode is known as tulip mania."
     },
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces long, pendulous clusters of fragrant pea-like flowers before or as the leaves emerge. It can climb tall trees, pergolas, and walls, and live for decades.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "Native to China; widely cultivated in Japan, Europe, and the United States",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant clusters of blossom hang from trellises and old twisting vines, forming glowing tunnels of lavender and violet. At night, special illuminations make the hanging blooms look like a waterfall of light.",
+      "bloomingSeason": "Mid-April to mid-May at Ashikaga, Japan",
+      "location": "Ashikaga Flower Park, Tochigi Prefecture, Japan",
       "colors": [
-        "lilac",
-        "purple",
-        "blue-violet",
-        "white"
+        "violet",
+        "lavender",
+        "white",
+        "pink"
       ],
       "emoji": "💜",
-      "funFact": "Wisteria vines twine counterclockwise, while the Japanese wisteria (Wisteria floribunda) twines clockwise, which helps tell the species apart."
+      "funFact": "Wisteria is a climbing legume. Its twining stems can grow strong enough to crush wooden structures, and Japanese wisteria twines clockwise."
     },
     {
-      "name": "Cardamine pratensis",
-      "commonName": "Cuckooflower (Lady's Smock)",
-      "description": "A delicate perennial of damp meadows and stream banks with pinnate basal leaves and loose clusters of four-petaled flowers. It appears around the time the cuckoo returns to Europe and is a key food plant for the orange-tip butterfly.",
-      "bloomingSeason": "April to June",
-      "location": "Damp meadows, wet grasslands, and woodland edges across Europe, northern Asia, and parts of North America",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Before its heart-shaped leaves unfurl, bare branches and even the trunk erupt in clusters of tiny magenta-pink, pea-like flowers. The tree makes a bright haze of color along woodland edges and in suburban gardens.",
+      "bloomingSeason": "April, for roughly two to three weeks in early spring",
+      "location": "Eastern and central United States, such as the Missouri woodlands and Midwestern gardens",
       "colors": [
-        "pale lilac",
+        "magenta",
         "pink",
-        "white"
+        "fuchsia"
       ],
       "emoji": "🌸",
-      "funFact": "It is the main larval host plant for the orange-tip butterfly, whose caterpillars feed on its seed pods."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tree with fern-like foliage that is famed for its spectacular displays of trumpet-shaped blue-purple flowers. In the Southern Hemisphere, flowering usually happens in spring, but in some regions of South America and Africa, scattered late blooms appear in autumn.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November), with a secondary autumn bloom around April in some warm regions such as parts of Australia and southern Africa",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and subtropical cities worldwide",
-      "colors": [
-        "blue-violet",
-        "lavender"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname 'Jacaranda City'."
+      "funFact": "Redbud flowers are edible, with a mildly tangy taste. Some of them sprout straight from the old wood of the trunk and main branches, a trait called cauliflory."
     }
   ]
 }

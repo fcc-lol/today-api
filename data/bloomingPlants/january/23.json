@@ -4,60 +4,44 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a mainstay of winter gardens, with thousands of cultivars in many flower forms.",
-      "bloomingSeason": "Late autumn to early spring (peak in midwinter in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, Western Europe, and the Pacific Northwest",
+      "description": "Glossy evergreen shrubs light up the cold winter landscape with rose-like blooms. Each flower has layers of satiny petals around a golden boss of stamens. They stand out against dark, leathery leaves, often while frost still dusts the garden.",
+      "bloomingSeason": "Midwinter to early spring (roughly January to March)",
+      "location": "Coastal woodlands and gardens of Japan, including Honshu and Kyushu",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea, and Camellia japonica seed oil has long been used in Japan for hair care and cooking."
+      "funFact": "In Japan, camellias are traditionally pollinated by birds such as the Japanese white-eye, which sip nectar while most insects are dormant."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Chinese Plum / Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that blooms on bare branches in the cold, producing fragrant five-petaled flowers. It is a beloved symbol of perseverance and the coming of spring in East Asian culture.",
-      "bloomingSeason": "Midwinter to early spring (January to March)",
-      "location": "Native to southern China; cultivated across China, Japan, Korea, and Vietnam, and in temperate gardens worldwide",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Tall, bare stems rise from clumps of strappy leaves, each topped with a rounded burst of trumpet-shaped flowers. In midsummer gardens the blue globes sway above the foliage and draw bees all day long.",
+      "bloomingSeason": "Southern summer (about November to February)",
+      "location": "Gardens and roadsides across southern Australia, and native to South Africa's southern and eastern coasts",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words for 'love' and 'flower'."
+    },
+    {
+      "name": "Prunus campanulata",
+      "commonName": "Taiwan Cherry (Bell-flowered Cherry)",
+      "description": "Long before the famous spring cherry blossoms, this tree covers itself in nodding, bell-shaped flowers of deep magenta-pink. People gather under it for winter flower-viewing picnics, enjoying early blossoms in mild island air.",
+      "bloomingSeason": "Winter (about January to February)",
+      "location": "Okinawa and the Ryukyu Islands of Japan, and Taiwan",
+      "colors": [
+        "Deep pink",
+        "Magenta",
+        "Rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms appear weeks before cherry blossoms, and the fruits are pickled into umeboshi or made into plum wine."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It tolerates frost and snow and brings color to the winter woodland garden.",
-      "bloomingSeason": "Midwinter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; grown in shaded gardens across temperate regions",
-      "colors": [
-        "white",
-        "pale pink",
-        "green-tinged"
-      ],
-      "emoji": "❄️",
-      "funFact": "All parts of the plant are toxic, and the flowers can bloom through snow because the plant produces tiny amounts of heat in its tissues."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large shrub bearing the biggest flower head in the protea family, with a showy crown of pink-tipped bracts around a central cluster of true flowers. It is adapted to nutrient-poor soils and fire-prone habitats.",
-      "bloomingSeason": "Southern Hemisphere late spring to summer, with flowers present through January in cultivation",
-      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa; cultivated in Australia, California, and Hawaii",
-      "colors": [
-        "pink",
-        "cream",
-        "silvery white",
-        "crimson"
-      ],
-      "emoji": "🌼",
-      "funFact": "The king protea is the national flower of South Africa, and its flower heads can reach 30 cm across."
+      "funFact": "Its blooming begins in the south and moves north. Okinawa's cherry blossom front is the earliest in Japan, and it runs opposite to the usual north-to-south timing of cherry blossoms."
     }
   ]
 }

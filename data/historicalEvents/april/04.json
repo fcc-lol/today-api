@@ -2,39 +2,32 @@
   "date": "April 4",
   "events": [
     {
-      "year": 1968,
-      "title": "Assassination of Martin Luther King Jr.",
-      "description": "Civil rights leader Martin Luther King Jr. was shot and killed on the balcony of the Lorraine Motel in Memphis, Tennessee, where he had traveled to support striking sanitation workers. James Earl Ray later pleaded guilty to the murder.",
-      "category": "Death / Politics",
-      "significance": "His death triggered riots in more than 100 U.S. cities and helped speed passage of the Fair Housing Act of 1968. It remains a pivotal moment in the American civil rights movement."
-    },
-    {
-      "year": 1949,
-      "title": "North Atlantic Treaty signed in Washington, D.C.",
-      "description": "Representatives of twelve nations, including the United States, Canada, the United Kingdom, and France, signed the North Atlantic Treaty, establishing the North Atlantic Treaty Organization (NATO).",
-      "category": "Politics / Military",
-      "significance": "NATO became the foundation of Western collective defense during the Cold War and remains a central military and political alliance, built on the principle that an attack on one member is an attack on all."
+      "year": 1581,
+      "title": "Francis Drake Is Knighted Aboard the Golden Hind",
+      "description": "Queen Elizabeth I knighted the English sea captain Francis Drake. He had just returned from a voyage around the world that brought home vast Spanish treasure.",
+      "category": "Exploration",
+      "significance": "The knighthood honored Drake's circumnavigation of the globe and showed England's growing ambition as a naval power. It also signaled its willingness to challenge Spain at sea."
     },
     {
       "year": 1841,
-      "title": "Death of President William Henry Harrison",
-      "description": "Just 31 days after his inauguration, William Henry Harrison died of illness, traditionally attributed to pneumonia, becoming the first U.S. president to die in office. He had served the shortest presidency in American history.",
-      "category": "Death / Politics",
-      "significance": "Harrison's death tested the Constitution's ambiguous succession provisions. Vice President John Tyler asserted that he became the full president, not merely acting president, setting the 'Tyler Precedent' later codified in the 25th Amendment."
+      "title": "William Henry Harrison Dies in Office",
+      "description": "President William Henry Harrison died of illness just 31 days after taking office. He was the first U.S. president to die while serving.",
+      "category": "Politics",
+      "significance": "Harrison's death had no clear precedent. It forced the young republic to settle how power passes to a vice president, and John Tyler set the model by assuming the full presidency."
     },
     {
-      "year": 1975,
-      "title": "Microsoft founded",
-      "description": "Bill Gates and Paul Allen founded Microsoft in Albuquerque, New Mexico, to develop software for the Altair 8800 microcomputer.",
-      "category": "Technology / Business",
-      "significance": "Microsoft grew into one of the world's most influential technology companies, and its MS-DOS and Windows operating systems helped make personal computing widespread."
+      "year": 1949,
+      "title": "NATO Treaty Signed in Washington",
+      "description": "Twelve nations signed the North Atlantic Treaty in Washington, D.C. The treaty created the North Atlantic Treaty Organization, a military alliance built on mutual defense.",
+      "category": "Diplomacy",
+      "significance": "NATO became the cornerstone of Western security during the Cold War. It remains one of the world's most influential military alliances."
     },
     {
-      "year": 1581,
-      "title": "Francis Drake knighted",
-      "description": "Queen Elizabeth I knighted Francis Drake aboard the Golden Hind at Deptford, honoring his circumnavigation of the globe from 1577 to 1580 and the treasure he brought back from raids on Spanish possessions.",
-      "category": "Exploration / Politics",
-      "significance": "The knighting publicly endorsed English maritime aggression against Spain, heightening tensions that led to the Spanish Armada of 1588 and strengthening England's emerging naval power."
+      "year": 1968,
+      "title": "Martin Luther King Jr. Is Assassinated",
+      "description": "The civil rights leader Dr. Martin Luther King Jr. was shot and killed in Memphis, Tennessee. He was there to support striking sanitation workers.",
+      "category": "Civil Rights",
+      "significance": "His death shocked the United States and set off grief and unrest across the country. It also strengthened the push for civil rights and fair housing legislation, and his legacy still shapes the fight for equality."
     }
   ]
 }

@@ -3,60 +3,44 @@
   "plants": [
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. Many cultivars bloom in the cool season, brightening gardens when little else is in flower.",
-      "bloomingSeason": "Late autumn to early spring (peak in midwinter in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs light up the cold-season woodlands of coastal Japan with satin-textured, rose-like blooms. Each flower sits close along the branch, with a bright boss of golden stamens at its center. The petals stand out vividly against dark, leathery leaves.",
+      "bloomingSeason": "Wild plants flower from about January to March, so mid-January is the start of the show.",
+      "location": "Coastal woodlands and gardens of Japan, and temperate gardens worldwide",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan, camellia oil pressed from its seeds has long been used for hair and skin care."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous shrub that produces spidery, ribbon-like, fragrant flowers on bare branches in the depths of winter. The petals curl up in freezing weather to protect themselves and unfurl when it warms.",
-      "bloomingSeason": "Midwinter to late winter (December to February)",
-      "location": "Native to central and eastern China; grown in temperate gardens in Europe and North America",
+      "name": "Hamamelis x intermedia",
+      "commonName": "Witch hazel",
+      "description": "On bare winter branches, witch hazel unfurls spidery, ribbon-like petals that crinkle and curl like confetti. The flowers glow in fiery shades against the grey landscape, and many carry a spicy fragrance. They bring color and scent to the quietest part of the garden year.",
+      "bloomingSeason": "Some start in late December or early January, and bloom peaks from mid-January to mid-March.",
+      "location": "Temperate gardens of North America and Europe, such as the Missouri Botanical Garden in the USA",
       "colors": [
-        "yellow",
-        "gold",
-        "orange"
+        "Yellow",
+        "Orange",
+        "Copper-red"
       ],
       "emoji": "🌼",
-      "funFact": "Witch hazel flowers can survive freezing temperatures because their petals roll up tightly in the cold and open again when it warms."
+      "funFact": "The petals curl up tightly in freezing weather and unfurl again when it warms, which helps protect the flowers from frost damage."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tree with fern-like leaves and a canopy covered in large, brilliant flowers. In the Southern Hemisphere summer it blooms spectacularly, shading streets and parks in warm regions.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); in the tropics, spring to summer",
-      "location": "Native to Madagascar; widely planted in Australia, southern Africa, South America, and the tropics",
+      "name": "Agapanthus africanus",
+      "commonName": "African lily",
+      "description": "Rounded clusters of bell-shaped, violet-blue flowers rise on slender stalks above arching, strap-like leaves. On the sunny slopes of the southwestern Cape, they bring a splash of cool color to the height of the southern summer.",
+      "bloomingSeason": "Summer in the Southern Hemisphere, including January, when it has been recorded in flower on Table Mountain.",
+      "location": "Table Mountain and the Cape region of South Africa",
       "colors": [
-        "red",
-        "orange",
-        "scarlet"
+        "Blue",
+        "Violet"
       ],
-      "emoji": "🌳",
-      "funFact": "This tree is endangered in its native Madagascar even though it is among the most widely planted ornamental trees in the world."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low, evergreen perennial with leathery, dark green leaves and nodding, cup-shaped flowers that open in the coldest months, often pushing up through snow. Its blooms fade to pink as they age.",
-      "bloomingSeason": "Winter to early spring (December to March)",
-      "location": "Native to the mountain woodlands of central and southern Europe; cultivated in cool temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, it is not a rose at all but a member of the buttercup family, and all parts of the plant are toxic."
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. Its name comes from the Greek words for love and flower, and it is a cherished garden plant around the world."
     }
   ]
 }

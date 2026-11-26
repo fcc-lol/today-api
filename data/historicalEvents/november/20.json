@@ -2,39 +2,39 @@
   "date": "November 20",
   "events": [
     {
+      "year": 284,
+      "title": "Diocletian Proclaimed Roman Emperor",
+      "description": "Diocletian was chosen as emperor by the army. His rise ended decades of turmoil known as the Crisis of the Third Century.",
+      "category": "Politics",
+      "significance": "Diocletian restored order and split the administration of the empire. His reforms shaped Roman government for generations."
+    },
+    {
       "year": 1945,
       "title": "Nuremberg Trials Begin",
-      "description": "The International Military Tribunal opened in Nuremberg, Germany, to try 24 leading Nazi officials for war crimes, crimes against humanity, crimes against peace, and conspiracy. Proceedings were held in the Palace of Justice.",
-      "category": "Politics and Law",
-      "significance": "The trials established key precedents in international criminal law, including the principle that individuals, including heads of state and military leaders, can be held accountable for atrocities, and influenced the later creation of the International Criminal Court."
+      "description": "Twenty-four surviving leaders of Nazi Germany went on trial before an International Military Tribunal in the Palace of Justice in Nuremberg.",
+      "category": "Law and Justice",
+      "significance": "The trials set a precedent that leaders can be held personally accountable for war crimes and crimes against humanity. They helped shape modern international criminal law."
+    },
+    {
+      "year": 1959,
+      "title": "UN Adopts the Declaration of the Rights of the Child",
+      "description": "The United Nations General Assembly unanimously adopted a declaration setting out the rights and protections every child should enjoy.",
+      "category": "Human Rights",
+      "significance": "The declaration laid the groundwork for the later Convention on the Rights of the Child. It established children's welfare as a global concern."
     },
     {
       "year": 1985,
       "title": "Microsoft Releases Windows 1.0",
-      "description": "Microsoft released Windows 1.0, its first graphical user interface-based operating environment for personal computers, running on top of MS-DOS and featuring tiled windows, menus, and mouse support.",
-      "category": "Science and Technology",
-      "significance": "Windows 1.0 marked the beginning of the Windows product line, which became the dominant desktop operating system worldwide and shaped the personal computing industry for decades."
-    },
-    {
-      "year": 1989,
-      "title": "UN General Assembly Adopts the Convention on the Rights of the Child",
-      "description": "The United Nations General Assembly unanimously adopted the Convention on the Rights of the Child, setting out civil, political, economic, social, health, and cultural rights for children.",
-      "category": "Human Rights",
-      "significance": "It became the most widely ratified human rights treaty in history and established international standards for child protection, now commemorated annually as World Children's Day on November 20."
+      "description": "Microsoft launched the first version of Windows. It was a graphical interface that ran on top of MS-DOS.",
+      "category": "Technology",
+      "significance": "Windows 1.0 was the first step toward the operating system that came to dominate personal computing."
     },
     {
       "year": 1998,
-      "title": "Launch of the Zarya Module of the International Space Station",
-      "description": "Russia launched the Zarya Functional Cargo Block from the Baikonur Cosmodrome in Kazakhstan aboard a Proton rocket, providing the first component of the International Space Station.",
-      "category": "Space Exploration",
-      "significance": "This launch began the assembly of the ISS, the largest international scientific cooperation project in space, which has been continuously inhabited since November 2000."
-    },
-    {
-      "year": 1910,
-      "title": "Mexican Revolution Begins",
-      "description": "Francisco I. Madero's Plan de San Luis Potosí called for an uprising against President Porfirio Díaz on this date, launching the Mexican Revolution.",
-      "category": "Politics and War",
-      "significance": "The revolution ended Díaz's long rule and led to major political and social change in Mexico, including the Constitution of 1917. The date is a national holiday in Mexico."
+      "title": "First International Space Station Module Launched",
+      "description": "The Russian-built Zarya module lifted off from Kazakhstan, becoming the first component of the International Space Station.",
+      "category": "Science and Exploration",
+      "significance": "The launch began the assembly of the largest structure humans have built in orbit. It started a long-running partnership among space agencies."
     }
   ]
 }

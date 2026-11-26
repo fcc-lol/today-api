@@ -2,60 +2,44 @@
   "date": "September 27",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped pinkish-lilac flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by early summer. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to Europe, including the UK, France and Germany; widely cultivated in temperate gardens in North America and Asia",
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "Small swept-back pink petals rise on slender stems straight from the woodland floor. Each flower has a darker magenta blush at its base. Silver-marbled, ivy-shaped leaves follow and carpet the ground through winter.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Woodlands and rocky slopes of southern Europe and the northern Mediterranean, and in shady gardens across temperate Europe and North America",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Mauve"
-      ],
-      "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and in plant breeding to induce chromosome doubling. It is sometimes called 'naked ladies' because the flowers appear without leaves."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, bushy perennial wildflower with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in moist meadows, roadsides and prairies, and is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rocky Mountains; cultivated worldwide",
-      "colors": [
-        "Purple",
-        "Violet",
         "Pink",
-        "Yellow center"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies depend heavily on New England asters for fuel during their autumn migration to Mexico, and the timing of the bloom often coincides with their passage."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily (Guernsey Lily relative)",
-      "description": "A bulbous perennial with strappy leaves and sturdy stems topped with umbels of narrow-petaled, wavy-edged pink flowers that shimmer with a glittering surface. It prefers sunny, well-drained positions and blooms as days shorten.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Native to the Drakensberg mountains of South Africa; widely grown in gardens of the UK, Europe and the Pacific coast of North America",
-      "colors": [
-        "Bright pink",
-        "Rose pink"
+        "Magenta",
+        "Soft white"
       ],
       "emoji": "🌸",
-      "funFact": "The petals have a sparkling, diamond-dust appearance, which is why nerines are sometimes called 'diamond lilies'. They bloom best when bulbs are crowded and baked by summer sun."
+      "funFact": "After pollination, the flower stalk coils like a spring and pulls the seed capsule down to the soil. Ants then carry the sticky seeds away and spread the plant."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing, semi-deciduous tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers, carpeting streets and parks with fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (late September to November)",
-      "location": "Native to South America; famous in Pretoria (South Africa), Sydney and Brisbane (Australia), and Buenos Aires (Argentina)",
+      "name": "Sternbergia lutea",
+      "commonName": "Winter Daffodil, Yellow Autumn Crocus",
+      "description": "Glossy, golden-yellow goblets open on bare ground as the summer heat fades. They look like crocuses but are really autumn-flowering relatives of the daffodil. Strap-like leaves appear alongside the flowers or just after.",
+      "bloomingSeason": "Early to mid autumn, usually September",
+      "location": "Rocky hillsides, olive groves and scrubland from the western Mediterranean east to Central Asia",
       "colors": [
-        "Lavender",
-        "Blue-violet",
-        "Purple"
+        "Golden yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, nicknamed the 'Jacaranda City', thousands of trees bloom in spring, and in Australia a folk belief holds that a jacaranda blossom falling on your head brings good luck."
+      "emoji": "🌼",
+      "funFact": "Many botanists think this is the 'lily of the field' mentioned in ancient texts. It flowers best after a hot, dry summer bakes its bulbs."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus, Meadow Saffron",
+      "description": "Goblet-shaped lilac-pink flowers burst from the soil with no leaves in sight, which gives them the nickname 'naked ladies'. They scatter damp autumn meadows and woodland edges with soft colour. The broad green leaves appear only the following spring.",
+      "bloomingSeason": "Early autumn (September to October)",
+      "location": "Damp meadows and open woods across Europe, and in gardens in cooler temperate zones worldwide",
+      "colors": [
+        "Lilac",
+        "Pale pink",
+        "Soft purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Every part of the plant is highly toxic. It is also the natural source of colchicine, a compound used in medicine and in plant breeding."
     }
   ]
 }

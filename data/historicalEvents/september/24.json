@@ -2,39 +2,32 @@
   "date": "September 24",
   "events": [
     {
+      "year": 1664,
+      "title": "New Amsterdam Surrenders to the English",
+      "description": "Dutch authorities surrendered the colony of New Amsterdam to an English fleet without a fight. The English renamed it New York in honor of the Duke of York.",
+      "category": "Politics and Conquest",
+      "significance": "The handover put the future New York City under English control and reshaped the colonial map of North America."
+    },
+    {
       "year": 1789,
-      "title": "Judiciary Act Passed by U.S. Congress",
-      "description": "The U.S. Congress passed the Judiciary Act of 1789, which established the structure of the federal court system, including the Supreme Court with six justices, thirteen district courts, and three circuit courts. President George Washington signed it into law on September 24, and it also created the office of the Attorney General.",
-      "category": "Politics",
-      "significance": "Laid the foundation of the American federal judiciary and shaped the balance of power between federal and state courts."
+      "title": "Congress Passes the Judiciary Act",
+      "description": "The first U.S. Congress passed the Judiciary Act. It set up the federal court system and created the office of Attorney General.",
+      "category": "Law and Government",
+      "significance": "The act built the structure of the American federal judiciary, which still shapes how justice works in the United States."
     },
     {
-      "year": 1852,
-      "title": "First Powered Airship Flight by Henri Giffard",
-      "description": "French engineer Henri Giffard flew a steam-powered airship about 27 kilometers from Paris to Trappes, reaching a speed of roughly 8 km/h. It was the first powered, controlled lighter-than-air flight.",
-      "category": "Science and Technology",
-      "significance": "Demonstrated that dirigible flight was feasible and paved the way for later airships and aviation development."
+      "year": 1932,
+      "title": "The Poona Pact Is Signed",
+      "description": "Mahatma Gandhi and B. R. Ambedkar reached an agreement in India on political representation for oppressed castes. It ended Gandhi's fast and replaced separate electorates with reserved seats in legislatures.",
+      "category": "Politics and Social Reform",
+      "significance": "The pact was a landmark in India's struggle over caste and political representation, and it influenced the country's later system of reserved seats."
     },
     {
-      "year": 1869,
-      "title": "Black Friday Gold Panic",
-      "description": "Financiers Jay Gould and James Fisk attempted to corner the U.S. gold market, driving the price of gold sharply upward. The scheme collapsed when the U.S. Treasury released gold into the market, causing a sudden crash and widespread financial ruin.",
-      "category": "Economics",
-      "significance": "Exposed the vulnerability of financial markets to manipulation and political corruption during the Gilded Age."
-    },
-    {
-      "year": 1957,
-      "title": "Eisenhower Sends Federal Troops to Little Rock",
-      "description": "President Dwight D. Eisenhower ordered the 101st Airborne Division to Little Rock, Arkansas, and federalized the Arkansas National Guard to enforce desegregation and protect nine Black students entering Central High School.",
-      "category": "Civil Rights",
-      "significance": "Showed federal willingness to enforce court-ordered school desegregation over state resistance and became a landmark moment in the civil rights movement."
-    },
-    {
-      "year": 1960,
-      "title": "USS Enterprise Launched",
-      "description": "The USS Enterprise (CVN-65), the world's first nuclear-powered aircraft carrier, was launched at Newport News, Virginia.",
-      "category": "Military",
-      "significance": "Marked a major leap in naval technology, providing carriers with nearly unlimited range and transforming naval power projection."
+      "year": 1948,
+      "title": "Honda Motor Co. Is Founded",
+      "description": "Mechanic and inventor Soichiro Honda founded the Honda Motor Company in postwar Japan.",
+      "category": "Business and Industry",
+      "significance": "The small company grew into one of the world's largest makers of motorcycles and automobiles, and it became a symbol of Japan's postwar industrial rise."
     }
   ]
 }

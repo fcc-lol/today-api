@@ -2,66 +2,46 @@
   "date": "November 27",
   "plants": [
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with flat, segmented, scalloped stems and arching, zygomorphic flowers. Widely grown as a houseplant, it flowers in response to shorter days and cool nights.",
-      "bloomingSeason": "Late autumn to early winter (November–January in the Northern Hemisphere)",
-      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
-      "colors": [
-        "Pink",
-        "Red",
-        "Magenta",
-        "White",
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Unlike desert cacti, it grows on trees in humid Brazilian forests, and it can be told apart from the Christmas cactus by the pointed teeth on its stem segments."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves and large panicles of trumpet-shaped lavender-blue flowers that carpet streets and gardens when they fall.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October–December)",
-      "location": "Native to South America; widely planted in Australia, South Africa, and Argentina",
+      "description": "Whole streets in Southern Hemisphere cities turn misty violet when this tree flowers. Clusters of trumpet-shaped blooms open on feathery, fern-like foliage. They carpet pavements in purple as they fall.",
+      "bloomingSeason": "Late spring to early summer (October to December) in the Southern Hemisphere, with a peak in November",
+      "location": "Pretoria, South Africa, and eastern Australia, including Sydney and Brisbane",
       "colors": [
         "Lavender",
-        "Purple",
-        "Blue"
+        "Violet",
+        "Purple"
       ],
-      "emoji": "💜",
-      "funFact": "In parts of Australia, jacaranda bloom coincides with university exams, and students traditionally joke that if a flower falls on your head you will pass."
+      "emoji": "🌳",
+      "funFact": "Native to South America, jacaranda has become a signature tree of Pretoria, which is nicknamed the Jacaranda City. Its seed pods are flat and woody, and they rattle in the wind."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and slightly fragrant, delicate single or semi-double flowers. It is among the earliest camellias to bloom and thrives in mild climates.",
-      "bloomingSeason": "Autumn to early winter (October–December)",
-      "location": "Native to Japan and southern China; cultivated across the southeastern United States, Europe, and Australia",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub brings color to the cool, quiet days of late autumn. Its delicate, lightly scented flowers open wide to show golden stamens. Bees visit them on mild days.",
+      "bloomingSeason": "Autumn to early winter (October to December)",
+      "location": "Southern Japan, and gardens in the southeastern United States and Mediterranean-climate regions",
       "colors": [
         "White",
         "Pink",
-        "Rose",
-        "Red"
+        "Rose-red"
       ],
-      "emoji": "🌺",
-      "funFact": "Oil pressed from sasanqua seeds is used in Japan for cooking and cosmetics, and its leaves can be used to make a tea."
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Oil pressed from its seeds has long been used in Japan for cooking and for hair care."
     },
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub whose showy colored bracts, which are modified leaves, surround small yellow true flowers called cyathia. Outdoors in warm climates it forms large shrubs, while elsewhere it is a popular potted holiday plant.",
-      "bloomingSeason": "Late autumn to winter (November–February)",
-      "location": "Native to Mexico and Central America; grown outdoors in subtropical regions and indoors worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "This is South Africa's national flower. It has a dramatic bowl-shaped head, up to 30 cm across, ringed with silky pink bracts around a crown of fuzzy centers. It grows on rocky fynbos slopes and is tough and long-lasting.",
+      "bloomingSeason": "Late spring to summer, with peak flowering from about November to January",
+      "location": "Western and Eastern Cape, South Africa (fynbos region)",
       "colors": [
-        "Red",
-        "White",
         "Pink",
         "Cream",
-        "Marbled"
+        "Silver-white"
       ],
-      "emoji": "🎄",
-      "funFact": "Poinsettias need long nights of about 12 hours or more for several weeks to develop colored bracts, and in the wild they can grow up to 4 meters tall."
+      "emoji": "🌺",
+      "funFact": "Proteas are an ancient plant family that dates back to the time of Gondwana. The genus is named for the Greek sea god Proteus, who could change shape, because the plants vary so much in form."
     }
   ]
 }

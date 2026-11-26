@@ -2,65 +2,45 @@
   "date": "November 29",
   "plants": [
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with segmented, flattened stems that have pointed teeth along the edges. It produces tubular, asymmetrical flowers at the tips of the stems. It is widely grown as a houseplant in the Northern Hemisphere, where it flowers as nights lengthen and temperatures cool.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "In its native habitat the poinsettia grows as a tall, leggy shrub. It is topped with flame-red bracts that look like petals. The true flowers are tiny golden-yellow cups clustered in the middle of each red rosette. They glow against the dark green leaves.",
+      "bloomingSeason": "November to December",
+      "location": "Mexico, its native range, and warm frost-free regions such as Central America",
       "colors": [
-        "Pink",
         "Red",
-        "Magenta",
-        "White",
-        "Orange",
-        "Yellow"
+        "Golden yellow",
+        "Green"
       ],
-      "emoji": "🌸",
-      "funFact": "It is a short-day plant, so it needs long nights of about 12-14 hours of darkness to set flower buds. It can live for decades and is often passed down through families."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves and large clusters of trumpet-shaped lavender-blue flowers. Mass blooms cover the canopy and carpet the ground beneath with fallen petals.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and New Zealand's northern regions",
-      "colors": [
-        "Lavender",
-        "Blue-violet",
-        "Purple"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, giving it the nickname 'Jacaranda City'. In Australia, an old tradition holds that a flower falling on your head brings good luck."
+      "emoji": "🌺",
+      "funFact": "The showy red parts are modified leaves called bracts. The real flowers are the small yellow cyathia in the center. The plant turns red as the long nights of late autumn arrive."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers. It blooms earlier than the common camellia and tolerates more sun. Its flowers are single to semi-double with prominent yellow stamens, and it provides valuable nectar for pollinators in late autumn.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to Japan and southern China; grown in the southeastern United States, Mediterranean Europe, Australia, and New Zealand",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub lights up the autumn garden with delicate, open flowers. They have silky petals and a boss of golden stamens. Unlike its fussier spring-blooming cousins, it keeps flowering as the days cool and the first chill of winter arrives. It often scatters the ground with fallen petals.",
+      "bloomingSeason": "Autumn into early winter (typically October or November through December or January)",
+      "location": "Native to Japan; widely grown in temperate gardens across Asia, Europe and North America",
       "colors": [
         "White",
         "Pink",
         "Rose-red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua petals fall individually, unlike Camellia japonica, which often drops whole blooms. Its seeds can be pressed to produce tea seed oil used for cooking and hair care."
+      "emoji": "🌸",
+      "funFact": "Sasanqua camellias are closely related to the tea plant, Camellia sinensis. They are among the first camellias to bloom each year, well ahead of the spring-flowering japonica types."
     },
     {
-      "name": "Poinsettia (Euphorbia pulcherrima)",
-      "commonName": "Poinsettia",
-      "description": "A woody shrub that grows up to 3 meters in warm climates. What appear to be petals are actually colorful bracts surrounding small yellow flower clusters called cyathia. In the Northern Hemisphere it is a popular holiday plant, while in frost-free regions it grows outdoors and displays color in late autumn.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in tropical and subtropical regions and indoors elsewhere",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "In late spring, jacaranda trees across the Southern Hemisphere are covered in clouds of lavender-blue, trumpet-shaped flowers. Fern-like foliage casts dappled shade beneath them. As the blossoms drop, they carpet pavements and lawns in purple. By late November the show is winding down in many places.",
+      "bloomingSeason": "Late October through November in Australia, with peak bloom in early November",
+      "location": "Australia, where it is widely planted as a street and park tree; native to South America",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream",
-        "Marbled"
+        "Lavender",
+        "Purple-blue"
       ],
-      "emoji": "🎄",
-      "funFact": "The Aztecs called it Cuetlaxochitl and used the sap to make a fever medicine and the bracts to make a reddish dye. Like the Thanksgiving cactus, it needs long nights to develop its bract color."
+      "emoji": "💜",
+      "funFact": "Although jacarandas are planted in cities around the world, the species comes from South America. In Australia their flowering coincides with the late-spring season, which gives the trees a reputation for heralding the approach of summer."
     }
   ]
 }

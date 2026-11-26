@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "National Chocolate Day",
-      "description": "A day devoted to indulging in all things chocolate, from bars and truffles to molten lava cakes. Chocolatiers and candy lovers use it as a perfectly legitimate excuse to eat dessert before dinner.",
-      "origin": "The day is an unofficial American food observance, placed in late October to fall right before Halloween candy season peaks. Its exact founder is unclear, as with many food days.",
-      "category": "Food Day",
+      "description": "A day for unwrapping, melting, dunking and nibbling every kind of chocolate there is. Dark, milk, truffles and fudge all count. It lands just before Halloween, so it doubles as a convenient warm-up for candy season.",
+      "origin": "It is an unofficial, informal observance. It has become a fixture on the American food-holiday calendar as Halloween approaches.",
+      "category": "Food & Drink",
       "emoji": "🍫",
-      "funFact": "Cacao beans were once used as currency by the Aztecs, so in a sense chocolate really did grow on trees as money."
+      "funFact": "Cacao was once so prized in ancient Mesoamerica that its beans were used as currency."
     },
     {
-      "name": "Plush Animal Lovers Day",
-      "description": "A cuddly celebration of teddy bears, stuffed bunnies, and every fluffy companion that has ever survived a childhood. People are encouraged to hug, display, or donate their plush pals.",
-      "origin": "This is an informal observance that grew out of toy-lover communities and was popularized by online holiday calendars. It is also tied to the tradition of donating stuffed animals to children in need.",
-      "category": "Pop Culture / Toys",
+      "name": "International Animation Day",
+      "description": "A worldwide celebration of animated film, from hand-drawn classics to stop-motion oddities and modern computer-generated blockbusters. Fans mark the day with screenings, workshops and cartoon marathons.",
+      "origin": "It was established in 2002 by ASIFA, the International Animated Film Association. It commemorates the first public commercial film screening by Émile Reynaud on October 28, 1892, at the Musée Grévin in Paris, which used his Théâtre Optique.",
+      "category": "Arts & Entertainment",
+      "emoji": "🎬",
+      "funFact": "Reynaud's 1892 show used hand-painted strips of images projected onto a screen. That was decades before Mickey Mouse was drawn."
+    },
+    {
+      "name": "Plush Animal Lover's Day",
+      "description": "A day to celebrate teddy bears, stuffed bunnies and every other cuddly companion. Hug a fuzzy friend, dust off your childhood stuffed animal, or give a new plush to someone who needs one.",
+      "origin": "It is an unofficial observance of unclear origin. It is popular with collectors and plush fans.",
+      "category": "Pop Culture & Hobbies",
       "emoji": "🧸",
-      "funFact": "The teddy bear was named after President Theodore Roosevelt after a 1902 hunting trip in which he refused to shoot a captured bear."
-    },
-    {
-      "name": "National Immigrants Day",
-      "description": "A day recognizing the contributions of immigrants to the culture, food, and economy of the United States. It encourages sharing family stories and trying foods from around the world.",
-      "origin": "The observance is often linked to the dedication of the Statue of Liberty, which took place on October 28, 1886, in New York Harbor.",
-      "category": "Cultural Observance",
-      "emoji": "🗽",
-      "funFact": "The Statue of Liberty was shipped from France in 350 pieces packed in 214 crates."
-    },
-    {
-      "name": "Create a Great Funeral Day",
-      "description": "A tongue-in-cheek and thoughtful observance inviting people to think about how they would want to be remembered, and to plan a meaningful, personal send-off. It nudges everyone toward conversations most people avoid.",
-      "origin": "It is an unofficial awareness day promoted in the end-of-life planning world, positioned right around Halloween when mortality is a seasonal theme.",
-      "category": "Awareness Day",
-      "emoji": "⚰️",
-      "funFact": "Some people now choose funerals with unusual flair, such as having their ashes turned into fireworks or pressed into vinyl records."
-    },
-    {
-      "name": "Visit Your Relatives Day",
-      "description": "A day for dropping in on Aunt Edna, Cousin Larry, and whoever else you have been dodging at group chats. Bring snacks and prepare for questions about your career and relationship status.",
-      "origin": "This is a lighthearted unofficial observance with no documented founder, passed along by holiday calendars to encourage family connection.",
-      "category": "Social / Family",
-      "emoji": "👨‍👩‍👧‍👦",
-      "funFact": "Many cultures have dedicated family visiting traditions, such as Lunar New Year, when hundreds of millions travel home in the world's largest annual human migration."
+      "funFact": "The teddy bear is named after U.S. President Theodore \"Teddy\" Roosevelt, following a 1902 hunting trip story."
     }
   ]
 }

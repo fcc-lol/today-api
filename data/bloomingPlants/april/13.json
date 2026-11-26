@@ -2,62 +2,49 @@
   "date": "April 13",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of delicate, slightly fragrant blossoms that appear before the leaves emerge. It is planted widely in parks, along rivers, and in avenues across temperate regions. In many places the peak bloom is brief, lasting only about a week or two.",
-      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions of Europe and North America",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "The Yoshino cherry is the main tree celebrated at hanami festivals in Japan, and the trees gifted by Tokyo to Washington D.C. in 1912 were of this variety."
-    },
-    {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Hundreds of cultivars exist, with forms ranging from simple cups to fringed and parrot types. It thrives in cool springs and well-drained soil.",
-      "bloomingSeason": "Early to late spring (April is peak in the Northern Hemisphere)",
-      "location": "Netherlands, Turkey, Central Asia origins, and gardens throughout temperate Northern Hemisphere regions",
+      "description": "Rows of cup-shaped blooms stretch across the bulb fields and gardens of the Netherlands. They make ribbons of scarlet, canary yellow, magenta and snowy white. Mid-April is when the display looks its most painterly.",
+      "bloomingSeason": "Early April to early May, with peak bloom in mid-to-late April",
+      "location": "Keukenhof and the bulb-growing region of the Netherlands",
       "colors": [
         "Red",
         "Yellow",
         "Pink",
-        "Purple",
         "White",
+        "Purple",
         "Orange"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxurious canal house."
+      "funFact": "Tulips came to Europe from Central Asia by way of the Ottoman Empire. In the 1600s Dutch 'tulip mania' drove single bulbs to prices that rivaled grand townhouses."
     },
     {
       "name": "Lupinus texensis",
       "commonName": "Texas Bluebonnet",
-      "description": "A winter annual wildflower that forms dense carpets of flower spikes across roadsides and prairies. The palmate leaves and pea-like blossoms are topped with a distinctive white tip that turns maroon as the flower ages. It prefers open, sunny, well-drained soils.",
-      "bloomingSeason": "Late March to early May",
-      "location": "Central and southern Texas, USA",
+      "description": "Dense spikes of deep blue, white-tipped flowers spill across Texas roadsides and meadows. In peak years they look like a rolling blue sea. In mid-April the display moves north into the prairies of North Texas.",
+      "bloomingSeason": "Roughly March to April, starting in South Texas and peaking in mid-April farther north",
+      "location": "Texas, USA, from the Hill Country to the northern prairies",
       "colors": [
-        "Deep blue",
-        "Purple",
-        "White tips"
+        "Blue",
+        "White",
+        "Magenta"
       ],
       "emoji": "💙",
-      "funFact": "Texas Bluebonnet is the state flower of Texas, and it is illegal to pick it only in myth; the idea that it's against the law is a popular misconception."
+      "funFact": "The Texas bluebonnet is the state flower of Texas. The white tip on each blossom turns magenta as the flower ages, which signals to pollinators that it is past its nectar prime."
     },
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A bulbous perennial best known for its autumn flowers, but in the Southern Hemisphere it is naturalised in places where it blooms during the local autumn. Its crocus-like blossoms appear without leaves, which is why it is nicknamed 'naked ladies'. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Autumn (blooms in April in parts of the Southern Hemisphere)",
-      "location": "Cultivated in southern Australia, New Zealand, and southern South America; native to Europe",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Cosmos has daisy-like flowers on feathery, fern-fine foliage. In autumn it floods the roadsides and veld of South Africa's Highveld with pink, magenta and white. The blooms nod in the breeze for a few short weeks.",
+      "bloomingSeason": "March to April (southern autumn) in the Highveld",
+      "location": "Highveld of Gauteng and the Free State, South Africa",
       "colors": [
         "Pink",
-        "Lilac",
-        "Pale purple"
+        "Magenta",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "Colchicum produces colchicine, a compound used in medicine to treat gout and in plant breeding to double chromosome numbers."
+      "emoji": "🌸",
+      "funFact": "Cosmos is native to Mexico, but it has naturalized so widely in South Africa that its autumn bloom has become a seasonal landmark. Its name comes from a Greek word for 'order' or 'harmony,' a nod to its evenly arranged petals."
     }
   ]
 }

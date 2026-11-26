@@ -2,61 +2,60 @@
   "date": "July 24",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with narrow gray-green leaves and dense spikes of small tubular flowers. It is widely cultivated in gardens and fields for essential oils, culinary use, and as a pollinator magnet.",
-      "bloomingSeason": "Mid-summer (June to August) in the Northern Hemisphere",
-      "location": "Mediterranean region, southern France, England, and cultivated worldwide in temperate climates",
-      "colors": [
-        "Purple",
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and a huge flower head made of yellow ray florets surrounding a dark disc of tiny florets that mature into seeds. Fields of sunflowers are at their peak in late July.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September)",
-      "location": "Native to North America; grown commercially in Ukraine, Russia, Argentina, France, and the United States",
-      "colors": [
-        "Golden yellow",
-        "Orange",
-        "Brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun across the sky in a behavior called heliotropism, but mature flowers stop moving and face east."
-    },
-    {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with daisy-like petals drooping around a spiky, orange-brown central cone. It thrives in full sun and attracts butterflies, bees, and finches seeking seeds.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in gardens",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. Bees, butterflies and goldfinches crowd the prairie and garden stands in high summer.",
+      "bloomingSeason": "Mid-summer, roughly June through August, with some blooms from late spring and a possible second flush in early fall",
+      "location": "Eastern and central United States, in prairies, open woodlands and gardens",
       "colors": [
-        "Pink-purple",
-        "Magenta",
-        "Orange-bronze"
+        "Purple",
+        "Pink",
+        "Orange"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea's name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone."
+      "funFact": "The spiky central cone is a dense head of tiny individual flowers. Its seed heads feed finches through the autumn."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "Silvery, fragrant shrubs form rolling violet-blue stripes across sunbaked hillsides. The scent drifts on the warm summer air and draws clouds of bees.",
+      "bloomingSeason": "Mid-June to late August, peaking in July",
+      "location": "Provence and the French Alps, France",
+      "colors": [
+        "Violet",
+        "Lavender-blue",
+        "Purple"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender has been prized since antiquity for its fragrance. The name is often traced to the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
+    },
+    {
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "Dense shrubs carry glowing orange-gold flower spikes that look like bottlebrushes. They light up the cool winter bushland and attract honeyeaters and lorikeets.",
+      "bloomingSeason": "Autumn through winter, generally March to August",
+      "location": "Coastal New South Wales, Australia, in sandy heathland",
+      "colors": [
+        "Orange",
+        "Gold",
+        "Rust-red"
+      ],
+      "emoji": "🌼",
+      "funFact": "Each spike is made up of thousands of tiny flowers. They produce so much nectar that birds and small mammals feed on it through the Australian winter."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A striking evergreen shrub producing the largest flower head in the Protea genus, with a bowl of silky-tipped bracts surrounding a central cluster of tiny flowers. In the Southern Hemisphere it blooms in the cool winter and early spring period, with flowering extending through July.",
-      "bloomingSeason": "Late autumn to spring in the Southern Hemisphere (peaks around May to November)",
-      "location": "Fynbos region of the Western and Eastern Cape, South Africa",
+      "description": "The largest of the proteas, with a bowl-shaped flower head up to the size of a dinner plate. It has a crown of silky pink bracts and a fuzzy center, and it blooms against the winter backdrop of the Cape fynbos.",
+      "bloomingSeason": "Winter and spring, mainly June to October",
+      "location": "Western Cape, South Africa, in fynbos and in gardens such as Kirstenbosch",
       "colors": [
         "Pink",
         "Cream",
-        "Silvery-white",
-        "Crimson"
+        "Silvery-white"
       ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and it evolved to survive regular wildfires by storing energy in underground lignotubers."
+      "emoji": "👑",
+      "funFact": "It is South Africa's national flower. The plant is adapted to fire, with a woody underground stem that resprouts after bushfires."
     }
   ]
 }

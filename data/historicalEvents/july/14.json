@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1789,
-      "title": "Storming of the Bastille",
-      "description": "A crowd of Parisian revolutionaries stormed the Bastille, a royal fortress and prison in Paris, seizing weapons and gunpowder and freeing the few prisoners held there.",
-      "category": "Political Revolution",
-      "significance": "The event became the symbol of the start of the French Revolution and the fall of absolute monarchy in France. It is commemorated annually as Bastille Day, France's national holiday."
+      "title": "The Storming of the Bastille",
+      "description": "A crowd of Parisians stormed the Bastille, a royal fortress and prison that symbolized the power of the monarchy. They were searching for gunpowder and weapons, and the fortress fell after a few hours of fighting.",
+      "category": "Major Event",
+      "significance": "The event became the defining symbol of the French Revolution. France still marks July 14 as its national holiday, Bastille Day."
     },
     {
       "year": 1881,
-      "title": "Death of Billy the Kid",
-      "description": "Outlaw Henry McCarty, known as Billy the Kid, was shot and killed by Sheriff Pat Garrett at Fort Sumner in the New Mexico Territory.",
+      "title": "Billy the Kid Is Killed",
+      "description": "Sheriff Pat Garrett shot and killed the outlaw Billy the Kid at Fort Sumner in New Mexico Territory. Billy had escaped from jail months earlier and had been on the run since.",
       "category": "Death",
-      "significance": "His death ended one of the most famous outlaw careers of the American Old West and cemented his legendary status in American folklore and popular culture."
+      "significance": "His death ended one of the most famous manhunts of the American Old West. It also helped turn him into a lasting figure of frontier legend."
     },
     {
       "year": 1965,
-      "title": "Mariner 4 Flyby of Mars",
-      "description": "NASA's Mariner 4 spacecraft completed the first successful flyby of Mars, returning the first close-up images of the planet's surface.",
-      "category": "Science and Exploration",
-      "significance": "The images revealed a cratered, barren landscape and changed scientific understanding of Mars, marking a milestone in interplanetary exploration."
+      "title": "Mariner 4 Flies Past Mars",
+      "description": "NASA's Mariner 4 spacecraft made the first successful close flyby of Mars. It sent back the first close-up photographs of another planet, 21 images in all.",
+      "category": "Milestone",
+      "significance": "The images showed a cratered, barren surface. That overturned popular ideas of a more Earth-like Mars and opened a new era of planetary exploration."
     },
     {
-      "year": 1958,
-      "title": "Iraqi Revolution",
-      "description": "Army officers led by Abd al-Karim Qasim and Abdul Salam Arif overthrew the Hashemite monarchy in Iraq, killing King Faisal II and others in the royal family.",
-      "category": "Political Revolution",
-      "significance": "The coup ended the monarchy and established the Iraqi Republic, reshaping Middle Eastern politics and Iraq's alignment during the Cold War."
-    },
-    {
-      "year": 2016,
-      "title": "Nice Truck Attack",
-      "description": "On Bastille Day, a truck was driven into crowds celebrating on the Promenade des Anglais in Nice, France, killing 86 people and injuring hundreds.",
-      "category": "Terrorism",
-      "significance": "One of the deadliest terrorist attacks in modern French history, it led to extended states of emergency and intensified security measures across Europe."
+      "year": 1913,
+      "title": "Gerald Ford Is Born",
+      "description": "Gerald R. Ford was born in Omaha, Nebraska, on July 14, 1913. He later served in Congress and became Vice President.",
+      "category": "Birth",
+      "significance": "Ford became the 38th President of the United States in 1974 after Richard Nixon resigned. He is the only person to hold both the vice presidency and the presidency without being elected to either."
     }
   ]
 }

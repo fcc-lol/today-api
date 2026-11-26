@@ -3,61 +3,48 @@
   "plants": [
     {
       "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A long-lived herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers held above glossy, deeply divided foliage. It is a classic cottage garden and cut-flower favorite that thrives in regions with cold winters.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "commonName": "Chinese peony",
+      "description": "Plush, ruffled blooms the size of teacups open from fat round buds. They give off a sweet, rosy perfume. The flowers arrive just as spring turns to summer, and they weigh down the stems with their petals.",
+      "bloomingSeason": "Mid to late spring. Late-season cultivars typically peak in May and early June.",
+      "location": "Gardens across the central United States, such as St. Louis, Missouri, where late-season varieties bloom around late May",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Pink",
+        "White",
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 50 years in the same spot, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
+      "funFact": "Peonies are long-lived perennials. A single clump can bloom for decades, and some have outlasted the gardeners who planted them."
     },
     {
-      "name": "Iris germanica",
-      "commonName": "Bearded Iris",
-      "description": "A rhizomatous perennial with sword-shaped gray-green leaves and showy flowers with three upright standards, three drooping falls, and a fuzzy 'beard' on each fall. Hybrids come in nearly every color combination imaginable.",
-      "bloomingSeason": "Late spring (May to early June in the Northern Hemisphere)",
-      "location": "Origins in the Mediterranean region; cultivated throughout temperate gardens in Europe, North America, and Australia",
+      "name": "Banksia",
+      "commonName": "Banksia (Australian honeysuckle)",
+      "description": "Banksias carry tall, bottlebrush-like flower spikes made of hundreds of tiny blooms. In the cool Australian autumn, the spikes glow in the bush and draw honeyeaters and other nectar-feeding birds. Many species open from late summer through autumn and into winter, so late May falls in the middle of their flowering.",
+      "bloomingSeason": "Late summer through autumn and winter, depending on the species",
+      "location": "Australia, where May is autumn in the Southern Hemisphere",
       "colors": [
-        "purple",
-        "blue",
-        "yellow",
-        "white",
-        "orange",
-        "burgundy"
+        "Golden yellow",
+        "Orange",
+        "Pale yellow",
+        "Rusty red"
       ],
-      "emoji": "🪻",
-      "funFact": "The iris is named after the Greek goddess of the rainbow, Iris, and the dried rhizomes (orris root) are used as a fixative in perfumes."
+      "emoji": "🌼",
+      "funFact": "After flowering, banksia spikes turn into woody, knobbly cones. Many of them hold their seeds until a bushfire opens them."
     },
     {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny deciduous shrub that produces delicate, lightly scented five-petaled flowers, followed by bright red rose hips in autumn. It scrambles through hedgerows and woodland edges.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Native to Europe, northwest Africa, and western Asia; commonly seen in British and European hedgerows",
+      "name": "Rhododendron",
+      "commonName": "Himalayan rhododendron",
+      "description": "High in the Himalayan foothills, rhododendron shrubs and small trees cover the slopes in clusters of bell and funnel-shaped flowers. Some species bloom in May, so the mountain forests are still in color late in the season.",
+      "bloomingSeason": "Varies by species and altitude. Several Sikkim species flower in May and June.",
+      "location": "Sikkim, in the eastern Himalaya of India",
       "colors": [
-        "pale pink",
-        "white"
+        "Pink",
+        "Red",
+        "White",
+        "Purple"
       ],
-      "emoji": "🌹",
-      "funFact": "During World War II, Britons collected rose hips from dog roses to make vitamin C-rich syrup, since citrus imports were scarce."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A medium to large tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere tropics and subtropics it blooms in late spring, carpeting streets with fallen petals.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in Mexico, Southern California, Florida, Hawaii, India, and parts of Africa",
-      "colors": [
-        "lavender",
-        "violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, jacarandas are so abundant that the city is nicknamed the 'Jacaranda City', and some cultures believe a falling blossom on your head brings good luck."
+      "emoji": "🌺",
+      "funFact": "Sikkim is home to a remarkable diversity of rhododendrons. Different species bloom at different elevations, so the flowering season shifts up the mountainside through spring and early summer."
     }
   ]
 }

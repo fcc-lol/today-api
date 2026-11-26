@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "International Asteroid Day",
-      "description": "A day devoted to looking up, worrying a little, and learning how to keep giant space rocks from ruining everyone's weekend. Science centers, planetariums, and space nerds host talks and events about asteroids and planetary defense.",
-      "origin": "Co-founded in 2014 by Dr. Brian May (Queen guitarist and astrophysicist), filmmaker Grig Richters, and others. The UN General Assembly officially proclaimed it in 2016. It marks the anniversary of the 1908 Tunguska event in Siberia.",
-      "category": "Awareness Day / Science",
+      "description": "A global day for looking up, learning about space rocks, and thinking about how humanity could handle a cosmic curveball. Science centers, observatories and space fans mark it with talks, stargazing and livestreams.",
+      "origin": "Asteroid Day marks the anniversary of the 1908 Tunguska event, when a space object exploded over Siberia. It was founded in 2015 by astrophysicist Brian May, filmmaker Grig Richters and others. The United Nations later formally recognized it.",
+      "category": "Science & Space",
       "emoji": "☄️",
-      "funFact": "The Tunguska explosion flattened an estimated 80 million trees across about 800 square miles, yet left no obvious impact crater."
+      "funFact": "The Tunguska blast flattened roughly 80 million trees across about 800 square miles, yet no large impact crater was ever found."
     },
     {
       "name": "Social Media Day",
-      "description": "A day to celebrate the platforms that let us share lunch photos, hot takes, and cat videos with the whole planet. People post, connect, and occasionally reflect on how much time they spend scrolling.",
-      "origin": "Created by the tech news site Mashable in 2010 to recognize the impact of social media on global communication. It has been celebrated every June 30 since.",
-      "category": "Pop Culture / Technology",
+      "description": "A day to post, comment, reblog and hashtag with abandon, or to try a new platform and meet people you'd never have crossed paths with offline.",
+      "origin": "Social Media Day was started by the tech news site Mashable in 2010. It celebrates how online networks have changed the way people communicate, and it has since gone global.",
+      "category": "Technology & Pop Culture",
       "emoji": "📱",
-      "funFact": "Mashable launched the day in 2010 and organized meetups in cities worldwide, which makes this holiday itself a product of the blogging era."
+      "funFact": "The day was created to celebrate online communities at a time when many people still thought of social media as a passing fad."
     },
     {
-      "name": "National Ice Cream Soda Day",
-      "description": "A fizzy, creamy celebration of dropping scoops of ice cream into soda and pretending it is a sophisticated beverage. Root beer floats, coke floats, and other bubbly experiments are encouraged.",
-      "origin": "The ice cream soda is traditionally credited to Robert Green, who supposedly invented it in 1874 in Philadelphia at the Franklin Institute's semi-centennial celebration when he ran out of ice for his drinks and substituted ice cream.",
-      "category": "Food Day",
-      "emoji": "🍨",
-      "funFact": "Ice cream sodas became so popular in the late 1800s that some towns passed laws banning sales on Sundays, which led to the invention of the ice cream sundae."
-    },
-    {
-      "name": "Meteor Watch Day",
-      "description": "A night-sky holiday for people who like to stare upward and hope something burns up spectacularly. Fans of shooting stars are encouraged to head outdoors, find a dark spot, and watch the heavens for fireballs.",
-      "origin": "Observed on June 30 each year, and tied to the anniversary of the 1908 Tunguska event. It exists alongside Asteroid Day as a more hands-on, backyard-friendly way to appreciate space rocks.",
-      "category": "Science / Nature",
+      "name": "National Meteor Watch Day",
+      "description": "An invitation to grab a blanket, ditch the screens and look up for shooting stars. Dark skies and a little patience are all you need.",
+      "origin": "This is an unofficial observance, and its origin is unclear. It falls on the same day as Asteroid Day, which makes for a good night of sky-watching.",
+      "category": "Nature & Astronomy",
       "emoji": "🌠",
-      "funFact": "Most meteors you see are produced by particles no bigger than a grain of sand, burning up about 50 to 75 miles above the ground."
-    },
-    {
-      "name": "Mikha'il's Day of the Mosquito Awareness? Nope: National Handwriting-Free Snack Hug Day? Nope: Leap Second Day",
-      "description": "Occasionally June 30 has been the date when clocks get an extra tick: the leap second. Timekeepers add a 61st second to the final minute of the day so that atomic clocks stay in sync with Earth's slightly wobbly rotation.",
-      "origin": "Leap seconds were introduced in 1972 and have been added at the end of June 30 or December 31 as needed. The most recent one was added on December 31, 2016.",
-      "category": "Science / Timekeeping",
-      "emoji": "⏱️",
-      "funFact": "Leap seconds have caused real computer outages, including crashes at major websites in 2012, because some software could not handle a minute with 61 seconds."
+      "funFact": "Most meteors you see are caused by dust grains no bigger than a grain of sand, burning up as they hit the atmosphere at tens of thousands of miles per hour."
     }
   ]
 }

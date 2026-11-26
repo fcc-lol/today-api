@@ -4,61 +4,44 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like blooms. Hundreds of cultivars exist, with single, semi-double, and fully double flower forms. It thrives in partial shade and acidic soils, and is a staple of winter gardens.",
-      "bloomingSeason": "Late autumn to early spring (peak January to March)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with golden centers. They flower in the cool, damp days of winter, when most gardens are bare. Petals can be crisp white, blushing pink or deep crimson.",
+      "bloomingSeason": "Late autumn through early spring, with a peak in mid-winter to early spring",
+      "location": "Southern Japan, the southeastern United States and mild temperate gardens worldwide",
       "colors": [
         "Red",
         "Pink",
-        "White",
-        "Variegated"
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea, and camellia seed oil has been used in Japan for centuries as a hair and skin treatment."
+      "funFact": "Camellia sinensis, a close relative, gives us tea. Camellia japonica seeds are pressed into prized camellia oil, which has long been used in Japanese hair care and cooking."
     },
     {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial with trumpet-shaped flowers borne on tall, sturdy stalks. In the Southern Hemisphere summer, garden-grown and wild relatives bloom outdoors, while in the north, potted bulbs flower indoors in winter.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in the Northern Hemisphere in winter",
-      "location": "Native to Central and South America and the Caribbean; cultivated worldwide",
+      "name": "Prunus mume",
+      "commonName": "Chinese Plum (Ume)",
+      "description": "A gnarled, graceful tree that opens fragrant blossoms on bare branches, sometimes dusted with snow. Its perfume drifts through winter gardens and is one of the earliest signs of spring.",
+      "bloomingSeason": "Mid-winter to early spring, often starting in January in mild regions",
+      "location": "Southern and eastern China, and warmer parts of Japan",
       "colors": [
-        "Red",
-        "Orange",
         "White",
         "Pink",
-        "Salmon"
+        "Deep Rose"
       ],
-      "emoji": "🌷",
-      "funFact": "Hippeastrum bulbs can bloom within 6 to 8 weeks of planting, and a single large bulb can send up multiple flower stalks in one season."
+      "emoji": "🌸",
+      "funFact": "In East Asian art and poetry the plum blossom stands for resilience, because it blooms in the cold before any other tree."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous shrub that blooms on bare branches in the dead of winter. Its spidery, ribbon-like petals are strongly fragrant and curl up in freezing weather to protect themselves, unfurling again when it warms.",
-      "bloomingSeason": "Mid-winter (January to February)",
-      "location": "Native to central and eastern China; grown in temperate gardens of Europe and North America",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Tall stems carry round clusters of trumpet-shaped flowers above fountains of strappy leaves. The blooms are a rich blue-violet, and they brighten southern summer gardens.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December to February",
+      "location": "Eastern South Africa, and gardens across Australia and New Zealand",
       "colors": [
-        "Yellow",
-        "Gold",
-        "Orange"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel petals can curl tightly in cold weather and re-expand when temperatures rise, allowing the flowers to survive repeated freezes."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading tree with fern-like foliage and a broad umbrella canopy. Under the Southern Hemisphere's summer sun, it becomes covered with brilliant clusters of large flowers, each with one distinctive spotted petal.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in tropical regions during the dry season",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and Africa",
-      "colors": [
-        "Scarlet",
-        "Orange-red",
-        "Yellow"
-      ],
-      "emoji": "🔥",
-      "funFact": "Despite being one of the most celebrated tropical flowering trees, the royal poinciana is endangered in its native Madagascar."
+      "emoji": "💜",
+      "funFact": "Despite its common name, it isn't a true lily. Its name comes from the Greek words for 'love' and 'flower'."
     }
   ]
 }

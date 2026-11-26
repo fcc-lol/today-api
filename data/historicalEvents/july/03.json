@@ -2,39 +2,32 @@
   "date": "July 3",
   "events": [
     {
-      "year": 1863,
-      "title": "Pickett's Charge at Gettysburg",
-      "description": "On the third and final day of the Battle of Gettysburg, Confederate forces under General Robert E. Lee launched a massive infantry assault, known as Pickett's Charge, against the center of the Union line on Cemetery Ridge. The attack was repulsed with heavy Confederate casualties.",
-      "category": "Military",
-      "significance": "Often considered the high-water mark of the Confederacy, the failed assault ended Lee's invasion of the North and, along with the fall of Vicksburg the next day, marked a decisive turning point in the American Civil War."
+      "year": 987,
+      "title": "Hugh Capet Crowned King of France",
+      "description": "Hugh Capet was crowned King of France. He became the first monarch of the Capetian dynasty.",
+      "category": "Politics",
+      "significance": "His line ruled France in various branches for centuries. The monarchy lasted until the French Revolution."
     },
     {
       "year": 1608,
-      "title": "Founding of Quebec City",
-      "description": "French explorer Samuel de Champlain founded a settlement at the site of present-day Quebec City on the St. Lawrence River, establishing a fortified trading post called the Habitation de Québec.",
-      "category": "Exploration and Colonization",
-      "significance": "Quebec became the capital of New France and the cradle of French civilization in North America, shaping the cultural and political development of Canada."
+      "title": "Samuel de Champlain Founds Quebec City",
+      "description": "French explorer Samuel de Champlain founded a settlement on the St. Lawrence River. It became Quebec City.",
+      "category": "Exploration",
+      "significance": "Quebec became the cornerstone of New France. It is one of the oldest European-founded cities in North America."
+    },
+    {
+      "year": 1863,
+      "title": "Pickett's Charge Ends the Battle of Gettysburg",
+      "description": "On the third day of Gettysburg, Confederate forces made a massive assault on the Union center at Cemetery Ridge. The assault, known as Pickett's Charge, failed.",
+      "category": "War",
+      "significance": "The battle is widely seen as a turning point of the American Civil War. It ended Robert E. Lee's invasion of the North."
     },
     {
       "year": 1890,
-      "title": "Idaho Admitted as the 43rd U.S. State",
-      "description": "President Benjamin Harrison signed the bill admitting Idaho to the Union, making it the 43rd state of the United States.",
+      "title": "Idaho Becomes the 43rd U.S. State",
+      "description": "Idaho was admitted to the Union as the 43rd state.",
       "category": "Politics",
-      "significance": "Idaho's statehood continued the westward expansion and political incorporation of the Western territories in the late 19th century."
-    },
-    {
-      "year": 1971,
-      "title": "Death of Jim Morrison",
-      "description": "Jim Morrison, lead singer and lyricist of the rock band The Doors, died in Paris at age 27. He was found in the bathtub of his apartment, and no autopsy was performed.",
-      "category": "Culture",
-      "significance": "His death made him a member of the so-called '27 Club' and cemented his status as a countercultural icon; his grave at Père Lachaise Cemetery remains a major pilgrimage site."
-    },
-    {
-      "year": 1938,
-      "title": "Mallard Sets Steam Locomotive Speed Record",
-      "description": "The LNER Class A4 steam locomotive Mallard reached 126 miles per hour (203 km/h) on the East Coast Main Line in England, setting the world speed record for steam locomotives.",
-      "category": "Technology",
-      "significance": "The record has never been officially broken and stands as a pinnacle of steam engineering at the end of the steam era."
+      "significance": "Idaho's admission continued the settlement and political incorporation of the American West in the late 19th century."
     }
   ]
 }

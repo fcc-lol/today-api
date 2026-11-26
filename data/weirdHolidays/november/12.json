@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "National Pizza with the Works Except Anchovies Day",
-      "description": "A day dedicated to loading your pizza with every topping imaginable, with one glorious exception: the salty little fish. Pepperoni, sausage, mushrooms, peppers, and olives are all welcome to the party.",
-      "origin": "This is an unofficial American food holiday that appears on food-holiday calendars. Its exact creator is unclear, but it plays on the long-running pizza topping debate over anchovies.",
+      "description": "A day to celebrate a loaded pizza piled with every topping you love, minus the salty little fish that divide dinner tables. Order a pie with pepperoni, sausage, peppers, mushrooms, and onions, and leave the anchovies off.",
+      "origin": "This is an unofficial food observance of unclear origin, and it has become a yearly fixture on pizza lovers' calendars.",
       "category": "Food",
       "emoji": "🍕",
-      "funFact": "Anchovies are frequently ranked among the most divisive pizza toppings in America, and many pizzerias keep them off the menu or offer them only by special request."
+      "funFact": "Anchovies are among the most polarizing pizza toppings, and plenty of pizzerias list them as an optional add-on so the rest of the pie can stay crowd-pleasing."
     },
     {
-      "name": "National Chicken Soup for the Soul Day",
-      "description": "A day to enjoy a warm bowl of chicken soup and share a little comfort with others, whether the soup is meant for the stomach or the spirit.",
-      "origin": "This unofficial observance appears on food and holiday calendars on November 12. It draws on the old tradition of chicken soup as a home remedy and on the title of the popular Chicken Soup for the Soul book series, which began in 1993.",
+      "name": "American Fancy Rat & Mouse Day",
+      "description": "A day to appreciate pet rats and mice, which are clever, social, and affectionate companions. Fans celebrate with treats, cage makeovers, and a lot of whisker-twitching admiration.",
+      "origin": "The observance is tied to the American Fancy Rat and Mouse Association, which promotes responsible ownership and the hobby of keeping fancy rats and mice as pets.",
+      "category": "Animals",
+      "emoji": "🐀",
+      "funFact": "Pet rats can learn their names and tricks, and they are known to make a chattering sound called bruxing when they are happy."
+    },
+    {
+      "name": "National French Dip Day",
+      "description": "A tribute to the beloved sandwich of thinly sliced roast beef on a crusty roll, served with a cup of savory au jus for dunking. Each bite is a delicious, dripping delight.",
+      "origin": "The sandwich is traditionally credited to Los Angeles, where two rival restaurants, Philippe the Original and Cole's, both claim to have invented it in the early 20th century. The day itself is an unofficial observance of unclear origin.",
       "category": "Food",
-      "emoji": "🍲",
-      "funFact": "Chicken soup has been recommended as a cold remedy for centuries, and some small studies suggest that warm broth may help ease congestion and keep you hydrated."
-    },
-    {
-      "name": "National Happy Hour Day",
-      "description": "A day to celebrate discounted drinks and appetizers after work, and to be thankful for any excuse to leave the office a little early and socialize.",
-      "origin": "This is an unofficial observance listed on November 12 on many holiday calendars. The term 'happy hour' is generally traced to the U.S. Navy in the 1910s and 1920s, when it described scheduled entertainment aboard ships.",
-      "category": "Social",
-      "emoji": "🍹",
-      "funFact": "The phrase 'happy hour' was first used in the Navy to describe organized recreation for sailors, such as boxing matches and movies, and had nothing to do with drinking at first."
-    },
-    {
-      "name": "World Pneumonia Day",
-      "description": "A serious awareness day with a global mission: rallying attention and action against pneumonia, a leading infectious cause of death in young children worldwide.",
-      "origin": "The observance was started in 2009 by the Global Coalition Against Child Pneumonia and is marked each year on November 12 with advocacy and health education campaigns.",
-      "category": "Awareness",
-      "emoji": "🫁",
-      "funFact": "Pneumonia is preventable and treatable, and vaccines, good nutrition, clean air, and access to antibiotics all play a major role in reducing deaths."
-    },
-    {
-      "name": "Sun Yat-sen Birthday (Father of the Nation Day)",
-      "description": "A day of remembrance honoring Sun Yat-sen, a revolutionary leader who helped found the Republic of China, with ceremonies and tributes in Taiwan.",
-      "origin": "Sun Yat-sen was born on November 12, 1866. His birthday is commemorated in Taiwan and is also known as Chung-Shan Day or National Father's Day in some contexts.",
-      "category": "Historical",
-      "emoji": "🇹🇼",
-      "funFact": "Sun Yat-sen is a rare figure honored in both mainland China and Taiwan, and he is often called the 'Father of the Nation' in both places."
+      "emoji": "🥖",
+      "funFact": "Both Philippe the Original and Cole's still serve French dips in Los Angeles, so you can sample each and decide which claim to the title you believe."
     }
   ]
 }

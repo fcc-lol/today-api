@@ -2,39 +2,39 @@
   "date": "March 20",
   "events": [
     {
-      "year": 1852,
-      "title": "Publication of Uncle Tom's Cabin",
-      "description": "Harriet Beecher Stowe's anti-slavery novel Uncle Tom's Cabin was published in book form in Boston by John P. Jewett, after being serialized in the abolitionist newspaper The National Era.",
-      "category": "Literature",
-      "significance": "The novel became one of the best-selling books of the 19th century and greatly intensified anti-slavery sentiment in the Northern United States, helping to shape public opinion in the lead-up to the American Civil War."
-    },
-    {
-      "year": 1916,
-      "title": "Einstein Publishes the Theory of General Relativity",
-      "description": "Albert Einstein's paper 'The Foundation of the General Theory of Relativity' appeared in the journal Annalen der Physik, presenting a complete formulation of general relativity.",
-      "category": "Science",
-      "significance": "General relativity redefined gravity as the curvature of spacetime and became a cornerstone of modern physics, underpinning our understanding of black holes, gravitational waves, and cosmology."
-    },
-    {
-      "year": 1956,
-      "title": "Tunisia Gains Independence from France",
-      "description": "France formally recognized Tunisia's independence by signing a protocol, ending the French protectorate established in 1881. Habib Bourguiba became the leader of the new state.",
+      "year": 1413,
+      "title": "Henry V Becomes King of England",
+      "description": "Following the death of his father, Henry IV, the 26-year-old Henry V took the English throne. He soon revived England's claims in France and led the country into a new phase of the Hundred Years' War.",
       "category": "Politics",
-      "significance": "Tunisia's independence was a key moment in the decolonization of North Africa and set the stage for the country's development as a modern republic under Bourguiba."
+      "significance": "His reign produced the famous victory at Agincourt in 1415. It also made him one of the best-known medieval English monarchs."
+    },
+    {
+      "year": 1815,
+      "title": "Napoleon Returns to Paris",
+      "description": "After escaping exile on the island of Elba, Napoleon entered Paris. This began the period known as the Hundred Days, in which he ruled France again.",
+      "category": "Politics",
+      "significance": "His return led to the Battle of Waterloo and his final defeat and exile."
+    },
+    {
+      "year": 1852,
+      "title": "Uncle Tom's Cabin Is Published",
+      "description": "Harriet Beecher Stowe's anti-slavery novel appeared in book form. It was a sensation and sold in huge numbers in the United States and abroad.",
+      "category": "Culture",
+      "significance": "The book swayed public opinion against slavery and is often cited as a factor in the tensions that led to the American Civil War."
     },
     {
       "year": 1995,
-      "title": "Tokyo Subway Sarin Gas Attack",
-      "description": "Members of the doomsday cult Aum Shinrikyo released sarin nerve gas on several Tokyo subway lines during morning rush hour, killing 13 people and injuring thousands more.",
-      "category": "Terrorism",
-      "significance": "It was one of the deadliest terrorist attacks in Japanese history and a landmark case of chemical terrorism, prompting major changes in Japan's counterterrorism and emergency response policies worldwide."
+      "title": "Sarin Attack on the Tokyo Subway",
+      "description": "Members of the Aum Shinrikyo cult released sarin nerve gas on several Tokyo subway trains during the morning rush hour. The attack killed 12 people and injured thousands.",
+      "category": "Disaster",
+      "significance": "It was one of the deadliest acts of domestic terrorism in modern Japan. It prompted worldwide changes in how governments prepare for chemical attacks."
     },
     {
       "year": 2003,
-      "title": "Invasion of Iraq Begins",
-      "description": "A US-led coalition launched military operations against Iraq, beginning with airstrikes on Baghdad and a ground invasion from Kuwait, on the grounds of alleged weapons of mass destruction and Saddam Hussein's regime.",
+      "title": "The Iraq War Begins",
+      "description": "A U.S.-led coalition invaded Iraq, opening the war that toppled Saddam Hussein's government.",
       "category": "War",
-      "significance": "The invasion toppled Saddam Hussein's government and began a prolonged conflict that reshaped the politics of the Middle East and sparked global debate over the legitimacy and consequences of the war."
+      "significance": "The war reshaped the politics of the Middle East and remained a source of controversy for years afterward."
     }
   ]
 }

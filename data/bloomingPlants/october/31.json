@@ -2,62 +2,48 @@
   "date": "October 31",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A hardy perennial prized for its dense, layered blooms in a wide range of forms, from pompons to spiders. It thrives in the cool, short days of autumn and is a mainstay of fall gardens and floral displays across the Northern Hemisphere.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
-      "colors": [
-        "Yellow",
-        "White",
-        "Bronze",
-        "Purple",
-        "Red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and in Japan the flower is the emblem of the Imperial family and the national flower."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, graceful tree with fern-like foliage that erupts into massive clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere spring, entire streets are carpeted in fallen purple blossoms.",
-      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
-      "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria in South Africa is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up delicate, crocus-like flowers in autumn without any leaves present. The foliage appears the following spring and dies back by summer, giving the plant its 'naked ladies' nickname.",
-      "bloomingSeason": "Late summer to autumn (September to November)",
-      "location": "Damp meadows and woodlands of Europe, from the British Isles to central Europe",
-      "colors": [
-        "Pink",
-        "Lilac",
-        "White"
-      ],
-      "emoji": "🌸",
-      "funFact": "Despite its name it is not a true crocus, and all parts are highly toxic because they contain colchicine, a compound used in medicine to treat gout."
-    },
-    {
       "name": "Cosmos bipinnatus",
       "commonName": "Garden Cosmos",
-      "description": "An airy annual with daisy-like flowers on slender stems above feathery foliage. In mild climates such as the southern United States and Mexico, it continues blooming into late autumn until the first hard frost.",
-      "bloomingSeason": "Summer to late autumn; peak in warm regions through October and November",
-      "location": "Native to Mexico and Central America; naturalized across the Americas and in gardens worldwide",
+      "description": "Airy, daisy-like blooms float on feathery, thread-thin foliage. They sway in the autumn breeze and attract late-season pollinators. In mild-autumn gardens the flowers keep coming until the first hard frost.",
+      "bloomingSeason": "Summer through first frost; still flowering in frost-free autumn gardens",
+      "location": "Gardens in the southern United States and other mild-autumn regions of the Northern Hemisphere, native to Mexico",
       "colors": [
         "Pink",
         "White",
         "Magenta",
-        "Orange"
+        "Crimson"
       ],
-      "emoji": "🌺",
-      "funFact": "The name Cosmos comes from the Greek word for 'harmony' or 'ordered universe,' reflecting the symmetrical arrangement of its petals."
+      "emoji": "🌸",
+      "funFact": "Cosmos comes from a Greek word meaning 'order' or 'ornament'. Spanish missionaries in Mexico reportedly grew the plants in their mission gardens."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Trees covered in clouds of trumpet-shaped lavender-blue flowers. The blooms carpet streets and lawns in violet when they fall. Spring in the Southern Hemisphere brings this spectacle to cities such as Pretoria, Sydney and Buenos Aires.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere, roughly October to November",
+      "location": "Southern Hemisphere cities including Pretoria (South Africa), Sydney (Australia) and Buenos Aires (Argentina); native to South America",
+      "colors": [
+        "Lavender",
+        "Violet-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "Jacaranda is native to South America but is now planted worldwide. Pretoria is nicknamed the 'Jacaranda City' because of its tens of thousands of street trees."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Chrysanthemums are the classic flower of autumn. They form dense domes of layered petals in rich harvest colors. In Japan and across East Asia they are celebrated at autumn flower festivals and displays.",
+      "bloomingSeason": "Autumn, typically October to November in the Northern Hemisphere",
+      "location": "Gardens across East Asia, Europe and North America; cultivated for centuries in China and Japan",
+      "colors": [
+        "Gold",
+        "Bronze",
+        "Crimson",
+        "White",
+        "Purple"
+      ],
+      "emoji": "🏵️",
+      "funFact": "The chrysanthemum has been cultivated in China for more than 2,000 years. Japan's imperial family uses a stylized chrysanthemum as its crest."
     }
   ]
 }

@@ -2,60 +2,45 @@
   "date": "February 3",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and showy rose-like blooms. It thrives in mild, humid climates and is a classic winter-flowering garden plant, with thousands of cultivars in single, semi-double, and fully double forms.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and the Pacific Northwest",
-      "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Variegated"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant that produces tea, and its seeds are pressed to make camellia oil used in Japanese cooking and hair care."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the cold of late winter, often before the leaves appear. It is a symbol of perseverance and hope in East Asian culture and is highly valued in gardens and bonsai.",
-      "bloomingSeason": "Late January to March",
-      "location": "Native to southern China; cultivated across Japan, Korea, and China, with famous plum groves in Mito and Kyoto",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding, white bell-shaped flowers push up through frost, leaf litter and sometimes snow. Each bloom has three long outer petals and a smaller inner ring marked with a green notch. They carpet woodlands, churchyards and old gardens in drifts, and they are often the first sign that winter is loosening its grip.",
+      "bloomingSeason": "Typically January to February, and sometimes earlier in mild winters",
+      "location": "Woodlands and gardens across the United Kingdom",
       "colors": [
         "White",
-        "Pink",
-        "Deep red"
-      ],
-      "emoji": "🌸",
-      "funFact": "Ume blossoms bloom weeks before cherry blossoms, and the fruit is pickled to make umeboshi or steeped in liquor to make umeshu."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A hardy evergreen perennial with nodding, cup-shaped white flowers and bright yellow stamens. It blooms in cold weather and often pushes up through snow, bringing color to winter woodlands and gardens.",
-      "bloomingSeason": "Midwinter to early spring (December to March)",
-      "location": "Native to the mountainous woodlands of central and southern Europe; grown in temperate gardens worldwide",
-      "colors": [
-        "White",
-        "Pale pink"
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its name, the Christmas Rose is not a true rose but a member of the buttercup family, and all parts of the plant are toxic."
+      "funFact": "Snowdrops make natural antifreeze-like proteins that help their tissues cope with cold. Their compound galantamine has also been developed into a medicine used for early-stage Alzheimer's disease."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking shrub with the largest flower head in the Protea genus, up to 30 cm across, made of showy pink bracts surrounding a central cluster of tiny flowers. It is adapted to nutrient-poor, fire-prone fynbos habitats.",
-      "bloomingSeason": "Southern Hemisphere late summer (peak from late summer to early autumn, with blooms often continuing into February in some regions)",
-      "location": "Native to the southwestern and southern Cape of South Africa; it is the national flower of South Africa",
+      "name": "Prunus campanulata",
+      "commonName": "Taiwan Cherry (Okinawan Cherry, Kanhizakura)",
+      "description": "Drooping, bell-shaped flowers in deep rosy pink hang along bare branches and glow against green hillsides. They open weeks or months before the pale cherry blossoms of mainland Japan. Okinawa's blossom-viewing season starts while much of the country is still in winter.",
+      "bloomingSeason": "Mid-January to mid-February, with the peak from late January to early February",
+      "location": "Okinawa, southern Japan",
       "colors": [
-        "Pink",
-        "Cream",
-        "Silvery-white"
+        "Deep pink",
+        "Magenta",
+        "Rose"
       ],
-      "emoji": "🌼",
-      "funFact": "The King Protea is among the oldest flowering plants on Earth, and its thick underground lignotuber lets it resprout after wildfires."
+      "emoji": "🌸",
+      "funFact": "This cherry blooms in the opposite direction from most Japanese cherries. Okinawa's blossoms open first in the cooler northern hills and move south, so the bloom front travels from north to south."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "Agapanthus (African Lily, Lily of the Nile)",
+      "description": "Round clusters of funnel-shaped, sky-blue flowers sit on tall, sturdy stalks above arching, strap-like leaves. In the Southern Hemisphere summer they line driveways, coastal paths and sunny borders with waves of blue. They are a favorite with bees and with gardeners who want little fuss.",
+      "bloomingSeason": "Southern Hemisphere summer, mainly November to February",
+      "location": "Gardens and coastal areas of southern Australia and New Zealand, originally from South Africa",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "The name comes from the Greek words for love and flower. Despite the common name Lily of the Nile, the plant is native to South Africa and is not a true lily. Its flowers open on tall stalks that can reach about a meter."
     }
   ]
 }

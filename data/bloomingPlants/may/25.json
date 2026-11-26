@@ -2,70 +2,33 @@
   "date": "May 25",
   "plants": [
     {
+      "name": "Rhododendron catawbiense",
+      "commonName": "Catawba Rhododendron",
+      "description": "Rounded, evergreen shrubs cover high Appalachian ridges and balds with big clusters of rose-lavender, bell-shaped blooms. They sit against glossy, leathery leaves. In peak season whole hillsides look as if they have been washed in soft purple.",
+      "bloomingSeason": "Late May through June",
+      "location": "Higher slopes, ridges and balds of the southern Appalachian Mountains, eastern United States",
+      "colors": [
+        "rose-lavender",
+        "pink",
+        "purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Many of today's hardy garden rhododendrons descend from this native mountain species. Breeders prize it for its tolerance of cold winters."
+    },
+    {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with glossy, deeply lobed foliage. A classic cottage garden favorite that can live for decades with little care.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America and Europe",
+      "description": "Peonies have lush, fragrant, bowl-shaped flowers with silky petals, in single, semi-double or fully double forms. They sit atop sturdy stems and deep green, glossy foliage. Gardeners wait for them each year because the show is brief and generous.",
+      "bloomingSeason": "Mid to late spring, peaking around late May in temperate Northern Hemisphere gardens",
+      "location": "Native to Siberia, Tibet and China. Widely grown in temperate gardens across North America, Europe and Asia",
       "colors": [
-        "pink",
         "white",
+        "pink",
         "red",
         "magenta"
       ],
-      "emoji": "🌸",
-      "funFact": "Peonies often host ants on their buds, which feed on the sweet nectar the buds secrete. Contrary to myth, the ants are not needed for the flowers to open."
-    },
-    {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny shrub of hedgerows and woodland edges bearing delicate, five-petaled, lightly scented flowers, followed by bright red rose hips in autumn.",
-      "bloomingSeason": "Late spring to midsummer (May to July)",
-      "location": "Europe, northwest Africa, and western Asia; naturalized in North America, Australia, and New Zealand",
-      "colors": [
-        "pale pink",
-        "white"
-      ],
-      "emoji": "🌹",
-      "funFact": "Rose hips from the dog rose are extremely rich in vitamin C, and during World War II they were collected in Britain to make rose hip syrup when citrus fruit was scarce."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A medium to large tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers, often before the leaves fully emerge. It creates striking purple canopies and carpets of fallen blossoms along streets.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Mexico, Southern California, Florida, the Mediterranean, and Africa",
-      "colors": [
-        "lavender",
-        "violet",
-        "blue-purple"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacaranda trees, giving it the nickname Jacaranda City. In Mexico City, they bloom in spring, turning streets purple."
-    },
-    {
-      "name": "Sophora microphylla",
-      "commonName": "Kowhai",
-      "description": "A small, semi-deciduous New Zealand tree with delicate pinnate leaves and drooping clusters of tubular golden flowers that attract nectar-feeding birds such as tui and bellbirds. In the Southern Hemisphere it flowers in late winter to spring, but some forms bloom earlier in cooler areas.",
-      "bloomingSeason": "Late winter to spring (August to October) in the Southern Hemisphere; some early flowering in autumn and winter",
-      "location": "New Zealand, with cultivated forms in temperate gardens worldwide",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Kowhai is the Māori word for yellow, and the tree is one of New Zealand's national flowers. Its seeds can float in seawater for years and still germinate, helping it spread across the Southern Hemisphere."
-    },
-    {
-      "name": "Iris pseudacorus",
-      "commonName": "Yellow Flag Iris",
-      "description": "A robust, clump-forming aquatic perennial with tall sword-shaped leaves and bright yellow, intricately veined flowers that grow along pond margins, wet meadows, and river banks.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Native to Europe, western Asia, and North Africa; invasive in parts of North America, Australia, and New Zealand",
-      "colors": [
-        "bright yellow"
-      ],
-      "emoji": "💛",
-      "funFact": "The yellow flag iris is thought to be the inspiration for the fleur-de-lis emblem and can absorb heavy metals, making it useful for filtering pollutants in constructed wetlands."
+      "emoji": "🌺",
+      "funFact": "A peony can live and flower in the same spot for decades. The plant dies back to the ground each winter and regrows from underground buds every spring."
     }
   ]
 }

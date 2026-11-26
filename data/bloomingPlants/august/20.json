@@ -4,61 +4,43 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads made of yellow ray florets surrounding a dark central disc. Young flower heads track the sun's movement across the sky. Widely cultivated for seed, oil, and ornament, and also found growing wild in prairies and roadsides.",
-      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
-      "location": "North America (native), cultivated worldwide including Ukraine, Russia, Europe, and the United States",
+      "description": "Towering stalks carry huge golden faces that follow the sun across the sky. Fields of them glow like sunlit seas, and bees crowd the dark, seed-filled centers.",
+      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
+      "location": "Great Plains of North America and farmland across Europe, including France and Ukraine",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown"
       ],
       "emoji": "🌻",
-      "funFact": "The sunflower head is actually made up of hundreds to thousands of tiny individual flowers arranged in a spiral pattern following the Fibonacci sequence."
+      "funFact": "A sunflower head is not one flower. It is a cluster of hundreds or even thousands of tiny florets. Young buds track the sun from east to west each day."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie plant with drooping pinkish-purple petals around a spiky orange-brown central cone. It is a magnet for bees, butterflies, and goldfinches, and thrives in full sun and tolerates drought.",
-      "bloomingSeason": "Early summer to early fall (June to September)",
-      "location": "Eastern and central North America; widely grown in gardens in temperate regions worldwide",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scottish Ling)",
+      "description": "Moorlands turn into rolling carpets of purple as tiny bell-shaped blooms open across the hills. The honey-sweet scent hums with bees on warm late-summer afternoons.",
+      "bloomingSeason": "Late July to September or October",
+      "location": "Highland moors and heathlands of Scotland and northern England",
       "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "bronze"
-      ],
-      "emoji": "🌸",
-      "funFact": "The name Echinacea comes from the Greek word 'echinos' meaning hedgehog, referring to the spiny central cone. Native Americans used it medicinally for centuries."
-    },
-    {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and spikes of fragrant violet-blue flowers. In late summer, the later-blooming varieties are still in flower, while earlier fields are being harvested. It is prized for essential oils, culinary uses, and as a pollinator plant.",
-      "bloomingSeason": "Summer (June to August), with some cultivars lasting into early September",
-      "location": "Mediterranean region native; cultivated in Provence (France), England, Bulgaria, Tasmania, and the Pacific Northwest",
-      "colors": [
-        "lavender",
-        "purple",
-        "blue",
-        "white"
+        "Purple",
+        "Pink",
+        "Lavender"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash', as the Romans used it to scent their baths."
+      "funFact": "Heather honey is prized for its thick, jelly-like texture. Beekeepers sometimes carry their hives onto the moors in late summer to catch the bloom."
     },
     {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "A striking Australian shrub producing large, crimson, dome-shaped flower heads surrounded by showy red bracts. It blooms at the end of the southern winter and into early spring, when few other plants are flowering, making it important for nectar-feeding birds.",
-      "bloomingSeason": "Late winter to spring (August to November) in the Southern Hemisphere",
-      "location": "Southeastern Australia, particularly the sandstone ridges around Sydney and the Blue Mountains",
+      "name": "Liatris spicata",
+      "commonName": "Blazing Star (Gayfeather)",
+      "description": "Tall, feathery spires of fluffy purple flowers rise from grassy clumps. Unusually, the blooms open from the top of the spike downward. Monarch butterflies flock to them in late summer.",
+      "bloomingSeason": "July to September",
+      "location": "Prairies, meadows and moist grasslands of eastern and central North America",
       "colors": [
-        "crimson",
-        "red",
-        "pink"
+        "Purple",
+        "Magenta",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from the Aboriginal Eora people's word for the plant. Its flower head is actually a cluster of hundreds of small flowers."
+      "emoji": "🦋",
+      "funFact": "Most spiked flowers open from the bottom up. Blazing star reverses the order, which gives each spike a fuzzy, torch-like look."
     }
   ]
 }

@@ -4,60 +4,44 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A long-lived perennial producing large, fragrant, often double blooms atop sturdy stems with glossy, deeply lobed foliage. A classic cottage garden favorite and a symbol of prosperity in Chinese culture.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "description": "Enormous, fragrant, bowl-shaped blooms unfurl from plump round buds, with layers of silky petals that ripple like ruffled satin. Gardens fill with a sweet, rosy perfume, and the flowers often grow heavy enough to bow their stems.",
+      "bloomingSeason": "Late spring to early summer, peaking from mid-May to mid-June in temperate Northern Hemisphere gardens",
+      "location": "Temperate gardens of North America, Europe and East Asia, with native roots in northern China and Siberia",
       "colors": [
         "Pink",
         "White",
-        "Red",
-        "Magenta"
+        "Magenta",
+        "Coral"
       ],
       "emoji": "🌸",
-      "funFact": "Some peony plants can live and bloom for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
+      "funFact": "Peonies can live and bloom for more than 50 years in the same spot, and they have been cultivated in China for well over a thousand years."
     },
     {
-      "name": "Iris germanica",
-      "commonName": "Bearded Iris",
-      "description": "A rhizomatous perennial with sword-shaped gray-green leaves and showy flowers featuring three upright standards, three drooping falls, and a fuzzy 'beard' that guides pollinators.",
-      "bloomingSeason": "Late spring (May to early June in temperate Northern Hemisphere)",
-      "location": "Hybrid of Mediterranean origin; cultivated throughout Europe, North America, and temperate Asia",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest garden roses, it bears richly scented, semi-double flowers in deep crimson and pink, each with a golden heart of stamens. Its upright, thorny shrubs often form dense thickets that blaze with color.",
+      "bloomingSeason": "Late May through June, with a single main flush in late spring to early summer",
+      "location": "Central and southern Europe and western Asia, widely grown in gardens across the Northern Hemisphere",
       "colors": [
+        "Crimson",
+        "Deep pink",
         "Purple",
-        "Blue",
-        "Yellow",
-        "White",
-        "Bronze"
-      ],
-      "emoji": "🪻",
-      "funFact": "The iris is named after the Greek goddess of the rainbow, Iris, reflecting the enormous range of colors found in the genus. Its dried rhizomes, called orris root, are used in perfumery."
-    },
-    {
-      "name": "Rosa rugosa",
-      "commonName": "Rugosa Rose",
-      "description": "A tough, hardy shrub with wrinkled, dark green leaves, thorny stems, and fragrant single or double flowers, followed by large red-orange hips rich in vitamin C.",
-      "bloomingSeason": "Late spring through summer, with peak bloom in late May to June",
-      "location": "Native to coastal eastern Asia (Japan, Korea, northeastern China); naturalized on beaches and dunes in Europe and North America",
-      "colors": [
-        "Magenta",
-        "Pink",
-        "White"
+        "Gold"
       ],
       "emoji": "🌹",
-      "funFact": "Rugosa roses thrive in salty sea spray and sandy soil, and are so vigorous they are considered invasive along some European and North American coastlines."
+      "funFact": "Its petals keep their fragrance even when dried, so medieval apothecaries used it for perfumes, medicines and potpourri."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A graceful tree with fern-like foliage that erupts into clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they fall.",
-      "bloomingSeason": "Late spring in the Northern Hemisphere (May to June); in the Southern Hemisphere it blooms in October to November",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Mexico, California, Florida, the Mediterranean, and parts of Africa",
+      "name": "Camissonia cheiranthifolia",
+      "commonName": "Beach Evening Primrose",
+      "description": "A low, silvery mat of foliage hugs the coastal dunes, dotted with cheerful yellow blooms that open to catch the sea breeze. It is tough, salt-tolerant and perfectly suited to shifting sand.",
+      "bloomingSeason": "Spring through late summer, roughly April to August",
+      "location": "Coastal dunes and beaches of California and Oregon, USA, and Baja California, Mexico",
       "colors": [
-        "Lavender",
-        "Blue-violet"
+        "Yellow"
       ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, known as the 'Jacaranda City,' tens of thousands of trees bloom at once, and in Mexico City the bloom marks the start of the rainy season."
+      "emoji": "🌼",
+      "funFact": "Its silvery, hairy leaves reflect harsh sunlight and trap moisture, which helps it survive in salty, windswept sand."
     }
   ]
 }

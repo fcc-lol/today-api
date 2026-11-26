@@ -2,61 +2,49 @@
   "date": "May 11",
   "plants": [
     {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub producing dense, conical clusters of intensely fragrant, small four-lobed flowers. It is a staple of cottage gardens and old homesteads and attracts butterflies and bees.",
-      "bloomingSeason": "Mid to late spring (late April to early June in the Northern Hemisphere)",
-      "location": "Native to the Balkan Peninsula; widely cultivated across temperate North America, Europe, and northern Asia",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant chains of violet flowers hang from twisting vines. In Ashikaga's famous wisteria gardens they form glowing purple canopies that sway in the spring breeze. At night the blooms are lit up, and the whole scene looks like a waterfall of color.",
+      "bloomingSeason": "Mid-April to mid-May, with peak bloom in late April and early May",
+      "location": "Ashikaga, Tochigi Prefecture, Japan",
       "colors": [
-        "Lilac",
-        "Purple",
-        "White",
-        "Pink"
+        "violet",
+        "lavender",
+        "purple"
       ],
       "emoji": "💜",
-      "funFact": "Lilac was the first plant used as a symbol of the Garden Club of America in some regions, and its scent is so beloved that perfumers recreate it synthetically, since the flowers yield little natural essential oil."
+      "funFact": "Japanese wisteria twines clockwise, while Chinese wisteria twines counterclockwise. Vines can live for well over a century, and the largest ones in Japan cover areas bigger than a tennis court."
     },
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A long-lived herbaceous perennial with large, lush, often double and fragrant blooms above glossy, deeply divided foliage. Peonies are prized as cut flowers and garden showpieces.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to Siberia, Mongolia, and northern China; cultivated worldwide in temperate gardens",
+      "description": "Ruffled, generously petaled blooms the size of a saucer open from plump round buds. They give off a sweet, rosy perfume. The glossy green foliage stays attractive well after the flowers fade.",
+      "bloomingSeason": "Late spring, usually May into June in the Midwestern United States",
+      "location": "Gardens of St. Louis, Missouri, USA, and similar temperate regions",
       "colors": [
-        "Pink",
-        "White",
-        "Red",
-        "Coral"
+        "pink",
+        "white",
+        "crimson",
+        "blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies have been cultivated in China for over 1,500 years and some plants can live and bloom for more than 100 years. Ants on the buds are harmless and feed on the sugary nectar."
+      "funFact": "Peonies are famously long-lived. A well-sited plant can bloom for decades without being divided. Ants are often seen crawling over the buds, drawn by the sweet nectar on the bud surface."
     },
     {
-      "name": "Hyacinthoides non-scripta",
-      "commonName": "English Bluebell",
-      "description": "A bulbous woodland perennial that carpets forest floors with nodding, bell-shaped, sweetly scented violet-blue flowers all arching to one side of the stem.",
-      "bloomingSeason": "Mid-spring (late April to late May)",
-      "location": "Native to the Atlantic coast of Western Europe, especially ancient woodlands of the United Kingdom",
+      "name": "Lupinus polyphyllus",
+      "commonName": "Large-leaved Lupine",
+      "description": "Tall, candle-like spires are packed with pea-shaped flowers. They rise above rosettes of hand-shaped leaves. Bumblebees and hummingbirds visit the spikes, which brighten meadows and cottage borders in a range of colors.",
+      "bloomingSeason": "Late spring to early summer, May through June",
+      "location": "Temperate gardens and meadows in cool-climate zones (hardiness zones 4–8) of North America and Europe",
       "colors": [
-        "Violet-blue",
-        "White",
-        "Pink"
+        "purple",
+        "blue",
+        "pink",
+        "white",
+        "yellow"
       ],
-      "emoji": "🔔",
-      "funFact": "About half of the world's bluebells grow in the UK, and they are legally protected there; it is illegal to dig up wild bulbs for sale. Bluebell woods often take 5-7 years to establish from seed."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere's late autumn, some trees can still be seen flowering in warm northern parts, while the Northern Hemisphere's subtropical populations begin blooming in May.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted widely in Mexico, Southern California, Florida, the Mediterranean, and northern Africa",
-      "colors": [
-        "Lavender",
-        "Blue-purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City', and in parts of Australia a falling bloom on your head is said to bring good luck."
+      "emoji": "🪻",
+      "funFact": "Lupines belong to the pea family. Like their relatives, they host bacteria in their roots that turn nitrogen from the air into a form plants can use, so they enrich poor soil."
     }
   ]
 }

@@ -2,64 +2,45 @@
   "date": "November 1",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool autumn temperatures and is a staple of fall gardens and floral displays.",
-      "bloomingSeason": "Late summer to late autumn",
-      "location": "Cultivated worldwide in the Northern Hemisphere; native to East Asia",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the November birth flower and are honored in Japan with an annual festival and as the emblem of the Imperial family."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A tall, graceful tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. Its blooms carpet streets and gardens as spring advances in the Southern Hemisphere.",
-      "bloomingSeason": "Spring to early summer (October to December in the Southern Hemisphere)",
-      "location": "Australia, South Africa, Argentina, and Brazil; native to South America",
+      "description": "Rain-like clouds of lavender-blue trumpet flowers cover the bare branches of this tree. They carpet streets and pavements in violet as they fall.",
+      "bloomingSeason": "Late September to November",
+      "location": "Pretoria, South Africa (the 'Jacaranda City')",
       "colors": [
-        "lavender",
-        "purple",
-        "blue"
+        "Lavender",
+        "Violet-blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "Jacaranda is native to South America, but Pretoria now has tens of thousands of them, and its spring bloom is a city-wide event."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden cosmos",
+      "description": "Airy, daisy-like blooms on slender stems with feathery foliage sway above gardens and roadsides. The flowers are loved by pollinators and make long-lasting cut flowers.",
+      "bloomingSeason": "Summer through autumn (about June to November)",
+      "location": "Native to Mexico; widely grown in gardens and fields across Japan, where it is called 'akizakura' (autumn cherry blossom)",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta"
       ],
       "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas bloom each year, earning it the nickname 'Jacaranda City'."
+      "funFact": "In Japan, cosmos is called 'autumn cherry blossom' because its soft petals and mass plantings remind people of spring sakura."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that flowers in autumn, earlier than most camellias. It produces delicate, often fragrant single or semi-double blossoms against glossy dark green foliage, providing nectar to pollinators late in the season.",
-      "bloomingSeason": "Autumn to early winter",
-      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy evergreen shrub brings late-season color to autumn gardens with single or loose, semi-double blooms. The flowers are often lightly scented and have showy golden stamens.",
+      "bloomingSeason": "Autumn to early winter (October to November and beyond)",
+      "location": "Native to Japan; grown in temperate gardens in the Northern Hemisphere, including the UK",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "Pink",
+        "White",
+        "Rose-red"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to make camellia oil used in cooking and cosmetics."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall native North American wildflower with showy daisy-like flower heads that have purple rays around yellow centers. It brightens meadows and roadsides in late fall and is an important food source for migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to late autumn",
-      "location": "Eastern and central North America in meadows, prairies, and roadsides",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "yellow"
-      ],
-      "emoji": "💜",
-      "funFact": "New England Aster flower heads close up at night and on cloudy days, then reopen with the sun."
+      "funFact": "Sasanqua camellias flower earlier than the more familiar winter-blooming Camellia japonica, so they open while many other garden plants are fading."
     }
   ]
 }

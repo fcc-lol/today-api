@@ -2,63 +2,47 @@
   "date": "November 8",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool autumn temperatures and is among the last garden plants to flower before hard frost.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide, especially in East Asia, Europe, and North America",
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's chrysanthemum (kiku)",
+      "description": "Dense, many-petaled blooms in gold, white, crimson and bronze crowd Japanese temple gardens and festival halls. Growers train single plants into cascading domes or hundreds of flowers on one stem.",
+      "bloomingSeason": "Autumn, roughly September through November, with late-blooming varieties peaking in late autumn",
+      "location": "Japan (gardens and chrysanthemum festivals across Honshu)",
       "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red",
-        "pink"
+        "Yellow",
+        "White",
+        "Crimson",
+        "Bronze",
+        "Pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the national flower of Japan and the focus of the annual Chrysanthemum Festival. They bloom in response to shortening days, a trait called photoperiodism."
+      "emoji": "🏵️",
+      "funFact": "A 16-petaled golden chrysanthemum is the emblem of Japan's Imperial family, and the flower is celebrated at an annual festival."
     },
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A large, semi-deciduous tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In spring it carpets streets and parks with fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in Australia, South Africa, Argentina, and New Zealand",
+      "commonName": "Jacaranda",
+      "description": "Rows of trees turn whole suburbs lavender-blue, then carpet the pavements in fallen trumpet-shaped flowers. Each tree blooms in billowing clusters while the fern-like foliage is still sparse.",
+      "bloomingSeason": "Late spring, around October through November in the Southern Hemisphere",
+      "location": "Sydney and southeast Australia",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname 'Jacaranda City'. Students in Australia traditionally associate the bloom with exam season."
+      "emoji": "💜",
+      "funFact": "Sydney university students nicknamed jacarandas 'exam trees' because the blossoms appear just as final exams begin."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in autumn and early winter, earlier than the more familiar Camellia japonica. Its delicate, often fragrant flowers appear on glossy dark green foliage and attract late-season pollinators.",
-      "bloomingSeason": "Late autumn to early winter (October to December)",
-      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
+      "commonName": "Sasanqua camellia",
+      "description": "A glossy-leaved evergreen shrub that lights up the cooling autumn garden with delicate, open flowers. Its petals drop easily, scattering the ground with pink and white confetti.",
+      "bloomingSeason": "Autumn into early winter, commonly beginning in October or November and continuing through December or January",
+      "location": "Temperate gardens of Japan, the southeastern United States and mild-climate regions worldwide",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "White",
+        "Soft pink",
+        "Rose red"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis, and its seeds are pressed to make camellia oil, used in cooking and cosmetics in Japan."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily",
-      "description": "A bulbous perennial that produces sturdy stems topped with umbels of narrow, wavy-petaled pink flowers that sparkle in the light. It flowers after its leaves have mostly died back, giving a surprising splash of color in the late autumn garden.",
-      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
-      "location": "Native to South Africa's Eastern Cape and Drakensberg; naturalized and cultivated in the UK and Europe",
-      "colors": [
-        "pink",
-        "deep rose"
-      ],
-      "emoji": "🌺",
-      "funFact": "The petals have a shimmering, glittering surface, which is why related species are called 'Guernsey lilies' and 'diamond lilies'. They bloom best when bulbs are left crowded and baked in summer sun."
+      "funFact": "Sasanquas open months before the better-known spring camellias, giving gardens flowers when most plants are winding down."
     }
   ]
 }

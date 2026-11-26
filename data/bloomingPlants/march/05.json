@@ -3,58 +3,32 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before leaves emerge. Widely cultivated in East Asia for ornamental use and for its sour fruit, which is pickled or made into liqueur.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare branches break into clouds of fragrant blossoms. The flowers are small and almost papery, and they open while winter's chill still lingers. Their sweet, spicy scent drifts through orchards and temple gardens well before most other trees stir.",
+      "bloomingSeason": "Late January to March, peaking in late winter",
+      "location": "Japan, China and other parts of temperate East Asia, in orchards, parks and gardens",
       "colors": [
         "White",
-        "Pink",
-        "Deep red"
+        "Pale pink",
+        "Deep rose",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are traditionally celebrated in Japan before cherry blossoms, and in Chinese culture the plum is one of the 'Three Friends of Winter' for its resilience in cold weather."
+      "funFact": "Ume blossoms have long symbolized perseverance in East Asian culture, because they flower in the cold before spring has fully arrived. The same trees later produce the sour fruits used for umeboshi pickles and plum wine."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the ancestor of many cultivated daffodil varieties.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
+      "name": "Prunus campanulata",
+      "commonName": "Taiwan cherry (bell-flowered cherry)",
+      "description": "This small, graceful tree is covered in nodding, bell-shaped blooms of intense rose-red. The flowers hang in jewel-toned clusters. Unlike the pale blossoms of many cherries, they make a bold splash of color in the late-winter landscape.",
+      "bloomingSeason": "Early February to March",
+      "location": "Warm-climate gardens such as the southern United States, where it is grown as an early flowering cherry. It is native to Taiwan and southern East Asia.",
       "colors": [
-        "Yellow",
-        "Pale yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Daffodil bulbs contain lycorine and other alkaloids that make them toxic, which is why rodents and deer usually leave them alone. Galantamine, a compound from related plants, is used in Alzheimer's medication."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A large tree from the Himalayas that bears huge, goblet-shaped flowers on bare branches in late winter. The blooms can reach 25 cm across and make a dramatic display in mild-climate gardens.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Eastern Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild gardens in the UK, New Zealand, and the US Pacific Northwest",
-      "colors": [
-        "Pink",
-        "Rose",
-        "White"
+        "Rose-red",
+        "Deep pink",
+        "Magenta"
       ],
       "emoji": "🌺",
-      "funFact": "A Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, and magnolias belong to one of the oldest flowering plant lineages, predating bees."
-    },
-    {
-      "name": "Amaryllis belladonna",
-      "commonName": "Belladonna Lily (Naked Lady)",
-      "description": "A bulbous perennial from South Africa that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped pink flowers. Leaves appear after flowering finishes, which gives it the name 'naked lady'.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere (February to April)",
-      "location": "Western Cape, South Africa; naturalized in Australia, California, and the Mediterranean",
-      "colors": [
-        "Pink",
-        "Rose",
-        "White"
-      ],
-      "emoji": "🌷",
-      "funFact": "Its flower stalks emerge suddenly after summer heat or rain, and it is the only species in the genus Amaryllis. The large red 'amaryllis' sold at Christmas is actually a Hippeastrum."
+      "funFact": "Its flowers hang downward like little bells, which gives the species its name. Its blooms appear much earlier than those of most flowering cherries, so it often opens in the warmth of late winter."
     }
   ]
 }

@@ -2,75 +2,63 @@
   "date": "October 1",
   "plants": [
     {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic, bowl-shaped flower head up to 30 cm across. Its crown of silky pink bracts surrounds a center of soft, fuzzy florets. It looks part artichoke and part sunburst, and it stands out against the leathery green foliage of the shrub.",
+      "bloomingSeason": "Mainly winter through spring (June to October), so it is in bloom on October 1",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. It belongs to a very old plant family that dates back to the supercontinent Gondwana, and it has evolved to survive the periodic wildfires of its fynbos home."
+    },
+    {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in early autumn, long after its leaves have died back in summer. The leaves reappear the following spring. All parts are highly toxic.",
-      "bloomingSeason": "Late summer to mid-autumn (September to October)",
-      "location": "Native to Europe and cultivated in temperate gardens worldwide, especially damp meadows and woodland edges in the Northern Hemisphere",
+      "description": "Goblet-shaped lilac-pink blooms rise from the bare ground with no leaves. They look like crocuses but are larger, and they light up damp meadows just as autumn begins.",
+      "bloomingSeason": "Late summer to autumn (August to October), so it is in bloom on October 1",
+      "location": "Meadows and woodland edges across Europe, including Britain and Central Europe",
       "colors": [
-        "Pale pink",
         "Lilac",
-        "Purple"
+        "Pink",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout, and it is also used by plant breeders to induce chromosome doubling. It is not related to true crocus or saffron."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust perennial wildflower with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in meadows, prairies, and roadsides, and is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern and central North America, from Canada to the southern United States; widely grown in cottage and pollinator gardens",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Yellow center"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies rely on New England asters as a key nectar source to fuel their long southward migration to Mexico each autumn."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers just before or as new leaves emerge. It creates striking purple carpets when blossoms drop.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina, and New Zealand's northern regions",
-      "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🌸",
-      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because tens of thousands of these trees line its streets, turning the city purple every October."
+      "funFact": "Autumn crocus is often called 'naked ladies' because the flowers appear without leaves. The foliage emerges the following spring. The plant is highly toxic, but it is also the source of colchicine, a compound used in medicine and in plant breeding."
     },
     {
       "name": "Cosmos bipinnatus",
       "commonName": "Garden Cosmos",
-      "description": "An airy annual with feathery foliage and daisy-like flowers on tall slender stems. It blooms profusely until the first frost and is easy to grow from seed in full sun and poor soil.",
-      "bloomingSeason": "Summer to first frost (June to October)",
-      "location": "Native to Mexico and Central America; naturalized and cultivated across North America, Europe, and Asia",
+      "description": "Airy, daisy-like flowers float on slender stems above feathery, finely cut foliage. They sway in the breeze and attract bees and butterflies late into the season.",
+      "bloomingSeason": "Early summer until the first frost, so it is still blooming on October 1 in mild-autumn regions",
+      "location": "Native to Mexico and the southern United States; widely grown in gardens across the Northern Hemisphere",
       "colors": [
         "Pink",
         "White",
         "Magenta",
-        "Crimson"
+        "Yellow center"
       ],
-      "emoji": "🌼",
-      "funFact": "Cosmos comes from the Greek word kosmos, meaning order or harmony, a name given by Spanish priests who grew them in mission gardens in Mexico."
+      "emoji": "🌸",
+      "funFact": "The name 'cosmos' comes from a Greek word meaning 'order' or 'harmony,' a reference to the neat symmetry of the petals. The plants flower best in lean soil, and rich soil gives you leaves instead of blooms."
     },
     {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent of apricot and peach. It is a beloved ornamental in Chinese gardens and blooms in autumn.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Native to Asia, including China, Japan, and the Himalayas; grown in warm temperate gardens including the southeastern United States",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "A tall, bushy wildflower that becomes a mass of violet-purple daisies with bright golden centers. It is a bright spot in autumn fields, roadsides and prairies.",
+      "bloomingSeason": "Late summer through autumn (August to October), so it is in bloom on October 1",
+      "location": "Meadows, prairies and roadsides of eastern and central North America",
       "colors": [
-        "White",
-        "Pale yellow",
-        "Orange"
+        "Purple",
+        "Violet",
+        "Pink",
+        "Golden yellow center"
       ],
-      "emoji": "🌼",
-      "funFact": "In China, osmanthus blossoms are used to flavor teas, cakes, wine, and jams, and the Mid-Autumn Festival is traditionally celebrated with osmanthus cake and osmanthus wine."
+      "emoji": "💜",
+      "funFact": "Late-season blooms make this aster a key fuel stop for migrating monarch butterflies. They stock up on its nectar before their long journey south to Mexico."
     }
   ]
 }

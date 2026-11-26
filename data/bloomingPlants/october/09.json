@@ -2,60 +2,46 @@
   "date": "October 9",
   "plants": [
     {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of ripe apricots and peaches. Widely cultivated in gardens and temple grounds across East Asia.",
-      "bloomingSeason": "Autumn (September to October in the Northern Hemisphere)",
-      "location": "Native to China and Japan; cultivated in East Asia, the southern United States, and Mediterranean climates",
-      "colors": [
-        "Cream",
-        "Pale yellow",
-        "Orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Osmanthus blossoms are used to flavor teas, cakes, jams, and liqueurs, and the Mid-Autumn Festival in China is traditionally associated with its fragrance."
-    },
-    {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped flowers in autumn without any leaves present, which emerge the following spring. Often found in damp meadows and woodland edges.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe, from the British Isles to central Europe; widely naturalized in gardens elsewhere",
+      "description": "Pale lilac-pink goblets rise straight from bare soil, with no leaves in sight. They carpet damp meadows and woodland edges just as autumn begins to turn.",
+      "bloomingSeason": "Late summer to mid-autumn (roughly September to October)",
+      "location": "Meadows and open woodland across Western and Central Europe, including the UK, France and Germany",
       "colors": [
-        "Pale lilac",
+        "Lilac",
         "Pink",
-        "Purple"
+        "Pale Purple"
       ],
-      "emoji": "🌸",
-      "funFact": "It is nicknamed 'naked ladies' because the flowers appear without foliage, and it is the source of colchicine, a compound used in medicine and plant breeding but highly toxic."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular tropical and subtropical tree that blankets itself in trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Streets and parks turn purple during its peak bloom.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
-      "colors": [
-        "Lavender",
-        "Violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City,' and fallen blossoms create purple carpets on the streets."
+      "emoji": "🌷",
+      "funFact": "Despite its name, this is not a true crocus. It is a member of the lily family, and every part of it contains colchicine, a toxic compound. Plant breeders use colchicine to double the chromosomes of other plants."
     },
     {
       "name": "Symphyotrichum novae-angliae",
       "commonName": "New England Aster",
-      "description": "A tall, robust native perennial wildflower with daisy-like flower heads featuring golden centers. It provides vital late-season nectar for pollinators, especially migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern and central North America, in meadows, prairies, and roadsides",
+      "description": "Dense clusters of daisy-like flowers with golden centers light up prairies, roadsides and gardens. They arrive just as most other wildflowers are fading, and they draw in late-season butterflies.",
+      "bloomingSeason": "Late summer through autumn (August to October)",
+      "location": "Eastern and central North America, from New England to the Great Plains",
       "colors": [
-        "Purple",
         "Violet",
+        "Purple",
         "Pink",
-        "Yellow center"
+        "Yellow"
       ],
-      "emoji": "🦋",
-      "funFact": "Monarch butterflies rely heavily on New England asters as a nectar source during their autumn migration to Mexico."
+      "emoji": "💜",
+      "funFact": "Monarch butterflies stop to feed on its nectar during their autumn migration to Mexico. Its flower heads also close up at night and on cloudy days."
+    },
+    {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Whole streets turn lavender-blue when this tree flowers. Trumpet-shaped blooms cover the branches and then drop to form a purple carpet underfoot.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
+      "location": "Cities in the Southern Hemisphere, such as Pretoria in South Africa, Sydney and Brisbane in Australia, and Buenos Aires in Argentina",
+      "colors": [
+        "Lavender",
+        "Violet-Blue"
+      ],
+      "emoji": "🌳",
+      "funFact": "The tree comes from South America, but Pretoria is nicknamed the Jacaranda City because of its tens of thousands of them. Their bloom is a local sign of spring."
     }
   ]
 }

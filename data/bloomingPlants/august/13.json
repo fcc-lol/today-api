@@ -4,59 +4,56 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of bright yellow ray florets surrounding a dark central disc. The heads track the sun when young, and the plant is grown worldwide for seed, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, Argentina, and China",
+      "description": "Towering stalks crowned with huge golden-rayed flower heads that sweep across fields and roadsides, turning their faces toward the summer sun and humming with bees.",
+      "bloomingSeason": "July through September",
+      "location": "North American prairies and plains, such as South Dakota, and gardens across the Northern Hemisphere",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Deep chocolate"
       ],
       "emoji": "🌻",
-      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual flowers arranged in a Fibonacci spiral pattern."
-    },
-    {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soil and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Late June to August in the Northern Hemisphere, with peak harvest in July and early August",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the US",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', since Romans scented their baths with it."
+      "funFact": "A sunflower head is really hundreds of tiny flowers packed together. Each one becomes a seed, and the spiral patterns they form follow Fibonacci numbers."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with drooping pinkish-purple petals around a prominent spiky, orange-brown central cone. It is popular in pollinator gardens and tolerates heat and drought well.",
-      "bloomingSeason": "Midsummer to early fall (June to September)",
-      "location": "Native to central and eastern North America; widely grown in temperate gardens worldwide",
+      "description": "Daisy-like blooms with drooping rose-purple petals around a spiky, copper-orange central cone. They are a favorite of butterflies and goldfinches in the high-summer prairie.",
+      "bloomingSeason": "June through September",
+      "location": "Eastern and central North American prairies and gardens",
       "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "bronze"
+        "Rose-purple",
+        "Pink",
+        "Copper-orange"
       ],
       "emoji": "🌸",
-      "funFact": "The name Echinacea comes from the Greek 'echinos' meaning hedgehog, referring to the spiky central cone, and goldfinches love to eat its seeds in late summer."
+      "funFact": "The spiky central cone gives the genus its name, from the Greek word for hedgehog. Goldfinches often feed on the seeds in late summer."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers on tall stalks. The leaves have a self-cleaning, water-repellent surface.",
-      "bloomingSeason": "Summer (June to September) in the Northern Hemisphere, peaking in July and August",
-      "location": "Native to Asia and Australia; cultivated in ponds across India, China, Japan, Vietnam, and the southern United States",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower is a giant, artichoke-like bloom ringed with pink, silky-tipped bracts. It is the largest of all the proteas and lights up the fynbos in the cool months.",
+      "bloomingSeason": "Mainly winter and spring, June to October",
+      "location": "Fynbos of the Western Cape, South Africa, including Kirstenbosch gardens",
       "colors": [
-        "pink",
-        "white",
-        "pale yellow"
+        "Pink",
+        "Cream",
+        "Rose-red"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for centuries; seeds around 1,300 years old have been successfully germinated, and the flower is sacred in Hinduism and Buddhism."
+      "emoji": "🌺",
+      "funFact": "Proteas belong to one of the oldest flowering plant families on Earth, and the genus is named for the shape-shifting Greek god Proteus."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Branches are smothered in fragrant, fluffy golden pom-pom flowers that brighten the late-winter Australian bush and draw in birds and bees.",
+      "bloomingSeason": "Late winter to early spring, typically August and September",
+      "location": "Southeastern Australia",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem, and Wattle Day is celebrated every year on 1 September."
     }
   ]
 }

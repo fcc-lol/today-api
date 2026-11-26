@@ -3,59 +3,58 @@
   "plants": [
     {
       "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, making it one of the earliest signs of the end of winter in temperate Europe and in gardens elsewhere.",
-      "bloomingSeason": "Late winter to early spring (January to March in the Northern Hemisphere)",
-      "location": "Native to Europe and Southwest Asia; widely naturalized in woodlands and gardens in the UK, Europe and North America",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding, bell-shaped white flowers with delicate green-tipped inner petals push up through frost and leaf litter. They carpet woodlands, churchyards and old gardens in drifts of snowy white, often the first sign that winter is loosening its grip.",
+      "bloomingSeason": "January to February, sometimes starting as early as December",
+      "location": "United Kingdom and temperate Europe, in woodlands and gardens",
       "colors": [
-        "White",
-        "Green"
+        "white",
+        "green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce a natural antifreeze-like protein, and the compound galantamine, first isolated from related plants, is used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrops make a natural antifreeze-like protein and heat-generating tissue that lets them melt their way through snow. Their bulbs are also the original source of galantamine, a compound used in medicine."
     },
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that bears fragrant flowers on bare branches in the coldest part of winter. Its blossoms are prized in East Asian art, poetry and gardens as symbols of perseverance and hope.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to southern China; cultivated across Japan, Korea, China and in gardens worldwide, including warm temperate regions of the US",
+      "description": "This small tree covers bare branches with fragrant blossoms while snow can still lie on the ground. The scent is sweet and spicy, and the flowers have long been celebrated in poetry and painting across East Asia as a symbol of endurance and the coming spring.",
+      "bloomingSeason": "Early January to February",
+      "location": "Japan and the Yangtze River region of China",
       "colors": [
-        "White",
-        "Pink",
-        "Red"
+        "white",
+        "pink",
+        "deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms bloom before cherry blossoms, and in Japan their appearance signals the approach of spring, with ume festivals held in February."
+      "funFact": "Ume blooms weeks before cherry blossoms. The fruit is pickled into umeboshi and steeped into umeshu, a sweet plum liqueur."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A large deciduous shrub with spidery, ribbon-like, strongly scented flowers that appear on leafless branches in winter. The flowers curl up in freezing weather to protect themselves and unfurl again when it warms.",
-      "bloomingSeason": "Winter (December to February)",
-      "location": "Native to central and eastern China; grown in temperate gardens in Europe, North America and Japan",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "A glossy evergreen shrub that lights up the late-winter garden with large, rose-like blooms. Its flowers, often double and up to five inches across, show off bold blushes of pink, red and white against dark, polished leaves.",
+      "bloomingSeason": "Late winter to early spring (February to April)",
+      "location": "Temperate gardens in East Asia, where it is native, and the southeastern United States",
       "colors": [
-        "Yellow",
-        "Gold",
-        "Orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers can survive being frozen, as their petals roll up tightly in the cold and then reopen when temperatures rise."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A dramatic evergreen shrub with the largest flower head in the Proteaceae family, up to 30 cm across, made of a central cone of tiny flowers surrounded by showy pink bracts. It thrives in the fynbos vegetation of South Africa.",
-      "bloomingSeason": "Flowers mainly in late winter to spring in South Africa, with sporadic blooms in summer; the Southern Hemisphere summer to autumn period can also see flowers",
-      "location": "Fynbos of the Western and Eastern Cape, South Africa; cultivated in Australia, Hawaii and California",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Silver",
-        "Red"
+        "red",
+        "pink",
+        "white"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and its ancient lineage dates back more than 300 million years, with a genus name taken from the Greek god Proteus, who could change shape."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Thousands of cultivars have been bred over centuries, with flower shapes ranging from simple singles to formal doubles."
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Tall, sturdy stems rise from strappy green leaves and carry large globes of trumpet-shaped flowers in vivid blue and violet. In the height of summer they bring cool color to sunny borders and coastal slopes.",
+      "bloomingSeason": "Mid to late summer (December to February)",
+      "location": "Southern Hemisphere summer gardens, including Australia, and its native South Africa",
+      "colors": [
+        "blue",
+        "purple",
+        "white"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite the name, it is not a true lily. Its name comes from the Greek words for love and flower, and it is a popular and hardy garden plant in warm climates."
     }
   ]
 }

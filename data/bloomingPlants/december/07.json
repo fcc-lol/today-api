@@ -2,64 +2,50 @@
   "date": "December 7",
   "plants": [
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub with showy colored bracts surrounding small yellow flower clusters called cyathia. In its native range and in warm climates it flowers in short winter days, and it is widely grown as a potted holiday plant elsewhere.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to Mexico and Central America; cultivated worldwide, grown outdoors in frost-free regions such as Southern California, Hawaii, and Mediterranean coasts",
-      "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream"
-      ],
-      "emoji": "🌺",
-      "funFact": "The colorful 'petals' are actually modified leaves called bracts, and the plant needs about 12 hours of uninterrupted darkness nightly for several weeks to color up."
-    },
-    {
       "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus (Christmas Cactus)",
-      "description": "An epiphytic cactus with flattened, segmented stems and arching, zygomorphic flowers at the tips. In its native Brazilian habitat it grows on tree branches and rocks in cool, humid mountain forests.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to the Organ Mountains of southeastern Brazil; popular as a houseplant worldwide",
+      "commonName": "Christmas Cactus",
+      "description": "Arching, jointed green stems drip with satiny, asymmetrical blossoms in shades of pink, magenta and white. Each bloom hangs like a little lantern from the tips of the branches. It gives a burst of tropical colour just as winter sets in.",
+      "bloomingSeason": "Late autumn through winter, beginning around Thanksgiving in North America (late November) and continuing into the new year",
+      "location": "Native to the coastal mountains of southeastern Brazil, and widely grown as a houseplant in North America and Europe",
       "colors": [
-        "magenta",
-        "pink",
-        "red",
-        "orange",
-        "white",
-        "yellow"
+        "Pink",
+        "Magenta",
+        "White",
+        "Red"
       ],
-      "emoji": "🌸",
-      "funFact": "Flowering is triggered by short days and cool nights, and the plant can live for decades, with some specimens passed down through generations."
+      "emoji": "🌵",
+      "funFact": "Christmas cacti are not desert plants. In the wild they grow as epiphytes, perching on tree branches in misty Brazilian forests. Shortening autumn days trigger their buds."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark leaves and delicate, often fragrant single or semi-double flowers. It blooms earlier than the common camellia, brightening gardens as most other plants go dormant.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to southern Japan; widely grown in the southeastern United States, Europe, and Australia's temperate regions",
+      "description": "This glossy-leaved evergreen shrub flowers when most gardens are fading. Its delicately scented blooms, with 6–8 petals and a boss of golden stamens, open in white, pale pink or rich rose and scatter petals like confetti beneath the branches. Bees and other pollinators visit on mild winter days.",
+      "bloomingSeason": "Autumn to early winter (roughly October through December or later, depending on climate)",
+      "location": "Native to southern Japan and the Ryukyu Islands, and grown in mild-winter gardens across Asia, Europe, Australia and the southern United States",
       "colors": [
-        "white",
-        "pale pink",
-        "deep pink",
-        "rose-red"
+        "White",
+        "Pale pink",
+        "Rose pink",
+        "Red"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to produce a camellia oil used in cooking and hair care in Japan."
+      "emoji": "🌸",
+      "funFact": "The leaves of its close relative, Camellia sinensis, are used to make tea. Sasanqua seeds are pressed to make camellia oil, which has long been used in Japan for cooking and hair care."
     },
     {
-      "name": "Nuytsia floribunda",
-      "commonName": "Western Australian Christmas Tree",
-      "description": "A large hemiparasitic tree that produces dense masses of bright orange flowers. Its roots tap into the roots of neighboring plants, including grasses and shrubs, to draw water and nutrients.",
-      "bloomingSeason": "Late spring to midsummer in the Southern Hemisphere (November to January), peaking around December",
-      "location": "Southwestern Western Australia, in sandy soils of woodlands and heathlands",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "The brilliant red 'petals' are actually colourful leaves, called bracts, that surround clusters of tiny golden-yellow flowers. In warm climates it grows into a rangy shrub several metres tall, lighting up winter landscapes. Cultivated varieties also come in pink, cream, orange and speckled forms.",
+      "bloomingSeason": "Late autumn to winter, with the main show in November and December",
+      "location": "Native to southern Mexico and Central America, now grown in frost-free gardens and as a potted holiday plant worldwide",
       "colors": [
-        "orange",
-        "golden-yellow"
+        "Red",
+        "Pink",
+        "White",
+        "Orange",
+        "Yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "It is the world's largest mistletoe, and it is known to attack underground cables by mistaking them for roots, sometimes causing power outages."
+      "emoji": "🎄",
+      "funFact": "What looks like a single flower is really a cluster of tiny cup-shaped structures called cyathia. The showy colour comes from the bracts around them. The plant is named for Joel Roberts Poinsett, the first U.S. ambassador to Mexico, who introduced it to the United States in the 1820s."
     }
   ]
 }

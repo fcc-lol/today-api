@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1564,
-      "title": "Birth of Galileo Galilei",
-      "description": "Galileo Galilei was born in Pisa, in the Duchy of Florence. He became an astronomer, physicist, and engineer who made pioneering telescopic observations of the Moon, the phases of Venus, and the moons of Jupiter.",
+      "title": "Galileo Galilei is born in Pisa",
+      "description": "The future astronomer, physicist and mathematician was born in Pisa, in what is now Italy. He grew up to challenge long-held ideas about the heavens and the laws of motion.",
       "category": "Birth",
-      "significance": "Often called the father of observational astronomy and modern physics, Galileo helped establish the scientific method and challenged geocentric views of the universe, leading to his famous conflict with the Catholic Church."
+      "significance": "Galileo's telescope observations and experiments helped lay the groundwork for modern science. He is often called the father of observational astronomy."
+    },
+    {
+      "year": 1879,
+      "title": "Women win the right to argue before the U.S. Supreme Court",
+      "description": "President Rutherford B. Hayes signed a bill allowing women attorneys to practice before the nation's highest court.",
+      "category": "Milestone",
+      "significance": "The law opened a door that had been closed to women lawyers. It was an important step toward gender equality in the American legal profession."
     },
     {
       "year": 1898,
-      "title": "Sinking of the USS Maine in Havana Harbor",
-      "description": "The American battleship USS Maine exploded and sank in Havana Harbor, Cuba, killing about 260 crew members. The ship had been sent to protect American interests during the Cuban struggle for independence from Spain.",
-      "category": "Military",
-      "significance": "The incident inflamed American public opinion, fueled by sensational 'yellow journalism' and the rallying cry 'Remember the Maine!', and helped precipitate the Spanish-American War later that year."
+      "title": "USS Maine explodes in Havana Harbor",
+      "description": "The American battleship USS Maine blew up and sank in the harbor at Havana, Cuba. More than 260 crew members were killed.",
+      "category": "Disaster",
+      "significance": "The sinking inflamed public opinion in the United States. It became a major catalyst for the Spanish-American War later that year."
+    },
+    {
+      "year": 1933,
+      "title": "Assassination attempt on President-elect Franklin D. Roosevelt",
+      "description": "In Miami, Giuseppe Zangara fired at President-elect Roosevelt but hit Chicago Mayor Anton Cermak instead. Cermak died of his wounds on March 6.",
+      "category": "Crime",
+      "significance": "Roosevelt was unharmed and took office weeks later to lead the country through the Great Depression. The attack led to greater attention to the security of presidents-elect."
     },
     {
       "year": 1942,
-      "title": "Fall of Singapore",
-      "description": "British forces under Lieutenant-General Arthur Percival surrendered Singapore to the Imperial Japanese Army led by General Tomoyuki Yamashita. About 80,000 British, Indian, and Australian troops became prisoners of war.",
+      "title": "Singapore falls to Japanese forces",
+      "description": "British General Arthur Percival surrendered Singapore to Japan after a rapid assault. About 80,000 Indian, British and Australian troops became prisoners.",
       "category": "Military",
-      "significance": "Winston Churchill called it the worst disaster and largest capitulation in British military history. It marked the collapse of British power in Southeast Asia and the start of a brutal Japanese occupation."
-    },
-    {
-      "year": 1989,
-      "title": "Soviet Union Completes Withdrawal from Afghanistan",
-      "description": "The last Soviet troops crossed the Friendship Bridge out of Afghanistan, ending nearly a decade of military intervention that began in December 1979.",
-      "category": "Politics",
-      "significance": "The withdrawal marked a major defeat for the Soviet Union, contributed to its economic and political decline, and left Afghanistan in continued civil war, setting the stage for the rise of the Taliban."
-    },
-    {
-      "year": 1965,
-      "title": "Canada Adopts the Maple Leaf Flag",
-      "description": "The new red-and-white maple leaf flag of Canada was inaugurated at a ceremony on Parliament Hill in Ottawa, replacing the Canadian Red Ensign as the national flag.",
-      "category": "Politics",
-      "significance": "The flag became a lasting symbol of Canadian national identity and independence, following a lengthy national debate during Lester B. Pearson's government."
+      "significance": "It was one of the worst defeats in British military history. It shattered the image of British power in Asia during World War II."
     }
   ]
 }

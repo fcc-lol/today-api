@@ -2,39 +2,39 @@
   "date": "January 18",
   "events": [
     {
+      "year": 1486,
+      "title": "Henry VII Marries Elizabeth of York",
+      "description": "King Henry VII of England married Elizabeth of York, the daughter of Edward IV. The wedding joined the rival houses of Lancaster and York.",
+      "category": "Royalty and politics",
+      "significance": "The marriage helped end the Wars of the Roses and established the Tudor dynasty, which ruled England for more than a century."
+    },
+    {
+      "year": 1778,
+      "title": "Captain Cook Reaches Hawaii",
+      "description": "English navigator James Cook became the first known European to reach the Hawaiian Islands. He named them the Sandwich Islands.",
+      "category": "Exploration",
+      "significance": "The encounter opened lasting contact between Hawaii and the outside world, with profound consequences for the islands and their people."
+    },
+    {
       "year": 1871,
-      "title": "Proclamation of the German Empire",
-      "description": "In the Hall of Mirrors at the Palace of Versailles, Wilhelm I of Prussia was proclaimed German Emperor, formally unifying the German states under Prussian leadership during the Franco-Prussian War.",
+      "title": "German Empire Proclaimed at Versailles",
+      "description": "Wilhelm I of Prussia was proclaimed German Emperor, unifying the German states under Prussian leadership.",
       "category": "Politics",
-      "significance": "Created the unified German nation-state, reshaping the European balance of power and setting the stage for developments leading to World War I."
+      "significance": "The new German Empire reshaped the balance of power in Europe and set the stage for the tensions that led to the 20th century's world wars."
+    },
+    {
+      "year": 1882,
+      "title": "Birth of A. A. Milne",
+      "description": "Alan Alexander Milne, the English writer who created Winnie-the-Pooh, was born in London.",
+      "category": "Birth / Literature",
+      "significance": "Milne's gentle stories of Pooh and his friends became some of the most beloved children's books in the world."
     },
     {
       "year": 1919,
       "title": "Paris Peace Conference Opens",
-      "description": "Delegates from the victorious Allied powers convened in Paris to negotiate the peace settlements ending World War I, a process that produced the Treaty of Versailles.",
-      "category": "Diplomacy",
-      "significance": "Redrew the map of Europe and the Middle East, created the League of Nations, and imposed terms on Germany that influenced the interwar period."
-    },
-    {
-      "year": 1778,
-      "title": "James Cook Sights the Hawaiian Islands",
-      "description": "British explorer Captain James Cook became the first recorded European to encounter the Hawaiian Islands, sighting Oahu and later landing on Kauai, and he named them the Sandwich Islands.",
-      "category": "Exploration",
-      "significance": "Opened Hawaii to sustained contact with the Western world, with profound consequences for Native Hawaiian society, trade, and Pacific geopolitics."
-    },
-    {
-      "year": 1689,
-      "title": "Birth of Montesquieu",
-      "description": "Charles-Louis de Secondat, Baron de Montesquieu, the French political philosopher, was born near Bordeaux. He later authored The Spirit of the Laws, advocating separation of powers.",
-      "category": "Births",
-      "significance": "His ideas on the separation of governmental powers strongly influenced modern constitutional democracies, including the United States Constitution."
-    },
-    {
-      "year": 1912,
-      "title": "Scott's Expedition Reaches the South Pole",
-      "description": "British explorer Robert Falcon Scott and his four companions reached the South Pole, only to find that Roald Amundsen's Norwegian team had arrived about a month earlier. All five died on the return journey.",
-      "category": "Exploration",
-      "significance": "The expedition became a defining story of heroism and tragedy in polar exploration and highlighted the dangers and competitive spirit of the Heroic Age of Antarctic exploration."
+      "description": "Delegates from the victorious Allied powers gathered in France to begin settling the terms of peace after World War I.",
+      "category": "War and diplomacy",
+      "significance": "The conference produced the Treaty of Versailles and the League of Nations, shaping international relations between the wars."
     }
   ]
 }

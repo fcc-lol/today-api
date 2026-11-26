@@ -2,63 +2,44 @@
   "date": "October 26",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A long-cultivated perennial with dense, layered pompon, daisy, or spider-form blooms on sturdy stems with deeply lobed, aromatic leaves. It is a short-day plant, so flowering is triggered by lengthening nights, making it a hallmark of autumn gardens in the Northern Hemisphere.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated across East Asia, Europe, and North America; native to China",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the national emblem of Japan, where the Imperial throne is called the Chrysanthemum Throne."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A graceful semi-deciduous tree with fern-like leaves that erupts into clouds of trumpet-shaped lavender-blue flowers. When the blossoms fall, they carpet streets and lawns in purple.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
+      "description": "Whole streets in Pretoria turn lavender-purple as clouds of trumpet-shaped blossoms open. The fallen flowers carpet pavements and cars in violet. The tree is a spring spectacle in the Southern Hemisphere.",
+      "bloomingSeason": "Late September through October, with blossoms often lingering into November",
+      "location": "Pretoria (Tshwane), South Africa",
       "colors": [
-        "lavender",
-        "purple",
-        "blue"
+        "Lavender",
+        "Violet",
+        "Purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Jacarandas come from South America, but Pretoria has so many that it is nicknamed the Jacaranda City. Locals joke that a flower landing on your head brings good luck."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy evergreen shrub opens delicate, often lightly scented blooms just as other gardens are fading. Its single or semi-double flowers have bright golden stamens at the center. They light up autumn borders and hedges.",
+      "bloomingSeason": "Begins in October and peaks in November, with some cultivars flowering into December or later",
+      "location": "Southeastern United States, where the Lowcountry gardens of South Carolina start their display in late October",
+      "colors": [
+        "Pink",
+        "White",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacaranda trees, earning it the nickname 'Jacaranda City'. In Australia, it is a tradition that flowering jacarandas signal that university exams are near."
+      "funFact": "Sasanqua camellias are native to Japan. They are the early-season camellias, opening weeks before their showier cousin Camellia japonica."
     },
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up pale pink-lilac, goblet-shaped flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by early summer.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Damp meadows and woodlands of Europe, from Britain to the Balkans",
+      "name": "Sternbergia lutea",
+      "commonName": "Autumn daffodil (winter daffodil, lily-of-the-field)",
+      "description": "Glossy golden goblets rise straight from bare ground, looking like crocuses dipped in sunshine. They appear with the first autumn rains, before the leaves have fully grown. They bring a burst of yellow to dry Mediterranean hillsides and rock gardens.",
+      "bloomingSeason": "September to October, occasionally into November",
+      "location": "Mediterranean region, including Greece, Turkey and the Levant",
       "colors": [
-        "pale pink",
-        "lilac",
-        "white"
+        "Golden yellow"
       ],
-      "emoji": "🌷",
-      "funFact": "Despite its name, it is not a true crocus. It contains colchicine, a toxic alkaloid, which is used in medicine to treat gout and in plant breeding to induce chromosome doubling."
-    },
-    {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "An airy annual with feathery foliage and daisy-like flowers on tall, slender stems. In warm regions such as the southern United States and Mexico, it keeps blooming into late autumn until the first frost.",
-      "bloomingSeason": "Summer through autumn (June to November)",
-      "location": "Native to Mexico; naturalized and cultivated in North America, Europe, and Asia",
-      "colors": [
-        "pink",
-        "magenta",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌺",
-      "funFact": "Its name comes from the Greek 'kosmos', meaning ordered or harmonious universe, referring to the symmetrical arrangement of its petals. Cosmos plants are also edible and attract butterflies and pollinators."
+      "emoji": "🌼",
+      "funFact": "Despite the name, this bulb is not a true crocus or a daffodil. It belongs to the amaryllis family and is often linked to the 'lily of the field' mentioned in ancient texts."
     }
   ]
 }

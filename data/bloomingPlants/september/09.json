@@ -2,56 +2,58 @@
   "date": "September 9",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark central disc. The heads track the sun when young. Widely grown as an ornamental and as a crop for seeds and oil.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "Native to North America; cultivated worldwide in temperate regions including the US, Ukraine, Russia, and Argentina",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A showpiece of the fynbos. Each flower head is a bowl of silky, pointed bracts, ringed around a center of fuzzy, pale florets. The heads can grow as wide as a dinner plate. They sit on tough, leathery-leaved shrubs on the slopes of the Cape.",
+      "bloomingSeason": "Mainly winter and spring, June to October, so it is in full flower in early September.",
+      "location": "Western and Southern Cape, South Africa (for example, the fynbos of Table Mountain and Kirstenbosch)",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
+        "Pink",
+        "Cream",
+        "Silvery white",
+        "Crimson"
       ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is actually made of hundreds to thousands of tiny individual flowers arranged in a spiral pattern following the Fibonacci sequence."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower that produces dense, arching plumes of tiny golden flower heads. It forms large colonies in meadows, roadsides, and open fields, and is an important late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects. The real culprit is usually ragweed, which blooms at the same time."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial whose crocus-like flowers appear in autumn without any leaves. The foliage emerges the following spring and dies back by early summer. All parts are highly toxic.",
-      "bloomingSeason": "Late summer to autumn (September to October)",
-      "location": "Meadows and damp grasslands of Europe, from the UK to central Europe; grown in gardens worldwide",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "It is nicknamed 'naked ladies' because the flowers bloom without leaves. It is the natural source of colchicine, a compound used in medicine to treat gout and in plant breeding."
+      "emoji": "🌺",
+      "funFact": "It is South Africa's national flower. The plant has evolved to survive regular wildfires. It resprouts from an underground woody base after the fire passes."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. It blooms at the end of the southern winter and into spring, brightening the Australian bush.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "description": "Late winter brings a haze of golden color to the Australian bush. Branches are covered in fluffy, sweetly scented pompom flowers. Silvery-green, sickle-shaped leaves lie beneath them. Native bees and birds crowd the trees.",
+      "bloomingSeason": "Late winter to early spring, typically August to September, which makes it a fitting plant for early September in the southern hemisphere.",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌿",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated every September 1, the first day of spring."
+      "emoji": "🌼",
+      "funFact": "It is Australia's floral emblem. National Wattle Day is held on 1 September to mark the start of spring."
+    },
+    {
+      "name": "Rudbeckia hirta",
+      "commonName": "Black-eyed Susan",
+      "description": "A cheerful daisy-like flower with golden-yellow rays around a dark, domed brown center. It lights up meadows, roadsides and garden borders. Bees and butterflies visit it until the first frosts.",
+      "bloomingSeason": "Late spring through early autumn, roughly May to September and often into October, so it is still blooming on September 9.",
+      "location": "Native to central and eastern North America, and widely grown in gardens across the continent",
+      "colors": [
+        "Golden yellow",
+        "Dark brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "This plant is a biennial or short-lived perennial. It readily self-seeds, so a few plants can grow into a large drift of blooms within a few years."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped flowers rise straight from bare soil. They appear without any leaves, which gives them a ghostly look in late-summer meadows and borders. The leaves emerge the following spring.",
+      "bloomingSeason": "Late summer into autumn, roughly August to October, so it is in bloom in early September.",
+      "location": "Meadows and gardens across Europe and temperate regions; native range extends from Europe into Asia Minor and the Caucasus",
+      "colors": [
+        "Pink",
+        "Lilac",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Despite its name, it is not a true crocus. All parts of the plant are highly toxic. It contains colchicine, a compound that gardeners and plant breeders also use to alter plant chromosomes."
     }
   ]
 }

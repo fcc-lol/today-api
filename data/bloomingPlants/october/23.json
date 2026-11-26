@@ -2,64 +2,46 @@
   "date": "October 23",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered flower heads in many forms, including pompon, spider, and decorative types. It thrives in the shortening days of fall and is widely grown in gardens and as cut flowers.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia, especially China and Japan",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Airy, daisy-like blooms float on feathery, thread-fine foliage. They sway in the autumn breeze and draw bees and butterflies to sunny borders and meadow plantings.",
+      "bloomingSeason": "Late spring to first frost; in mild autumn regions it often continues into late October",
+      "location": "Gardens in the southern and central United States, Mexico (native range), and mild temperate regions of the Northern Hemisphere",
       "colors": [
-        "Yellow",
-        "Bronze",
+        "Pink",
         "White",
-        "Purple",
-        "Red",
-        "Pink"
+        "Magenta",
+        "Crimson"
       ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants, meaning they set buds when nights grow longer. The flower is the national flower of Japan's Imperial seal tradition and is celebrated at the annual Festival of Happiness."
+      "emoji": "🌸",
+      "funFact": "Cosmos comes from the Greek word for order or harmony. Spanish priests in Mexico are said to have grown the plants in mission gardens."
     },
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A spectacular subtropical tree that becomes covered in clouds of trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Entire streets turn purple when it blooms, and the fallen flowers carpet the ground.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), Argentina, and New Zealand's northern regions",
+      "description": "In full bloom, the tree becomes a cloud of lavender-blue trumpets. The flowers carpet streets and lawns in violet when they fall, and the display makes spring in the southern hemisphere unmistakable.",
+      "bloomingSeason": "Mid-spring, roughly October to November in the Southern Hemisphere",
+      "location": "Sydney and Brisbane in Australia, Pretoria in South Africa, and Buenos Aires in Argentina",
       "colors": [
         "Lavender",
-        "Violet-blue"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, and a local superstition in Australia says that if a jacaranda flower falls on your head, you'll pass your exams."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust North American wildflower with clusters of daisy-like flowers with yellow centers. It is one of the last major nectar sources for migrating monarch butterflies and other pollinators late in the season.",
-      "bloomingSeason": "Late summer to late autumn (August to October, lingering into early November in mild areas)",
-      "location": "Eastern and central North America in meadows, roadsides, and wet prairies",
-      "colors": [
-        "Purple",
         "Violet",
-        "Pink",
-        "Yellow center"
+        "Blue-purple"
       ],
-      "emoji": "🦋",
-      "funFact": "The flower heads close at night and on cloudy days, and the plant's late bloom makes it a critical fuel stop for monarch butterflies on their migration to Mexico."
+      "emoji": "💜",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because tens of thousands of these trees line its streets. Local lore says a fallen blossom landing on your head brings good luck."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub producing the largest flower head in the Protea genus, with a bowl of pointed pink bracts surrounding a central cluster of tiny flowers. It thrives in nutrient-poor, fire-prone fynbos habitats.",
-      "bloomingSeason": "Late winter to early summer in the Southern Hemisphere, with peak flowering in spring (September to November)",
-      "location": "Southwestern and southern coastal regions of South Africa, including the Cape Floral Region",
+      "name": "Nerine bowdenii",
+      "commonName": "Guernsey Lily",
+      "description": "When most borders are fading, this bulb sends up bare stems topped with sparkling, ribbon-petaled pink flowers. The petals shimmer as though dusted with glitter.",
+      "bloomingSeason": "Autumn, typically September to November",
+      "location": "Native to South Africa's Eastern Cape and Drakensberg region. Widely grown in gardens in the UK and temperate Europe.",
       "colors": [
         "Pink",
-        "Cream",
-        "Silvery-white",
-        "Crimson"
+        "Rose"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and the genus is named after the Greek god Proteus, who could change shape, reflecting the great diversity of protea forms."
+      "funFact": "The flowers appear before the strap-like leaves, and the plant blooms best when its bulbs are crowded and baked by summer sun."
     }
   ]
 }

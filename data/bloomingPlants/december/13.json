@@ -4,60 +4,45 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with showy colored bracts surrounding small yellow true flowers. In its native range it can grow to several meters tall, and it is widely grown as a potted plant and in frost-free gardens during the holiday season.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Native to Mexico and Central America; cultivated worldwide, especially in warm climates and as an indoor plant",
+      "description": "Tall shrubs in the wild, crowned with fiery bracts that look like petals. The true flowers are the tiny yellow-green clusters at the center. In its native range, whole hillsides glow scarlet as the year closes.",
+      "bloomingSeason": "Late autumn to winter (roughly November through February)",
+      "location": "Southern Mexico, including the hills of Guerrero and Oaxaca, its native range",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream"
+        "Red",
+        "Cream",
+        "Pink",
+        "Yellow-green"
       ],
       "emoji": "🌺",
-      "funFact": "The colorful 'petals' are actually modified leaves called bracts, and the plant needs long nights of about 12 hours of darkness to color up."
+      "funFact": "The colorful parts are modified leaves called bracts. They change color in response to the long nights of late autumn. The Aztecs called the plant cuetlaxochitl and used it to make dye."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and fragrant, delicate single or semi-double flowers. It blooms earlier than the common camellia and is popular for hedges and espaliers in mild climates.",
-      "bloomingSeason": "Late autumn to mid-winter",
-      "location": "Native to southern Japan; widely grown in the southeastern United States, southern Europe, Australia, and New Zealand",
+      "name": "Schlumbergera truncata",
+      "commonName": "Christmas Cactus",
+      "description": "A tropical cactus with arching, segmented stems. It drips with bright, asymmetrical flowers in late autumn and winter. In gardens and homes across the Northern Hemisphere it brings color to the darkest weeks of the year.",
+      "bloomingSeason": "Late autumn to winter (November through January in the Northern Hemisphere)",
+      "location": "Native to the coastal mountains of southeastern Brazil, and widely grown indoors in the Northern Hemisphere",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "Magenta",
+        "Pink",
+        "Red",
+        "Orange",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Oil pressed from its seeds is used in Japan for cooking and hair care, and it is related to the tea plant, Camellia sinensis."
+      "funFact": "This cactus grows on trees in Brazilian forests rather than in deserts. Long nights and cool temperatures trigger its buds."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flame Tree)",
-      "description": "A broad, umbrella-shaped tree with fern-like leaves that erupts in clusters of large, vivid flowers. In the Southern Hemisphere summer it creates spectacular scarlet canopies along streets and in parks.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere (November to January)",
-      "location": "Native to Madagascar; cultivated in tropical and subtropical regions including Australia, South Africa, Brazil, and the Caribbean",
+      "name": "Callistemon citrinus",
+      "commonName": "Crimson Bottlebrush",
+      "description": "An Australian shrub whose flower spikes look like bright red bottle brushes. The spikes are made of long, showy stamens and are covered in nectar. They draw honeyeaters and lorikeets, which feed noisily in the branches in the warm southern summer.",
+      "bloomingSeason": "Spring through summer in the Southern Hemisphere, with a strong flush from October to January",
+      "location": "Eastern Australia, including New South Wales and Queensland, where it grows along streams and in gardens",
       "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
+        "Crimson red"
       ],
-      "emoji": "🌳",
-      "funFact": "Despite being one of the most celebrated ornamental trees in the tropics, it is endangered in its native Madagascar."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped flowers with golden stamens. It flowers in the cold of winter, often poking through snow.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; cultivated in shaded gardens across temperate regions",
-      "colors": [
-        "white",
-        "pale pink",
-        "green-tinged"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, it is not a rose at all but a member of the buttercup family, and all parts of the plant are poisonous."
+      "emoji": "🌿",
+      "funFact": "The woody seed capsules can stay on the branch for years. They often release their seeds only after a fire or when the branch dies."
     }
   ]
 }

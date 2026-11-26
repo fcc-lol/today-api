@@ -2,63 +2,46 @@
   "date": "November 5",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompons, spiders, and decorative types. It thrives in cool autumn temperatures and is a staple of fall gardens and floral displays.",
-      "bloomingSeason": "Mid-autumn to early winter in the Northern Hemisphere",
-      "location": "Cultivated worldwide; native to East Asia, with major cultivation in China, Japan, and Europe",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red",
-        "pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the national flower of Japan, and the annual Chrysanthemum Festival there celebrates the flower's importance, with the Imperial seal featuring a stylized 16-petal chrysanthemum."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A large, graceful tree that bursts into clouds of trumpet-shaped lavender-blue flowers just before the leaves emerge. In full bloom, the tree and the carpet of fallen petals beneath it create a striking sight along streets and in parks.",
-      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney, Brisbane), Argentina, and Brazil",
+      "commonName": "Jacaranda",
+      "description": "Bare, graceful branches disappear under clouds of trumpet-shaped, lavender-blue blossoms. Streets and parks across the city turn violet, and the fallen flowers carpet the pavement beneath the trees.",
+      "bloomingSeason": "Late October through November, with peak bloom in early November across much of Australia",
+      "location": "Eastern Australia, including Brisbane and Sydney's streets and parks",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lavender",
+        "Violet-blue"
       ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because it has tens of thousands of jacaranda trees, and local folklore says a flower falling on your head brings good luck."
+      "emoji": "💜",
+      "funFact": "Jacarandas are native to South America, not Australia. They flower on nearly leafless branches, which is why a whole avenue reads as one solid block of colour."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in autumn, earlier than its relative Camellia japonica. It produces delicate, slightly fragrant single or semi-double flowers with prominent golden stamens, and it attracts late-season pollinators such as bees.",
-      "bloomingSeason": "Autumn to early winter",
-      "location": "Native to Japan; grown in the southeastern United States, Europe, Japan, and temperate regions of Australia",
+      "commonName": "Sasanqua camellia",
+      "description": "This is the early act of the camellia world. Glossy evergreen shrubs open delicate, often lightly scented single or semi-double blooms with golden stamens, brightening the cooler days of autumn.",
+      "bloomingSeason": "Autumn into early winter, commonly starting in October or November and continuing through December or January",
+      "location": "Temperate gardens of Japan, the southeastern United States and other mild-climate regions of the Northern Hemisphere",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Sasanqua camellia petals fall individually, whereas many Camellia japonica flowers drop whole, and the species is related to the tea plant, Camellia sinensis."
+      "funFact": "Camellia sasanqua is a close relative of the tea plant. Its seeds are pressed for camellia oil, a traditional hair and skin treatment in Japan."
     },
     {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily",
-      "description": "A bulbous perennial from South Africa that sends up leafless stalks topped with spidery, sparkling pink flowers with wavy petals. It brings a vivid splash of color to gardens when most other perennials are fading.",
-      "bloomingSeason": "Autumn, typically October to November in the Northern Hemisphere",
-      "location": "Native to the Eastern Cape and Drakensberg region of South Africa; naturalized in gardens in the UK, Europe, and the Pacific Northwest",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's chrysanthemum (kiku)",
+      "description": "Dense, many-petalled blooms in rich autumn shades fill Japan's gardens, temples and seasonal exhibitions. Growers train them into elaborate displays, from single giant flowers to sculpted cascades.",
+      "bloomingSeason": "September through November, with late varieties peaking in autumn",
+      "location": "Japan, in gardens, shrines and autumn chrysanthemum shows",
       "colors": [
-        "pink",
-        "deep rose"
+        "Yellow",
+        "White",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "🌺",
-      "funFact": "The petals have a crystalline, glittering surface that sparkles in sunlight, which is why related Nerine species are often called 'Guernsey lilies' or 'diamond lilies.'"
+      "emoji": "🏵️",
+      "funFact": "The chrysanthemum is Japan's imperial flower. Its sixteen-petal design appears on the emperor's seal and on the country's passports."
     }
   ]
 }

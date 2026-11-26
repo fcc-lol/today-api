@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "Pi Day",
-      "description": "Math lovers worldwide celebrate the irrational number 3.14159... by eating pie, reciting digits of pi, and holding pi-themed contests. The date works because March 14 is written 3/14 in the American style.",
-      "origin": "Physicist Larry Shaw organized the first Pi Day celebration in 1988 at the San Francisco Exploratorium, where staff and visitors marched around a circular space and then ate fruit pies. The U.S. House of Representatives officially recognized the day in 2009.",
-      "category": "Math and Science / Food",
+      "description": "Math nerds everywhere celebrate the endlessly nonrepeating number 3.14159... by eating pie, reciting digits of pi, and making circle-themed puns. The date works because March 14 is 3/14, matching the first three digits of pi.",
+      "origin": "Physicist Larry Shaw organized the first Pi Day in 1988 at the San Francisco Exploratorium. Staff and visitors marched in a circle and ate fruit pies. The U.S. House of Representatives made it an official observance in 2009. UNESCO later proclaimed March 14 the International Day of Mathematics.",
+      "category": "Math & Science",
       "emoji": "🥧",
-      "funFact": "Pi Day is also Albert Einstein's birthday (1879), and Stephen Hawking died on Pi Day in 2018. Some celebrate at 1:59 p.m. to match the next digits, 3.14159."
+      "funFact": "The first Pi Day included a march around a circular space in the Exploratorium. Pi Day also falls on Albert Einstein's birthday, March 14, 1879."
     },
     {
       "name": "National Potato Chip Day",
-      "description": "A salty, crunchy tribute to one of the world's favorite snacks. Fans are encouraged to crunch a bag of chips, try a bold new flavor, or dip them in something questionable.",
-      "origin": "The day honors the potato chip, traditionally credited to chef George Crum in Saratoga Springs, New York, in 1853. Legend says he sliced potatoes extra thin to spite a customer who kept sending back his fries for being too thick. The snack-food industry and fans keep the observance going.",
-      "category": "Food",
+      "description": "A salute to the crispy, salty snack that has launched a million bags and ruined a million diets. Crunch into your favorite flavor, from classic salted to something wild like dill pickle.",
+      "origin": "This is an unofficial food observance. Its origin is unclear, but it is celebrated each year on March 14 by snack lovers.",
+      "category": "Food & Drink",
       "emoji": "🥔",
-      "funFact": "The customer loved the thin, crispy potatoes, and the 'Saratoga Chips' became a hit. Some historians say the Crum story is more legend than fact, and that similar recipes existed earlier."
+      "funFact": "A popular legend credits chef George Crum with inventing the potato chip in 1853 in Saratoga Springs, New York. He supposedly sliced potatoes paper-thin to annoy a customer who kept sending his fries back. The story is widely repeated, but food historians doubt it, since chip-like recipes appeared in print earlier."
     },
     {
       "name": "Learn About Butterflies Day",
-      "description": "A day for butterfly nerds and curious people to learn about these delicate pollinators, from their dramatic metamorphosis to their migration marathons.",
-      "origin": "This is an unofficial awareness observance, promoted by nature and conservation groups, that coincides with the start of spring when butterflies begin to emerge in many regions.",
-      "category": "Nature / Awareness",
+      "description": "A day to flutter into the world of butterflies. You can learn how they transform from caterpillars, plant nectar flowers for them, or just spot a few as spring begins.",
+      "origin": "This is an unofficial observance of unclear origin. It is timed to the arrival of spring, when butterflies begin to emerge.",
+      "category": "Nature & Animals",
       "emoji": "🦋",
-      "funFact": "Butterflies taste with their feet. They have sensors on their legs that let them know whether a leaf is good to eat or lay eggs on, just by landing on it."
-    },
-    {
-      "name": "Save a Spider Day",
-      "description": "A day dedicated to sparing eight-legged houseguests. Instead of reaching for a shoe, people are encouraged to gently carry spiders outdoors with a cup and a piece of paper.",
-      "origin": "An informal awareness day that encourages people to see spiders as helpful pest controllers rather than creepy invaders. It spread through nature blogs and social media.",
-      "category": "Animal Awareness",
-      "emoji": "🕷️",
-      "funFact": "Spiders eat an estimated 400 to 800 million tons of insects every year, which is more than the total weight of all humans on the planet's yearly meat and fish consumption, according to one study."
-    },
-    {
-      "name": "White Day",
-      "description": "A holiday in Japan, South Korea, and other parts of East Asia where men give gifts to those who gave them chocolates on Valentine's Day, traditionally returning double or triple the value.",
-      "origin": "Started in Japan in the late 1970s, when a confectionery industry group promoted a reply day to Valentine's Day. The first marshmallow-themed campaign in 1978 gave the day its name, and white chocolate, white lingerie, and other white gifts became popular.",
-      "category": "Cultural / Romance",
-      "emoji": "🍬",
-      "funFact": "There is a 'triple return' rule of thumb, called sanbai gaeshi, meaning gifts should be worth about three times what was received. Some Japanese retailers have even called it an economic stimulus."
+      "funFact": "Butterflies taste with their feet. Sensors on their legs let them sample a leaf as soon as they land on it."
     }
   ]
 }

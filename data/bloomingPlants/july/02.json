@@ -4,58 +4,45 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with slender silvery-gray foliage and dense spikes of small tubular flowers. Widely cultivated in gardens and commercial fields for essential oils, and highly attractive to bees and butterflies.",
-      "bloomingSeason": "Late June to August in the Northern Hemisphere",
-      "location": "Provence in France, southern England, Bulgaria, and temperate gardens across North America",
+      "description": "Silvery-green mounds erupt into slender spikes of fragrant violet-blue blossoms. Fields hum with bees and the air turns sweetly herbal. In Provence the rolling rows look like purple ripples across the countryside.",
+      "bloomingSeason": "Late June to August in the Northern Hemisphere, usually peaking in early to mid July",
+      "location": "Provence, France, and other Mediterranean-climate regions of Europe",
       "colors": [
-        "Purple",
+        "Violet",
         "Lavender",
-        "Blue-violet"
+        "Blue-purple"
       ],
       "emoji": "💜",
-      "funFact": "Despite its name, English lavender is native to the western Mediterranean; Romans used it in bathing water, and the name comes from the Latin 'lavare', meaning to wash."
+      "funFact": "Lavender belongs to the mint family. Its name likely comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and showy, many-petaled flowers on tall stalks. The leaves have a super-hydrophobic surface that causes water to bead and roll off.",
-      "bloomingSeason": "Early summer through late summer (June to September) in the Northern Hemisphere",
-      "location": "Shallow ponds and wetlands across India, China, Japan, Southeast Asia, and the Volga Delta in Russia; also grown in water gardens worldwide",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "Big, rounded clusters of flowers weigh down the stems like pom-poms. They glow in shades that shift from sky blue to rosy pink. They are a classic feature of summer gardens and of coastal hedgerows.",
+      "bloomingSeason": "Early summer through late summer, with blooms commonly in full display in early July",
+      "location": "Gardens in the eastern United States, the British Isles and Japan",
       "colors": [
+        "Blue",
         "Pink",
+        "Purple",
         "White"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for centuries; seeds around 1,300 years old recovered from an ancient lake bed in China were successfully germinated."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy prairie perennial with daisy-like flowers featuring drooping rosy-purple petals around a spiky orange-brown central cone. It thrives in full sun, tolerates drought, and attracts pollinators and finches in autumn.",
-      "bloomingSeason": "Early summer to early autumn (June to September)",
-      "location": "Native to central and eastern North American prairies and open woodlands; widely cultivated in temperate gardens",
-      "colors": [
-        "Purple",
-        "Pink",
-        "Orange",
-        "Bronze"
-      ],
-      "emoji": "🌸",
-      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone. Native Americans used it medicinally for centuries."
+      "emoji": "💠",
+      "funFact": "Soil chemistry sets the color. Acidic soil with available aluminum yields blue blooms, while neutral to alkaline soil yields pink ones."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A woody evergreen shrub producing the largest flower head of the protea family, with a central cluster of tiny flowers surrounded by showy colored bracts. It is adapted to nutrient-poor soils and periodic fires in fynbos habitat.",
-      "bloomingSeason": "Southern Hemisphere late autumn to spring, with peak flowering from about May to September and flowers seen in the winter during early July",
-      "location": "Fynbos shrublands of the Western and Eastern Cape, South Africa",
+      "description": "The largest bloom of the protea family looks like a crown of silky, pointed bracts around a fuzzy center. In the cool, damp South African winter these dramatic flowers brighten the fynbos hillsides.",
+      "bloomingSeason": "Peak flowering is from late autumn to spring in the Southern Hemisphere, with some blooms from winter into early spring, so July is a time of flowering",
+      "location": "Western Cape fynbos, South Africa",
       "colors": [
         "Pink",
         "Cream",
-        "Silvery-white"
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea is South Africa's national flower, and the genus is named after Proteus, the Greek sea god who could change his shape, reflecting the family's great diversity."
+      "funFact": "King Protea is South Africa's national flower. It has survived for millions of years in a fire-prone landscape, and its thick underground stems help it resprout after wildfires."
     }
   ]
 }

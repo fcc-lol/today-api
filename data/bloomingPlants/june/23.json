@@ -2,59 +2,33 @@
   "date": "June 23",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of fragrant flowers. It is widely cultivated in gardens and in large fields for its essential oil, and it attracts bees and butterflies in great numbers.",
-      "bloomingSeason": "Late spring to late summer, peaking in late June and July",
-      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, and the northern United States",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which is the origin of its name from the Latin 'lavare' meaning 'to wash'."
-    },
-    {
-      "name": "Tilia cordata",
-      "commonName": "Small-leaved Linden",
-      "description": "A large deciduous tree with heart-shaped leaves that produces clusters of small, intensely fragrant, creamy-yellow flowers hanging from a distinctive leafy bract. The blossoms fill the air with a honey-like scent and are a major nectar source for bees.",
-      "bloomingSeason": "Mid-June to July",
-      "location": "Europe and western Asia, commonly planted along streets and in parks across the Northern Hemisphere",
-      "colors": [
-        "pale yellow",
-        "cream"
-      ],
-      "emoji": "🌳",
-      "funFact": "Linden blossom is dried to make a calming herbal tea, and linden honey is among the most prized varieties in Europe."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "A aquatic perennial with large round floating leaves and showy, star-shaped white flowers that open in the morning and close in the afternoon. It grows in still or slow-moving freshwater lakes and ponds.",
-      "bloomingSeason": "June to September",
-      "location": "Lakes and ponds across Europe, North Africa, and parts of western Asia",
-      "colors": [
-        "white",
-        "yellow"
-      ],
-      "emoji": "🪷",
-      "funFact": "The flower stalks of water lilies lengthen or shorten to keep the blossoms at the water surface, even as water levels change, and the seeds ripen underwater after the flower stalk coils down."
-    },
-    {
       "name": "Hydrangea macrophylla",
       "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy flowers. Blossoms may be pink, blue, or purple depending on soil conditions, and the plant thrives in partial shade with moist soil.",
-      "bloomingSeason": "Early summer to early autumn, beginning in June in temperate regions",
-      "location": "Native to Japan; widely grown in gardens in Europe, North America, Australia, and New Zealand",
+      "description": "Great rounded globes of tiny blossoms swell along the roadsides, temple paths and hillside gardens of Japan. Each head glows in shades that shift with the soil's chemistry. The flowers look especially dreamy against the soft grey skies and drizzle of the rainy season.",
+      "bloomingSeason": "Early June to early July, during Japan's rainy season (tsuyu)",
+      "location": "Japan, across most regions of the country",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
       ],
       "emoji": "💠",
-      "funFact": "Soil acidity determines flower color: acidic soil with available aluminum yields blue blooms, while neutral to alkaline soil produces pink ones."
+      "funFact": "Soil chemistry can change the colour of many hydrangeas. Acidic soil that makes aluminium available to the plant tends to give blue blooms, while more neutral to alkaline soil pushes them toward pink."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "Silvery, needle-leaved mounds send up slender spikes of violet-blue flowers. The blooms hum with bees and release a sweet, herbal fragrance on warm summer afternoons. It is a cottage-garden favourite and thrives in sunny borders and rock gardens.",
+      "bloomingSeason": "Early to mid-summer, so it is in flower around June 23 in the Northern Hemisphere",
+      "location": "Temperate gardens of the Northern Hemisphere, including Europe and North America (hardy in USDA zones 5–9)",
+      "colors": [
+        "Lavender",
+        "Violet",
+        "Purple-blue"
+      ],
+      "emoji": "💜",
+      "funFact": "English lavender is among the hardiest lavenders. It copes with cold winters far better than many of its Mediterranean relatives, which is why it grows so widely in cooler climates."
     }
   ]
 }

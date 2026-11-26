@@ -2,44 +2,28 @@
   "date": "June 15",
   "holidays": [
     {
+      "name": "National Kiss a Wookiee Day",
+      "description": "Star Wars fans honor Chewbacca by giving a (hopefully willing) hug or kiss to their favorite walking carpet. Fans celebrate with marathons, Wookiee roars, and fuzzy costumes.",
+      "origin": "This is an unofficial fan-created observance rooted in Star Wars fandom. It is a playful nod to Princess Leia's famous parting line to Chewbacca.",
+      "category": "Pop Culture",
+      "emoji": "🐻",
+      "funFact": "Chewbacca's famous roar was built from recordings of real animals, including a bear named Tarra, mixed with other animal sounds by sound designer Ben Burtt."
+    },
+    {
+      "name": "National Megalodon Day",
+      "description": "A day to celebrate the biggest shark that ever lived, a prehistoric predator with teeth as big as a human hand. Fans of sharks, fossils and monster movies get to geek out.",
+      "origin": "This is an unofficial observance of unclear origin. It celebrates Otodus megalodon, the giant shark that swam the oceans millions of years ago.",
+      "category": "Science & Nature",
+      "emoji": "🦈",
+      "funFact": "Megalodon is estimated to have reached roughly 50 to 60 feet long, and its fossilized teeth can top 7 inches. Scientists still debate its exact size because only teeth and a few vertebrae have been found."
+    },
+    {
       "name": "National Lobster Day",
-      "description": "A day dedicated to the spiny, claw-snapping crustacean beloved by butter enthusiasts everywhere. Seafood shacks and fancy restaurants alike celebrate with lobster rolls, bisque, and tails dunked in drawn butter.",
-      "origin": "An unofficial food holiday popular with the seafood industry and fans, especially in Maine and the Canadian Maritimes, where lobster fishing is a way of life.",
-      "category": "Food Day",
+      "description": "A day to crack open a buttery lobster tail, roll a lobster roll, or just admire the red-shelled crustacean. It is a favorite among seafood lovers and New England summer fans.",
+      "origin": "This is an unofficial food observance that celebrates lobster, particularly the Maine lobster tied to the New England coast.",
+      "category": "Food",
       "emoji": "🦞",
-      "funFact": "Lobsters were once considered poverty food in colonial New England, served to prisoners and servants, and some servants reportedly had contracts limiting how often they could be fed lobster."
-    },
-    {
-      "name": "Smile Power Day",
-      "description": "A day to flash your pearly whites and spread cheer, based on the idea that smiling is contagious and can improve your mood and the moods of everyone around you.",
-      "origin": "Created as an unofficial observance promoting the power of a simple smile, inspired by the popular notion that smiling boosts happiness and goodwill.",
-      "category": "Feel-Good Observance",
-      "emoji": "😁",
-      "funFact": "Studies on the facial feedback hypothesis suggest that even a forced smile can slightly improve mood, though researchers still debate how strong the effect really is."
-    },
-    {
-      "name": "World Elder Abuse Awareness Day",
-      "description": "A serious but important international observance that shines a light on the mistreatment of older adults and encourages communities to speak up, check in on seniors, and protect the vulnerable.",
-      "origin": "Launched in 2006 by the International Network for the Prevention of Elder Abuse and recognized by the United Nations in 2011.",
-      "category": "Awareness Day",
-      "emoji": "💜",
-      "funFact": "Purple is the signature color of the day, and people around the world wear it or light up buildings in purple to raise awareness."
-    },
-    {
-      "name": "Magna Carta Day",
-      "description": "A celebration of the famous 1215 charter that told a king he was not above the law. Historians, lawyers, and history nerds raise a toast to the roots of modern rights and due process.",
-      "origin": "King John of England sealed the Magna Carta at Runnymede on June 15, 1215, under pressure from rebellious barons.",
-      "category": "Historical Observance",
-      "emoji": "📜",
-      "funFact": "The Magna Carta was annulled by the Pope within weeks of being sealed, and it only became the legendary document we know after being reissued several times."
-    },
-    {
-      "name": "Nature Photography Day",
-      "description": "A day for picking up a camera or phone and capturing the beauty of the natural world, from towering mountains to the suspiciously photogenic squirrel in your backyard.",
-      "origin": "Established in 2006 by the North American Nature Photography Association to promote nature photography and conservation.",
-      "category": "Hobby Day",
-      "emoji": "📸",
-      "funFact": "The very first photograph of a living subject in the wild is often credited to early wildlife photographers who needed days of waiting and cumbersome equipment just to snap a single shot."
+      "funFact": "Lobster was once considered poor people's food in colonial New England. It was fed to prisoners and used as fertilizer before it became a luxury."
     }
   ]
 }

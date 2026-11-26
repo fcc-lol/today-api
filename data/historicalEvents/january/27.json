@@ -2,39 +2,32 @@
   "date": "January 27",
   "events": [
     {
+      "year": 1880,
+      "title": "Edison Patents the Incandescent Lamp",
+      "description": "Thomas Edison filed a patent for his electric incandescent lamp. The filing covered the design that helped bring practical electric lighting into homes and businesses.",
+      "category": "Science & Technology",
+      "significance": "Affordable electric light changed how people worked, studied and lived after dark, and it helped launch the age of electrification."
+    },
+    {
+      "year": 1926,
+      "title": "Baird Demonstrates Television",
+      "description": "Scottish inventor John Logie Baird gave the first public demonstration of a working television system in London. He showed moving images transmitted as electrical signals.",
+      "category": "Science & Technology",
+      "significance": "The demonstration was an early step toward television, which became one of the most influential communication media of the 20th century."
+    },
+    {
       "year": 1945,
-      "title": "Liberation of Auschwitz",
-      "description": "Soviet Red Army troops of the 60th Army entered the Auschwitz-Birkenau concentration and extermination camp complex in occupied Poland, finding roughly 7,000 emaciated survivors left behind after the Nazis forced tens of thousands of prisoners on death marches.",
-      "category": "War",
-      "significance": "Auschwitz became the symbol of the Holocaust, where over one million people, mostly Jews, were murdered. The date is now observed as International Holocaust Remembrance Day."
-    },
-    {
-      "year": 1756,
-      "title": "Birth of Wolfgang Amadeus Mozart",
-      "description": "Wolfgang Amadeus Mozart was born in Salzburg, in the Archbishopric of Salzburg. A child prodigy, he composed prolifically from the age of five and went on to write over 600 works, including operas, symphonies, concertos and chamber music.",
-      "category": "Birth",
-      "significance": "Mozart is regarded as one of the greatest composers in Western music history, and his works helped define the Classical style and influenced generations of composers."
+      "title": "Auschwitz Is Liberated",
+      "description": "Soviet Red Army troops entered the Auschwitz concentration camp complex and freed about 7,000 prisoners the Nazis had left behind. Auschwitz was the largest Nazi death camp.",
+      "category": "War & Human Rights",
+      "significance": "The date is now observed as International Holocaust Remembrance Day, when the world honors the millions of victims of the Holocaust and renews its commitment to fighting hatred."
     },
     {
       "year": 1967,
-      "title": "Apollo 1 Fire",
-      "description": "During a launch rehearsal test at Cape Kennedy, a fire broke out in the command module of Apollo 1, killing astronauts Virgil 'Gus' Grissom, Edward White and Roger Chaffee. The cabin's pure oxygen atmosphere and flammable materials contributed to the rapid spread of the fire.",
-      "category": "Disaster",
-      "significance": "The tragedy led to a major redesign of the Apollo spacecraft and stricter safety standards, paving the way for the later success of the Apollo program and the 1969 Moon landing."
-    },
-    {
-      "year": 1967,
-      "title": "Outer Space Treaty Signed",
-      "description": "The Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, was opened for signature in Washington, London and Moscow by the United States, the United Kingdom and the Soviet Union, among others.",
-      "category": "Politics",
-      "significance": "It established the foundation of international space law, banning nuclear weapons in orbit and declaring that celestial bodies cannot be claimed by any nation."
-    },
-    {
-      "year": 1973,
-      "title": "Paris Peace Accords Signed",
-      "description": "The United States, North Vietnam, South Vietnam and the Provisional Revolutionary Government signed the Paris Peace Accords, formally ending direct U.S. military involvement in the Vietnam War and providing for a ceasefire and the withdrawal of American troops.",
-      "category": "War",
-      "significance": "The agreement ended U.S. combat involvement in Vietnam after more than a decade, although fighting between North and South continued until the fall of Saigon in 1975."
+      "title": "Apollo 1 Fire Kills Three Astronauts",
+      "description": "Gus Grissom, Edward White and Roger Chaffee died in a fire inside their Apollo 1 spacecraft. It broke out during a launch rehearsal test at Kennedy Space Center in Florida.",
+      "category": "Space Exploration",
+      "significance": "The tragedy led to major safety redesigns of the spacecraft. Those changes helped make the later Apollo missions to the Moon possible."
     }
   ]
 }

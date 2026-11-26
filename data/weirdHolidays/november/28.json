@@ -3,43 +3,19 @@
   "holidays": [
     {
       "name": "Red Planet Day",
-      "description": "A day to celebrate Mars and humanity's long fascination with the Red Planet. Space fans mark it by stargazing, watching rover footage, and daydreaming about being the first person to plant a flag on Martian soil.",
-      "origin": "Red Planet Day commemorates the launch of NASA's Mariner 4 probe on November 28, 1964. Mariner 4 went on to make the first successful flyby of Mars in July 1965 and returned the first close-up images of another planet.",
+      "description": "A day for looking up at Mars and celebrating the dusty, rusty neighbor we keep sending robots to visit. Space fans mark it with Mars-themed snacks, stargazing and rover trivia.",
+      "origin": "The day marks the 1964 launch of NASA's Mariner 4 on November 28. That probe went on to make the first successful flyby of Mars and sent back the first close-up photos of another planet.",
       "category": "Science & Space",
-      "emoji": "🔴",
-      "funFact": "Mariner 4 sent back just 22 grainy photos, and each one took hours to transmit. Early scientists were so eager to see them that staff at JPL reportedly hand-colored a printout of the data with pastels before the images were fully processed."
+      "emoji": "🪐",
+      "funFact": "Mariner 4 returned just 21 photos of Mars. Each one took hours to send back to Earth, and early on, scientists hand-colored a printout of the data with pastels because they couldn't wait for the computers."
     },
     {
-      "name": "French Toast Day",
-      "description": "A day to celebrate eggy, cinnamon-dusted bread fried to golden perfection. Breakfast lovers use it as an excuse to turn stale bread into something spectacular and drown it in syrup.",
-      "origin": "French toast has been around since Roman times and is mentioned in the ancient cookbook attributed to Apicius. The unofficial food holiday is observed on November 28 in the United States, with no single known founder.",
+      "name": "National French Toast Day",
+      "description": "An unofficial celebration of turning stale bread into a breakfast star. Dunk it in egg and milk, griddle it until golden, then pile on syrup, powdered sugar, fruit or whatever else you like.",
+      "origin": "This is an unofficial food observance of unclear origin. It has become a popular fixture on the late-November breakfast calendar.",
       "category": "Food & Drink",
       "emoji": "🍞",
-      "funFact": "Despite the name, French toast probably isn't French. In France it is called 'pain perdu,' meaning 'lost bread,' because it rescues bread that would otherwise be lost to staleness."
-    },
-    {
-      "name": "Make Your Own Head Day",
-      "description": "A playful day for sculpting, drawing, painting, or crafting a likeness of your own head. Participants make self-portraits, clay busts, papier-mâché noggins, and other odd creations of themselves.",
-      "origin": "This quirky unofficial observance comes from the world of internet-era novelty holidays, and it encourages creative self-expression through silly art projects. Its exact originator is unclear.",
-      "category": "Arts & Crafts",
-      "emoji": "🗿",
-      "funFact": "Head sculpting has ancient roots. The Romans made portrait busts of citizens and emperors, and some of those busts were reused by chiseling a new face onto an old head when politics changed."
-    },
-    {
-      "name": "Thanksgiving Leftovers Remix Day",
-      "description": "A celebration of the glorious sandwiches, casseroles, and bizarre fridge creations that appear the day after Thanksgiving. Home cooks take on the challenge of transforming turkey, stuffing, and cranberry sauce into something new.",
-      "origin": "This is a pop-culture and foodie observance that grew from the American tradition of leftover cooking after Thanksgiving. It has been popularized in cooking blogs and social media, and it falls near the end of November.",
-      "category": "Food & Drink",
-      "emoji": "🦃",
-      "funFact": "The famous Friends 'Moist Maker' sandwich, a turkey sandwich with an extra gravy-soaked slice of bread in the middle, has inspired countless real-life leftover sandwich creations."
-    },
-    {
-      "name": "Independence Day in Albania",
-      "description": "Albania celebrates the declaration of its independence from the Ottoman Empire, and people fly the red flag with its black double-headed eagle. Streets fill with flags, parades, and family feasts, and many Albanians wear eagle-themed clothing.",
-      "origin": "On November 28, 1912, Ismail Qemali raised the Albanian flag in Vlorë and declared independence from Ottoman rule. The date is now a national holiday, and it is also celebrated by Albanians abroad and in Kosovo and North Macedonia.",
-      "category": "National Holiday",
-      "emoji": "🦅",
-      "funFact": "Albania's name for itself is 'Shqipëria,' often interpreted as 'Land of the Eagles,' which is why the double-headed eagle appears on its flag and why people jokingly call themselves 'sons of eagles.'"
+      "funFact": "Despite the name, French toast is far older than France's claim to it. Recipes for soaked and fried bread date back to ancient Rome, and in France it is called 'pain perdu,' or 'lost bread,' because it rescues bread that would otherwise be wasted."
     }
   ]
 }

@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1793,
-      "title": "Execution of Marie Antoinette",
-      "description": "Former Queen of France Marie Antoinette was guillotined in the Place de la Révolution in Paris after being convicted of treason by the Revolutionary Tribunal during the French Revolution.",
-      "category": "Politics",
-      "significance": "Her execution symbolized the radical phase of the French Revolution and the definitive end of the Bourbon monarchy's authority during the Reign of Terror."
+      "title": "Marie Antoinette Is Guillotined",
+      "description": "Nine months after her husband Louis XVI was executed, the former queen of France was put to death by guillotine in Paris. Her trial and execution came at the height of the French Revolution.",
+      "category": "Death",
+      "significance": "Her death marked the end of the Bourbon monarchy's last public symbol and showed how radical the Revolution had become."
     },
     {
       "year": 1846,
-      "title": "First Public Demonstration of Ether Anesthesia",
-      "description": "At Massachusetts General Hospital in Boston, dentist William T.G. Morton demonstrated the use of ether as a surgical anesthetic while surgeon John Collins Warren removed a tumor from patient Gilbert Abbott.",
+      "title": "Ether Anesthesia Demonstrated at Massachusetts General Hospital",
+      "description": "Dentist William T. G. Morton publicly demonstrated ether anesthesia during surgery in Boston. The patient was unconscious and the operation went ahead without the usual agony.",
       "category": "Science and Medicine",
-      "significance": "This demonstration, held in what became known as the Ether Dome, revolutionized surgery by allowing painless, longer, and more complex operations, and spread rapidly around the world."
+      "significance": "The demonstration opened the way for modern surgery by making longer and more complex operations possible."
+    },
+    {
+      "year": 1859,
+      "title": "John Brown Raids Harpers Ferry",
+      "description": "Abolitionist John Brown led a small group of men in an attack on the federal arsenal at Harpers Ferry, Virginia (now West Virginia). The aim was to start an armed uprising against slavery.",
+      "category": "Politics and Conflict",
+      "significance": "The raid failed, but it sharply raised tensions between North and South and helped push the United States toward the Civil War."
     },
     {
       "year": 1923,
-      "title": "Walt Disney Cartoon Studio Founded",
-      "description": "Walt Disney and his brother Roy O. Disney founded the Disney Brothers Cartoon Studio in Los Angeles after Walt signed a contract to produce the Alice Comedies series.",
-      "category": "Arts and Entertainment",
-      "significance": "The small studio grew into The Walt Disney Company, one of the largest and most influential entertainment conglomerates in the world."
-    },
-    {
-      "year": 1962,
-      "title": "Cuban Missile Crisis Begins for US Leadership",
-      "description": "President John F. Kennedy was shown photographic evidence from U-2 reconnaissance flights of Soviet nuclear missile sites under construction in Cuba, beginning the thirteen-day crisis.",
-      "category": "Politics and Conflict",
-      "significance": "The confrontation brought the United States and Soviet Union to the brink of nuclear war and led to lasting changes in Cold War diplomacy, including the establishment of the Moscow-Washington hotline."
+      "title": "The Walt Disney Company Is Founded",
+      "description": "Walt Disney and his brother Roy founded a small animation studio in Los Angeles. It began as the Disney Brothers Cartoon Studio.",
+      "category": "Business and Culture",
+      "significance": "The studio grew into one of the world's largest entertainment companies and changed animation, film and theme parks."
     },
     {
       "year": 1978,
       "title": "Karol Wojtyła Elected Pope John Paul II",
-      "description": "Cardinal Karol Wojtyła of Poland was elected pope by the papal conclave, taking the name John Paul II and becoming the first non-Italian pope in 455 years.",
+      "description": "The Archbishop of Kraków was elected pope after a conclave that followed the sudden death of John Paul I. He was the first non-Italian pope in more than 450 years.",
       "category": "Religion",
-      "significance": "His long pontificate played a major role in the fall of communism in Eastern Europe, transformed the modern papacy through extensive international travel, and shaped the Catholic Church for decades."
+      "significance": "His long papacy shaped late 20th-century world affairs, including the end of communism in Eastern Europe."
     }
   ]
 }

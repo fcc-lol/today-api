@@ -2,64 +2,46 @@
   "date": "December 4",
   "plants": [
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with segmented, flat, pointed stems and tubular, asymmetrical flowers that dangle from the stem tips. Widely grown as a houseplant in the Northern Hemisphere, where it blooms in response to short days and cool nights.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
-      "colors": [
-        "pink",
-        "red",
-        "magenta",
-        "white",
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "In the wild it grows on tree branches and rocks in humid forests, and it needs about 12-14 hours of darkness each night for several weeks to set buds."
-    },
-    {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub whose showy 'flowers' are actually colored bracts surrounding tiny yellow true flowers called cyathia. In frost-free climates it grows into a large shrub several meters tall, while in colder regions it is a popular potted holiday plant.",
-      "bloomingSeason": "Late autumn through winter (November to February)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in warm regions such as California, Florida, Australia, and Hawaii",
+      "description": "Wild poinsettias are tall, leggy shrubs. Their fiery red bracts look like petals and surround tiny yellow flower clusters. The bracts are what make the plant glow against the dry-season landscape.",
+      "bloomingSeason": "Late autumn to winter (roughly November to February) in its native range",
+      "location": "Southern Mexico, including the seasonally dry forests of Guerrero and Oaxaca",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "burgundy",
-        "cream"
-      ],
-      "emoji": "🎄",
-      "funFact": "The Aztecs called it cuetlaxochitl and used its sap for medicine and its bracts to make reddish dye. Its color change is triggered by long nights, just like the Thanksgiving cactus."
-    },
-    {
-      "name": "Callistemon citrinus",
-      "commonName": "Crimson Bottlebrush",
-      "description": "An evergreen shrub or small tree with cylindrical flower spikes made of numerous bright red stamens that resemble a bottle brush. Its blooms are rich in nectar and attract honeyeaters, lorikeets, and bees during the Southern Hemisphere late spring.",
-      "bloomingSeason": "Spring to summer in the Southern Hemisphere (October to January), with sporadic blooms at other times",
-      "location": "Native to eastern Australia; widely planted in warm regions including California, the Mediterranean, and South Africa",
-      "colors": [
-        "red",
-        "crimson"
+        "Red",
+        "Green",
+        "Yellow"
       ],
       "emoji": "🌺",
-      "funFact": "The woody seed capsules can remain on the stems for years and often release seeds only after fire or branch death."
+      "funFact": "The showy red parts of a poinsettia are modified leaves called bracts. The true flowers are the small yellow buds in the center. The Aztecs used the plant to make a reddish dye."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It flowers in cold weather, often pushing through snow in mild winter gardens and woodlands.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to mountainous woodlands of central and southern Europe, from the Alps to the northern Apennines and the Balkans; cultivated in temperate gardens",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "In the southern spring, jacarandas cover city streets in lavender-blue trumpet-shaped flowers. When the blossoms fall, they leave a purple carpet beneath the trees. The feathery, fern-like foliage gives the canopy a soft look.",
+      "bloomingSeason": "Spring to early summer in the Southern Hemisphere (about October to early December)",
+      "location": "Streets and parks of Pretoria, South Africa, and Sydney and Brisbane, Australia",
       "colors": [
-        "white",
-        "pale pink",
-        "green-tinged"
+        "Lavender",
+        "Violet",
+        "Blue"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
+      "emoji": "💜",
+      "funFact": "Jacaranda is native to South America, but it is now best known in Pretoria, which is nicknamed the Jacaranda City. A common saying in Australia holds that if a jacaranda flower falls on your head, you will have good luck."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua camellia",
+      "description": "Sasanqua camellias bloom in the cold months, when most gardens are dormant. They carry delicate, often fragrant single or semi-double blooms among glossy evergreen leaves. Bees and other pollinators still active in autumn and early winter visit them.",
+      "bloomingSeason": "Autumn to early winter (roughly October to December)",
+      "location": "Southern Japan, and gardens across the southeastern United States",
+      "colors": [
+        "White",
+        "Pink",
+        "Rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Sasanqua camellias are close relatives of the tea plant, Camellia sinensis. Seeds of some camellias are pressed to make camellia oil, which has long been used in Japan for hair and skin care."
     }
   ]
 }

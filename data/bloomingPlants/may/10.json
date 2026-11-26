@@ -2,66 +2,48 @@
   "date": "May 10",
   "plants": [
     {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A large deciduous shrub producing dense, conical clusters of intensely fragrant four-lobed flowers. A beloved garden plant across temperate regions, it often peaks in the Northern Hemisphere in early to mid May.",
-      "bloomingSeason": "Mid spring to late spring (April to May in the Northern Hemisphere)",
-      "location": "Native to the Balkans in southeastern Europe; widely cultivated in North America, Europe, and temperate Asia",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Cascading chains of fragrant, pea-like flowers drape from twining vines over pergolas, temple walkways and garden arches. Some racemes grow to nearly a metre long and sway in the spring breeze.",
+      "bloomingSeason": "Late April to mid-May in the temperate Northern Hemisphere",
+      "location": "Japan, where it is celebrated in famous wisteria gardens, and in temperate gardens across Europe and North America",
       "colors": [
-        "Lilac purple",
-        "White",
-        "Pink",
-        "Magenta"
-      ],
-      "emoji": "🪻",
-      "funFact": "Lilac was the first plant to be named an official state flower in New Hampshire in 1919, and its fragrance comes from compounds that are used in perfumery."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces long, cascading racemes of pea-like, fragrant flowers before or as the leaves emerge. It twines counterclockwise and can cover pergolas and walls.",
-      "bloomingSeason": "Mid spring to early summer (April to May in the Northern Hemisphere)",
-      "location": "Native to China; cultivated in Japan, Europe, and the United States",
-      "colors": [
-        "Lavender",
         "Violet",
-        "Blue-purple",
+        "Lavender",
+        "Pink",
         "White"
       ],
-      "emoji": "💜",
-      "funFact": "Some wisteria vines live for over a century; a Chinese Wisteria in Sierra Madre, California, planted in 1894 is considered one of the largest blossoming plants in the world, covering about an acre."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines twine in a set direction. Japanese wisteria climbs clockwise, while Chinese wisteria climbs counterclockwise."
     },
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on upright stems. Late-flowering tulip varieties are at their peak in cooler northern regions such as the Netherlands, northern Europe, and northern parts of North America in early to mid May.",
-      "bloomingSeason": "Spring (April to May; late varieties bloom in May)",
-      "location": "Originally from Central Asia and Turkey; cultivated worldwide, especially in the Netherlands, Canada, and the northern United States",
+      "name": "Syringa vulgaris",
+      "commonName": "Common Lilac",
+      "description": "Dense, cone-shaped clusters of intensely perfumed blossoms cover this hardy shrub. It is a nostalgic favourite of cottage gardens and old farmsteads.",
+      "bloomingSeason": "Late April to late May in cool temperate climates of the Northern Hemisphere",
+      "location": "Gardens across the northeastern United States, southern Canada and northern and central Europe, with wild origins in the Balkans",
       "colors": [
-        "Red",
-        "Yellow",
-        "Pink",
+        "Lilac",
         "Purple",
         "White",
-        "Orange"
+        "Pink"
       ],
-      "emoji": "🌷",
-      "funFact": "During the Dutch Golden Age in the 1630s, tulip bulbs became so valuable that a single bulb could cost more than a house, an episode known as Tulip Mania."
+      "emoji": "💜",
+      "funFact": "Each lilac floret usually has four petals. Finding one with five is traditionally said to bring good luck."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody shrub bearing the largest flower head in the Protea genus, with a bowl of petal-like bracts surrounding a central cone of true flowers. In the Southern Hemisphere, it begins blooming as autumn turns toward winter, with flowering extending through spring.",
-      "bloomingSeason": "Autumn through spring depending on the region; common blooms from March to November, with some blooming in May",
-      "location": "Native to the fynbos of the Western and Eastern Cape in South Africa; also cultivated in Australia, Hawaii, and California",
+      "name": "Aloe arborescens",
+      "commonName": "Krantz Aloe",
+      "description": "Tall, branching aloes with blue-green rosettes send up torch-like spikes of flame-coloured tubular flowers. They glow against the winter landscape and attract sunbirds that come to feed on the nectar.",
+      "bloomingSeason": "Late autumn to winter, roughly May to August in the Southern Hemisphere",
+      "location": "Coastal and rocky slopes of South Africa, including the Eastern Cape and KwaZulu-Natal",
       "colors": [
-        "Pink",
-        "Cream",
-        "Crimson",
-        "Silvery white"
+        "Orange",
+        "Red",
+        "Yellow"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa and is adapted to survive wildfires, with underground lignotubers that resprout after burns."
+      "funFact": "Krantz aloe flowers in the dry southern winter, when little else is in bloom. That makes it a key nectar source for sunbirds and other pollinators."
     }
   ]
 }

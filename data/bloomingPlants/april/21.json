@@ -4,62 +4,63 @@
     {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on upright stems above blue-green strap-like leaves. Hundreds of cultivars exist, ranging from single early types to fringed, parrot, and double forms. It peaks in the Northern Hemisphere in mid to late April.",
-      "bloomingSeason": "Early to late spring (March to May)",
-      "location": "Temperate Northern Hemisphere gardens, especially the Netherlands, northern Europe, and North America; native to Central Asia",
+      "description": "Rows of cup-shaped blooms in saturated crimson, butter yellow, blush pink and near-black stripe the Dutch bulb fields like a painter's palette. Around Lisse, millions of tulips open together and turn the flat landscape into ribbons of color.",
+      "bloomingSeason": "Mid-April to early May in the Netherlands, with the peak around the third week of April",
+      "location": "Lisse and the bulb-growing region of the Netherlands, Europe",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could cost more than a luxurious canal house in Amsterdam."
+      "funFact": "Tulips were so prized in 17th-century Holland that single bulbs reportedly sold for more than the price of a canal house during 'tulip mania'."
     },
     {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of pea-like flowers appear directly on bare branches and even on the trunk before the heart-shaped leaves emerge. It is a favorite of early-season pollinators and a classic sign of spring in woodlands and gardens.",
-      "bloomingSeason": "Mid spring (late March to late April)",
-      "location": "Eastern and central United States, southern Ontario, and northern Mexico; widely planted elsewhere",
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "This silky, cup-shaped wildflower glows like molten gold across sunny hillsides and grasslands. Its petals close on cloudy days and at night, then open wide in bright sun. They carpet the landscape in orange.",
+      "bloomingSeason": "Spring, with March through May usually the strongest bloom",
+      "location": "California, USA, in grasslands, hillsides and native gardens",
       "colors": [
-        "magenta",
-        "pink",
-        "lavender"
-      ],
-      "emoji": "🌸",
-      "funFact": "Redbud flowers are edible and have a mild, tangy flavor, and they're often added to salads or used as a garnish."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous, twining woody vine producing long, pendulous racemes of fragrant, pea-like flowers that open all at once before the leaves fully develop. It is often trained over pergolas, arbors, and walls and can live for decades.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "Native to China; cultivated in Japan, Europe, and the United States",
-      "colors": [
-        "lavender",
-        "violet",
-        "blue",
-        "purple"
-      ],
-      "emoji": "💜",
-      "funFact": "Chinese wisteria twines counterclockwise, while Japanese wisteria (Wisteria floribunda) twines clockwise, which helps tell them apart even without flowers."
-    },
-    {
-      "name": "Nemophila menziesii",
-      "commonName": "Baby Blue Eyes",
-      "description": "A low-growing annual wildflower with delicate, bowl-shaped sky-blue flowers that have white centers and tiny dark speckles. It carpets grasslands and open hillsides during good rainfall years and is also grown in gardens and rock gardens.",
-      "bloomingSeason": "Late winter to late spring (February to May)",
-      "location": "California and Baja California; naturalized in parts of Japan and Europe where it is cultivated en masse",
-      "colors": [
-        "sky blue",
-        "white",
-        "violet"
+        "Orange",
+        "Golden yellow",
+        "Cream"
       ],
       "emoji": "🌼",
-      "funFact": "At Hitachi Seaside Park in Japan, millions of baby blue eyes bloom in late April, turning entire hills into a sea of blue."
+      "funFact": "California's state flower has finely divided blue-green leaves. Its petals fold shut at night and in cool, overcast weather, which protects the pollen."
+    },
+    {
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant chains of pea-like flowers hang from twisting vines and trellises. They create tunnels of lavender and violet that sway in the spring breeze. Japan's famous wisteria parks come alive at this time of year.",
+      "bloomingSeason": "Mid-April to mid-May in many parts of Japan",
+      "location": "Japan, including famous wisteria gardens such as Ashikaga Flower Park in Tochigi",
+      "colors": [
+        "Violet",
+        "Lavender",
+        "Pink",
+        "White"
+      ],
+      "emoji": "💜",
+      "funFact": "Japanese wisteria twines clockwise, while Chinese wisteria twines counterclockwise. Old vines can live for well over a century and grow into enormous canopies."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "While the Northern Hemisphere greets spring, Australian gardens are turning to autumn. They are lit by this shrub's delicate, often lightly scented blooms. The flowers have silky petals around a bright boss of golden stamens. They open on glossy evergreen bushes, and gardeners value them as an early start to the camellia season.",
+      "bloomingSeason": "Autumn, beginning in April and May in Australia and continuing into early winter",
+      "location": "Gardens across temperate Australia (Southern Hemisphere), native to Japan and China",
+      "colors": [
+        "White",
+        "Pink",
+        "Red",
+        "Variegated"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make oil used in cooking and cosmetics in parts of Asia."
     }
   ]
 }

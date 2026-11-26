@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1787,
-      "title": "U.S. Constitution Signed",
-      "description": "Delegates to the Constitutional Convention in Philadelphia signed the final draft of the United States Constitution, after which it was sent to the states for ratification.",
+      "title": "U.S. Constitution Signed in Philadelphia",
+      "description": "After a long summer of debate, delegates to the Constitutional Convention met for the last time and signed the document that created the framework of the United States government.",
       "category": "Politics",
-      "significance": "The Constitution became the foundation of American government and one of the most influential founding documents in the world. The date is commemorated annually as Constitution Day and Citizenship Day."
+      "significance": "The Constitution is now the oldest written national constitution still in use. The U.S. marks the anniversary each year as Constitution Day and Citizenship Day."
     },
     {
       "year": 1862,
       "title": "Battle of Antietam",
-      "description": "Union forces under General George B. McClellan clashed with Confederate forces led by General Robert E. Lee near Sharpsburg, Maryland, in the bloodiest single day in American military history, with about 22,000 casualties.",
-      "category": "Military",
-      "significance": "The Union's strategic victory halted Lee's first invasion of the North and gave President Lincoln the opportunity to issue the preliminary Emancipation Proclamation, shifting the war's aims toward ending slavery."
+      "description": "Union and Confederate armies fought near Sharpsburg, Maryland, in a battle that became the bloodiest single day in American military history.",
+      "category": "War",
+      "significance": "The Union's narrow strategic victory stopped Robert E. Lee's first invasion of the North. It gave President Lincoln the opening to issue the preliminary Emancipation Proclamation."
     },
     {
-      "year": 1939,
-      "title": "Soviet Union Invades Poland",
-      "description": "Sixteen days after Germany's invasion of Poland, the Red Army crossed the Polish eastern border in accordance with the secret protocol of the Molotov-Ribbentrop Pact.",
-      "category": "Military",
-      "significance": "The invasion led to the partition of Poland between Germany and the USSR and the Soviet occupation of eastern Poland, shaping the early course of World War II and the region's postwar borders."
+      "year": 1908,
+      "title": "First Fatality in a Powered Airplane Crash",
+      "description": "Lt. Thomas Selfridge was a passenger in a Wright Flyer piloted by Orville Wright during Army trials at Fort Myer, Virginia. A propeller failure caused the crash, and Selfridge died of his injuries.",
+      "category": "Aviation",
+      "significance": "Selfridge became the first person to die in a powered airplane crash. The accident led to stricter attention to aircraft safety and design."
     },
     {
       "year": 1978,
       "title": "Camp David Accords Signed",
-      "description": "Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin signed the Camp David Accords at the White House after twelve days of secret negotiations hosted by U.S. President Jimmy Carter.",
+      "description": "Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin signed two agreements at the White House. U.S. President Jimmy Carter had brokered them after nearly two weeks of talks at Camp David.",
       "category": "Diplomacy",
-      "significance": "The accords led to the 1979 Egypt-Israel peace treaty, the first peace agreement between Israel and an Arab state, and earned Sadat and Begin the Nobel Peace Prize."
-    },
-    {
-      "year": 1976,
-      "title": "Space Shuttle Enterprise Unveiled",
-      "description": "NASA rolled out the first Space Shuttle orbiter, Enterprise, at Rockwell International's facility in Palmdale, California, in a ceremony attended by cast members of Star Trek.",
-      "category": "Science and Technology",
-      "significance": "Enterprise was used for atmospheric approach and landing tests that validated the shuttle's design, paving the way for the Space Shuttle program that operated from 1981 to 2011."
+      "significance": "The accords led to the 1979 Egypt-Israel peace treaty, the first peace agreement between Israel and an Arab state, and reshaped Middle East diplomacy."
     }
   ]
 }

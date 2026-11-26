@@ -4,58 +4,42 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of fragrant purple flowers that attract bees and butterflies. Widely grown in gardens and commercial fields for essential oil.",
-      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Rolling rows of silvery-green plants carry slender spikes of violet-blue flowers. They ripple across the Valensole plateau in Provence. The air is heavy with a sweet, herbal perfume, and the blooms hum with bees.",
+      "bloomingSeason": "Late June to early August, with a peak in July",
+      "location": "Provence, southeastern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
+      "funFact": "Lavender is in the mint family. Its fragrant oils have been used for centuries to scent linens, soothe nerves and repel moths."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large flower head made of hundreds of tiny florets surrounded by yellow ray petals. Fields of sunflowers are at their peak in late July.",
-      "bloomingSeason": "Mid-summer to early fall (July to September)",
-      "location": "Native to North America; widely cultivated in Ukraine, Russia, France, Spain, and the central United States",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "In the depths of the Australian winter, this hardy tree puts on a show of fluffy, golden pom-pom flowers. They light up the bushland of the southeast with sunny color and a honey-sweet scent.",
+      "bloomingSeason": "Winter to early spring in the Southern Hemisphere (about June to August, with some blooming into September)",
+      "location": "Southeastern Australia, including South Australia and Victoria",
       "colors": [
-        "yellow",
-        "golden orange",
-        "brown"
+        "Golden yellow"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun from east to west during the day, a behavior called heliotropism, but mature blooms stay facing east."
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem. National Wattle Day is celebrated on September 1, the first day of spring."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with daisy-like pink-purple petals drooping around a spiky orange-brown central cone. It is a favorite of pollinators and goldfinches.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Eastern and central North America, in prairies and open woodlands, and widely grown in gardens",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. They are a staple of summer borders and prairies. Butterflies and bees visit them all season, and goldfinches come for the seeds later on.",
+      "bloomingSeason": "Summer, from about June through August, with a strong July display",
+      "location": "Eastern and central North America, including the Midwestern United States",
       "colors": [
-        "pink",
-        "purple",
-        "orange",
-        "bronze"
+        "Rosy purple",
+        "Pink",
+        "Orange-bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Native Americans used Echinacea medicinally for centuries, and it remains one of the best-selling herbal supplements today."
-    },
-    {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "An upright evergreen shrub of southeastern Australia that produces spectacular crimson flower heads up to 15 cm across, surrounded by showy red bracts. It blooms at the end of the Australian winter and into spring.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (begins around August, with early blooms possible in late July)",
-      "location": "Sandstone ridges and forests of New South Wales, Australia",
-      "colors": [
-        "crimson",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from the Eora Aboriginal word meaning 'seen from afar'."
+      "funFact": "The name Echinacea comes from the Greek word for hedgehog. It refers to the prickly central cone of the flower head."
     }
   ]
 }

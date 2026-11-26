@@ -3,71 +3,43 @@
   "plants": [
     {
       "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree that covers its branches in clouds of delicate, fragrant blossoms before the leaves emerge. It is the most widely planted flowering cherry in Japan and a centerpiece of hanami celebrations.",
-      "bloomingSeason": "Late March to early April in Japan; mid-March to April in temperate Northern Hemisphere regions",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
+      "commonName": "Yoshino Cherry (Somei Yoshino)",
+      "description": "Branches fill with clouds of delicate, blush-white blossoms before the leaves emerge. Petals drift down like snow in the spring breeze. The effect is one of the most celebrated spring displays in the world.",
+      "bloomingSeason": "Late March to mid-April in much of Japan. Flowering often begins in warmer areas such as Tokyo and Kyushu around March 19–25, and in Washington, D.C. it usually peaks in late March to early April.",
+      "location": "Japan (southern and central Honshu, Kyushu) and Washington, D.C., USA",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival is timed around their peak bloom."
+      "funFact": "Every Yoshino cherry is a clone. All trees are grafted from a single original, so entire groves bloom in near-perfect synchrony."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers and gray-green strap-like leaves. It naturalizes readily in meadows, woodlands, and gardens, and is a classic herald of spring.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe (England, Wales, France), naturalized across North America and gardens worldwide",
+      "commonName": "Wild Daffodil (Lent Lily)",
+      "description": "Nodding, trumpet-shaped flowers glow butter-yellow against fresh green leaves. They carpet woodlands and meadows in golden drifts. They are a cheerful sign that winter is ending.",
+      "bloomingSeason": "Late February to April, with peak bloom in March in the UK and western Europe",
+      "location": "Western Europe, including England, Wales and the Netherlands",
       "colors": [
-        "yellow",
-        "pale yellow",
-        "cream"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, making it toxic to most animals, which is why deer and rodents typically leave it alone."
+      "funFact": "Daffodils contain toxic alkaloids such as galantamine, which has been developed into a medicine used for early-stage Alzheimer's disease."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A small deciduous tree or large shrub that produces large, goblet-shaped flowers on bare branches in early spring. It is a hybrid of Magnolia denudata and Magnolia liliiflora, first raised in France in the 1820s.",
-      "bloomingSeason": "Early March to April",
-      "location": "Cultivated across temperate regions of Europe, North America, and Asia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped, lilac-pink blooms rise from bare soil on slender stalks. They look like crocuses, but they flower in the southern autumn.",
+      "bloomingSeason": "Late summer to autumn. In the Southern Hemisphere that means roughly March to April.",
+      "location": "Cultivated in gardens in southern Australia and New Zealand",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Lilac",
+        "Pink",
+        "Pale purple"
       ],
       "emoji": "🌷",
-      "funFact": "Magnolias are among the most ancient flowering plants, with fossil records dating back around 100 million years, predating bees, so they evolved to be pollinated by beetles."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tropical to subtropical tree with fern-like foliage that bursts into spectacular clusters of trumpet-shaped lavender-blue flowers, often carpeting streets and lawns with fallen petals.",
-      "bloomingSeason": "Spring in the Southern Hemisphere is Sept to Nov, but some populations in the northern tropics and in parts of South America bloom in March; in Australia and southern Africa, scattered late blooms occur",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, Mexico, and California",
-      "colors": [
-        "lavender",
-        "violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "In Mexico City, jacaranda trees famously bloom in March and April, painting the city purple, even though the species was introduced there in the early 1900s by a Japanese gardener."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with the largest flower head in the genus Protea, featuring a bowl of showy pink bracts surrounding a central cluster of tiny true flowers. It is adapted to fynbos fire-prone habitats.",
-      "bloomingSeason": "Mainly late summer to early winter in the Southern Hemisphere, with flowering through March in many areas",
-      "location": "Southwestern and southern coastal regions of South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and its thick underground lignotuber allows it to resprout after wildfires."
+      "funFact": "The flowers appear without leaves. The foliage grows months later, in spring, which earned it the nickname \"naked ladies.\""
     }
   ]
 }

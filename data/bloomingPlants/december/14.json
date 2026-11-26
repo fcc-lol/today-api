@@ -4,76 +4,43 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrubby plant native to Mexico whose showy 'flowers' are actually colored bracts surrounding small yellow cyathia. In its native range it grows as a tall shrub, and in short winter days it develops its famous festive coloration.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide as a holiday plant and in frost-free gardens",
+      "description": "Wild poinsettias are tall, leggy shrubs. Their fiery red bracts, which are modified leaves, surround tiny yellow flower clusters. They light up tropical hillsides in the dry season. The same plant is a holiday favorite around the world.",
+      "bloomingSeason": "Late autumn to winter (roughly November to February) in its native range",
+      "location": "Southern Mexico and Central America, in the tropical dry forests of Pacific-facing slopes",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream"
-      ],
-      "emoji": "🎄",
-      "funFact": "The Aztecs called it 'cuetlaxochitl' and used its sap to make a reddish dye and as a fever remedy. Its color change is triggered by at least 12 hours of darkness per night."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial from the buttercup family with nodding, cup-shaped white flowers that often age to pink. It blooms in the cold of early winter, sometimes pushing through snow.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens of Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green-tinged"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name it is not a true rose. All parts are toxic, and in folklore the plant was said to have sprung from the tears of a girl who had no gift for the Christ child."
-    },
-    {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus / Christmas Cactus",
-      "description": "An epiphytic cactus with flattened, segmented stems and arching, asymmetrical flowers. In Brazil it grows on tree branches and in rock crevices in cool, humid mountain forests.",
-      "bloomingSeason": "Late autumn to winter in the Northern Hemisphere (November to January); flowers in the Southern Hemisphere's late spring",
-      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro; popular houseplant worldwide",
-      "colors": [
-        "magenta",
-        "pink",
-        "red",
-        "orange",
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "It is a short-day plant, so it sets buds when nights lengthen and temperatures cool. Its pollinators in the wild are hummingbirds."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana / Flamboyant Tree",
-      "description": "A broad, umbrella-shaped tree with feathery fern-like leaves that becomes covered in clusters of brilliant flowers. In the Southern Hemisphere's early summer it produces some of the most spectacular displays of any tropical tree.",
-      "bloomingSeason": "Late spring to summer (October to January in the Southern Hemisphere; May to July in the Northern Hemisphere)",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, South Africa, Brazil and the Caribbean",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
+        "Red",
+        "Yellow",
+        "Green"
       ],
       "emoji": "🌺",
-      "funFact": "In its native Madagascar the species is endangered in the wild, even though it is one of the most widely planted ornamental trees in the world."
+      "funFact": "The showy red parts are bracts, not petals. The real flowers are the small yellow-green cups at the center. The plant needs long nights to trigger its color change, which is why it blooms in December."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "A dense evergreen shrub with glossy dark leaves and delicate, lightly fragrant flowers. It starts blooming earlier than the common camellia and brightens gardens in late autumn and early winter.",
-      "bloomingSeason": "Autumn to early winter (October to January)",
-      "location": "Native to southern Japan; cultivated in the southeastern United States, Mediterranean, Australia and New Zealand",
+      "name": "Camellia japonica",
+      "commonName": "Japanese camellia",
+      "description": "This glossy-leaved evergreen shrub opens rose-like blooms in cool weather. The flowers are silky and layered, with a boss of golden stamens. They brighten gardens when little else is flowering.",
+      "bloomingSeason": "Late autumn through early spring, with many cultivars at peak in December in mild climates",
+      "location": "Native to Japan, Korea and coastal China. Widely grown in the southeastern United States, such as Georgia and the Carolinas, and in the UK and Europe.",
       "colors": [
-        "white",
-        "pink",
-        "rose-red"
+        "Red",
+        "Pink",
+        "White"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia sasanqua is related to the tea plant, and its seeds are pressed to produce camellia oil used in cooking and hair care in Japan."
+      "emoji": "🌸",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Japanese camellia seeds are pressed to make tsubaki oil, which is used in hair care and for polishing tools."
+    },
+    {
+      "name": "Metrosideros excelsa",
+      "commonName": "Pōhutukawa (New Zealand Christmas tree)",
+      "description": "A rugged coastal evergreen that clings to sea cliffs. In midsummer it erupts in crimson pom-pom flowers made of bright stamens. The blossoms turn the shoreline red.",
+      "bloomingSeason": "Southern Hemisphere early summer, roughly late November through December, peaking around mid to late December",
+      "location": "Coastal North Island of New Zealand, including the Coromandel Peninsula and Northland",
+      "colors": [
+        "Crimson",
+        "Red"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pōhutukawa blooms around Christmas, so it is known as New Zealand's Christmas tree. It can grow aerial roots down rocky cliffs and live for hundreds of years."
     }
   ]
 }

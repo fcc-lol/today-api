@@ -2,11 +2,25 @@
   "date": "January 11",
   "plants": [
     {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Agapanthus)",
+      "description": "Tall, sturdy stems lift rounded clusters of trumpet-shaped blue flowers above arching, strap-like leaves. In midsummer they line streets, garden borders and coastal roadsides in drifts of cool blue.",
+      "bloomingSeason": "Summer, from about December to March or April, so it is in full flower in mid-January",
+      "location": "South Africa's Eastern Cape and KwaZulu-Natal coasts, widely planted in gardens across the Southern Hemisphere",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "The name comes from the Greek words for 'love' and 'flower'. Despite the common name, the plant is not a true lily."
+    },
+    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that brighten the winter garden. Hundreds of cultivars exist, with single, semi-double, and fully double forms.",
-      "bloomingSeason": "Late autumn to early spring (peak in midwinter in warm temperate zones)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe's mild coastal regions, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with layered petals and a boss of golden stamens. They brighten the grey days of midwinter when little else is flowering.",
+      "bloomingSeason": "Winter into early spring, generally January through April, depending on cultivar and weather",
+      "location": "Gardens in the mild-winter southeastern United States, with the species native to Japan, Korea and China",
       "colors": [
         "Red",
         "Pink",
@@ -14,50 +28,21 @@
         "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seeds are pressed to produce camellia oil used in cooking and hair care."
+      "funFact": "Camellia sinensis, a close relative, is the plant that gives us tea."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with nodding, cup-shaped white flowers that emerge in the coldest months, often pushing through snow. Its leathery, dark green leaves persist through winter.",
-      "bloomingSeason": "Midwinter to early spring",
-      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens of Europe and North America",
+      "description": "A low, evergreen perennial that pushes up nodding, saucer-shaped white flowers with golden stamens, often tinged pink as they age. It flowers through frost and snow and is a welcome sight in the dead of winter.",
+      "bloomingSeason": "Late autumn to late winter (about November to February), blooming near Christmas in mild regions and later in colder ones",
+      "location": "Shaded woodland and gardens in the mild-winter areas of Europe, native to the mountains of central and southern Europe",
       "colors": [
         "White",
-        "Pale pink"
+        "Blush pink",
+        "Yellow"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its name, it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A dramatic shrub producing the largest flower head in the Protea genus, with a bowl of showy pink bracts surrounding a center of fuzzy flowers. It thrives in fynbos habitat with nutrient-poor soils.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowering often from November to February",
-      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, Hawaii, and California",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Crimson"
-      ],
-      "emoji": "🌸",
-      "funFact": "It is the national flower of South Africa, and its thick underground lignotuber allows it to resprout after wildfires."
-    },
-    {
-      "name": "Hippeastrum vittatum",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial that sends up tall stalks bearing several large trumpet-shaped flowers. Often forced indoors in the Northern Hemisphere for winter bloom, and blooming outdoors in summer in the Southern Hemisphere.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; summer outdoors in the Southern Hemisphere",
-      "location": "Native to the Andes and South America; cultivated worldwide as a houseplant and garden bulb",
-      "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Orange",
-        "Striped"
-      ],
-      "emoji": "🌷",
-      "funFact": "The bulbs can bloom again year after year, and a single bulb can produce multiple flower stalks that reach over 60 cm tall."
+      "funFact": "Despite its name, the Christmas rose is not a rose. It belongs to the buttercup family, and all parts of the plant are poisonous."
     }
   ]
 }

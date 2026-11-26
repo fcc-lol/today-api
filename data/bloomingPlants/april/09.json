@@ -4,54 +4,41 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful deciduous tree covered in clouds of pale pink to white five-petaled blossoms that appear before the leaves emerge. It is the most widely planted ornamental cherry in Japan and a centerpiece of spring celebrations in temperate parks worldwide.",
-      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions of Europe and North America",
+      "description": "Spreading trees that become clouds of blush-white blossoms before the leaves emerge. Petals drift down like confetti in the spring breeze, and the crowds gather beneath them for hanami picnics.",
+      "bloomingSeason": "March to April, with timing moving later the farther north and higher you go",
+      "location": "Japan, especially cooler regions such as northern Honshu, where blossoms are still open in early April",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The famous cherry trees around the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
+      "funFact": "The Yoshino cherry is a hybrid. Many of the trees lining city streets and riverbanks are clones propagated by grafting, so they tend to bloom in near-perfect synchrony."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands, meadows, and hedgerows, and has given rise to countless garden cultivars.",
-      "bloomingSeason": "March to April in temperate Northern Hemisphere",
-      "location": "Western Europe, especially the United Kingdom, France, and Spain; naturalized in North America",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Roadsides and prairies in the Texas Hill Country fill with deep blue spikes of pea-like flowers. Each spike is tipped with a crisp white cap that turns crimson as the bloom ages.",
+      "bloomingSeason": "Peaks from late March to mid-April",
+      "location": "Central Texas and the Hill Country, USA",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Deep blue",
+        "White",
+        "Magenta"
       ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain the alkaloid lycorine, and compounds from related Narcissus species such as galantamine are used in medicines for Alzheimer's disease."
+      "emoji": "💙",
+      "funFact": "Texas lawmakers named the bluebonnet the state flower in 1901. In 1971 they extended that status to every Lupinus species found in the state."
     },
     {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose bare branches and even trunk burst with clusters of magenta-pink pea-like flowers before the heart-shaped leaves appear. It is a favorite of early-season pollinators and a staple of woodland edges and gardens.",
-      "bloomingSeason": "Late March to April",
-      "location": "Eastern and central North America, from southern Ontario to Mexico",
+      "name": "Nerine appendiculata",
+      "commonName": "Marsh Nerine",
+      "description": "This is a South African grassland and marsh bulb. In autumn it sends up slender stalks topped with airy clusters of pink flowers that have wavy-edged, curling petals. It often grows in large colonies, and a whole damp meadow can turn pink.",
+      "bloomingSeason": "December to the end of April (summer into autumn in the Southern Hemisphere)",
+      "location": "Eastern Cape and KwaZulu-Natal, South Africa",
       "colors": [
-        "magenta",
-        "pink",
-        "purple"
+        "Pink"
       ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a mildly tart flavor; they are sometimes added to salads, and the trees display cauliflory, meaning flowers grow directly from the trunk."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Not applicable - see Jacaranda alternative below",
-      "description": "Placeholder removed",
-      "bloomingSeason": "N/A",
-      "location": "N/A",
-      "colors": [
-        "N/A"
-      ],
-      "emoji": "❌",
-      "funFact": "N/A"
+      "emoji": "🌺",
+      "funFact": "Nerines belong to the amaryllis family. Their petals have a faint shimmer, as if dusted with tiny crystals."
     }
   ]
 }

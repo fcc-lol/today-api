@@ -2,60 +2,30 @@
   "date": "June 13",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers above deeply lobed green foliage. It is a beloved cottage garden plant and cut flower, and thrives in cool-winter climates.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate North America, Europe and East Asia",
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "Wide, creamy-white blossoms with golden centers float on the still surface of ponds, lakes and slow rivers. Each flower rests on a raft of round, glossy green pads. The effect is serene, like a floating stage lit by sunshine.",
+      "bloomingSeason": "June to September",
+      "location": "Ponds, lakes and slow waterways across Britain and temperate Europe",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "White",
+        "Yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Some peony plants can live and bloom for more than 50 years, and in China the peony has long been called the 'king of flowers'."
+      "emoji": "🪷",
+      "funFact": "The flowers open in the morning and close again in the afternoon. Their long stalks adjust as water levels change, so the blooms stay at the surface."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of small tubular flowers. It begins blooming in early summer and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Early to mid summer (June to August)",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania and the United States",
+      "name": "Banksia serrata",
+      "commonName": "Saw Banksia",
+      "description": "Rugged, gnarled trees carry chunky, cylindrical flower spikes that look like bottle brushes. The spikes are packed with hundreds of tiny blooms. They glow pale green-cream and draw honeyeaters and other nectar-loving birds through the cooler months.",
+      "bloomingSeason": "Summer to winter, peaking in autumn",
+      "location": "Coastal eastern Australia, from Queensland to Tasmania, where June falls in winter",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Green-cream",
+        "Pale yellow"
       ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing and medicine, and its name comes from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, semi-deciduous tree with fern-like leaves that becomes covered in clouds of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it is in the late stages of its bloom as winter approaches, and in the Northern Hemisphere it is blooming in warm regions such as California and the Mediterranean.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; planted in South Africa (Pretoria), Australia, California, Florida and the Mediterranean",
-      "colors": [
-        "lavender",
-        "blue",
-        "violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because its tens of thousands of jacaranda trees turn the streets purple."
-    },
-    {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy wildflower with classic white petals around a bright yellow center, found in meadows, roadsides and grasslands. It grows in clumps and can reach about 1 meter tall.",
-      "bloomingSeason": "Late spring to midsummer (May to August)",
-      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia and New Zealand",
-      "colors": [
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "The flower heads follow the sun, and the plant was traditionally associated with Midsummer and St. John's Day celebrations on June 24."
+      "emoji": "🌿",
+      "funFact": "After flowering, the spikes become woody cones with seed pods that mostly stay shut. Heat from a bushfire makes the pods open and release their seeds, and this is how the species regenerates."
     }
   ]
 }

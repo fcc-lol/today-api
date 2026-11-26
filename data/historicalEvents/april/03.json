@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1860,
-      "title": "First Pony Express Ride Begins",
-      "description": "The first riders of the Pony Express departed from St. Joseph, Missouri, and Sacramento, California, carrying mail across roughly 1,900 miles of the American West in about ten days.",
-      "category": "Transportation and Communication",
-      "significance": "The Pony Express dramatically shortened mail delivery times between the East and the West Coast and became a lasting symbol of the American frontier, though it was made obsolete by the transcontinental telegraph in October 1861."
-    },
-    {
-      "year": 1948,
-      "title": "Truman Signs the Marshall Plan into Law",
-      "description": "U.S. President Harry S. Truman signed the Economic Cooperation Act, authorizing the European Recovery Program, known as the Marshall Plan, to provide billions of dollars in aid to rebuild Western Europe after World War II.",
-      "category": "Politics and Economics",
-      "significance": "The plan helped revive war-torn European economies, strengthened democratic institutions, and countered the spread of communism, shaping the postwar order and laying groundwork for European cooperation."
-    },
-    {
-      "year": 1968,
-      "title": "Martin Luther King Jr. Delivers the 'I've Been to the Mountaintop' Speech",
-      "description": "On the eve of his assassination, Martin Luther King Jr. gave his final speech at Mason Temple in Memphis, Tennessee, in support of striking sanitation workers.",
-      "category": "Civil Rights",
-      "significance": "The speech is regarded as one of the most powerful and prophetic addresses of the civil rights movement, and it became a poignant final statement of King's legacy of nonviolent activism and economic justice."
-    },
-    {
-      "year": 1973,
-      "title": "First Handheld Cellular Phone Call Is Made",
-      "description": "Martin Cooper, a Motorola engineer, made the first public call on a handheld portable cellular phone in New York City, reportedly calling a rival at Bell Labs.",
-      "category": "Science and Technology",
-      "significance": "This call marked the birth of mobile telephony, paving the way for the global mobile communications revolution and the smartphones that define modern life."
+      "title": "The Pony Express Rides Out",
+      "description": "The first successful Pony Express run began in Saint Joseph, Missouri. Riders carried mail by relay toward Sacramento, California, and the first trip finished later in April.",
+      "category": "Milestone",
+      "significance": "The Pony Express became a lasting symbol of the American frontier. It sharply cut mail delivery times across the continent until the telegraph made it obsolete."
     },
     {
       "year": 1882,
-      "title": "Outlaw Jesse James Is Shot and Killed",
-      "description": "Jesse James was shot dead by Robert Ford, a member of his own gang, at his home in St. Joseph, Missouri, for the reward offered by the governor.",
-      "category": "Crime and Folklore",
-      "significance": "His death ended one of the most notorious outlaw careers in American history and cemented James's status as a legendary figure of the Old West."
+      "title": "Outlaw Jesse James Is Killed",
+      "description": "In St. Joseph, Missouri, Robert Ford shot and killed Jesse James, who was living under an assumed name. Ford was after a $5,000 reward.",
+      "category": "Death",
+      "significance": "The death of one of the best-known outlaws of the American Old West turned James into a figure of folklore. Books, songs and films have retold his story ever since."
+    },
+    {
+      "year": 1948,
+      "title": "Truman Signs the Marshall Plan",
+      "description": "President Harry S. Truman signed the Marshall Plan into law. It provided American economic aid to help rebuild Western European countries after World War II.",
+      "category": "Politics",
+      "significance": "The program helped revive war-torn economies and strengthened ties between the United States and Western Europe. It became a cornerstone of early Cold War policy."
+    },
+    {
+      "year": 1973,
+      "title": "The First Public Mobile Phone Call",
+      "description": "Motorola engineer Martin Cooper placed the first public call from a handheld mobile phone, standing on a Manhattan sidewalk. He called Joel Engel, a rival researcher at Bell Labs.",
+      "category": "Technology",
+      "significance": "The call marked the start of the mobile phone era. Handheld phones have since reshaped how people communicate around the world."
     }
   ]
 }

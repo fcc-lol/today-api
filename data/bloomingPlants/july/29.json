@@ -4,57 +4,45 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely grown in gardens, and commercially for essential oils, perfumes and culinary use. Bees and butterflies are strongly attracted to its nectar-rich blooms.",
-      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania and the United States",
+      "description": "Silvery-green mounds send up slender spikes of tiny, fragrant violet-blue flowers. Their scent drifts across sun-baked hillsides and hums with bees. In the fields of Provence, the flowers stretch in long, rolling purple rows toward the horizon.",
+      "bloomingSeason": "Mid-June to late August, with peak bloom in July; late-season blooms still colour the fields on July 29",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a rough, hairy stem and a huge flower head made of many tiny florets surrounded by yellow ray petals. The flower heads track the sun when young. It is grown for seeds, oil and ornament, and is a favorite of pollinators and birds.",
-      "bloomingSeason": "July to September in the Northern Hemisphere",
-      "location": "Native to North America; widely cultivated in Ukraine, Russia, Argentina, Europe and the United States",
-      "colors": [
-        "yellow",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun across the sky (heliotropism), but mature flowers typically face east permanently, which warms them early and attracts more pollinators."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves that repel water and showy, fragrant flowers held above the water's surface on tall stalks. It grows in shallow ponds, lakes and wetlands, and is revered in many Asian cultures as a symbol of purity.",
-      "bloomingSeason": "June to September in temperate Asia",
-      "location": "Native to Asia and Australia; found in India, China, Japan, Vietnam and the Volga Delta in Russia",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for centuries; seeds around 1,300 years old recovered from a dry lakebed in China were successfully germinated."
+      "funFact": "Lavender's name comes from the Latin 'lavare', meaning 'to wash'. Romans used it to scent their baths and laundry."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A shrub with the largest flower head of any protea, made up of a central cone of tiny flowers surrounded by showy, pointed bracts. It thrives in the nutrient-poor, acidic soils of the fynbos, and is pollinated by beetles and birds. It is the national flower of South Africa.",
-      "bloomingSeason": "Late autumn to spring, with peak flowering in the Southern Hemisphere winter, including July and August",
-      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa",
+      "description": "South Africa's national flower is a showy, dinner-plate-sized bloom. A crown of creamy-pink bracts surrounds a downy center. It opens in the cool of the Southern Hemisphere winter, when little else in the fynbos is flowering.",
+      "bloomingSeason": "July to October, so the first blooms open around July 29 in the Southern Hemisphere winter",
+      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Protea is named after the Greek god Proteus, who could change his shape, reflecting the great diversity of forms in the genus."
+      "funFact": "Proteas belong to an ancient plant family that dates back to the age of Gondwana. The family's name honors Proteus, the Greek sea god who could change his shape."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. In summer meadows and gardens, they are favorites of butterflies, bumblebees and goldfinches. Goldfinches also come later for the seeds.",
+      "bloomingSeason": "Mid-summer, roughly June through August (it may repeat in early fall); in full bloom on July 29",
+      "location": "Eastern and central North America, widely grown in gardens and prairies",
+      "colors": [
+        "Purple",
+        "Pink",
+        "Orange-bronze"
+      ],
+      "emoji": "🌸",
+      "funFact": "The 'cone' at the center is a dense cluster of tiny true flowers. The genus name comes from the Greek 'echinos', meaning hedgehog, for its prickly center."
     }
   ]
 }

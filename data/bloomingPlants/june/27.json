@@ -3,59 +3,45 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant, evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely cultivated in gardens and in large fields for essential oil production and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Late spring to mid-summer (peak June to July in the Northern Hemisphere)",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Tasmania, Bulgaria, and the United States",
+      "commonName": "English (True) Lavender",
+      "description": "Purple-blue spikes ripple across the sun-baked plateaus of Provence in long, fragrant rows. The air hums with bees and smells sweetly herbal. Late June is when the true lavender fields reach their dramatic peak.",
+      "bloomingSeason": "Mid-June to late August, with true lavender peaking from late June to mid-July",
+      "location": "Provence, southern France (including the Valensole Plateau)",
       "colors": [
-        "Purple",
-        "Lavender",
-        "Blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which is the origin of its name from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy flower heads, composed of sterile sepals, set against broad glossy green leaves. It thrives in partial shade and moist soil.",
-      "bloomingSeason": "Early summer to early autumn",
-      "location": "Native to Japan; widely grown in temperate gardens in Europe, North America, the Azores, and East Asia",
-      "colors": [
-        "Blue",
-        "Pink",
-        "Purple",
-        "White"
-      ],
-      "emoji": "💠",
-      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
+      "funFact": "The name lavender is thought to come from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round, water-repellent leaves held above the water and spectacular, fragrant flowers on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters.",
-      "bloomingSeason": "Early summer to late summer (June to August in the Northern Hemisphere)",
-      "location": "Native to Asia and northern Australia; cultivated in India, China, Vietnam, Japan, and the southern United States",
+      "description": "Dinner-plate-sized pink blooms rise above the still water on tall stalks, held clear of the round, water-beading leaves. Each flower opens in the morning and closes at night. Summer is lotus season in the ponds and moats of East Asia.",
+      "bloomingSeason": "Summer, around June and July",
+      "location": "Ponds and wetlands across East Asia, including Japan and China",
       "colors": [
         "Pink",
         "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus leaves have a microscopic texture that makes them self-cleaning, a phenomenon known as the 'lotus effect' that has inspired water-repellent materials."
+      "funFact": "Lotus leaves have a microscopic texture that sheds water and dirt. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody shrub with the largest flower head in the Protea genus, featuring a large bowl-shaped crown of pointed pink bracts surrounding a center of fuzzy flowers. It grows in fynbos vegetation on nutrient-poor, acidic soils.",
-      "bloomingSeason": "Late autumn to early summer, with many blooms in the Southern Hemisphere winter (May to September)",
-      "location": "South Africa's Western and Eastern Cape fynbos regions",
+      "name": "Banksia menziesii",
+      "commonName": "Firewood Banksia",
+      "description": "In the Australian winter, this gnarled, sandy-soil tree lights up with woolly flower spikes in shades of red, pink and gold. They look like candles and are a feast for honeyeaters when little else is flowering.",
+      "bloomingSeason": "Autumn to winter, with peak flowering from May to July",
+      "location": "Southwest Western Australia, on sandy coastal plains",
       "colors": [
+        "Red",
         "Pink",
-        "Cream",
-        "Red"
+        "Gold",
+        "Yellow"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and it is adapted to wildfires, with underground lignotubers that resprout after burns."
+      "funFact": "Each flower spike is made up of hundreds of tiny individual flowers. Banksias are adapted to bushfire, and many species release their seeds after a fire."
     }
   ]
 }

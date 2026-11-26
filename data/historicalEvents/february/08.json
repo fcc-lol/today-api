@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1587,
-      "title": "Execution of Mary, Queen of Scots",
-      "description": "Mary, Queen of Scots, was beheaded at Fotheringhay Castle in England after being implicated in the Babington Plot to assassinate her cousin, Queen Elizabeth I.",
-      "category": "Politics",
-      "significance": "Her death removed a central Catholic claimant to the English throne and heightened tensions with Catholic Spain, contributing to the launch of the Spanish Armada in 1588. Her son James VI of Scotland later succeeded Elizabeth as James I of England."
+      "title": "Mary, Queen of Scots, Is Executed",
+      "description": "After nearly 19 years of imprisonment in England, Mary, Queen of Scots, was beheaded at Fotheringhay Castle in Northamptonshire. Her cousin Elizabeth I had signed the death warrant only reluctantly, after Mary was linked to plots against the English crown.",
+      "category": "Death",
+      "significance": "The execution ended a long rivalry between two queens. It also cleared the way for the Stuart line to inherit the English throne through Mary's son, James VI and I."
+    },
+    {
+      "year": 1693,
+      "title": "Royal Charter Founds the College of William & Mary",
+      "description": "King William III and Queen Mary II issued the royal charter establishing the College of William & Mary in colonial Virginia.",
+      "category": "Milestone",
+      "significance": "It became the second-oldest institution of higher education in the American colonies. It went on to educate several of the nation's founding leaders."
     },
     {
       "year": 1828,
-      "title": "Birth of Jules Verne",
-      "description": "Jules Verne, the French novelist, was born in Nantes, France. He went on to write adventure novels such as Twenty Thousand Leagues Under the Sea, Journey to the Center of the Earth, and Around the World in Eighty Days.",
-      "category": "Arts and Literature",
-      "significance": "Verne is regarded as a founding father of science fiction. His works anticipated technologies such as submarines and space travel and remain among the most translated books in the world."
+      "title": "Jules Verne Is Born",
+      "description": "Jules Verne was born in the busy port city of Nantes, France. As a boy he sailed on the Loire River and dreamed of the sea. Those dreams later shaped his adventure novels.",
+      "category": "Birth",
+      "significance": "Verne helped found modern science fiction with works such as Twenty Thousand Leagues Under the Seas and Around the World in Eighty Days. He remains one of the most widely translated authors in the world."
     },
     {
       "year": 1904,
-      "title": "Japan Attacks Port Arthur, Beginning the Russo-Japanese War",
-      "description": "Japanese forces launched a surprise torpedo boat attack on the Russian fleet at Port Arthur, Manchuria, starting the Russo-Japanese War before a formal declaration of war.",
-      "category": "Military",
-      "significance": "Japan's victory in the war in 1905 marked the first major defeat of a European power by an Asian nation in the modern era, established Japan as a rising world power, and contributed to the unrest that led to the 1905 Russian Revolution."
-    },
-    {
-      "year": 1910,
-      "title": "Incorporation of the Boy Scouts of America",
-      "description": "The Boy Scouts of America was incorporated by William D. Boyce, inspired by the scouting movement founded in Britain by Robert Baden-Powell.",
-      "category": "Society",
-      "significance": "The organization grew into one of the largest youth movements in the United States, shaping youth education, outdoor activity, and civic engagement for generations."
-    },
-    {
-      "year": 1971,
-      "title": "NASDAQ Stock Market Begins Trading",
-      "description": "The National Association of Securities Dealers Automated Quotations system, NASDAQ, began trading as the world's first electronic stock market.",
-      "category": "Economics",
-      "significance": "NASDAQ pioneered electronic trading and later became home to many major technology companies, transforming global financial markets."
+      "title": "Japan Opens the Russo-Japanese War at Port Arthur",
+      "description": "Japan declared war on Russia and launched a surprise torpedo attack on the Russian fleet at Port Arthur. The declaration did not reach Saint Petersburg until the next day.",
+      "category": "Major Event",
+      "significance": "The attack began a conflict that ended in a Japanese victory. It marked the arrival of Japan as a major world military power and shook confidence in the Russian Empire."
     }
   ]
 }

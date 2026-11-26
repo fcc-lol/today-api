@@ -2,60 +2,57 @@
   "date": "July 30",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads made of golden ray florets surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is widely grown for seed, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
-      "location": "Native to North America; cultivated across the United States, Europe, Ukraine, Russia, and Argentina",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The sunflower head is actually a composite of hundreds to thousands of tiny individual flowers arranged in a Fibonacci spiral pattern."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Late spring through late summer; peak bloom in July in many regions",
-      "location": "Native to the Mediterranean; grown in Provence (France), England, Bulgaria, Tasmania, and the western United States",
+      "description": "Rolling rows of silvery-green shrubs ripple with slender purple spikes. Each spike hums with bees and gives off a sweet, herbal perfume. Provence's lavender fields are among the most photographed summer scenes in the world.",
+      "bloomingSeason": "Late spring to late summer. In Provence, flowering runs from about June to early August, and fields around Sault bloom into August.",
+      "location": "Provence, southern France",
       "colors": [
-        "lavender",
-        "purple",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Silvery-grey foliage"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely derives from the Latin 'lavare' meaning 'to wash', as Romans used it to scent baths."
+      "funFact": "Lavender oil has been prized since Roman times. The plant's name probably comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round, water-repellent leaves held above the water and spectacular, fragrant flowers on tall stalks. Blooms open in the morning and close by afternoon over several days.",
-      "bloomingSeason": "Summer, peaking July to August in temperate Asia",
-      "location": "Asia and northern Australia, including India, China, Japan, and Vietnam; cultivated in ponds worldwide",
+      "description": "Huge, cupped pink and white blooms rise on stiff stems above round, water-beading leaves. Each flower opens in the morning and closes at night, and lasts about three days. Ponds across Asia are at their most dramatic in high summer.",
+      "bloomingSeason": "Summer. Flowering is concentrated from June to August, which covers July 30.",
+      "location": "Ponds and lakes across East and South Asia, including China",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their temperature to about 30-35°C (86-95°F), even when the surrounding air is much cooler, and lotus seeds can remain viable for over a thousand years."
+      "funFact": "Lotus leaves have a micro-textured surface that sheds water and dirt in beads. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     },
     {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower forming dense stands of spiky magenta flower clusters, often colonizing burned or cleared land. Flowers open from the bottom of the spike upward as summer progresses.",
-      "bloomingSeason": "Mid-summer to early fall; peaks around late July in northern latitudes",
-      "location": "Northern temperate and subarctic regions including Alaska, Canada, Scandinavia, Siberia, and the northern United States",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower is a bold, bowl-shaped bloom up to about 30 cm across. Its pink-tipped, silky bracts surround a central cushion of tiny flowers. It blooms in the southern winter and brings color to the fynbos of the Cape.",
+      "bloomingSeason": "Winter to spring, roughly July to October, so flowering is underway by July 30.",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
       "colors": [
-        "magenta",
-        "pink",
-        "purple"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
       "emoji": "🌸",
-      "funFact": "Locals often say that when the fireweed blooms reach the top of the stalk, summer is nearly over and winter is about six weeks away."
+      "funFact": "Protea belongs to one of the oldest families of flowering plants. Its name comes from the Greek sea god Proteus, who could change shape, a nod to the many forms of the genus."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "In the Australian winter, this small tree is covered in fluffy, golden, sweetly scented flower balls. They are arranged in showy sprays against its sickle-shaped leaf-like phyllodes. Their color lights up bushland and roadsides in the cool months.",
+      "bloomingSeason": "Late winter to spring. Flowering runs from about July to October and usually peaks in July and August.",
+      "location": "Southeastern Australia",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem. National Wattle Day is celebrated on September 1."
     }
   ]
 }

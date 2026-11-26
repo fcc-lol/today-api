@@ -4,55 +4,41 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made up of golden ray florets surrounding a dark central disc. The heads track the sun when young, and the plant is widely cultivated for seeds, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and North America",
+      "description": "Towering stalks carry huge golden blooms that follow the sun across the sky. In the fields of the northern Great Plains, whole hillsides glow yellow, with dark chocolate-brown centers buzzing with bees.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July to September) in the Northern Hemisphere",
+      "location": "North American Great Plains, such as Kansas and the Dakotas, USA",
       "colors": [
-        "yellow",
-        "gold",
-        "brown"
+        "Golden yellow",
+        "Brown"
       ],
       "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west each day, a movement called heliotropism, but mature flower heads stay facing east."
+      "funFact": "What looks like one flower is actually a composite head of hundreds to thousands of tiny florets. The seeds form in a spiral pattern that follows the Fibonacci sequence."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Native to the Mediterranean; cultivated in southern France, England, Bulgaria, and the Pacific Northwest of North America",
+      "description": "Silvery-green mounds send up slender spikes of fragrant violet-blue flowers. In the lavender fields of Provence, the purple rows hum with pollinators and perfume the warm summer air.",
+      "bloomingSeason": "Early to late summer (about June to August) in the Northern Hemisphere",
+      "location": "Provence, southern France, and other Mediterranean-climate regions",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower that produces long spires of bright magenta-pink flowers that bloom from the bottom up. It is among the first plants to colonize burned or disturbed land.",
-      "bloomingSeason": "Midsummer to early autumn (July to September)",
-      "location": "Northern temperate and subarctic regions, including Alaska, Canada, northern Europe, and Siberia",
-      "colors": [
-        "magenta",
-        "pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Fireweed flowers open progressively up the stalk, and locals traditionally say that when the top blooms open, summer is nearly over."
+      "funFact": "Lavender's name probably comes from the Latin word for washing, because the Romans scented their baths with it."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "A small evergreen tree covered in fluffy, fragrant golden-yellow pom-pom flower clusters. It blooms in the Southern Hemisphere's late winter, brightening the Australian bush.",
-      "bloomingSeason": "Late winter to spring (July to October in the Southern Hemisphere)",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "description": "In the Australian winter, this hardy tree bursts into clouds of fluffy, golden pom-pom flowers with a honeyed scent. It brightens the cool landscapes of southeastern Australia when little else is in color.",
+      "bloomingSeason": "Late winter to spring (about July to October) in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1st."
+      "funFact": "Golden Wattle is Australia's national floral emblem. National Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

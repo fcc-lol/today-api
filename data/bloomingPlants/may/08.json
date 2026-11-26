@@ -2,64 +2,33 @@
   "date": "May 8",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on upright stems and broad blue-green leaves. Late-flowering cultivars are at their peak in early May in cool temperate gardens and are grown in countless forms, including fringed, double, and parrot types.",
-      "bloomingSeason": "Mid-spring to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, northern Europe, northeastern North America, and temperate gardens worldwide",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese wisteria",
+      "description": "Long, fragrant flower clusters hang from twisting vines and form glowing tunnels and canopies. At Japan's famous wisteria gardens, the blooms open in a slow wave. Pale pink comes first, then deep purple, then white and yellow.",
+      "bloomingSeason": "Mid-April to mid-May, usually peaking from late April into early May. Some later varieties, including white ones, are still flowering around May 8.",
+      "location": "Ashikaga, Tochigi Prefecture, Japan",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
         "purple",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "During the Dutch Golden Age in the 1630s, tulip bulbs became so valuable that single bulbs sold for more than the price of a house, a episode known as Tulip Mania."
-    },
-    {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub that produces dense, conical clusters of intensely fragrant flowers. It thrives in cold-winter climates and is often at or near peak bloom in early to mid May across much of the northern United States, Canada, and Europe.",
-      "bloomingSeason": "Late spring (May in temperate Northern Hemisphere)",
-      "location": "Native to the Balkan Peninsula; widely cultivated across Europe, North America, and northern Asia",
-      "colors": [
         "lilac",
-        "purple",
-        "white",
         "pink",
-        "magenta"
+        "white",
+        "yellow"
       ],
       "emoji": "🪻",
-      "funFact": "Lilacs need a cold winter dormancy to set flower buds, and they can live for over a century, often persisting at abandoned homesteads long after the buildings are gone."
+      "funFact": "Wisteria vines twine in a set direction. Japanese wisteria climbs clockwise, while Chinese wisteria climbs counterclockwise. Old vines can grow into massive woody trunks that live for well over a century."
     },
     {
-      "name": "Hyacinthoides non-scripta",
-      "commonName": "English Bluebell",
-      "description": "A woodland bulb that carpets the forest floor in sweeping drifts of nodding, bell-shaped, sweetly scented flowers, all hanging to one side of an arching stem. Peak bloom in British woodlands usually falls in late April through mid May.",
-      "bloomingSeason": "Mid-spring to late spring (late April to May)",
-      "location": "Atlantic Europe, especially the United Kingdom, Ireland, and northwestern France and Spain",
+      "name": "Banksia serrata",
+      "commonName": "Saw banksia",
+      "description": "A rugged, gnarled coastal tree with big, upright, greenish-yellow flower spikes. Each spike is a dense bottlebrush of thousands of tiny flowers. Honeyeaters, bees and small mammals visit it for nectar. After flowering, the spikes turn into the woody seed cones that inspired the 'Banksia men' of Australian children's stories.",
+      "bloomingSeason": "Summer through autumn in Australia. Early May falls in autumn, so the flower spikes are still opening.",
+      "location": "Coastal eastern Australia, from Queensland through New South Wales to Victoria and Tasmania",
       "colors": [
-        "violet-blue",
-        "white",
-        "pink"
+        "greenish-yellow",
+        "cream"
       ],
-      "emoji": "🔔",
-      "funFact": "The United Kingdom holds about half of the world's bluebell population, and it is illegal to dig up wild bluebells for sale under British wildlife law."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "Fern-leaved tropical to subtropical tree that is covered in trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, such as parts of Mexico, Florida, and southern Asia, early to mid May is a prime flowering time as the tree blooms at the end of the dry season.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in Mexico, southern California, Florida, and subtropical cities worldwide",
-      "colors": [
-        "lavender",
-        "blue-purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Mexico City, the jacaranda blooms in spring are so iconic that streets and parks turn purple, and the trees were introduced there by a Japanese gardener in the early 20th century."
+      "emoji": "🌼",
+      "funFact": "Banksia seed cones are tough and fire-adapted. Many stay sealed on the tree for years and open to release their seeds only after a bushfire passes."
     }
   ]
 }

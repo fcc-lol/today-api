@@ -2,39 +2,39 @@
   "date": "November 1",
   "events": [
     {
-      "year": 1755,
-      "title": "Great Lisbon Earthquake",
-      "description": "On All Saints' Day, a massive earthquake estimated at magnitude 8.5-9.0 struck Lisbon, Portugal, followed by a tsunami and fires that destroyed much of the city and killed tens of thousands of people.",
-      "category": "Natural Disaster",
-      "significance": "One of the deadliest earthquakes in history, it profoundly influenced Enlightenment thought, prompting debate among philosophers such as Voltaire and Rousseau about divine providence, and it helped lay the groundwork for modern seismology."
+      "year": 1604,
+      "title": "Shakespeare's Othello premieres",
+      "description": "William Shakespeare's tragedy Othello was performed for the first time at Whitehall Palace in London, before the court of King James I.",
+      "category": "Culture",
+      "significance": "One of Shakespeare's greatest tragedies, it still explores jealousy, race and betrayal on stages around the world."
     },
     {
-      "year": 1512,
-      "title": "Sistine Chapel Ceiling Unveiled",
-      "description": "Michelangelo's frescoes on the ceiling of the Sistine Chapel in Vatican City were publicly unveiled by Pope Julius II after about four years of work.",
-      "category": "Arts and Culture",
-      "significance": "The ceiling, including The Creation of Adam, is regarded as a supreme achievement of High Renaissance art and has influenced Western art for centuries."
+      "year": 1755,
+      "title": "The Great Lisbon Earthquake",
+      "description": "A massive earthquake and the tsunami that followed devastated Lisbon, Portugal, on All Saints' Day and killed tens of thousands of people.",
+      "category": "Natural Disaster",
+      "significance": "The disaster shook European thought and religious faith. It also helped give rise to modern seismology and earthquake engineering."
+    },
+    {
+      "year": 1894,
+      "title": "Nicholas II becomes Tsar of Russia",
+      "description": "Nicholas II took the Russian throne after the death of his father, Alexander III.",
+      "category": "Politics",
+      "significance": "He was the last Tsar of Russia. His reign ended with the 1917 revolutions and brought the Romanov dynasty to a close."
     },
     {
       "year": 1950,
-      "title": "Attempted Assassination of President Harry S. Truman",
-      "description": "Two Puerto Rican nationalists, Oscar Collazo and Griselio Torresola, attempted to assassinate President Truman at Blair House in Washington, D.C. Torresola and White House police officer Leslie Coffelt were killed in the gunfight.",
+      "title": "Assassination attempt on President Truman",
+      "description": "Two Puerto Rican nationalists tried to shoot their way into Blair House in Washington, D.C., where President Harry S. Truman was staying. Truman was unharmed.",
       "category": "Politics",
-      "significance": "The attack was one of the few attempts on a sitting U.S. president's life and brought attention to the Puerto Rican independence movement while prompting tighter presidential security."
-    },
-    {
-      "year": 1952,
-      "title": "United States Detonates First Hydrogen Bomb",
-      "description": "The United States tested 'Ivy Mike' at Enewetak Atoll in the Pacific, the first successful full-scale thermonuclear device, with a yield of about 10.4 megatons.",
-      "category": "Science and Technology",
-      "significance": "The test escalated the Cold War nuclear arms race, as the hydrogen bomb was hundreds of times more powerful than the atomic bombs used in 1945."
+      "significance": "The attack led to a major review of presidential security in the United States."
     },
     {
       "year": 1993,
-      "title": "Maastricht Treaty Takes Effect",
-      "description": "The Treaty on European Union came into force, formally establishing the European Union and laying the groundwork for a single currency and common foreign and security policy.",
+      "title": "Maastricht Treaty takes effect",
+      "description": "The Maastricht Treaty came into force and formally created the European Union. It also set the course for a common European currency.",
       "category": "Politics",
-      "significance": "It transformed the European Community into the European Union, deepening political and economic integration across Europe and paving the way for the euro."
+      "significance": "It reshaped European integration and paved the way for the euro."
     }
   ]
 }

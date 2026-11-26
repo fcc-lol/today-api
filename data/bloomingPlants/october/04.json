@@ -2,60 +2,43 @@
   "date": "October 4",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that produces goblet-shaped, crocus-like flowers in autumn, long after its leaves have died back. Flowers emerge directly from the ground without foliage, which earned it the nickname 'naked ladies'. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to Europe in damp meadows and woodlands; widely cultivated in temperate gardens in North America and elsewhere",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust perennial wildflower with clusters of daisy-like flowers with yellow centers and many narrow ray petals. It is a vital late-season nectar source for pollinators and thrives in meadows, roadsides, and prairies.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies; grown widely in gardens",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "magenta"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies depend on New England asters for nectar to fuel their long migration to Mexico, which coincides with peak bloom in early October."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A tree with fern-like leaves that erupts in massive clusters of trumpet-shaped lavender-blue flowers, often before leaves fully emerge. In spring in the Southern Hemisphere it creates spectacular purple canopies over streets and parks.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November); begins in late September",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa (Pretoria), Australia, and New Zealand's northern regions",
+      "description": "Whole avenues turn misty violet-blue as this graceful tree drops trumpet-shaped blossoms in drifts. The flowers carpet pavements and cars beneath fern-like foliage.",
+      "bloomingSeason": "Spring in the Southern Hemisphere, peaking in October (roughly late September to November)",
+      "location": "Pretoria, South Africa, and Buenos Aires, Argentina",
       "colors": [
-        "lavender",
-        "blue-purple"
+        "Violet",
+        "Lavender-blue"
       ],
       "emoji": "🌳",
-      "funFact": "Pretoria in South Africa is known as the 'Jacaranda City' with tens of thousands of jacaranda trees, and fallen blossoms create purple carpets on the streets each October."
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of its tens of thousands of these trees, which were planted along its streets and are native to South America."
     },
     {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
-      "description": "An evergreen shrub or small tree with tiny but intensely fragrant flowers that smell of apricots and ripe peaches. The blossoms appear in clusters along the stems and perfume entire gardens and streets.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Native to Asia, from the Himalayas through China to Japan; commonly planted in China, Japan, and the southeastern United States",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Leafless, goblet-shaped blooms push straight out of the bare ground and look like crocuses. They appear after the summer foliage has long since died away.",
+      "bloomingSeason": "Autumn, from late August through October",
+      "location": "Meadows and gardens across temperate Europe, and cultivated in gardens in North America",
       "colors": [
-        "pale yellow",
-        "orange",
-        "white"
+        "Pink",
+        "Lilac",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "In China, the Osmanthus blooming season is celebrated alongside the Mid-Autumn Festival, and the flowers are used to flavor teas, wine, cakes, and jams."
+      "emoji": "🌸",
+      "funFact": "Despite its name it is not a true crocus. It produces the toxic compound colchicine, which is used in medicine, and its leaves emerge only in spring, months after the flowers."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Nerine (Guernsey lily)",
+      "description": "Sparkling pink flower heads on tall, slender stems light up the autumn garden, with each frilly-petaled flower catching the low sun.",
+      "bloomingSeason": "Autumn, September to October",
+      "location": "Gardens in the United Kingdom and Ireland, and across mild temperate Europe; native to South Africa",
+      "colors": [
+        "Pink"
+      ],
+      "emoji": "💐",
+      "funFact": "This South African bulb flowers best when it is crowded and baked in summer sun, so it thrives against warm, sunny walls."
     }
   ]
 }

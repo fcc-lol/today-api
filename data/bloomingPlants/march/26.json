@@ -2,58 +2,46 @@
   "date": "March 26",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A graceful deciduous tree that produces clouds of pale pink to nearly white five-petaled flowers before its leaves emerge. It is the most widely planted ornamental cherry in Japan and is celebrated in hanami festivals. Trees are often planted along rivers, in parks, and around temples.",
-      "bloomingSeason": "Late March to mid-April (peak varies by latitude; late March in Tokyo, Washington D.C., and similar climates)",
-      "location": "Japan, Korea, eastern United States, and temperate regions worldwide",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Fields of velvety, silvery-green leaves rise into spikes of fragrant, pea-like blossoms. Each spike is deep blue, tipped with a crisp white crown that ages to magenta. Whole roadsides and meadows turn to rippling blue.",
+      "bloomingSeason": "March to May, with peak color typically from late March through April",
+      "location": "Texas, USA, especially the Hill Country and central Texas prairies",
       "colors": [
-        "pale pink",
-        "white"
+        "Blue",
+        "White",
+        "Magenta"
+      ],
+      "emoji": "💙",
+      "funFact": "The white tips on bluebonnet flowers turn reddish-purple after pollination. This signals to bees that the flower has already been visited, so they move on to unpollinated ones."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily (Naked Lady)",
+      "description": "Leafless stems shoot up from bare ground, each carrying a cluster of sweetly scented, trumpet-shaped pink blooms. The flowers open as the leaves have died back, so they appear to float in the late-summer landscape.",
+      "bloomingSeason": "Late summer, February to March in the Southern Hemisphere",
+      "location": "Southwestern Cape of South Africa, including the Western Cape coastal and mountain slopes",
+      "colors": [
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The cherry trees around the Tidal Basin in Washington, D.C. were a gift from Tokyo in 1912, and their peak bloom date is closely tracked each year by the National Park Service."
+      "funFact": "It is nicknamed the 'naked lady' because the flower stalks appear with no leaves at all. The foliage grows in the cooler, wetter months and dies back before the flowers emerge."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with a bright yellow trumpet surrounded by paler yellow petals. It naturalizes in meadows, woodlands, and gardens, forming sweeping drifts of color in early spring. Cultivated hybrids are among the most popular spring bulbs.",
-      "bloomingSeason": "Late February to April in the Northern Hemisphere",
-      "location": "Western Europe (native), widely naturalized in North America and temperate gardens",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "A towering Himalayan tree that bursts into huge, goblet-shaped blooms on bare branches, in shades from pale blush to vivid rose-pink. In full flower, the whole crown looks like a cloud of pink against the mountains.",
+      "bloomingSeason": "Late winter to spring, March to May",
+      "location": "Eastern Himalaya, including Bhutan, Nepal, Sikkim and southwest China, as well as gardens in mild climates",
       "colors": [
-        "yellow",
-        "pale yellow",
-        "cream"
+        "Pink",
+        "Rose",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain lycorine and other alkaloids that are toxic, which is why deer and rodents generally avoid them. One compound, galantamine, is used in medicine for Alzheimer's disease."
-    },
-    {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose bare branches and even trunk become studded with clusters of magenta-pink, pea-like flowers before the heart-shaped leaves appear. It is a valuable early nectar source for native bees and a common sight in woodland edges and gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
-      "colors": [
-        "magenta",
-        "pink",
-        "rosy purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a mildly tart flavor. The tree is cauliflorous, meaning blooms can emerge directly from the old wood of the trunk."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tropical to subtropical tree with fern-like foliage that bursts into masses of trumpet-shaped, lavender-blue flowers. In bloom, entire streets appear to be cloaked in purple, and fallen petals carpet the ground below.",
-      "bloomingSeason": "Spring in the Southern Hemisphere is September to November, but it blooms in autumn in some regions like parts of Northern Argentina and Northern Australia; in the tropics it flowers in March to May",
-      "location": "Native to South America; cultivated in Africa, Australia, India, and Mexico",
-      "colors": [
-        "lavender",
-        "violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City', and the tree is widely planted across the tropics for its dramatic display."
+      "emoji": "🌺",
+      "funFact": "Seedlings of this magnolia can take around 25 years or more to flower for the first time, which is why gardeners prize named, grafted selections."
     }
   ]
 }

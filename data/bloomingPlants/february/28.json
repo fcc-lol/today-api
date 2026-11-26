@@ -3,56 +3,45 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches before leaves emerge. It is widely cultivated in East Asian gardens and is celebrated in art and poetry for blooming in the cold tail end of winter.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare, gnarled branches break into spicy-sweet blossoms in shades of blush pink and white. The flowers open before any leaves appear. Their perfume drifts through gardens and orchards while winter is still in the air.",
+      "bloomingSeason": "Mid-winter to early spring, roughly January through March, with peak bloom in February",
+      "location": "Japan, where ume groves and shrine gardens are in flower in late February, weeks before cherry blossoms",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "Pale pink",
+        "White",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance and hope in East Asia because they bloom while snow may still be on the ground."
+      "funFact": "Ume blooms about a month ahead of cherry blossoms. In Japanese culture it stands for perseverance, because it flowers while the cold still lingers. Its fruit is pickled into the tangy umeboshi and steeped into plum wine."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It naturalizes in woodlands and lawns and is among the first bulbs to flower as winter ends.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, naturalized in the UK and North America",
+      "name": "Eranthis hyemalis",
+      "commonName": "Winter aconite",
+      "description": "This tiny buttercup-family bulb pushes up golden, cup-shaped flowers, each ringed by a green leafy collar. Where it is happy it spreads into glowing yellow carpets on the bare woodland floor. Flowers are open at about the same time as snowdrops.",
+      "bloomingSeason": "Late winter to early spring, from about February into March",
+      "location": "Woodlands and gardens across temperate Europe, including central Europe where flowering typically begins in early February and runs through March",
       "colors": [
-        "white",
-        "green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops produce a compound called galantamine, which is used in medicine to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen Australian tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. Although its main flowering peaks in late winter and spring, scattered blooms and related wattles continue in many regions, and it is a hardy ornamental.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October); some wattle species flower sporadically in late summer",
-      "location": "Southeastern Australia",
-      "colors": [
-        "golden yellow"
+        "Bright yellow",
+        "Green"
       ],
       "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+      "funFact": "Its flowers track the sun, opening wide in bright light and closing in dull or cold weather. That gives early bees one of the first reliable winter meals."
     },
     {
-      "name": "Amaryllis belladonna",
-      "commonName": "Belladonna Lily (Naked Lady)",
-      "description": "A bulbous perennial that sends up leafless stalks topped with clusters of fragrant, funnel-shaped pink flowers in the late Southern Hemisphere summer. Leaves appear only after the flowers fade.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere (February to April)",
-      "location": "Western Cape of South Africa; naturalized in Australia, California and the Mediterranean",
+      "name": "Camellia japonica",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs are covered in rose-like blooms, from single cups to formal, many-petalled doubles. The flowers come in white and every shade of pink and red. They light up gardens when little else is flowering.",
+      "bloomingSeason": "Late winter to early spring, with February often showing the widest variety of blooms",
+      "location": "Gardens of the southeastern United States, such as the Carolinas, where camellias are in full flower in February",
       "colors": [
-        "pink",
-        "rose",
-        "white"
+        "White",
+        "Pink",
+        "Red",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "The 'naked lady' nickname comes from its flower stalks emerging bare, without any leaves, from dry ground."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Thousands of cultivars have been bred, and some bear several flower forms on one bush."
     }
   ]
 }

@@ -2,63 +2,48 @@
   "date": "April 17",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems and broad blue-green leaves. Thousands of cultivars exist in nearly every color and form, from single and double blooms to fringed and parrot types.",
-      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
-      "location": "Cultivated across temperate regions, especially the Netherlands, North America, and Europe; native to Central Asia",
+      "name": "Cornus florida",
+      "commonName": "Flowering Dogwood",
+      "description": "Layered branches carry broad, petal-like bracts that float above the bare woodland understory like a drift of white lace. The small greenish true flowers cluster at the center of each bloom. By mid-spring the whole tree glows against the fresh green of the forest edge.",
+      "bloomingSeason": "April to May",
+      "location": "Eastern United States, from the Northeast down to the Southeast",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "purple",
-        "white",
-        "orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "During the 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a house in Amsterdam."
-    },
-    {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Flowering Cherry",
-      "description": "A deciduous ornamental tree that bursts into clouds of blossoms before or as the leaves emerge. Late-blooming cultivars such as 'Kanzan' produce dense, double pink flowers in mid to late April.",
-      "bloomingSeason": "Early to late spring (late-blooming varieties peak in mid-April)",
-      "location": "Japan, Korea, and China; widely planted in Washington D.C., Vancouver, and across Europe and North America",
-      "colors": [
-        "pink",
-        "white"
+        "White",
+        "Soft pink",
+        "Pale green"
       ],
       "emoji": "🌸",
-      "funFact": "In northern Japan, such as Hokkaido, cherry blossom season arrives in late April to early May, weeks after Tokyo, so the blossom 'front' moves north through the spring."
+      "funFact": "What look like four large petals are modified leaves called bracts. The real flowers are the tiny yellow-green buttons in the middle, and the tree's bright red fall berries feed many songbirds."
     },
     {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of pea-like flowers emerge directly from bare branches and even the trunk before the heart-shaped leaves appear. It is a valuable early nectar source for native bees.",
-      "bloomingSeason": "Early to mid-spring (March to April)",
-      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "This twining vine drapes pergolas, walls and old trees in long, fragrant chains of lavender-blue flowers. The blooms open almost all at once, usually before the leaves unfurl, so the plant looks like a shimmering purple waterfall. The sweet scent attracts bumblebees and carpenter bees.",
+      "bloomingSeason": "April, early to mid spring",
+      "location": "Native to China and widely grown in gardens across East Asia, Europe and North America",
       "colors": [
-        "magenta",
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "🌳",
-      "funFact": "Redbud blooms are edible and have a mild, slightly tart flavor; they are sometimes added to salads or used as garnishes."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A fast-growing tree with fern-like foliage that produces masses of trumpet-shaped lavender-blue flowers. When blooming, the tree can look like a purple cloud and carpets the ground below with fallen petals.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (Sept to Dec); also blooms in autumn in some tropical and subtropical areas, with some trees flowering in April in parts of Northern Hemisphere warm climates and sporadically in the tropics",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, Mexico, and California",
-      "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lavender",
+        "Violet-blue"
       ],
       "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'."
+      "funFact": "A mature wisteria can live for well over a century. Its twisting stems are strong enough to crush weak supports, and they twine in a consistent direction, counterclockwise when seen from above."
+    },
+    {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Cup-shaped blooms in nearly every color stand in neat rows and swaths across the Dutch bulb fields. Mid-April is the peak of the display, when whole fields look like stripes of paint. Cut flowers and garden beds across the temperate Northern Hemisphere join in at the same time.",
+      "bloomingSeason": "Mid-March to mid-May, with peak bloom around mid-April",
+      "location": "Lisse and the bulb-growing region of the Netherlands",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "Tulips originated in the mountains of Central Asia. In 17th-century Holland they became so prized that single bulbs sold for the price of a fine house during the famous 'tulip mania'."
     }
   ]
 }

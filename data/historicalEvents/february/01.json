@@ -2,39 +2,39 @@
   "date": "February 1",
   "events": [
     {
-      "year": 1884,
-      "title": "Publication of the First Fascicle of the Oxford English Dictionary",
-      "description": "The first installment of the Oxford English Dictionary, then titled A New English Dictionary on Historical Principles, was published under editor James Murray, covering words from 'A' to 'Ant'.",
-      "category": "Culture and Literature",
-      "significance": "It marked the start of the monumental project that became the definitive historical record of the English language, taking until 1928 to complete in full."
+      "year": 1865,
+      "title": "Lincoln Signs the Thirteenth Amendment",
+      "description": "President Abraham Lincoln signed the joint congressional resolution approving the Thirteenth Amendment to the U.S. Constitution. The amendment banned slavery and involuntary servitude, and it was then sent to the states for ratification.",
+      "category": "Politics",
+      "significance": "The amendment became the constitutional foundation for ending slavery in the United States, and it was ratified later in 1865."
     },
     {
-      "year": 1893,
-      "title": "Edison Completes the Black Maria Studio",
-      "description": "Thomas Edison's Black Maria, the first motion picture production studio, was completed in West Orange, New Jersey. Around this time, Edison's lab also produced Fred Ott's Sneeze, one of the earliest films copyrighted in the United States.",
-      "category": "Technology and Arts",
-      "significance": "The studio laid the foundation for the American film industry and early motion picture production."
+      "year": 1884,
+      "title": "The Oxford English Dictionary Begins Publication",
+      "description": "The first installment of the Oxford English Dictionary appeared. It covered entries from A to Ant and started a project that would take decades to finish.",
+      "category": "Culture",
+      "significance": "It began what became the most authoritative historical record of the English language."
+    },
+    {
+      "year": 1960,
+      "title": "The Greensboro Sit-Ins Begin",
+      "description": "Four Black college students sat down at a whites-only lunch counter in Greensboro, North Carolina, and refused to leave until they were served.",
+      "category": "Civil Rights",
+      "significance": "Their protest inspired sit-ins across the American South and became a landmark of the civil rights movement."
     },
     {
       "year": 1979,
-      "title": "Ayatollah Khomeini Returns to Iran",
-      "description": "After nearly 15 years in exile, Ayatollah Ruhollah Khomeini returned to Tehran to a massive welcome, as the Shah had left the country two weeks earlier.",
+      "title": "Khomeini Returns to Iran",
+      "description": "Ayatollah Ruhollah Khomeini flew back to Tehran after about 15 years in exile and was greeted by huge crowds.",
       "category": "Politics",
-      "significance": "His return led to the collapse of the Pahlavi monarchy and the establishment of the Islamic Republic of Iran, reshaping Middle Eastern geopolitics."
+      "significance": "His return marked a turning point in the Iranian Revolution and led to the founding of the Islamic Republic."
     },
     {
       "year": 2003,
-      "title": "Space Shuttle Columbia Disaster",
-      "description": "Space Shuttle Columbia disintegrated during re-entry over Texas and Louisiana at the end of mission STS-107, killing all seven crew members. Damage from foam insulation striking the left wing during launch was the cause.",
-      "category": "Science and Exploration",
-      "significance": "The tragedy led to a major investigation, reforms in NASA safety culture, and the eventual retirement of the Space Shuttle program in 2011."
-    },
-    {
-      "year": 1865,
-      "title": "Thirteenth Amendment Passed by Congress and Signed by Lincoln",
-      "description": "President Abraham Lincoln signed the joint resolution approving the Thirteenth Amendment to the U.S. Constitution, abolishing slavery, and sent it to the states for ratification.",
-      "category": "Politics and Law",
-      "significance": "The amendment, ratified in December 1865, formally abolished slavery and involuntary servitude in the United States, except as punishment for a crime."
+      "title": "Space Shuttle Columbia Disintegrates",
+      "description": "Columbia broke apart while re-entering Earth's atmosphere at the end of its mission, and all seven astronauts on board were killed.",
+      "category": "Science and Disaster",
+      "significance": "The accident led NASA to investigate and reform its safety practices, and it contributed to the decision to retire the shuttle program."
     }
   ]
 }

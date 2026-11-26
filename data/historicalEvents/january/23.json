@@ -2,39 +2,32 @@
   "date": "January 23",
   "events": [
     {
+      "year": 1556,
+      "title": "Deadliest Earthquake in Recorded History Strikes Shaanxi",
+      "description": "A catastrophic earthquake devastated the Wei River Valley in China's Shaanxi province. Many people lived in cave dwellings carved into loess cliffs, and these collapsed in huge numbers. Estimates of the dead run as high as about 830,000.",
+      "category": "Disaster",
+      "significance": "It is generally regarded as the deadliest earthquake ever recorded. It later shaped understanding of seismic risk and building practices in vulnerable regions."
+    },
+    {
       "year": 1849,
-      "title": "Elizabeth Blackwell Becomes First Woman to Earn a Medical Degree in the U.S.",
-      "description": "Elizabeth Blackwell graduated from Geneva Medical College in New York, becoming the first woman in the United States to receive a medical degree. She had been admitted, reportedly, after the student body voted in favor of her admission.",
-      "category": "Science and Medicine",
-      "significance": "Her achievement broke a major gender barrier in the medical profession and paved the way for women to enter medicine, inspiring later generations of female physicians."
-    },
-    {
-      "year": 1920,
-      "title": "Netherlands Refuses to Extradite Kaiser Wilhelm II",
-      "description": "The Dutch government formally refused an Allied request to hand over former German Emperor Wilhelm II, who had fled to the Netherlands after World War I, to face trial for war crimes.",
-      "category": "Politics and Diplomacy",
-      "significance": "The refusal meant the Kaiser never faced trial, shaping debates over accountability for wartime leaders and the limits of the Treaty of Versailles."
-    },
-    {
-      "year": 1933,
-      "title": "Twentieth Amendment Ratified",
-      "description": "The Twentieth Amendment to the U.S. Constitution was ratified when Missouri became the 36th state to approve it. It moved the start of presidential terms from March 4 to January 20 and congressional terms to January 3.",
-      "category": "Law and Government",
-      "significance": "It shortened the 'lame duck' period between elections and inauguration, making transitions of power more prompt."
+      "title": "Elizabeth Blackwell Becomes America's First Woman Physician",
+      "description": "Elizabeth Blackwell received her medical degree from the Medical Institution of Geneva in New York. She was the first woman in the United States to earn one.",
+      "category": "Milestone",
+      "significance": "Her achievement opened the medical profession to women. She went on to found institutions that trained female doctors."
     },
     {
       "year": 1960,
-      "title": "Bathyscaphe Trieste Reaches the Bottom of the Challenger Deep",
-      "description": "Jacques Piccard and U.S. Navy Lieutenant Don Walsh descended in the bathyscaphe Trieste to the bottom of the Challenger Deep in the Mariana Trench, about 10,900 meters (35,800 feet) below the surface.",
+      "title": "The Trieste Reaches the Bottom of the Ocean",
+      "description": "Jacques Piccard and Lt. Don Walsh descended in the bathyscaphe Trieste to the floor of the Challenger Deep in the Mariana Trench. They reached a record depth of about 10,911 metres (35,797 feet).",
       "category": "Exploration",
-      "significance": "It was the first crewed descent to the deepest known point in the Earth's oceans, a landmark of deep-sea exploration."
+      "significance": "It was the first crewed descent to the deepest known point on Earth. It showed that humans could reach the deepest parts of the ocean."
     },
     {
-      "year": 1973,
-      "title": "Nixon Announces Vietnam Peace Agreement",
-      "description": "President Richard Nixon announced that an agreement had been reached to end the Vietnam War, with the Paris Peace Accords initialed in Paris by Henry Kissinger and Le Duc Tho.",
-      "category": "War and Conflict",
-      "significance": "The accords led to the withdrawal of U.S. combat forces from Vietnam, ending direct American involvement in the long and divisive conflict."
+      "year": 1964,
+      "title": "The 24th Amendment Is Ratified",
+      "description": "South Dakota became the 38th state to ratify the 24th Amendment to the U.S. Constitution, completing the ratification process. The amendment banned poll taxes in federal elections.",
+      "category": "Politics",
+      "significance": "It removed a financial barrier that had been used to keep many Black and poor Americans from voting. It was an important step in the civil rights era."
     }
   ]
 }

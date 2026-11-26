@@ -2,61 +2,45 @@
   "date": "May 16",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers atop sturdy stems with deeply lobed glossy green foliage. Long-lived and often thriving for decades in the same spot.",
-      "bloomingSeason": "Late spring (May to early June) in the Northern Hemisphere",
-      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate gardens across North America and Europe",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese wisteria",
+      "description": "Woody vines hang heavy chains of fragrant, pea-like blue-violet flowers. The blooms open in 15–30 cm clusters, often before the leaves fully unfurl. They drape pergolas, walls and old trees in a lilac-purple cascade.",
+      "bloomingSeason": "April to May",
+      "location": "Native to China; widely grown in temperate gardens, with Japan's famous wisteria parks peaking from late April into mid-May",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "blue-violet",
+        "lavender",
+        "white"
       ],
-      "emoji": "🌸",
-      "funFact": "Peonies have been cultivated in China for over 2,000 years, and some plants can live and bloom for more than 100 years. Ants visiting the buds feed on nectar and do not need to be removed for the flowers to open."
+      "emoji": "🪻",
+      "funFact": "Wisteria twines in a set direction. Chinese wisteria winds counterclockwise, while Japanese wisteria (Wisteria floribunda) twists the opposite way, so you can tell the two apart from the vine alone."
     },
     {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub producing dense conical clusters of intensely fragrant, small tubular flowers with four-lobed petals. It is a beloved garden shrub in cool temperate regions and peaks in mid-May in many areas.",
-      "bloomingSeason": "Mid to late spring (late April to late May)",
-      "location": "Native to the Balkan Peninsula in southeastern Europe; cultivated throughout temperate North America, Europe and northern Asia",
+      "name": "Paeonia officinalis",
+      "commonName": "Common peony",
+      "description": "This cottage-garden classic produces big, cup-shaped, fragrant crimson blooms with golden-yellow stamens at their centers. They sit above deeply cut green foliage on a compact, herbaceous clump. Peonies bring a rich, romantic splash of color at the point when spring tips into early summer.",
+      "bloomingSeason": "May (peony season runs from mid-May to late June)",
+      "location": "Native to Europe; blooming in temperate gardens of the northern United States and similar climates",
       "colors": [
-        "lilac",
-        "purple",
-        "white",
-        "pink"
+        "crimson red",
+        "yellow"
       ],
-      "emoji": "💜",
-      "funFact": "Lilac needs a cold winter dormancy to bloom well, so it struggles in tropical climates. It is the state flower of New Hampshire because it symbolizes the hardy character of its people."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, semi-deciduous tree with fern-like foliage that bursts into a canopy of trumpet-shaped violet-blue flowers, carpeting the ground beneath it. In the Northern Hemisphere subtropics it begins blooming in late spring.",
-      "bloomingSeason": "Late spring to early summer (May to June) in the Northern Hemisphere subtropics; October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Mediterranean climates, California, Florida, Mexico, South Africa and Australia",
-      "colors": [
-        "violet",
-        "blue-purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed the Jacaranda City, and in parts of Mexico the blooms are celebrated as a sign of spring."
+      "emoji": "🌺",
+      "funFact": "Ants swarm the sticky flower buds, but they are harmless. They simply feed on the sugary nectar the buds secrete, and a peony will open perfectly well without any help from them."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, slightly fragrant flowers that open in cool weather. In the Southern Hemisphere, it begins flowering as autumn arrives and the days cool.",
-      "bloomingSeason": "Autumn to early winter (April to July) in the Southern Hemisphere; autumn in the Northern Hemisphere",
-      "location": "Native to Japan; widely grown in Australia, New Zealand, southern Africa, and the southern United States",
+      "commonName": "Sasanqua camellia",
+      "description": "As the Southern Hemisphere cools into autumn, this graceful evergreen shrub lights up with delicate, often lightly scented flowers. Its single or semi-double blooms open on glossy, dark green foliage, and the petals drift down like confetti beneath the bush.",
+      "bloomingSeason": "Mid-autumn through early winter in the Southern Hemisphere (roughly April to July)",
+      "location": "Gardens across southern Australia, where mid-May falls in autumn; native to China and Japan",
       "colors": [
         "white",
         "pink",
         "red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua is closely related to Camellia sinensis, the tea plant, and its seeds are pressed to produce a culinary and cosmetic oil used in Japan."
+      "emoji": "🌸",
+      "funFact": "Sasanqua is one of the first camellias to bloom each year, and it is a close relative of Camellia sinensis, the plant that gives us tea."
     }
   ]
 }

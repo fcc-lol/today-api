@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "Bathtub Party Day",
-      "description": "A bubbly observance encouraging people to turn their bathtub into a personal party zone, complete with bubbles, rubber duckies, snacks, and maybe a beverage or two.",
-      "origin": "Bathtub Party Day is an unofficial, folksy holiday with murky origins. It is often linked to the end of Prohibition on December 5, 1933, when the 21st Amendment was ratified, since people had been making bathtub gin during the dry years.",
-      "category": "Unofficial Fun Day",
+      "description": "Fill the tub, grab your rubber ducky, and invite the bubbles. Today is an excuse to turn bath time into a full-on soggy soirée. Bring snacks, a good playlist, and maybe a few friends in swimsuits if space allows.",
+      "origin": "An unofficial observance of unclear origin, often linked to the date Prohibition ended. It plays on the Prohibition-era legend of bathtub gin.",
+      "category": "Weird & Fun",
       "emoji": "🛁",
-      "funFact": "The term 'bathtub gin' came from the fact that bottles were often too tall to fit under a sink faucet, so people topped off the homemade booze with water from the bathtub tap."
+      "funFact": "Bathtub gin got its name because bottles were often too tall to be filled from the sink tap, so people mixed the spirit in jugs under the faucet or in the tub."
     },
     {
-      "name": "Repeal Day",
-      "description": "A toast-worthy occasion celebrating the end of Prohibition in the United States, when the nation's ban on alcohol was finally lifted.",
-      "origin": "On December 5, 1933, Utah became the 36th state to ratify the 21st Amendment, which repealed the 18th Amendment and ended nationwide Prohibition after nearly 14 years.",
-      "category": "Historical Observance",
+      "name": "National Sacher Torte Day",
+      "description": "A day to indulge in Vienna's most famous chocolate cake. It has dense chocolate sponge, a thin layer of apricot jam, and a glossy chocolate glaze. It is traditionally served with unsweetened whipped cream.",
+      "origin": "Franz Sacher created the dessert in Vienna in 1832 when he was a 16-year-old apprentice cook. He was making dessert for Prince Metternich's guests. The cake later sparked a famous legal dispute between the Hotel Sacher and the Demel bakery over who could call theirs the 'original'.",
+      "category": "Food & Drink",
+      "emoji": "🍫",
+      "funFact": "The Sacher torte feud between Hotel Sacher and Demel lasted for years. It ended with a court ruling that let the hotel advertise its cake as the 'Original Sacher-Torte'."
+    },
+    {
+      "name": "National Repeal Day",
+      "description": "Raise a glass to the end of Prohibition. This day marks the moment America's 13-year ban on alcohol ended. Many people mark it with a classic cocktail and a toast to speakeasy history.",
+      "origin": "On December 5, 1933, Utah became the 36th state to ratify the 21st Amendment. That gave the amendment the three-fourths majority it needed, and it repealed the 18th Amendment.",
+      "category": "History & Culture",
       "emoji": "🥃",
-      "funFact": "The 21st Amendment is the only amendment in US history that was ratified by state conventions instead of state legislatures, and the only one that repealed another amendment."
-    },
-    {
-      "name": "Krampusnacht",
-      "description": "A spooky night in Alpine folklore when the horned, hairy, chain-rattling Krampus roams the streets to punish naughty children, the dark counterpart to Saint Nicholas.",
-      "origin": "Krampusnacht comes from Central European traditions in Austria, Bavaria, Hungary, Slovenia, and nearby regions. It is celebrated on the eve of St. Nicholas Day, December 6, and has roots that may reach back to pre-Christian winter customs.",
-      "category": "Folklore Celebration",
-      "emoji": "😈",
-      "funFact": "In many towns, groups of locals dress as Krampus in giant carved wooden masks in a Krampuslauf, or Krampus run, and some participants have been known to playfully swat spectators with bundles of birch twigs."
-    },
-    {
-      "name": "Special Kids Day",
-      "description": "A day to celebrate children with special needs, encouraging people to recognize their unique talents, resilience, and joy, and to make the world more inclusive.",
-      "origin": "Special Kids Day is observed on the first Friday of December by some organizations, but it is also commonly noted on December 5 in lists of awareness days. It grew out of grassroots efforts to promote acceptance and appreciation for kids with disabilities.",
-      "category": "Awareness Day",
-      "emoji": "🌈",
-      "funFact": "Many families and schools mark the day with sensory-friendly activities, such as quiet craft sessions and music games designed so every child can take part."
-    },
-    {
-      "name": "International Ninja Day",
-      "description": "A stealthy salute to shadowy warriors, when fans are encouraged to dress in black, sneak up on friends silently, and perhaps leave a few mysterious surprises.",
-      "origin": "International Ninja Day is an internet-era unofficial holiday said to be celebrated on December 5, inspired by the legendary spies and assassins of feudal Japan known as shinobi.",
-      "category": "Pop Culture Celebration",
-      "emoji": "🥷",
-      "funFact": "The popular image of ninjas in all-black outfits probably comes from stagehands in Japanese theater called kuroko, who wore black to signal they were invisible to the audience."
+      "funFact": "The 21st Amendment is the only amendment ever ratified to repeal another one. It is also the only one approved by state ratifying conventions instead of state legislatures."
     }
   ]
 }

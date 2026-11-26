@@ -2,61 +2,45 @@
   "date": "August 7",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like composite flower heads made up of yellow ray florets surrounding a dark central disk. The heads track the sun when young. It is widely grown as an ornamental, for seed, and for oil.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
-      "location": "Native to North America; cultivated worldwide, with major fields in the United States, Ukraine, Russia, and France",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Huge, softly cupped blooms rise on tall stems above round, water-beading leaves. Each flower opens at dawn and releases a sweet fragrance across still ponds.",
+      "bloomingSeason": "July to August (peak mid-summer)",
+      "location": "Temperate Asia, including the lotus ponds of Japan and China",
       "colors": [
-        "yellow",
-        "orange",
-        "brown",
-        "red"
+        "Pink",
+        "White"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west (heliotropism), but mature flowers face east and stop moving."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic waxy texture that makes water roll off and carry dirt with it. Scientists call this the 'lotus effect' and copy it in self-cleaning surfaces."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. It is grown for ornament, perfume, and essential oil.",
-      "bloomingSeason": "Early to late summer (June to August), with peak bloom in July in many regions",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
+      "description": "Silvery, aromatic mounds send up slender spikes of violet-blue flowers that hum with bees. Their scent drifts across summer borders and fields.",
+      "bloomingSeason": "June to August, with blooms often lasting into mid-summer",
+      "location": "Northern Hemisphere gardens in temperate regions, such as England and the northern United States",
       "colors": [
-        "purple",
-        "lavender",
-        "blue",
-        "white"
+        "Violet",
+        "Blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash', as the Romans used it to scent their baths."
+      "funFact": "Despite the name, English lavender comes from the western Mediterranean. Its flowers have been used for centuries to scent linens and soaps."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round leaves held above the water and spectacular, fragrant blooms on tall stalks. The flowers open in the morning and close at night over several days. It is revered in many Asian cultures.",
-      "bloomingSeason": "Summer (June to September), peaking in July and August",
-      "location": "Asia, including India, China, Japan, Vietnam, and Thailand, and northern Australia; widely cultivated in ponds worldwide",
+      "name": "Banksia spinulosa",
+      "commonName": "Hairpin Banksia",
+      "description": "Golden-orange flower spikes studded with wiry, hairpin-like styles glow in the winter bush. They are a feast for honeyeaters and native bees when little else is flowering.",
+      "bloomingSeason": "Late autumn through winter and spring, roughly April to September",
+      "location": "Eastern Australia, from coastal heathlands and woodlands of New South Wales and Queensland to Victoria",
       "colors": [
-        "pink",
-        "white"
+        "Golden orange",
+        "Yellow",
+        "Burgundy"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus leaves have a micro-textured surface that repels water and dirt, known as the 'lotus effect', which has inspired self-cleaning materials."
-    },
-    {
-      "name": "Chamaenerion angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower that forms spires of vivid magenta-pink flowers, blooming from the bottom of the spike upward. It is among the first plants to colonize burned or disturbed land. It grows in meadows, roadsides, and forest clearings.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September)",
-      "location": "Northern temperate and subarctic regions, including Alaska, Canada, Scandinavia, Siberia, and northern Europe",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Locals say that when the flowers reach the top of the spike, summer is nearly over, making fireweed a natural seasonal clock."
+      "emoji": "🌼",
+      "funFact": "Banksias have woody seed cones that often stay closed until a bushfire passes. The heat triggers them to release their seeds onto freshly cleared, ash-enriched ground."
     }
   ]
 }

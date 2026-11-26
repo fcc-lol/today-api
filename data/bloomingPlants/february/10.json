@@ -3,59 +3,44 @@
   "plants": [
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a classic winter bloomer in gardens across Japan, the southeastern United States, and Europe's Atlantic coast.",
-      "bloomingSeason": "Late autumn to early spring, peaking January to March",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern US, UK, Portugal, and New Zealand",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs light up the late-winter garden with rose-like blooms. The flowers are layered, satiny and slightly waxy, and they stand out against dark, polished leaves. Single, semi-double and fully double forms all appear in gardens.",
+      "bloomingSeason": "Late winter into early spring, with many cultivars peaking around February",
+      "location": "Southeastern United States, especially the Carolinas, where mild winters suit it",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Thousands of cultivars exist, and the camellia is closely related to Camellia sinensis, the plant that gives us tea."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree producing fragrant five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is a beloved symbol of perseverance in East Asian culture.",
-      "bloomingSeason": "Late January to March",
-      "location": "Native to southern China; cultivated in Japan, Korea, and Taiwan, and in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "deep red"
-      ],
-      "emoji": "🌸",
-      "funFact": "Ume blossoms appear weeks before cherry blossoms, and in Japan ume viewing parties are a long-standing tradition that predates hanami."
+      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant that gives us tea."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping white bell-shaped flowers marked with green on the inner petals. It often pushes up through frost and snow, carpeting woodlands and gardens in late winter.",
-      "bloomingSeason": "Late January to March",
-      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and temperate gardens",
+      "commonName": "Common snowdrop",
+      "description": "Small, nodding white bells push up through cold soil and sometimes through snow. Each flower has three long outer petals around a shorter inner cup marked with a green notch. Snowdrops often form drifts under bare trees.",
+      "bloomingSeason": "Late January through March, typically peaking in February in cool temperate regions",
+      "location": "Temperate Europe, and gardens in cool regions of North America such as the Chicago area",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of mild to moderate Alzheimer's disease."
+      "funFact": "Snowdrop bulbs make a natural compound, galantamine, that has been developed into a medicine used for Alzheimer's disease."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "Large spreading tree with fern-like leaves and an umbrella-shaped crown. In the Southern Hemisphere summer, it is covered with brilliant clusters of flowers, followed by long woody seed pods.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the tropics in the dry season",
-      "location": "Native to Madagascar; widely planted in Australia, Brazil, South Africa, and tropical regions worldwide",
+      "name": "Prunus mume",
+      "commonName": "Japanese apricot (ume)",
+      "description": "This small tree flowers on bare branches before its leaves appear. The blossoms are spicily fragrant and are borne singly or in pairs. They cover the branches in soft pink and white, a welcome sign that winter is ending.",
+      "bloomingSeason": "February to March in colder temperate gardens, and earlier in mild-winter climates",
+      "location": "Native to southern China. Widely grown in temperate gardens across East Asia and North America, for example in the St. Louis region.",
       "colors": [
-        "scarlet",
-        "orange",
-        "red"
+        "Pink",
+        "White"
       ],
-      "emoji": "🌳",
-      "funFact": "Despite being widely planted across the tropics, the royal poinciana is endangered in its native Madagascar."
+      "emoji": "🌸",
+      "funFact": "Ume is prized in East Asia for both its blossoms and its sour fruit, which is pickled or steeped into plum wine."
     }
   ]
 }

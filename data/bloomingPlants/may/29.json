@@ -2,60 +2,45 @@
   "date": "May 29",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with deeply lobed glossy green foliage. A classic cottage garden favorite that can live for decades.",
-      "bloomingSeason": "Late spring to early summer (May-June in the Northern Hemisphere)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "name": "Paeonia officinalis",
+      "commonName": "Common Peony",
+      "description": "Plump, ruffled blooms open like silk pom-poms on sturdy stems above glossy, deeply cut leaves. The flowers are lavishly layered and often lightly fragrant. Each plant puts on a short, spectacular show of about a week or two, and bees and garden visitors both come for it.",
+      "bloomingSeason": "Late spring to early summer (roughly May to June in the Northern Hemisphere)",
+      "location": "Temperate gardens across Europe and North America, native to southern Europe",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Crimson",
+        "Pink",
+        "Deep red"
       ],
-      "emoji": "🌸",
-      "funFact": "Peonies are often visited by ants, which feed on nectar on the flower buds; contrary to popular myth, the ants are not needed for the buds to open."
+      "emoji": "🌺",
+      "funFact": "Peonies are among the longest-lived garden perennials. A well-sited plant can bloom for decades, and some have been known to outlive the gardeners who planted them."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "A deciduous shrub with fragrant, semi-double to double flowers in rich shades of crimson to pink, forming suckering thickets. One of the oldest cultivated roses, ancestral to many garden roses.",
-      "bloomingSeason": "Late spring to early summer (May-June)",
-      "location": "Native to central and southern Europe and western Asia; cultivated in temperate gardens worldwide",
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "Dense rounded clusters of bell-shaped, purple-mauve flowers, each speckled with tiny golden-green freckles, light up dark evergreen foliage. Whole woodland hillsides can glow violet as the flower trusses open.",
+      "bloomingSeason": "Late May to July",
+      "location": "Woodlands and estates of the British Isles and western Europe, native to the Black Sea region and Iberia",
       "colors": [
-        "crimson",
-        "magenta",
-        "pink"
-      ],
-      "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used in medieval medicine and its petals retain fragrance even when dried."
-    },
-    {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy perennial wildflower with white ray petals around a bright yellow center, growing in meadows, roadsides, and grasslands. It forms clumps of dark green, spoon-shaped basal leaves.",
-      "bloomingSeason": "Late spring to late summer (peaking late May through June)",
-      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia, and New Zealand",
-      "colors": [
-        "white",
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Its flower heads track the sun in the morning, and a single plant can produce up to 26,000 seeds in a season."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, fast-growing tree with fern-like foliage that bursts into clouds of trumpet-shaped lavender-blue flowers, often carpeting the ground beneath. In the Northern Hemisphere subtropics it blooms in late spring.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May-June); October-November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted in Mediterranean, Californian, Mexican, South African, and Australian cities",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Purple",
+        "Mauve",
+        "Lilac"
       ],
       "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, known as the 'Jacaranda City,' tens of thousands of trees line the streets, and in Mexico City the blooms arrive in spring."
+      "funFact": "Introduced to Britain as an ornamental in the 1700s, this species spread so successfully that it is now considered invasive in many woodlands."
+    },
+    {
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "Tall golden-lemon flower spikes, bristling with hundreds of tiny wiry blooms, rise from a rugged, silvery-leaved tree. In the Australian winter they glow against coastal dunes and offer a rich feast for nectar-feeding birds, bees and bats.",
+      "bloomingSeason": "Main flowering from January to June, with some plants blooming most of the year",
+      "location": "Eastern coastal Australia, from Queensland to Victoria",
+      "colors": [
+        "Pale yellow",
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Banksias are a vital winter food source for native wildlife, offering nectar when little else is in flower. Their woody seed cones later inspired the 'Banksia men' of Australian children's literature."
     }
   ]
 }

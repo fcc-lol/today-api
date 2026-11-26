@@ -3,58 +3,44 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-green narrow leaves and dense spikes of small tubular flowers. It is widely grown in gardens and commercial fields for its essential oil, and it attracts bees and butterflies in large numbers.",
-      "bloomingSeason": "Late June to August in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "commonName": "English lavender",
+      "description": "Rolling rows of silvery-green shrubs erupt into waves of violet-blue flower spikes. The warm, herbal scent drifts across the hills and hums with bees.",
+      "bloomingSeason": "Mid-June to late August, with peak bloom in July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Violet",
+        "Blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and a showy flower head made of golden ray florets surrounding a dark central disk of tiny florets. Young flower heads track the sun across the sky.",
-      "bloomingSeason": "Early July to September in temperate Northern Hemisphere regions",
-      "location": "Native to North America; grown across the Great Plains, Ukraine, Russia, southern France, and Argentina",
-      "colors": [
-        "yellow",
-        "gold",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflowers follow the sun in a movement called heliotropism, but mature blooms stop moving and generally face east."
+      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash'. The Romans scented their baths with it."
     },
     {
       "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial whose large, round leaves rise above the water and whose showy, fragrant flowers open on tall stalks. Its water-repellent leaves stay clean, and its seed pods resemble shower heads.",
-      "bloomingSeason": "June to September in temperate Asia; peak in July",
-      "location": "Ponds and wetlands of India, China, Japan, Vietnam, and southeastern Russia; cultivated worldwide in water gardens",
+      "commonName": "Sacred lotus",
+      "description": "Huge pink and white blooms rise on tall stalks above round, water-repellent leaves. They open at dawn across ponds and paddies, and each flower can reach about a foot across.",
+      "bloomingSeason": "July to August (early summer through midsummer)",
+      "location": "Ponds and lakes across temperate Asia, including Japan and China",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C even when the surrounding air is much cooler, which helps attract pollinating beetles."
+      "funFact": "Lotus leaves have a microscopic surface texture that sheds water and dirt. Engineers call this the 'lotus effect' and copy it in self-cleaning materials."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody evergreen shrub with the largest flower head in the genus, made up of showy pink bracts surrounding a central cone of small flowers. It thrives in the nutrient-poor soils of the fynbos.",
-      "bloomingSeason": "Southern Hemisphere late autumn to spring, with peak flowering from about May to September",
-      "location": "Native to the fynbos of the southwestern and southern Cape in South Africa; its national flower",
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved banksia",
+      "description": "Dense heath-like shrubs carry glowing orange-gold flower spikes that look like bottlebrushes. In the Australian winter they feed nectar-loving birds and small mammals.",
+      "bloomingSeason": "Autumn to early or mid-winter (March to July)",
+      "location": "Coastal eastern Australia, around New South Wales",
       "colors": [
-        "pink",
-        "cream",
-        "silvery-white"
+        "Orange",
+        "Gold",
+        "Red"
       ],
-      "emoji": "🌺",
-      "funFact": "Proteas are an ancient lineage that predates the breakup of Gondwana and is named after the Greek god Proteus, who could change form."
+      "emoji": "🌰",
+      "funFact": "Banksias often depend on fire. Their woody cones can hold seeds for years and release them after bushfires."
     }
   ]
 }

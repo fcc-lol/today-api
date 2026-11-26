@@ -4,58 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of fragrant tubular flowers held on long slender stems. It thrives in full sun and well-drained soil and is a favorite of bees and butterflies. It is widely cultivated for essential oils, culinary use, and ornamental borders.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the United States",
+      "description": "Silvery-green mounds send up slender spikes crowded with tiny, fragrant, violet-blue flowers. The blooms hum with bees and perfume the warm air of the French countryside.",
+      "bloomingSeason": "Late June to August in Provence, with the first blooms opening in mid-June",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
+      "funFact": "The name comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with lavender."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "One of the oldest cultivated roses, forming a compact, suckering shrub with prickly stems and fragrant semi-double to double blooms. It is the ancestor of many garden roses and represents the classic old rose of European gardens. Mid-June is the peak of the main flush of bloom in temperate regions.",
-      "bloomingSeason": "Late spring to early summer (June in temperate Northern Hemisphere)",
-      "location": "Native to southern and central Europe and western Asia; cultivated worldwide in temperate gardens",
+      "name": "Paeonia lactiflora",
+      "commonName": "Chinese Peony",
+      "description": "Ruffled, bowl-shaped blooms as large as a saucer unfurl on sturdy stems above glossy, deeply cut leaves. They bring a lush, sweet fragrance to cool-climate gardens and wild mountain meadows.",
+      "bloomingSeason": "Late May to mid-June in northern temperate regions",
+      "location": "Northern China, Mongolia and Siberia, plus gardens across northern Europe and North America",
       "colors": [
-        "pink",
-        "crimson",
-        "magenta",
-        "purple"
+        "Pink",
+        "White",
+        "Crimson"
       ],
-      "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was grown in medieval times for medicine, and its petals keep their fragrance even when dried."
+      "emoji": "🌸",
+      "funFact": "Peonies have been cultivated in China for more than 1,500 years. Some plants can live and bloom for over a century."
     },
     {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy perennial wildflower with white petals around a bright yellow center, growing on slender stems above lobed, dark green leaves. It colonizes meadows, roadsides, and grasslands and is a staple of summer wildflower displays across temperate regions. Its cheerful blooms attract many pollinators, including hoverflies and bees.",
-      "bloomingSeason": "Late spring to midsummer (May to August)",
-      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia, and New Zealand",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic flower head the size of a dinner plate, with a crown of silky pink bracts around a soft, downy center. It is South Africa's national flower and thrives on fynbos hillsides.",
+      "bloomingSeason": "Peak from late winter to spring in the Southern Hemisphere, with flowering from about May to November",
+      "location": "Western Cape, South Africa",
       "colors": [
-        "white",
-        "yellow"
+        "Pink",
+        "Rose",
+        "Cream"
       ],
-      "emoji": "🌼",
-      "funFact": "Oxeye daisies are in the daisy family, and each 'flower' is actually a composite of hundreds of tiny disc florets surrounded by ray florets."
-    },
-    {
-      "name": "Banksia ericifolia",
-      "commonName": "Heath-leaved Banksia",
-      "description": "A woody Australian shrub or small tree with fine needle-like leaves and tall, cylindrical flower spikes made up of thousands of tiny flowers. It flowers in the Southern Hemisphere winter, providing vital nectar for honeyeaters, possums, and insects when other food sources are scarce. It grows in sandy, nutrient-poor soils of coastal heathland.",
-      "bloomingSeason": "Autumn to winter in the Southern Hemisphere (April to August)",
-      "location": "Coastal New South Wales, Australia",
-      "colors": [
-        "orange",
-        "red",
-        "golden-yellow"
-      ],
-      "emoji": "🔥",
-      "funFact": "Banksia seed cones, often called 'banksia men' in Australian folklore, are woody and many species need fire to release their seeds."
+      "emoji": "🌺",
+      "funFact": "Proteas are among the oldest flowering plants on Earth. The genus is named for the Greek god Proteus, who could change his shape."
     }
   ]
 }

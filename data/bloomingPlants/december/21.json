@@ -4,60 +4,45 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with showy colored bracts that surround small yellow true flowers. In its native range it grows as a tall woody shrub, and it is widely grown as a potted plant elsewhere during the holiday season.",
-      "bloomingSeason": "Late autumn to winter (November to February in the Northern Hemisphere)",
-      "location": "Native to Mexico and Central America; cultivated worldwide, outdoors in frost-free regions such as California, Florida, Hawaii and the Mediterranean",
+      "description": "In the wild, poinsettia grows as a tall shrub or small tree. It is crowned with flame-red bracts that look like petals and surround tiny yellow flower clusters. The bracts glow against dark green leaves in the cool, dry season.",
+      "bloomingSeason": "Winter, with peak color in December",
+      "location": "Native to Mexico and Central America; also grown in gardens and homes worldwide",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream"
+        "Red",
+        "Crimson",
+        "Yellow",
+        "Green"
       ],
-      "emoji": "🌺",
-      "funFact": "The colorful parts of a poinsettia are modified leaves called bracts, not petals. Flowering is triggered by long nights, which is why it blooms near the winter solstice."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. Many cultivars open in cool winter weather and brighten gardens when little else is in bloom.",
-      "bloomingSeason": "Late autumn to early spring",
-      "location": "Native to Japan, Korea and China; grown in temperate gardens in the southeastern United States, the UK, Japan and the Pacific Northwest",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
-      ],
-      "emoji": "🌹",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. It is the official flower of Alabama, where it is called the state flower."
-    },
-    {
-      "name": "Delosperma cooperi",
-      "commonName": "Hardy Ice Plant",
-      "description": "A low, mat-forming succulent that is covered in bright daisy-like flowers during the Southern Hemisphere summer. It thrives in full sun and dry, rocky soils.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to March)",
-      "location": "Native to South Africa, including the Eastern Cape and Free State highlands",
-      "colors": [
-        "magenta",
-        "purple",
-        "pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "The flowers open only in bright sunlight and close in the evening or on overcast days. The succulent leaves store water to survive drought."
+      "emoji": "🎄",
+      "funFact": "The showy red 'petals' are modified leaves called bracts. The true flowers are the small yellow buds at the center. In Mexico, the plant is known as Flor de Nochebuena, or Christmas Eve flower."
     },
     {
       "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and tall stems topped by rounded clusters of trumpet-shaped flowers. It puts on a spectacular display at the height of the Southern Hemisphere summer.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
-      "location": "Native to South Africa; widely planted in Australia, New Zealand, Chile and coastal California",
+      "commonName": "Common agapanthus, African lily",
+      "description": "Round clusters of trumpet-shaped, sky-blue flowers rise on tall, slender stems above fountains of strappy green leaves. At midsummer they sway over garden borders and along coastal hillsides.",
+      "bloomingSeason": "Mid to late summer, December to February, with a peak around December and January",
+      "location": "Eastern Cape and KwaZulu-Natal, South Africa, where it is native; widely planted in Southern Hemisphere gardens",
       "colors": [
-        "blue",
-        "violet",
-        "white"
+        "Blue",
+        "Violet-blue",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower), and it has become invasive in parts of Australia and New Zealand."
+      "emoji": "💙",
+      "funFact": "The name comes from the Greek words for 'love' and 'flower'. Despite the common name, it is not a true lily. It belongs to the amaryllis family."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub opens silky, blush-pink to white blooms with golden stamens when most of the garden has gone quiet. Its petals scatter like confetti beneath the shrub in cool weather.",
+      "bloomingSeason": "Autumn into early winter, usually October or November through December or January",
+      "location": "Native to Japan; widely grown in temperate gardens of the Northern Hemisphere",
+      "colors": [
+        "Pink",
+        "White",
+        "Rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make camellia oil, used in cooking and cosmetics in East Asia."
     }
   ]
 }

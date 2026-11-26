@@ -2,57 +2,44 @@
   "date": "March 18",
   "plants": [
     {
-      "name": "Prunus yedoensis",
+      "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A deciduous tree that produces masses of delicate, fragrant, five-petaled blossoms before its leaves emerge. It is the most famous cherry tree used for hanami (flower viewing) celebrations and is widely planted in parks and along streets.",
-      "bloomingSeason": "Late March to mid-April in Japan; blooms in mid to late March in warmer areas like Kyushu and Shikoku",
-      "location": "Japan (Kyushu, Shikoku, southern Honshu), Washington D.C. (USA) in late March, and Korea",
+      "description": "Clouds of pale, blush-white blossoms cover bare branches before the leaves appear. Petals drift down like confetti in the spring breeze. Crowds gather beneath the trees for picnics and quiet strolls.",
+      "bloomingSeason": "Late March to early April in Japan. Blooming begins in the warmer south in mid-to-late March.",
+      "location": "Southern and central Japan, including Kyushu and parts of Honshu such as Tokyo",
       "colors": [
-        "white",
-        "pale pink"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "The Yoshino cherry trees along the Tidal Basin in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival is timed to their peak bloom."
+      "funFact": "Almost all Yoshino cherry trees are clones, grafted from a single original tree. That is why whole cities often burst into bloom within days of each other."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the parent of many cultivated daffodil varieties.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe including the UK, France, and Belgium; naturalized in North American gardens and lawns",
+      "commonName": "Wild Daffodil",
+      "description": "Nodding golden trumpets surrounded by softer, pale-yellow petals light up woodlands and meadows. They sway on slender stems and carpet the ground in drifts of sunshine.",
+      "bloomingSeason": "Late February to April in Britain and western Europe, with a peak in March",
+      "location": "Woodlands and meadows of England, Wales and western Europe",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids such as lycorine, and one compound, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "Daffodil bulbs contain alkaloids, including galantamine, which is used in medicine. The same chemicals make the plants toxic to grazing animals and rodents."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A sub-tropical tree with fern-like leaves that bursts into clouds of lavender-blue, trumpet-shaped flowers. In the Southern Hemisphere autumn it can have a second, lighter bloom, while in some warmer regions it flowers sporadically.",
-      "bloomingSeason": "Spring (October to December) in the Southern Hemisphere, with occasional secondary flowering in early autumn; in the Northern Hemisphere tropics it blooms around March to May",
-      "location": "Native to South America; cultivated in Mexico City, Southern California, India, and parts of Africa where March to April blooming occurs",
+      "name": "Amaryllis belladonna",
+      "commonName": "Naked Lady",
+      "description": "Bare, sturdy stalks shoot up with no leaves and carry clusters of fragrant, pink trumpet-shaped flowers. The blooms seem to appear from nowhere in the warm autumn air.",
+      "bloomingSeason": "Late summer to autumn, roughly February to April in the Southern Hemisphere",
+      "location": "Native to the Western Cape of South Africa. Also naturalised in parts of Australia and California.",
       "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Mexico City's streets turn purple each spring when thousands of jacaranda trees bloom, a sight that began after Japanese gardener Tatsugoro Matsumoto planted them in the early 20th century."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A large Himalayan tree that bears enormous, goblet-shaped flowers on bare branches before the leaves appear. The blooms can reach up to 25 cm across and are among the showiest of all magnolias.",
-      "bloomingSeason": "Late February to April",
-      "location": "Himalayas (Nepal, Bhutan, Sikkim, Yunnan), and cultivated in mild gardens in Cornwall, the Pacific Northwest, and New Zealand",
-      "colors": [
-        "pink",
-        "deep rose",
-        "white"
+        "Pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "A magnolia seedling may take 20 to 30 years to flower for the first time, and the genus is so ancient that its flowers evolved before bees existed and are pollinated by beetles."
+      "funFact": "The plant is called the naked lady because its flowers rise on bare stems after the leaves have died back for the summer."
     }
   ]
 }

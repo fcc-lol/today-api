@@ -2,60 +2,18 @@
   "date": "February 15",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like blooms. Thousands of cultivars exist, ranging from single-petaled forms to fully double flowers. It thrives in partially shaded, acidic, well-drained soil.",
-      "bloomingSeason": "Late winter to early spring (January to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Pacific coastal regions",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true tea, and camellia flowers were beloved by Japanese samurai as symbols of nobility."
-    },
-    {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that blooms on bare branches before its leaves emerge. Its fragrant flowers appear in the cold of late winter, and it is a cherished symbol of perseverance and hope in East Asian culture.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Native to southern China; cultivated across Japan, Korea, and China, and in botanical gardens worldwide",
+      "description": "Fragrant, rounded-petalled blossoms burst straight from bare branches while snow can still linger on the ground. Their sweet scent and early courage have made them a beloved symbol of resilience in Japanese art and poetry.",
+      "bloomingSeason": "January to February, ahead of cherry blossoms in March",
+      "location": "Japan, native to the Yangtze River region of China",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms often bloom through snow, and in Japan, ume viewing (hanami) traditionally precedes cherry blossom viewing by several weeks."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A fast-growing evergreen tree or large shrub with sickle-shaped foliage and dense, fluffy golden flower balls. Although it mostly flowers in late winter and spring in Australia, some wattle species bloom in different months across the continent.",
-      "bloomingSeason": "Late winter to spring in Australia (July to October); other Acacia species flower in the Southern Hemisphere summer",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
-    },
-    {
-      "name": "Plumeria rubra",
-      "commonName": "Frangipani",
-      "description": "A tropical deciduous shrub or small tree with thick, succulent branches and clusters of intensely fragrant, waxy flowers. It flowers heavily in warm weather and in tropical regions can bloom for much of the year.",
-      "bloomingSeason": "Summer in the Southern Hemisphere and warm months in the tropics; February is peak bloom in places like Brazil, Fiji, and northern Australia",
-      "location": "Native to Mexico, Central America, and the Caribbean; cultivated throughout the tropics including Hawaii, Southeast Asia, and the Pacific Islands",
-      "colors": [
-        "white",
-        "yellow",
-        "pink",
-        "red"
-      ],
-      "emoji": "💐",
-      "funFact": "Frangipani flowers are pollinated by hawkmoths, yet they produce no nectar and trick the moths into pollinating them through their scent alone."
+      "funFact": "Ume blossoms sit directly on the branch without stalks, while cherry blossoms hang on long stems and have notched petals. This is the easiest way to tell the two apart."
     }
   ]
 }

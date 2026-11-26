@@ -4,55 +4,46 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful ornamental tree that covers its bare branches in clouds of pale pink to nearly white five-petaled flowers before the leaves emerge. It is the most widely planted cherry for hanami festivals and urban avenues.",
-      "bloomingSeason": "Late March to mid April in temperate Northern Hemisphere regions",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate parks and gardens worldwide",
+      "description": "Before a single leaf unfurls, the bare branches of the Yoshino cherry fill with clouds of blush-white, softly fragrant blossoms. Along riverbanks and city avenues, the petals drift down like pink snow.",
+      "bloomingSeason": "March to April, with peak bloom usually from late March to early April and often lingering into the first part of April",
+      "location": "Washington, D.C., USA, and other temperate parts of the Northern Hemisphere (native to Japan)",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "All Yoshino cherry trees are thought to descend from a single original tree propagated by grafting, which is why trees in a region often bloom in near-perfect synchrony."
+      "funFact": "The Yoshino cherry is a hybrid, so its seeds don't reliably grow true to type. Cherry trees are propagated by grafting, which means many trees lining a street are genetic clones of one another and tend to bloom in near-perfect unison."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It carpets woodlands and meadows in early spring and is the ancestor of many garden daffodils.",
-      "bloomingSeason": "March to April in Northern Hemisphere temperate zones",
-      "location": "Western Europe, including the UK, France, and Spain; widely naturalized in North America",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Row upon row of cup-shaped blooms turn the Dutch countryside into a patchwork of crimson, gold, magenta and white stripes. Their glossy petals open wide in the afternoon sun and close up again as the evening cools.",
+      "bloomingSeason": "Late March to mid-May, usually at its best in mid-April",
+      "location": "The Netherlands, including the bulb fields and gardens around Keukenhof",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Red",
+        "Yellow",
+        "Pink",
+        "White",
+        "Purple",
+        "Orange"
       ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids, and one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
+      "emoji": "🌷",
+      "funFact": "Tulips are native to the mountains of Central Asia, not Holland. In the 17th century they sparked 'tulip mania', when single bulbs sold for more than the price of a house."
     },
     {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of magenta-pink, pea-like flowers burst directly from branches and even the trunk before heart-shaped leaves appear. It is a favorite of early-season pollinators.",
-      "bloomingSeason": "Late March to April",
-      "location": "Eastern and central United States, northern Mexico; cultivated in gardens worldwide",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Each spring, Texas roadsides and meadows flood with waves of deep blue-violet lupine spikes. The tips of the flower stalks are dabbed with white, like a paintbrush dipped in snow.",
+      "bloomingSeason": "Late March through April, with peak bloom in late March and early April",
+      "location": "Central and southern Texas, USA",
       "colors": [
-        "magenta",
-        "pink",
-        "purple"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌳",
-      "funFact": "The redbud flowers on old wood, a trait called cauliflory, and its blossoms are edible, with a mildly tangy flavor often added to salads."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large tree with fern-like leaves that produces dense panicles of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere, some trees keep blooming into early autumn, and trees in the tropics may flower sporadically.",
-      "bloomingSeason": "Spring in the Northern Hemisphere tropics; late bloom and rebloom in some Southern Hemisphere regions",
-      "location": "South America (native to Argentina and Bolivia), widely planted in Mexico, Florida, India, and Australia",
-      "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "A carpet of fallen jacaranda blossoms is so iconic in Pretoria, South Africa, that the city is nicknamed the Jacaranda City."
+      "emoji": "💙",
+      "funFact": "Texas has five official state flowers, all of them bluebonnet species. The white tip on each bloom turns magenta-red as the flower is pollinated, a signal to bees that it has already been visited."
     }
   ]
 }

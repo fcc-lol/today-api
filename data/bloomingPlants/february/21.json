@@ -3,58 +3,44 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before leaves emerge. It is widely cultivated in East Asian gardens and prized for both its ornamental value and its fruit, which is used in pickles and liqueurs.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare branches burst into fragrant blossoms in pink, white and deep rose. They open in the cold, often before the leaves appear, and fill Japanese plum groves and temple gardens with a spicy-sweet scent.",
+      "bloomingSeason": "Late winter, roughly January to March, peaking in February",
+      "location": "Japan, with the same bloom in China and Korea",
       "colors": [
-        "white",
         "pink",
-        "deep red"
+        "white",
+        "deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Plum blossoms are a symbol of perseverance in East Asian culture because they bloom in the cold, often while snow is still on the ground."
+      "funFact": "Ume blossoms are a traditional symbol of perseverance in East Asia because they flower through the last frosts of winter, weeks ahead of cherry blossoms."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands, churchyards, and gardens in colonies, often pushing through frost and snow.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, naturalized in the UK and North America",
+      "commonName": "Common snowdrop",
+      "description": "Nodding, white bell-shaped flowers with green-tipped inner petals push up through cold soil, and sometimes through snow. Woodlands and gardens fill with drifts of them as winter ends.",
+      "bloomingSeason": "Late winter to early spring, mainly February to March",
+      "location": "Temperate Europe and in gardens across the Northern Hemisphere, including the northern United States",
       "colors": [
         "white",
         "green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce a compound called galantamine, which is used in medication to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrops make a natural antifreeze-like protein that helps them survive freezing conditions. They also gave science galantamine, a compound used in medicine for Alzheimer's disease."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with large, bowl-shaped flower heads surrounded by colorful bracts that resemble petals. It grows in the fynbos vegetation of South Africa and is the national flower of the country.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere, with flowering from midsummer through autumn in some populations",
-      "location": "Western and Southern Cape, South Africa",
+      "name": "Agapanthus praecox",
+      "commonName": "African lily (lily of the Nile)",
+      "description": "Tall, sturdy stems carry round clusters of trumpet-shaped flowers in shades of blue, violet and white above strappy evergreen leaves. They make a bold show in summer gardens and along coastal bush.",
+      "bloomingSeason": "Mid to late summer in the Southern Hemisphere, about December to February and sometimes later",
+      "location": "Eastern Cape, South Africa, and summer gardens across the Southern Hemisphere",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "blue",
+        "violet",
+        "white"
       ],
-      "emoji": "🌺",
-      "funFact": "The Protea genus is named after the Greek god Proteus, who could change his shape, reflecting the great diversity of forms in the family."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad-canopied tropical tree with fern-like leaves that becomes covered in clusters of vivid orange-red flowers. In some regions it blooms in the dry season or summer, and it is a popular shade tree in tropical and subtropical areas.",
-      "bloomingSeason": "Summer in the Southern Hemisphere, with flowering in the warm months (December to March) in places like northern Australia and southern Africa",
-      "location": "Native to Madagascar; cultivated across the tropics and subtropics",
-      "colors": [
-        "orange",
-        "red",
-        "scarlet"
-      ],
-      "emoji": "🌳",
-      "funFact": "Although it is a showy and common tree worldwide, the royal poinciana is endangered in its native Madagascar."
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. Its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

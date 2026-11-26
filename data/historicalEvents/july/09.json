@@ -2,39 +2,39 @@
   "date": "July 9",
   "events": [
     {
+      "year": 1755,
+      "title": "Disaster at the Monongahela",
+      "description": "During the French and Indian War, a British force under General Edward Braddock, marching toward Fort Duquesne, was ambushed by French and Native American forces. The British and colonial troops suffered a devastating defeat.",
+      "category": "Military",
+      "significance": "The defeat shattered British confidence on the American frontier early in the war. It also gave a young Virginia officer, George Washington, who survived the battle, formative experience in command."
+    },
+    {
       "year": 1816,
       "title": "Argentina Declares Independence",
-      "description": "The Congress of Tucumán formally declared the independence of the United Provinces of the Río de la Plata (modern Argentina) from Spain, issuing the declaration in San Miguel de Tucumán.",
+      "description": "Meeting in San Miguel de Tucumán, the Congress of Tucumán declared the independence of the United Provinces of South America from Spain.",
       "category": "Politics",
-      "significance": "Marked the formal break from Spanish colonial rule and is celebrated annually as Argentina's Independence Day."
+      "significance": "The declaration is the founding moment of the Argentine nation. Argentines still celebrate it every year as Independence Day."
     },
     {
       "year": 1850,
-      "title": "Death of President Zachary Taylor",
-      "description": "Zachary Taylor, the 12th President of the United States, died in office after about 16 months in the presidency, following a sudden illness that began after attending Fourth of July festivities. Vice President Millard Fillmore succeeded him.",
-      "category": "Death",
-      "significance": "Fillmore's succession shifted federal policy and helped pave the way for the Compromise of 1850, which temporarily eased tensions between free and slave states."
+      "title": "President Zachary Taylor Dies in Office",
+      "description": "Sixteen months into his term, the 12th U.S. President died suddenly in the White House. Vice President Millard Fillmore succeeded him.",
+      "category": "Politics",
+      "significance": "Taylor's death brought a new president to the White House in the middle of the crisis over slavery and the Compromise of 1850. Fillmore supported the Compromise, and it was passed soon afterward."
     },
     {
       "year": 1868,
-      "title": "Fourteenth Amendment Ratified",
-      "description": "The Fourteenth Amendment to the U.S. Constitution was ratified when the required three-fourths of the states approved it, granting citizenship to all persons born or naturalized in the United States and guaranteeing equal protection under the law.",
+      "title": "The Fourteenth Amendment Is Ratified",
+      "description": "The Fourteenth Amendment to the U.S. Constitution was ratified. It guaranteed citizenship to African Americans and promised all persons due process and equal protection of the law.",
       "category": "Law",
-      "significance": "It became one of the most important constitutional amendments, forming the basis for landmark civil rights rulings such as Brown v. Board of Education."
-    },
-    {
-      "year": 1877,
-      "title": "First Wimbledon Championships Begin",
-      "description": "The first Wimbledon lawn tennis championship started at the All England Croquet and Lawn Tennis Club in London, with the men's singles competition won by Spencer Gore.",
-      "category": "Sports",
-      "significance": "Wimbledon became the oldest and one of the most prestigious tennis tournaments in the world."
+      "significance": "It became one of the most consequential amendments in American history. It is the basis for landmark civil rights rulings in the century and a half since."
     },
     {
       "year": 2011,
-      "title": "South Sudan Becomes Independent",
-      "description": "South Sudan declared independence from Sudan, following a January 2011 referendum in which nearly 99 percent of voters chose secession, ending decades of civil war.",
+      "title": "South Sudan Becomes a Nation",
+      "description": "The Republic of South Sudan declared its independence from Sudan and became Africa's 54th country.",
       "category": "Politics",
-      "significance": "It became the world's newest sovereign nation and was admitted to the United Nations shortly after, though it later faced serious internal conflict."
+      "significance": "Independence followed decades of civil war and a referendum in which the people voted overwhelmingly to separate. It made South Sudan the world's newest country at the time."
     }
   ]
 }

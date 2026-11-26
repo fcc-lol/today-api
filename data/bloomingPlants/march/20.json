@@ -3,57 +3,43 @@
   "plants": [
     {
       "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree that covers its bare branches in clouds of pale pink to nearly white five-petaled flowers before the leaves emerge. It is the iconic tree of hanami (flower viewing) festivals and is planted in parks and along rivers and streets across temperate regions.",
-      "bloomingSeason": "Late March to early April in Japan; mid-March to April in temperate Northern Hemisphere",
-      "location": "Japan, Korea, Washington D.C. (USA), temperate regions of Europe and North America",
+      "commonName": "Yoshino Cherry (Somei-Yoshino)",
+      "description": "Clouds of blush-white blossoms cover bare branches before any leaves appear. Petals drift down like confetti and carpet parks, riverbanks and temple grounds in pale pink.",
+      "bloomingSeason": "Late March to early April in Tokyo, with first blooms usually appearing around March 20 to 25",
+      "location": "Tokyo and the Kanto region, Japan",
       "colors": [
-        "pale pink",
-        "white"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Japan's Meteorological Agency tracks a 'cherry blossom front' (sakura zensen) that moves north across the country, and the trees in Tokyo are declared in bloom when just five to six blossoms open on the reference tree at Yasukuni Shrine."
+      "funFact": "Nearly every Yoshino cherry tree is a genetic clone, grafted from one original cultivar. That is why whole cities' trees bloom almost in unison."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped golden-yellow flowers surrounded by paler yellow petals, and narrow blue-green leaves. It grows in woodlands, meadows, and hedgerows and is the ancestor of many garden daffodil cultivars.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, including England, Wales, France, and Spain; widely naturalized and cultivated elsewhere",
+      "description": "Nodding trumpets of golden yellow sit inside paler, swept-back petals. Drifts of them light up woodland floors and meadows in early spring.",
+      "bloomingSeason": "March to April",
+      "location": "Western Europe, including England, Wales and northern France",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodil bulbs contain the alkaloid galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "funFact": "Daffodil bulbs contain galanthamine, a compound that has been developed into a medicine for symptoms of Alzheimer's disease."
     },
     {
-      "name": "Magnolia × soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A small deciduous tree or large shrub bearing large, goblet-shaped flowers that open on bare branches in early spring. The blooms are white to deep pink-purple and can reach 10-15 cm across.",
-      "bloomingSeason": "Early spring (March to April) in the Northern Hemisphere",
-      "location": "Cultivated across temperate regions of North America, Europe, and East Asia; hybrid originated in France",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped lilac-pink flowers rise from the ground without any leaves, a surprising sight in the southern autumn. Where it grows it is a favorite of late-season pollinators.",
+      "bloomingSeason": "Late summer to autumn in the Northern Hemisphere. In the Southern Hemisphere it is naturalized and flowers in autumn, around March to April",
+      "location": "Gardens in southern Australia, New Zealand and South Africa",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Lilac",
+        "Pink",
+        "Pale purple"
       ],
       "emoji": "🌷",
-      "funFact": "Magnolias are among the most ancient flowering plants, and their flowers evolved before bees existed, so they are pollinated primarily by beetles, which is why the petals are tough and leathery."
-    },
-    {
-      "name": "Nerine sarniensis",
-      "commonName": "Guernsey Lily (relatives such as Nerine bowdenii bloom in autumn); and Amaryllis belladonna, the Belladonna Lily",
-      "description": "Amaryllis belladonna is a bulbous perennial that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped pink flowers. In the Southern Hemisphere, the autumn equinox period brings its peak flowering, after the leaves have died back in summer.",
-      "bloomingSeason": "Late summer to autumn (February to April) in the Southern Hemisphere",
-      "location": "Western Cape of South Africa; naturalized in Australia, New Zealand, and California",
-      "colors": [
-        "pink",
-        "rose",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Because the flower stalks appear suddenly without any leaves, belladonna lilies are often called 'naked ladies' or 'March lilies' in the Southern Hemisphere."
+      "funFact": "Despite the name, it is not a true crocus. Its flowers appear first and its leaves emerge months later in spring."
     }
   ]
 }

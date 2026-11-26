@@ -3,58 +3,30 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree producing fragrant five-petaled blossoms on bare branches, often before the leaves emerge. Widely cultivated in East Asia for ornament and fruit, and a key subject in traditional painting and poetry.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume plum blossom)",
+      "description": "Before most trees have woken up, ume branches are covered in small, fragrant, five-petaled blossoms. They open on bare, dark twigs in shades of white, blush and deep rose. Their sweet, spicy scent drifts through gardens and orchards. It is one of East Asia's best-loved signs that winter is ending.",
+      "bloomingSeason": "Late winter to early spring, roughly February through March",
+      "location": "Japan, where ume groves and shrine gardens are in flower in mid-March, and in temperate gardens across East Asia",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pale pink",
+        "Rose pink"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms herald the end of winter in East Asia and bloom before cherry blossoms; the fruit is pickled as umeboshi and used to make plum wine."
+      "funFact": "Ume often blooms weeks before cherry blossoms. Its fruit is pickled into umeboshi and steeped into plum wine."
     },
     {
       "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and slender blue-green leaves. It naturalizes in meadows, woodlands, and grassy banks and is a classic harbinger of spring in the Northern Hemisphere.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
+      "commonName": "Wild daffodil (Lent lily)",
+      "description": "Native British daffodils are smaller and daintier than garden hybrids. They have pale creamy-yellow outer petals around a deeper golden trumpet. In the damp woods, meadows and old pastures where they grow, they spread in drifts of nodding blooms. They bring light to the ground before the tree canopy leafs out.",
+      "bloomingSeason": "Late winter to early spring, mainly March and April, and sometimes earlier in mild years",
+      "location": "Woodlands, meadows and pastures of the UK and western Europe, such as the Welsh borders and Gloucestershire",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Pale yellow",
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "All parts of the plant contain toxic alkaloids, and galantamine, a compound derived from daffodil-family plants, is used in medication for Alzheimer's disease."
-    },
-    {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A large deciduous shrub or small tree with goblet-shaped flowers up to 25 cm across that open on bare branches in early spring. It is a hybrid widely planted in parks and gardens in mild temperate climates.",
-      "bloomingSeason": "Early spring (March to April)",
-      "location": "Cultivated across the southeastern United States, Europe, and East Asia; originated in France",
-      "colors": [
-        "pink",
-        "white",
-        "purple"
-      ],
-      "emoji": "🌺",
-      "funFact": "This hybrid was created in the 1820s by French army officer Étienne Soulange-Bodin, and magnolias are among the most ancient flowering plant lineages, predating bees."
-    },
-    {
-      "name": "Amaryllis belladonna",
-      "commonName": "Naked Lady",
-      "description": "A bulbous perennial that sends up leafless stalks topped with clusters of fragrant, trumpet-shaped pink flowers in late summer to autumn in the Southern Hemisphere. The strap-like leaves appear after flowering.",
-      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere (February to April)",
-      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, and Chile",
-      "colors": [
-        "pink",
-        "rose",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "It is called 'naked lady' because the flower stalks emerge without any leaves, and it is the only species in the genus Amaryllis."
+      "funFact": "Its common name, Lent lily, comes from its habit of flowering around the Christian season of Lent. It is the only daffodil native to Britain."
     }
   ]
 }

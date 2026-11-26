@@ -2,44 +2,28 @@
   "date": "November 5",
   "holidays": [
     {
-      "name": "Guy Fawkes Night (Bonfire Night)",
-      "description": "Brits light enormous bonfires, set off fireworks, and burn effigies of a 17th-century man who tried to blow up Parliament. It's basically a national barbecue with gunpowder and a side of treason.",
-      "origin": "Commemorates the foiled Gunpowder Plot of 1605, when Guy Fawkes was caught guarding barrels of gunpowder beneath the House of Lords. Parliament passed the Observance of 5th November Act in 1606, ordering annual thanksgiving for the king's survival.",
-      "category": "Historical / Cultural Festival",
+      "name": "Men Make Dinner Day",
+      "description": "Aprons on, fellas. Today is the day for the men of the house to plan, cook and serve a whole dinner. They should also take on the dishes if they're feeling brave. It's a chance to show that a spatula isn't only for the grill.",
+      "origin": "It's an unofficial observance, usually credited to a 1990s newspaper columnist who wanted to nudge men toward the stove. It has been marked on calendars every November 5 since.",
+      "category": "Food & Cooking",
+      "emoji": "🍳",
+      "funFact": "The day is usually pitched as a way to give regular cooks a night off. Even a perfectly cooked box of mac and cheese counts as a heroic first step."
+    },
+    {
+      "name": "Guy Fawkes Night",
+      "description": "Bonfires, fireworks, sparklers and toffee apples light up the British night. Effigies of Guy Fawkes, known as 'guys', are traditionally burned to mark a famously failed plot to blow up Parliament.",
+      "origin": "On November 5, 1605, Guy Fawkes was caught guarding barrels of gunpowder under the House of Lords. The plot to kill King James I had failed. Parliament soon ordered a day of thanksgiving, and the bonfire tradition grew from it.",
+      "category": "Historical & Cultural Celebration",
       "emoji": "🎆",
-      "funFact": "Fawkes is probably the only person ever described as the 'last man to enter Parliament with honest intentions' - and the word 'guy' for a fellow comes from the effigies burned in his name."
+      "funFact": "The 'guy' in the effigy gave English the word 'guy', which first meant a oddly dressed person and later any fellow."
     },
     {
-      "name": "World Tsunami Awareness Day",
-      "description": "A day when the globe collectively remembers that the ocean can occasionally decide to leave its designated area. It promotes early warning systems, preparedness, and not turning your back on the sea when the water suddenly vanishes.",
-      "origin": "Designated by the United Nations General Assembly in 2015, inspired by the Japanese story of 'Inamura-no-hi' (the burning of the rice sheaves), in which a villager set fire to his own rice harvest to lure neighbors uphill to safety before a tsunami struck in 1854.",
-      "category": "Awareness Day",
-      "emoji": "🌊",
-      "funFact": "The word 'tsunami' is Japanese for 'harbor wave,' because fishermen would return from sea to find their harbors destroyed, having never noticed the wave out in deep water."
-    },
-    {
-      "name": "National Doughnut Day (Fall Edition) / National Love Your Red Hair Day Alternative: Love Your Red Hair Day",
-      "description": "Redheads of the world unite on this day to celebrate their fiery locks, which make up only 1-2% of the human population. Ginger pride is in full swing, with sunscreen and freckles proudly on display.",
-      "origin": "Founded in 2013 by Danish-born Dutch photographer Bart Rouwenhorst, who held the first Redhead Day in the Netherlands, though the unofficial 'Love Your Red Hair Day' celebration took on the November 5 date through social media and redhead communities.",
-      "category": "Pop Culture / Appreciation Day",
-      "emoji": "🧑‍🦰",
-      "funFact": "Redheads reportedly need more anesthesia on average, thanks to a variant of the MC1R gene, and some studies say they're more sensitive to temperature changes."
-    },
-    {
-      "name": "National Donut Day Rival: National Doughnut Day Is Not Today, But It's National Love Your Red Hair Day's Sweet Neighbor – National Eating Free Cake Day",
-      "description": "A day dedicated to the noble pursuit of accepting free cake whenever it's offered, no questions asked. Office breakrooms across the land become sacred ground.",
-      "origin": "A grassroots, unofficial observance popularized by food-day calendars, built on the universally accepted principle that free cake is the best kind of cake.",
-      "category": "Food Holiday",
-      "emoji": "🍰",
-      "funFact": "The tradition of the 'wedding cake' dates to ancient Rome, where a loaf of barley bread was broken over the bride's head for good luck."
-    },
-    {
-      "name": "Bonfire Toffee Day",
-      "description": "Sticky, dark, tooth-challenging toffee is eaten alongside the bonfires, as a rock-hard sweet companion to a night of fireworks. Dentists observe this day with a mixture of pride and dread.",
-      "origin": "A British culinary tradition tied to Bonfire Night, with recipes for treacle toffee or 'bonfire toffee' passed down in Northern England, especially Yorkshire and Lancashire, for generations.",
-      "category": "Food Holiday",
-      "emoji": "🍬",
-      "funFact": "Traditional bonfire toffee, also called 'Plot Toffee' in parts of Lancashire, is made with black treacle and is hard enough that it's traditionally cracked with a small hammer."
+      "name": "Love Your Red Hair Day",
+      "description": "A celebration of gingers, redheads and strawberry blondes. Redheads are encouraged to show off their fiery locks with pride. Everyone else is invited to admire them.",
+      "origin": "This is an unofficial observance of unclear origin. It is cheerfully embraced each year by redheads and fans of red hair.",
+      "category": "Pop Culture & Appreciation",
+      "emoji": "🧡",
+      "funFact": "Only about 1–2% of people worldwide have natural red hair. It comes from a variant of the MC1R gene."
     }
   ]
 }

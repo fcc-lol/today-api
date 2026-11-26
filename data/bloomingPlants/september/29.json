@@ -2,61 +2,57 @@
   "date": "September 29",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that produces goblet-shaped pink-lilac flowers in autumn, appearing without leaves. The leaves emerge the following spring and die back by early summer. Often called 'naked ladies' because the blooms appear leafless.",
-      "bloomingSeason": "Late summer to mid-autumn (September to October)",
-      "location": "Native to Europe, including damp meadows in the UK, Germany, and France; widely cultivated in temperate gardens worldwide",
+      "name": "Lycoris radiata",
+      "commonName": "Red spider lily (higanbana)",
+      "description": "Leafless stems shoot up almost overnight. Each one carries a crown of crimson flowers with long, curling stamens that look like sparks. In parks, temple grounds and the edges of rice paddies, the blooms form glowing red ribbons.",
+      "bloomingSeason": "September, around the autumn equinox and into early October",
+      "location": "Japan, in parks, temple gardens and rice-field margins",
       "colors": [
-        "Pink",
-        "Lilac",
-        "Pale purple"
+        "Crimson",
+        "Red"
       ],
-      "emoji": "🌸",
-      "funFact": "All parts of the plant contain colchicine, a toxin that is also used medicinally to treat gout and in plant breeding to induce chromosome doubling."
+      "emoji": "🌺",
+      "funFact": "The flowers appear before the leaves, which only emerge after the blooms fade. This is why the plant is linked in Japanese tradition with the autumn equinox holiday."
     },
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster (Michaelmas Daisy)",
-      "description": "A clump-forming perennial with masses of daisy-like flowers with yellow centers. It is a vital late-season nectar source for bees and butterflies, including migrating monarchs.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to eastern North America from Newfoundland to Georgia; naturalized in Europe and cultivated widely in gardens",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Goblet-shaped lilac-pink blooms rise straight from bare ground in damp meadows and woodland edges. They appear just as most flowers are fading. The spring leaves have long since died back, so the flowers stand alone.",
+      "bloomingSeason": "Late summer to early autumn (August to September)",
+      "location": "Meadows and gardens across temperate Europe",
       "colors": [
-        "Purple",
-        "Blue",
-        "Violet",
-        "Pink",
-        "White"
+        "Lavender pink",
+        "Pale lilac"
       ],
-      "emoji": "🌼",
-      "funFact": "The common name 'Michaelmas daisy' comes from the feast of St. Michael on September 29, which falls right at the peak of its bloom in Britain."
+      "emoji": "🌷",
+      "funFact": "Despite the name, it is not a true crocus or the source of saffron. It is a member of the lily relatives and contains colchicine, a powerful toxin that is also used in medicine."
+    },
+    {
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved cyclamen (hardy cyclamen)",
+      "description": "Swept-back pink petals with a darker magenta mark at the base hover above the woodland floor on slender, curved stems. As the flowers fade, marbled silver-green leaves unfurl and carpet the ground through winter.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Shaded woodlands and gardens in southern Europe and cool-climate gardens in the Northern Hemisphere",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta"
+      ],
+      "emoji": "🌸",
+      "funFact": "After pollination, the flower stalk coils like a spring and pulls the seed capsule down toward the soil. This helps the seeds find a place to sprout."
     },
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A large, fast-growing tree that bursts into spectacular clouds of lavender-blue trumpet-shaped flowers just before its fern-like leaves emerge. Streets lined with jacarandas turn into purple tunnels, and fallen blossoms carpet the ground.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Pretoria and Johannesburg in South Africa, Australia, and New Zealand's northern regions",
+      "description": "Clouds of lilac-purple, trumpet-shaped flowers cover this feathery-leaved tree. The blooms often appear before the foliage fully returns. When the flowers drop, they leave violet carpets on streets and pavements.",
+      "bloomingSeason": "September to November in the Southern Hemisphere spring, with peak color usually in October",
+      "location": "Pretoria, South Africa, and other warm southern-hemisphere cities",
       "colors": [
-        "Lavender",
-        "Purple-blue"
+        "Lilac",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are around 70,000 jacaranda trees, giving it the nickname 'Jacaranda City,' and Australian university students traditionally believe that a flower falling on your head means you'll pass your exams."
-    },
-    {
-      "name": "Tagetes erecta",
-      "commonName": "Mexican Marigold (Cempasúchil)",
-      "description": "A tall, robust annual with large, pom-pom-like flower heads and pungent, finely divided foliage. It blooms prolifically until frost and is a staple in cottage and vegetable gardens for deterring pests.",
-      "bloomingSeason": "Summer through autumn (June to first frost)",
-      "location": "Native to Mexico and Central America; cultivated worldwide in gardens and as a commercial crop for pigment",
-      "colors": [
-        "Orange",
-        "Golden yellow",
-        "Yellow"
-      ],
-      "emoji": "🏵️",
-      "funFact": "In Mexico, these flowers are called cempasúchil and are used to decorate altars and guide spirits during Día de Muertos, celebrated at the start of November, so growers time their bloom for late September onward."
+      "funFact": "Jacaranda is native to South America but was planted widely in Pretoria from the 1800s. The city is now nicknamed the Jacaranda City."
     }
   ]
 }

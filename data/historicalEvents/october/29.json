@@ -2,39 +2,39 @@
   "date": "October 29",
   "events": [
     {
+      "year": 1268,
+      "title": "The Last Hohenstaufen King Is Executed",
+      "description": "Conradin, the teenage claimant to the Kingdom of Sicily and the last legitimate male heir of the Hohenstaufen dynasty, was executed in Naples after his defeat by Charles of Anjou.",
+      "category": "Politics",
+      "significance": "His death ended the Hohenstaufen line, which had dominated medieval Germany and Italy, and cemented Angevin power in southern Italy."
+    },
+    {
+      "year": 1675,
+      "title": "Leibniz Introduces the Integral Sign",
+      "description": "The German polymath Gottfried Wilhelm Leibniz used the elongated 'S' symbol (∫) for the first time to represent the integral in his calculus notes.",
+      "category": "Science",
+      "significance": "Leibniz's notation became the standard way of writing integrals and is still used in mathematics, physics and engineering today."
+    },
+    {
       "year": 1929,
-      "title": "Black Tuesday Stock Market Crash",
-      "description": "The New York Stock Exchange collapsed as panicked investors sold roughly 16 million shares in a single day, wiping out billions of dollars in market value. It followed the sharp declines of Black Thursday five days earlier.",
+      "title": "Black Tuesday Hits Wall Street",
+      "description": "Investors traded more than 16 million shares on the New York Stock Exchange in a single day as prices collapsed, wiping out billions of dollars in value.",
       "category": "Economics",
-      "significance": "Black Tuesday is regarded as the most devastating day in U.S. stock market history and a pivotal moment in the onset of the Great Depression, which reshaped global economic policy and led to major financial regulation."
-    },
-    {
-      "year": 1618,
-      "title": "Execution of Sir Walter Raleigh",
-      "description": "English explorer, courtier, and writer Sir Walter Raleigh was beheaded in London's Old Palace Yard under a suspended sentence for treason dating from 1603, after his final expedition to Guiana failed and angered Spain.",
-      "category": "Politics",
-      "significance": "Raleigh's death marked the end of the Elizabethan age of adventurers and is remembered as a symbol of the shifting politics of James I's reign and early English colonial ambitions in the Americas."
-    },
-    {
-      "year": 1923,
-      "title": "Proclamation of the Republic of Turkey",
-      "description": "The Grand National Assembly of Turkey formally proclaimed the Republic, and Mustafa Kemal Atatürk was elected its first president, following the abolition of the Ottoman sultanate in 1922 and the Turkish War of Independence.",
-      "category": "Politics",
-      "significance": "The proclamation created the modern secular Turkish state and began sweeping political, legal, social, and cultural reforms that transformed the former Ottoman heartland."
+      "significance": "The crash was a defining moment of the 1929 market collapse and a prelude to the Great Depression, which reshaped economic policy around the world."
     },
     {
       "year": 1969,
-      "title": "First Message Sent over ARPANET",
-      "description": "At UCLA, student programmer Charley Kline sent the first host-to-host message over ARPANET to the Stanford Research Institute. The system crashed after the letters 'lo' of the intended word 'login' were transmitted.",
+      "title": "The First Message Is Sent Over ARPANET",
+      "description": "From a computer at UCLA, programmer Charley Kline sent the first electronic message to a machine at the Stanford Research Institute, linking two computers across a network.",
       "category": "Technology",
-      "significance": "This first transmission on the precursor to the internet is considered a foundational moment in the history of digital networking and global communications."
+      "significance": "This early link on ARPANET, the forerunner of the internet, marked the start of networked computing as we know it."
     },
     {
-      "year": 1991,
-      "title": "Galileo Spacecraft Flies by Asteroid Gaspra",
-      "description": "NASA's Galileo probe, en route to Jupiter, made the first close flyby of an asteroid, passing within about 1,600 kilometers of 951 Gaspra and returning detailed images.",
-      "category": "Science",
-      "significance": "The encounter provided the first close-up views of an asteroid and greatly advanced understanding of the composition and geology of small solar system bodies."
+      "year": 1923,
+      "title": "Turkey Becomes a Republic",
+      "description": "The Grand National Assembly proclaimed the Republic of Turkey, and Mustafa Kemal Atatürk was elected as its first president.",
+      "category": "Politics",
+      "significance": "The proclamation closed the Ottoman era and began a sweeping program of modernization and secularization. Turkey still celebrates it each year as Republic Day."
     }
   ]
 }

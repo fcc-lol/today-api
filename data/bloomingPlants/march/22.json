@@ -4,56 +4,42 @@
     {
       "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A graceful ornamental cherry tree that produces clouds of delicate, fragrant blossoms before its leaves emerge. Its branches arch widely, creating a canopy of pale blooms that drift down as petals in the breeze.",
-      "bloomingSeason": "Late March to early April",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
+      "description": "Clouds of blush-white blossoms cover bare branches before the leaves appear. Each flower is five-petaled and lightly almond-scented. Petals drift down like snow in the spring breeze.",
+      "bloomingSeason": "Late March to early April in Tokyo and much of central Japan, with peak bloom often around the turn of the month",
+      "location": "Japan, especially Tokyo, Kyoto and the Honshu lowlands",
       "colors": [
-        "pale pink",
-        "white"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The Yoshino cherry is the star of Japanese hanami festivals, and the 1912 gift of trees from Tokyo to Washington D.C. started the National Cherry Blossom Festival, which is timed around the peak bloom in late March."
+      "funFact": "Japan's cherry blossom forecast tracks the Yoshino cherry. Its trees are mostly clones grafted from a single original, so they tend to bloom in near-perfect unison."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler outer petals. It carpets woodlands and meadows in spring and is a classic herald of the season in cool temperate zones.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, especially the UK, France, and Spain; widely naturalized in North America",
+      "description": "Nodding golden trumpets rise from a paler ring of petals above blue-green, strap-like leaves. In woodlands and meadows they gather into drifts of yellow. They are a cheerful sign that winter is ending.",
+      "bloomingSeason": "March to April in the UK and western Europe",
+      "location": "Woodlands and meadows of England, Wales and western Europe",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Golden yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils contain the compound galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "funFact": "Daffodil bulbs contain alkaloids such as galantamine. This compound has been developed into a medicine for Alzheimer's disease, and the same toxins make the plants unappealing to grazing animals."
     },
     {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A spectacular Himalayan tree bearing huge, goblet-shaped flowers on bare branches. The blossoms can reach up to 25 cm across and make a dramatic display in spring.",
-      "bloomingSeason": "Late February to April",
-      "location": "Himalayas (Nepal, Bhutan, northeastern India, southwest China); cultivated in mild gardens in the UK, New Zealand, and the Pacific Northwest",
+      "name": "Eschscholzia californica",
+      "commonName": "California Poppy",
+      "description": "Silky, cup-shaped flowers glow like molten gold across hillsides and roadsides. The petals open in full sun and close on cloudy days and at night. Feathery blue-green foliage sets off the blooms.",
+      "bloomingSeason": "Late February to September, with spectacular mass blooms in March and April in wet years",
+      "location": "California and the American Southwest",
       "colors": [
-        "deep pink",
-        "rose",
-        "white"
+        "Orange",
+        "Gold",
+        "Yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "Magnolias are among the most ancient flowering plants, evolving before bees existed, so their flowers are sturdy enough to be pollinated by beetles."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Southern Hemisphere bloom variants such as Nerine bowdenii)",
-      "description": "In the Southern Hemisphere, where March 22 falls in early autumn, bulbs such as nerines and colchicums burst into bloom on bare stems, bringing a surprising show of color as the weather cools.",
-      "bloomingSeason": "Early autumn in the Southern Hemisphere (March to May)",
-      "location": "South Africa, Australia, New Zealand, and Argentina",
-      "colors": [
-        "pink",
-        "lilac",
-        "purple"
-      ],
-      "emoji": "💜",
-      "funFact": "Colchicum bulbs are the source of colchicine, a compound used in medicine to treat gout and in plant breeding to double chromosome numbers."
+      "emoji": "🏵️",
+      "funFact": "California's state flower can bloom so densely that superblooms are visible from space. Its petals fold shut when it is cold or overcast, which protects the pollen."
     }
   ]
 }

@@ -4,57 +4,43 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers that bloom in the cool season. It is widely cultivated in temperate gardens and prized for blooms that appear when most other plants are dormant.",
-      "bloomingSeason": "Late autumn to early spring (peak in January in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; cultivated in the southeastern United States, Europe, and Australia",
+      "description": "Glossy evergreen shrubs light up the cold-season woodlands and gardens of Japan with rose-like blooms of crimson, pink and white. Their waxy petals surround a boss of golden stamens that stands out against dark green leaves.",
+      "bloomingSeason": "January to March in the wild, so mid-to-late January falls within the season",
+      "location": "Japan, coastal woodlands and gardens of Honshu, Shikoku and Kyushu",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant used to make tea, and thousands of cultivars have been bred in Japan over centuries."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan it is called tsubaki and has long been prized for the oil pressed from its seeds."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with leathery evergreen leaves and nodding, cup-shaped flowers with golden stamens. It braves frost and snow, blooming in the depths of winter in woodland and shade gardens.",
-      "bloomingSeason": "Midwinter to early spring",
-      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens worldwide",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily, Lily of the Nile",
+      "description": "In the southern summer, tall bare stems rise above arching strap-like leaves. Each carries a rounded burst of 20 to 40 trumpet-shaped flowers. Gardens, roadsides and coastal slopes turn blue and violet.",
+      "bloomingSeason": "Mostly November to February, so it is in full flower on January 21",
+      "location": "Native to South Africa, and widely grown in southern Australia's summer gardens",
       "colors": [
-        "white",
-        "pale pink"
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. The name comes from Greek words meaning 'love flower'."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding, bell-shaped white flowers with green-marked inner petals push up through frosty ground. They are among the first signs that winter is loosening its grip, and they often appear in drifts under bare trees.",
+      "bloomingSeason": "January to March, so it is in bloom around January 21",
+      "location": "Gardens and woodlands across the United Kingdom and temperate Europe",
+      "colors": [
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Despite its name, it is not a true rose. All parts of the plant are toxic, and flowers can bloom through snow cover."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub bearing the largest flower head of any protea, with a bowl of stiff, colorful bracts surrounding a center of fuzzy florets. It thrives in the fynbos habitat of South Africa and is a popular cut flower.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with flowering often occurring from December through February in some areas",
-      "location": "Southwestern and southern coastal regions of South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌸",
-      "funFact": "The king protea is South Africa's national flower, and the protea family is so ancient that it dates back to before the supercontinent Gondwana broke apart."
-    },
-    {
-      "name": "Eucalyptus leucoxylon",
-      "commonName": "Yellow Gum",
-      "description": "A medium-sized Australian tree with smooth mottled bark and clusters of nectar-rich flowers that attract honeyeaters, lorikeets, and bees. In the Southern Hemisphere summer it provides food for countless native animals.",
-      "bloomingSeason": "Late summer, with flowering occurring from autumn to winter in some forms; flowers may appear around January in some populations",
-      "location": "South-eastern Australia, including South Australia and Victoria",
-      "colors": [
-        "cream",
-        "pink",
-        "red"
-      ],
-      "emoji": "🌳",
-      "funFact": "Cultivated forms with deep red or pink flowers are widely planted as street trees, and the nectar is important for producing eucalyptus honey."
+      "funFact": "Snowdrops can bloom through snow because their leaf tips are hardened and pointed, which helps them push up through frozen soil."
     }
   ]
 }

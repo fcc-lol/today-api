@@ -2,62 +2,45 @@
   "date": "November 24",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A bushy perennial cultivated for its dense, layered flower heads in a huge range of forms, from pompons to spiders. It is among the last garden flowers to bloom in the Northern Hemisphere, tolerating cool autumn nights and light frosts.",
-      "bloomingSeason": "Autumn to early winter in the Northern Hemisphere (October to December)",
-      "location": "Cultivated worldwide; especially popular in East Asia, Europe, and North America",
-      "colors": [
-        "Yellow",
-        "White",
-        "Bronze",
-        "Purple",
-        "Red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are a symbol of the Japanese Imperial family, and the Chrysanthemum Throne is named for them. Flowering is triggered by the shortening days of autumn, as they are short-day plants."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large, graceful tree with fern-like leaves that erupts into clouds of lavender-blue trumpet-shaped flowers. When the blooms drop, they carpet streets and gardens in purple.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America; widely planted in Australia, South Africa, and Argentina",
+      "commonName": "Blue Jacaranda",
+      "description": "Whole streets in the southern spring turn lavender-blue as this tree opens its trumpet-shaped flowers in dense clusters. The petals drop to form soft purple carpets beneath the feathery, fern-like canopy.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere, peaking from October to December",
+      "location": "Brisbane and Sydney in Australia, Pretoria in South Africa, and Buenos Aires in Argentina",
       "colors": [
         "Lavender",
-        "Blue-violet"
+        "Violet-blue"
       ],
-      "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, tens of thousands of trees bloom in November. In Australia, an old tradition says that if a jacaranda flower falls on your head, you will pass your exams."
+      "emoji": "🌳",
+      "funFact": "The tree is native to South America but is now planted in warm regions worldwide. In Pretoria, which is nicknamed the Jacaranda City, thousands of them line the streets."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark leaves and delicate, slightly fragrant single or semi-double flowers. It blooms earlier than the common camellia and brightens gardens as other plants fade.",
-      "bloomingSeason": "Autumn to early winter (October to January)",
-      "location": "Native to southern Japan; grown in the southeastern United States, Europe, and Australia",
+      "description": "This glossy-leaved evergreen shrub lights up late autumn gardens with delicate, often lightly fragrant blooms. Its flowers are single or semi-double with a golden center of stamens, and they open when most other plants are winding down.",
+      "bloomingSeason": "Mid-autumn to early winter, roughly October to December",
+      "location": "Southern Japan, where it is native, and in gardens across the southeastern United States and Europe's mild-climate regions",
       "colors": [
         "White",
         "Pink",
         "Rose-red"
       ],
-      "emoji": "🌺",
-      "funFact": "The leaves of the related Camellia sinensis give us tea, and sasanqua seeds are pressed to make camellia oil used in cooking and cosmetics."
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. Seed from sasanqua and other camellias is pressed to make a culinary and cosmetic oil."
     },
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub whose colorful display comes from bracts, modified leaves surrounding tiny yellow flowers. In frost-free climates it grows into a large landscape shrub, and elsewhere it is a popular potted holiday plant.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to Mexico and Central America; grown worldwide as an ornamental",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Round umbels of funnel-shaped flowers sway on tall, sturdy stems above arching, strap-like leaves. Each flower head is a burst of blue that looks like a firework.",
+      "bloomingSeason": "Late spring through summer in the Southern Hemisphere, starting in November",
+      "location": "Coastal eastern South Africa, where it grows wild, and gardens across Australia and New Zealand",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🎄",
-      "funFact": "The Aztecs called it cuetlaxochitl and used it to make a reddish dye and to treat fevers. Like chrysanthemums, poinsettias need long nights to develop their color."
+      "emoji": "💙",
+      "funFact": "The name comes from the Greek words for love and flower. Its thick, water-storing roots help it survive dry spells."
     }
   ]
 }

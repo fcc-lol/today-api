@@ -2,39 +2,32 @@
   "date": "December 5",
   "events": [
     {
+      "year": 1791,
+      "title": "Mozart Dies in Vienna",
+      "description": "Wolfgang Amadeus Mozart, one of the most gifted composers in history, died in Vienna at the age of 35. He left his final work, the Requiem, unfinished.",
+      "category": "Death",
+      "significance": "His early death cut short one of music's most extraordinary careers. His operas, symphonies and concertos remain central to the classical repertoire."
+    },
+    {
+      "year": 1848,
+      "title": "Polk Confirms the California Gold Discovery",
+      "description": "In his message to Congress, President James K. Polk confirmed that gold had been found in California. His announcement drew national attention to the discovery.",
+      "category": "Politics",
+      "significance": "The confirmation set off the Gold Rush of 1849. Tens of thousands of people headed west, and California grew quickly toward statehood."
+    },
+    {
       "year": 1933,
       "title": "Prohibition Ends in the United States",
-      "description": "Utah became the 36th state to ratify the Twenty-first Amendment, providing the three-fourths majority needed to repeal the Eighteenth Amendment and end nationwide Prohibition of alcohol that had begun in 1920.",
-      "category": "Politics and Law",
-      "significance": "The repeal ended a 13-year national experiment that had fueled organized crime and widespread illegal trade, and it remains the only constitutional amendment ever repealed by another amendment."
+      "description": "Utah became the 36th state to ratify the 21st Amendment, which repealed the 18th Amendment. That ended national Prohibition after almost 14 years.",
+      "category": "Politics",
+      "significance": "The repeal returned control of alcohol regulation to the states. It also closed one of the most debated social experiments in American history."
     },
     {
-      "year": 1901,
-      "title": "Birth of Walt Disney",
-      "description": "Walter Elias Disney was born in Chicago, Illinois. He went on to co-found the Walt Disney Company, create Mickey Mouse, and produce the first full-length cel-animated feature film, Snow White and the Seven Dwarfs (1937).",
-      "category": "Birth",
-      "significance": "Disney transformed animation and family entertainment, and his studio and theme parks became a global cultural and commercial force."
-    },
-    {
-      "year": 1791,
-      "title": "Death of Wolfgang Amadeus Mozart",
-      "description": "Mozart died in Vienna at the age of 35, leaving his Requiem unfinished. He had composed more than 600 works across virtually every musical genre of his time.",
+      "year": 2013,
+      "title": "Nelson Mandela Dies",
+      "description": "Nelson Mandela, South Africa's first Black president, died at age 95. He had spent 27 years in prison for opposing apartheid before leading his country.",
       "category": "Death",
-      "significance": "Mozart is regarded as one of the greatest composers in Western music history, and his works continue to shape classical music performance and education."
-    },
-    {
-      "year": 1955,
-      "title": "Montgomery Bus Boycott Begins",
-      "description": "Following the arrest of Rosa Parks on December 1, the Montgomery Bus Boycott began on this day, with African American residents refusing to ride city buses to protest racial segregation. The boycott was led by the newly formed Montgomery Improvement Association under Martin Luther King Jr.",
-      "category": "Civil Rights",
-      "significance": "The 381-day boycott led to a Supreme Court ruling that bus segregation was unconstitutional and launched Martin Luther King Jr. as a national leader of the civil rights movement."
-    },
-    {
-      "year": 1492,
-      "title": "Columbus Reaches Hispaniola",
-      "description": "Christopher Columbus landed on the island of Hispaniola, in what is now Haiti and the Dominican Republic, during his first voyage to the Americas.",
-      "category": "Exploration",
-      "significance": "The landing led to the first lasting European settlements in the Americas and began the sustained colonization of the Caribbean."
+      "significance": "Mandela became a global symbol of reconciliation and freedom. His death prompted mourning and tributes around the world."
     }
   ]
 }

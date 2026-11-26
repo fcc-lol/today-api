@@ -2,11 +2,24 @@
   "date": "January 30",
   "plants": [
     {
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding, bell-shaped white blossoms push up through frost and leaf litter. Each one has a small green mark on its inner petals. Whole woodland floors turn white in drifts, and the flowers are a quiet sign that winter is loosening its grip.",
+      "bloomingSeason": "January to February, and sometimes earlier in mild winters",
+      "location": "Woodlands, churchyards and gardens across the United Kingdom and Europe",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops make a natural antifreeze-like protein in their tissues. The plant also gave science galantamine, a compound used in medicines for Alzheimer's disease."
+    },
+    {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is widely cultivated in gardens, with thousands of cultivars in many forms.",
-      "bloomingSeason": "Late winter to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Pacific coastal regions",
+      "commonName": "Japanese Camellia (Tsubaki)",
+      "description": "Glossy evergreen shrubs carry rose-like blooms of layered petals around a boss of golden stamens. They flower when most of the garden is bare. The flowers stand out against the dark, polished leaves.",
+      "bloomingSeason": "Winter into early spring, typically January through April",
+      "location": "Native to Japan, Korea and eastern China, and widely grown in temperate gardens worldwide",
       "colors": [
         "Red",
         "Pink",
@@ -14,49 +27,21 @@
         "Variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of the tea plant (Camellia sinensis), and in Japan its blooms are linked to samurai culture because the whole flower drops at once."
+      "funFact": "In Japan the camellia is a classic winter flower. Its blooms usually fall whole, with the petals still attached, rather than dropping petal by petal."
     },
     {
-      "name": "Prunus mume",
-      "commonName": "Chinese Plum / Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the cold of winter, before the leaves emerge. It is a cherished symbol of perseverance and hope in East Asian culture.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Native to southern China; cultivated across China, Japan, Korea, and Taiwan",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Tall, sturdy stems rise above arching strap-like leaves and carry round clusters of trumpet-shaped flowers. Each cluster looks like a firework held in place. The blooms are a rich blue-violet in the middle of the southern summer.",
+      "bloomingSeason": "Southern summer, mainly December to February",
+      "location": "Native to the coastal Eastern Cape of South Africa, and widely grown in gardens in Australia, New Zealand and other warm regions",
       "colors": [
-        "White",
-        "Pink",
-        "Deep red"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Ume blossoms appear weeks before cherry blossoms, and the fruit is used to make umeboshi (pickled plums) and umeshu (plum wine)."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking shrub with large, bowl-shaped flower heads made of colorful bracts surrounding a central cluster of tiny flowers. It is adapted to fire-prone, nutrient-poor fynbos soils.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak flowering from November to February, and some blooms through autumn",
-      "location": "Native to the southwestern and southern Cape regions of South Africa",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Silvery-white",
-        "Crimson"
-      ],
-      "emoji": "🌼",
-      "funFact": "The King Protea is South Africa's national flower, and the genus Protea was named after the Greek god Proteus, who could change shape, because of the plant's great diversity."
-    },
-    {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, heralding the end of winter.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and elsewhere",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of Alzheimer's disease."
+      "emoji": "💙",
+      "funFact": "The name comes from Greek words meaning love flower. Despite the common name, it isn't a true lily. It belongs to the amaryllis family."
     }
   ]
 }

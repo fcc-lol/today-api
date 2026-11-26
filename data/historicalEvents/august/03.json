@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1492,
-      "title": "Columbus Departs from Palos on First Voyage",
-      "description": "Christopher Columbus set sail from Palos de la Frontera, Spain, with the Santa María, Pinta, and Niña, seeking a western sea route to Asia under the sponsorship of the Spanish crown.",
+      "title": "Columbus Sets Sail from Spain",
+      "description": "Christopher Columbus departed from the port of Palos de la Frontera with three ships, the Santa María, the Pinta and the Niña. He was searching for a western sea route to Asia.",
       "category": "Exploration",
-      "significance": "The voyage led to the first sustained European contact with the Americas, profoundly reshaping world history, trade, and demographics."
+      "significance": "The voyage led to the first lasting contact between Europe and the Americas, and it reshaped world history, trade and populations."
     },
     {
       "year": 1914,
       "title": "Germany Declares War on France",
-      "description": "Germany declared war on France at the start of World War I, following its earlier declaration against Russia, and invaded Belgium the same day as part of the Schlieffen Plan.",
+      "description": "As the July Crisis spiralled, Germany declared war on France. This widened the conflict that had begun days earlier in Eastern Europe, and German forces moved toward Belgium.",
       "category": "War",
-      "significance": "The declaration widened the conflict into a continental war, and the invasion of Belgium prompted Britain to enter the war on August 4."
+      "significance": "The declaration helped turn a regional dispute into World War I, a conflict that cost millions of lives and redrew the map of Europe."
     },
     {
-      "year": 1858,
-      "title": "Birth of Early Cold Spring Harbor Context: Death of Sir Chief Justice? (Corrected) - Bechuanaland Not Applicable",
-      "description": "Placeholder removed.",
-      "category": "Other",
-      "significance": "Not applicable."
+      "year": 1916,
+      "title": "Roger Casement Executed",
+      "description": "Roger Casement was executed in London for treason over his part in planning the Irish Easter Rising. He was a former British diplomat who had become an Irish nationalist.",
+      "category": "Politics",
+      "significance": "Casement had earlier exposed colonial abuses in the Congo and Peru. His execution made him a lasting symbol of Irish republicanism."
     },
     {
-      "year": 1936,
-      "title": "Jesse Owens Wins First Gold Medal at Berlin Olympics",
-      "description": "American sprinter Jesse Owens won the 100-meter dash at the 1936 Berlin Summer Olympics, the first of four gold medals he would win at the Games.",
-      "category": "Sports",
-      "significance": "Owens' victories challenged Nazi claims of Aryan racial superiority and made him one of the most celebrated athletes in history."
-    },
-    {
-      "year": 1958,
-      "title": "USS Nautilus Reaches the North Pole",
-      "description": "The US Navy nuclear-powered submarine USS Nautilus became the first vessel to reach the geographic North Pole, traveling beneath the Arctic ice cap.",
-      "category": "Exploration",
-      "significance": "The feat demonstrated the capabilities of nuclear propulsion and had major strategic implications during the Cold War."
+      "year": 1960,
+      "title": "Niger Gains Independence from France",
+      "description": "The West African nation of Niger became fully independent from France. It was one of many African territories to win sovereignty around that time.",
+      "category": "Independence",
+      "significance": "Niger's independence was part of the decolonization wave of 1960, which reshaped the political map of Africa."
     }
   ]
 }

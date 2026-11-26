@@ -3,31 +3,38 @@
   "events": [
     {
       "year": 1792,
-      "title": "Buttonwood Agreement Signed",
-      "description": "Twenty-four stockbrokers and merchants signed the Buttonwood Agreement under a buttonwood tree outside 68 Wall Street in New York City, establishing rules for trading securities and setting commission rates.",
-      "category": "Economics",
-      "significance": "This agreement is considered the founding of what later became the New York Stock Exchange, which grew into the largest stock exchange in the world."
-    },
-    {
-      "year": 1954,
-      "title": "Brown v. Board of Education Decided",
-      "description": "The U.S. Supreme Court unanimously ruled in Brown v. Board of Education of Topeka that racial segregation in public schools was unconstitutional, declaring that separate educational facilities are inherently unequal.",
-      "category": "Law and Civil Rights",
-      "significance": "The decision overturned the doctrine of separate but equal from Plessy v. Ferguson in public education and became a catalyst for the American civil rights movement."
-    },
-    {
-      "year": 1990,
-      "title": "World Health Organization Removes Homosexuality from Disease Classification",
-      "description": "The World Health Organization's World Health Assembly endorsed the 10th revision of the International Classification of Diseases, which removed homosexuality from its list of mental disorders.",
-      "category": "Health and Human Rights",
-      "significance": "The date is now observed annually as the International Day Against Homophobia, Transphobia and Biphobia, marking a milestone in global LGBTQ+ rights and medical recognition."
+      "title": "The Buttonwood Agreement Launches Wall Street Trading",
+      "description": "Twenty-four stockbrokers signed an agreement under a buttonwood tree on Wall Street in New York City. They pledged to trade securities only with one another and to charge set commissions. The pact became the foundation of what grew into the New York Stock Exchange.",
+      "category": "Business and Finance",
+      "significance": "It created the organized securities market that grew into one of the most influential financial institutions in the world."
     },
     {
       "year": 1814,
-      "title": "Norwegian Constitution Signed",
-      "description": "Norway's constitution was signed at Eidsvoll on May 16 and formally dated and proclaimed on May 17, when the Constituent Assembly elected Christian Frederik as king, declaring Norway an independent kingdom after the separation from Denmark.",
+      "title": "Norway Adopts Its Constitution",
+      "description": "Norway's constitution was signed at Eidsvoll, and the country declared itself an independent kingdom. The union with Sweden that followed soon after did not erase the achievement. The document remains one of the oldest written constitutions still in use.",
       "category": "Politics",
-      "significance": "May 17 is celebrated as Norway's Constitution Day, the country's national day, commemorating its independence and one of Europe's most liberal constitutions of the era."
+      "significance": "Norwegians still celebrate May 17 as their national day, with parades and festivities across the country."
+    },
+    {
+      "year": 1954,
+      "title": "Brown v. Board of Education Decision",
+      "description": "The U.S. Supreme Court ruled unanimously that racially segregated public schools are unconstitutional. The decision overturned the idea that separate facilities could be considered equal.",
+      "category": "Law and Civil Rights",
+      "significance": "The ruling became a legal cornerstone of the American civil rights movement, though putting it into practice took many years."
+    },
+    {
+      "year": 1973,
+      "title": "Senate Watergate Hearings Begin on Television",
+      "description": "The U.S. Senate's special committee opened public hearings into the Watergate scandal, and the proceedings were televised. Millions of Americans watched testimony about political espionage and the efforts to cover it up.",
+      "category": "Politics",
+      "significance": "The hearings exposed abuses of power at the highest level and set in motion events that led to President Nixon's resignation in 1974."
+    },
+    {
+      "year": 1990,
+      "title": "WHO Removes Homosexuality from Its List of Mental Disorders",
+      "description": "The World Health Organization's member states approved a revision that deleted homosexuality from the international classification of diseases.",
+      "category": "Health and Human Rights",
+      "significance": "The decision marked a major shift in global medical views, and the date is now observed as the International Day Against Homophobia, Transphobia and Biphobia."
     }
   ]
 }

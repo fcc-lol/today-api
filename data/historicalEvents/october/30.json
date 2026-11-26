@@ -2,39 +2,39 @@
   "date": "October 30",
   "events": [
     {
+      "year": 1485,
+      "title": "Henry VII Crowned King of England",
+      "description": "Henry VII was crowned at Westminster Abbey a few weeks after winning the throne at the Battle of Bosworth Field. His coronation confirmed the end of the Wars of the Roses.",
+      "category": "Politics",
+      "significance": "It began the Tudor dynasty, which ruled England for 118 years and included Henry VIII and Elizabeth I."
+    },
+    {
+      "year": 1534,
+      "title": "Act of Supremacy Makes Henry VIII Head of the English Church",
+      "description": "Parliament passed the Act of Supremacy. It declared the English monarch the supreme head of the Church of England, a title that had belonged to the Pope.",
+      "category": "Religion",
+      "significance": "The Act completed England's break with Rome and set the course of the English Reformation."
+    },
+    {
       "year": 1938,
-      "title": "Orson Welles' 'War of the Worlds' Broadcast",
-      "description": "On the eve of Halloween, the CBS radio drama 'The War of the Worlds', directed and narrated by Orson Welles and adapted from H.G. Wells' novel, was aired as a series of simulated news bulletins describing a Martian invasion of New Jersey. Some listeners who tuned in late mistook it for real news, though the extent of the resulting panic has since been shown to be exaggerated.",
+      "title": "Orson Welles's 'War of the Worlds' Broadcast",
+      "description": "On the eve of Halloween, Welles and his Mercury Theatre on the Air aired a radio adaptation of H.G. Wells's Martian-invasion novel. It was written as a series of realistic news bulletins, and some listeners mistook it for real news.",
       "category": "Media and Culture",
-      "significance": "The broadcast became a landmark in media history, illustrating the power of radio and prompting lasting discussion about media literacy, trust in news, and the influence of mass communication. It also launched Orson Welles into national fame."
+      "significance": "The broadcast became a landmark in the history of radio and a lasting case study of how media can shape public perception."
     },
     {
       "year": 1961,
-      "title": "Tsar Bomba Detonated",
-      "description": "The Soviet Union detonated the Tsar Bomba, a hydrogen bomb with a yield of about 50 megatons of TNT, over the Novaya Zemlya archipelago in the Arctic. It remains the most powerful nuclear weapon ever tested.",
-      "category": "Military and Science",
-      "significance": "The test demonstrated the extreme destructive potential of thermonuclear weapons at the height of Cold War tensions and intensified the global debate over nuclear arms control, helping lead to the 1963 Partial Test Ban Treaty."
+      "title": "Soviet Union Detonates the Tsar Bomba",
+      "description": "Over the Novaya Zemlya archipelago in the Arctic, the Soviet Union tested the AN602 hydrogen bomb, known as the Tsar Bomba. It yielded about 50 megatons of TNT.",
+      "category": "Science and Military",
+      "significance": "It was the most powerful nuclear device ever detonated, and it highlighted the dangers of the Cold War arms race."
     },
     {
       "year": 1974,
       "title": "The Rumble in the Jungle",
-      "description": "In Kinshasa, Zaire, Muhammad Ali defeated the undefeated heavyweight champion George Foreman by knockout in the eighth round, using his 'rope-a-dope' strategy to exhaust Foreman and regain the world heavyweight title.",
+      "description": "In Kinshasa, Zaire, Muhammad Ali challenged heavyweight champion George Foreman in one of the most famous boxing matches ever held.",
       "category": "Sports",
-      "significance": "Regarded as one of the greatest sporting events of the 20th century, the fight cemented Ali's legend, brought global attention to Africa as a host of major sporting events, and was later chronicled in the Oscar-winning documentary 'When We Were Kings'."
-    },
-    {
-      "year": 1945,
-      "title": "Birth of Henry Winkler's Era Contemporary: Release of Allied Occupation Milestones",
-      "description": "On this date in 1945, the Allied occupation of Japan continued to develop in the aftermath of World War II, with reforms being set in motion under General Douglas MacArthur's Supreme Commander for the Allied Powers administration.",
-      "category": "Politics and Postwar Reconstruction",
-      "significance": "The occupation period reshaped Japan's political and economic system, leading to a new constitution, land reform, and the country's transformation into a democratic and economically powerful nation."
-    },
-    {
-      "year": 1885,
-      "title": "Birth of Ezra Pound",
-      "description": "Ezra Pound, the American poet and critic who became a major figure of the early modernist movement, was born in Hailey, Idaho Territory. He championed Imagism and promoted the work of T.S. Eliot, James Joyce, and Ernest Hemingway.",
-      "category": "Literature",
-      "significance": "Pound helped shape modernist literature in the 20th century through his poetry, notably 'The Cantos', and his editorial influence, though his later fascist sympathies and wartime broadcasts made him a controversial figure."
+      "significance": "Ali regained the heavyweight title in a fight that became a defining moment in sports history."
     }
   ]
 }

@@ -4,56 +4,44 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like, showy flowers. It thrives in mild, humid climates and is a classic winter bloomer in gardens, with thousands of cultivars in single, semi-double, and fully double forms.",
-      "bloomingSeason": "Late autumn to early spring, peaking in January through March",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Mediterranean Europe, and the Pacific Northwest",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with golden centers. They open in the cool of winter, when little else is flowering in the garden.",
+      "bloomingSeason": "Late winter to early spring, with peak bloom from January through March in mild climates",
+      "location": "Japan, the southeastern United States and other mild temperate gardens in the Northern Hemisphere",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true teas, and Camellia japonica has been cultivated in Japan for over a thousand years."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Japan has cultivated it for centuries, and it is closely tied to the tea ceremony."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous large shrub that produces spidery, ribbon-like, strongly fragrant flowers on bare branches in the depths of winter. The petals curl up in freezing temperatures to protect themselves and unfurl again when it warms.",
-      "bloomingSeason": "Midwinter, typically December to February",
-      "location": "Native to central and eastern China; grown in temperate gardens across Europe and North America",
+      "name": "Prunus mume",
+      "commonName": "Chinese Plum (Ume)",
+      "description": "A twiggy tree that flowers on bare branches, sometimes among late snow. Its fragrant blossoms drift through the cold air in early winter gardens.",
+      "bloomingSeason": "Mid-winter to early spring, usually January to March",
+      "location": "Southern and eastern China, and Japan's warmer regions",
       "colors": [
-        "golden yellow",
-        "orange"
+        "White",
+        "Pink",
+        "Deep red"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers can tolerate freezing temperatures by curling their petals, and extracts from the genus are used in traditional astringent skin products."
-    },
-    {
-      "name": "Jasminum nudiflorum",
-      "commonName": "Winter Jasmine",
-      "description": "A sprawling deciduous shrub with arching green stems that bear bright yellow flowers before the leaves emerge. It brings cheerful color to cold gardens, walls, and banks during winter thaws.",
-      "bloomingSeason": "Winter, usually December to March",
-      "location": "Native to northern China; naturalized or cultivated in the UK, Europe, and the northern United States",
-      "colors": [
-        "yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Unlike many jasmines, winter jasmine has no fragrance, but it is valued for blooming when almost nothing else in the garden does."
+      "emoji": "🌸",
+      "funFact": "In Chinese culture the plum blossom stands for resilience and perseverance because it blooms in the harshest part of winter."
     },
     {
       "name": "Agapanthus praecox",
       "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and tall stems topped with round umbels of trumpet-shaped blue flowers. In the Southern Hemisphere summer, it creates dramatic displays along roadsides, borders, and coastal gardens.",
+      "description": "Tall stems carry round clusters of trumpet-shaped flowers above arching, strap-like leaves. In summer they fill gardens with blue.",
       "bloomingSeason": "Southern Hemisphere summer, roughly December to February",
-      "location": "Native to South Africa; widely grown in Australia, New Zealand, and coastal California, and naturalized in some regions",
+      "location": "Coastal South Africa, and Australian and New Zealand gardens",
       "colors": [
-        "blue",
-        "violet",
-        "white"
+        "Blue",
+        "Violet",
+        "White"
       ],
       "emoji": "💠",
-      "funFact": "Despite the common name, Agapanthus is not a true lily; its name comes from Greek words meaning 'love flower'."
+      "funFact": "Despite the common name, it is not a true lily. Its name comes from the Greek words for \"love\" and \"flower.\""
     }
   ]
 }

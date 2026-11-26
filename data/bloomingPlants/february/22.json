@@ -3,56 +3,42 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is widely cultivated in Japan, China, and Korea, and the fruit is used for pickles (umeboshi) and liqueur.",
-      "bloomingSeason": "Late winter to early spring (late January to March)",
-      "location": "East Asia (Japan, China, Korea); cultivated in temperate gardens worldwide",
+      "commonName": "Japanese Plum (Ume)",
+      "description": "Fragrant blossoms open on bare, dark branches while snow can still linger on the ground. Each flower is a small, cup-shaped bloom with a sweet, spicy scent. Together they turn orchards and shrine gardens into clouds of pink and white, a sign that spring is on its way.",
+      "bloomingSeason": "January to March, with many Japanese orchards at or near their peak in late February",
+      "location": "Japan (plum groves and gardens across the country)",
       "colors": [
-        "pink",
-        "white",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are celebrated in East Asia as symbols of perseverance and hope because they bloom in the cold, before cherry blossoms."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, a small tree or large shrub with fluffy, golden, ball-shaped flower clusters and sickle-shaped phyllodes. It is a key nectar and pollen source for native insects and birds.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (typically July to October, with some early blooms and related wattles flowering in summer)",
-      "location": "Southeastern Australia (Victoria, South Australia, New South Wales)",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the golden and green of the wattle are the country's official national colors."
+      "funFact": "Ume blooms weeks before cherry blossoms. In Japan, people held plum-viewing parties before cherry-blossom viewing became the favorite spring custom."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. Snowdrops often push through frost and snow, naturalizing in woodlands and gardens across Europe.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding white bells with a small green mark on the inner petals push up through frost, leaf litter and sometimes snow. They form drifts across woodlands, churchyards and cottage gardens. They are among the first flowers many gardeners see each year.",
+      "bloomingSeason": "Late January through March, typically peaking in February in the UK and temperate Europe",
+      "location": "United Kingdom and temperate Europe (woodlands, parks and gardens)",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrops flower so early that in recent decades their first blooms in Britain have moved from around the end of February to January."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with large flower heads up to 30 cm across, made of pink or cream bracts surrounding a central cluster of tiny florets. It is adapted to nutrient-poor soils and fire-prone fynbos habitat.",
-      "bloomingSeason": "Mainly spring and summer in the Southern Hemisphere, with flowering spanning much of the year in some populations, including late summer",
-      "location": "Western and Southern Cape, South Africa; cultivated in Australia, California, and Hawaii",
+      "name": "Tabebuia argentea",
+      "commonName": "Tree of Gold (Silver Trumpet Tree)",
+      "description": "This tree drops its leaves, then covers itself in clusters of bright, trumpet-shaped flowers. When it blooms, whole avenues glow like a golden canopy. Few street trees can match the sight.",
+      "bloomingSeason": "Late January into February, with bloom often continuing through the month",
+      "location": "Bengaluru (Bangalore), India, along streets and in parks",
       "colors": [
-        "pink",
-        "cream",
-        "crimson"
+        "Golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and the genus Protea is named after the Greek god Proteus, who could change his shape."
+      "emoji": "🌼",
+      "funFact": "The tree sheds its leaves before flowering, so its blooms stand out against bare branches. That timing is why the display looks so dramatic."
     }
   ]
 }

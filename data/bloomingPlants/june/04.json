@@ -3,57 +3,47 @@
   "plants": [
     {
       "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with deeply lobed green foliage. A beloved cottage garden staple that can live for decades.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens of North America and Europe",
+      "commonName": "Chinese peony",
+      "description": "Big, ruffled, sweetly fragrant blooms open from plump buds and weigh down the stems. They put on a lavish show in cottage gardens and borders across the temperate Northern Hemisphere.",
+      "bloomingSeason": "Late April to early June, depending on cultivar. Late-season varieties are still in flower around June 4.",
+      "location": "Gardens across temperate North America and Europe. The species is native to China, Siberia and Tibet.",
       "colors": [
         "Pink",
         "White",
-        "Red",
-        "Coral"
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies are often hosted by ants, which feed on the sugary nectar on the buds, but the ants are not required for the flowers to open. Some peony plants can live and bloom for more than 50 years."
+      "funFact": "Peonies can live for decades in the same spot, and some garden clumps outlive the people who planted them. Ants are often seen on the buds, but they aren't needed to make the flowers open."
     },
     {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny deciduous shrub of hedgerows and woodland edges with delicate, five-petaled, lightly scented flowers, followed by bright red rose hips in autumn.",
-      "bloomingSeason": "Late spring to midsummer (late May to July)",
-      "location": "Hedgerows, scrub and woodland margins across Europe, northwest Africa, and western Asia",
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "This is the largest flower in the protea family, with a bowl-shaped crown of silky pink bracts around a central cone. It blooms on the fynbos slopes of the Western Cape just as the cool, wet winter begins.",
+      "bloomingSeason": "Mainly winter and spring, from June to October. In the Southern Hemisphere, early June is the start of its peak.",
+      "location": "The fynbos of South Africa's Western Cape, including the slopes around Cape Town and Kirstenbosch National Botanical Garden.",
       "colors": [
-        "Pale pink",
-        "White"
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
-      "emoji": "🌹",
-      "funFact": "Rose hips from the dog rose are extremely rich in vitamin C and were made into syrup in Britain during World War II when citrus fruits were scarce."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A graceful, semi-deciduous tree with fern-like foliage that bursts into spectacular clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they drop.",
-      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America; widely planted in subtropical regions including California, Mexico, Florida, the Mediterranean, and parts of Africa",
-      "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🪻",
-      "funFact": "In Pretoria, South Africa, thousands of jacaranda trees line the streets, earning it the nickname Jacaranda City, though these trees bloom there in October."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its thick, fire-adapted stems regrow from underground after bushfires, and its flower heads are often visited by sugarbirds and beetles."
     },
     {
       "name": "Banksia serrata",
-      "commonName": "Saw Banksia",
-      "description": "A rugged, gnarled Australian tree or shrub with serrated, leathery leaves and tall, cylindrical flower spikes made of thousands of tiny individual flowers, which later develop into woody seed cones.",
-      "bloomingSeason": "Autumn to winter in Australia (roughly February to August), including early June",
-      "location": "Eastern coast of Australia, in coastal heath, dunes, and open woodland from Queensland to Victoria and Tasmania",
+      "commonName": "Old-man banksia (saw banksia)",
+      "description": "A rugged coastal tree with zigzag, saw-toothed leaves. It bears chunky, candle-like flower spikes in pale green and cream, and nectar-seeking honeyeaters crowd the branches.",
+      "bloomingSeason": "Flowers from summer to winter, peaking in autumn, so it is still blooming in early June, the start of Australian winter.",
+      "location": "Coastal eastern Australia, from Queensland through New South Wales and Victoria to Tasmania.",
       "colors": [
-        "Golden yellow",
-        "Greenish-yellow"
+        "Pale green",
+        "Cream",
+        "Yellow-green"
       ],
-      "emoji": "🌼",
-      "funFact": "Banksia seed cones are adapted to fire, often holding seeds for years until a bushfire heats them to release the seeds, and the 'Banksia men' of May Gibbs' children's stories were based on these cones."
+      "emoji": "🌿",
+      "funFact": "After the flowers fade, the spikes turn into woody, knobbly seed cones. These stay sealed until fire passes through, which makes the species well suited to Australian bushland."
     }
   ]
 }

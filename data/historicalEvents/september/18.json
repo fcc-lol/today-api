@@ -2,39 +2,32 @@
   "date": "September 18",
   "events": [
     {
-      "year": 1931,
-      "title": "Mukden Incident",
-      "description": "Japanese military officers staged an explosion on the South Manchuria Railway near Mukden (present-day Shenyang) and blamed Chinese dissidents, using it as a pretext to invade Manchuria.",
-      "category": "War and Conflict",
-      "significance": "The incident led to Japan's occupation of Manchuria and the creation of the puppet state of Manchukuo, exposing the weakness of the League of Nations and marking a key step toward World War II in Asia."
-    },
-    {
       "year": 1793,
-      "title": "George Washington Lays the Cornerstone of the U.S. Capitol",
-      "description": "President George Washington presided over a Masonic ceremony laying the cornerstone of the United States Capitol building in the new federal capital city of Washington, D.C.",
-      "category": "Politics and Government",
-      "significance": "The Capitol became the enduring symbol of American representative democracy and the seat of the U.S. Congress."
-    },
-    {
-      "year": 1947,
-      "title": "U.S. Air Force Established and CIA Created",
-      "description": "The National Security Act of 1947 took effect, formally establishing the United States Air Force as a separate military branch, and the Central Intelligence Agency was created.",
-      "category": "Politics and Government",
-      "significance": "These institutions reshaped American national security structure and became central to U.S. strategy throughout the Cold War."
-    },
-    {
-      "year": 1961,
-      "title": "Death of UN Secretary-General Dag Hammarskjöld",
-      "description": "Dag Hammarskjöld died when his plane crashed near Ndola, Northern Rhodesia (now Zambia), while he was traveling to negotiate a ceasefire in the Congo Crisis.",
-      "category": "Death",
-      "significance": "His death was a major blow to the United Nations and remains the subject of investigations and speculation about possible sabotage. He was posthumously awarded the Nobel Peace Prize."
+      "title": "Washington Lays the Capitol Cornerstone",
+      "description": "President George Washington laid the cornerstone of the United States Capitol in a Masonic ceremony. A parade came before it, and a celebration with feasting followed.",
+      "category": "Milestone",
+      "significance": "The ceremony marked the start of construction on the building that became the home of the U.S. Congress and a lasting symbol of American democracy."
     },
     {
       "year": 1851,
-      "title": "First Publication of The New York Times",
-      "description": "The newspaper was founded by Henry Jarvis Raymond and George Jones and first published as the New-York Daily Times.",
-      "category": "Culture and Media",
-      "significance": "It grew into one of the most influential and respected newspapers in the world, shaping American journalism and public discourse."
+      "title": "The New York Times Publishes Its First Issue",
+      "description": "The first issue of the New-York Daily Times appeared on this day. The paper was later renamed The New York Times.",
+      "category": "Milestone",
+      "significance": "The paper grew into one of the world's most influential news organizations and helped shape modern American journalism."
+    },
+    {
+      "year": 1931,
+      "title": "The Mukden Incident",
+      "description": "Japanese army officers set off a small explosion near a railway line outside Mukden (now Shenyang) in Manchuria. They blamed Chinese saboteurs and used the staged incident as a pretext to attack.",
+      "category": "War",
+      "significance": "It led to Japan's occupation of Manchuria. Many historians see it as the start of the conflict that grew into World War II in Asia."
+    },
+    {
+      "year": 1947,
+      "title": "The National Security Act Takes Effect",
+      "description": "The main provisions of the National Security Act of 1947 took effect on this day. They created the Central Intelligence Agency and the National Security Council, and the act also paved the way for a separate U.S. Air Force.",
+      "category": "Politics",
+      "significance": "The act restructured the American military and intelligence systems for the Cold War, and its institutions still shape U.S. foreign policy."
     }
   ]
 }

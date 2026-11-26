@@ -2,58 +2,44 @@
   "date": "April 4",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A hybrid flowering cherry that produces masses of delicate, almond-scented blossoms on bare branches before the leaves emerge. It is the iconic tree of spring hanami festivals and lines parks, rivers, and temple grounds.",
-      "bloomingSeason": "Late March to mid-April",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions worldwide",
+      "name": "Prunus × yedoensis 'Somei-Yoshino'",
+      "commonName": "Yoshino Cherry (Sakura)",
+      "description": "Bare branches disappear under clouds of blush-white blossoms. Petals drift down like confetti and cover paths and canals in pink. Crowds gather beneath the trees for hanami, the centuries-old custom of picnicking under the blooms.",
+      "bloomingSeason": "Late March to early April. In Kyoto, full bloom usually falls around April 4.",
+      "location": "Kyoto, Japan",
       "colors": [
-        "pale pink",
-        "white"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Nearly all Yoshino cherries are clones propagated by grafting, so trees in a region often bloom at almost exactly the same time."
+      "funFact": "Every Somei-Yoshino tree is a clone, grown from grafted cuttings. Neighboring trees therefore tend to open on almost the same day, which is why the bloom seems to sweep through a city all at once."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It grows in woodlands and meadows and is the ancestor of many garden daffodil cultivars.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Roadsides and prairies across central Texas turn into rolling blue carpets. Each spike carries pea-like flowers, and the upper petal has a small white patch that fades to magenta as the flower ages.",
+      "bloomingSeason": "Late March to mid-April, with peak bloom in early April across much of Central and East Texas.",
+      "location": "Central and East Texas, USA",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Deep blue",
+        "White",
+        "Magenta"
       ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, making it toxic to most grazing animals, and galantamine from related Narcissus species is used in Alzheimer's medication."
+      "emoji": "💙",
+      "funFact": "The white spot on a young bluebonnet turns reddish-purple once the flower has been pollinated. This signals to bees that it has nothing left to offer, so they move on to fresher blooms."
     },
     {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers burst directly from branches and even the trunk before heart-shaped leaves appear. It is common in woodland edges and widely planted in gardens.",
-      "bloomingSeason": "Late March to April",
-      "location": "Eastern and central United States and northeastern Mexico",
+      "name": "Anigozanthos manglesii",
+      "commonName": "Red and Green Kangaroo Paw",
+      "description": "Fuzzy, velvety tubular flowers rise on tall stalks and flare open at the tip into claw-like lobes. The bright red stems and lime-green blooms look almost unreal against the sandy bush of southwestern Australia.",
+      "bloomingSeason": "Kangaroo paws flower from late winter into autumn. Blooms are still on show in early April, the start of the southern autumn.",
+      "location": "Western Australia",
       "colors": [
-        "magenta",
-        "pink",
-        "purple"
+        "Red",
+        "Lime green"
       ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a mildly tart flavor, and this tree displays cauliflory, meaning flowers grow straight from woody stems."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily",
-      "description": "Not usually in bloom now in the north, but its southern relatives are: in the Southern Hemisphere autumn, Amaryllis belladonna sends up leafless stalks topped with fragrant, trumpet-shaped pink blooms. This species thrives in Mediterranean-type climates.",
-      "bloomingSeason": "Late summer to autumn (Southern Hemisphere: March to April)",
-      "location": "Western Cape, South Africa; naturalized in Australia, California, and parts of South America",
-      "colors": [
-        "pink",
-        "rose",
-        "white"
-      ],
-      "emoji": "🌺",
-      "funFact": "Known as the 'naked lady' because its flowers appear on bare stalks after the foliage has died back."
+      "emoji": "🐾",
+      "funFact": "This is the floral emblem of Western Australia. The flowers are shaped to fit the curved beaks of honeyeater birds, which brush pollen onto their heads as they feed."
     }
   ]
 }

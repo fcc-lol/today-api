@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1580,
-      "title": "Francis Drake Completes Circumnavigation",
-      "description": "English privateer Francis Drake returned to Plymouth aboard the Golden Hind, completing his circumnavigation of the globe, which had begun in 1577. The voyage brought back a vast treasure of Spanish silver and spices.",
+      "title": "Francis Drake Completes His Circumnavigation",
+      "description": "Sir Francis Drake brought the Golden Hind into Plymouth Harbour. The voyage had taken nearly three years. It was the second circumnavigation of the globe, and the first led by a single commander throughout.",
       "category": "Exploration",
-      "significance": "Drake became the first Englishman to circumnavigate the world, boosting English naval prestige and challenging Spanish dominance of the seas."
+      "significance": "The voyage made Drake a national hero and brought his backers a huge fortune in captured Spanish treasure. It also helped establish England as a rising maritime power."
     },
     {
       "year": 1687,
-      "title": "Parthenon Damaged by Venetian Bombardment",
-      "description": "During the Morea War, Venetian forces under Francesco Morosini besieged Athens, and a mortar shell struck the Parthenon, where the Ottomans stored gunpowder. The resulting explosion destroyed much of the roof and walls of the ancient temple.",
-      "category": "War",
-      "significance": "The explosion caused irreparable damage to one of the most important monuments of classical antiquity, shaping the ruined state in which it is seen today."
+      "title": "The Parthenon Is Shattered by an Explosion",
+      "description": "During the Venetian siege of Athens, a Venetian bombardment hit Ottoman forces' gunpowder store inside the Parthenon. The blast tore apart the roof and much of the building. It had survived largely intact for over two thousand years.",
+      "category": "Conflict",
+      "significance": "The damage is still visible today. The event also fed later debates about protecting cultural heritage during war."
     },
     {
       "year": 1960,
-      "title": "First Kennedy-Nixon Televised Presidential Debate",
-      "description": "Senator John F. Kennedy and Vice President Richard Nixon took part in the first televised U.S. presidential debate, broadcast from Chicago to an audience of tens of millions.",
+      "title": "The First Televised US Presidential Debate",
+      "description": "John F. Kennedy and Richard Nixon met in a Chicago studio before an audience of tens of millions of viewers. It was the first televised debate between US presidential candidates.",
       "category": "Politics",
-      "significance": "The debate transformed political campaigning by demonstrating the power of television and image in shaping public opinion, influencing election strategy ever after."
-    },
-    {
-      "year": 1789,
-      "title": "Thomas Jefferson Confirmed as First U.S. Secretary of State",
-      "description": "President George Washington's nomination of Thomas Jefferson as the first Secretary of State was confirmed by the Senate, shortly after the new federal government began operating under the Constitution.",
-      "category": "Politics",
-      "significance": "Jefferson's role helped establish the structure of the executive branch and early American foreign policy."
+      "significance": "The debate showed how much image and presentation could matter on television, and it changed how political campaigns are run."
     },
     {
       "year": 1983,
-      "title": "Stanislav Petrov Averts Potential Nuclear War",
-      "description": "Soviet Lieutenant Colonel Stanislav Petrov, on duty at an early-warning command center, judged a satellite alert of incoming U.S. missiles to be a false alarm and chose not to report it as an attack.",
+      "title": "Stanislav Petrov Questions a False Missile Alert",
+      "description": "Soviet officer Stanislav Petrov was on duty at an early-warning command center when its system reported incoming US missiles. He judged the alarm to be a malfunction and did not pass it up the chain of command as an attack.",
       "category": "Cold War",
-      "significance": "His decision likely prevented a retaliatory nuclear strike during a period of intense Cold War tension, and he is remembered as having helped avert catastrophe."
+      "significance": "His decision may have helped prevent a nuclear escalation at a very tense point in the Cold War. It is often cited as an example of human judgment checking automated systems."
     }
   ]
 }

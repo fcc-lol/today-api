@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1453,
-      "title": "Fall of Constantinople",
-      "description": "Ottoman forces under Sultan Mehmed II captured Constantinople after a roughly 53-day siege, killing Byzantine Emperor Constantine XI and ending the Byzantine Empire.",
-      "category": "Military/Political",
-      "significance": "Marked the end of the Eastern Roman Empire and the Middle Ages for many historians, shifted trade routes between Europe and Asia, and established Ottoman dominance in the eastern Mediterranean."
+      "title": "Constantinople Falls to the Ottomans",
+      "description": "After a siege of about two months, Ottoman forces under Sultan Mehmed II captured Constantinople. The city had been the capital of the Byzantine Empire, the surviving eastern half of the Roman Empire.",
+      "category": "Major event",
+      "significance": "The fall ended the Byzantine Empire, which had lasted for centuries. Many historians use it to mark the end of the Middle Ages. The city became the Ottoman capital, later known as Istanbul."
     },
     {
       "year": 1660,
-      "title": "Restoration of Charles II",
-      "description": "On his 30th birthday, Charles II entered London to be restored as King of England, Scotland, and Ireland, ending the Interregnum that followed the English Civil War and the execution of Charles I.",
-      "category": "Political",
-      "significance": "Restored the monarchy after the Commonwealth and Protectorate period, reshaping the balance between crown and Parliament in Britain."
+      "title": "Charles II Restored to the English Throne",
+      "description": "Charles II entered London on his 30th birthday. This restored the monarchy after the period of republican rule that followed the English Civil War.",
+      "category": "Political milestone",
+      "significance": "The Restoration reestablished the Stuart monarchy. It reshaped the balance of power between Crown and Parliament in England."
     },
     {
       "year": 1917,
-      "title": "Birth of John F. Kennedy",
-      "description": "John Fitzgerald Kennedy, the 35th President of the United States, was born in Brookline, Massachusetts.",
+      "title": "John F. Kennedy Is Born",
+      "description": "John Fitzgerald Kennedy was born in Brookline, Massachusetts. He grew up in a prominent political family.",
       "category": "Birth",
-      "significance": "Kennedy became the youngest person elected U.S. president, led during the Cuban Missile Crisis, and championed the space program and civil rights legislation before his assassination in 1963."
-    },
-    {
-      "year": 1919,
-      "title": "Eddington Observes Solar Eclipse Confirming General Relativity",
-      "description": "During a total solar eclipse, Arthur Eddington and his team photographed stars near the Sun, measuring the bending of starlight as predicted by Einstein's general theory of relativity.",
-      "category": "Science",
-      "significance": "The results, announced later that year, made Albert Einstein world famous and provided key early evidence for general relativity, transforming modern physics."
+      "significance": "Kennedy became the 35th President of the United States, the youngest person elected to the office. His presidency and his assassination in 1963 left a lasting mark on American history."
     },
     {
       "year": 1953,
-      "title": "First Ascent of Mount Everest",
-      "description": "Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa of Nepal, reached the summit of Mount Everest, the world's highest peak, as part of a British expedition led by John Hunt.",
-      "category": "Exploration",
-      "significance": "Represented a landmark in human exploration and mountaineering, and made Hillary and Tenzing international icons."
+      "title": "Hillary and Tenzing Reach the Summit of Everest",
+      "description": "Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa mountaineer, became the first climbers confirmed to reach the summit of Mount Everest, the world's highest peak.",
+      "category": "Exploration milestone",
+      "significance": "The climb was a landmark of human endurance and teamwork. It ended a long race to reach the top of the world."
     }
   ]
 }

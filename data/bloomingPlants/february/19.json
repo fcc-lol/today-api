@@ -3,57 +3,44 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, delicate five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is widely cultivated in gardens and for bonsai across East Asia.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Gnarled, dark branches burst into delicate five-petaled blossoms while winter still grips the landscape. The flowers give off a sweet, spicy perfume. Ume groves at shrines and parks are among the first signs of spring in Japan.",
+      "bloomingSeason": "Late January to March, with peak bloom usually from mid-February to early March",
+      "location": "Japan, especially the plum groves (bairin) at shrines such as Tokyo's Kameido Tenjin",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom in the cold before other trees, and the fruit is used to make umeboshi pickles and plum wine."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen Australian tree or large shrub covered in fluffy, golden-yellow, fragrant ball-shaped flower clusters. Its sickle-shaped leaves (phyllodes) are blue-green and leathery.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October), with some wattles flowering earlier or later",
-      "location": "Southeastern Australia",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+      "funFact": "Ume blossoms are traditionally linked with the scholar Sugawara no Michizane, which is why they are planted so often at Tenmangu shrines across Japan."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It pushes up through frost and snow, often forming large carpets in woodlands and gardens.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Common snowdrop",
+      "description": "Nodding, pure-white bells with green-tipped inner petals push up through cold ground on slender, silvery-green leaves. In February they carpet woodlands, riverbanks and churchyards in drifts of white.",
+      "bloomingSeason": "January to March, with the main display in February",
+      "location": "Woodlands, gardens and roadsides across the United Kingdom and Ireland",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce a natural antifreeze-like protein that helps them survive freezing temperatures, and they contain galantamine, a compound used in Alzheimer's medication."
+      "funFact": "Snowdrops are so closely tied to the end of winter that their flowering dates are recorded as a signal of the changing seasons."
     },
     {
-      "name": "Plumeria rubra",
-      "commonName": "Frangipani",
-      "description": "A tropical to subtropical deciduous tree with clusters of highly fragrant, waxy, spiral-shaped flowers. It is common in gardens, temple grounds, and lei-making across warm regions.",
-      "bloomingSeason": "Warm months in the Southern Hemisphere, and in tropical regions it blooms from late winter through summer, including February in places like Australia, Brazil, and Fiji",
-      "location": "Central America, Mexico, and the Caribbean; widely cultivated in tropical Asia, the Pacific, and Australia",
+      "name": "Agapanthus praecox",
+      "commonName": "Agapanthus (African lily, lily of the Nile)",
+      "description": "Tall, leafless stems rise from clumps of strappy green leaves. Each one carries a rounded burst of funnel-shaped blue flowers. In the southern summer they line driveways and fill sunny borders.",
+      "bloomingSeason": "Mainly November to February in the Southern Hemisphere summer, with the last flowers fading in late summer",
+      "location": "Gardens in southern Australia and New Zealand, where it is widely grown",
       "colors": [
-        "white",
-        "yellow",
-        "pink",
-        "red"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "Frangipani flowers are most fragrant at night to attract sphinx moths, yet they produce no nectar and trick the moths into pollinating them."
+      "emoji": "💙",
+      "funFact": "Despite the common name, agapanthus is not a true lily. It is native to southern Africa, and its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

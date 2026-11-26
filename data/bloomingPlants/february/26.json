@@ -4,55 +4,43 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in late winter. It is widely cultivated in East Asian gardens and is celebrated in ume festivals, with flowers appearing before the leaves emerge.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
+      "description": "Gnarled branches still bare of leaves burst into fragrant blossoms. The flowers are delicate and five-petaled, and they open while winter's chill lingers. Their spicy-sweet perfume drifts through gardens and orchards, and they are among the first signs that spring is coming.",
+      "bloomingSeason": "Late January to March, often peaking in mid-to-late February",
+      "location": "Japan, including the Kanto and Kansai regions, where ume groves and gardens are in bloom in late February",
       "colors": [
         "White",
         "Pink",
         "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom while snow may still be on the ground, often before cherry blossoms."
+      "funFact": "Ume blossoms have been celebrated in East Asian poetry and art for more than a thousand years. In Japan, people also pickle the fruit into umeboshi and steep it in liqueur."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This is one of the most dramatic flowers on Earth. A dinner-plate-sized crown of silky, pointed bracts surrounds a center of fine, feathery florets. It grows on rugged shrubs in the fynbos of South Africa's Cape.",
+      "bloomingSeason": "Mainly late winter through spring in the Southern Hemisphere, with flowering from roughly late summer into early summer depending on the variety and location",
+      "location": "Western Cape fynbos, South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "King proteas evolved to survive wildfires. Their thick underground stems resprout after a burn, and the plant is South Africa's national flower."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, pushing up through frost and sometimes snow.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, naturalized in the United Kingdom and North America",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding white bells with green-tipped inner petals push up through frost, and sometimes through snow. In woodlands and gardens across Europe they carpet the ground in drifts of white.",
+      "bloomingSeason": "January to March, with a peak in February in much of Europe",
+      "location": "Woodlands and gardens in the United Kingdom and across Europe",
       "colors": [
         "White",
         "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medications to treat symptoms of early Alzheimer's disease."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, a small tree or large shrub covered in fluffy, golden, fragrant flower balls. Its late-summer blooms bring bright color to Australian bushland as the southern hemisphere season shifts.",
-      "bloomingSeason": "Late winter to spring in the wild, with some flowering extending across seasons depending on region",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "National Wattle Day is celebrated on September 1 in Australia, and the golden wattle's green and gold colors were adopted as the national sporting colors."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A bold shrub with the largest flower head in the Protea genus, featuring a bowl of pink-tipped bracts surrounding a central cluster of florets. It thrives in the fynbos of South Africa and is grown in warm, dry gardens.",
-      "bloomingSeason": "Late summer through spring depending on location, with peaks from late summer to early autumn",
-      "location": "Western and Southern Cape, South Africa",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Silvery-white"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower and can survive wildfires thanks to a woody underground lignotuber that resprouts after burning."
+      "funFact": "Snowdrops make natural antifreeze-like proteins that help them cope with the cold. They also produce galantamine, a compound used in medicine for Alzheimer's disease."
     }
   ]
 }

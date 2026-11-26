@@ -2,39 +2,39 @@
   "date": "June 13",
   "events": [
     {
-      "year": 323,
-      "title": "Death of Alexander the Great",
-      "description": "According to many ancient sources and traditional chronologies, Alexander III of Macedon died in Babylon at age 32 after a brief illness, having built an empire stretching from Greece to northwestern India.",
-      "category": "Death",
-      "significance": "His death ended the unified Macedonian empire and led to the Wars of the Diadochi, as his generals divided his territories, spreading Hellenistic culture across the Mediterranean and Near East."
+      "year": 313,
+      "title": "Edict of Milan Posted in Nicomedia",
+      "description": "The agreement between Roman emperors Constantine the Great and Licinius, which called for benevolent treatment of Christians across the empire, was publicly posted in Nicomedia.",
+      "category": "Politics and Religion",
+      "significance": "The edict is widely seen as a turning point. It helped end the empire's persecution of Christians and set the stage for Christianity's rise in Europe."
     },
     {
-      "year": 1525,
-      "title": "Martin Luther Marries Katharina von Bora",
-      "description": "Protestant reformer Martin Luther married Katharina von Bora, a former nun who had escaped from a convent, in Wittenberg, Germany.",
-      "category": "Religion",
-      "significance": "The marriage helped establish the model of the Protestant clergy household and symbolized the Reformation's rejection of mandatory clerical celibacy."
+      "year": 1805,
+      "title": "Lewis and Clark Sight the Great Falls of the Missouri",
+      "description": "The Lewis and Clark Expedition became the first European Americans to see the Great Falls of the Missouri River, in present-day Montana.",
+      "category": "Exploration",
+      "significance": "The falls confirmed the explorers were on the right route. They also forced a grueling overland portage that tested the expedition."
     },
     {
-      "year": 1831,
-      "title": "Birth of James Clerk Maxwell",
-      "description": "Scottish physicist James Clerk Maxwell was born in Edinburgh. He later formulated the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light.",
+      "year": 1865,
+      "title": "Birth of W. B. Yeats",
+      "description": "The Irish poet and dramatist William Butler Yeats was born in Dublin. He became a leading figure of the Irish literary revival and co-founded the Abbey Theatre.",
       "category": "Birth",
-      "significance": "Maxwell's equations became a cornerstone of modern physics, paving the way for relativity, quantum theory, and technologies such as radio and radar."
+      "significance": "Yeats won the Nobel Prize in Literature in 1923. He is remembered as one of the greatest English-language poets of the 20th century."
+    },
+    {
+      "year": 1944,
+      "title": "Battle of Villers-Bocage",
+      "description": "Days after D-Day, German tank commander Michael Wittmann destroyed around 30 Allied vehicles in less than 15 minutes in the Normandy town of Villers-Bocage.",
+      "category": "Military",
+      "significance": "The clash slowed the British advance in Normandy. It also became one of the most famous tank actions of World War II."
     },
     {
       "year": 1966,
       "title": "Miranda v. Arizona Decided",
-      "description": "The U.S. Supreme Court ruled 5-4 that criminal suspects must be informed of their right to remain silent and to have an attorney before police interrogation.",
+      "description": "The U.S. Supreme Court ruled that criminal suspects must be told of their right to remain silent and to have an attorney before police interrogation.",
       "category": "Law",
-      "significance": "The decision created the 'Miranda warning' used by U.S. law enforcement and reshaped protections for the rights of the accused."
-    },
-    {
-      "year": 1983,
-      "title": "Pioneer 10 Crosses the Orbit of Neptune",
-      "description": "NASA's Pioneer 10 spacecraft became the first human-made object to pass beyond the orbit of Neptune, then the outermost planet in its position, on its path out of the solar system.",
-      "category": "Science and Exploration",
-      "significance": "It demonstrated the reach of robotic space exploration and marked a milestone in humanity's journey beyond the planets."
+      "significance": "The ruling gave rise to the familiar \"Miranda warning\" and reshaped police procedure in the United States."
     }
   ]
 }

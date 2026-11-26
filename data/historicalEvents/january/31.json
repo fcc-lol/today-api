@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1606,
-      "title": "Execution of Guy Fawkes",
-      "description": "Guy Fawkes, caught guarding gunpowder beneath the House of Lords in the Gunpowder Plot of 1605, was hanged, drawn and quartered in London for his part in the conspiracy to assassinate King James I.",
-      "category": "Politics",
-      "significance": "The failed plot is commemorated annually in Britain as Guy Fawkes Night (Bonfire Night) on November 5 and shaped English attitudes toward Catholic dissent for generations."
-    },
-    {
-      "year": 1865,
-      "title": "U.S. Congress Passes the Thirteenth Amendment",
-      "description": "The House of Representatives passed the Thirteenth Amendment to the U.S. Constitution by a vote of 119 to 56, achieving the required two-thirds majority and sending it to the states for ratification. Abolitionists and lawmakers celebrated the outcome in the chamber.",
-      "category": "Law",
-      "significance": "The amendment, ratified in December 1865, abolished slavery and involuntary servitude in the United States except as punishment for a crime, marking a turning point in American history."
+      "title": "Guy Fawkes Is Executed",
+      "description": "Guy Fawkes was executed in London for his part in the Gunpowder Plot. The plot aimed to blow up the House of Lords and kill King James I.",
+      "category": "Death",
+      "significance": "The failed plot is still remembered in Britain each November with Bonfire Night, and it hardened anti-Catholic sentiment in England for generations."
     },
     {
       "year": 1797,
-      "title": "Birth of Franz Schubert",
-      "description": "Austrian composer Franz Schubert was born in Vienna. He became one of the leading figures in the transition from Classical to Romantic music, composing over 600 songs (Lieder), symphonies, chamber music and piano works before dying at age 31.",
-      "category": "Arts",
-      "significance": "Schubert elevated the art song to new heights, and works like the Unfinished Symphony and Winterreise remain central to the classical repertoire."
+      "title": "Franz Schubert Is Born",
+      "description": "The Austrian composer Franz Schubert was born in Vienna. He wrote more than 600 songs, along with symphonies, chamber works and piano music, before dying aged 31.",
+      "category": "Birth",
+      "significance": "Schubert helped shape the Romantic era and made the German art song a major musical form."
     },
     {
-      "year": 1958,
-      "title": "Explorer 1 Launched",
-      "description": "The United States launched Explorer 1, its first artificial satellite, from Cape Canaveral aboard a Juno I rocket. The satellite carried instruments developed by James Van Allen's team that detected radiation belts around Earth.",
-      "category": "Science and Technology",
-      "significance": "Explorer 1 marked the U.S. entry into the Space Race following Sputnik and led to the discovery of the Van Allen radiation belts, a landmark finding in space science."
-    },
-    {
-      "year": 1968,
-      "title": "Nauru Gains Independence",
-      "description": "The Pacific island of Nauru became an independent republic, ending its status as a United Nations trust territory administered by Australia, New Zealand and the United Kingdom.",
+      "year": 1865,
+      "title": "Congress Passes the Thirteenth Amendment",
+      "description": "In the last months of the Civil War, the U.S. Congress passed the Thirteenth Amendment and sent it to the states for ratification. It would abolish slavery throughout the United States.",
       "category": "Politics",
-      "significance": "Nauru became the world's smallest independent republic, and its later economic story, built on phosphate mining and its subsequent decline, became a notable case study in resource dependence."
+      "significance": "The amendment was ratified later that year and permanently ended legal slavery in the United States."
+    },
+    {
+      "year": 1990,
+      "title": "McDonald's Opens in Moscow",
+      "description": "The first McDonald's in the Soviet Union opened in Moscow's Pushkin Square. Huge crowds queued for hours to get in.",
+      "category": "Milestone",
+      "significance": "The opening became a lasting symbol of the thaw between East and West as the Cold War ended and the Soviet Union neared its collapse."
     }
   ]
 }

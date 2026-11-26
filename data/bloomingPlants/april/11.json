@@ -2,60 +2,49 @@
   "date": "April 11",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of delicate, fragrant blossoms that appear before the leaves emerge. It is planted widely in parks, along rivers, and in temple grounds, where it draws large crowds for flower-viewing festivals.",
-      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere regions",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate regions across Europe and North America",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Roadsides and rolling meadows turn deep blue-violet as bluebonnets fill the Texas Hill Country. Each flower spike is crowded with pea-like blooms. The upper petal carries a small white patch that fades to magenta as the flower ages.",
+      "bloomingSeason": "Late March to mid-April, with peak bloom usually in early to mid-April",
+      "location": "Central Texas and the Hill Country, USA",
       "colors": [
-        "pale pink",
-        "white"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "The Yoshino cherry's peak bloom lasts only about a week, a fleeting beauty that has become a symbol of the transience of life in Japanese culture (mono no aware)."
+      "emoji": "💙",
+      "funFact": "The white spot on a young bluebonnet flower turns reddish-purple after pollination. This signals to bees that the flower has already been visited."
     },
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers atop sturdy stems, grown in countless cultivars. Tulips thrive in regions with cold winters followed by mild springs and peak in mid-April in many northern gardens.",
-      "bloomingSeason": "Early to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, Turkey, Central Asia origins, and gardens throughout North America and Europe",
+      "name": "Tulipa (garden hybrids)",
+      "commonName": "Tulip",
+      "description": "Rows of tulips stripe the Dutch bulb fields in bands of red, yellow, pink and orange. Their cup-shaped blooms open on bright mornings. Mid-April is when the fields and Keukenhof gardens are usually at their best.",
+      "bloomingSeason": "Late March to mid-May, usually at their best in mid-April",
+      "location": "Bulb-growing region of the Netherlands, including Lisse and Keukenhof",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "purple",
-        "white",
-        "orange"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Orange",
+        "White",
+        "Purple"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could sell for more than the price of a luxurious canal house."
+      "funFact": "Tulips came to Europe from Central Asia by way of the Ottoman Empire. In the 1630s, their prices in the Netherlands soared in the speculative frenzy known as Tulip Mania."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A native wild daffodil with pale yellow outer petals and a deeper golden trumpet. It carpets woodlands and meadows in early spring, often late-blooming in cooler uplands where April is the peak.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, including the UK, France, Belgium, and Spain; naturalized in parts of North America",
+      "name": "Nerine bowdenii",
+      "commonName": "Cape Lily (Bowden Lily)",
+      "description": "As the southern hemisphere moves into autumn, this bulb sends up sturdy, leafless stems. Each is topped with a spray of ruffled, shimmering pink flowers. Their narrow, wavy-edged petals sparkle in the light.",
+      "bloomingSeason": "Late summer to autumn, January to May in its native range",
+      "location": "Mountain grasslands and rocky slopes of South Africa, including the Drakensberg region",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Pink",
+        "Rose",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Daffodil bulbs contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tropical to subtropical tree with fern-like leaves that produces dense panicles of trumpet-shaped lavender-blue flowers. In parts of the Southern Hemisphere and tropics, some trees bloom outside the main season, and in warm northern regions such as parts of Mexico and Southern Asia flowering begins around spring.",
-      "bloomingSeason": "Spring to early summer in Northern Hemisphere subtropics (April to June); October to December in the Southern Hemisphere",
-      "location": "Native to South America; widely planted in Mexico, India, Florida, California, and parts of Africa and Australia",
-      "colors": [
-        "lavender",
-        "violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "A carpet of fallen jacaranda flowers is said to bring good luck in some places, and in Pretoria, South Africa, the city is known as the 'Jacaranda City'."
+      "emoji": "🌸",
+      "funFact": "The petals have a glittering, sugar-dusted look. This comes from the cell structure of the petal surface, which catches the light."
     }
   ]
 }

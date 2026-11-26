@@ -2,39 +2,32 @@
   "date": "June 4",
   "events": [
     {
-      "year": 1989,
-      "title": "Tiananmen Square Crackdown",
-      "description": "Chinese military forces moved into Beijing and cleared Tiananmen Square of pro-democracy demonstrators, killing and wounding large numbers of civilians. The protests had been led largely by students calling for political reform and an end to corruption.",
-      "category": "Politics",
-      "significance": "The crackdown ended the 1989 protest movement, led to international condemnation and sanctions, and remains a heavily censored topic in China. It reinforced the Communist Party's tight control over political dissent."
+      "year": 1561,
+      "title": "Lightning Destroys the Spire of Old St Paul's",
+      "description": "The towering spire of Old St Paul's Cathedral in London was destroyed by fire. The blaze followed a lightning strike. The cathedral was one of the tallest and most prominent buildings in Tudor England.",
+      "category": "Disaster",
+      "significance": "The loss changed the London skyline for good, because the spire was never rebuilt. The cathedral itself was later destroyed in the Great Fire of 1666."
     },
     {
-      "year": 1940,
-      "title": "Completion of the Dunkirk Evacuation",
-      "description": "Operation Dynamo ended after more than 330,000 Allied soldiers, mostly British and French, were evacuated from the beaches of Dunkirk, France, as German forces advanced. On the same day Winston Churchill delivered his 'We shall fight on the beaches' speech to the House of Commons.",
-      "category": "Military",
-      "significance": "The evacuation preserved the core of the British Army for future campaigns, and Churchill's speech became a symbol of British resolve in World War II."
+      "year": 1919,
+      "title": "Congress Passes the Women's Suffrage Amendment",
+      "description": "The U.S. Congress approved the amendment that guaranteed American women the right to vote. It then sent the amendment to the states for ratification.",
+      "category": "Politics and Rights",
+      "significance": "The measure became the 19th Amendment in 1920. It was a landmark victory after decades of campaigning by the suffrage movement."
     },
     {
       "year": 1942,
-      "title": "Battle of Midway Begins",
-      "description": "The naval battle between the United States and Japan began near Midway Atoll in the Pacific. American carrier aircraft sank four Japanese fleet carriers over the following days, losing the carrier USS Yorktown.",
-      "category": "Military",
-      "significance": "Midway is considered the turning point of the Pacific War, as Japan lost much of its offensive naval air power and the strategic initiative passed to the Allies."
-    },
-    {
-      "year": 1944,
-      "title": "Liberation of Rome",
-      "description": "The U.S. Fifth Army under General Mark Clark entered Rome, making it the first Axis capital to fall to the Allies during World War II. German forces had withdrawn from the city, which was declared an open city.",
-      "category": "Military",
-      "significance": "The capture of Rome was a major Allied milestone in the Italian Campaign, though it was overshadowed two days later by the Normandy landings on D-Day."
+      "title": "The Battle of Midway Begins",
+      "description": "Japanese Admiral Chuichi Nagumo ordered a strike on Midway Atoll, opening one of the most important naval battles of World War II in the Pacific.",
+      "category": "War",
+      "significance": "The battle became a turning point in the Pacific war. It shifted the balance of naval power away from Japan."
     },
     {
       "year": 1989,
-      "title": "Poland Holds First Partially Free Elections",
-      "description": "On the same day as the Tiananmen crackdown, Poland held its first partially free parliamentary elections since World War II, in which the Solidarity movement won nearly all of the contested seats.",
-      "category": "Politics",
-      "significance": "The Solidarity victory accelerated the collapse of communist rule in Eastern Europe and became a model for the peaceful revolutions later that year."
+      "title": "Tiananmen Square Protests Suppressed",
+      "description": "China's People's Liberation Army moved against pro-democracy demonstrators in Beijing and cleared Tiananmen Square. Hundreds of people were killed or wounded.",
+      "category": "Politics and Protest",
+      "significance": "The crackdown ended weeks of mass demonstrations. It remains a powerful symbol of the struggle for political freedom, and its memory is still tightly controlled in China."
     }
   ]
 }

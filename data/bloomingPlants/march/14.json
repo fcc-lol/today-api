@@ -2,59 +2,46 @@
   "date": "March 14",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A graceful ornamental cherry tree that produces clouds of pale pink-white, five-petaled flowers on bare branches before the leaves emerge. It is the iconic tree of hanami (flower viewing) festivals and is widely planted in parks and along rivers and avenues.",
-      "bloomingSeason": "Late March to mid-April in Japan; blooms in warmer regions such as southern Japan and parts of the southern US from early to mid-March",
-      "location": "Japan (Kyushu and southern Honshu), Washington D.C. region, Korea, and temperate regions worldwide",
+      "name": "Prunus mume",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare branches become wreathed in spicy, clove-scented blossoms before a single leaf appears. The flowers, borne singly or in pairs, glow in shades of pink and white against the cold late-winter sky.",
+      "bloomingSeason": "Late winter, February to March in temperate climates (earlier in milder ones)",
+      "location": "Temperate gardens of the Midwestern United States, such as St. Louis, Missouri, and its native southern China",
       "colors": [
-        "White",
-        "Pale pink"
+        "pink",
+        "white",
+        "pale rose"
       ],
       "emoji": "🌸",
-      "funFact": "The first cherry trees in Washington D.C. were a gift from Tokyo in 1912, and the National Cherry Blossom Festival commemorates this gift every spring."
+      "funFact": "Ume blossoms are treasured across East Asia as a symbol of perseverance, because they open in the cold while other plants are still dormant."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A hardy bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and blue-green strap-like leaves. It naturalizes in woodlands, meadows, and grassy banks, and countless cultivars are grown in gardens.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe (UK, France, Spain, Belgium), naturalized in North America and temperate gardens",
+      "name": "Cercis occidentalis",
+      "commonName": "Western redbud",
+      "description": "A small, multi-stemmed native tree that bursts into clouds of magenta-pink, pea-like flowers along bare twigs. Heart-shaped leaves follow once the show fades.",
+      "bloomingSeason": "Late winter to spring, roughly February to April",
+      "location": "Foothills and canyons of California, USA",
       "colors": [
-        "Yellow",
-        "Pale yellow",
-        "Cream"
+        "magenta",
+        "pink",
+        "purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Daffodils contain the alkaloid galantamine, which is used in medicine to treat symptoms of Alzheimer's disease, and the plants are toxic to many grazing animals, so they are rarely eaten."
+      "emoji": "🌳",
+      "funFact": "Western redbud is a legume, and its flowers grow straight out of the bark of branches and trunks. Many California Native peoples have long used its flexible shoots in basketry."
     },
     {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A majestic deciduous tree bearing enormous, goblet-shaped flowers up to 30 cm across on bare branches. The blossoms open in dramatic displays of pink and rose-magenta and can appear spectacular in mild, humid climates.",
-      "bloomingSeason": "Late February to April",
-      "location": "Himalayan foothills (Nepal, Sikkim, Bhutan, southwestern China); cultivated in mild gardens in Cornwall, Ireland, New Zealand, and the Pacific Northwest",
+      "name": "Nerine sarniensis",
+      "commonName": "Guernsey lily (Cape Nerine)",
+      "description": "Glittering, wavy-petaled blooms in fiery scarlet and orange appear in clusters on bare stalks, with petals that seem dusted with tiny crystals. They shine out of autumn fynbos on rocky Cape slopes.",
+      "bloomingSeason": "Southern Hemisphere autumn, March to April",
+      "location": "Western Cape, South Africa (including the Cape Town area)",
       "colors": [
-        "Deep pink",
-        "Rose",
-        "White"
+        "scarlet",
+        "orange-red",
+        "gold"
       ],
       "emoji": "🌺",
-      "funFact": "Magnolia campbellii may take 20 to 30 years from seed before it flowers for the first time, and magnolias are among the most ancient flowering plants, having evolved before bees existed and being pollinated by beetles."
-    },
-    {
-      "name": "Amaryllis belladonna",
-      "commonName": "Naked Lady",
-      "description": "A bulbous perennial in which strong, bare flower stalks emerge without leaves, topped by clusters of fragrant, trumpet-shaped pink flowers. The strap-like leaves appear later in the season after flowering.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere (February to April)",
-      "location": "Western Cape of South Africa; naturalized in Australia, New Zealand, Chile, and California",
-      "colors": [
-        "Pink",
-        "Rose",
-        "White"
-      ],
-      "emoji": "🌷",
-      "funFact": "Its nickname 'Naked Lady' comes from the way the flower stalks rise out of the bare ground with no leaves, and the plant is a classic autumn bloomer in the Southern Hemisphere when March is early fall."
+      "funFact": "Despite the name 'Guernsey lily', this bulb is native to South Africa. It became popular in Europe after bulbs washed ashore or were shipped from the Cape in the 1600s."
     }
   ]
 }

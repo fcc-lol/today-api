@@ -4,57 +4,58 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. It is widely grown in gardens and commercial fields, and its blooms attract bees and butterflies in large numbers.",
-      "bloomingSeason": "Late June through August in the Northern Hemisphere",
-      "location": "Mediterranean region; cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "description": "Silvery-green mounds erupt into slender spikes of violet-blue blossoms. Their sweet, herbal perfume drifts across the sun-baked fields and hums with bees.",
+      "bloomingSeason": "Late June to early August, peaking in July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Blue",
+        "Lavender"
       ],
       "emoji": "💜",
-      "funFact": "Lavender oil has been used since Roman times, and the plant's name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. The Romans used it to scent their baths."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest bloom in the protea family. It is a bowl-shaped flower head with a crown of silky, pink-tipped bracts around a center like a downy thistle. It looks bold and almost prehistoric against the winter greenery of the Cape.",
+      "bloomingSeason": "Mainly winter and spring, June to October",
+      "location": "Western Cape, South Africa (Southern Hemisphere)",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silvery-white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its thick underground stem lets it survive the wildfires that regularly sweep through its fynbos habitat."
     },
     {
       "name": "Hydrangea macrophylla",
       "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy flowers above broad, glossy green leaves. It thrives in partial shade and moist, rich soil, and is a classic feature of summer gardens.",
-      "bloomingSeason": "June to September",
-      "location": "Native to Japan; widely cultivated in Europe, the Azores, and eastern North America",
+      "description": "Rounded clusters of blossoms in dreamy blues, purples and pinks. They glow in the soft light of the rainy season and brighten temple paths and hillsides.",
+      "bloomingSeason": "Early June to early July, during the rainy season",
+      "location": "Japan",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
+        "Blue",
+        "Purple",
+        "Pink",
+        "White"
       ],
       "emoji": "💠",
-      "funFact": "The flower color depends on soil pH and aluminum availability: acidic soils produce blue flowers, while alkaline soils produce pink ones."
+      "funFact": "Soil chemistry controls the flower color. Acidic soil that frees up aluminum gives blue blooms, and neutral to alkaline soil gives pink ones."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round leaves held above the water and spectacular flowers on tall stalks. The leaves have a waxy surface that repels water and dirt. It flowers in warm shallow ponds and wetlands.",
-      "bloomingSeason": "June to August",
-      "location": "Asia, from India and China to Japan; also naturalized in northern Australia and parts of the southern United States",
+      "name": "Nymphaea alba",
+      "commonName": "European White Water-lily",
+      "description": "Wide, glossy pads carpet still water. Between them, star-shaped white flowers with golden centers float open to the summer sun.",
+      "bloomingSeason": "June to September",
+      "location": "Ponds, lakes and slow rivers across Britain and Europe",
       "colors": [
-        "pink",
-        "white"
+        "White",
+        "Gold"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their own temperature, staying at about 30–35°C (86–95°F) even when the air is much cooler, which helps attract pollinating beetles."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall subtropical tree with fern-like leaves that is covered with clusters of trumpet-shaped lavender flowers. In some regions it blooms in the southern spring, but in the Northern Hemisphere it also blooms around late spring to early summer in warm climates such as California and Florida.",
-      "bloomingSeason": "Late May to June in the Northern Hemisphere; October to November in the Southern Hemisphere",
-      "location": "Native to South America; planted in Pretoria (South Africa), Sydney, Los Angeles, and Mediterranean-climate cities",
-      "colors": [
-        "lavender",
-        "purple-blue"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because tens of thousands of these trees line its streets and carpet the ground with fallen purple blossoms."
+      "funFact": "The flowers open in the morning and close again in the afternoon. Their stems stretch to reach the surface, even in deep water."
     }
   ]
 }

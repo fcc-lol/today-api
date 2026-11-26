@@ -3,57 +3,46 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray narrow leaves and dense spikes of small tubular flowers held on slender stems. Widely cultivated in gardens and commercial fields, it attracts bees and butterflies and is prized for its essential oil.",
-      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, southern France (Provence), England, and cultivated across temperate North America and Europe",
+      "commonName": "English lavender",
+      "description": "Silvery, fragrant mounds send up slender spikes of tiny violet-blue flowers. The blooms hum with bees and scent the warm summer air. Whole hillsides and fields turn to rippling purple waves.",
+      "bloomingSeason": "June to August, with the first flush opening in June",
+      "location": "Temperate Europe, including the lavender fields of southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Lavender",
+        "Deep blue-purple",
+        "Pale pink",
+        "White"
       ],
       "emoji": "💜",
-      "funFact": "Lavender was used by the Romans to scent their baths, and its name comes from the Latin 'lavare', meaning 'to wash'."
+      "funFact": "Lavender belongs to the mint family. Its name likely comes from the Latin 'lavare', 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny wild shrub with delicate five-petaled flowers that have a light sweet scent. After flowering it produces bright red rose hips rich in vitamin C. It is common in hedgerows, woodland edges and scrub.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Europe, northwest Africa, and western Asia; naturalized in North America, Australia and New Zealand",
+      "name": "Nymphaea alba",
+      "commonName": "European white water lily",
+      "description": "Wide, star-like white blooms float on still ponds and lakes, resting on glossy round pads. Each flower has a golden heart of stamens. It is the largest native wildflower in the British Isles.",
+      "bloomingSeason": "Early June to August",
+      "location": "Lakes and slow waters across the British Isles and temperate Europe",
       "colors": [
-        "pale pink",
-        "white"
-      ],
-      "emoji": "🌹",
-      "funFact": "During World War II, rose hips from the dog rose were collected in Britain to make vitamin C-rich syrup when citrus fruit was scarce."
-    },
-    {
-      "name": "Leucospermum cordifolium",
-      "commonName": "Nodding Pincushion Protea",
-      "description": "A rounded evergreen shrub of the fynbos with striking domed flower heads bristling with long, curved styles that resemble pins in a cushion. The flowers open in vivid shades of orange and red and are a magnet for sunbirds.",
-      "bloomingSeason": "Southern Hemisphere late winter to spring (August to November), with some early blooms in cooler months; often flowering in the winter-wet season in cultivation",
-      "location": "Western Cape of South Africa; cultivated in Australia, California, and Hawaii",
-      "colors": [
-        "orange",
-        "red",
-        "yellow"
-      ],
-      "emoji": "🧡",
-      "funFact": "Pincushion proteas are pollinated by birds, and their seeds are carried by ants into underground nests, which protect them from fire."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial whose large, showy flowers rise on tall stalks above round, water-repellent leaves. The blooms open in the morning and close at night, and the plant grows in shallow ponds and wetlands.",
-      "bloomingSeason": "Early summer to late summer (June to September)",
-      "location": "Asia from India and China to Japan, southeast Asia and northern Australia; cultivated in ponds worldwide",
-      "colors": [
-        "pink",
-        "white"
+        "White",
+        "Golden yellow"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for hundreds of years; seeds around 1,300 years old have been successfully germinated."
+      "funFact": "The flowers open in the morning and close again in the afternoon. After pollination, the stalk coils and pulls the developing seed pod underwater."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "This is the largest protea. Its dinner-plate-sized flower head is a crown of silky pink bracts around a downy center. It blazes on fynbos slopes in the cool southern winter.",
+      "bloomingSeason": "Mainly winter and spring, June to October",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery-white"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is South Africa's national flower. Its thick underground stems let it survive the wildfires that regularly sweep the fynbos."
     }
   ]
 }

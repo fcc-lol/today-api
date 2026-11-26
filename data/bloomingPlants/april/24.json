@@ -4,60 +4,47 @@
     {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad, blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to frilly parrot and double forms. April 24 is near peak bloom in the Netherlands and much of northern Europe and the northeastern United States.",
-      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; especially famous in the Netherlands, Northern Europe, and North America; native to Central Asia",
+      "description": "Cup-shaped blooms in saturated jewel tones rise on sturdy stems above blue-green leaves. They fill the fields and borders of the Netherlands with ribbons of color.",
+      "bloomingSeason": "Mid-spring, typically April to early May in the Netherlands, with peak fields in mid to late April",
+      "location": "Lisse and the bulb region of the Netherlands, Northern Europe",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "purple",
-        "white",
-        "orange"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could sell for more than the price of a luxurious canal house in Amsterdam."
+      "funFact": "In 17th-century Holland, rare tulip bulbs sold for more than the price of a grand canal house during the famous 'tulip mania'."
     },
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine producing dramatic hanging clusters (racemes) of fragrant, pea-like flowers that open before or as the leaves emerge. It can climb pergolas, walls, and trees, and its blooms create spectacular cascading curtains of color.",
-      "bloomingSeason": "Mid-spring (April to May)",
-      "location": "Native to China; widely cultivated in Europe, Japan, and the United States",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant chains of pea-like flowers hang from twisting woody vines. They form shimmering lavender curtains over pergolas and temple gardens.",
+      "bloomingSeason": "Mid-April to mid-May in much of Japan, with peak bloom often in late April",
+      "location": "Honshu, Japan, including gardens such as the Ashikaga Flower Park",
       "colors": [
-        "lavender",
-        "purple",
-        "blue-violet"
+        "Violet",
+        "Lavender",
+        "White",
+        "Pink"
       ],
       "emoji": "💜",
-      "funFact": "Wisteria vines can live for over a hundred years, and the famous Chinese wisteria in Sierra Madre, California, covers nearly an acre and weighs hundreds of tons."
+      "funFact": "Japanese wisteria twines clockwise around its support, while Chinese wisteria twines counterclockwise."
     },
     {
-      "name": "Hyacinthoides non-scripta",
-      "commonName": "English Bluebell",
-      "description": "A bulbous woodland perennial forming dense carpets under deciduous trees. Its nodding, bell-shaped, sweetly scented flowers droop on one side of an arching stem. Late April is the peak of bluebell season in British woodlands.",
-      "bloomingSeason": "Mid-spring (late April to May)",
-      "location": "Native to Western Europe, especially the British Isles; ancient woodlands",
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Before its heart-shaped leaves unfurl, the bare branches of this small tree are covered in clusters of magenta-pink flowers. Blooms even sprout directly from the trunk.",
+      "bloomingSeason": "Late March to late April, depending on latitude, and still blooming in the cooler northern parts of its range around April 24",
+      "location": "Eastern and central United States, from the Appalachians to the Midwest",
       "colors": [
-        "violet-blue",
-        "occasionally white",
-        "pink"
+        "Magenta",
+        "Pink",
+        "Lavender"
       ],
-      "emoji": "🔔",
-      "funFact": "About half of the world's bluebells grow in the UK, and it is illegal to collect wild bluebell bulbs there under wildlife protection law."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A tall, graceful, semi-deciduous tree with fern-like leaves that bursts into masses of trumpet-shaped lilac-blue flowers. In the Southern Hemisphere, some trees may bloom sporadically in autumn, while in warm northern subtropical regions such as parts of Mexico, Florida, and southern Asia, spring blooming begins around this time.",
-      "bloomingSeason": "Spring to early summer in the Northern Hemisphere subtropics (April to June); October to December in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted in Mexico, Florida, South Africa, Australia, and the Mediterranean",
-      "colors": [
-        "lavender-blue",
-        "purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, tens of thousands of jacarandas earned it the nickname 'Jacaranda City', and fallen blossoms form purple carpets on the streets."
+      "emoji": "🌸",
+      "funFact": "Its flowers are edible and slightly tangy, and the habit of flowering straight from old wood is called cauliflory."
     }
   ]
 }

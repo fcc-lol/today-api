@@ -2,39 +2,39 @@
   "date": "April 12",
   "events": [
     {
+      "year": 1204,
+      "title": "Crusaders Storm Constantinople",
+      "description": "Troops of the Fourth Crusade breached the defenses of Constantinople and began sacking the Byzantine capital. They looted churches, palaces and libraries over the following days.",
+      "category": "Military",
+      "significance": "The sack deepened the split between the Latin West and the Orthodox East. It also weakened the Byzantine Empire, which never fully recovered."
+    },
+    {
       "year": 1861,
-      "title": "Confederate Forces Fire on Fort Sumter",
-      "description": "Confederate batteries under General P.G.T. Beauregard opened fire on the Union-held Fort Sumter in Charleston Harbor, South Carolina. After roughly 34 hours of bombardment, the fort's garrison under Major Robert Anderson surrendered on April 13.",
-      "category": "War/Military",
-      "significance": "This event marked the beginning of the American Civil War, a conflict that would last four years, claim an estimated 620,000 or more lives, and end slavery in the United States."
+      "title": "Fort Sumter Is Attacked",
+      "description": "Confederate forces opened fire on Fort Sumter in the harbor of Charleston, South Carolina. The Union garrison surrendered after a bombardment of about 34 hours.",
+      "category": "War",
+      "significance": "These shots marked the start of the American Civil War. The war lasted four years and ended slavery in the United States."
     },
     {
       "year": 1945,
-      "title": "Death of President Franklin D. Roosevelt",
-      "description": "Franklin D. Roosevelt died of a cerebral hemorrhage at Warm Springs, Georgia, less than three months into his fourth term. Vice President Harry S. Truman was sworn in as the 33rd President that evening.",
-      "category": "Politics/Death",
-      "significance": "Roosevelt had led the United States through the Great Depression and most of World War II. His death elevated Truman, who soon learned of the atomic bomb project and made the decision to use it, shaping the end of the war and the dawn of the nuclear age."
+      "title": "President Franklin D. Roosevelt Dies",
+      "description": "Franklin D. Roosevelt died of a cerebral hemorrhage in Warm Springs, Georgia, at age 63, early in his fourth term. Vice President Harry S. Truman was sworn in as the 33rd president.",
+      "category": "Politics",
+      "significance": "Truman inherited the final months of World War II. He went on to make the decision to use atomic weapons and shaped the early Cold War."
     },
     {
       "year": 1955,
-      "title": "Polio Vaccine Declared Safe and Effective",
-      "description": "On the tenth anniversary of Roosevelt's death, the University of Michigan announced that Dr. Jonas Salk's polio vaccine field trial had shown the vaccine to be safe and effective. The announcement led to the vaccine's immediate licensing in the United States.",
-      "category": "Science/Medicine",
-      "significance": "The vaccine began the path toward the near-elimination of polio, a disease that had paralyzed and killed thousands of children each year, and it stands as one of the great public health achievements of the 20th century."
+      "title": "Salk Polio Vaccine Declared Safe and Effective",
+      "description": "Jonas Salk's polio vaccine was announced as safe and effective after a very large field trial. The news set off celebrations across the United States.",
+      "category": "Science",
+      "significance": "Mass vaccination sharply reduced polio, a disease that had paralyzed thousands of children each year. It became a landmark in public health."
     },
     {
       "year": 1961,
       "title": "Yuri Gagarin Becomes the First Human in Space",
-      "description": "Soviet cosmonaut Yuri Gagarin launched aboard Vostok 1 from the Baikonur Cosmodrome and completed a single orbit of Earth in about 108 minutes before landing safely.",
-      "category": "Science/Space Exploration",
-      "significance": "Gagarin's flight was a milestone in human history and a major victory for the Soviet Union in the Space Race, intensifying competition with the United States and leading to President Kennedy's commitment to land a man on the Moon."
-    },
-    {
-      "year": 1981,
-      "title": "First Space Shuttle Launch",
-      "description": "NASA launched Space Shuttle Columbia on mission STS-1 from Kennedy Space Center, crewed by John Young and Robert Crippen, exactly 20 years after Gagarin's flight. It was the first orbital flight of the reusable shuttle program.",
-      "category": "Science/Space Exploration",
-      "significance": "Columbia's maiden flight inaugurated the Space Shuttle era, demonstrating that a reusable winged spacecraft could launch into orbit and land like an aircraft, and it supported three decades of satellite deployment, scientific research, and construction of the International Space Station."
+      "description": "Soviet cosmonaut Yuri Gagarin orbited the Earth once aboard Vostok 1. He then returned safely from the flight, which lasted under two hours.",
+      "category": "Exploration",
+      "significance": "The flight opened the era of human spaceflight and intensified the Space Race. Russia now marks the date as Cosmonautics Day."
     }
   ]
 }

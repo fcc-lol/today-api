@@ -2,62 +2,44 @@
   "date": "October 12",
   "plants": [
     {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, clump-forming perennial with hairy stems and abundant daisy-like flower heads with yellow centers. It is a vital late-season nectar source for migrating monarch butterflies and many native bees.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Eastern and central North America, widely cultivated in gardens worldwide",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Its flowers close at night and on cloudy days, and the plant is a key food stop for monarch butterflies on their autumn migration to Mexico."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A large, graceful deciduous tree with fern-like leaves that bursts into clouds of trumpet-shaped lavender-blue flowers. In spring the blossoms carpet streets and parks with purple petals.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa, Australia, and Argentina",
+      "description": "Entire streets in Pretoria turn lilac-purple as these feathery-leaved trees burst into clouds of trumpet-shaped blossoms. Fallen flowers carpet the pavements in violet, making the city glow in early spring.",
+      "bloomingSeason": "Late September to November, with October the peak",
+      "location": "Pretoria, South Africa (Southern Hemisphere spring)",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lilac",
+        "Violet",
+        "Purple"
       ],
       "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas earn it the nickname 'Jacaranda City', and a falling bloom on your head is said to bring good luck."
+      "funFact": "Jacarandas come from South America, yet Pretoria is nicknamed the Jacaranda City because of the tens of thousands of them lining its streets."
     },
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up crocus-like pink-lilac flowers in autumn without any leaves present. The leaves appear the following spring, then die back before the next flowering.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Meadows and woodland edges across Europe, from the UK to the Balkans",
+      "commonName": "Autumn crocus (Meadow saffron)",
+      "description": "Goblet-shaped, six-petaled blooms rise straight from the bare ground in damp meadows, with no leaves in sight. Their pale pink-lilac cups bring a surprising flush of color just as autumn takes hold.",
+      "bloomingSeason": "August to October",
+      "location": "Meadows and woodland edges across Europe (Northern Hemisphere autumn)",
       "colors": [
-        "pink",
-        "lilac",
-        "white"
+        "Pink",
+        "Lilac",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Although it looks like a crocus, it is a member of the lily family and is highly toxic, yet it is the source of colchicine, a medicine used to treat gout."
+      "emoji": "🌷",
+      "funFact": "Its leaves emerge in spring and die back, while the flowers appear months later in autumn. This is why it is also called 'naked ladies'. The plant is highly toxic and is the natural source of the compound colchicine."
     },
     {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "An airy annual with feathery foliage and saucer-shaped flowers on tall slender stems. It thrives in full sun and poor soil, and continues blooming until the first frost.",
-      "bloomingSeason": "Summer to first frost (June to October in the Northern Hemisphere)",
-      "location": "Native to Mexico; cultivated in gardens across the world",
+      "name": "Sternbergia lutea",
+      "commonName": "Autumn daffodil (Winter daffodil)",
+      "description": "Bright, golden, crocus-like goblets pop up less than six inches from the ground. They look like spilled sunshine on dry, rocky Mediterranean hillsides and in gardens.",
+      "bloomingSeason": "Late September through October",
+      "location": "Mediterranean Europe and the surrounding region (Northern Hemisphere autumn)",
       "colors": [
-        "pink",
-        "white",
-        "magenta",
-        "crimson"
+        "Golden yellow"
       ],
-      "emoji": "🌺",
-      "funFact": "The name 'cosmos' comes from the Greek word for 'harmony' or 'ordered universe', and cosmos seeds have even been grown aboard the International Space Station."
+      "emoji": "🌼",
+      "funFact": "Despite its common name, it is not a true daffodil in the Narcissus genus. It is a relative in the same family, and it has adapted to flower after the long, dry Mediterranean summer."
     }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "February 21",
   "events": [
     {
+      "year": 1613,
+      "title": "Mikhail Romanov Elected Tsar",
+      "description": "A national assembly, the Zemsky Sobor, unanimously chose the teenage Mikhail Romanov as Tsar of Russia. The choice ended years of turmoil known as the Time of Troubles.",
+      "category": "Politics",
+      "significance": "His election began the Romanov dynasty, which ruled Russia for more than 300 years, until 1917."
+    },
+    {
       "year": 1848,
-      "title": "Publication of The Communist Manifesto",
-      "description": "Karl Marx and Friedrich Engels' pamphlet The Communist Manifesto was first published in London by the Communist League, outlining a theory of class struggle and a critique of capitalism.",
-      "category": "Politics and Philosophy",
-      "significance": "The Manifesto became one of the most influential political documents in history, shaping socialist and communist movements and political thought worldwide for more than a century."
-    },
-    {
-      "year": 1965,
-      "title": "Assassination of Malcolm X",
-      "description": "Civil rights leader Malcolm X was shot and killed while about to deliver a speech at the Audubon Ballroom in Harlem, New York City. He was 39 years old, and three men were later convicted of the murder.",
-      "category": "Assassination",
-      "significance": "His death cut short the career of one of the most influential figures in the African American civil rights and Black nationalism movements; his posthumously published Autobiography of Malcolm X became a landmark of American literature."
-    },
-    {
-      "year": 1972,
-      "title": "Nixon Arrives in China",
-      "description": "U.S. President Richard Nixon arrived in Beijing for a week-long visit and met with Chairman Mao Zedong, becoming the first U.S. president to visit the People's Republic of China.",
-      "category": "Diplomacy",
-      "significance": "The visit ended more than two decades of diplomatic isolation between the two nations and began the process of normalizing relations, reshaping Cold War geopolitics."
+      "title": "The Communist Manifesto Is Published",
+      "description": "Karl Marx and Friedrich Engels published The Communist Manifesto in London. The pamphlet laid out a materialist view of history and of class struggle.",
+      "category": "Literature and Ideas",
+      "significance": "It became one of the most influential political documents ever written, and it shaped revolutionary movements and political debate worldwide."
     },
     {
       "year": 1878,
       "title": "First Telephone Directory Issued",
-      "description": "The first telephone directory was issued in New Haven, Connecticut, by the District Telephone Company. It was a single page listing 50 subscribers.",
+      "description": "In New Haven, Connecticut, the first telephone directory was issued. It was a single page listing 50 subscribers.",
       "category": "Technology",
-      "significance": "It marked the early growth of telephone communication as a public utility and the beginning of a publishing format that would be used by millions for over a century."
+      "significance": "It was the start of a way of finding people that lasted for generations, and it showed how fast the telephone was spreading."
     },
     {
-      "year": 1925,
-      "title": "The New Yorker Publishes Its First Issue",
-      "description": "The first issue of The New Yorker magazine, founded by Harold Ross and his wife Jane Grant, went on sale in New York City.",
-      "category": "Culture and Media",
-      "significance": "The magazine grew into one of the most prestigious publications in the United States, known for its journalism, fiction, cartoons, and criticism."
+      "year": 1916,
+      "title": "The Battle of Verdun Begins",
+      "description": "Germany opened a massive artillery assault on French positions at Verdun. The fighting became one of the longest and bloodiest battles of World War I.",
+      "category": "War",
+      "significance": "Verdun became a symbol of French resolve and of the huge human cost of trench warfare."
+    },
+    {
+      "year": 1965,
+      "title": "Malcolm X Is Assassinated",
+      "description": "Malcolm X, the civil rights leader and Black nationalist, was shot and killed at the Audubon Ballroom in New York City while he was about to speak.",
+      "category": "Death",
+      "significance": "His death cut short a leading voice of the era. His ideas and his autobiography have kept shaping discussion of race and justice."
     }
   ]
 }

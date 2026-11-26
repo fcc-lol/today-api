@@ -4,57 +4,58 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with narrow silvery-green leaves and dense spikes of small tubular flowers. Widely cultivated in gardens and commercial fields for its essential oil, and loved by bees and butterflies.",
-      "bloomingSeason": "Early to late summer (June to August) in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the United States",
+      "description": "Rolling Provençal hillsides turn into rippling waves of violet-blue, with a sweet, herbal perfume that drifts on the warm summer air and draws clouds of buzzing bees.",
+      "bloomingSeason": "Late June to early August, with peak color in mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Violet",
+        "Purple",
+        "Blue"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent their baths."
+      "funFact": "Lavender's name comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and a big flower head made of hundreds of tiny florets surrounded by yellow ray petals. Cultivated for seeds, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall (July to September) in the Northern Hemisphere",
-      "location": "Native to North America; cultivated in Ukraine, Russia, Argentina, France, and the United States",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "Drooping rosy-purple petals surround a spiky, copper-orange central cone. Bees and butterflies crowd these tough prairie natives all summer.",
+      "bloomingSeason": "June to September, sometimes reblooming in fall",
+      "location": "Eastern and central North American prairies and gardens",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
+        "Pink",
+        "Purple",
+        "Orange",
+        "Copper"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun across the sky (heliotropism), but mature flower heads stop moving and generally face east."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular flowers on tall stalks. The leaves have a self-cleaning, water-repellent surface.",
-      "bloomingSeason": "Summer (June to September) in temperate Asia",
-      "location": "Native to Asia and Australia; found in ponds and lakes in India, China, Japan, Vietnam, and cultivated worldwide",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy."
+      "emoji": "🌸",
+      "funFact": "The spiky center is actually a dense cluster of tiny disc flowers. The seed heads feed goldfinches into autumn."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A woody evergreen shrub that produces the largest flower head in the Protea genus, with a bowl-shaped cluster of colorful bracts surrounding a center of tiny flowers.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering often occurring in midwinter (May to September) in some areas",
-      "location": "Native to the fynbos of the southwestern and southern Cape in South Africa",
+      "description": "The largest flower head in the protea family is a bowl of silky, pink-tipped bracts around a thistle-like center. It blooms in the cool of the Southern Hemisphere winter.",
+      "bloomingSeason": "Roughly April to October, depending on the local climate",
+      "location": "Fynbos shrublands of the Western and Eastern Cape, South Africa",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Pink",
+        "Cream",
+        "Silvery white"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and the genus is named after the Greek god Proteus, who could change shape."
+      "funFact": "It is South Africa's national flower. It is adapted to fire-prone fynbos, and its thick underground stems can resprout after a blaze."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Huge, glowing blooms rise on tall stalks above round, water-beading leaves. Each flower opens at dawn and closes at dusk, and can span about a foot.",
+      "bloomingSeason": "Summer, around June and July",
+      "location": "Ponds and wetlands across Asia, including China and Japan",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Each flower lasts only about three days. The leaf surface repels water so well that it inspired the term 'lotus effect' in self-cleaning materials."
     }
   ]
 }

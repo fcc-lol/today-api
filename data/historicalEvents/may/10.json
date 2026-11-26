@@ -2,39 +2,39 @@
   "date": "May 10",
   "events": [
     {
+      "year": 1775,
+      "title": "Fort Ticonderoga Captured",
+      "description": "Ethan Allen and his Green Mountain Boys, joined by Colonel Benedict Arnold, took the British-held fortress at Ticonderoga, New York, in a surprise attack early in the American Revolutionary War.",
+      "category": "Military",
+      "significance": "The victory gave the colonial forces valuable cannons, which were later hauled to Boston to help force the British out of the city."
+    },
+    {
+      "year": 1857,
+      "title": "The Indian Rebellion Begins",
+      "description": "Sepoys serving in the British East India Company's army rose in revolt at Meerut, starting a widespread uprising against Company rule in India.",
+      "category": "Politics and Conflict",
+      "significance": "The rebellion led Britain to dissolve the East India Company and place India under direct Crown rule."
+    },
+    {
       "year": 1869,
-      "title": "Golden Spike Completes the First Transcontinental Railroad",
-      "description": "At Promontory Summit, Utah Territory, a ceremonial golden spike was driven to join the Central Pacific and Union Pacific railroads, linking the eastern and western rail networks of the United States.",
-      "category": "Technology and Transportation",
-      "significance": "Cross-country travel fell from months to about a week, which accelerated westward settlement, commerce, and national economic integration."
+      "title": "The Golden Spike Completes the Transcontinental Railroad",
+      "description": "At Promontory Summit, Utah, a ceremonial golden spike was driven to join the Union Pacific and Central Pacific lines, completing the first railroad link across North America.",
+      "category": "Technology and Infrastructure",
+      "significance": "Coast-to-coast travel dropped from months to about a week, which sped up westward settlement and transformed the American economy."
     },
     {
       "year": 1940,
-      "title": "Germany Invades the Low Countries and Churchill Becomes Prime Minister",
-      "description": "Germany launched its offensive against France by invading the Netherlands, Belgium, and Luxembourg. On the same day, Neville Chamberlain resigned and Winston Churchill became Prime Minister of the United Kingdom.",
-      "category": "War and Politics",
-      "significance": "The invasion opened the Battle of France and the western phase of World War II in earnest, while Churchill's leadership shaped Britain's determination to keep fighting."
+      "title": "Churchill Becomes Prime Minister as Germany Invades Western Europe",
+      "description": "German forces launched their invasion of the Netherlands, Luxembourg, Belgium and France. The same day, Neville Chamberlain resigned and Winston Churchill formed a new British government.",
+      "category": "World War II",
+      "significance": "Churchill's leadership through the darkest early years of the war became a symbol of British resistance to Nazi Germany."
     },
     {
       "year": 1994,
-      "title": "Nelson Mandela Inaugurated as President of South Africa",
-      "description": "Nelson Mandela was sworn in as South Africa's first Black president following the country's first multiracial democratic elections, ending the formal apartheid system.",
-      "category": "Politics and Human Rights",
-      "significance": "The inauguration marked the end of decades of institutionalized racial segregation and the start of a democratic, multiracial South Africa."
-    },
-    {
-      "year": 1774,
-      "title": "Louis XVI Becomes King of France",
-      "description": "Louis XVI ascended the French throne upon the death of his grandfather, Louis XV, at the age of 19.",
-      "category": "Monarchy and Politics",
-      "significance": "His reign saw severe financial crisis and the outbreak of the French Revolution in 1789, which ended the monarchy and transformed Europe."
-    },
-    {
-      "year": 1941,
-      "title": "Rudolf Hess Flies to Scotland",
-      "description": "Deputy Führer Rudolf Hess made a solo flight to Scotland, where he parachuted near Glasgow, apparently hoping to negotiate peace with Britain. He was arrested and held as a prisoner for the rest of the war.",
-      "category": "War and Politics",
-      "significance": "The bizarre episode embarrassed the Nazi leadership and remains one of the most debated mysteries of World War II."
+      "title": "Nelson Mandela Is Inaugurated as President of South Africa",
+      "description": "Nelson Mandela took the oath of office as South Africa's first president elected in fully democratic elections, after decades of imprisonment and struggle against apartheid.",
+      "category": "Politics",
+      "significance": "His inauguration marked the end of apartheid-era white minority rule and the start of a multiracial democracy in South Africa."
     }
   ]
 }

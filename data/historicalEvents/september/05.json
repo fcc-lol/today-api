@@ -2,39 +2,39 @@
   "date": "September 5",
   "events": [
     {
-      "year": 1774,
-      "title": "First Continental Congress Convenes",
-      "description": "Delegates from twelve of the thirteen American colonies met at Carpenters' Hall in Philadelphia to coordinate a response to the Coercive Acts imposed by Britain after the Boston Tea Party.",
-      "category": "Politics",
-      "significance": "The Congress marked the first major step toward colonial unity and laid the groundwork for the American Revolution and the eventual formation of the United States."
+      "year": 1638,
+      "title": "The Sun King Is Born",
+      "description": "Louis XIV of France was born at the Château de Saint-Germain-en-Laye. His parents were King Louis XIII and Anne of Austria. He became king at age four and reigned for 72 years, one of the longest reigns in European history.",
+      "category": "Birth",
+      "significance": "Louis XIV made France the leading power in Europe. His court at Versailles became the model of royal splendor, and his reign shaped European politics and culture."
     },
     {
-      "year": 1698,
-      "title": "Peter the Great Imposes a Beard Tax",
-      "description": "Tsar Peter I of Russia introduced a tax on beards to encourage Russian nobles and merchants to adopt Western European grooming styles.",
-      "category": "Politics",
-      "significance": "The tax symbolized Peter's broader campaign to modernize and Westernize Russia, reshaping Russian culture and society."
+      "year": 1774,
+      "title": "First Continental Congress Convenes",
+      "description": "Delegates from twelve of the thirteen American colonies gathered in Philadelphia. They met to coordinate a response to British colonial policies. Georgia did not send a delegate.",
+      "category": "Political milestone",
+      "significance": "The meeting was the first major step toward unified colonial government. It set the stage for the American Revolution and the creation of the United States."
     },
     {
       "year": 1972,
-      "title": "Munich Olympics Massacre",
-      "description": "Eight members of the Palestinian group Black September took Israeli athletes and coaches hostage at the Munich Summer Olympics. A failed rescue attempt resulted in the deaths of eleven Israeli team members and a West German police officer.",
-      "category": "Terrorism",
-      "significance": "The attack shocked the world, transformed security at international sporting events, and influenced counterterrorism policy and the creation of specialized units worldwide."
-    },
-    {
-      "year": 1997,
-      "title": "Death of Mother Teresa",
-      "description": "Mother Teresa, the Albanian-Indian Catholic nun who founded the Missionaries of Charity, died in Calcutta (Kolkata), India, at age 87.",
-      "category": "Death",
-      "significance": "Awarded the Nobel Peace Prize in 1979 for her work with the poor and dying, she became a global symbol of charity and was canonized as a saint in 2016."
+      "title": "Munich Olympics Hostage Crisis",
+      "description": "Members of the Palestinian group Black September took eleven Israeli athletes and coaches hostage at the Olympic Village in Munich. The crisis ended in tragedy, and all the hostages were killed.",
+      "category": "Tragedy",
+      "significance": "The attack shocked the world and changed how international sporting events handle security. It also became a defining moment in the history of modern terrorism."
     },
     {
       "year": 1977,
-      "title": "Voyager 1 Launched",
-      "description": "NASA launched the Voyager 1 space probe from Cape Canaveral, Florida, to study Jupiter, Saturn, and beyond.",
-      "category": "Science and Exploration",
-      "significance": "Voyager 1 became the first human-made object to enter interstellar space in 2012 and remains the most distant spacecraft from Earth."
+      "title": "Voyager 1 Launches",
+      "description": "NASA launched the Voyager 1 space probe from Cape Canaveral, Florida, on a Titan IIIE-Centaur rocket. It was sent to study Jupiter and Saturn.",
+      "category": "Science and exploration",
+      "significance": "Voyager 1 later became the most distant human-made object from Earth. It entered interstellar space and still carries a message for any distant civilization that finds it."
+    },
+    {
+      "year": 1997,
+      "title": "Mother Teresa Dies in Calcutta",
+      "description": "Mother Teresa died in Calcutta, India, at age 87. She had spent decades caring for the sick and the poor through the Missionaries of Charity, the order she founded.",
+      "category": "Death",
+      "significance": "A Nobel Peace Prize winner, she became a global symbol of compassion and humanitarian service. The Catholic Church later declared her a saint."
     }
   ]
 }

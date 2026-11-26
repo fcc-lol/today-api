@@ -4,55 +4,42 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads made of a dark central disc surrounded by bright yellow ray petals. The heads track the sun during early growth and are widely grown as ornamentals and for seeds and oil.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated worldwide, including the US Great Plains, Ukraine, Russia, and France",
+      "description": "Towering stalks carry huge golden-rayed flower heads with dark, seed-packed centers. Whole fields of them turn to face the sun and glow across the summer countryside.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July to September) in the Northern Hemisphere",
+      "location": "Central and eastern North America, and farmland across Europe",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Deep mahogany"
       ],
       "emoji": "🌻",
-      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
+      "funFact": "Young sunflower buds track the sun from east to west during the day and swing back overnight. This heliotropism stops once the flower matures and settles facing east."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
-      "bloomingSeason": "Late June to August, with late blooms in cooler climates into September",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Tasmania, and the Pacific Northwest of the US",
+      "description": "Silvery, aromatic mounds send up slender spikes of tiny, fragrant purple flowers. The blooms hum with bees and perfume the warm air of Mediterranean hillsides and cottage gardens.",
+      "bloomingSeason": "Early to late summer (about June to August), with late blooms into early September in cooler areas",
+      "location": "Mediterranean Europe, including southern France, and gardens across the Northern Hemisphere",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Lavender purple",
+        "Violet",
+        "Blue-mauve"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash', since the Romans used it to scent baths."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. Romans used the herb to scent their baths."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower forming dense colonies with arching plumes of tiny golden-yellow flower heads. It is an important late-summer nectar and pollen source for native bees, butterflies, and migrating monarchs.",
-      "bloomingSeason": "Late July to October",
-      "location": "Native to meadows, roadsides, and prairies of eastern and central North America; naturalized in Europe and Asia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "This Australian tree is covered in fluffy, golden pom-pom blooms that light up the late-winter bush. The flowers have a honey-sweet scent.",
+      "bloomingSeason": "Late winter to early spring (about July to October) in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and insect-carried; ragweed, which blooms at the same time, is the real culprit."
-    },
-    {
-      "name": "Telopea speciosissima",
-      "commonName": "New South Wales Waratah",
-      "description": "A large evergreen shrub producing spectacular crimson flower heads up to 15 cm across, surrounded by showy red bracts. Each head is made of hundreds of small tubular flowers and is rich in nectar for honeyeater birds.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November)",
-      "location": "Native to the sandstone ridges and forests of southeastern New South Wales, Australia",
-      "colors": [
-        "crimson",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The waratah is the floral emblem of New South Wales, and its name comes from an Aboriginal word meaning 'seen from afar'."
+      "funFact": "Golden Wattle is Australia's national floral emblem. Wattle Day is celebrated on September 1, the first day of spring."
     }
   ]
 }

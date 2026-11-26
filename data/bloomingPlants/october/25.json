@@ -2,62 +2,46 @@
   "date": "October 25",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in a wide range of forms, from daisy-like to pompon and spider types. It thrives in the shortening days of fall and is prized in gardens and floral arrangements.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated across temperate regions of North America, Europe, and East Asia; native to China",
-      "colors": [
-        "Yellow",
-        "Bronze",
-        "White",
-        "Purple",
-        "Red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants that set buds only when nights grow long enough. In Japan, the flower is the emblem of the Imperial family and has its own festival, the Festival of Happiness."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large, graceful tree covered in clusters of trumpet-shaped lavender-blue flowers that often appear before the new leaves. In the Southern Hemisphere spring, entire streets are carpeted with fallen purple blossoms.",
-      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina, and Brazil",
-      "colors": [
-        "Lavender",
-        "Violet-blue"
-      ],
-      "emoji": "🌸",
-      "funFact": "Pretoria in South Africa is known as the Jacaranda City because of its roughly 70,000 jacaranda trees, and local lore says a flower falling on your head brings good luck."
-    },
-    {
       "name": "Cosmos bipinnatus",
-      "commonName": "Mexican Aster",
-      "description": "A tall, airy annual with feathery foliage and delicate daisy-like flowers on slender stems. In mild-autumn climates it keeps blooming until the first hard frost and attracts pollinators late in the season.",
-      "bloomingSeason": "Summer to late autumn (through October in mild Northern Hemisphere climates); spring in the Southern Hemisphere",
-      "location": "Native to Mexico and the southwestern US; naturalized and cultivated worldwide",
+      "commonName": "Garden Cosmos",
+      "description": "Airy, daisy-like blooms float on feathery, thread-fine foliage. They sway above garden beds and meadows, and bees and butterflies visit them constantly. In mild autumns the flowers keep coming until the first hard frost.",
+      "bloomingSeason": "Late spring to first frost in the Northern Hemisphere. In the Southern Hemisphere it blooms from spring into summer, so October is a peak month.",
+      "location": "Gardens worldwide. The species is native to Mexico and is widely naturalized across the Americas.",
       "colors": [
         "Pink",
         "White",
         "Magenta",
         "Crimson"
       ],
-      "emoji": "🌺",
-      "funFact": "Cosmos comes from the Greek word kosmos, meaning order or harmony, a name given by Spanish priests who grew the plants in their mission gardens in Mexico."
+      "emoji": "🌸",
+      "funFact": "The name comes from the Greek word 'kosmos', meaning order or harmony. It was chosen for the flowers' neatly arranged, symmetrical petals."
     },
     {
-      "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in autumn, earlier than the common camellia. It bears fragrant, open flowers with prominent golden stamens against glossy dark green leaves, brightening the garden as other plants fade.",
-      "bloomingSeason": "Autumn to early winter (October to December in the Northern Hemisphere)",
-      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Japan",
+      "name": "Callistemon citrinus",
+      "commonName": "Crimson Bottlebrush",
+      "description": "Dense, bottle-brush-shaped spikes of bright red stamens cover the branch tips. They draw nectar-feeding birds such as honeyeaters and lorikeets. In Australia the shrub puts on a spectacular show through spring.",
+      "bloomingSeason": "Spring to early summer in Australia (September to December), with scattered repeat flowering",
+      "location": "Eastern Australia, including New South Wales and Queensland, and gardens in mild climates worldwide",
       "colors": [
-        "White",
-        "Pink",
-        "Rose-red"
+        "Red",
+        "Crimson"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia sasanqua leaves can be used to make tea, and its seeds are pressed into camellia oil, which is used in cooking, cosmetics, and hair care in Japan."
+      "emoji": "🌺",
+      "funFact": "The red 'brush' is made of stamens, not petals. The actual petals are tiny and fall away quickly."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped lilac-pink flowers push straight out of the bare ground in autumn, with no leaves in sight. They carpet damp meadows and woodland edges. The strap-like leaves appear the following spring.",
+      "bloomingSeason": "Autumn, typically September to October in Europe",
+      "location": "Damp meadows and open woods across central and western Europe, including Britain, Germany and France",
+      "colors": [
+        "Lilac",
+        "Pale pink",
+        "Soft purple"
+      ],
+      "emoji": "💜",
+      "funFact": "It isn't a true crocus. It is a member of the lily family and contains colchicine, a toxic compound that is also used in plant breeding and medicine."
     }
   ]
 }

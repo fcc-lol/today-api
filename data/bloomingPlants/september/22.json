@@ -2,62 +2,41 @@
   "date": "September 22",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in autumn, without any leaves present. The leaves appear the following spring and die back by summer. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Late summer to autumn (September to October)",
-      "location": "Native to damp meadows in Europe; widely cultivated in temperate gardens across North America and Europe",
-      "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple",
-        "White"
-      ],
-      "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and used by plant breeders to induce chromosome doubling. Its leafless autumn flowers earned it the nickname 'naked ladies'."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, hairy-stemmed perennial that forms large clumps covered in daisy-like flowers with golden-yellow centers. It is a vital late-season nectar source for pollinators and thrives in meadows, roadsides and prairies.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America, from Canada to Alabama; cultivated worldwide",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Magenta"
-      ],
-      "emoji": "💜",
-      "funFact": "New England asters are a key stopover food source for migrating monarch butterflies, which refuel on their nectar during their journey to Mexico in September."
-    },
-    {
       "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A bulbous perennial whose bright red, spidery flowers with long curved stamens emerge on leafless stalks in early autumn. The strap-like leaves appear after flowering and persist through winter.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
+      "commonName": "Red Spider Lily (Higanbana)",
+      "description": "Leafless stalks shoot up from the bare ground, each topped with a crown of crimson flowers. The petals curl back and the long stamens arch outward like delicate spider legs. In Japan, whole rice-field banks and village paths turn scarlet.",
+      "bloomingSeason": "Mid-September to early October, peaking around the autumn equinox",
+      "location": "Japan, in rice-field margins, riverbanks and temple grounds across Honshu, Shikoku and Kyushu",
       "colors": [
-        "Red",
-        "Crimson"
+        "Crimson",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "In Japan, these flowers bloom around the autumn equinox (Higanbana) and are traditionally planted along rice paddies and graves; their toxic bulbs deter rodents and moles."
+      "funFact": "The Japanese name Higanbana refers to Higan, the equinox week. The flowers appear so reliably then that they are used as a natural calendar for the autumn equinox. The leaves only emerge after the flowers fade."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large evergreen shrub with the largest flower head in the Protea genus, featuring a bowl of showy pinkish bracts surrounding a central cone of tiny true flowers. It is adapted to fire-prone, nutrient-poor soils.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November), peaking around September",
-      "location": "Fynbos region of the Western and Eastern Cape, South Africa; cultivated in Australia, Hawaii and California",
+      "name": "Sternbergia lutea",
+      "commonName": "Yellow Autumn Crocus (Winter Daffodil)",
+      "description": "Glossy golden goblets that look like crocuses sit low to the ground. They light up dry, rocky hillsides just as the summer drought breaks. Each bloom is cupped and waxy, and it opens wide in sunshine.",
+      "bloomingSeason": "September to November, usually starting in September",
+      "location": "Mediterranean region eastward to Central Asia, including Greece, Turkey and Spain, on dry stony slopes and olive groves",
       "colors": [
-        "Pink",
-        "Cream",
-        "Red",
-        "Silvery white"
+        "Golden yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "The King Protea is South Africa's national flower, and the genus is named after Proteus, the Greek sea god who could change shape, reflecting the group's great diversity."
+      "emoji": "🌼",
+      "funFact": "Despite its common name, it is not a true crocus. It belongs to the amaryllis family. Many botanists suspect it is the 'lily of the field' mentioned in ancient texts."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Whole trees become clouds of fragrant, fluffy golden pompoms. Each ball is made up of 40 to 80 tiny flowers. The blossoms glow against the grey-green foliage and fill the bush with a honey-sweet scent.",
+      "bloomingSeason": "Late winter to spring, with peak flowering from late August through September in the Southern Hemisphere",
+      "location": "Southeastern Australia, including Victoria, South Australia, New South Wales and Tasmania, in woodlands and open forests",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌳",
+      "funFact": "Golden wattle is Australia's national floral emblem. Its green and gold colors inspired the country's national sporting colors. Australia also marks National Wattle Day on September 1."
     }
   ]
 }

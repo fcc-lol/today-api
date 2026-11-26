@@ -2,58 +2,46 @@
   "date": "September 24",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The leaves emerge the following spring and die back by early summer. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe, including the UK, France, Germany, and the Alps; widely cultivated in temperate gardens worldwide",
+      "name": "Lycoris radiata",
+      "commonName": "Red Spider Lily (Higanbana)",
+      "description": "Leafless stalks shoot up almost overnight from bare ground. Each one is topped with a crown of crimson flowers whose curling petals and long, arching stamens look like fine filaments of fire. Whole rice-field edges, riverbanks and temple grounds turn scarlet around the autumn equinox.",
+      "bloomingSeason": "September, around the autumn equinox (peaking mid to late September)",
+      "location": "Japan, especially Saitama Prefecture and rural rice-field edges and riverbanks",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple",
-        "White"
-      ],
-      "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used to treat gout and used in plant breeding to induce chromosome doubling. It is often called 'naked ladies' because the flowers appear without leaves."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower that forms dense clumps topped with plume-like clusters of tiny yellow flower heads. It is an important late-season nectar and pollen source for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern and central North America in meadows, roadsides, and prairies; naturalized in Europe and Asia",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time. Goldenrod pollen is heavy and sticky and is spread by insects, not wind."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Guernsey Lily (Bowden Lily)",
-      "description": "A bulbous perennial with strappy leaves and tall, leafless stems topped by umbels of frilly, sparkling pink flowers with wavy-edged petals. It thrives in sunny, well-drained spots and flowers when most other plants are fading.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Native to the Drakensberg mountains of South Africa; widely grown in gardens in the UK, Europe, and the Pacific Northwest",
-      "colors": [
-        "Pink",
-        "Rose-pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Nerine petals have a glittering, shimmering surface that sparkles in sunlight, which is why they are sometimes called 'diamond lilies'."
-    },
-    {
-      "name": "Clianthus puniceus",
-      "commonName": "Kākābeak (Parrot's Bill)",
-      "description": "An evergreen shrub with arching branches, feathery leaves, and clusters of dramatic claw-shaped, bright red flowers resembling a parrot's beak. In the Southern Hemisphere, it blooms in the spring, attracting native birds such as tūī and bellbirds.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "New Zealand's North Island; now rare in the wild but common in cultivation",
-      "colors": [
-        "Scarlet red",
-        "Pink",
-        "White"
+        "Crimson",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "Kākābeak is among New Zealand's most endangered native plants in the wild, largely because of browsing by introduced animals, but it is easily grown in gardens, which helps preserve it."
+      "funFact": "The flowers appear without any leaves. The foliage emerges only after the blooms fade and lasts through winter, which is the reverse of most bulbs. In Japan the flower is traditionally linked to the equinox holiday, called Higan."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped blooms push straight out of the soil as the garden winds down for the year. They look like pale lilac crocuses, with no leaves to accompany them. Clusters of flowers emerge from each corm, and they brighten lawns, meadows and borders just as the autumn chill sets in.",
+      "bloomingSeason": "Mid-September through early October",
+      "location": "Temperate meadows and gardens of Europe and the northern United States",
+      "colors": [
+        "Pale lilac",
+        "Pink",
+        "White (in the 'Album' form)"
+      ],
+      "emoji": "🌷",
+      "funFact": "Despite the name, it is not a true crocus. It belongs to the lily family and contains colchicine, a potent toxin that has also been used in plant breeding and in medicine."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest bloom in the protea family looks like a flower crowned with a halo. It has a bowl of silky, pink-tipped central bracts surrounded by rows of rosy, petal-like bracts. It stands boldly above leathery evergreen foliage on the mountain slopes of the Cape, and it is South Africa's national flower.",
+      "bloomingSeason": "Late winter through spring, with the season running from about July to October in its native range",
+      "location": "Fynbos mountain slopes of the Western and Eastern Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
+      ],
+      "emoji": "🌸",
+      "funFact": "It grows from a thick underground stem called a lignotuber. This lets the plant resprout after the wildfires that regularly sweep through the fynbos."
     }
   ]
 }

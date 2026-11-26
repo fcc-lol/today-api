@@ -2,63 +2,46 @@
   "date": "October 21",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It thrives in the cooling temperatures and shortening days of fall and is widely grown in gardens and as a cut flower.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide, especially East Asia, Europe, and North America",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants, so they set buds only when nights grow long enough. The flower is a national symbol of Japan, and the Imperial Seal is a stylized chrysanthemum."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall native wildflower with daisy-like flowers that have purple rays and yellow centers. It brightens meadows, roadsides and prairies late in the season and is an important nectar source for migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Eastern and central North America",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "yellow"
-      ],
-      "emoji": "💜",
-      "funFact": "Its flowers close at night and on cloudy days, and the plant is a key fuel stop for monarch butterflies migrating to Mexico."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular tree covered in clusters of trumpet-shaped lavender-blue flowers that carpet the ground beneath it. It blooms before its fernlike leaves fully emerge, creating a purple haze over streets and parks in the Southern Hemisphere spring.",
-      "bloomingSeason": "Spring (October to November in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "commonName": "Blue Jacaranda",
+      "description": "Whole streets in eastern Australia turn lavender-blue as this tree opens its clouds of trumpet-shaped flowers. The blooms carpet the pavement below, so the color shows overhead and underfoot.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere, peaking from October into November",
+      "location": "Brisbane and northern New South Wales, Australia, where flowering usually peaks first in late October",
       "colors": [
-        "lavender",
-        "blue-purple"
+        "Lavender",
+        "Violet-blue"
       ],
       "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
+      "funFact": "Jacaranda is native to South America but has become a spring icon in cities from Australia to South Africa. Its fern-like leaves give it the species name mimosifolia, meaning mimosa-leaved."
     },
     {
       "name": "Cosmos bipinnatus",
       "commonName": "Garden Cosmos",
-      "description": "A graceful annual with feathery foliage and saucer-shaped flowers on slender stems. It flowers prolifically until the first frost and is a favorite of pollinators and cut-flower gardeners.",
-      "bloomingSeason": "Summer through first frost (to October or later in mild climates)",
-      "location": "Native to Mexico; cultivated worldwide",
+      "description": "Cosmos is a cheerful annual with daisy-like blooms on airy, feathery stems. The flowers sway in the autumn breeze and keep attracting bees and butterflies.",
+      "bloomingSeason": "Summer through autumn, roughly June to October, ending with the first hard frost",
+      "location": "Gardens across the temperate Northern Hemisphere, such as the US Midwest, in mild autumns",
       "colors": [
-        "pink",
-        "white",
-        "magenta",
-        "crimson"
+        "Pink",
+        "White",
+        "Magenta",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "The name 'cosmos' comes from the Greek word for 'order' or 'harmony,' which Spanish priests in Mexico applied to the plants' orderly petals."
+      "funFact": "Cosmos comes from Mexico. Its name comes from a Greek word for order or harmony, which refers to the neat symmetry of its petals."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "This glossy evergreen shrub blooms while most gardens are fading. Its delicate, often lightly fragrant flowers open in white and pink with golden centers of stamens.",
+      "bloomingSeason": "Autumn into early winter, usually starting in late September or early October",
+      "location": "Gardens in Japan, its native range, and in mild temperate regions such as the UK",
+      "colors": [
+        "White",
+        "Pale pink",
+        "Rose pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Sasanqua is a close relative of the tea plant (Camellia sinensis). Its seeds are pressed for camellia oil, which has long been used in Japan."
     }
   ]
 }

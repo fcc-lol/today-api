@@ -4,54 +4,43 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asian gardens and prized for its early spring blooms, which often appear while frost and snow linger.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "China, Japan, Korea; cultivated in temperate regions worldwide",
+      "description": "Gnarled branches still bare of leaves burst into fragrant blossoms with delicate, papery petals. The flowers appear while winter's chill lingers, and their sweet, spicy perfume drifts through gardens and orchards.",
+      "bloomingSeason": "Late winter to early spring (roughly late January through March)",
+      "location": "Japan, including Mito, Atami and Kyoto, and across eastern China",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are celebrated in Japan as heralds of spring, and the fruit is pickled to make umeboshi and steeped to make umeshu liqueur."
+      "funFact": "Ume blossoms are celebrated in East Asia as a symbol of perseverance, since they flower in the cold before cherry blossoms arrive. The fruit is pickled into the Japanese staple umeboshi."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with a distinctive trumpet-shaped corona surrounded by pale outer petals. It carpets woodlands and meadows in early spring, and many cultivated daffodil varieties descend from it.",
-      "bloomingSeason": "Late winter to early spring (late February to April)",
-      "location": "Western Europe, including the UK, France, and Spain; naturalized in North America",
+      "description": "Nodding trumpets of golden yellow ring a paler yellow collar and light up woodland floors and meadows. Whole drifts of them appear together, a sign that spring is on its way.",
+      "bloomingSeason": "Late winter to early spring (around late February through April)",
+      "location": "Western Europe, including the woodlands and meadows of England, Wales and France",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Yellow",
+        "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "The daffodil is the national flower of Wales and is traditionally worn on St. David's Day, March 1."
+      "funFact": "Daffodils contain a toxic alkaloid called lycorine, which keeps grazing animals away. Compounds from related Narcissus species are also used in medicine to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A fast-growing evergreen tree or large shrub with feathery foliage and fluffy, ball-shaped flower clusters. In Australia it blooms from late winter into spring, making bright splashes of gold in the bush.",
-      "bloomingSeason": "Late winter to spring (July to October in Australia, with some variation by region and species)",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "name": "Nerine sarniensis",
+      "commonName": "Guernsey Lily",
+      "description": "Spidery, wavy-edged petals glitter as if dusted with gold. Clusters of them rise on slender stalks without a leaf in sight.",
+      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere, typically March to May",
+      "location": "Cultivated in gardens in South Africa and Australia, with wild origins in South Africa's Western Cape",
       "colors": [
-        "golden yellow"
+        "Red",
+        "Pink",
+        "Orange"
       ],
-      "emoji": "🌿",
-      "funFact": "Golden wattle is Australia's national floral emblem, and Wattle Day is celebrated on September 1, the first day of spring there."
-    },
-    {
-      "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes through snow and thrives in woodlands, gardens, and churchyards.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Europe from the Pyrenees to Ukraine; naturalized in the UK and North America",
-      "colors": [
-        "white",
-        "green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medicine to treat symptoms of Alzheimer's disease."
+      "emoji": "🌺",
+      "funFact": "Despite the common name, this lily is native to South Africa. According to legend, bulbs washed ashore on Guernsey from a shipwreck and took root there."
     }
   ]
 }

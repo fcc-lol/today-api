@@ -2,65 +2,46 @@
   "date": "December 22",
   "plants": [
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub native to Mexico with showy colored bracts surrounding small yellow flower clusters called cyathia. In its native range and in warm climates it blooms outdoors, and it is widely grown as a potted plant elsewhere for the holidays.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to Mexico and Central America; cultivated worldwide, outdoors in USDA zones 9-11",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "Nodding, saucer-shaped white blooms with golden stamens that open in the cold, often pushing up through frost and light snow. The flowers age to soft pink-green. They bring a rare burst of elegance to the dark heart of winter.",
+      "bloomingSeason": "Early winter to early spring, typically December through March in the Northern Hemisphere",
+      "location": "Alpine and woodland regions of central and southern Europe, widely grown in temperate gardens in Europe and North America",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream",
-        "marbled"
+        "White",
+        "Pale pink",
+        "Gold"
       ],
-      "emoji": "🎄",
-      "funFact": "The colorful parts are modified leaves called bracts, not petals. The plant needs about 12 hours of uninterrupted darkness each night for roughly 8 weeks to color up, and the Aztecs used it to make a reddish dye."
-    },
-    {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous plant with trumpet-shaped flowers up to 25 cm across on tall hollow stalks. Bulbs forced indoors in the Northern Hemisphere bloom around the holidays, while in the Southern Hemisphere garden plants flower naturally in the early summer.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; late spring to early summer outdoors in the Southern Hemisphere",
-      "location": "Native to South America (Andes and Brazil); cultivated worldwide",
-      "colors": [
-        "red",
-        "white",
-        "pink",
-        "orange",
-        "striped"
-      ],
-      "emoji": "🌺",
-      "funFact": "The bulb contains enough stored energy that it can flower with no soil or water, and a mature bulb may send up two or more flower stalks in a season."
-    },
-    {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "An evergreen perennial with strap-like leaves and large round umbels of funnel-shaped flowers on tall stems. It is at its peak in the Southern Hemisphere summer, with blooms lasting several weeks.",
-      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
-      "location": "Native to South Africa; widely planted in Australia, New Zealand, and Mediterranean-climate regions",
-      "colors": [
-        "blue",
-        "violet",
-        "white"
-      ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, it is not a true lily. The name comes from Greek words meaning love flower, and it thrives in coastal gardens because it tolerates salt spray."
+      "emoji": "🌹",
+      "funFact": "Despite its name, the Christmas rose is not a rose at all. It belongs to the buttercup family, and every part of the plant is toxic."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers, among the most beloved winter bloomers in temperate regions. Early cultivars open in December and bloom through early spring.",
-      "bloomingSeason": "Late autumn to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and eastern China; grown in the southeastern United States, Europe, and the Pacific Northwest",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with layered petals and bright yellow centers. The flowers stand out against dark, leathery leaves in cool winter gardens.",
+      "bloomingSeason": "Late autumn through early spring, with peak bloom from December to March in mild climates",
+      "location": "Native to Japan, Korea and eastern China, and widely grown in the southeastern United States, western Europe and Japan",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "🌸",
-      "funFact": "Tea is made from a close relative, Camellia sinensis, and camellia oil from the seeds of Camellia japonica has long been used in Japan for hair care and cooking."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make camellia oil, long used in Japan for hair care and cooking."
+    },
+    {
+      "name": "Metrosideros excelsa",
+      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
+      "description": "A gnarled coastal evergreen that erupts into crimson pompom-like flowers made of bursts of long, brush-like stamens. Whole cliffs and beaches glow red as the southern summer begins.",
+      "bloomingSeason": "Late spring to midsummer in the Southern Hemisphere, peaking in December",
+      "location": "Coastal North Island of New Zealand",
+      "colors": [
+        "Crimson",
+        "Red"
+      ],
+      "emoji": "🌺",
+      "funFact": "Pōhutukawa can cling to steep sea cliffs, and its flowering around Christmas has made it a beloved symbol of the New Zealand summer holidays."
     }
   ]
 }

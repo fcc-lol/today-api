@@ -4,59 +4,43 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a mainstay of winter gardens, with thousands of cultivars in varied forms.",
-      "bloomingSeason": "Late autumn through early spring, peaking in mid-winter",
-      "location": "Native to Japan, Korea and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with golden centers. They flower in the cool, damp weeks when most gardens are bare, so they are a bright surprise in midwinter.",
+      "bloomingSeason": "Late autumn through early spring, peaking in midwinter",
+      "location": "Japan's mild coastal regions, and winter gardens in the southeastern United States and Europe's Atlantic coast",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens that often fade to pink. It flowers in cold weather and tolerates frost and snow.",
-      "bloomingSeason": "Early winter to late winter",
-      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens in Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "🤍",
-      "funFact": "Despite its name, it is not a true rose but a member of the buttercup family, and all parts are toxic."
+      "funFact": "Camellia sinensis, a close relative of the Japanese camellia, is the plant that gives us tea."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A shrub bearing the largest flower head in the Protea genus, a massive bowl-shaped bloom of pointed bracts surrounding a central cluster of florets. It is adapted to nutrient-poor soils and fire-prone fynbos.",
-      "bloomingSeason": "Southern Hemisphere late spring to summer, with flowering often continuing into January",
-      "location": "Native to the fynbos of South Africa's Western and Eastern Cape; cultivated in Australia, California, and Hawaii",
+      "description": "A dramatic, dinner-plate-sized flower head with a crown of pointed pink bracts around a silky, fuzzy center. It grows in the fynbos scrub of the Southern Hemisphere and is South Africa's national flower.",
+      "bloomingSeason": "Mainly late winter to early summer in the wild, with flowers also appearing in the Southern Hemisphere's summer months",
+      "location": "Western and Southern Cape, South Africa",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
       "emoji": "🌸",
-      "funFact": "It is the national flower of South Africa, and its flower heads can reach 30 cm across."
+      "funFact": "Proteas are among the most ancient flowering plants on Earth, and they are adapted to fire. Their thick-walled seed heads protect seeds until a bushfire clears the way for new growth."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous shrub that produces spidery, strongly fragrant flowers on bare branches in winter. The ribbon-like petals curl up in cold weather and unfurl again when it warms.",
-      "bloomingSeason": "Mid-winter to late winter",
-      "location": "Native to central and eastern China; grown in temperate gardens in Europe, North America, and Japan",
+      "name": "Hippeastrum puniceum",
+      "commonName": "Barbados Lily",
+      "description": "A bold, trumpet-shaped amaryllis relative with large, flared blooms held on tall, sturdy stalks. It flares into color in warm, humid weather.",
+      "bloomingSeason": "Often blooms in the warm season, with some flowers opening in the Southern Hemisphere's summer",
+      "location": "Tropical and subtropical Americas, including Brazil and the Caribbean",
       "colors": [
-        "yellow",
-        "gold",
-        "orange"
+        "Red",
+        "Orange"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers can survive freezing temperatures by curling their petals tightly to protect themselves."
+      "emoji": "🌷",
+      "funFact": "Many of the amaryllis sold as winter holiday gifts belong to the genus Hippeastrum, not the true Amaryllis genus."
     }
   ]
 }

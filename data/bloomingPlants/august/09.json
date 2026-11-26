@@ -2,61 +2,32 @@
   "date": "August 9",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, daisy-like flower head made up of golden ray florets surrounding a dark central disk. The flower heads track the sun when young. It is widely grown as an ornamental, a seed crop and an oilseed crop.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, the United States and temperate Asia",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west in a process called heliotropism, but mature blooms stop moving and generally face east."
-    },
-    {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. It thrives in full sun and well-drained soil, and the blooms attract bees and butterflies in large numbers.",
-      "bloomingSeason": "Early to late summer, with peak bloom in July and August in many regions",
-      "location": "Native to the western Mediterranean; widely cultivated in Provence (France), England, Bulgaria, Tasmania and the Pacific Northwest of the United States",
+      "commonName": "True Lavender",
+      "description": "Silvery-green mounds of fragrant foliage carry slender spikes of violet-blue flowers. In the south of France, the blooms roll across the hillsides in long, perfumed rows. Bees crowd the flowers, and the warm air smells sweet and herbal. By early August the main peak has passed, but many fields and gardens are still in flower.",
+      "bloomingSeason": "Mid-June to late August, with peak bloom in July",
+      "location": "Provence and the French Alps, France",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender is thought to come from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
+      "funFact": "The name lavender probably comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves that rise above the water and showy, many-petaled flowers on tall stalks. The leaves have a waxy surface that makes water bead up and roll off. It grows in shallow ponds, lakes and wetlands.",
-      "bloomingSeason": "Summer, peaking from July to August in the Northern Hemisphere",
-      "location": "Asia, from India and China to Japan and northern Australia; cultivated in water gardens worldwide",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "These tall, sturdy plants carry golden flower heads as wide as dinner plates. The heads follow the sun across the sky when young, and whole fields glow against the summer sky. In the Great Plains, sunflowers grow wild along roadsides and are also planted as a major crop.",
+      "bloomingSeason": "July to October, with individual fields flowering for about two weeks",
+      "location": "Kansas and the Great Plains, United States",
       "colors": [
-        "pink",
-        "white"
+        "Golden yellow",
+        "Brown",
+        "Orange"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for centuries, and one seed about 1,300 years old was successfully germinated."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with the largest flower head of any protea. The bloom is a bowl of pink-tipped bracts surrounding a central cluster of tiny flowers, and it is set among leathery, oval leaves. It is adapted to fire-prone, nutrient-poor fynbos soils.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with flowering often beginning in August",
-      "location": "Southwestern and southern coastal South Africa, in fynbos vegetation; cultivated in Australia, Hawaii and California",
-      "colors": [
-        "pink",
-        "cream",
-        "silver",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and its genus is named after Proteus, the Greek sea god who could change shape."
+      "emoji": "🌻",
+      "funFact": "A sunflower head is not one flower. It is a cluster of hundreds or even thousands of tiny florets, and each one can become a seed."
     }
   ]
 }

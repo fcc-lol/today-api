@@ -2,60 +2,47 @@
   "date": "November 2",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It is widely cultivated in gardens and as a cut flower, and it thrives in cool fall temperatures when many other plants have finished flowering.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide, especially East Asia, Europe, and North America",
-      "colors": [
-        "Yellow",
-        "White",
-        "Bronze",
-        "Purple",
-        "Red"
-      ],
-      "emoji": "🌼",
-      "funFact": "In Japan, the chrysanthemum is the emblem of the Imperial family, and the Chrysanthemum Throne is named after it. In many European countries, chrysanthemums are placed on graves around November 1 and 2 for All Saints' and All Souls' Day."
-    },
-    {
-      "name": "Tagetes erecta",
-      "commonName": "Mexican Marigold (Cempasúchil)",
-      "description": "A tall, bushy annual with pungent, ferny foliage and large pom-pom flowers. It is the iconic flower of Día de Muertos celebrations, when it is used to decorate altars and cemeteries across Mexico.",
-      "bloomingSeason": "Late summer to first frost; peak bloom around late October to early November in central Mexico",
-      "location": "Native to Mexico and Central America; cultivated worldwide",
-      "colors": [
-        "Orange",
-        "Golden yellow"
-      ],
-      "emoji": "🏵️",
-      "funFact": "According to tradition, the Aztec-descended custom holds that the bright color and strong scent of cempasúchil guide the spirits of the dead back to the world of the living along petal-strewn paths."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A spectacular flowering tree that covers itself in clusters of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Streets and parks turn purple during its bloom, and fallen blossoms carpet the ground.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in Australia, South Africa, Argentina, and Brazil",
+      "description": "Whole streets fill with clouds of trumpet-shaped lavender-blue flowers on bare or feathery-leafed branches. The fallen blossoms carpet pavements in violet.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere, roughly October to November, with peak color in late October and early November",
+      "location": "Australia (Sydney and Brisbane), South Africa (Pretoria) and Argentina (Buenos Aires)",
       "colors": [
-        "Lavender",
-        "Blue-violet"
+        "lavender",
+        "violet",
+        "blue-purple"
+      ],
+      "emoji": "🌳",
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of the tens of thousands of these trees lining its streets. The trees are native to South America and were introduced to South Africa in the 1800s."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Daisy-like flowers sit on slender stems above fine, feathery foliage. Their papery petals sway in the breeze and attract butterflies and bees.",
+      "bloomingSeason": "Late spring through summer in the Southern Hemisphere, and in warm-climate gardens such as Mexico, where it is native and flowers into autumn",
+      "location": "Mexico and gardens in warm temperate regions of the Southern Hemisphere",
+      "colors": [
+        "pink",
+        "white",
+        "magenta",
+        "crimson"
       ],
       "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas earned the city the nickname 'Jacaranda City,' and in parts of Australia the bloom traditionally coincided with university exam season."
+      "funFact": "Cosmos comes from the Greek word for order or harmony. Spanish priests in Mexico are said to have grown it in mission gardens."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in autumn, earlier than the common camellia. It produces delicate, slightly fragrant single or semi-double flowers with prominent golden stamens, and it is a valuable nectar source for late-season pollinators.",
-      "bloomingSeason": "Mid-autumn to early winter (October to December)",
-      "location": "Native to Japan; grown in the southeastern United States, Europe, and mild temperate regions",
+      "description": "This glossy-leaved evergreen shrub produces delicate, slightly fragrant blooms as the weather cools. Its petals open wide to show golden stamens.",
+      "bloomingSeason": "Autumn to early winter, roughly October to December",
+      "location": "Japan and the southeastern United States, such as Georgia and the Carolinas",
       "colors": [
-        "White",
-        "Pink",
-        "Rose-red"
+        "white",
+        "pink",
+        "rose-red"
       ],
       "emoji": "🌺",
-      "funFact": "Sasanqua leaves are related to those of the tea plant, Camellia sinensis, and in Japan the seeds of sasanqua are pressed for camellia oil, used in cooking and hair care."
+      "funFact": "Camellia sasanqua is closely related to Camellia sinensis, the tea plant. Its seeds are pressed to make a culinary and cosmetic oil."
     }
   ]
 }

@@ -2,60 +2,58 @@
   "date": "February 14",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers with many layered petals. It thrives in partial shade and acidic, well-drained soil, and is a staple of winter gardens in mild climates.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, Western Europe, and Australia",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Nodding, bell-shaped white blossoms with delicate green-tipped inner petals push up through frost, and sometimes snow, on slender stems. Whole woodland floors in the UK and Europe turn white with them.",
+      "bloomingSeason": "January to February, in late winter",
+      "location": "Woodlands and gardens across the United Kingdom and Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "White",
+        "Green"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, produces all true tea. Camellia japonica was the inspiration for many Japanese poems and is the official flower of several Japanese prefectures."
+      "emoji": "❄️",
+      "funFact": "Snowdrops make natural antifreeze-like compounds in their tissues. This helps them flower in cold that would stop most plants. Their bulbs are also the original source of galantamine, a compound used in medicine."
     },
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the cold of late winter, before its leaves appear. It is deeply admired in East Asian culture as a symbol of perseverance and hope.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Native to southern China; cultivated across Japan, Korea, and Taiwan, with plum blossom festivals held in Japanese gardens",
+      "description": "Bare branches burst into fragrant blossoms in white, blush and deep pink while winter still holds the landscape. The scent is sweet and spicy, and it carries on cold air.",
+      "bloomingSeason": "January to February, ahead of cherry blossom season",
+      "location": "Japan and the Yangtze River region of China, in parks, shrines and orchards",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pale pink",
+        "Deep pink"
       ],
       "emoji": "🌸",
-      "funFact": "In China, the plum blossom is one of the 'Three Friends of Winter' along with pine and bamboo, and it is the national flower of Taiwan."
+      "funFact": "Ume blooms weeks before cherry trees. In Japan and China it is a symbol of perseverance and the coming spring, and its sour fruit is pickled into umeboshi."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and forms large drifts in woodlands and gardens.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "name": "Camellia japonica",
+      "commonName": "Common Camellia",
+      "description": "Glossy evergreen shrubs carry large, rose-like flowers, often double and up to about five inches across, in shades from pure white to deep crimson. Against the dark green leaves they look especially bright in late winter.",
+      "bloomingSeason": "Late winter to early spring, February to April",
+      "location": "Native to Japan, Korea and China, and widely grown in mild-winter gardens such as the southeastern United States",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Pink",
+        "Red"
       ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medications to treat symptoms of Alzheimer's disease. Enthusiasts called 'galanthophiles' pay high prices for rare cultivars."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is a close cousin of Camellia sinensis, the plant that gives us tea. Gardeners have bred thousands of cultivars of the ornamental species."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda Mimosifolia",
-      "description": "Not typically blooming in February in most places, so this entry instead highlights the Southern Hemisphere summer flowering of a related showy plant: Agapanthus praecox, a clump-forming perennial with large rounded clusters of trumpet-shaped flowers on tall stalks above strap-like leaves.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to March)",
-      "location": "Native to South Africa; widely planted in Australia, New Zealand, and coastal California",
+      "name": "Agapanthus africanus",
+      "commonName": "Dwarf Agapanthus",
+      "description": "Rounded clusters of deep blue, trumpet-shaped flowers rise on tall, slender stalks above strappy leaves. In the southern summer they give color to coastal gardens and fynbos slopes.",
+      "bloomingSeason": "Summer, December to February, in the Southern Hemisphere",
+      "location": "Western Cape, South Africa",
       "colors": [
-        "blue",
-        "violet",
-        "white"
+        "Blue",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "Agapanthus means 'flower of love' in Greek, from agape (love) and anthos (flower), which makes it a fitting February 14 bloom."
+      "emoji": "💙",
+      "funFact": "Agapanthus is often called the 'Lily of the Nile', but it is neither a true lily nor from the Nile. Its name comes from Greek words meaning 'love flower'."
     }
   ]
 }

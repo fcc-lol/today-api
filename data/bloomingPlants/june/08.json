@@ -2,61 +2,34 @@
   "date": "June 8",
   "plants": [
     {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest bloom in the protea family, with a flower head up to 30 cm across. A crown of silky, pink-tipped bracts surrounds a center of creamy, feathery florets. It stands out against the leathery green leaves of the fynbos shrubland.",
+      "bloomingSeason": "Winter to spring in the Southern Hemisphere, mainly June to October",
+      "location": "Western Cape fynbos, South Africa, including the slopes around Cape Town and Kirstenbosch National Botanical Garden",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silver-white",
+        "Crimson"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. It belongs to an ancient plant family that dates back to when the southern continents were joined. Its thick underground stems help it survive the wildfires that regularly sweep the fynbos."
+    },
+    {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with deeply lobed dark green leaves. A classic cottage garden favorite that returns reliably for decades.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America and Europe",
+      "description": "A garden favorite with big, ruffled, fragrant blooms in lush pink shades. They open above glossy, deeply divided leaves. Late-season varieties such as 'Sarah Bernhardt' carry the show into early summer.",
+      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere, typically May to June",
+      "location": "Temperate gardens of the central United States, such as St. Louis, Missouri. The species is native to China and Siberia.",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Pink",
+        "White",
+        "Blush",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for more than 50 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
-    },
-    {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "One of the oldest cultivated roses, a compact, suckering shrub with richly scented, semi-double flowers in deep shades and bright golden stamens. It forms thickets and is the ancestor of many garden roses.",
-      "bloomingSeason": "Early summer (June to July)",
-      "location": "Southern and Central Europe east to western Asia; cultivated in temperate gardens worldwide",
-      "colors": [
-        "crimson",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally for centuries and its petals retain fragrance when dried."
-    },
-    {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow foliage and slender spikes of fragrant violet-blue flowers that attract bees and butterflies. It thrives in sunny, well-drained soils.",
-      "bloomingSeason": "Early to mid summer (June to August) in the Northern Hemisphere",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
-      "colors": [
-        "lavender",
-        "purple",
-        "blue"
-      ],
-      "emoji": "💜",
-      "funFact": "The name comes from the Latin 'lavare', meaning to wash, as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A spreading tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In bloom it carpets streets and gardens with fallen petals.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted in subtropical regions including California, Mexico, South Africa, and the Mediterranean",
-      "colors": [
-        "lavender",
-        "blue",
-        "purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas line the streets, earning it the nickname 'Jacaranda City'."
+      "funFact": "Peonies are long-lived perennials. A single clump can bloom year after year for decades with little care. Ants often crawl over the flower buds to feed on the sweet nectar on their surface."
     }
   ]
 }

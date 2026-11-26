@@ -2,63 +2,47 @@
   "date": "December 31",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It thrives in cold winter conditions and is prized for flowering when little else does in the garden.",
-      "bloomingSeason": "Late autumn to late winter (December to March)",
-      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens of the Northern Hemisphere",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flamboyant Tree)",
+      "description": "A broad, umbrella-shaped tree that lights up the tropical summer with fiery clusters of scarlet-orange blossoms. Each flower has a standout petal streaked with cream and gold, set against feathery, fern-like leaves.",
+      "bloomingSeason": "Late spring through summer in the Southern Hemisphere, with peak flowering from November to February in Madagascar and similar regions",
+      "location": "Madagascar, where it is native, and the tropical Southern Hemisphere",
       "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name, the Christmas Rose is not a rose but belongs to the buttercup family, and all parts of the plant are toxic."
-    },
-    {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial producing tall, sturdy stalks topped with large trumpet-shaped flowers. In the Southern Hemisphere, garden plants bloom outdoors in summer, while in the north they are forced indoors for winter display.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in the Northern Hemisphere in winter",
-      "location": "Native to tropical and subtropical South America; cultivated worldwide, with outdoor blooming in Australia, South Africa, and South America",
-      "colors": [
-        "red",
-        "white",
-        "pink",
-        "orange",
-        "striped"
+        "Scarlet",
+        "Orange-red",
+        "Cream",
+        "Gold"
       ],
       "emoji": "🌺",
-      "funFact": "A single large amaryllis bulb can produce several flower stalks, and the flower stalk can grow several centimeters in a single day."
+      "funFact": "The Royal Poinciana is endangered in its native Madagascar, yet it is planted in warm regions all over the world. Its long, woody seed pods rattle in the wind when they dry."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flame Tree)",
-      "description": "A broad, umbrella-shaped tree with feathery fern-like leaves that becomes covered in brilliant clusters of flowers. Its blooms light up streets and parks in the warm season, followed by long woody seed pods.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February), with some blooming in tropical regions at other times",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and parts of Africa",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "A graceful evergreen shrub that flowers when most of the garden has gone quiet. Its delicate, lightly fragrant blooms open in drifts of white, pink and rose, and their golden stamens attract winter pollinators.",
+      "bloomingSeason": "Autumn to mid-winter, from about October through January",
+      "location": "Southern Japan, and gardens in the southeastern United States and the Mediterranean",
       "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "In the wild in Madagascar it is endangered, even though it is among the most widely planted ornamental trees in the tropics."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and showy rose-like flowers. Many cultivars begin blooming in early winter, brightening gardens in mild-winter climates.",
-      "bloomingSeason": "Late autumn to early spring (December to April)",
-      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Western Europe, Pacific Northwest, and Australia",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "White",
+        "Pink",
+        "Rose",
+        "Gold"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to make camellia oil."
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. Oil pressed from its seeds has long been used in Japan for cooking and hair care."
+    },
+    {
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A bold wildflower of the Australian bush. Its flower head is a crimson dome of tightly packed blooms ringed by deep red bracts, and it looks like a torch held up on a tall stem.",
+      "bloomingSeason": "Spring to early summer, mainly September to November, with some flowers lingering later in cooler spots",
+      "location": "Sandstone ridges and forests near Sydney, New South Wales, Australia",
+      "colors": [
+        "Crimson",
+        "Deep red"
+      ],
+      "emoji": "🌹",
+      "funFact": "The waratah is the floral emblem of New South Wales. Its nectar-rich flower heads attract honeyeater birds, which pollinate the plant as they feed."
     }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "May 14",
   "events": [
     {
-      "year": 1948,
-      "title": "Israel Declares Independence",
-      "description": "David Ben-Gurion read the Declaration of the Establishment of the State of Israel at the Tel Aviv Museum, proclaiming a Jewish state in the British Mandate of Palestine, effective as the Mandate expired at midnight.",
-      "category": "Politics",
-      "significance": "The declaration created the State of Israel, which was quickly recognized by the United States and the Soviet Union, and it triggered the 1948 Arab-Israeli War, shaping Middle Eastern geopolitics to this day."
+      "year": 1607,
+      "title": "Jamestown Is Founded",
+      "description": "English colonists led by Edward Maria Wingfield, Christopher Newport and John Smith established a settlement on the James River in Virginia. It became the first permanent English settlement in North America.",
+      "category": "Exploration and Colonization",
+      "significance": "Jamestown was the starting point for English colonization of North America. It shaped the early history of the United States."
     },
     {
-      "year": 1607,
-      "title": "Jamestown Colony Founded",
-      "description": "About 104 English settlers led by Captain Christopher Newport landed on the banks of the James River in Virginia and established Jamestown on behalf of the Virginia Company of London.",
-      "category": "Exploration and Colonization",
-      "significance": "Jamestown became the first permanent English settlement in North America, laying the foundation for the British colonial presence and the eventual formation of the United States."
+      "year": 1796,
+      "title": "Jenner Tests the First Smallpox Vaccine",
+      "description": "English physician Edward Jenner inoculated eight-year-old James Phipps with cowpox material. He wanted to test whether it would protect against smallpox.",
+      "category": "Science and Medicine",
+      "significance": "This experiment is regarded as the beginning of vaccination. It eventually led to the worldwide eradication of smallpox."
     },
     {
       "year": 1804,
-      "title": "Lewis and Clark Expedition Departs",
-      "description": "The Corps of Discovery, led by Meriwether Lewis and William Clark, left Camp Dubois near St. Louis and began traveling up the Missouri River at the start of their journey to explore the Louisiana Purchase and find a route to the Pacific.",
+      "title": "Lewis and Clark Set Out",
+      "description": "The Corps of Discovery, led by Meriwether Lewis and William Clark, left Camp Dubois near present-day Hartford, Illinois. Their journey up the Missouri River began the first overland expedition to the Pacific coast and back.",
       "category": "Exploration",
-      "significance": "The expedition mapped much of the American West, documented new species and Native American nations, and encouraged westward expansion of the United States."
+      "significance": "The expedition mapped new territory and documented its peoples and wildlife. It encouraged American westward expansion."
+    },
+    {
+      "year": 1948,
+      "title": "Israel Declares Independence",
+      "description": "David Ben-Gurion announced the establishment of the State of Israel as British rule in Palestine ended. A war with neighboring Arab states began soon afterward.",
+      "category": "Politics",
+      "significance": "The declaration created a new nation and reshaped the politics of the Middle East."
     },
     {
       "year": 1973,
-      "title": "Skylab Launched",
-      "description": "NASA launched Skylab, the first American space station, atop a Saturn V rocket. The station was damaged during launch, losing a micrometeoroid shield and one solar panel, but crews later repaired it.",
-      "category": "Science and Technology",
-      "significance": "Skylab demonstrated that humans could live and work in space for extended periods, providing key research on long-duration spaceflight that informed later space stations."
-    },
-    {
-      "year": 1643,
-      "title": "Louis XIV Becomes King of France",
-      "description": "Four-year-old Louis XIV acceded to the French throne upon the death of his father, Louis XIII, with his mother Anne of Austria serving as regent.",
-      "category": "Politics",
-      "significance": "Louis XIV went on to reign for 72 years, the longest of any major European monarch, and embodied absolute monarchy while making France the dominant power in Europe."
+      "title": "Skylab Launches",
+      "description": "The United States launched Skylab, its first space station, into orbit.",
+      "category": "Space Exploration",
+      "significance": "Skylab hosted three crews and showed that people could live and work in space for long periods. It paved the way for later space stations."
     }
   ]
 }

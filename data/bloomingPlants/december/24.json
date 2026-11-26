@@ -4,60 +4,45 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with showy colored bracts surrounding small yellow flower clusters called cyathia. In its native Mexico it grows into a shrub up to 4 meters tall, and in frost-free regions it is a common landscape plant. Elsewhere it is grown as a potted holiday plant.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide",
+      "description": "Brilliant crimson bracts flare out like stars around tiny yellow-green flower clusters. They light up Mexican hillsides and holiday windowsills alike. The showy 'petals' are actually colored leaves.",
+      "bloomingSeason": "Late autumn to winter (roughly November to February), triggered by the long nights of the short days",
+      "location": "Native to southern Mexico; also widely grown as a holiday plant around the world",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream"
+        "Red",
+        "Pink",
+        "White",
+        "Cream"
       ],
       "emoji": "🎄",
-      "funFact": "The colorful 'petals' are actually modified leaves called bracts, and the plant needs long nights of about 12 hours of darkness for several weeks to develop its color."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with nodding, cup-shaped white flowers with golden-yellow stamens that fade to pink as they age. It thrives in partial shade and cool, humus-rich soil, and blooms when little else does in the garden.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Mountain woodlands of central and southern Europe, including the Alps and northern Apennines; cultivated in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "green"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are poisonous."
+      "funFact": "Poinsettias are short-day plants. They need long, uninterrupted nights to color up, which is why they peak naturally around Christmas."
     },
     {
       "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tree with a wide umbrella-shaped canopy and fern-like leaves. In the Southern Hemisphere summer it becomes covered in clusters of vivid orange-red flowers, each with a distinctive spotted upper petal. It is widely planted as a street and shade tree in the tropics and subtropics.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (November to January); May to July in the Northern Hemisphere tropics",
-      "location": "Native to Madagascar; widely cultivated in tropical regions including northern Australia, Brazil, and southern Africa",
+      "commonName": "Royal Poinciana",
+      "description": "A broad, umbrella-shaped tree that becomes a canopy of flame-orange and scarlet blossoms. Fern-like leaves sit beneath the flowers, and fallen petals carpet the ground. It is one of the most spectacular of all tropical flowering trees.",
+      "bloomingSeason": "Early summer in the Southern Hemisphere tropics, with main flowering usually beginning in late November or early December",
+      "location": "Tropical Queensland, Australia (native to Madagascar, widely planted in the tropics)",
       "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
+        "Orange-red",
+        "Scarlet",
+        "Yellow-white"
       ],
       "emoji": "🌺",
-      "funFact": "It is endangered in its native Madagascar, yet it is one of the most widely planted ornamental trees in the world."
+      "funFact": "In the wild in Madagascar, this tree is endangered, yet it is one of the most widely planted ornamental trees in the tropics."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like flowers. It prospers in mild, humid climates and blooms through the cool season, brightening winter gardens when most plants are dormant.",
-      "bloomingSeason": "Late autumn to early spring (December to April)",
-      "location": "Native to Japan, Korea, and eastern China; cultivated in the southeastern United States, Europe, Australia, and New Zealand",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Rounded globes of trumpet-shaped blue flowers rise on tall, slender stems above strappy, arching leaves. They sway through the midsummer heat along coastal gardens and hillsides.",
+      "bloomingSeason": "Mid to late summer, December to April in the Southern Hemisphere",
+      "location": "Eastern Cape, South Africa, where it grows wild; widely grown in gardens elsewhere",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Camellia japonica is the official flower of Alabama, and there are thousands of cultivars; in Japan it is known as tsubaki and has been celebrated for centuries."
+      "emoji": "💙",
+      "funFact": "The name Agapanthus comes from Greek words meaning 'love flower'. Despite being called a lily, it belongs to the amaryllis family."
     }
   ]
 }

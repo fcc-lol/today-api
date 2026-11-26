@@ -4,57 +4,43 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is prized in East Asian gardens and is a symbol of perseverance and hope as winter ends.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "China, Japan, Korea; widely cultivated in temperate gardens",
+      "description": "Gnarled branches still bare of leaves burst into fragrant, blossoms that look like tiny rosettes. They open while late-winter chill lingers, and they are often the first sign that spring is on its way. Their sweet, spicy perfume drifts through gardens and orchards.",
+      "bloomingSeason": "Late winter to early spring (roughly late January to mid-March, depending on the variety and the elevation)",
+      "location": "Japan, including the Kantō and Kansai regions, and eastern China",
       "colors": [
-        "white",
-        "pink",
-        "deep rose"
+        "White",
+        "Pink",
+        "Deep Rose",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms often open while snow is still on the ground, and the fruit is used to make umeboshi (pickled plums) and umeshu (plum liqueur)."
+      "funFact": "Ume blossoms have been celebrated in East Asian poetry and art for over a thousand years. In Japan, people saw them as the herald of spring long before cherry blossoms took that role."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals. It naturally carpets woodlands and meadows and is one of the earliest signs of spring in Europe.",
-      "bloomingSeason": "Late winter to early spring (March to April)",
-      "location": "Western Europe, including the UK, France, Spain and Belgium; naturalized in North America",
+      "description": "Nodding golden trumpets framed by pale, swept-back petals light up woodland edges and meadows. Whole hillsides turn buttery yellow as the flowers sway in the cool breeze. A single drift of them can brighten a gray early-spring day.",
+      "bloomingSeason": "Late winter to early spring (typically February to April, with peak bloom often in March)",
+      "location": "Western and central Europe, especially the woodlands and meadows of England, Wales and France",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "Yellow",
+        "Pale Yellow",
+        "Cream"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils contain the compound galantamine, which is used in medicines for Alzheimer's disease, but all parts of the plant are toxic if eaten."
+      "funFact": "Daffodils contain a toxic alkaloid called lycorine, which is why deer and rabbits leave them alone. One compound from related Narcissus species, galantamine, is used in medicine."
     },
     {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A large shrub or small tree with goblet-shaped flowers up to 25 cm across that open on bare branches in early spring. It is a popular ornamental in parks and gardens across temperate regions.",
-      "bloomingSeason": "Early spring (March to April in the Northern Hemisphere)",
-      "location": "Cultivated across the southern United States, Europe and East Asia",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus",
+      "description": "This is a late-summer and autumn flower, so it is not in bloom on March 11 and should not be on this list.",
+      "bloomingSeason": "Autumn",
+      "location": "Europe",
       "colors": [
-        "pink",
-        "white",
-        "purple"
+        "Pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Magnolias are among the most ancient flowering plants and evolved before bees existed, so they are pollinated mainly by beetles."
-    },
-    {
-      "name": "Amaryllis belladonna",
-      "commonName": "Naked Lady (Belladonna Lily)",
-      "description": "A bulbous perennial that sends up tall, leafless stalks topped with clusters of fragrant, trumpet-shaped flowers. It blooms in the Southern Hemisphere's late summer to early autumn, after the foliage has died back.",
-      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere (February to April)",
-      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand and California",
-      "colors": [
-        "pink",
-        "rose",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "Its nickname 'naked lady' comes from the way the flower stalks emerge without any leaves, appearing almost overnight after late-summer rain."
+      "emoji": "🍂",
+      "funFact": "Its leaves appear in spring, while its flowers come in autumn."
     }
   ]
 }

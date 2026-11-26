@@ -3,59 +3,59 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in gardens and as bonsai, and is treasured as a harbinger of spring in East Asia.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
-      "colors": [
-        "white",
-        "pink",
-        "deep red"
-      ],
-      "emoji": "🌸",
-      "funFact": "Ume blossoms bloom earlier than cherry blossoms and are a symbol of perseverance because they flower in the cold, sometimes through late snow."
-    },
-    {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers and gray-green strap-like leaves. It naturalizes in meadows and woodlands, and countless cultivars are grown in gardens across the Northern Hemisphere.",
-      "bloomingSeason": "Early to mid spring (March to April)",
-      "location": "Western Europe, especially the UK, France, and Spain; naturalized in North America",
-      "colors": [
-        "yellow",
-        "pale yellow",
-        "cream"
-      ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain lycorine and other alkaloids, which make it toxic to most animals, including deer and rodents. Galantamine, a compound from related Narcissus species, is used in Alzheimer's medication."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A large Himalayan tree that bears huge, goblet-shaped flowers up to 25 cm wide on bare branches. The blossoms are among the showiest of any temperate tree and appear before the foliage.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild gardens of the UK, New Zealand, and the US Pacific Northwest",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Gnarled, elegant branches burst into spicy-sweet, rose-pink blossoms before a single leaf appears, perfuming cool late-winter gardens and orchards with a clove-like scent.",
+      "bloomingSeason": "Late winter to early spring (roughly late January through March, depending on climate)",
+      "location": "Japan, China and Korea, plus temperate gardens worldwide",
       "colors": [
         "pink",
         "rose",
         "white"
       ],
-      "emoji": "🌺",
-      "funFact": "A magnolia seedling may take 20 to 30 years to flower for the first time. Magnolias are ancient flowering plants that evolved before bees, and are thought to have been pollinated by beetles."
+      "emoji": "🌸",
+      "funFact": "Ume blooms weeks before cherry trees and has long been the poetic herald of spring in East Asia, where its blossoms are prized for enduring late frosts."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with large, artichoke-like flower heads surrounded by showy bracts. It is adapted to nutrient-poor soils and fire-prone fynbos habitats, and is also grown as a cut flower.",
-      "bloomingSeason": "Late summer to early winter in the wild, with scattered blooms into autumn (March in the Southern Hemisphere) and in cultivation",
-      "location": "Western and Southern Cape, South Africa; cultivated in Australia, Hawaii, and California",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's magnolia",
+      "description": "A towering Himalayan tree whose bare branches are crowned with enormous, goblet-shaped flowers in vivid pink, like a cloud of tulips held aloft.",
+      "bloomingSeason": "March to May, with early flowering in the Himalayan foothills in early March",
+      "location": "Himalayan foothills of Nepal, Bhutan, northeast India and southwest China",
       "colors": [
-        "pink",
-        "cream",
-        "crimson"
+        "deep pink",
+        "rose",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "A seedling can take 20 years or more to flower for the first time, so gardeners need real patience for these spectacular blooms."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna lily, March lily",
+      "description": "Leafless stems rise from the dry late-summer ground, each topped with a cluster of fragrant, trumpet-shaped blooms in soft blush pink.",
+      "bloomingSeason": "Late summer, February to March",
+      "location": "Southwestern Cape of South Africa",
+      "colors": [
+        "blush pink",
+        "rose",
+        "white"
       ],
       "emoji": "🌷",
-      "funFact": "The king protea is the national flower of South Africa. The genus is named after the Greek god Proteus, who could change form, because of the many shapes of Protea species."
+      "funFact": "It is nicknamed the naked lady because its flowers appear after the leaves have died back, leaving the blooms standing bare on their stalks."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California poppy",
+      "description": "Silky, cup-shaped blooms in glowing orange cover hillsides and roadsides, opening in sun and folding shut on cool, cloudy days.",
+      "bloomingSeason": "Spring, with March to May as the peak bloom period in many regions",
+      "location": "California and the western United States",
+      "colors": [
+        "orange",
+        "yellow",
+        "gold"
+      ],
+      "emoji": "🌼",
+      "funFact": "It is the official state flower of California, and its petals close at night and in cool weather."
     }
   ]
 }

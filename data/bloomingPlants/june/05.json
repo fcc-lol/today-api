@@ -4,58 +4,44 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, lush, often fragrant double or single flowers atop sturdy stems with deeply lobed green foliage. It is one of the most beloved cottage garden plants and a popular cut flower.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "description": "Huge, lush, often fragrant blooms open from fat round buds, with layered petals that look like silk ruffles. Plants form lush mounds of glossy, deeply cut green leaves that set off the flowers.",
+      "bloomingSeason": "Late spring to early summer (roughly May to June in the Northern Hemisphere)",
+      "location": "Gardens across temperate North America and Europe, native to China, Mongolia and Siberia",
       "colors": [
-        "Pink",
         "White",
-        "Red",
-        "Coral"
+        "Pink",
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
+      "funFact": "Peonies can live and flower for decades, sometimes more than 50 years, in the same spot. Ants often crawl over the buds, drawn to the sweet nectar they secrete."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "A hardy, deciduous shrub with fragrant, semi-double flowers that have golden stamens at the center. It is one of the oldest cultivated roses and a parent to many modern garden roses.",
-      "bloomingSeason": "Early summer (June)",
-      "location": "Native to southern and central Europe and western Asia; grown in temperate gardens worldwide",
+      "name": "Rosa rugosa",
+      "commonName": "Beach Rose",
+      "description": "A tough, thorny shrub with crinkled, deep green leaves and wide, open, fragrant flowers. In late summer and autumn, plump, tomato-red hips follow the blooms. It thrives on windswept dunes and coastal paths.",
+      "bloomingSeason": "June through late summer, with sporadic repeat blooms into autumn",
+      "location": "Coastal dunes and gardens of the temperate Northern Hemisphere, native to East Asia",
       "colors": [
-        "Deep pink",
-        "Crimson",
-        "Purple"
+        "Magenta-pink",
+        "White"
       ],
       "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally in the Middle Ages and its petals retain fragrance when dried."
+      "funFact": "The vitamin C-rich hips of this rose have been used to make jams, teas and syrups. The shrub's salt tolerance makes it a natural dune stabilizer."
     },
     {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy wildflower forming clumps of upright stems topped with white petals radiating around a bright yellow center. It thrives in meadows, roadsides, and disturbed grasslands.",
-      "bloomingSeason": "Late spring to midsummer (May to August)",
-      "location": "Native to Europe and temperate Asia; naturalized across North America, Australia, and New Zealand",
+      "name": "Banksia integrifolia",
+      "commonName": "Coast Banksia",
+      "description": "A gnarled coastal tree crowned with upright, candle-like flower spikes. Each spike is made of hundreds of tiny, tightly packed blooms, and they glow against silvery-backed leaves. Honeyeaters and lorikeets flock to them.",
+      "bloomingSeason": "Autumn and winter in the Southern Hemisphere, including June",
+      "location": "Eastern coast of Australia, from Queensland through New South Wales to Victoria",
       "colors": [
-        "White",
-        "Yellow"
+        "Pale yellow",
+        "Lemon",
+        "Greenish-yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Oxeye daisy flower heads track the sun, and in some regions it is known as the 'Moon Daisy' because the white petals stand out at dusk."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A tall, graceful tree with fern-like leaves that is covered in clusters of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics it blooms in late spring and early summer, carpeting streets with fallen petals.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere subtropics)",
-      "location": "Native to South America; widely planted in California, Mexico, Florida, the Mediterranean, and southern Africa",
-      "colors": [
-        "Lavender",
-        "Blue",
-        "Violet"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, the city is known as the 'Jacaranda City' due to its tens of thousands of jacaranda trees, and a local superstition says a falling bloom on your head brings good luck."
+      "funFact": "After flowering, the spikes become woody cones that hold seeds. Many Banksias release those seeds in response to fire, so the plant is well adapted to regenerating after bushfires."
     }
   ]
 }

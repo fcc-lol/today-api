@@ -4,61 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with narrow silvery-green leaves and dense spikes of fragrant purple flowers held above the foliage. It is a favorite of pollinators, especially bees, and is widely grown in gardens and commercial fields for essential oil.",
-      "bloomingSeason": "Late June through August in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
+      "description": "Rolling fields of slender silver-green stems topped with fragrant violet-blue flower spikes hum with bees and perfume the warm summer air. Late June is peak season, when the countryside turns into waves of purple.",
+      "bloomingSeason": "Late June through August, peaking around late June to July in Provence",
+      "location": "Provence, southern France, and other Mediterranean-climate regions of the Northern Hemisphere",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender",
+        "Blue"
       ],
       "emoji": "💜",
-      "funFact": "The name Lavandula likely comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
+      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
       "name": "Hydrangea macrophylla",
       "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub producing large rounded clusters of showy flowers above broad, glossy, toothed leaves. It thrives in partial shade and moist, rich soil and is a classic feature of cottage and coastal gardens.",
-      "bloomingSeason": "Early summer to early autumn, peaking in late June in temperate regions",
-      "location": "Native to Japan; widely grown in Europe, the Azores, and the eastern and Pacific United States",
+      "description": "Big, cloud-like blooms burst from the shrubs in rounded mounds of petal-like sepals, brightening cottage gardens and shady corners as summer begins.",
+      "bloomingSeason": "June to August in temperate Northern Hemisphere gardens",
+      "location": "Gardens in Japan, the United Kingdom, and the eastern United States",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
+        "Blue",
+        "Pink",
+        "Purple",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
+      "funFact": "Soil chemistry can change the flower color. Acidic soil with available aluminum tends to produce blue blooms, while alkaline soil tends to produce pink ones."
     },
     {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with daisy-like flowers featuring drooping rosy-purple petals around a prominent spiky orange-brown central cone. It tolerates heat and drought and attracts bees, butterflies, and goldfinches.",
-      "bloomingSeason": "Late June to September",
-      "location": "Native to the central and eastern United States prairies and open woodlands; cultivated worldwide",
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "Star-shaped white blossoms with golden centers float on still, calm water among broad green pads. They open in the morning sun and close again by afternoon.",
+      "bloomingSeason": "June to August",
+      "location": "Lakes and slow-moving ponds across Europe, from the British Isles to the Mediterranean",
       "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "bronze"
+        "White",
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiny central cone. Indigenous peoples of the Great Plains used it medicinally for centuries."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An evergreen shrub bearing the largest flower head in the Protea genus, up to 30 cm across, with a central cluster of tiny flowers surrounded by silky pink bracts. It is adapted to nutrient-poor soils and fire-prone fynbos habitat.",
-      "bloomingSeason": "Peaks in Southern Hemisphere late autumn to spring, with flowering often occurring around June in winter-rainfall areas",
-      "location": "Native to the fynbos of the Western and Eastern Cape, South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red",
-        "silver"
-      ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of South Africa, and the national cricket team is nicknamed 'the Proteas' after it."
+      "emoji": "🪷",
+      "funFact": "The flower stalks can grow to match the depth of the water, so the blooms always float on the surface."
     }
   ]
 }

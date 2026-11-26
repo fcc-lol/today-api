@@ -2,62 +2,44 @@
   "date": "June 11",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with deeply lobed green foliage. It is a beloved cottage garden staple and can live for decades with little care.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens of North America and Europe",
-      "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
-      ],
-      "emoji": "🌸",
-      "funFact": "Peony plants can live for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not needed for the flowers to open."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen subshrub with silvery-green narrow leaves and spikes of small tubular flowers. It thrives in sunny, well-drained soils and attracts bees and butterflies in great numbers.",
-      "bloomingSeason": "Early to mid summer (June to August), beginning in southern regions in late spring",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Tasmania, and the western United States",
+      "description": "Silvery-green mounds erupt into slender spikes of fragrant violet-blue flowers. They hum with bees and scent the warm early-summer air across sunny hillsides and cottage borders.",
+      "bloomingSeason": "Late spring to midsummer, with peak bloom in June and July in the Northern Hemisphere",
+      "location": "Mediterranean-climate regions and temperate gardens of Europe, including southern France and England",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare' meaning 'to wash' because the Romans used it to scent baths."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. The Romans used it to scent their baths."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A tall, fast-growing tree with fern-like foliage that is covered in clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere it blooms in spring, while in the Northern Hemisphere it peaks in late spring to early summer.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted in California, Florida, Mexico, the Mediterranean, and Africa",
+      "name": "Rosa rugosa",
+      "commonName": "Rugosa Rose",
+      "description": "This tough, sprawling shrub has crinkled leaves and large, clove-scented blooms with silky petals. It thrives on windswept dunes and coastal paths, where flowers open from late spring and keep coming through the summer.",
+      "bloomingSeason": "Late spring through summer, with a strong flush in June",
+      "location": "Native to the coasts of northeastern Asia, and widely naturalized on the shores of North America and Europe",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Magenta-pink",
+        "White"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed the 'Jacaranda City,' and a carpet of fallen purple blossoms covers the roads."
+      "emoji": "🌹",
+      "funFact": "After the flowers fade, Rugosa roses form plump, tomato-like red hips. They are especially rich in vitamin C and are used in jams and teas."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub that produces the largest flower head in the protea family, with a bowl of pointed pink bracts surrounding a central cluster of tiny flowers. It is adapted to the nutrient-poor, fire-prone fynbos habitat.",
-      "bloomingSeason": "Late autumn to early winter in the Southern Hemisphere, with flowering from roughly May to December and peaks in early winter",
-      "location": "Native to the Western and Eastern Cape of South Africa; grown in Australia, California, and Hawaii",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "This Australian icon has a crimson flower head the size of a fist, ringed by red bracts. Honeyeaters visit it for its nectar in the bushland around Sydney.",
+      "bloomingSeason": "Spring in the Southern Hemisphere, mainly September to November",
+      "location": "Sandstone bushland of New South Wales, Australia",
       "colors": [
-        "pink",
-        "cream",
-        "silvery-white",
-        "crimson"
+        "Crimson",
+        "Red"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea is the national flower of South Africa, and its genus is named after the Greek god Proteus, who could change his shape."
+      "funFact": "What looks like one huge flower is a cluster of hundreds of tiny flowers. The name 'Telopea' comes from a Greek word meaning 'seen from afar'."
     }
   ]
 }

@@ -2,64 +2,49 @@
   "date": "May 9",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A spring-flowering bulb with cup-shaped blooms on sturdy stems above broad blue-green leaves. Late-season varieties such as Darwin hybrids and parrot tulips are at their peak in early May in cool temperate gardens.",
-      "bloomingSeason": "Mid to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, northern Europe, the northern United States, Canada, and cultivated worldwide in temperate gardens",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "Cascading chains of fragrant, pea-like flowers drape pergolas, walls and old trees in a lilac-violet curtain. The blooms open before or just as the new leaves unfurl, and bees crowd around them.",
+      "bloomingSeason": "Mid-spring, typically April to May in temperate Northern Hemisphere gardens",
+      "location": "Native to China; widely grown in gardens across Europe and the eastern United States",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
+        "Lilac",
+        "Violet",
+        "Pale blue"
       ],
-      "emoji": "🌷",
-      "funFact": "During the Dutch Golden Age in the 1630s, tulip bulbs became so valuable that a single rare bulb could cost more than a house, a episode known as Tulip Mania."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines can live for well over a century. Their twining stems tighten with age and can crush the supports they climb."
     },
     {
       "name": "Syringa vulgaris",
       "commonName": "Common Lilac",
-      "description": "A deciduous shrub producing dense, cone-shaped clusters of intensely fragrant tiny flowers. It reaches peak bloom in early to mid May across much of the cool temperate Northern Hemisphere.",
-      "bloomingSeason": "Late spring (May in most temperate regions)",
-      "location": "Native to the Balkan Peninsula; widely grown in North America, Europe, and northern Asia",
+      "description": "Dense, cone-shaped clusters of tiny four-petaled flowers release one of spring's best-loved perfumes. The shrubs reach full bloom as the weather warms, and they often announce the end of the cold season.",
+      "bloomingSeason": "Late April to late May in cool temperate regions of the Northern Hemisphere",
+      "location": "Gardens across the northeastern United States, Canada and northern Europe",
       "colors": [
-        "lilac",
-        "purple",
-        "white",
-        "pink"
+        "Lavender",
+        "Purple",
+        "White",
+        "Pink"
       ],
       "emoji": "💜",
-      "funFact": "Lilac flowers are edible and have a floral, slightly bitter flavor; they are sometimes used to make syrups, jellies, and sugar."
+      "funFact": "Lilac belongs to the olive family. Its flowers are edible and have a floral, slightly citrusy taste."
     },
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that drapes pergolas and walls with long hanging racemes of fragrant pea-like flowers. Blooms open before or as the leaves emerge, creating cascades of color.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "Native to China; naturalized and cultivated in Japan, Europe, and the eastern United States",
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "In the Southern Hemisphere's autumn, garden chrysanthemums put on a rich display of full, layered blooms. Their warm tones suit the cooling days.",
+      "bloomingSeason": "Autumn in the Southern Hemisphere, roughly March to June",
+      "location": "Gardens in southeastern Australia, New Zealand and temperate South Africa",
       "colors": [
-        "lavender",
-        "violet",
-        "blue",
-        "white"
+        "Gold",
+        "Bronze",
+        "Crimson",
+        "White",
+        "Pink"
       ],
-      "emoji": "🪻",
-      "funFact": "Wisteria vines can live for over a century, and the famous Great Wisteria in Sierra Madre, California, planted in 1894, covers more than an acre."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "Not in bloom everywhere yet, but in the Southern Hemisphere and tropics this is a spectacular tree with fern-like leaves and trumpet-shaped flowers in dense panicles. In tropical regions of the northern hemisphere such as parts of India and Florida, it flowers in May.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; planted in India, Florida, Southern California, Mexico, and Africa",
-      "colors": [
-        "blue-violet",
-        "purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In South Africa, Pretoria is known as the Jacaranda City because of the tens of thousands of trees lining its streets."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for more than 2,000 years. They are among the flowers honored in Japan's Imperial seal."
     }
   ]
 }

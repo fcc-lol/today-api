@@ -4,57 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant flowers that attract bees and butterflies. It thrives in full sun and well-drained soil and is widely grown in gardens and commercial fields.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region; widely cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "description": "Rolling rows of silvery-green shrubs turn violet-blue, with slender flower spikes that hum with bees. The warm, herbal scent drifts across the fields on summer afternoons.",
+      "bloomingSeason": "Late June to early August, with peak bloom in mid-July",
+      "location": "Provence, southeastern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare', meaning 'to wash', since the Romans scented their baths with it."
+      "funFact": "The name lavender probably comes from the Latin 'lavare', meaning 'to wash'. The Romans scented their baths with it."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This is the largest flower in the protea family. Its dinner-plate bloom is a crown of silky pink bracts around a downy center. It stands out in the cool, damp southern winter, when few other plants are in flower.",
+      "bloomingSeason": "April to October, which includes the southern hemisphere winter",
+      "location": "Fynbos region of the Western Cape, South Africa",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its genus is named after Proteus, the Greek sea god who could change shape, because the protea family has so many different forms."
     },
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and a showy flower head made of ray florets surrounding a disc of tiny fertile florets. Young flower heads track the sun across the sky.",
-      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and Argentina",
+      "description": "Towering stalks carry golden, sun-tracking flower heads. Each head is a mass of tiny florets packed in a spiral and ringed with bright petal-like rays. In midsummer, whole fields seem to glow.",
+      "bloomingSeason": "July to August in temperate northern regions",
+      "location": "Gardens and farm fields across North America and Europe",
       "colors": [
-        "yellow",
-        "golden",
-        "brown"
+        "Golden yellow",
+        "Orange",
+        "Deep brown"
       ],
       "emoji": "🌻",
-      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets, arranged in spirals that follow the Fibonacci sequence."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial that rises from muddy water with large, round, water-repellent leaves and spectacular fragrant blooms held above the surface. Seed pods that follow the flowers resemble shower heads.",
-      "bloomingSeason": "Summer (June to September in the Northern Hemisphere)",
-      "location": "Asia and northern Australia; cultivated in ponds and lakes worldwide, notably in India, China, Vietnam, and Japan",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus leaves have a micro-structured surface that causes water and dirt to roll off, a phenomenon known as the 'lotus effect' that has inspired self-cleaning materials."
-    },
-    {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower that forms dense stands with long spikes of bright magenta flowers that open from the bottom upward. It is often one of the first plants to colonize burned or cleared land.",
-      "bloomingSeason": "Mid to late summer (July to September)",
-      "location": "Northern temperate and subarctic regions, including Alaska, Canada, the Pacific Northwest, Scandinavia, and Siberia",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Locals in northern regions say that when fireweed blooms reach the top of the spike, summer is nearly over."
+      "funFact": "A sunflower head is made up of hundreds to thousands of tiny individual flowers. Their seed spirals follow Fibonacci numbers."
     }
   ]
 }

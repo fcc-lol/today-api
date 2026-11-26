@@ -2,44 +2,28 @@
   "date": "January 28",
   "holidays": [
     {
-      "name": "National Blueberry Pancake Day",
-      "description": "A day to stack up fluffy pancakes studded with juicy blueberries, drown them in syrup, and call it a perfectly reasonable breakfast, lunch, or dinner.",
-      "origin": "Like many American food days, it is an unofficial observance that grew out of food marketing and social media calendars. Blueberries became a pancake staple in the United States, where wild blueberries are native to North America.",
-      "category": "Food Day",
-      "emoji": "🥞",
-      "funFact": "Blueberries were one of the few fruits native to North America that Indigenous peoples used extensively, and the Wild Blueberry is Maine's official state berry."
-    },
-    {
-      "name": "Data Privacy Day",
-      "description": "A day dedicated to reminding everyone to stop using 'password123', read those terms and conditions at least once, and protect personal information online.",
-      "origin": "It began in Europe as Data Protection Day in 2007 to mark the anniversary of Convention 108, signed on January 28, 1981, the first legally binding international treaty on data protection. North America adopted Data Privacy Day in 2008.",
-      "category": "Awareness Day",
-      "emoji": "🔒",
-      "funFact": "Convention 108 was signed in 1981, before the public internet existed, which makes the treaty surprisingly ahead of its time."
-    },
-    {
       "name": "National Kazoo Day",
-      "description": "A buzzing, humming celebration of the humble kazoo, the only instrument where you can sound like a bumblebee with a record deal.",
-      "origin": "An informal fun observance honoring the kazoo, a membranophone that is said to have been popularized in the United States in the 1850s. The modern metal kazoo is often tied to Georgia and later to a factory in Eden, New York.",
-      "category": "Pop Culture / Music",
-      "emoji": "🎺",
-      "funFact": "The kazoo does not work by blowing air through it like a flute. You have to hum or sing into it, and the vibrating membrane changes your voice."
+      "description": "A day for buzzing, humming and honking along on the world's silliest instrument. No musical talent is required, and the kazoo works in any key you can hum. Grab one and start an office parade, a living-room marching band or a very questionable solo.",
+      "origin": "It is an unofficial observance, and its founder is unclear. The kazoo itself grew out of 19th-century American novelty instruments. It is closely tied to Georgia, where early kazoos were made.",
+      "category": "Music & Pop Culture",
+      "emoji": "🎶",
+      "funFact": "A kazoo doesn't work by blowing air through it. You hum or sing into it, and a thin membrane inside vibrates to add that buzzy sound."
     },
     {
-      "name": "National Fun at Work Day",
-      "description": "A day when employees are encouraged to lighten up, play office games, and remember that spreadsheets are only slightly less fun when you wear a silly hat.",
-      "origin": "Promoted by workplace culture and team-building advocates as an unofficial observance meant to boost morale and reduce workplace stress. It is also observed in some years as an excuse to do something silly in the break room.",
-      "category": "Unofficial Observance",
-      "emoji": "🎉",
-      "funFact": "Studies on workplace happiness have repeatedly linked employee enjoyment with higher productivity, so laughing at work can be a legit strategy."
-    },
-    {
-      "name": "Lego Day",
-      "description": "A celebration of the iconic interlocking plastic bricks that have caused millions of people to step on them barefoot and still love them anyway.",
-      "origin": "Lego Day marks the anniversary of the patent for the modern Lego brick, filed in Denmark on January 28, 1958 by Godtfred Kirk Christiansen.",
-      "category": "Pop Culture / Toys",
+      "name": "International Lego Day",
+      "description": "A celebration of the colorful plastic bricks that have launched countless castles, spaceships and painful midnight barefoot steps. Builders of all ages dig out their bins and make something new, whether it's a tiny car or an enormous tower.",
+      "origin": "The date marks the anniversary of the Lego brick patent, filed in Denmark on January 28, 1958. That design gave the bricks their famous interlocking stud-and-tube system.",
+      "category": "Pop Culture & Hobbies",
       "emoji": "🧱",
-      "funFact": "Lego bricks made today still fit with bricks made in 1958, which is why the toy is famous for its remarkable compatibility across the decades."
+      "funFact": "Lego bricks made decades ago still click together with bricks made today. That is part of why the company is so well known for compatibility."
+    },
+    {
+      "name": "National Blueberry Pancake Day",
+      "description": "A day to stack up fluffy pancakes studded with juicy blueberries and drown them in syrup. It is breakfast-for-any-meal permission, whether you use fresh berries, frozen ones or a boxed mix.",
+      "origin": "It is an unofficial observance of unclear origin. It is celebrated each year as a delicious way to brighten the middle of winter.",
+      "category": "Food & Drink",
+      "emoji": "🥞",
+      "funFact": "Blueberries are one of the few fruits native to North America. Wild blueberries were gathered and eaten by Indigenous peoples long before pancakes topped with them became a breakfast staple."
     }
   ]
 }

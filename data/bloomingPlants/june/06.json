@@ -2,60 +2,32 @@
   "date": "June 6",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial with large, fragrant, bowl-shaped to fully double flowers held above deep green, lobed foliage. It is a beloved cut flower and garden staple that thrives in cool-winter climates.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate gardens across North America and Europe",
+      "name": "Rhododendron catawbiense",
+      "commonName": "Catawba Rhododendron (Mountain Rosebay)",
+      "description": "Big rounded clusters of pink-to-purple blooms light up the evergreen shrubs on Appalachian slopes and balds. In full flower they look like waves of magenta rolling across the ridgelines.",
+      "bloomingSeason": "Late spring, from about April to June. Blooming runs from late May into June, and the high-elevation peak comes around mid-June.",
+      "location": "Southern Appalachian Mountains, USA (Virginia through Georgia, including Roan Mountain on the North Carolina–Tennessee line)",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Lilac-pink",
+        "Purple",
+        "Magenta"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live for more than 100 years, and ants visiting the flower buds feed on nectar but are not required for blooming."
+      "funFact": "This native species is one of the parents of many of the hardy rhododendron hybrids grown in cold-climate gardens. Its tolerance of cold winters is a big reason for that."
     },
     {
-      "name": "Rosa rugosa",
-      "commonName": "Beach Rose",
-      "description": "A tough, thorny deciduous shrub with wrinkled, leathery leaves and fragrant single or semi-double flowers, followed by large, edible orange-red hips rich in vitamin C. It tolerates salt spray and sandy soils.",
-      "bloomingSeason": "Late spring through summer, with peak bloom in early June",
-      "location": "Native to coastal East Asia (northern China, Japan, Korea); naturalized along North Atlantic and Baltic coasts",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest of all proteas, it has a flower head up to the size of a dinner plate. Its pink, silky-tipped bracts surround a crown of fuzzy florets. It blooms in the cool, misty Cape winter.",
+      "bloomingSeason": "Mainly winter and spring, roughly June to October in its homeland. In the Cape's cool season it is blooming around June 6.",
+      "location": "Fynbos of the Western Cape, South Africa",
       "colors": [
-        "magenta",
-        "pink",
-        "white"
+        "Pink",
+        "Cream",
+        "Silvery-white"
       ],
-      "emoji": "🌹",
-      "funFact": "Rosa rugosa is considered invasive in parts of Europe and New England because its suckering roots form dense coastal thickets."
-    },
-    {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen subshrub with silvery-gray, narrow leaves and spikes of fragrant purple flowers that attract bees and butterflies. Mediterranean-type climates with well-drained soil suit it best.",
-      "bloomingSeason": "Early to mid summer (June to August), beginning in early June in warmer areas",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria and the Pacific Northwest of the US",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name likely comes from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large, fern-leaved, semi-deciduous tree that produces dense clusters of trumpet-shaped lavender-blue flowers, carpeting streets and lawns with purple petals when they fall.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted in Southern California, Florida, Mexico, South Africa, Australia and the Mediterranean",
-      "colors": [
-        "lavender",
-        "blue-purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, the jacaranda is so abundant it is nicknamed the 'Jacaranda City', and in Mexico and parts of the US, falling blossoms are said to bring good luck."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. It belongs to an ancient plant family that dates back to the supercontinent Gondwana."
     }
   ]
 }

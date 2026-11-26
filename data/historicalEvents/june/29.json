@@ -2,39 +2,39 @@
   "date": "June 29",
   "events": [
     {
+      "year": 1534,
+      "title": "Jacques Cartier Reaches Prince Edward Island",
+      "description": "During his first voyage of exploration for France, the navigator Jacques Cartier sighted and landed on the island now known as Prince Edward Island. He is the first documented European to reach it.",
+      "category": "Exploration",
+      "significance": "Cartier's voyages underpinned France's claim to large parts of northeastern North America and opened the way to the colonization of Canada."
+    },
+    {
       "year": 1613,
-      "title": "Globe Theatre Destroyed by Fire",
-      "description": "During a performance of Henry VIII, a cannon fired as a theatrical effect ignited the thatched roof of Shakespeare's Globe Theatre in London. The wooden building burned to the ground within about two hours, reportedly with no deaths.",
+      "title": "The Globe Theatre Burns Down",
+      "description": "During a performance of Henry VIII, a stage cannon fired to herald the king's entrance ignited the thatched roof of London's Globe Theatre. The playhouse, home to Shakespeare's company, burned to the ground.",
       "category": "Arts and Culture",
-      "significance": "The loss of the playhouse associated with William Shakespeare's company is one of the most famous disasters in theatre history. The Globe was rebuilt in 1614, and a modern reconstruction opened in 1997."
+      "significance": "The fire destroyed the most famous stage of the Elizabethan and Jacobean era. The theatre was rebuilt the following year, and its story still shapes how we picture Shakespeare's world."
     },
     {
       "year": 1900,
-      "title": "Birth of Antoine de Saint-Exupéry",
-      "description": "The French writer and aviator was born in Lyon, France. He became a pioneering airmail pilot and later wrote The Little Prince (1943), along with works such as Night Flight and Wind, Sand and Stars.",
+      "title": "Antoine de Saint-Exupéry Is Born",
+      "description": "The future aviator and writer was born in Lyon, France. He drew on his experiences as a pioneering airmail pilot to write works such as Night Flight and Wind, Sand and Stars.",
       "category": "Births",
-      "significance": "The Little Prince became one of the best-selling and most translated books in history, and Saint-Exupéry's writing shaped literature about aviation, humanity, and friendship."
-    },
-    {
-      "year": 1972,
-      "title": "U.S. Supreme Court Decides Furman v. Georgia",
-      "description": "The U.S. Supreme Court ruled 5-4 that the death penalty as then administered was arbitrary and capricious, constituting cruel and unusual punishment under the Eighth and Fourteenth Amendments.",
-      "category": "Law and Politics",
-      "significance": "The decision effectively suspended capital punishment across the United States until states rewrote their statutes, leading to the 1976 Gregg v. Georgia ruling that allowed executions to resume."
-    },
-    {
-      "year": 2007,
-      "title": "First iPhone Goes on Sale",
-      "description": "Apple released the original iPhone in the United States, with customers lining up outside stores. It combined a mobile phone, a widescreen iPod, and an internet communicator with a multi-touch screen interface.",
-      "category": "Science and Technology",
-      "significance": "The iPhone transformed the mobile phone industry and helped launch the modern smartphone era, reshaping communication, media, software distribution, and daily life worldwide."
+      "significance": "He wrote The Little Prince, one of the best-selling and most translated books in history, which remains a classic of world literature."
     },
     {
       "year": 1995,
-      "title": "Space Shuttle Atlantis Docks with Mir",
-      "description": "Space Shuttle Atlantis (STS-71) docked with the Russian space station Mir, the first shuttle-Mir docking. The mission exchanged crew members and marked the start of joint U.S.-Russian operations in orbit.",
-      "category": "Space Exploration",
-      "significance": "The docking symbolized post-Cold War cooperation in space and provided experience that paved the way for the construction of the International Space Station."
+      "title": "Sampoong Department Store Collapses in Seoul",
+      "description": "The five-story Sampoong Department Store in Seoul, South Korea, collapsed completely. It remains one of the deadliest non-deliberate building collapses in modern history.",
+      "category": "Disasters",
+      "significance": "The tragedy exposed serious construction and safety failures, and it prompted South Korea to tighten its building regulations and enforcement."
+    },
+    {
+      "year": 2007,
+      "title": "The First iPhone Goes on Sale",
+      "description": "Apple's first iPhone went on sale in the United States at 6 p.m. local time, with customers lining up outside stores. It launched at $499 for the 4GB model and $599 for the 8GB model.",
+      "category": "Technology",
+      "significance": "The iPhone's touchscreen design helped define the modern smartphone and transformed how people communicate, work and use the internet."
     }
   ]
 }

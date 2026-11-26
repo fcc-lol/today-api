@@ -4,55 +4,57 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree producing fragrant, five-petaled blossoms on bare branches before the leaves emerge. It is widely cultivated in East Asian gardens and prized for ornamental and culinary use.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "description": "Fragrant, blossom-laden branches burst into flower on bare winter twigs. The blooms are delicate, five-petaled and spicy-sweet, and they often open while cold still lingers. Ume groves in Japan are a much-loved sign that spring is near.",
+      "bloomingSeason": "February to March",
+      "location": "Japan, southern China, Taiwan and Korea",
       "colors": [
-        "White",
         "Pink",
-        "Deep red"
+        "White",
+        "Rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are celebrated in Japan as harbingers of spring, and the fruit is pickled into umeboshi or made into plum wine."
+      "funFact": "The fruits of this tree are pickled in salt to make umeboshi, the tangy preserved plums that are a staple of Japanese cuisine."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes through snow and carpets woodlands and gardens.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Snowdrop",
+      "description": "Nodding white bells hang from slender stems just above the cold ground, often pushing up through frost or even snow. Drifts of snowdrops carpet woodlands, parks and churchyards and mark the first stirrings of spring.",
+      "bloomingSeason": "January to March",
+      "location": "Woodlands, parks and gardens across the United Kingdom and Europe",
       "colors": [
         "White",
         "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce galantamine, a compound used in medicine to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrop flowers are made of six white segments called tepals rather than true petals. Their flowering is now often recorded earlier than it once was, with some blooms appearing as early as December."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen Australian tree or large shrub covered in fluffy, fragrant golden flower balls. Its blooms are a vivid sight in woodlands and gardens near the end of the Southern Hemisphere summer and into autumn transitions in some areas.",
-      "bloomingSeason": "Late winter to spring in southeastern Australia, with some flowering extending from July to October",
-      "location": "Southeastern Australia (Victoria, South Australia, New South Wales)",
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna Lily (Naked Lady, March Lily)",
+      "description": "Bare, sturdy stalks shoot up from dry ground at the end of summer, each topped with a cluster of fragrant, trumpet-shaped flowers in shades of pink. The leaves only appear after the show is over, which gives the blooms a dramatic, leafless stage.",
+      "bloomingSeason": "Late summer, February to March",
+      "location": "South-western Cape, South Africa (Southern Hemisphere)",
       "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and Wattle Day is celebrated on September 1."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A spectacular Himalayan tree bearing huge, goblet-shaped flowers on bare branches. Blooms can reach 25 cm across and are borne in great profusion on mature trees.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Himalayas (Nepal, Bhutan, northeast India, southwest China); cultivated in mild temperate gardens in the UK, New Zealand and the Pacific Northwest",
-      "colors": [
-        "Pink",
-        "Rose",
+        "Pale pink",
+        "Deep pink",
         "White"
       ],
       "emoji": "🌺",
-      "funFact": "Trees may take 20 to 30 years from seed to flower for the first time, though grafted plants bloom much earlier."
+      "funFact": "This bulb flowers before its leaves emerge, a habit called hysteranthy. That habit is why it is nicknamed the naked lady."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Glossy evergreen shrubs are covered in rose-like blooms that brighten shady gardens in the last weeks of winter. Many varieties are available, with flowers ranging from simple cups to fully layered, formal forms.",
+      "bloomingSeason": "Mid-winter to spring, with many varieties peaking in late winter to early spring",
+      "location": "Mild-climate gardens in the Northern Hemisphere (USDA zones 7–9), native to East Asia",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌹",
+      "funFact": "By staggering early, mid and late-blooming varieties, gardeners can enjoy camellia flowers from November right through to April or May."
     }
   ]
 }

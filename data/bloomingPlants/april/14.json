@@ -2,24 +2,11 @@
   "date": "April 14",
   "plants": [
     {
-      "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of delicate, fragrant blossoms that appear before the leaves emerge. It is among the most widely planted flowering cherries in temperate parks and along waterways.",
-      "bloomingSeason": "Late March to mid-April in Japan's central regions and the mid-Atlantic United States; later in cooler northern areas",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide",
-      "colors": [
-        "White",
-        "Pale pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "The cherry blossom forecast is a national news event in Japan, and the trees planted around Washington D.C.'s Tidal Basin were a gift from Tokyo in 1912."
-    },
-    {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green leaves. Thousands of cultivars exist, and mid-April is peak display season in temperate gardens.",
-      "bloomingSeason": "Mid-spring, peaking in April in the Northern Hemisphere",
-      "location": "Netherlands, Turkey, Central Asia origins; cultivated across Europe and North America",
+      "description": "Ribbons of scarlet, canary yellow, blush pink and deep purple stripe the flat Dutch bulb fields. They shimmer like a painted quilt under wide spring skies. Each cup-shaped bloom opens wide in the sun and closes again at dusk.",
+      "bloomingSeason": "Late March to mid-May, usually at its best in mid-April",
+      "location": "Bulb-growing region of the Netherlands, including Keukenhof Gardens near Lisse",
       "colors": [
         "Red",
         "Yellow",
@@ -29,34 +16,35 @@
         "Orange"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, a single rare bulb could cost more than a luxurious canal house."
+      "funFact": "In the 1630s, tulip bulbs sparked 'tulip mania' in the Dutch Republic, and single bulbs sold for more than the price of a canal house."
     },
     {
-      "name": "Eschscholzia californica",
-      "commonName": "California Poppy",
-      "description": "A low-growing annual or short-lived perennial with silky, cup-shaped flowers and feathery blue-green foliage. Flowers close at night and in cloudy weather, and open in full sun.",
-      "bloomingSeason": "Early spring to early summer, with spectacular 'superblooms' in April in wet years",
-      "location": "California, Oregon, and the southwestern United States; naturalized in Chile, Australia, and Europe",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Each spring, whole hillsides and roadsides across Texas turn a rich cobalt blue. Dense spikes of pea-like flowers are tipped with a crisp white cap that fades to wine-red as the bloom ages. A light honey-sweet scent hangs over the meadows.",
+      "bloomingSeason": "Peak from late March to mid-April",
+      "location": "Central Texas and the Texas Hill Country, USA",
       "colors": [
-        "Orange",
-        "Yellow",
-        "Cream"
+        "Blue",
+        "White",
+        "Magenta"
       ],
-      "emoji": "🌼",
-      "funFact": "It is the official state flower of California, and its blooms carpet entire hillsides like the Antelope Valley in spring."
+      "emoji": "💙",
+      "funFact": "The white tip on each flower turns reddish-purple after pollination. This signals to bees that the flower no longer has nectar to give."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large semi-deciduous tree producing masses of trumpet-shaped lavender-blue flowers in panicles, with fern-like foliage. In the Southern Hemisphere it is mostly a spring bloomer, but in some tropical and subtropical areas flowering can occur at varied times.",
-      "bloomingSeason": "Tropical and subtropical regions flower variably from spring through early summer; some trees bloom in April in warm northern locations such as parts of India",
-      "location": "Native to South America (Argentina, Bolivia); cultivated in India, Africa, Australia, and the southern U.S.",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "This vigorous twining vine drapes fences, pergolas and tree limbs in long, fragrant, hanging clusters of violet flowers. The blooms open before the feathery leaves fully unfurl, so the display looks like a lavender waterfall.",
+      "bloomingSeason": "April to May",
+      "location": "Gardens and woodland edges of the eastern United States, such as Virginia, and its native China",
       "colors": [
+        "Violet",
         "Lavender",
-        "Violet-blue"
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in Pretoria, South Africa, the tree is so abundant the city is nicknamed 'Jacaranda City'."
+      "funFact": "Wisteria vines twine and can grow strong enough to crush wooden structures. Chinese wisteria is also invasive in parts of North America, where it can smother native trees."
     }
   ]
 }

@@ -2,62 +2,48 @@
   "date": "November 14",
   "plants": [
     {
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Jacaranda",
+      "description": "Trees covered in clouds of trumpet-shaped lavender-blue flowers. The blossoms carpet streets and gardens in violet as they fall.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere, roughly October to December",
+      "location": "Pretoria, South Africa, and across southern Africa, Australia and South America",
+      "colors": [
+        "Lavender",
+        "Violet",
+        "Blue-purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Jacaranda is native to South America but is now planted in warm regions worldwide. Pretoria is nicknamed the Jacaranda City because of its tens of thousands of trees."
+    },
+    {
       "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A bushy perennial with dense, layered flower heads in a huge range of forms, from pompons to spiders. It is one of the last garden flowers to bloom in the Northern Hemisphere and tolerates light frost. Flowering is triggered by the shortening days of autumn.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; originated in China and widely grown in Japan, Europe and North America",
+      "commonName": "Garden Chrysanthemum",
+      "description": "A classic autumn favorite with dense, layered pompons and spidery petals. Its blooms keep a garden colorful when most other flowers have faded.",
+      "bloomingSeason": "Autumn in the Northern Hemisphere, typically September to November",
+      "location": "Japan, where the flowers are celebrated in autumn chrysanthemum festivals, and temperate gardens across the Northern Hemisphere",
       "colors": [
         "Yellow",
         "White",
         "Bronze",
-        "Purple",
         "Pink",
-        "Red"
+        "Purple"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums are the national flower of Japan, and the Chrysanthemum Throne is the name of the Japanese imperial seat. In Chinese culture they are one of the Four Noble Plants."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, semi-deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers. When the blooms fall, they carpet streets and gardens in purple. In the Southern Hemisphere it is at its peak in the spring.",
-      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina and Brazil",
-      "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, and the city is nicknamed the Jacaranda City. In parts of Australia, a flower falling on your head is said to bring good luck."
+      "funFact": "Chrysanthemums are short-day plants. They set buds only when nights grow long enough, which is why they bloom in autumn."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers. Unlike the related Camellia japonica, it blooms in autumn and early winter, brightening gardens when little else is in flower. It is a valuable late-season nectar source for pollinators.",
-      "bloomingSeason": "Autumn to early winter (October to January in the Northern Hemisphere)",
-      "location": "Native to southern Japan; widely cultivated in the southeastern United States, Europe and Australia",
+      "description": "A glossy-leaved evergreen shrub that opens delicate, lightly fragrant flowers with golden stamens in the cool days of late autumn. The blooms often drop petals in soft drifts beneath the plant.",
+      "bloomingSeason": "Autumn to early winter, roughly October to December",
+      "location": "Southern Japan, its native range, and mild-climate gardens such as the southeastern United States",
       "colors": [
         "White",
         "Pink",
         "Rose-red"
       ],
-      "emoji": "🌸",
-      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to produce a cooking and cosmetic oil."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub bearing the largest flower head of any protea, a bowl-shaped crown of stiff pink bracts surrounding a center of fuzzy flowers. It grows in the fynbos and is adapted to nutrient-poor soils and periodic fires. The flowers are long-lasting and popular as cut flowers.",
-      "bloomingSeason": "Spring to early summer (September to December in the Southern Hemisphere)",
-      "location": "Native to the Western Cape and Eastern Cape of South Africa",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Red"
-      ],
       "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and the family Proteaceae is named after Proteus, the shape-shifting Greek sea god, because of its great diversity of forms."
+      "funFact": "Its seeds are pressed to make camellia oil, which has long been used in Japan for cooking and hair care. Sasanqua is also a close relative of the tea plant."
     }
   ]
 }

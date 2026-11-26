@@ -2,60 +2,47 @@
   "date": "January 13",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that bloom in the cool season. It is widely cultivated in gardens and also grows wild in woodlands.",
-      "bloomingSeason": "Late autumn to early spring (peak in winter)",
-      "location": "Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "Glossy evergreen shrubs covered in silky, open-faced blooms with golden stamens at the center. Their petals soften the gray of midwinter, and they draw in early pollinators on mild days. The shrubs are popular in gardens, hedges and temple grounds.",
+      "bloomingSeason": "Autumn through early winter, typically October to January, with some cultivars lasting into January",
+      "location": "Gardens in Japan, the southeastern United States and other mild temperate regions of the Northern Hemisphere",
       "colors": [
-        "red",
-        "pink",
-        "white"
+        "White",
+        "Pink",
+        "Rose-red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make camellia oil, which is used in cooking and in cosmetics."
+    },
+    {
+      "name": "Hamamelis species",
+      "commonName": "Witch Hazel",
+      "description": "Bare winter branches burst into clusters of spidery, ribbon-like petals that crinkle and curl like confetti. The flowers carry a spicy, sweet fragrance that drifts across frosty gardens. It is a welcome sight in the quietest part of the year.",
+      "bloomingSeason": "Mid to late winter, with most species flowering from January to March",
+      "location": "Temperate gardens and woodlands of Britain, Europe and North America",
+      "colors": [
+        "Yellow",
+        "Orange",
+        "Red"
+      ],
+      "emoji": "🌼",
+      "funFact": "Witch hazel flowers curl their petals tightly into little coils during hard frosts and unfurl again when the weather warms, which protects them through freezing nights."
+    },
+    {
+      "name": "Corymbia ficifolia",
+      "commonName": "Red-flowering Gum",
+      "description": "A compact eucalypt that turns into a blaze of color in summer. Huge clusters of fluffy, filament-covered flowers cover the crown. Nectar-seeking honeyeaters and bees swarm the blooms, and the tree is a favorite for streets and gardens.",
+      "bloomingSeason": "Summer into autumn, with flowering recorded from January to May and some in September",
+      "location": "Native to the southwest of Western Australia, and widely planted in cooler coastal southern Australia",
+      "colors": [
+        "Red",
+        "Orange",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true tea, and camellia seed oil has been used in East Asia for centuries for cooking and hair care."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens that emerge in the depths of winter, often pushing through snow. It prefers shaded, calcareous woodland soils.",
-      "bloomingSeason": "Midwinter to early spring",
-      "location": "Mountain woodlands of the Alps and northern Apennines in Europe; cultivated in temperate gardens in the Northern Hemisphere",
-      "colors": [
-        "white",
-        "pale pink"
-      ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, it is not a true rose; it belongs to the buttercup family, and all parts of the plant are toxic."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tree with fern-like leaves and spectacular clusters of large flame-colored flowers. In the Southern Hemisphere summer, it puts on a fiery display.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the tropics during the dry season",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including northern Australia, Brazil, and southern Africa",
-      "colors": [
-        "red",
-        "orange",
-        "yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "This species is endangered in its native Madagascar even though it is one of the most commonly planted ornamental trees in the world."
-    },
-    {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial producing tall, hollow stalks topped by large trumpet-shaped flowers. Native plants flower in the tropical summer, while potted bulbs are forced to bloom indoors in northern winters.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; summer in the Southern Hemisphere",
-      "location": "Native to Central and South America and the Caribbean; grown worldwide as a houseplant",
-      "colors": [
-        "red",
-        "orange",
-        "white",
-        "pink"
-      ],
-      "emoji": "🌷",
-      "funFact": "Hippeastrum is often mistakenly called amaryllis, but the true Amaryllis genus is a different group native to South Africa."
+      "funFact": "This tree is native to only a small patch of Western Australia near Walpole, yet it is now planted in cities across the world for its spectacular summer flowers."
     }
   ]
 }

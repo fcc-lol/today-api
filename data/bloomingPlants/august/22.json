@@ -2,62 +2,46 @@
   "date": "August 22",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and a big flower head made of golden ray florets surrounding a dark central disc packed with tiny florets that develop into seeds. Young flower heads track the sun across the sky. It is grown as a garden ornamental and a major oilseed crop.",
-      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; widely cultivated in the United States, Ukraine, Russia, Argentina, and Europe",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scottish ling)",
+      "description": "Wild moorlands in the Scottish Highlands turn into rolling carpets of pink-purple. Each wiry stem is covered in tiny bell-shaped blossoms. Bees swarm over them, and the hills hum in the late-summer light.",
+      "bloomingSeason": "Late July through September, peaking in mid-August to early September",
+      "location": "Highland moors and heathlands of Scotland and northern Europe",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "deep red",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west during the day (heliotropism), but mature flowers stop moving and generally face east."
-    },
-    {
-      "name": "Hydrangea paniculata",
-      "commonName": "Panicle Hydrangea",
-      "description": "A hardy deciduous shrub that produces large cone-shaped flower clusters. The blooms open creamy white and often age to pink or burgundy as late summer progresses, giving a changing display well into autumn.",
-      "bloomingSeason": "Mid-summer to fall",
-      "location": "Native to China, Japan, and Sakhalin; widely grown in temperate gardens in North America and Europe",
-      "colors": [
-        "white",
-        "cream",
-        "pink",
-        "burgundy"
+        "Pink",
+        "Purple",
+        "Lavender",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Unlike bigleaf hydrangeas, panicle hydrangeas bloom on new wood, so they reliably flower even after harsh winters, and their color does not depend on soil pH."
+      "funFact": "Heather honey is prized for its thick, jelly-like texture. It is so gel-like that it must be pressed out of the comb instead of spun."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower of meadows, roadsides, and field edges, bearing dense plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects preparing for autumn.",
-      "bloomingSeason": "Late summer to fall (August to October)",
-      "location": "Native to northern and central North America; naturalized in Europe and Asia",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden wattle",
+      "description": "Australia's national floral emblem bursts into clouds of fluffy, fragrant golden pom-poms. They light up bushland at the end of winter. The branches look as if they are dusted with sunshine.",
+      "bloomingSeason": "Late winter to spring, roughly July to October, with a strong August–September display",
+      "location": "Southeastern Australia, including South Australia, Victoria and New South Wales",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
+      "funFact": "Australia celebrates National Wattle Day on September 1, and the golden wattle's green and gold colors are the country's official national colors."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An evergreen shrub with the largest flower head in the Protea genus, a bowl-shaped bloom of pointed pink bracts surrounding a center of pale, downy flowers. It thrives in the fynbos habitat on nutrient-poor, well-drained soils.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (peak around August to November, with some flowering through the year)",
-      "location": "Native to the Western and Eastern Cape of South Africa; cultivated in Australia, California, and Hawaii",
+      "name": "Helianthus annuus",
+      "commonName": "Common sunflower",
+      "description": "Tall, sun-chasing stems carry broad golden-rayed faces with dark, seed-packed centers. Fields and gardens across the Northern Hemisphere glow with them in late summer. Goldfinches and bees crowd the heads.",
+      "bloomingSeason": "Summer into early autumn, commonly July through September",
+      "location": "Native to North America; blooming in the Great Plains of the United States and in gardens and fields across the Northern Hemisphere",
       "colors": [
-        "pink",
-        "cream",
-        "silvery white",
-        "crimson"
+        "Golden yellow",
+        "Orange",
+        "Brown",
+        "Burgundy"
       ],
-      "emoji": "🌺",
-      "funFact": "The King Protea is South Africa's national flower, and the plant has adapted to wildfires with thick underground stems that resprout after burns."
+      "emoji": "🌻",
+      "funFact": "What looks like one giant flower is really a head of hundreds of tiny individual florets. The seeds form in a spiral pattern that follows the Fibonacci sequence."
     }
   ]
 }

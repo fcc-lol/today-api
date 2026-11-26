@@ -3,59 +3,31 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that bears fragrant, five-petaled blossoms on bare branches in the last weeks of winter. It is widely cultivated in ornamental gardens and orchards and is often celebrated at ume festivals.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "East Asia, especially Japan, China, and Korea",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare, dark branches come alive with small, spicy-sweet blossoms in blush pink, rose and white. The flowers open before the leaves, and their perfume drifts across gardens and shrines while the air is still cold. Visitors flock to ume groves to see them.",
+      "bloomingSeason": "Mid-winter to early spring, usually January through March, with peak bloom in February and early March",
+      "location": "Japan, where ume groves and plum festivals are at their best in late February",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "Pink",
+        "White",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are valued as a symbol of perseverance because they bloom while snow and cold can still linger, and the fruit is used to make umeshu liqueur and pickled umeboshi."
+      "funFact": "Ume flowers open weeks before cherry blossoms. In East Asia they are a symbol of perseverance and the first hint of spring. The same trees produce the sour fruit used for umeboshi pickles and plum wine."
     },
     {
-      "name": "Hamamelis x intermedia",
-      "commonName": "Witch Hazel",
-      "description": "A spreading deciduous shrub whose spidery, ribbon-like petals appear on bare stems in winter and persist into early spring. Many cultivars have a spicy, sweet fragrance and some show good autumn foliage color.",
-      "bloomingSeason": "Winter to early spring (December to March)",
-      "location": "Temperate gardens of Europe and North America",
+      "name": "Agapanthus praecox",
+      "commonName": "Agapanthus (African lily, lily of the Nile)",
+      "description": "Tall, bare stems hold round clusters of trumpet-shaped flowers in blue and violet. They rise above arching, strap-like leaves like fireworks frozen in midair. Councils plant them along streets and in public gardens, where they bloom through the summer months.",
+      "bloomingSeason": "Summer, which in the Southern Hemisphere runs from December to February",
+      "location": "Australia, in gardens and public plantings, where late February is the end of the summer flowering season",
       "colors": [
-        "yellow",
-        "orange",
-        "copper-red"
-      ],
-      "emoji": "🌼",
-      "funFact": "The petals curl up tightly in freezing weather to protect themselves and then unfurl again when temperatures rise."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large evergreen shrub producing the biggest flower heads in the Protea genus, with a bowl of showy pink bracts surrounding a central cluster of tiny flowers. It is adapted to nutrient-poor, fire-prone fynbos habitats.",
-      "bloomingSeason": "Late summer to early autumn in the Southern Hemisphere, with flowering from late summer into autumn (February to May) in some populations",
-      "location": "Western and Southern Cape, South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of South Africa, and its flower heads can reach about 30 cm (12 in) across."
-    },
-    {
-      "name": "Crocus tommasinianus",
-      "commonName": "Woodland Crocus (Tommasini's Crocus)",
-      "description": "A small corm-forming perennial that produces goblet-shaped flowers and thin grassy leaves. It naturalizes readily in lawns and woodland, forming drifts of color as the winter fades.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "Native to the Balkans; naturalized across Europe and cultivated in North American gardens",
-      "colors": [
-        "lilac",
-        "pale purple",
-        "silvery mauve"
+        "Blue",
+        "Violet",
+        "White"
       ],
       "emoji": "💜",
-      "funFact": "Its flowers open only in sunshine and are a vital early nectar and pollen source for bees emerging from winter."
+      "funFact": "Despite the common name, agapanthus is not a true lily. It is native to southern Africa, and its name comes from Greek words meaning 'love flower'. It is so hardy that it has escaped from Australian gardens and now grows wild in some bushland."
     }
   ]
 }

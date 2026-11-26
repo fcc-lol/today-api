@@ -2,60 +2,46 @@
   "date": "July 28",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with slender spikes of small, fragrant flowers above silvery-green, narrow foliage. It is widely grown in gardens and commercial fields and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Early to late summer, peaking in July in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; widely cultivated in Provence (France), England, Tasmania, and the United States",
+      "name": "Echinacea purpurea",
+      "commonName": "Purple coneflower",
+      "description": "Tall stems carry broad daisy-like blooms. Drooping rose-purple petals surround a spiky, copper-orange central cone. In the summer prairie, bees and butterflies crowd onto the flowers, and goldfinches come later for the seeds.",
+      "bloomingSeason": "Early July to mid-August, so July 28 falls within the season",
+      "location": "Tallgrass prairies and woodland edges of the central and eastern United States, such as Iowa",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
-      ],
-      "emoji": "💜",
-      "funFact": "The name comes from the Latin 'lavare' meaning 'to wash', as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals around a dark central disc packed with seeds. Young flower heads track the sun across the sky.",
-      "bloomingSeason": "Mid-summer to early autumn",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and the Great Plains of the United States",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The sunflower head is actually composed of thousands of tiny individual flowers arranged in a Fibonacci spiral pattern."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round leaves that repel water and striking, fragrant flowers held above the water surface on tall stalks. It thrives in warm, shallow ponds and wetlands.",
-      "bloomingSeason": "Summer, typically June through September",
-      "location": "Native to Asia and northern Australia; grown in ponds throughout India, China, Japan, Vietnam, and the southern United States",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for over a thousand years; seeds roughly 1,300 years old have been successfully germinated."
-    },
-    {
-      "name": "Eucalyptus caesia",
-      "commonName": "Silver Princess Gumtree",
-      "description": "A graceful, weeping mallee eucalypt with silvery-white powdery bark and showy clusters of large flowers that attract nectar-feeding birds. It is a rare tree native to granite outcrops.",
-      "bloomingSeason": "Late autumn to winter and into spring in the Southern Hemisphere, with flowering often starting in late July",
-      "location": "Western Australia, on granite outcrops near Wheatbelt region; grown in gardens in Australia",
-      "colors": [
-        "pink",
-        "red",
-        "pale yellow"
+        "Purple",
+        "Pink",
+        "Orange"
       ],
       "emoji": "🌸",
-      "funFact": "Its flowers have no true petals; the colorful display comes from masses of fluffy stamens."
+      "funFact": "The spiky central cone is a dense cluster of tiny true flowers. The petal-like rays around it are separate ray florets."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English lavender",
+      "description": "Silvery-green mounds send up slender spikes of tiny violet-blue flowers. On warm days they fill the fields of Provence with a sweet, herbal scent, and the rows look like purple corduroy rolling across the hills.",
+      "bloomingSeason": "Mid-June to late August, with peak bloom in July, so it is still flowering on July 28",
+      "location": "Provence, southern France",
+      "colors": [
+        "Violet",
+        "Blue",
+        "Lilac"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender takes its name from the Latin 'lavare', meaning 'to wash'. Romans used it to scent baths and laundry."
+    },
+    {
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "The largest of all the proteas, it has a goblet-sized flower head. Its crown of pink, silky-tipped bracts surrounds a fuzzy center. It blooms in the middle of the Southern Hemisphere winter, among the fynbos of the Cape.",
+      "bloomingSeason": "Mainly winter and spring, June to October, so July 28 is within the season",
+      "location": "Fynbos shrublands of the Western and Eastern Cape, South Africa, including the Kirstenbosch gardens in Cape Town",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Rose-red"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is South Africa's national flower. Its thick underground stem lets it survive the wildfires that regularly sweep the fynbos."
     }
   ]
 }

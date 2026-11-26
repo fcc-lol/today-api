@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1703,
-      "title": "Founding of Saint Petersburg",
-      "description": "Tsar Peter the Great founded Saint Petersburg on the Neva River, building the Peter and Paul Fortress on Hare Island during the Great Northern War.",
+      "title": "Peter the Great Founds Saint Petersburg",
+      "description": "During the Great Northern War, Tsar Peter I founded a new city on the Neva River, on land recently taken from Sweden. He meant it to be Russia's 'window on the West'.",
       "category": "Founding",
-      "significance": "The city became the capital of the Russian Empire for two centuries and symbolized Peter's drive to modernize Russia and open it to Europe."
+      "significance": "Saint Petersburg became the Russian capital and a center of art, politics and trade. It shaped Russia's turn toward Europe."
     },
     {
-      "year": 1883,
-      "title": "Birth of the Brooklyn Bridge Opening Week Context",
-      "description": "Not used",
-      "category": "Placeholder",
-      "significance": "Not used"
+      "year": 1905,
+      "title": "Battle of Tsushima Begins",
+      "description": "In the Russo-Japanese War, Japan's fleet engaged the Russian Baltic Fleet in the Tsushima Strait. The Russian fleet had sailed halfway around the world to get there.",
+      "category": "Military",
+      "significance": "Japan's decisive naval victory stunned the world. It showed that an Asian power could defeat a European one, and it hastened the end of the war."
+    },
+    {
+      "year": 1923,
+      "title": "Birth of Henry Kissinger",
+      "description": "Henry Kissinger was born in Germany. He later emigrated to the United States and became a Harvard scholar. He served as National Security Advisor and Secretary of State.",
+      "category": "Birth",
+      "significance": "Kissinger was a leading figure in Cold War diplomacy, including the opening to China and détente with the Soviet Union."
     },
     {
       "year": 1937,
       "title": "Golden Gate Bridge Opens to Pedestrians",
-      "description": "The Golden Gate Bridge in San Francisco opened to pedestrian traffic on this day, with vehicle traffic beginning the following day.",
-      "category": "Engineering",
-      "significance": "At the time it was the longest suspension bridge main span in the world and became an enduring symbol of San Francisco and American engineering."
-    },
-    {
-      "year": 1942,
-      "title": "Operation Anthropoid: Attack on Reinhard Heydrich",
-      "description": "Czechoslovak resistance fighters Jozef Gabčík and Jan Kubiš, trained in Britain, attacked SS official Reinhard Heydrich in Prague. He died of his wounds on June 4.",
-      "category": "World War II",
-      "significance": "Heydrich was a chief architect of the Holocaust. Nazi reprisals included the destruction of the villages of Lidice and Ležáky."
-    },
-    {
-      "year": 1964,
-      "title": "Death of Jawaharlal Nehru",
-      "description": "Jawaharlal Nehru, the first Prime Minister of independent India, died in New Delhi after serving since 1947.",
-      "category": "Death",
-      "significance": "His death ended the leadership of a key figure of the Indian independence movement and the Non-Aligned Movement, ushering in a transition to Lal Bahadur Shastri."
+      "description": "The suspension bridge linking San Francisco with Marin County opened to the public. It was the longest main span in the world at the time.",
+      "category": "Milestone",
+      "significance": "The bridge became one of the most recognized landmarks in the world and a symbol of American engineering."
     }
   ]
 }

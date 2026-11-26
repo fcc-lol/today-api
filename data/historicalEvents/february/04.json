@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1789,
-      "title": "George Washington Elected First U.S. President",
-      "description": "The Electoral College met and unanimously elected George Washington as the first President of the United States, with John Adams receiving the second-highest number of votes and becoming Vice President.",
+      "title": "Washington Elected First U.S. President",
+      "description": "The U.S. Electoral College met and unanimously chose George Washington as the first President of the United States. He received every electoral vote cast.",
       "category": "Politics",
-      "significance": "Established the executive leadership of the new federal government under the U.S. Constitution and set precedents for the American presidency."
+      "significance": "Washington's unanimous election gave the new federal government early legitimacy. His conduct in office set precedents that later presidents followed."
+    },
+    {
+      "year": 1794,
+      "title": "France Abolishes Slavery",
+      "description": "The French revolutionary legislature, the National Convention, voted to abolish slavery throughout all French territories. The decree applied to colonies such as Saint-Domingue.",
+      "category": "Human Rights",
+      "significance": "It was one of the first abolitions of slavery by a major colonial power. Napoleon reinstated slavery in 1802, so the abolition did not last."
+    },
+    {
+      "year": 1913,
+      "title": "Birth of Rosa Parks",
+      "description": "Rosa Louise McCauley was born in Tuskegee, Alabama. She later became known by her married name, Rosa Parks.",
+      "category": "Birth",
+      "significance": "Parks' refusal to give up her bus seat in 1955 helped spark the Montgomery Bus Boycott. She became one of the best-known figures of the American civil rights movement."
     },
     {
       "year": 1945,
-      "title": "Yalta Conference Begins",
-      "description": "Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin met at Yalta in Crimea to discuss the postwar reorganization of Germany and Europe as World War II neared its end.",
+      "title": "Yalta Conference Opens",
+      "description": "Winston Churchill, Franklin D. Roosevelt and Joseph Stalin met at the Livadia Palace in Crimea. They discussed how to end World War II and how to reorganize postwar Europe.",
       "category": "War and Diplomacy",
-      "significance": "The agreements reached shaped postwar Europe, influenced the formation of the United Nations, and set the stage for Cold War divisions."
-    },
-    {
-      "year": 1948,
-      "title": "Ceylon Gains Independence from Britain",
-      "description": "Ceylon, now Sri Lanka, became an independent dominion within the British Commonwealth, ending over a century of British colonial rule.",
-      "category": "Independence",
-      "significance": "It was part of the broader postwar wave of decolonization in Asia and marked the birth of modern Sri Lanka as a sovereign nation."
-    },
-    {
-      "year": 1974,
-      "title": "Patty Hearst Kidnapped",
-      "description": "Newspaper heiress Patricia Hearst was abducted from her Berkeley, California apartment by the Symbionese Liberation Army, and later participated in the group's crimes.",
-      "category": "Crime",
-      "significance": "The case drew enormous media attention and raised lasting debates about coercion, radicalization, and criminal responsibility."
+      "significance": "The agreements reached at Yalta shaped the postwar order in Europe. They also became a source of Cold War controversy over the division of the continent."
     },
     {
       "year": 2004,
-      "title": "Facebook Launched",
-      "description": "Mark Zuckerberg, with fellow Harvard students, launched Thefacebook, a social networking website initially limited to Harvard University students.",
+      "title": "Facebook Launches",
+      "description": "Harvard sophomore Mark Zuckerberg launched a social network called TheFacebook from his dorm room. It was initially open only to Harvard students.",
       "category": "Technology",
-      "significance": "It grew into one of the world's largest social media platforms, transforming communication, media, politics, and commerce globally."
+      "significance": "It grew into one of the world's largest social platforms, with billions of users. It changed how people communicate, share news and organize socially."
     }
   ]
 }

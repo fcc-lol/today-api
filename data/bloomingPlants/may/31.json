@@ -4,58 +4,43 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to fully double blooms atop sturdy stems with glossy, deeply lobed foliage. It is a beloved cottage garden staple and a classic cut flower.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens across North America, Europe, and Asia",
+      "description": "Enormous, ruffled, fragrant blooms unfold in silky layers of blush, rose and cream. Each flower can look like a spun-sugar confection on a sturdy, glossy-leaved plant. These blooms are a late-spring showpiece in cottage gardens.",
+      "bloomingSeason": "Late spring to early summer, typically May to June",
+      "location": "Temperate gardens of North America and Europe, native to northern China and Siberia",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Pink",
+        "White",
+        "Crimson",
+        "Cream"
       ],
       "emoji": "🌸",
-      "funFact": "Peony plants can live for over 100 years, and ants are often seen on the buds feeding on nectar, though they are not required for blooming."
+      "funFact": "Peonies are long-lived perennials. A single plant can flower for decades, and some are said to have thrived for 50 years or more in the same spot."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "One of the oldest cultivated roses, forming a compact, suckering shrub with fragrant, semi-double to double flowers and golden stamens. It is the ancestor of many old garden roses.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to southern and central Europe and western Asia; cultivated in temperate gardens worldwide",
+      "name": "Rosa canina",
+      "commonName": "Dog Rose",
+      "description": "Arching, thorny stems spill over hedgerows and woodland edges. They are covered in delicate, five-petaled flowers with a soft honeyed scent and a golden heart of stamens. In autumn the blooms give way to bright red hips.",
+      "bloomingSeason": "Late spring to midsummer, peaking from late May to June",
+      "location": "Hedgerows and scrubland across the United Kingdom and Europe",
       "colors": [
-        "deep pink",
-        "crimson",
-        "purple"
+        "Pale pink",
+        "White"
       ],
       "emoji": "🌹",
-      "funFact": "Dried petals of Rosa gallica 'Officinalis' retain their fragrance for years, which is why it was long used in medicine and perfumery as the Apothecary's Rose."
+      "funFact": "The vitamin C-rich hips were gathered in Britain during World War II to make rose-hip syrup, when imported citrus fruit was scarce."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing tropical to subtropical tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they fall.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America; widely planted in Pretoria (South Africa), California, Mexico, Florida, and the Mediterranean",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A fiery crimson flower head the size of a fist rises from a ring of red bracts. The head is made of hundreds of tiny individual flowers and stands out against the dark bushland of the sandstone ridges around Sydney.",
+      "bloomingSeason": "Spring in the Southern Hemisphere, mainly September to November, so it is not in bloom on May 31",
+      "location": "Sydney region, New South Wales, Australia",
       "colors": [
-        "lavender",
-        "violet-blue"
+        "Crimson",
+        "Red"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, nicknamed the Jacaranda City, there are tens of thousands of jacaranda trees lining the streets."
-    },
-    {
-      "name": "Banksia serrata",
-      "commonName": "Saw Banksia",
-      "description": "A gnarled, hardy Australian tree or shrub with serrated leathery leaves and tall, cylindrical flower spikes made of thousands of tiny flowers, which attract nectar-feeding birds and mammals. In the Southern Hemisphere it blooms in autumn and winter.",
-      "bloomingSeason": "Late summer through winter, with peak flowering in autumn (March to June in the Southern Hemisphere)",
-      "location": "Eastern Australia, from Queensland to Victoria and Tasmania, mostly in sandy coastal heath and woodland",
-      "colors": [
-        "yellow",
-        "gold",
-        "green-yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Banksia seed cones, called follicles, often stay sealed until fire passes, which triggers them to open and release seeds onto the nutrient-rich ash."
+      "emoji": "🌺",
+      "funFact": "The waratah is the floral emblem of New South Wales. Its flowers produce abundant nectar that attracts honeyeater birds."
     }
   ]
 }

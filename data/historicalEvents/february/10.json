@@ -2,39 +2,32 @@
   "date": "February 10",
   "events": [
     {
+      "year": 1258,
+      "title": "Baghdad Surrenders to the Mongols",
+      "description": "After a siege by the army of Hulegu Khan, the last Abbasid caliph surrendered Baghdad. The Mongols then sacked the city, and hundreds of thousands of people were killed.",
+      "category": "Conflict",
+      "significance": "The fall of Baghdad ended the Abbasid Caliphate's rule and marked the end of the city's golden age as the center of the Islamic world."
+    },
+    {
       "year": 1763,
       "title": "Treaty of Paris Ends the Seven Years' War",
-      "description": "Great Britain, France, and Spain signed the Treaty of Paris, formally ending the Seven Years' War (known in North America as the French and Indian War). France ceded Canada and territories east of the Mississippi River to Britain, and Spain received Louisiana west of the Mississippi from France.",
-      "category": "Politics and Diplomacy",
-      "significance": "The treaty reshaped the global balance of power, establishing Britain as the dominant colonial power and setting the stage for tensions with American colonists that led to the American Revolution."
+      "description": "Britain, France and Spain signed the Treaty of Paris. It ended the French and Indian War, and France gave Quebec and most of its North American territory to Britain.",
+      "category": "Politics",
+      "significance": "The treaty reshaped the map of North America and made Britain the dominant colonial power there. It also set the stage for tensions that led to the American Revolution."
     },
     {
       "year": 1840,
       "title": "Queen Victoria Marries Prince Albert",
-      "description": "Queen Victoria of the United Kingdom married her first cousin, Prince Albert of Saxe-Coburg and Gotha, in a ceremony at the Chapel Royal, St James's Palace, London.",
+      "description": "Queen Victoria married her cousin, Prince Albert of Saxe-Coburg and Gotha, in a ceremony at the Chapel Royal in St James's Palace, London.",
       "category": "Royalty",
-      "significance": "The marriage produced nine children who married into royal families across Europe, and Albert became an influential figure in promoting science, the arts, and industry, including the Great Exhibition of 1851."
+      "significance": "The marriage was a famously devoted partnership. Albert became an influential adviser to the Queen and helped shape the monarchy and Victorian-era Britain."
     },
     {
       "year": 1996,
-      "title": "Deep Blue Defeats Garry Kasparov in a Chess Game",
-      "description": "IBM's Deep Blue supercomputer defeated world chess champion Garry Kasparov in the first game of their six-game match in Philadelphia, the first time a computer won a game against a reigning world champion under standard tournament conditions. Kasparov went on to win the match 4-2.",
+      "title": "Deep Blue Defeats Garry Kasparov",
+      "description": "IBM's Deep Blue supercomputer beat world chess champion Garry Kasparov in the first game of their match in Philadelphia. It was the first time a computer had won a game against a reigning world champion under standard tournament conditions.",
       "category": "Science and Technology",
-      "significance": "The game was a landmark in artificial intelligence, foreshadowing Deep Blue's 1997 rematch victory and changing public perceptions of machine intelligence."
-    },
-    {
-      "year": 1967,
-      "title": "25th Amendment Ratified",
-      "description": "The 25th Amendment to the United States Constitution was ratified, establishing procedures for presidential succession and addressing situations in which a president becomes disabled or unable to fulfill the duties of office. It also provides a process for filling a vacancy in the vice presidency.",
-      "category": "Law and Government",
-      "significance": "The amendment clarified the line of succession after the assassination of John F. Kennedy and has been invoked in several instances, including after the resignations of Spiro Agnew and Richard Nixon."
-    },
-    {
-      "year": 1923,
-      "title": "Discovery of X-ray Pioneer Wilhelm Röntgen's Death",
-      "description": "Wilhelm Conrad Röntgen, the German physicist who discovered X-rays in 1895 and received the first Nobel Prize in Physics in 1901, died in Munich at the age of 77.",
-      "category": "Deaths",
-      "significance": "Röntgen's discovery revolutionized medicine and physics by enabling non-invasive imaging of the human body, and it laid groundwork for modern radiology and atomic physics."
+      "significance": "The win was a landmark moment for artificial intelligence. It prompted a public debate about the abilities of machines and foreshadowed Deep Blue's full match victory in 1997."
     }
   ]
 }

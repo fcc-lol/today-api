@@ -4,56 +4,43 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter. It is widely cultivated in Japan, China, and Korea, and ume plum festivals draw large crowds at this time of year.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "East Asia (China, Japan, Korea); cultivated in temperate gardens worldwide",
+      "description": "Gnarled, leafless branches burst into fragrant blossoms with a sweet, spicy perfume. They open while frost and even snow are still on the ground. In Japan, ume are loved as the first heralds of spring.",
+      "bloomingSeason": "Late winter to early spring, typically late January through March, with peak bloom in February in milder parts of Japan",
+      "location": "Japan, including the Kanto and Kansai regions such as Mito and Kyoto",
       "colors": [
         "White",
         "Pink",
-        "Deep red"
+        "Deep Red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom in the cold, often while snow is still on the ground."
+      "funFact": "Ume blooms weeks before cherry blossoms, and the fruit is pickled into umeboshi, a staple of Japanese cuisine."
     },
     {
       "name": "Galanthus nivalis",
       "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It often pushes through snow and carpets woodlands and gardens in the Northern Hemisphere's late winter.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, naturalized in the UK and North America",
+      "description": "Nodding, bell-shaped white flowers with delicate green markings rise on slender stems from the cold earth. They carpet woodlands and gardens in drifts. They are among the first flowers to appear after winter.",
+      "bloomingSeason": "Late winter, generally January to March, with peak bloom often in February",
+      "location": "Woodlands and gardens across the United Kingdom and western and central Europe",
       "colors": [
         "White",
         "Green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce galantamine, a compound used in medications to treat symptoms of Alzheimer's disease."
+      "funFact": "Snowdrops produce natural antifreeze-like proteins that help them push through frozen soil, and the plant is the original source of the medicine galantamine."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, a small tree or large shrub with fluffy, ball-shaped, fragrant golden flower clusters and sickle-shaped phyllodes. Some wattles bloom from late winter, and in the Southern Hemisphere summer many other natives are also flowering.",
-      "bloomingSeason": "Late winter to spring (July to October); some Acacia species flower in other months",
-      "location": "Southeastern Australia",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Rounded umbels of trumpet-shaped blue flowers sit on tall, sturdy stems above arching, strap-like leaves. In summer gardens they create a bold, cool-toned display. Bees and butterflies visit them often.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December through February or March",
+      "location": "Coastal gardens in eastern South Africa and across Australia and New Zealand, where it is widely grown",
       "colors": [
-        "Golden yellow"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the green and gold of the national sporting colors come from wattle."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that open in the cooler months. It thrives in mild, humid climates and is popular in gardens in the southeastern United States, Japan, and western Europe.",
-      "bloomingSeason": "Winter to early spring (December to April)",
-      "location": "Japan, Korea, China; cultivated in the southern US, UK, and Mediterranean regions",
-      "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Variegated"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant used to make tea."
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. Its name comes from Greek words meaning love flower."
     }
   ]
 }

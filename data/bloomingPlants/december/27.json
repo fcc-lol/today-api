@@ -2,61 +2,33 @@
   "date": "December 27",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with nodding, saucer-shaped white flowers that often take on a pink blush as they age. Its leathery, dark green leaves stay attractive through winter, and it thrives in cool, shaded woodland conditions.",
-      "bloomingSeason": "Early winter to early spring (December to March in the Northern Hemisphere)",
-      "location": "Mountain woodlands of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "In the Australian summer, this shrub of the eastern bush puts on a festive show. Tiny cream flowers open in airy clusters. Their petals fade, and the sepals swell and turn a brilliant crimson. The whole plant looks as if it has been decorated for the holidays.",
+      "bloomingSeason": "Flowers appear in November and December. The red sepals stay colorful until about February.",
+      "location": "Coastal and mountain bushland of New South Wales, Australia, and in gardens across the region",
       "colors": [
-        "white",
-        "pale pink",
-        "green"
+        "cream",
+        "crimson",
+        "red"
       ],
-      "emoji": "🌹",
-      "funFact": "Despite its common name, it is not a rose but a member of the buttercup family. Its flowers can push up through snow, and all parts of the plant are toxic."
+      "emoji": "🎄",
+      "funFact": "The 'flower' you see at Christmas is mostly the enlarged calyx, which turns red after the small white petals drop. Australians cut branches for holiday decorations, so the plant has become a southern-hemisphere Christmas tradition."
     },
     {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial bearing large, trumpet-shaped flowers on tall, sturdy stalks. Wild and cultivated forms bloom during the warm southern summer, and potted bulbs are forced to flower indoors in the Northern Hemisphere around the holidays.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in the Northern Hemisphere in winter",
-      "location": "Native to tropical Americas and the Caribbean; cultivated worldwide, with flowering outdoors in South America, Australia and southern Africa at this time",
+      "name": "Euphorbia pulcherrima",
+      "commonName": "Poinsettia",
+      "description": "In the wild, poinsettia is a tall, leggy shrub or small tree that can reach 3–4 meters. At the tips of its branches it carries bursts of scarlet leaf-like bracts. These surround tiny yellow-green true flowers. The result is a blaze of color in the winter dry season.",
+      "bloomingSeason": "The wild shrubs bloom in December, in the northern-hemisphere winter.",
+      "location": "Native to Mexico and Central America, and grown worldwide as a holiday plant",
       "colors": [
-        "red",
-        "orange",
+        "scarlet red",
+        "yellow-green",
         "pink",
-        "white"
+        "cream"
       ],
       "emoji": "🌺",
-      "funFact": "Amaryllis bulbs can bloom within 4 to 6 weeks of planting and may rebloom for decades with proper care. The flower stalks can grow several inches in a single day."
-    },
-    {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A glossy-leaved evergreen shrub or small tree with rose-like, layered blossoms. Early-season cultivars begin opening in late autumn and continue through winter, brightening gardens when little else is in flower.",
-      "bloomingSeason": "Late autumn through early spring (December to April in many regions)",
-      "location": "Native to Japan, Korea and eastern China; grown in the southeastern United States, Mediterranean Europe, the Pacific Northwest and other mild-winter regions",
-      "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
-      ],
-      "emoji": "🌸",
-      "funFact": "The tea plant, Camellia sinensis, is a close relative. In Japan, camellias have long been associated with samurai culture and are admired for their flowers falling intact."
-    },
-    {
-      "name": "Nuytsia floribunda",
-      "commonName": "Western Australian Christmas Tree",
-      "description": "A remarkable tree that becomes covered in brilliant orange flower clusters at the height of the southern summer. In full bloom, the whole canopy appears to glow, and the display is among the most dramatic of Australia's native flora.",
-      "bloomingSeason": "Late spring to midsummer in the Southern Hemisphere (November to January)",
-      "location": "Southwestern Western Australia, in sandy soils and woodland areas",
-      "colors": [
-        "orange",
-        "golden yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "It is the world's largest parasitic plant, tapping the roots of nearby plants for water and nutrients. Its roots can reportedly cut through buried cables when mistaking them for roots."
+      "funFact": "The bright red 'petals' are modified leaves called bracts. The true flowers are the small yellow clusters (cyathia) at their center. The Aztecs called the plant cuetlaxochitl and used it for dye and traditional medicine."
     }
   ]
 }

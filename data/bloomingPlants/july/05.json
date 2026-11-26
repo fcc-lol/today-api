@@ -3,62 +3,45 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray, narrow leaves and dense spikes of fragrant purple flowers that attract bees and butterflies. Widely grown in gardens and commercial fields for essential oil production.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
+      "commonName": "English lavender",
+      "description": "Rolling rows of silvery-green shrubs turn into ribbons of violet-blue. The slender flower spikes hum with bees and give off a sweet, herbal perfume that carries across the countryside.",
+      "bloomingSeason": "Late June to early August, with peak bloom around mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the Romans added it to their bathwater, which gave the plant its name from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, bright flower head made up of yellow ray florets surrounding a dark disk of tiny seed-producing florets. Early varieties begin flowering in early July.",
-      "bloomingSeason": "Early summer to early fall (July to September)",
-      "location": "Native to North America; cultivated widely in Ukraine, Russia, Argentina, and the United States",
-      "colors": [
-        "yellow",
-        "orange",
-        "brown",
-        "burgundy"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun from east to west during the day (heliotropism), but mature flowers stop moving and face east."
-    },
-    {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy flowers. Flower color varies with soil acidity: acidic soils produce blue blooms, while alkaline soils produce pink ones.",
-      "bloomingSeason": "Early summer to early fall (June to September)",
-      "location": "Native to Japan; grown in temperate gardens in Europe, North America, and the Azores",
-      "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "💠",
-      "funFact": "Aluminum availability in acidic soil is what turns the flowers blue, so gardeners can change the bloom color by adjusting soil pH."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
       "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An evergreen shrub with the largest flower heads in the Protea genus, up to 30 cm across, with pink-tipped bracts surrounding a central cone. In the Southern Hemisphere, it blooms in winter and spring, with some flowering in the cool months.",
-      "bloomingSeason": "Late winter to spring in South Africa, with scattered blooms from autumn to early spring (about May to November)",
-      "location": "Fynbos region of the Western Cape, South Africa",
+      "commonName": "King protea",
+      "description": "The largest of all the proteas, with a dinner-plate-sized flower head. Its crown of silky-tipped pink bracts surrounds a core of tiny true flowers. It blooms on rocky fynbos hillsides in the middle of the southern winter.",
+      "bloomingSeason": "Mainly winter and spring, June to October",
+      "location": "Western Cape fynbos, South Africa (for example around Cape Town)",
       "colors": [
-        "pink",
-        "cream",
-        "silver-white",
-        "crimson"
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
       ],
       "emoji": "🌺",
-      "funFact": "King Protea is South Africa's national flower and is one of the oldest flowering plants, with a lineage dating back about 300 million years."
+      "funFact": "It is South Africa's national flower. The plant belongs to an ancient family that dates back to the supercontinent Gondwana. Its thick underground stems help it regrow after wildfires."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred lotus",
+      "description": "Large, cupped, fragrant flowers rise on tall stems above round, water-repellent leaves. They open at dawn over the still water of ponds and paddies, and are a classic sight of high summer in temperate Asia.",
+      "bloomingSeason": "Summer, from around June or July through August",
+      "location": "Ponds and wetlands across temperate East Asia, including Japan and China",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic waxy texture that makes water bead up and roll off, carrying dirt with it. Scientists call this the 'lotus effect' and have copied it in self-cleaning coatings."
     }
   ]
 }

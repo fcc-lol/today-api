@@ -4,60 +4,47 @@
     {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on upright stems, available in a vast range of colors and forms. In temperate Northern Hemisphere gardens, mid to late April is peak tulip season, and entire fields and public parks burst into color.",
-      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
-      "location": "Cultivated worldwide in temperate regions; famous displays in the Netherlands, Turkey, and the northern United States; native to Central Asia",
+      "description": "Cup-shaped blooms stand on sturdy stems in bold rows across the Dutch bulb fields. They turn the countryside into ribbons of saturated color. Tulips are at or near their peak in the last third of April.",
+      "bloomingSeason": "Mid-April to early May in the Netherlands, with peak color in late April",
+      "location": "Lisse and the Bollenstreek bulb region, Netherlands",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
       ],
       "emoji": "🌷",
-      "funFact": "During the 17th-century Dutch 'Tulip Mania', single bulbs sold for more than the price of a luxury canal house, making it one of the first recorded speculative bubbles."
+      "funFact": "In the 1630s, tulip bulbs were so prized in the Netherlands that single bulbs reportedly sold for more than a skilled craftsman earned in a year."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Bare branches and even trunks are covered in clusters of magenta-pink, pea-like flowers before the heart-shaped leaves unfold. It is a classic sign of spring in woodlands and gardens. In much of the eastern United States, bloom runs through April.",
+      "bloomingSeason": "Late March to late April, depending on latitude",
+      "location": "Eastern and central United States, including the Appalachian foothills and mid-Atlantic woodlands",
+      "colors": [
+        "Magenta",
+        "Pink",
+        "Lavender"
+      ],
+      "emoji": "🌸",
+      "funFact": "Redbud flowers are edible and have a slightly tangy taste. The tree is in the pea family, and its flowers can grow straight from the trunk, a trait called cauliflory."
     },
     {
       "name": "Prunus serrulata",
       "commonName": "Japanese Flowering Cherry",
-      "description": "A deciduous ornamental tree covered in clouds of pink to white blossoms before or alongside new leaves. Late-blooming cultivars such as 'Kanzan' peak around late April, after the early Yoshino cherries have finished, particularly in cooler climates and higher elevations.",
-      "bloomingSeason": "Early to late spring (late April for late-flowering cultivars and northern or high-elevation areas)",
-      "location": "Native to Japan, Korea, and China; widely planted in Japan's northern regions such as Hokkaido, in Europe, and in North America",
+      "description": "Bright pink blossoms fill the branches in delicate clusters. In cooler northern Japan, the season arrives later than in Tokyo or Kyoto. Parks there fill with picnickers.",
+      "bloomingSeason": "Late April to early May in Hokkaido and northern Tohoku, after earlier blooms farther south",
+      "location": "Northern Honshu (Tohoku) and Hokkaido, Japan",
       "colors": [
-        "pink",
-        "white"
+        "Pale pink",
+        "White",
+        "Deep pink"
       ],
       "emoji": "🌸",
-      "funFact": "Cherry blossoms are central to the Japanese custom of hanami, flower viewing, a tradition that goes back over a thousand years."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall subtropical tree producing masses of trumpet-shaped lavender-blue flowers in panicles. In parts of South Africa such as Pretoria and in some tropical highland areas, and in certain northern-hemisphere subtropics, flowering begins in spring, while in the Southern Hemisphere autumn some trees can have sporadic flowering.",
-      "bloomingSeason": "Spring in the tropics and subtropics (varies by hemisphere; sporadic bloom around April in some regions)",
-      "location": "Native to South America (Argentina, Bolivia); planted in Africa, Australia, and the southern US",
-      "colors": [
-        "lavender",
-        "blue",
-        "purple"
-      ],
-      "emoji": "💜",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because tens of thousands of these trees line its streets and carpet them in purple petals."
-    },
-    {
-      "name": "Hyacinthoides non-scripta",
-      "commonName": "English Bluebell",
-      "description": "A bulbous woodland perennial producing nodding, bell-shaped, fragrant flowers on one side of an arching stem. Ancient woodlands in the British Isles become carpeted with blue as the bluebells reach their peak in late April.",
-      "bloomingSeason": "Mid-April to May",
-      "location": "Native to Western Europe, especially the United Kingdom, Ireland, France, and Spain; found in ancient woodlands",
-      "colors": [
-        "violet-blue",
-        "white",
-        "pink"
-      ],
-      "emoji": "🔔",
-      "funFact": "The United Kingdom holds around half of the world's bluebell population, and it is illegal to dig up wild bluebells there."
+      "funFact": "The Japanese tradition of hanami, or flower viewing, dates back more than a thousand years. Forecasters now track the cherry blossom front as it moves north across the country."
     }
   ]
 }

@@ -4,60 +4,46 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped double or single blooms atop sturdy stems with deeply lobed glossy green foliage. A beloved cottage garden staple that can live for decades.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China and Siberia; widely cultivated in temperate gardens across North America and Europe",
+      "description": "Plump, ruffled blooms open from fat buds and fill the air with a sweet, rosy perfume. The flowers sit above glossy, deeply cut leaves. Each plant puts on a lavish show in the late-spring garden.",
+      "bloomingSeason": "Mid to late spring (roughly May to early June in the Northern Hemisphere)",
+      "location": "Temperate gardens of the Northern Hemisphere, including the American Midwest and northern Europe; native to northern China and Siberia",
       "colors": [
-        "Pink",
         "White",
-        "Red",
-        "Coral"
+        "Pink",
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 100 years, and ants visiting the buds are harmless and do not need to be removed for the flowers to open."
+      "funFact": "Peonies are long-lived perennials. A well-sited clump can bloom for decades, and some have outlasted the gardeners who planted them."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "A deciduous shrub with fragrant, semi-double to double flowers and prickly stems. One of the oldest cultivated roses, it forms dense thickets and has been the parent of many garden varieties.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Central and southern Europe, and western Asia; cultivated worldwide in temperate gardens",
+      "name": "Rhododendron ponticum",
+      "commonName": "Common Rhododendron",
+      "description": "Dome-shaped clusters of bell-like lilac-pink flowers, freckled with golden-brown spots, light up dark evergreen foliage. In full bloom, whole woodland slopes look washed in purple.",
+      "bloomingSeason": "May to June",
+      "location": "Woodlands and estates across the British Isles, where it is widely naturalised; native to the Iberian Peninsula, the Black Sea region and the Caucasus",
       "colors": [
-        "Deep pink",
-        "Crimson",
-        "Purple"
+        "Lilac",
+        "Purple-pink",
+        "Mauve"
+      ],
+      "emoji": "🌺",
+      "funFact": "Brought to Britain as an ornamental in the 18th century, it now spreads so aggressively that it is treated as an invasive species in many woodlands."
+    },
+    {
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "A graceful, airy shrub whose silky, open flowers brighten the cool days of the Southern Hemisphere autumn. Golden stamens crown petals in white, pink and deep red. Petals often drift to the ground like confetti.",
+      "bloomingSeason": "Late autumn to early winter (late May falls in the Southern Hemisphere autumn)",
+      "location": "Gardens across southern Australia; native to Japan and China",
+      "colors": [
+        "White",
+        "Pink",
+        "Red",
+        "Variegated"
       ],
       "emoji": "🌹",
-      "funFact": "Dried petals of Rosa gallica 'Officinalis' keep their fragrance for years, which is why it was used by medieval apothecaries in Provins, France."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tropical and subtropical tree with fern-like leaves that erupts in massive clusters of trumpet-shaped lavender-blue flowers, carpeting the ground beneath the canopy with purple petals.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); September to November in parts of the Southern Hemisphere",
-      "location": "Native to South America; planted in Los Angeles, Mexico, South Africa, Australia and the Mediterranean",
-      "colors": [
-        "Lavender",
-        "Purple",
-        "Blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, the thousands of jacaranda trees lining the streets earned it the nickname 'Jacaranda City'."
-    },
-    {
-      "name": "Delphinium elatum",
-      "commonName": "Larkspur / Candle Delphinium",
-      "description": "A towering perennial with dense spikes of flowers up to 2 meters tall. Each spike is packed with individual blooms, often with a contrasting central 'bee' of petals.",
-      "bloomingSeason": "Late spring to midsummer (May to July)",
-      "location": "Alpine meadows of Europe and Siberia; popular in temperate English-style gardens",
-      "colors": [
-        "Blue",
-        "Purple",
-        "White",
-        "Pink"
-      ],
-      "emoji": "🪻",
-      "funFact": "All parts of delphiniums are toxic to humans and livestock, yet their flower spikes are among the most prized in cut-flower arrangements."
+      "funFact": "This is one of the earliest camellias to flower. Its blooms arrive when most other garden shrubs are winding down for the year."
     }
   ]
 }

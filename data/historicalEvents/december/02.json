@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1804,
-      "title": "Napoleon Bonaparte Crowned Emperor of the French",
-      "description": "At Notre-Dame Cathedral in Paris, Napoleon crowned himself emperor in a ceremony attended by Pope Pius VII, then crowned his wife Joséphine as empress. Taking the crown from the Pope's hands and placing it on his own head symbolized that his power derived from himself rather than the Church.",
+      "title": "Napoleon Crowns Himself Emperor",
+      "description": "In a lavish ceremony at Notre Dame Cathedral in Paris, Napoleon Bonaparte crowned himself Emperor of the French. He took the crown from the pope's hands and placed it on his own head.",
       "category": "Politics",
-      "significance": "Marked the formal transition from the French Republic to the First French Empire and ushered in the Napoleonic era, which reshaped European politics, law, and warfare."
+      "significance": "The coronation sealed Napoleon's transformation from revolutionary general to hereditary monarch and set the stage for a decade of European war."
+    },
+    {
+      "year": 1805,
+      "title": "Battle of Austerlitz",
+      "description": "Exactly one year after his coronation, Napoleon's French army defeated a larger Russian and Austrian force in Moravia. Many consider it his greatest tactical victory.",
+      "category": "Military",
+      "significance": "The win broke up the Third Coalition against France and led to the end of the Holy Roman Empire. It made Napoleon the dominant power in continental Europe."
     },
     {
       "year": 1823,
-      "title": "President James Monroe Announces the Monroe Doctrine",
-      "description": "In his annual message to Congress, President James Monroe declared that the Western Hemisphere was closed to further European colonization and that US would view European interference in the Americas as hostile acts. In return, the US pledged not to interfere in European affairs or existing colonies.",
+      "title": "The Monroe Doctrine Is Announced",
+      "description": "In his annual message to Congress, President James Monroe warned European powers against any new colonization or interference in the Americas. In return, he pledged that the United States would stay out of European conflicts.",
       "category": "Politics",
-      "significance": "Became a cornerstone of US foreign policy for nearly two centuries, shaping American relations with Latin America and Europe."
+      "significance": "The doctrine became a cornerstone of U.S. foreign policy for the next two centuries."
     },
     {
       "year": 1859,
-      "title": "Abolitionist John Brown Executed",
-      "description": "John Brown was hanged in Charles Town, Virginia, after being convicted of treason, murder, and inciting a slave insurrection following his October 1859 raid on the federal armory at Harpers Ferry.",
+      "title": "John Brown Is Hanged",
+      "description": "Abolitionist John Brown was hanged in Virginia for his raid on the federal arsenal at Harpers Ferry, which he had led in October of that year.",
       "category": "Politics",
-      "significance": "Brown's execution deepened the sectional divide between North and South and made him a martyr for abolitionists, helping set the stage for the American Civil War."
-    },
-    {
-      "year": 1942,
-      "title": "First Controlled Nuclear Chain Reaction",
-      "description": "A team led by Enrico Fermi achieved the first self-sustaining, controlled nuclear chain reaction in Chicago Pile-1, a reactor built beneath the stands of Stagg Field at the University of Chicago, as part of the Manhattan Project.",
-      "category": "Science",
-      "significance": "Demonstrated the feasibility of harnessing nuclear energy, paving the way for both nuclear weapons and nuclear power."
+      "significance": "Brown's execution deepened the divide between North and South and made him a martyr to many abolitionists. It helped push the nation toward the Civil War."
     },
     {
       "year": 1982,
-      "title": "First Permanent Artificial Heart Implanted",
-      "description": "Surgeons at the University of Utah led by William DeVries implanted the Jarvik-7 artificial heart into retired dentist Barney Clark, who survived 112 days with the device.",
-      "category": "Medicine",
-      "significance": "A landmark in cardiac medicine that advanced research into mechanical circulatory support and later heart-assist technologies."
+      "title": "First Permanent Artificial Heart Implant",
+      "description": "At the University of Utah, retired dentist Barney Clark became the first person to receive a permanent artificial heart.",
+      "category": "Science and Medicine",
+      "significance": "The operation was a landmark in cardiac surgery. It paved the way for later mechanical heart technologies."
     }
   ]
 }

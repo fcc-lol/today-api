@@ -2,59 +2,44 @@
   "date": "September 23",
   "plants": [
     {
+      "name": "Crocus sativus",
+      "commonName": "Saffron Crocus",
+      "description": "Delicate lilac goblets streaked with violet veins open at dawn. Each one holds three crimson threads, the stigmas that become saffron, the world's most prized spice. Whole fields turn a soft purple for a few short weeks.",
+      "bloomingSeason": "Mid-October to November in most regions, with early flowers appearing in late September in cooler or higher-elevation areas",
+      "location": "Mediterranean Europe and Southwest Asia, including Spain's La Mancha and Iran's Khorasan region",
+      "colors": [
+        "Lilac",
+        "Purple",
+        "Crimson"
+      ],
+      "emoji": "🌸",
+      "funFact": "It takes roughly 150 flowers to yield just one gram of dried saffron, and every stigma is picked by hand."
+    },
+    {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped pinkish-lilac flowers in autumn with no leaves present. The strap-like leaves appear the following spring and die back by summer. All parts are highly toxic due to colchicine.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to Europe from Ireland to the Balkans; widely cultivated in temperate gardens in North America and Asia",
+      "description": "Pale pink-lilac, chalice-shaped blooms push straight out of bare ground in damp meadows and woodland edges. They appear with no leaves, which gives them the nickname 'naked ladies'. The leaves come up the following spring.",
+      "bloomingSeason": "Late August to October",
+      "location": "Meadows and open woodlands across Central and Western Europe, including the UK, Germany and Switzerland",
       "colors": [
         "Pale pink",
         "Lilac",
-        "Purple"
+        "Soft purple"
       ],
       "emoji": "🌷",
-      "funFact": "Because flowers appear without leaves, it is nicknamed 'naked ladies'. Colchicine from this plant is used in medicine to treat gout and in plant breeding to induce polyploidy."
+      "funFact": "Despite the name, it is not a true crocus. It is highly toxic, but its compound colchicine is also used in medicine and in plant breeding."
     },
     {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust North American wildflower that forms dense clumps topped with masses of daisy-like flowers with yellow centers. It thrives in meadows, roadsides, and wet prairies and is a crucial late-season nectar source.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern and central North America, from Canada to Alabama; cultivated worldwide",
+      "name": "Solidago canadensis",
+      "commonName": "Canada Goldenrod",
+      "description": "Tall plumes of tiny golden flowers arch above roadsides, prairies and field edges, and bees and butterflies crowd them in the last warm days of the season. Whole hillsides look as if they have been dusted with sunlight.",
+      "bloomingSeason": "Late July to October, peaking in September",
+      "location": "Eastern and central North America, from the Great Lakes to the Northeast United States and southern Canada",
       "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Yellow center"
+        "Golden yellow"
       ],
-      "emoji": "💜",
-      "funFact": "Migrating monarch butterflies depend heavily on its nectar to fuel their long journey to Mexico around the autumn equinox."
-    },
-    {
-      "name": "Prunus campanulata",
-      "commonName": "Taiwan Cherry (Bell-flowered Cherry)",
-      "description": "Not typical for this date in the north, but in the Southern Hemisphere's spring, many flowering trees such as Jacaranda mimosifolia begin to bloom. Jacaranda is a tropical to subtropical tree with fern-like leaves and clusters of trumpet-shaped lavender-blue flowers that carpet streets.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America; widely planted in Australia, South Africa, and Argentina",
-      "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🌸",
-      "funFact": "Jacaranda blooms in Pretoria, South Africa, are so famous that the city is nicknamed 'Jacaranda City'. Note: the scientific name for this entry is Jacaranda mimosifolia, not Prunus campanulata."
-    },
-    {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A striking bulbous perennial with spidery, bright red flowers with long curved stamens that emerge on bare stalks in early autumn. Leaves appear after the flowers fade and persist through winter.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to China, Korea and Japan; naturalized in the southeastern United States",
-      "colors": [
-        "Red",
-        "Crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "In Japan it is called higanbana, since it blooms around the autumn equinox holiday of Higan, and is often seen along rice paddies and cemeteries."
+      "emoji": "🌼",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and is carried by insects. The usual culprit is ragweed, which blooms at the same time."
     }
   ]
 }

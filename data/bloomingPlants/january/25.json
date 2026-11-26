@@ -2,58 +2,46 @@
   "date": "January 25",
   "plants": [
     {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms that unfurl against dark, leathery leaves. In mild winter gardens they bring rich color to the coldest weeks of the year.",
+      "bloomingSeason": "Late winter to early spring, with peak bloom from January through March in mild climates",
+      "location": "Japan, the southeastern United States and other mild temperate regions",
+      "colors": [
+        "Red",
+        "Pink",
+        "White"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative of the Japanese camellia, is the plant that gives us tea."
+    },
+    {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that flowers on bare branches in the depths of winter, producing fragrant blossoms. It is widely cultivated in Japan, China, and Korea and is prized in gardens and bonsai. The flowers are followed by sour fruits used for pickling and liqueur.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "East Asia (China, Japan, Korea); cultivated in temperate gardens worldwide",
+      "commonName": "Chinese Plum (Ume)",
+      "description": "A winter-flowering tree that opens fragrant blossoms on bare branches, sometimes while snow is still on the ground. Its sweet, spicy perfume drifts through gardens in the depths of winter.",
+      "bloomingSeason": "Mid-winter to early spring, usually January through March",
+      "location": "China, Japan and Korea, including the plum groves of East Asia",
       "colors": [
         "White",
         "Pink",
         "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance and hope in East Asian culture because they bloom while snow may still be on the ground."
+      "funFact": "In East Asian culture the plum blossom stands for perseverance, because it blooms in the cold before the other trees."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A large deciduous shrub with spidery, ribbon-like petals that bloom on leafless branches in winter. The flowers have a strong, sweet spicy fragrance and tolerate frost by curling up in the cold and unfurling again when it warms.",
-      "bloomingSeason": "Winter (December to February)",
-      "location": "Central and eastern China; cultivated in temperate gardens in Europe and North America",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Tall stems carry round clusters of trumpet-shaped flowers above arching, strap-like leaves. Each head looks like a small firework of blue.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December through February",
+      "location": "Eastern South Africa, and gardens in Australia and New Zealand",
       "colors": [
-        "Yellow",
-        "Gold",
-        "Orange"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel petals curl into tight spirals during freezing weather to protect themselves, then relax again once temperatures rise."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad-canopied tropical tree that produces spectacular clusters of large flowers. In parts of the Southern Hemisphere, such as Australia and southern Africa, it blooms in the summer heat, making a striking display against its fern-like foliage.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); other tropical regions at different times",
-      "location": "Native to Madagascar; widely planted in Australia, southern Africa, South America, and tropical regions",
-      "colors": [
-        "Scarlet",
-        "Orange-red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The royal poinciana is native to Madagascar but is now endangered in the wild, even though it is one of the most commonly planted ornamental trees in the tropics."
-    },
-    {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial whose nodding white flowers push up through snow and frozen ground. In mild parts of Britain, Europe, and the Pacific Northwest, snowdrops are often in full bloom by late January, carpeting woodlands and gardens.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe and southwest Asia; naturalized in the UK and North America",
-      "colors": [
-        "White",
-        "Green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "emoji": "💙",
+      "funFact": "Its name comes from the Greek words for love and flower, though it is not a true lily."
     }
   ]
 }

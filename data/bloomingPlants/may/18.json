@@ -4,59 +4,45 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to double flowers atop sturdy stems with deeply lobed dark green foliage. A beloved cut flower and garden staple in temperate climates.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated across temperate North America, Europe, and Asia",
+      "description": "Great ruffled blooms open from plump buds. Their silky petals hold a sweet, rosy fragrance. Gardeners treasure them for flowers the size of saucers, which sway over glossy, deeply cut leaves.",
+      "bloomingSeason": "Late spring, typically May to early June in the Northern Hemisphere",
+      "location": "Temperate gardens across North America and Europe, native to China, Mongolia and Siberia",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Pink",
+        "White",
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 100 years, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
+      "funFact": "Peonies can live and flower for more than 50 years in the same spot. Many gardeners are surprised to find they dislike being moved."
+    },
+    {
+      "name": "Rosa banksiae",
+      "commonName": "Lady Banks' Rose",
+      "description": "A vigorous, thornless climbing rose that can drape whole walls and porches in cascading clusters of tiny, softly scented blossoms. In full flower it looks like a waterfall of butter-yellow or snowy white.",
+      "bloomingSeason": "Spring, generally April to May in mild climates",
+      "location": "Native to China, widely grown in the southern United States and Mediterranean-climate gardens",
+      "colors": [
+        "Yellow",
+        "White"
+      ],
+      "emoji": "🌼",
+      "funFact": "A Lady Banks' rose planted in Tombstone, Arizona, in the 1880s is often described as the largest rose bush in the world. It spreads over a vast arbor."
     },
     {
       "name": "Syringa vulgaris",
       "commonName": "Common Lilac",
-      "description": "A deciduous shrub with dense, conical clusters of intensely fragrant tubular flowers and heart-shaped leaves. Peak bloom in many northern regions occurs in mid-May.",
-      "bloomingSeason": "Mid to late spring (April to late May depending on latitude)",
-      "location": "Native to the Balkan Peninsula in southeastern Europe; cultivated throughout cool temperate regions of North America, Europe, and northern Asia",
+      "description": "Dense, cone-shaped clusters of tiny, star-shaped flowers perfume the air with one of spring's most beloved scents. The shrubs light up cool-climate gardens and old farmhouse hedgerows.",
+      "bloomingSeason": "Mid to late spring, usually May in cool temperate regions of the Northern Hemisphere",
+      "location": "Gardens in northern Europe, the northern United States and Canada, native to the Balkans",
       "colors": [
-        "purple",
-        "lavender",
-        "white",
-        "pink"
+        "Lilac",
+        "Purple",
+        "White",
+        "Pink"
       ],
       "emoji": "💜",
-      "funFact": "Lilac is in the olive family (Oleaceae), making it a relative of jasmine and ash trees, and its scent is a classic ingredient in perfumery."
-    },
-    {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small understory tree whose pea-like magenta-pink flowers burst directly from bare branches and trunks, followed by heart-shaped leaves. In cooler northern parts of its range, blooms can linger into mid-May.",
-      "bloomingSeason": "Early to late spring (March to May)",
-      "location": "Eastern and central North America, from southern Ontario to northern Mexico",
-      "colors": [
-        "magenta",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a mild tangy flavor; they are sometimes added to salads, and the trees are a flowering example of cauliflory, producing blooms directly on old wood."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, semi-deciduous tree with fern-like leaves and spectacular clouds of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, such as parts of southern California, Mexico, and the Mediterranean, it begins flowering in late spring.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in California, Mexico, Florida, the Mediterranean, Africa, and Australia",
-      "colors": [
-        "lavender",
-        "blue-purple"
-      ],
-      "emoji": "💐",
-      "funFact": "Fallen jacaranda blossoms create purple carpets beneath the trees, and in Pretoria, South Africa, the city is nicknamed the Jacaranda City because of its tens of thousands of trees."
+      "funFact": "Lilac is a member of the olive family. Its flowers are edible and have a floral, slightly lemony flavor."
     }
   ]
 }

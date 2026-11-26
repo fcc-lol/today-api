@@ -2,39 +2,32 @@
   "date": "January 22",
   "events": [
     {
-      "year": 1901,
-      "title": "Death of Queen Victoria",
-      "description": "Queen Victoria died at Osborne House on the Isle of Wight at age 81, ending a reign of 63 years and 216 days. She was succeeded by her son, Edward VII.",
-      "category": "Death",
-      "significance": "Her death marked the end of the Victorian era and the longest British reign up to that time, closing a period of vast imperial expansion, industrialization, and social change."
+      "year": 1506,
+      "title": "The first Swiss Guards arrive in Rome",
+      "description": "A contingent of 150 Swiss soldiers arrived in Rome to serve as protectors of the pope, answering a request from Pope Julius II.",
+      "category": "Religion and Military",
+      "significance": "The Pontifical Swiss Guard is still active more than five centuries later. It is one of the oldest continuously operating military units in the world."
     },
     {
-      "year": 1973,
-      "title": "Roe v. Wade Decided",
-      "description": "The U.S. Supreme Court issued its ruling in Roe v. Wade, holding 7-2 that the Constitution protects a woman's right to choose to have an abortion without excessive government restriction.",
-      "category": "Law",
-      "significance": "The decision reshaped American law, politics, and society for nearly five decades, until it was overturned by Dobbs v. Jackson Women's Health Organization in 2022."
+      "year": 1879,
+      "title": "The Battle of Rorke's Drift",
+      "description": "A small British garrison at a remote mission station in Natal held off a large Zulu force in a fight that lasted into the night. The attack came just hours after the British army's crushing defeat at Isandlwana.",
+      "category": "Military",
+      "significance": "The defense became one of the most celebrated in British military history. It earned a record number of Victoria Crosses for a single action."
+    },
+    {
+      "year": 1901,
+      "title": "Queen Victoria dies",
+      "description": "Queen Victoria died at Osborne House on the Isle of Wight at age 81. She had reigned for almost 64 years, the longest of any British monarch up to that time.",
+      "category": "Death",
+      "significance": "Her death ended the Victorian era and passed the throne to her son Edward VII. It marked a turning point for Britain and its empire at the start of the 20th century."
     },
     {
       "year": 1905,
-      "title": "Bloody Sunday in Saint Petersburg",
-      "description": "Imperial troops fired on peaceful workers marching to present a petition to Tsar Nicholas II at the Winter Palace, killing and wounding hundreds (Julian date January 9).",
-      "category": "Politics",
-      "significance": "The massacre sparked the Russian Revolution of 1905, weakening public faith in the tsar and foreshadowing the revolutions of 1917."
-    },
-    {
-      "year": 1924,
-      "title": "Ramsay MacDonald Becomes First Labour Prime Minister",
-      "description": "Ramsay MacDonald took office as Prime Minister of the United Kingdom, leading a minority Labour government with Liberal support after the 1923 general election.",
-      "category": "Politics",
-      "significance": "It was the first time the Labour Party formed a government in Britain, marking the rise of the party as a major force in British politics."
-    },
-    {
-      "year": 1506,
-      "title": "First Swiss Guards Arrive at the Vatican",
-      "description": "The first contingent of 150 Swiss mercenaries, recruited at the request of Pope Julius II, arrived at the Vatican to serve as papal protectors.",
-      "category": "Religion",
-      "significance": "The Pontifical Swiss Guard continues today as the Pope's security force and is one of the oldest continuously operating military units in the world."
+      "title": "Bloody Sunday in St. Petersburg",
+      "description": "Unarmed workers led by the priest Georgy Gapon marched to the Winter Palace to petition the tsar. Imperial troops fired on the crowd and killed many demonstrators.",
+      "category": "Politics and Revolution",
+      "significance": "The massacre shattered many Russians' faith in the tsar and set off the Russian Revolution of 1905. It was an early step toward the upheavals of 1917."
     }
   ]
 }

@@ -3,58 +3,32 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before leaves emerge. It is widely cultivated in East Asian gardens and valued for both its ornamental flowers and its fruit, used in pickles and liqueurs.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Gnarled branches that still look like winter are covered in blossoms. The five-petaled, round-edged flowers give off a sweet, spicy fragrance that drifts through shrine gardens and orchards. Ume are among the first trees to bloom, and they often flower while cold air is still around.",
+      "bloomingSeason": "January to March, with late-season trees and cultivars still in full flower in early March",
+      "location": "Japan, including plum groves and shrine gardens across Honshu. It is also widely grown in China and Korea.",
       "colors": [
         "White",
-        "Pink",
-        "Deep Red"
+        "Pale pink",
+        "Deep rose",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are celebrated in Japan as heralds of spring, and they bloom earlier than cherry blossoms, sometimes opening amid lingering snow."
+      "funFact": "Ume blooms weeks before cherry blossoms, so in East Asian art and poetry it is a symbol of perseverance and the first hint of spring. Its fruit is pickled as umeboshi and steeped into plum liqueur."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler yellow petals and slender gray-green leaves. It naturalizes in meadows, woodlands, and gardens, and numerous cultivars have been bred from it.",
-      "bloomingSeason": "Late winter to early spring (March to April)",
-      "location": "Western Europe, especially the UK, France, and Spain; naturalized in North America",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's magnolia",
+      "description": "This Himalayan forest giant covers its bare branches in huge, goblet-shaped blooms before any leaves appear. Pink to rose petals open wide like pale lanterns above the mountain slopes, and the flowers have dark purple-red stamens at the centre.",
+      "bloomingSeason": "Late winter to spring (roughly February or March to May, depending on altitude and the year)",
+      "location": "Eastern Himalaya, including Nepal, Sikkim, Bhutan and Assam, plus parts of Tibet and Yunnan. It is also grown in mild-climate gardens elsewhere.",
       "colors": [
-        "Yellow",
-        "Pale Yellow",
+        "Pink",
+        "Rose",
         "White"
       ],
-      "emoji": "🌼",
-      "funFact": "Daffodils contain toxic alkaloids such as galantamine, which has been developed into a medication for Alzheimer's symptoms."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen Australian tree or large shrub that covers itself in fluffy, fragrant golden flower balls. It grows in woodlands and dry forests and is a common sight in southern Australia as winter ends.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October), with some blooming into early autumn in cooler regions",
-      "location": "Southeastern Australia",
-      "colors": [
-        "Golden Yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
-    },
-    {
-      "name": "Crocus vernus",
-      "commonName": "Spring Crocus",
-      "description": "A low-growing cormous perennial with goblet-shaped flowers that emerge in grassy areas, often through melting snow. Crocuses provide an important early nectar and pollen source for bees emerging from winter.",
-      "bloomingSeason": "Late winter to early spring (February to April)",
-      "location": "Alps and Pyrenees mountains of Europe; widely cultivated in temperate gardens",
-      "colors": [
-        "Purple",
-        "Lilac",
-        "White",
-        "Striped"
-      ],
-      "emoji": "💜",
-      "funFact": "Although it is a spring bloomer, Crocus vernus is related to Crocus sativus, the source of saffron, which flowers in autumn."
+      "emoji": "🌺",
+      "funFact": "A seedling can take 20 years or more to bloom for the first time. The wait is why mature trees in flower are such a prized sight."
     }
   ]
 }

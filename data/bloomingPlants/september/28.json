@@ -2,63 +2,45 @@
   "date": "September 28",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers directly from the ground in autumn, long after its leaves have died back. The leaves appear the following spring, which gives rise to its folk name 'naked ladies'.",
-      "bloomingSeason": "Late summer to mid-autumn (September to October)",
-      "location": "Native to meadows and woodlands in Europe; widely cultivated in temperate gardens in North America and Asia",
+      "name": "Lycoris radiata",
+      "commonName": "Red spider lily (higanbana)",
+      "description": "Leafless stems shoot up overnight, each topped with a burst of crimson flowers. The long, curling stamens give the blooms a spidery, firework-like look. They light up rice-field edges, riverbanks and temple grounds in glowing red ribbons.",
+      "bloomingSeason": "Mid-September to early October, peaking around the autumn equinox",
+      "location": "Japan, especially the rice-paddy margins and riverbanks of Honshu",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple"
+        "Crimson red",
+        "Scarlet"
       ],
-      "emoji": "🌸",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and, in plant breeding, to induce chromosome doubling."
+      "emoji": "🌺",
+      "funFact": "The flowers appear before the leaves. The foliage emerges after the blooms fade and persists through winter. In Japan the flower is tied to the autumn equinox holiday, Higan."
     },
     {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, hairy-stemmed North American perennial topped with dense clusters of daisy-like flowers with yellow centers and many narrow ray petals. It thrives in moist meadows, prairies, and roadsides and is a vital late-season nectar source.",
-      "bloomingSeason": "Late summer to fall (August to October)",
-      "location": "Eastern and central North America, from Canada to Alabama and west to the Rocky Mountains",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Pale lilac-pink goblets rise straight from bare soil in damp meadows and woodland edges. They look like crocuses blooming out of season. The leaves appeared months earlier in spring and have since died away.",
+      "bloomingSeason": "Late August to October",
+      "location": "Meadows and open woodland across central and western Europe, including the UK, Germany and France",
       "colors": [
-        "Purple",
-        "Violet",
+        "Pale lilac",
         "Pink",
-        "Yellow center"
+        "Soft mauve"
       ],
       "emoji": "💜",
-      "funFact": "It is a key fall food source for migrating monarch butterflies, which refuel on its nectar on their journey to Mexico."
+      "funFact": "Despite the name, it isn't a true crocus. It is the source of colchicine, a compound used in medicine, and every part of the plant is highly toxic."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large, semi-deciduous tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers. In spring, entire streets in the Southern Hemisphere are carpeted with fallen blossoms.",
-      "bloomingSeason": "Southern Hemisphere spring (late September to November)",
-      "location": "Native to South America; widely planted in Pretoria, Johannesburg, Brisbane, Sydney, Buenos Aires, and Lima",
+      "name": "Dimorphotheca sinuata",
+      "commonName": "Namaqualand daisy (orange Namaqua daisy)",
+      "description": "Sun-seeking daisies turn the dry landscape into a carpet of glowing orange. The petals have dark, metallic-looking centers and open wide in bright sunshine, then close up on cloudy days and at night.",
+      "bloomingSeason": "August to September, as the southern hemisphere spring peaks",
+      "location": "Namaqualand and the Western and Northern Cape, South Africa",
       "colors": [
-        "Lavender",
-        "Violet-blue"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, and there is a local belief that a falling blossom on your head brings good luck."
-    },
-    {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular cultivated perennial with a huge range of flower forms, from daisy-like singles to large pompons and spiders. Short days trigger its flowering, making it a staple of autumn gardens and festivals.",
-      "bloomingSeason": "Autumn (September to November) in the Northern Hemisphere",
-      "location": "Originated in China; cultivated worldwide, especially in East Asia, Europe, and North America",
-      "colors": [
-        "Yellow",
-        "White",
-        "Bronze",
-        "Red",
-        "Purple",
-        "Pink"
+        "Bright orange",
+        "Golden yellow",
+        "Deep purple-brown centers"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,000 years, and Japan celebrates them each year at the Festival of Happiness on the ninth day of the ninth month."
+      "funFact": "The flower heads follow the sun and stay shut when it is overcast. Because of this, the wildflower displays are best seen on clear, sunny midday afternoons."
     }
   ]
 }

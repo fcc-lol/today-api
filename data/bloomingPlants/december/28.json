@@ -2,62 +2,45 @@
   "date": "December 28",
   "plants": [
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading tree with a broad umbrella-shaped canopy and fern-like leaves. In the Southern Hemisphere summer it becomes covered in clusters of vivid orange-red flowers, each with one petal streaked with white and yellow.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere (November to February); May to July in the Northern Hemisphere tropics",
-      "location": "Native to Madagascar; widely cultivated in tropical and subtropical regions including northern Australia, South Africa, Brazil and the Caribbean",
-      "colors": [
-        "Scarlet",
-        "Orange-red",
-        "Yellow",
-        "White"
-      ],
-      "emoji": "🌺",
-      "funFact": "In the wild the species is endangered in Madagascar, yet it is among the most widely planted ornamental trees in the tropics. Its long woody seed pods rattle in the wind."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like blooms. Flowers open in the cool winter months and brighten gardens when little else is flowering.",
-      "bloomingSeason": "Late autumn through early spring (December to March in the Northern Hemisphere, with early cultivars opening in December)",
-      "location": "Native to Japan, Korea and eastern China; cultivated in the southeastern United States, Western Europe, and the Pacific Northwest",
+      "description": "Glossy evergreen shrubs that light up the winter garden with rose-like blooms in layers of silky petals around golden stamens. Their dark, polished leaves make the flowers look even brighter against the cold season's muted backdrop.",
+      "bloomingSeason": "Late autumn through early spring, with peak flowering in mid-winter",
+      "location": "Japan, and mild-winter gardens in the southeastern United States and western Europe",
       "colors": [
         "Red",
         "Pink",
-        "White",
-        "Variegated"
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Its seeds yield tsubaki oil, which has long been used in Japan for hair and skin care."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is closely related to the tea plant, Camellia sinensis. Both belong to the same genus."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with leathery, dark green, palmate leaves and nodding white cup-shaped flowers that age to a pinkish tone. It flowers in cold weather and can bloom through snow.",
-      "bloomingSeason": "Early winter to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to the mountainous woodlands of central and southern Europe, including the Alps and northern Apennines; grown in temperate gardens worldwide",
+      "description": "A low, clump-forming woodland perennial that opens nodding, cup-shaped white flowers with a boss of yellow stamens in the depths of winter. The blooms often push up through frost and light snow, and they age to a soft blush pink.",
+      "bloomingSeason": "Early winter to early spring, often opening around Christmas",
+      "location": "Mountain woodlands of the Alps and Apennines in central and southern Europe, and widely grown in temperate gardens",
       "colors": [
         "White",
         "Pale pink",
-        "Green-tinged"
+        "Yellow"
       ],
       "emoji": "❄️",
-      "funFact": "Legend says the flower sprang from the tears of a young girl who had no gift for the Christ child. All parts of the plant are toxic, and it was once used in ancient medicine as a purgative."
+      "funFact": "Despite its common name, this plant is not a true rose. It belongs to the buttercup family, and all parts of it are toxic."
     },
     {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily (Lily of the Nile)",
-      "description": "A clump-forming perennial with strap-like evergreen leaves and tall stalks bearing rounded clusters of trumpet-shaped flowers. It thrives in the warm sunny summers of the Southern Hemisphere.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February)",
-      "location": "Native to South Africa's Eastern Cape; naturalized and widely grown in Australia, New Zealand, and coastal California",
+      "name": "Nuytsia floribunda",
+      "commonName": "Western Australian Christmas Tree",
+      "description": "In the Southern Hemisphere summer, this tree covers itself in huge clusters of bright orange flowers. The display is so dense that whole trees seem to glow against the sandy bushland.",
+      "bloomingSeason": "Late spring to mid-summer, peaking in December and January",
+      "location": "Southwestern Western Australia",
       "colors": [
-        "Blue",
-        "Violet",
-        "White"
+        "Orange",
+        "Golden yellow"
       ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower). It has become an invasive weed in parts of Australia and New Zealand."
+      "emoji": "🎄",
+      "funFact": "It is the world's largest parasitic plant. Its roots tap into the roots of neighboring plants, and it has been known to grow into buried cables, apparently mistaking them for roots."
     }
   ]
 }

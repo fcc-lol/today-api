@@ -4,55 +4,45 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches in the depths of winter. Widely cultivated in East Asia for ornamental use and for its fruit, which is pickled or made into liqueur.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "description": "Fragrant blossoms open on bare branches while winter still grips the landscape. Each flower is a delicate five-petaled cup, and whole orchards haze over in pink and white. Their sweet, spicy perfume drifts on the cold air.",
+      "bloomingSeason": "Late January to March, usually peaking in mid-February",
+      "location": "Japan, including the Mito and Atami plum gardens, and across eastern China",
       "colors": [
         "White",
         "Pink",
         "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are a symbol of perseverance in East Asian culture because they bloom while snow may still be on the ground, often before cherry blossoms."
+      "funFact": "Ume blooms are traditionally seen as the first herald of spring in East Asia, arriving weeks before cherry blossoms. The fruit is pickled as umeboshi or steeped into plum wine."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green spots on the inner petals. It pushes up through frost and snow, naturalizing in woodlands and gardens.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest bloom in the protea family looks like a crown of silky, pointed pink bracts around a downy center. It stands boldly among fynbos shrubs, and its flowerheads can reach the size of a dinner plate.",
+      "bloomingSeason": "Peak bloom runs from late spring through summer in the Southern Hemisphere, with flowers also appearing in February in some areas",
+      "location": "Western and Southern Cape, South Africa",
       "colors": [
+        "Pink",
+        "Cream",
+        "Silver-white"
+      ],
+      "emoji": "👑",
+      "funFact": "The king protea is South Africa's national flower. Its tough, fire-adapted rootstock lets it resprout after the wildfires that regularly sweep the fynbos."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Glossy evergreen shrubs burst into rose-like blooms in the cool months, with layered petals and golden stamens set against dark green leaves. They are a favorite for brightening winter gardens.",
+      "bloomingSeason": "Late winter to early spring, with a mid-February peak in many regions",
+      "location": "Southeastern United States (such as Georgia and the Carolinas), Japan, and mild climates worldwide",
+      "colors": [
+        "Red",
+        "Pink",
         "White",
-        "Green"
+        "Variegated"
       ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound used in medications to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen shrub or small tree covered in fluffy, golden, ball-shaped flower clusters with a sweet scent. It grows in woodlands and dry forests of southeastern Australia.",
-      "bloomingSeason": "Late winter to spring in Australia (July to October), with some wattle species flowering in summer",
-      "location": "Southeastern Australia",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
-    },
-    {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and tall stems topped by large rounded clusters of trumpet-shaped blue flowers. It thrives in warm, sunny conditions and is popular in borders and coastal gardens.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to March)",
-      "location": "South Africa; widely cultivated in Australia, New Zealand, and Mediterranean climates",
-      "colors": [
-        "Blue",
-        "Violet",
-        "White"
-      ],
-      "emoji": "💠",
-      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from Greek words meaning 'love flower'."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Japanese gardens have grown it for centuries, and it has thousands of named cultivars."
     }
   ]
 }

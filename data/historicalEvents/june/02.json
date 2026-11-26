@@ -2,39 +2,32 @@
   "date": "June 2",
   "events": [
     {
-      "year": 1953,
-      "title": "Coronation of Queen Elizabeth II",
-      "description": "Elizabeth II was crowned at Westminster Abbey in London, in a ceremony that was the first British coronation to be fully televised. The event was watched by millions around the world and followed her accession to the throne in February 1952.",
-      "category": "Politics",
-      "significance": "Marked the formal start of a reign that became the longest in British history and helped popularize television as a mass medium for global events."
-    },
-    {
       "year": 1924,
-      "title": "Indian Citizenship Act Signed",
-      "description": "President Calvin Coolidge signed the Indian Citizenship Act, granting U.S. citizenship to all Native Americans born within the territorial limits of the United States.",
-      "category": "Law",
-      "significance": "Extended citizenship to Native Americans, although many states continued to restrict their voting rights for decades afterward."
-    },
-    {
-      "year": 1966,
-      "title": "Surveyor 1 Lands on the Moon",
-      "description": "NASA's Surveyor 1 spacecraft made the first soft landing by a U.S. spacecraft on the Moon, in the Oceanus Procellarum, and transmitted thousands of photographs back to Earth.",
-      "category": "Science and Exploration",
-      "significance": "Demonstrated the feasibility of soft lunar landings and provided data on the lunar surface that supported planning for the Apollo missions."
+      "title": "Native Americans Granted U.S. Citizenship",
+      "description": "President Calvin Coolidge signed the Indian Citizenship Act. It recognized as U.S. citizens all Native Americans born within the country's borders.",
+      "category": "Politics",
+      "significance": "The law extended citizenship to people whose nations were here long before the United States existed. Some states, however, kept denying Native Americans the vote for decades."
     },
     {
       "year": 1946,
-      "title": "Italy Votes to Abolish the Monarchy",
-      "description": "In a national referendum, Italians voted to become a republic rather than retain the House of Savoy, with women voting in a national election for the first time. King Umberto II subsequently left the country.",
+      "title": "Italy Becomes a Republic",
+      "description": "In a national referendum, Italians narrowly voted to abolish the monarchy and establish a republic. Women voted in a national election in Italy for the first time.",
       "category": "Politics",
-      "significance": "Established the Italian Republic, which is celebrated annually as Republic Day, and shaped the postwar political order of Italy."
+      "significance": "The vote ended the House of Savoy's rule and began the modern Italian Republic. The date is still celebrated as Republic Day."
     },
     {
-      "year": 1840,
-      "title": "Birth of Thomas Hardy",
-      "description": "English novelist and poet Thomas Hardy was born in Dorset, England. He later wrote works such as Tess of the d'Urbervilles, Far from the Madding Crowd, and Jude the Obscure.",
-      "category": "Birth",
-      "significance": "Hardy became one of the leading figures of English literature, bridging Victorian realism and modernist poetry."
+      "year": 1953,
+      "title": "Elizabeth II Is Crowned",
+      "description": "Elizabeth II was crowned at Westminster Abbey in London in a ceremony watched by millions around the world.",
+      "category": "Royalty",
+      "significance": "It was the first major international event to be televised. It brought a coronation into ordinary living rooms for the first time."
+    },
+    {
+      "year": 1979,
+      "title": "Pope John Paul II Visits Communist Poland",
+      "description": "Pope John Paul II arrived in Warsaw to begin a nine-day pilgrimage to his homeland. Huge crowds filled the streets to greet him. He was the first pope to visit a communist country.",
+      "category": "Religion",
+      "significance": "The visit energized Polish national and religious identity. Many historians see it as a spark for the Solidarity movement and the eventual fall of communism in Europe."
     }
   ]
 }

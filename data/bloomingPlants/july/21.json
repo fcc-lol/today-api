@@ -2,59 +2,47 @@
   "date": "July 21",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray foliage and slender spikes of small tubular flowers. Widely cultivated in gardens and commercial fields, it attracts bees and butterflies and is prized for its essential oil.",
-      "bloomingSeason": "Mid-June to August in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the northern United States",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "A dramatic shrub crowned with dinner-plate-sized flower heads. Rows of silky, pointed pink bracts surround a central cushion of pale, fuzzy florets, like a fiery artichoke in full regalia. It blooms in the middle of the Southern Hemisphere winter, when little else is in flower.",
+      "bloomingSeason": "April to October, so it is in flower in late July, the middle of the southern winter",
+      "location": "Fynbos shrublands and mountain slopes of the Western and Eastern Cape, South Africa",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "🪻",
-      "funFact": "Lavender was used by ancient Romans to scent their baths, and its name likely derives from the Latin 'lavare', meaning 'to wash'."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large composite flower head made up of yellow ray florets surrounding a dark disk of tiny florets that mature into seeds. Young flower heads track the sun across the sky.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "Native to North America; widely cultivated in Ukraine, Russia, Argentina, France, and the United States",
-      "colors": [
-        "yellow",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "The flower head is actually made up of up to 2,000 individual tiny flowers, and the florets are arranged in spiral patterns following the Fibonacci sequence."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers on tall stalks. Its leaves have a micro-textured surface that repels water and dirt.",
-      "bloomingSeason": "July to September in temperate Asia",
-      "location": "Native to Asia and Australia; found in ponds and wetlands in India, China, Japan, Vietnam, and cultivated worldwide",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds can remain viable for centuries; one seed about 1,300 years old was successfully germinated, and the flower is able to regulate its own temperature."
+      "emoji": "🌺",
+      "funFact": "The King Protea is South Africa's national flower. It belongs to a very ancient plant family that dates back to the supercontinent Gondwana, and it has evolved to survive regular wildfires."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with daisy-like flowers with drooping petals around a spiky, orange-brown central cone. It is a favorite of pollinators and goldfinches, which eat the seeds in late summer.",
-      "bloomingSeason": "June to October in the Northern Hemisphere",
-      "location": "Native to eastern and central North America; common in prairies, open woodlands, and cultivated gardens worldwide",
+      "description": "A sturdy prairie wildflower with daisy-like blooms. Rosy-purple petals droop gracefully around a spiky, copper-orange central cone. In midsummer meadows and cottage gardens it hums with bees and butterflies, and goldfinches visit later to feed on the seed heads.",
+      "bloomingSeason": "June to August, so it is at its midsummer peak around July 21",
+      "location": "Native to the prairies and open woodlands of the eastern and central United States, and widely grown in gardens across North America and Europe",
       "colors": [
-        "purple",
-        "pink",
-        "orange"
+        "Rosy purple",
+        "Pink",
+        "Orange-bronze"
       ],
       "emoji": "🌸",
-      "funFact": "Echinacea gets its name from the Greek 'echinos' meaning hedgehog, referring to the prickly central cone, and it has long been used in traditional Native American medicine."
+      "funFact": "The 'cone' in the center is made up of hundreds of tiny, spiny florets, and its name comes from the Greek word 'echinos', meaning hedgehog. Indigenous peoples of the Great Plains used the plant medicinally for generations."
+    },
+    {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "A silvery, aromatic shrub whose slender spikes of tiny violet-blue flowers ripple across sunny hillsides and fields in long, perfumed rows. The scent hangs warm in the summer air and draws crowds of bees.",
+      "bloomingSeason": "Early to mid-summer, so it is in bloom or near peak in July in the Northern Hemisphere",
+      "location": "Sunny Mediterranean hillsides and cultivated fields in southern Europe, such as Provence in France, and temperate gardens across the Northern Hemisphere",
+      "colors": [
+        "Violet",
+        "Lavender-blue",
+        "Purple"
+      ],
+      "emoji": "💜",
+      "funFact": "The name lavender is often linked to the Latin 'lavare', meaning 'to wash'. Romans used the flowers to scent their baths, and the oil is still a staple of perfumery."
     }
   ]
 }

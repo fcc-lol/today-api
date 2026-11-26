@@ -4,57 +4,45 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of golden ray florets surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is grown widely for oil, seeds, and ornament.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, the United States, and Argentina",
+      "description": "Towering stems carry huge golden-rimmed faces with dark, seed-packed centers. Entire fields turn together toward the sun, so the landscape looks like a sea of yellow.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July through September) in the Northern Hemisphere",
+      "location": "Northern Great Plains of the United States, and across Europe's sunflower-growing regions such as France, Hungary and Ukraine",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "dark brown"
+        "Golden yellow",
+        "Deep brown",
+        "Orange"
       ],
       "emoji": "🌻",
-      "funFact": "Sunflower heads are not single flowers but composite inflorescences containing up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
+      "funFact": "Young sunflower buds track the sun from east to west during the day and swing back toward the east overnight. Mature blooms stop moving and generally face east."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Mid-summer, peaking July to August, with some late flowering into September",
-      "location": "Native to the Mediterranean; widely grown in Provence (France), England, Bulgaria, and the Pacific Northwest of the United States",
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "Tiny bell-shaped flowers blanket open moorland in waves of pink and purple. In late summer, hillsides across the uplands look as if they have been brushed with violet.",
+      "bloomingSeason": "Late July through September",
+      "location": "Scottish Highlands, northern England moors and heathlands across northern Europe",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years; the name comes from the Latin 'lavare', meaning 'to wash', since Romans scented their baths with it."
-    },
-    {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower that forms spires of vivid pink-magenta flowers, blooming from the bottom of the spike upward. It quickly colonizes burned or disturbed land across boreal and mountain regions.",
-      "bloomingSeason": "Mid-summer to late summer (July to September)",
-      "location": "Northern Hemisphere including Alaska, Canada, Scandinavia, Siberia, and the Rocky Mountains",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
+        "Pink",
+        "Purple",
+        "Lilac",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Locals say that when fireweed blooms reach the top of the stalk, summer is nearly over, since flowering progresses upward as the season advances."
+      "funFact": "Heather is a vital late-summer nectar source, and bees feeding on it produce a dark, jelly-like honey with a strong, distinctive flavor."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub with sickle-shaped phyllodes and fluffy, fragrant golden ball-like flower clusters. It is Australia's national floral emblem and lights up the bush in late winter.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia including Victoria, New South Wales, South Australia, and Tasmania",
+      "name": "Hylotelephium spectabile",
+      "commonName": "Showy Stonecrop (Ice Plant)",
+      "description": "Flat, dome-shaped clusters of star-like flowers sit above thick, blue-green leaves. They open pale pink and deepen toward rosy red as autumn approaches, and butterflies and bees crowd them.",
+      "bloomingSeason": "Late summer to early autumn (August through October)",
+      "location": "Native to China and Korea, and widely grown in temperate gardens across North America and Europe",
       "colors": [
-        "golden yellow"
+        "Pink",
+        "Rose-red",
+        "Pale green"
       ],
-      "emoji": "🌼",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the golden and green of the wattle inspired the country's national sporting colors."
+      "emoji": "🦋",
+      "funFact": "Its fleshy leaves store water, so it thrives in dry spells. The dried flower heads stay attractive through winter."
     }
   ]
 }

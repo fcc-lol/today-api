@@ -2,39 +2,39 @@
   "date": "April 6",
   "events": [
     {
-      "year": 1896,
-      "title": "First Modern Olympic Games Open in Athens",
-      "description": "The first modern Olympic Games opened in Athens, Greece, at the Panathenaic Stadium. Organized by Pierre de Coubertin and the International Olympic Committee, the Games brought together athletes from 14 nations to compete in events such as track and field, swimming, and gymnastics.",
-      "category": "Sports",
-      "significance": "Revived the ancient Greek Olympic tradition and launched the international sporting event that has become the world's foremost athletic competition."
-    },
-    {
-      "year": 1909,
-      "title": "Robert Peary Claims Reaching the North Pole",
-      "description": "American explorer Robert Peary, accompanied by Matthew Henson and four Inuit men, claimed to have reached the geographic North Pole after a grueling Arctic expedition. The claim has been disputed by historians and rival explorers.",
-      "category": "Exploration",
-      "significance": "Marked one of the most celebrated and controversial achievements in the history of polar exploration."
-    },
-    {
-      "year": 1917,
-      "title": "United States Enters World War I",
-      "description": "Following Congress's declaration of war against Germany, President Woodrow Wilson signed the war resolution on April 6, 1917. The decision followed unrestricted German submarine warfare and the Zimmermann Telegram.",
-      "category": "War and Conflict",
-      "significance": "American entry shifted the balance of power in the war, bringing fresh troops and resources to the Allies and marking the emergence of the United States as a global military power."
-    },
-    {
-      "year": 1994,
-      "title": "Rwandan and Burundian Presidents Killed; Rwandan Genocide Begins",
-      "description": "A plane carrying Rwandan President Juvénal Habyarimana and Burundian President Cyprien Ntaryamira was shot down near Kigali. The assassination triggered a campaign of mass violence by Hutu extremists against the Tutsi minority and moderate Hutus.",
-      "category": "Politics and Atrocity",
-      "significance": "Set off the Rwandan genocide, in which an estimated 500,000 to 800,000 people were killed in roughly 100 days, prompting lasting reflection on international inaction."
+      "year": 1199,
+      "title": "Death of Richard the Lionheart",
+      "description": "King Richard I of England died from an infection after an arrow wound to his shoulder, which he received during a siege in France. His younger brother John succeeded him on the throne.",
+      "category": "Death",
+      "significance": "Richard's death brought John to the throne. John's reign led to the sealing of Magna Carta in 1215, a landmark in the history of constitutional government."
     },
     {
       "year": 1830,
-      "title": "Church of Jesus Christ of Latter-day Saints Organized",
-      "description": "Joseph Smith and a small group of followers formally organized the Church of Christ in Fayette, New York, which later became The Church of Jesus Christ of Latter-day Saints.",
+      "title": "The Church of Christ is organized",
+      "description": "Joseph Smith, Oliver Cowdery, David Whitmer and others formally organized the Church of Christ in New York. It was the beginning of the Latter Day Saint movement.",
       "category": "Religion",
-      "significance": "Founded one of the largest homegrown American religious movements, which now has millions of members worldwide."
+      "significance": "The movement grew into a major American religious tradition. Its largest branch, The Church of Jesus Christ of Latter-day Saints, now has millions of members around the world."
+    },
+    {
+      "year": 1896,
+      "title": "The first modern Olympic Games open in Athens",
+      "description": "After a gap of about 1,500 years, the Olympic Games returned in Athens, with athletes from several nations competing in the revived event.",
+      "category": "Sports",
+      "significance": "The Games became the world's leading international sporting event, and they are held every few years in different host cities."
+    },
+    {
+      "year": 1917,
+      "title": "The United States declares war on Germany",
+      "description": "The U.S. Congress formally declared war on Germany, which brought America into World War I after years of neutrality.",
+      "category": "War",
+      "significance": "American money, supplies and soldiers helped tip the balance toward the Allies. The war also marked the country's emergence as a major world power."
+    },
+    {
+      "year": 1994,
+      "title": "Presidential plane shot down over Kigali",
+      "description": "A plane carrying Rwandan President Juvénal Habyarimana and Burundian President Cyprien Ntaryamira was shot down as it approached Kigali, and both men were killed.",
+      "category": "Conflict",
+      "significance": "The attack set off the Rwandan genocide, in which hundreds of thousands of people were killed over roughly 100 days."
     }
   ]
 }

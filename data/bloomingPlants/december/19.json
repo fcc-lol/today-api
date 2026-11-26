@@ -4,61 +4,42 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flower clusters (cyathia) surrounded by showy colored bracts that are often mistaken for petals. Native to Mexico, it grows outdoors as a large shrub in warm climates and is widely grown as a potted holiday plant elsewhere.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Southern Mexico and Central America; cultivated worldwide, outdoors in subtropical regions such as Florida, California, and Hawaii",
+      "description": "In the wild, the poinsettia is a tall shrub or small tree, reaching 3–4 metres. Its fiery red bracts, which are modified leaves, flare out around tiny yellow-green flower clusters. The effect is like a scarlet starburst against the winter hillsides.",
+      "bloomingSeason": "December, as the short days and long nights of late autumn and early winter trigger flowering",
+      "location": "Native to Mexico and Central America, in seasonally dry forests and hillsides",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream"
+        "Scarlet red",
+        "Yellow-green"
       ],
       "emoji": "🎄",
-      "funFact": "Poinsettias need long nights of about 12 hours or more for several weeks to develop their colorful bracts, which is why they color up naturally around the winter solstice. The Aztecs called the plant cuetlaxochitl and used its sap to make a reddish dye."
+      "funFact": "The showy 'petals' are not petals at all. They are leaves that change colour in response to long nights, and the true flowers are the tiny cup-shaped clusters at their centre."
     },
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and brightens winter gardens when little else is in bloom.",
-      "bloomingSeason": "Late autumn through early spring (November to April)",
-      "location": "Native to Japan, Korea, and China; widely grown in the southeastern United States, Western Europe, Australia, and New Zealand",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua camellia (Sazanka)",
+      "description": "This glossy-leaved evergreen brightens the dull winter landscape with red, pink and white blooms. Its petals drift down one by one, leaving a soft carpet beneath the shrub.",
+      "bloomingSeason": "Late October through December",
+      "location": "Native to Japan, and widely grown in gardens and parks there",
       "colors": [
         "Red",
         "Pink",
-        "White",
-        "Variegated"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant that gives us tea. Over 30,000 cultivars have been named, and in Japan the flower symbolizes the winter season."
-    },
-    {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial with tall, sturdy stalks topped by large trumpet-shaped flowers. In the Southern Hemisphere and tropical regions it blooms in the warm season, while forced bulbs bloom indoors in the Northern Hemisphere winter.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); forced indoors in northern winter",
-      "location": "Native to tropical Americas and the Caribbean; grown in gardens in South Africa, Australia, and South America, and as indoor potted plants in Europe and North America",
-      "colors": [
-        "Red",
-        "Orange",
-        "White",
-        "Pink"
-      ],
-      "emoji": "🌷",
-      "funFact": "Amaryllis bulbs can bloom again year after year for decades with proper care, and the flower stalk can grow several centimeters in a single day."
-    },
-    {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of tubular flowers on tall stems. It thrives in the sunny summer weather of the Southern Hemisphere and is drought tolerant once established.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February)",
-      "location": "Native to South Africa's Eastern Cape; widely cultivated in Australia, New Zealand, and coastal California, and naturalized in some regions",
-      "colors": [
-        "Blue",
-        "Violet",
         "White"
       ],
-      "emoji": "💠",
-      "funFact": "Despite its common name, Agapanthus is not a true lily. Its name comes from the Greek words agape (love) and anthos (flower), meaning 'flower of love'."
+      "emoji": "🌺",
+      "funFact": "Sasanqua is easy to confuse with its cousin the tsubaki camellia. The giveaway is how the flowers fall: sasanqua petals shed individually, while tsubaki blooms drop whole."
+    },
+    {
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "In the sandstone gullies and coastal heaths around Sydney, this shrub produces airy sprays of tiny creamy-white flowers. As summer arrives, the star-shaped sepals swell and blush deep red, so the bush looks decorated for the holidays.",
+      "bloomingSeason": "November to December, with the red colour deepening through the Australian summer and fading by February",
+      "location": "Eastern Australia, especially the Hawkesbury Sandstone country around Sydney, New South Wales",
+      "colors": [
+        "Cream-white",
+        "Crimson red"
+      ],
+      "emoji": "🌿",
+      "funFact": "The red 'flowers' people notice are mainly enlarged sepals. The true petals stay tiny, at about 3 mm long, so the red display comes from the calyx, not the petals."
     }
   ]
 }

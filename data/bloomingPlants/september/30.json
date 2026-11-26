@@ -2,61 +2,33 @@
   "date": "September 30",
   "plants": [
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster",
-      "description": "A clump-forming perennial native to eastern North America with daisy-like flower heads featuring yellow centers and numerous narrow petals. It is a vital late-season nectar source for migrating monarch butterflies and native bees.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern North America; widely cultivated in temperate gardens in Europe and Asia",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue",
-        "pink",
-        "white"
-      ],
-      "emoji": "🌼",
-      "funFact": "The name Aster comes from the Greek word for 'star'. Asters were once burned in ancient times to drive away serpents."
-    },
-    {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that produces goblet-shaped flowers in autumn, long after its leaves have died back. The blooms emerge directly from the ground without foliage, giving it the nickname 'naked ladies'.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Meadows and woodlands of Europe and North Africa; cultivated in temperate gardens worldwide",
+      "description": "Long after summer gardens have faded, bare corms push up goblets of soft lilac-pink, crocus-like flowers with no leaves at all. They look like a carpet of delicate chalices spread across damp meadows and borders. The white form 'Album' glows in the low autumn light.",
+      "bloomingSeason": "Mid-September through early October",
+      "location": "Temperate Europe, and widely grown in gardens in cooler parts of North America such as the Midwest and Northeast United States",
       "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
+        "Lilac-pink",
+        "Pale purple",
+        "White"
       ],
       "emoji": "🌷",
-      "funFact": "Every part of the plant is highly toxic because it contains colchicine, a compound that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+      "funFact": "Autumn crocus is nicknamed 'naked ladies' because the flowers appear without foliage. The leaves emerge the following spring and then die back before the flowers return. Every part of the plant is toxic, and it is the natural source of colchicine, a compound used in medicine and in plant breeding."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A large, graceful tree with fern-like foliage that bursts into clouds of trumpet-shaped blue-violet flowers before the leaves fully emerge. It carpets streets and parks with fallen purple blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "name": "Symphyotrichum novi-belgii",
+      "commonName": "New York Aster (Michaelmas Daisy)",
+      "description": "A cloud of starry, daisy-like flowers with golden-yellow centers and rays of rich violet to lavender-blue. Its tall, bushy clumps light up late-season borders and roadsides. Bees and butterflies crowd onto the flowers as other nectar sources run out.",
+      "bloomingSeason": "August through October, peaking in early autumn",
+      "location": "Eastern North America, from the Atlantic coast and Canadian Maritimes south through the Appalachians. It is also a garden favorite across Europe.",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender-blue",
+        "Purple",
+        "Golden yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, over 50,000 jacarandas turn the city purple each spring, and there is a local saying that a jacaranda blossom falling on your head brings good luck."
-    },
-    {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus",
-      "description": "An evergreen shrub or small tree with clusters of tiny, intensely fragrant flowers that smell of apricots and peaches. It is cherished in East Asian gardens and cuisine.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Native to China and Japan; grown in warm temperate and subtropical gardens worldwide",
-      "colors": [
-        "orange",
-        "golden yellow",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "In China, the Mid-Autumn Festival is associated with osmanthus, and its blossoms are used to make cakes, teas, wine, and sweet syrups."
+      "emoji": "💜",
+      "funFact": "Asters take their name from the Greek word for 'star'. In Britain, they are called Michaelmas daisies because they bloom around Michaelmas, the feast of St. Michael on September 29, which is almost exactly your date."
     }
   ]
 }

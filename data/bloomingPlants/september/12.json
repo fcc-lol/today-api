@@ -3,56 +3,56 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A leafless-flowering bulb that sends up goblet-shaped pink-lilac blooms directly from the soil in early autumn, while its leaves appear the following spring. Found in damp meadows and widely grown in gardens.",
-      "bloomingSeason": "Late summer to autumn (August-October)",
-      "location": "Europe, from the UK to the Balkans; cultivated in temperate gardens worldwide",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Just as the meadows turn tired and golden, pale lilac-pink goblets rise from the bare earth. They have no leaves, so they look like they appeared by magic. Each goblet opens wide to the autumn sun.",
+      "bloomingSeason": "Late August to October, with flowers appearing above ground from late August or early September",
+      "location": "Meadows and grasslands across Western and Central Europe, including the British Isles",
       "colors": [
-        "Pale pink",
         "Lilac",
-        "Purple"
+        "Pale pink",
+        "Soft purple"
       ],
-      "emoji": "🌷",
-      "funFact": "Despite its name it is not a true crocus. It contains colchicine, a toxic alkaloid that is used in medicine to treat gout and in plant breeding to double chromosome numbers."
+      "emoji": "🌸",
+      "funFact": "The leaves don't appear until the following spring. The plant is also highly toxic, and it is the natural source of colchicine, a compound used in medicine and in plant breeding."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower with arching plumes of tiny golden-yellow flower heads. It dominates meadows, roadsides and prairie edges in late summer and autumn and is an important late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to autumn (July-October)",
-      "location": "North America, widely naturalized in Europe and Asia",
+      "name": "Sternbergia lutea",
+      "commonName": "Winter daffodil (autumn daffodil)",
+      "description": "Glossy, golden-yellow cups look like crocuses and pop up from dry, sun-baked ground at the start of autumn. They are a bright sign that the rains have returned to the Mediterranean hillsides.",
+      "bloomingSeason": "September to October, usually triggered by the first autumn rains",
+      "location": "Mediterranean region, from Iberia and southern Europe to Turkey and the Middle East",
       "colors": [
         "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and insect-carried; the real culprit is usually ragweed, which blooms at the same time."
+      "funFact": "Many botanists think this is the 'lily of the field' mentioned in ancient texts. It survives the Mediterranean summer by staying dormant as a bulb underground."
     },
     {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A robust native perennial of North American prairies and meadows, topped with masses of daisy-like flowers with yellow centers. It is a crucial late-season food source for migrating monarch butterflies and native bees.",
-      "bloomingSeason": "Late summer to fall (August-October)",
-      "location": "Eastern and central North America; popular in cultivation",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales waratah",
+      "description": "A spectacular crimson flower head sits on a stalk, ringed by petal-like bracts. It looks like a firework frozen mid-burst, and nectar-seeking honeyeaters flock to it in the Australian spring bush.",
+      "bloomingSeason": "Spring, mainly September to October around Sydney (later in cooler areas)",
+      "location": "Sandstone bushland within about 200 km of Sydney, New South Wales, Australia",
       "colors": [
-        "Purple",
-        "Violet",
-        "Pink"
+        "Crimson",
+        "Deep red"
       ],
-      "emoji": "💜",
-      "funFact": "The flower heads close up on cloudy days and at night, opening again in full sun."
+      "emoji": "🌺",
+      "funFact": "The 'flower' is really a dense cluster of hundreds of tiny flowers surrounded by showy bracts. It is the floral emblem of New South Wales."
     },
     {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily (Guernsey Lily relative)",
-      "description": "A bulbous perennial with umbels of sparkling, narrow-petaled pink flowers with wavy edges that appear on bare stems. It is grown in warm, sunny borders and is native to rocky mountain slopes.",
-      "bloomingSeason": "Early autumn in the Northern Hemisphere (September-November); native-range flowering in autumn too",
-      "location": "Native to the Drakensberg mountains of South Africa; grown in the UK, Europe and elsewhere",
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "The largest flower head in the protea family looks like a bowl of silky pink petals around a crown of fuzzy white and pink. It lights up the fynbos slopes in the late southern winter and early spring.",
+      "bloomingSeason": "Mainly June to October, which covers the late southern winter and early spring",
+      "location": "Fynbos vegetation of the Western and Eastern Cape, South Africa",
       "colors": [
-        "Bright pink",
-        "Rose"
+        "Pink",
+        "Rose",
+        "Cream"
       ],
-      "emoji": "🌸",
-      "funFact": "The petals have a crystalline sheen that glitters in sunlight, which gives the genus the common nickname 'diamond lily' for some species."
+      "emoji": "🌷",
+      "funFact": "The king protea is South Africa's national flower. It belongs to an ancient plant family that dates back to the time of Gondwana, and fynbos fires help it regenerate."
     }
   ]
 }

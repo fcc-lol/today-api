@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1066,
-      "title": "William the Conqueror Lands at Pevensey",
-      "description": "Norman forces led by William, Duke of Normandy, landed at Pevensey on the southern coast of England, beginning his invasion to claim the English throne following the death of Edward the Confessor.",
+      "title": "William the Conqueror Lands in England",
+      "description": "William, Duke of Normandy, landed with a large invasion fleet at Pevensey on the Sussex coast. This began the Norman conquest of England.",
       "category": "Military",
-      "significance": "The landing led to the Battle of Hastings on October 14, 1066, and the Norman Conquest, which transformed English language, law, culture, and aristocracy."
+      "significance": "The conquest transformed English government, language, landholding and culture, and its effects shaped England for centuries."
     },
     {
       "year": 1542,
-      "title": "Juan Rodríguez Cabrillo Reaches California",
-      "description": "Portuguese-born explorer Juan Rodríguez Cabrillo, sailing for Spain, landed at San Diego Bay and claimed the area for the Spanish Crown.",
+      "title": "Cabrillo Reaches the California Coast",
+      "description": "Navigator Juan Rodríguez Cabrillo sailed into the bay at what is now San Diego. He was the first European to explore the coast of present-day California.",
       "category": "Exploration",
-      "significance": "Cabrillo's voyage was the first European expedition to explore the coast of present-day California, laying the groundwork for later Spanish colonization of the region."
+      "significance": "His voyage opened the Pacific coast of North America to European exploration and mapping."
     },
     {
-      "year": 1789,
-      "title": "Congress Sends the Bill of Rights to the States",
-      "description": "The U.S. Congress voted to send twelve proposed constitutional amendments to the states for ratification, following their approval in the House and Senate.",
-      "category": "Politics",
-      "significance": "Ten of these amendments were ratified in 1791 and became the Bill of Rights, guaranteeing fundamental freedoms and individual protections in the United States."
+      "year": 1781,
+      "title": "The Siege of Yorktown Begins",
+      "description": "American forces, backed by a French fleet and French troops, began the siege of the British army at Yorktown, Virginia.",
+      "category": "Military",
+      "significance": "The siege was the last major battle of the American Revolutionary War and ended in the British surrender weeks later."
     },
     {
       "year": 1928,
-      "title": "Alexander Fleming Observes Penicillin",
-      "description": "Scottish bacteriologist Alexander Fleming noticed that a mold contaminating a Staphylococcus culture plate at St Mary's Hospital in London had killed the surrounding bacteria.",
+      "title": "Fleming Notices the Mold That Led to Penicillin",
+      "description": "Alexander Fleming noticed a mold in his London laboratory that was killing the bacteria around it. The mold later became known as penicillin.",
       "category": "Science",
-      "significance": "The discovery of penicillin launched the age of antibiotics, revolutionizing medicine and saving millions of lives; Fleming shared the 1945 Nobel Prize for the work."
+      "significance": "Penicillin became the first widely used antibiotic and has saved countless lives."
     },
     {
-      "year": 1970,
-      "title": "Death of Egyptian President Gamal Abdel Nasser",
-      "description": "Gamal Abdel Nasser died of a heart attack in Cairo at age 52, just after brokering a ceasefire between Jordan and the PLO during the Black September crisis.",
-      "category": "Politics",
-      "significance": "Nasser was a leading figure of Arab nationalism and the Non-Aligned Movement. His death brought Anwar Sadat to power and shifted Egypt's direction in regional and Cold War politics."
+      "year": 1939,
+      "title": "Warsaw Surrenders to Nazi Germany",
+      "description": "After weeks of siege and bombardment, Warsaw surrendered to German forces. Germany and the Soviet Union then agreed on how to divide Poland between them.",
+      "category": "World War II",
+      "significance": "It marked the end of organized Polish resistance in the 1939 campaign and the start of a brutal occupation."
     }
   ]
 }

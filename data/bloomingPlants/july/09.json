@@ -4,61 +4,43 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray narrow leaves and slender spikes of fragrant purple flowers held above the foliage. It is widely cultivated in gardens and fields and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region; cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Silvery-green mounds send up slender spikes crowded with tiny, fragrant purple flowers. In early July the fields hum with bees and the air carries a sweet, herbal perfume.",
+      "bloomingSeason": "Early to late summer, peaking in July",
+      "location": "Provence, France, and temperate gardens across the Northern Hemisphere",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Purple",
+        "Lavender",
+        "Violet"
       ],
       "emoji": "💜",
-      "funFact": "Lavender's name comes from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent their baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem and huge flower heads composed of golden ray florets surrounding a central disc of tiny seed-producing florets. Early varieties begin blooming in early July across temperate regions.",
-      "bloomingSeason": "Midsummer to early fall (July to September)",
-      "location": "Native to North America; cultivated in Ukraine, Russia, Argentina, and the United States",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds track the sun from east to west (heliotropism), but mature flower heads stop moving and generally face east."
+      "funFact": "Lavender belongs to the mint family. Its flowers have been used for centuries to scent linens, soaps and perfumes."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy perennial of the daisy family with drooping pinkish-purple petals around a spiky, copper-orange central cone. It thrives in prairies and open woodlands and is a favorite of pollinators and goldfinches.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Central and eastern United States prairies and open woods; cultivated worldwide",
+      "description": "Daisy-like blooms with drooping rosy-purple petals surround a spiky, copper-orange central cone. In midsummer prairies and gardens glow with them, and butterflies and goldfinches visit often.",
+      "bloomingSeason": "Early summer to early autumn, peaking in July",
+      "location": "Central and eastern North America, in prairies and open woodlands",
       "colors": [
-        "pink",
-        "purple",
-        "orange",
-        "magenta"
+        "Pink",
+        "Purple",
+        "Orange"
       ],
       "emoji": "🌸",
-      "funFact": "The name Echinacea comes from the Greek 'echinos' meaning hedgehog, referring to the spiky central cone."
+      "funFact": "The central cone is a dense head of many tiny fertile florets. Goldfinches often eat the seeds in late summer."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with the largest flower head in the Protea genus, featuring a bowl of stiff pink-tipped bracts surrounding a central dome of tiny flowers. In the Southern Hemisphere it flowers in the cooler months and into winter and spring.",
-      "bloomingSeason": "Late autumn through spring in South Africa, with flowering often beginning in winter (around June to July onward)",
-      "location": "Fynbos region of the Western Cape and Eastern Cape, South Africa",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Large, cup-shaped blossoms rise on tall stalks above round, water-repellent leaves. In July they open at dawn over warm ponds and wetlands, with a soft fragrance.",
+      "bloomingSeason": "Summer, with peak bloom from June to August",
+      "location": "Southern and eastern Asia, including China, Japan and India",
       "colors": [
-        "pink",
-        "cream",
-        "crimson",
-        "silvery-white"
+        "Pink",
+        "White"
       ],
-      "emoji": "🌺",
-      "funFact": "King Protea is South Africa's national flower, and the genus is named after Proteus, the Greek god who could change his shape."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves repel water and dirt through a microscopic surface texture. Scientists call this the 'lotus effect' and have copied it in self-cleaning materials."
     }
   ]
 }

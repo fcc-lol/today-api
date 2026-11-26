@@ -3,59 +3,46 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn without any leaves present. The strap-shaped leaves appear in spring and die back by summer, giving rise to its nickname 'naked ladies'.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe, naturalized in parts of North America; grows in damp meadows and woodland edges",
+      "commonName": "Autumn Crocus",
+      "description": "Goblet-shaped lilac-pink blooms rise straight out of bare ground on slender white stalks. The leaves are long gone, so the flowers look like they have appeared by magic. They scatter color across damp meadows and woodland edges just as autumn begins.",
+      "bloomingSeason": "August to November, with a peak in September and October",
+      "location": "Meadows and grassy woodland in central and southern Europe, widely naturalised in northern Europe",
       "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
+        "Lilac",
+        "Pale pink",
+        "Soft purple"
       ],
       "emoji": "🌷",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is used in medicine to treat gout and in plant breeding to induce polyploidy."
+      "funFact": "Autumn crocus flowers in autumn but sets its leaves and seed capsule in spring. This earns it the nickname 'naked ladies'. It is also the source of colchicine, a compound used in medicine and in plant breeding. The whole plant is highly toxic."
     },
     {
       "name": "Symphyotrichum novae-angliae",
       "commonName": "New England Aster",
-      "description": "A tall, robust North American perennial wildflower topped with clusters of daisy-like flowers with yellow centers. It is a crucial late-season nectar source for pollinators and migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America in meadows, prairies, and roadsides",
+      "description": "Dense clusters of daisy-like flowers with narrow violet-purple petals around golden-yellow centers. They light up roadsides, prairies and garden borders when most other blooms are fading. Bees and migrating butterflies gather on them in large numbers.",
+      "bloomingSeason": "Late summer to autumn, roughly August through October",
+      "location": "Eastern and central North America, in meadows, prairies and garden borders",
       "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "yellow"
+        "Violet-purple",
+        "Pink",
+        "Golden yellow"
       ],
       "emoji": "💜",
-      "funFact": "New England Aster flower heads close up on cloudy days and at night, opening again with sunlight."
+      "funFact": "New England asters are a key fuel stop for migrating monarch butterflies. The flower heads close up on dull, cloudy days and open again in sunshine."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing subtropical tree with fern-like foliage that bursts into masses of trumpet-shaped lavender-blue flowers, often carpeting the ground beneath when the blossoms fall.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Airy, feathery foliage carries saucer-shaped blooms that sway on tall, slender stems. They are cheerful and easy to grow, and they keep producing flowers until the first hard frosts arrive. They are a favorite in cottage gardens and cutting beds.",
+      "bloomingSeason": "Summer through autumn, roughly June to October in temperate northern gardens",
+      "location": "Temperate Northern Hemisphere gardens, such as the American Midwest; native to Mexico",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Pink",
+        "White",
+        "Red",
+        "Yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees that turn the streets purple each October."
-    },
-    {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of apricots and peaches. It is commonly planted in gardens and temple grounds across East Asia.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Native to China and Japan; cultivated in warm temperate regions worldwide",
-      "colors": [
-        "white",
-        "pale yellow",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Its blossoms are used in Chinese teas, pastries, and liqueurs, and are central to the Mid-Autumn Festival traditions in Guilin, a city whose name means 'forest of osmanthus'."
+      "emoji": "🌸",
+      "funFact": "Cosmos comes from a Greek word meaning 'order' or 'harmony', a nod to the tidy, balanced arrangement of its petals. Regular deadheading keeps the plants blooming for months."
     }
   ]
 }

@@ -2,62 +2,48 @@
   "date": "October 24",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. It thrives in cool fall weather and is a staple of autumn gardens across the Northern Hemisphere.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "Cultivated worldwide; native to East Asia, especially China and Japan",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,000 years, and the flower is the national symbol of Japan, where the Chrysanthemum Throne is named for it."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Blue Jacaranda",
-      "description": "A spectacular deciduous tree whose canopy is covered in clusters of trumpet-shaped lavender-blue flowers. It blooms in the Southern Hemisphere spring and carpets streets with fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Grafton, Sydney), and Argentina",
+      "description": "Whole avenues turn lavender-blue as this graceful tree erupts in clouds of trumpet-shaped blossoms. The fallen flowers carpet pavements and lawns in violet. The fern-like leaves stay delicate and airy underneath.",
+      "bloomingSeason": "Late spring, roughly October to November in the Southern Hemisphere",
+      "location": "Pretoria, South Africa, and other Southern Hemisphere cities such as Sydney and Buenos Aires",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Lavender",
+        "Blue",
+        "Violet"
       ],
       "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, known as the Jacaranda City, there are about 70,000 jacaranda trees, and there is a local saying that a bloom falling on your head brings good luck."
+      "funFact": "Pretoria is nicknamed the Jacaranda City because of the tens of thousands of these trees lining its streets. They were first planted there in the 1888."
+    },
+    {
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Dense, pom-pom-like and spidery blooms burst into color just as autumn leaves turn. They are a beloved fall garden plant, and they stay cheerful through the first cool nights and light frosts.",
+      "bloomingSeason": "Autumn, typically September to November in the Northern Hemisphere",
+      "location": "Gardens across Japan, China, Europe and North America",
+      "colors": [
+        "Gold",
+        "Bronze",
+        "White",
+        "Crimson",
+        "Purple"
+      ],
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums have been cultivated in China for more than 2,000 years. Japan's Imperial family uses a stylized chrysanthemum as its crest."
     },
     {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that produces crocus-like pink-lilac flowers in autumn without any leaves present. The foliage emerges the following spring and dies back by summer.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Meadows and woodland edges of Europe, from the UK to the Balkans; grown in gardens in temperate regions",
+      "description": "Pale lilac, goblet-shaped flowers rise straight from bare ground in damp meadows, with no leaves in sight. They bring a surprising touch of spring-like delicacy to the autumn landscape.",
+      "bloomingSeason": "Autumn, typically September to October",
+      "location": "Meadows and woodland edges of western and central Europe",
       "colors": [
-        "pale pink",
-        "lilac",
-        "white"
+        "Pale lilac",
+        "Pink",
+        "White"
       ],
       "emoji": "💜",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid. It is used in medicine for gout and in plant breeding to induce chromosome doubling."
-    },
-    {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "A daisy-like annual with feathery foliage and tall, airy stems topped with saucer-shaped flowers. It keeps blooming until the first frost and attracts butterflies and bees in late season.",
-      "bloomingSeason": "Summer to first frost (June to late October in temperate zones)",
-      "location": "Native to Mexico and the southwestern US; cultivated in gardens worldwide",
-      "colors": [
-        "pink",
-        "white",
-        "magenta",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "Cosmos comes from the Greek word 'kosmos', meaning order or harmony, a name given by Spanish priests who grew the plants in their mission gardens in Mexico."
+      "funFact": "The leaves appear months later, in spring, which gives it the nickname 'naked ladies'. All parts of the plant are highly toxic, and it is the source of the compound colchicine used in medicine."
     }
   ]
 }

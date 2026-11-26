@@ -2,39 +2,39 @@
   "date": "April 11",
   "events": [
     {
+      "year": 1689,
+      "title": "William III and Mary II Crowned",
+      "description": "William III and Mary II were crowned joint sovereigns in a ceremony that also marked the Scottish Parliament's agreement with the English decision to offer them the throne.",
+      "category": "Politics",
+      "significance": "The coronation sealed the Glorious Revolution settlement. It strengthened Parliament's power over the monarchy and shaped British constitutional government."
+    },
+    {
       "year": 1814,
-      "title": "Napoleon Abdicates and Signs the Treaty of Fontainebleau",
-      "description": "Following the capture of Paris by Coalition forces, Napoleon Bonaparte signed the Treaty of Fontainebleau, confirming his abdication as Emperor of the French. The treaty exiled him to the Mediterranean island of Elba, where he was granted sovereignty over the island.",
-      "category": "Politics and War",
-      "significance": "Marked the end of Napoleon's first reign and the apparent close of the Napoleonic Wars, though he would escape Elba in 1815 and return for the Hundred Days before his final defeat at Waterloo."
+      "title": "Napoleon Abdicates and Is Exiled to Elba",
+      "description": "After the Allies captured Paris, Napoleon Bonaparte gave up his throne as Emperor of France. He was exiled to the Mediterranean island of Elba.",
+      "category": "War and Politics",
+      "significance": "The abdication ended Napoleon's first reign and reshaped Europe. He escaped Elba less than a year later, which led to the Hundred Days and Waterloo."
+    },
+    {
+      "year": 1868,
+      "title": "Edo Castle Surrenders, Ending the Tokugawa Shogunate",
+      "description": "Former shogun Tokugawa Yoshinobu handed Edo Castle over to Imperial forces, which ended more than 250 years of Tokugawa rule.",
+      "category": "Politics",
+      "significance": "The surrender cleared the way for the Meiji Restoration. Japan then modernized rapidly and emerged as a major world power."
     },
     {
       "year": 1912,
-      "title": "Titanic Departs Queenstown on Her Maiden Voyage",
-      "description": "RMS Titanic made her final port call at Queenstown (now Cobh), Ireland, where she picked up additional passengers and mail before heading into the Atlantic Ocean. It was the last stop before the ship struck an iceberg on the night of April 14.",
-      "category": "Maritime History",
-      "significance": "The sinking of the Titanic, which killed more than 1,500 people, led to major reforms in maritime safety, including the International Convention for the Safety of Life at Sea (SOLAS)."
+      "title": "Titanic Leaves Queenstown on Its Final Stop",
+      "description": "The RMS Titanic left Queenstown, Ireland, and set out across the Atlantic for New York City. It was the liner's last port of call before it sank.",
+      "category": "Milestone",
+      "significance": "The departure began the last leg of the Titanic's only voyage. The sinking became one of history's best-known maritime disasters and led to major reforms in ship safety."
     },
     {
       "year": 1945,
-      "title": "Liberation of Buchenwald Concentration Camp",
-      "description": "Prisoners at Buchenwald took control of the camp as American forces of the US Third Army approached, and soldiers of the 6th Armored Division entered the camp shortly afterward. Tens of thousands of surviving inmates were freed.",
-      "category": "World War II",
-      "significance": "The liberation revealed the scale of Nazi atrocities to the Allied world and became a key part of the documentation of the Holocaust, shaping post-war justice and memory."
-    },
-    {
-      "year": 1968,
-      "title": "Civil Rights Act of 1968 Signed into Law",
-      "description": "President Lyndon B. Johnson signed the Civil Rights Act of 1968, known as the Fair Housing Act, which prohibited discrimination in the sale, rental, and financing of housing based on race, religion, and national origin. It was signed days after the assassination of Martin Luther King Jr.",
-      "category": "Civil Rights and Law",
-      "significance": "Extended federal civil rights protections to housing and remains a cornerstone of US anti-discrimination law, later expanded to cover sex, disability, and familial status."
-    },
-    {
-      "year": 1970,
-      "title": "Apollo 13 Launches",
-      "description": "NASA launched Apollo 13 from Kennedy Space Center with astronauts Jim Lovell, Jack Swigert, and Fred Haise, intended as the third crewed lunar landing. An oxygen tank exploded two days later, forcing the mission to abort the landing.",
-      "category": "Science and Exploration",
-      "significance": "The safe return of the crew became a landmark in crisis management and engineering ingenuity, often called a 'successful failure,' and it led to safety improvements in the space program."
+      "title": "Buchenwald Concentration Camp Is Liberated",
+      "description": "Allied forces liberated Buchenwald, one of the largest Nazi concentration camps on German soil. Prisoners had also taken action inside the camp as American troops approached.",
+      "category": "War",
+      "significance": "The liberation exposed Nazi atrocities to the world. It remains a key part of Holocaust remembrance."
     }
   ]
 }

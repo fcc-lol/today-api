@@ -2,61 +2,47 @@
   "date": "April 18",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad, blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to frilly parrot and double forms. Peak bloom occurs in mid-spring across temperate regions of the Northern Hemisphere.",
-      "bloomingSeason": "Mid to late spring (April to early May in the Northern Hemisphere)",
-      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; native to Central Asia",
-      "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "During the 17th-century 'Tulip Mania' in the Netherlands, single bulbs sold for more than the price of a luxurious canal house."
-    },
-    {
       "name": "Cornus florida",
       "commonName": "Flowering Dogwood",
-      "description": "A small deciduous tree whose showy display comes from four petal-like bracts surrounding a tight cluster of tiny greenish-yellow true flowers. The blooms appear before or as the leaves emerge, lighting up eastern woodlands and suburban yards.",
-      "bloomingSeason": "Mid April to early May",
-      "location": "Eastern United States, from southern New England to Florida and west to Texas",
+      "description": "A graceful, layered small tree whose branches are covered in broad, notched, petal-like bracts. They float above the bare woodland understory like pale butterflies. The true flowers are tiny greenish clusters in the center of each bract.",
+      "bloomingSeason": "April to May",
+      "location": "Eastern United States, in woodlands, gardens and streetsides from the mid-Atlantic to the South",
       "colors": [
-        "white",
-        "pink"
+        "White",
+        "Blush pink"
       ],
       "emoji": "🌸",
-      "funFact": "The bright red fruits that follow the flowers are an important autumn food source for songbirds, and the tree is the state tree of Virginia and Missouri."
+      "funFact": "What look like four big petals are actually modified leaves called bracts. They protect the cluster of small true flowers at the center."
     },
     {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine producing long, pendulous clusters of fragrant pea-like flowers. Blooms open all at once before the leaves fully expand, creating cascading curtains of color over pergolas, walls, and trees.",
-      "bloomingSeason": "Mid April to May",
-      "location": "Native to China; widely cultivated in Japan, Europe, and the southeastern United States",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Satin-smooth, cup-shaped blooms stand upright on sturdy stems in striped, flamed and solid colors. Mid-April is peak season in the Dutch bulb fields near Lisse, where the fields look like bands of paint stretching to the horizon.",
+      "bloomingSeason": "Early April to early May, peaking in mid-April",
+      "location": "The Netherlands, especially the bulb-growing region around Lisse and Keukenhof Gardens",
       "colors": [
-        "lavender",
-        "purple",
-        "blue-violet"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
       ],
-      "emoji": "💜",
-      "funFact": "Wisteria vines can live for over a century, and the twining stems can grow strong enough to crush wooden structures and drainpipes."
+      "emoji": "🌷",
+      "funFact": "In 17th-century Holland, tulip bulbs were so coveted that prices soared during 'tulip mania.' Some single bulbs reportedly sold for more than a skilled craftsman earned in a year."
     },
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Meadow Saffron",
-      "description": "Not suited to April; replaced here by an autumn bloomer of the Southern Hemisphere. Nerine bowdenii, a bulbous perennial, sends up naked stems topped with umbels of narrow, wavy-petaled, sparkling flowers just as autumn begins in southern regions.",
-      "bloomingSeason": "Autumn in the Southern Hemisphere (March to May)",
-      "location": "Native to South Africa's Eastern Cape and Drakensberg; naturalized in parts of Australia and New Zealand",
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Cape Nerine)",
+      "description": "Slender, sturdy stems rise from the ground topped with spidery umbels of frilled, glittering pink flowers. They bring a late burst of color as the southern hemisphere heads into autumn. The petals have a crystalline sparkle in the sun.",
+      "bloomingSeason": "Late summer to autumn, January to May",
+      "location": "Eastern South Africa, native to the high mountain grasslands and rocky slopes of the Drakensberg region",
       "colors": [
-        "pink",
-        "rose-pink"
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "The petals of Nerine have a crystalline surface that glitters in sunlight, which is why it is sometimes called the Guernsey lily or 'diamond lily'."
+      "funFact": "Nerine bowdenii is a summer-growing bulb from high mountains. Its flower stems often appear just as the leaves are dying back at the end of the growing season."
     }
   ]
 }

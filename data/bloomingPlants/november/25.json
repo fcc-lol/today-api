@@ -3,44 +3,47 @@
   "plants": [
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "Whole avenues of this tree erupt in clouds of trumpet-shaped lavender-blue flowers. The blooms carpet the pavement beneath in purple as they fall, and the tree's fern-like leaves make a soft backdrop.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere, peaking from October through November and sometimes lingering into December",
-      "location": "Pretoria, South Africa, and across southern Africa and eastern Australia",
+      "commonName": "Jacaranda",
+      "description": "Trees cloaked in clouds of lavender-blue trumpet flowers that carpet streets and gardens with fallen purple blooms. In late spring the whole canopy glows, often before the leaves fully return.",
+      "bloomingSeason": "Late spring to early summer (October to December in the Southern Hemisphere)",
+      "location": "Southern Hemisphere cities such as Pretoria in South Africa, Sydney in Australia and Buenos Aires in Argentina",
       "colors": [
         "Lavender",
-        "Violet-blue"
+        "Violet",
+        "Blue-purple"
       ],
-      "emoji": "🌳",
-      "funFact": "Native to South America, the jacaranda has become a signature of Pretoria, which is nicknamed the Jacaranda City because of its tens of thousands of street trees."
+      "emoji": "💜",
+      "funFact": "Jacaranda is native to South America, yet Pretoria is nicknamed the Jacaranda City because of the tens of thousands of trees lining its streets."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "This graceful evergreen shrub opens delicate, lightly fragrant flowers just as most gardens wind down for the year. Its blooms range from crisp white to rosy pink, with bright golden stamens at the center.",
-      "bloomingSeason": "Autumn to early winter, typically October through December",
-      "location": "Gardens in Japan and the southeastern United States, where it is widely grown",
+      "description": "A graceful evergreen shrub whose silky, softly fragrant blossoms open just as most gardens are fading for winter. Petals drift down in drifts of pink and white beneath glossy dark leaves.",
+      "bloomingSeason": "Autumn to early winter (October to December in the Northern Hemisphere)",
+      "location": "Gardens of Japan, the southeastern United States and mild parts of western Europe",
       "colors": [
+        "Pink",
         "White",
-        "Pale pink",
-        "Rose pink"
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "It belongs to the same genus as the tea plant, Camellia sinensis, and sasanqua seeds are pressed to make a culinary and cosmetic oil."
+      "funFact": "Camellia sinensis, the plant that gives us tea, is a close relative of the sasanqua camellia."
     },
     {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "The flame-red 'petals' that light up the holiday season are really colored leaves called bracts, which surround tiny yellow flowers. In warm climates it grows into a large, shrubby, open-air plant.",
-      "bloomingSeason": "Late autumn through winter, with color developing from November to January",
-      "location": "Southern Mexico, its native range, and warm gardens in places such as southern California and Hawaii",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Dense, many-petaled blooms in rich autumn shades that keep gardens and markets colorful when other flowers have faded. They flourish in the cool, short days of late fall.",
+      "bloomingSeason": "Autumn, peaking from October to late November",
+      "location": "Gardens and flower markets across East Asia, Europe and North America",
       "colors": [
-        "Red",
-        "Cream",
-        "Pink"
+        "Gold",
+        "Bronze",
+        "White",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "🎄",
-      "funFact": "It needs long nights of about 12 hours or more to color up, which is why it naturally reaches its full color around late November."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are short-day plants: they set buds only when nights grow long, which is why they bloom so reliably in autumn."
     }
   ]
 }

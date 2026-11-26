@@ -2,74 +2,46 @@
   "date": "October 10",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that sends up crocus-like flowers in autumn, well after its leaves have died back. The goblet-shaped blooms emerge directly from the ground without foliage, and strap-like leaves appear the following spring. All parts are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Native to Europe, in damp meadows and woodland edges; widely cultivated in temperate gardens of the Northern Hemisphere",
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Guernsey Lily relative)",
+      "description": "Just as the garden fades into autumn, naked leafless stems shoot up topped with spidery clusters of ribbon-petalled, rose-pink blooms that shimmer with a frosty sparkle in low autumn light. Their candy-bright color glows against golden leaves and damp, cool days.",
+      "bloomingSeason": "September to October, peaking in early to mid-autumn",
+      "location": "Gardens in the United Kingdom and Ireland, and other temperate Northern Hemisphere gardens (native to South Africa)",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple"
+        "Pink",
+        "Rose"
       ],
       "emoji": "🌸",
-      "funFact": "It contains colchicine, a compound used in medicine to treat gout and by plant breeders to induce chromosome doubling in crops."
+      "funFact": "Although it is native to the mountains of South Africa, it thrives in cool northern gardens. It flowers best when its bulbs are baked in summer sun and left crowded at the surface of the soil."
     },
     {
-      "name": "Aster novae-angliae (Symphyotrichum novae-angliae)",
-      "commonName": "New England Aster",
-      "description": "A tall, clump-forming perennial with hairy stems and dense clusters of daisy-like flowers with yellow centers. It thrives in moist meadows and is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America in prairies, meadows and roadsides; cultivated in gardens worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest of all proteas, it has a dinner-plate-sized flower head, a crown of silky, pink-tipped bracts surrounding a central cushion of fuzzy, creamy florets. It is a bold, sculptural bloom that looks almost prehistoric among the fynbos shrubland.",
+      "bloomingSeason": "Mainly winter and spring, roughly June to October in the Southern Hemisphere",
+      "location": "Cape fynbos of South Africa, including the slopes around Cape Town and Kirstenbosch",
       "colors": [
-        "Purple",
-        "Violet",
         "Pink",
-        "Yellow center"
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies rely on New England asters for fuel during their autumn migration to Mexico."
+      "emoji": "👑",
+      "funFact": "It is South Africa's national flower. Its tough, fire-adapted rootstock lets it resprout after the wildfires that regularly sweep through the fynbos."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A fast-growing deciduous to semi-evergreen tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. In spring the whole canopy turns violet and carpets the ground beneath with fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in Australia, South Africa (Pretoria), Argentina and New Zealand's northern regions",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Airy, feathery foliage carries daisy-like flowers with satiny petals that dance on slender stems in the breeze. In autumn, whole fields sway in waves of pink, magenta and white, a favorite sight for visitors to Japan's parks.",
+      "bloomingSeason": "Late summer through autumn, with famous mass displays in Japan in October",
+      "location": "Autumn flower fields in Japan, such as Showa Kinen Park in Tokyo (native to Mexico)",
       "colors": [
-        "Lavender",
-        "Blue-violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the Jacaranda City because of its roughly 70,000 trees that bloom every October."
-    },
-    {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A popular perennial with many flower forms, from daisy-like to pompom and spider types. Short days trigger bud formation, making it a classic autumn bloomer in gardens and in cut-flower production.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "Originated in China and Japan; grown in gardens across temperate regions of Asia, Europe and North America",
-      "colors": [
-        "Yellow",
-        "Bronze",
-        "White",
-        "Red",
-        "Purple"
+        "Pink",
+        "Magenta",
+        "White"
       ],
       "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years, and the flower is the imperial emblem of Japan."
-    },
-    {
-      "name": "Sternbergia lutea",
-      "commonName": "Winter Daffodil (Autumn Daffodil)",
-      "description": "A bulbous perennial that produces bright, crocus-like golden flowers in autumn alongside its strap-shaped leaves. It thrives in sunny, dry, rocky Mediterranean habitats.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "Mediterranean region through Turkey and the Middle East to Iran; grown in rock gardens elsewhere",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "It is often thought to be the biblical 'lily of the field' mentioned in the Gospels."
+      "funFact": "In Japan cosmos is called akizakura, meaning 'autumn cherry blossom', because its delicate pink flowers sway in fields in the way cherry blossoms do in spring."
     }
   ]
 }

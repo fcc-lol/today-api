@@ -2,66 +2,49 @@
   "date": "November 26",
   "plants": [
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with segmented, flattened stems edged with pointed teeth. It produces vivid tubular flowers at the tips of the stems. It is widely grown as a houseplant in the Northern Hemisphere, where it blooms as nights lengthen.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
-      "colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "White",
-        "Purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Unlike desert cacti, it grows on trees in humid Brazilian forests. It needs long nights and cool temperatures to set buds, which is why it flowers around Thanksgiving."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A large, fast-growing tree with fern-like leaves and dense clusters of trumpet-shaped flowers. In full bloom, the canopy turns purple and carpets the ground with fallen blossoms.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America; widely planted in South Africa, Australia, Argentina, and New Zealand",
+      "description": "Trees that look as if they are wrapped in lavender mist. Clusters of trumpet-shaped violet-blue flowers cover the branches and then drift down to make soft purple carpets on pavements, lawns and parked cars.",
+      "bloomingSeason": "Late spring in Australia, from about October to early December. Blooming peaks in northern areas first and arrives later in the south, so Melbourne's display falls around late November and early December.",
+      "location": "Sydney and Melbourne, southeastern Australia, where the South American native is widely planted as a street tree",
       "colors": [
+        "Violet",
         "Lavender",
-        "Purple",
-        "Blue-violet"
+        "Purple-blue"
       ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas earn it the nickname 'Jacaranda City'. In parts of Australia, the bloom is said to coincide with university exam season."
+      "emoji": "🌳",
+      "funFact": "Jacarandas are so closely tied to exam season in parts of Australia that students have long joked that a flower landing on your head means you will pass. The tree actually comes from South America."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, fragrant flowers. It blooms earlier than the common camellia and tolerates more sun, making it a popular hedge and garden plant in warm temperate regions.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to southern Japan; cultivated in the southeastern United States, Europe, and Australia",
+      "commonName": "Sasanqua camellia",
+      "description": "An elegant evergreen shrub that flowers when most of the garden is winding down. Its glossy dark leaves set off silky single or semi-double blooms with golden stamens, and many varieties are lightly fragrant.",
+      "bloomingSeason": "Autumn into early winter, generally from October through December or January, with peak bloom around mid-November in many gardens",
+      "location": "Gardens in the southeastern United States, such as Charleston, South Carolina, and other mild temperate regions. It is native to Japan.",
       "colors": [
         "White",
-        "Pink",
-        "Rose",
-        "Red"
+        "Pale pink",
+        "Rose pink",
+        "Deep red"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. Its seeds yield an edible oil used in Japan."
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis. Its seeds are pressed for an edible and cosmetic oil in Japan and China."
     },
     {
-      "name": "Chrysanthemum morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A perennial with lobed, aromatic leaves and showy, multi-petaled flower heads in many forms. It is a classic late-autumn bloomer because it flowers in response to shortening days.",
-      "bloomingSeason": "Autumn (October to December in the Northern Hemisphere)",
-      "location": "Native to East Asia; cultivated worldwide, especially in China, Japan, and Europe",
+      "name": "Schlumbergera truncata",
+      "commonName": "Thanksgiving cactus",
+      "description": "A jungle cactus with no spines. Its flat, scalloped, segmented stems arch downward, and each tip ends in an exotic flower in tiered, tubular layers. The blooms attract hummingbirds in the wild.",
+      "bloomingSeason": "Mid-November to late December, sometimes into January, which makes it a reliable holiday bloomer",
+      "location": "Native to the Atlantic Forest (Mata Atlântica) of southeastern Brazil, where it grows on trees and rocks. It is now popular as a houseplant around the world.",
       "colors": [
-        "Yellow",
+        "Magenta",
+        "Pink",
+        "Orange",
         "White",
-        "Bronze",
-        "Purple",
-        "Red",
-        "Pink"
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums have been cultivated in China for over 2,500 years. Japan's Imperial seal features a stylized chrysanthemum, and the flower is celebrated at an annual festival."
+      "emoji": "🌵",
+      "funFact": "It is an epiphyte, so in the wild it perches on tree branches and rocks and takes moisture from humid air. It also blooms in response to shorter days and cooler nights, which is why it flowers around the holidays indoors."
     }
   ]
 }

@@ -2,58 +2,45 @@
   "date": "July 26",
   "plants": [
     {
+      "name": "Lavandula angustifolia",
+      "commonName": "English Lavender",
+      "description": "Rolling fields of slender silver-green stems topped with fragrant violet-blue flower spikes hum with bees and perfume the warm summer air. Lavender in full bloom is one of Provence's best-known sights.",
+      "bloomingSeason": "Late June through August, usually peaking in July in southern France",
+      "location": "Provence, France (Northern Hemisphere, Mediterranean climate)",
+      "colors": [
+        "Violet",
+        "Blue",
+        "Lavender"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavender belongs to the mint family. Its name probably comes from the Latin 'lavare', meaning 'to wash', because Romans scented their baths with it."
+    },
+    {
       "name": "Nelumbo nucifera",
       "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large, round leaves held above the water and showy, fragrant flowers on tall stalks. The flowers open in the morning and close by afternoon, and the plant is widely cultivated in ponds and water gardens.",
-      "bloomingSeason": "Mid-summer, peaking July to August in the Northern Hemisphere",
-      "location": "Asia, from India to China and Japan, and cultivated in ponds across North America and Europe",
+      "description": "Large, cup-shaped blossoms rise on tall stalks above round, waxy leaves that float on warm, still ponds. Each flower opens at dawn and closes again by afternoon.",
+      "bloomingSeason": "Summer, roughly June through September in temperate East Asia, with peak bloom in July and August",
+      "location": "Ponds and wetlands across East Asia, including China and Japan",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "White"
       ],
       "emoji": "🪷",
-      "funFact": "Lotus seeds have been known to germinate after more than 1,000 years of dormancy, and the leaves have a micro-textured surface that sheds water and dirt, known as the lotus effect."
+      "funFact": "Lotus leaves have a microscopic texture that makes water bead up and roll off, carrying dirt with it. Engineers call this the 'lotus effect' and copy it in self-cleaning materials."
     },
     {
       "name": "Echinacea purpurea",
       "commonName": "Purple Coneflower",
-      "description": "A hardy herbaceous perennial with daisy-like flowers that have drooping rosy petals around a spiky, orange-brown central cone. It thrives in prairies and sunny gardens and is a magnet for pollinators.",
-      "bloomingSeason": "Early summer to early fall, at its height in July",
-      "location": "Eastern and central North America, widely cultivated in temperate gardens worldwide",
+      "description": "Daisy-like blooms with drooping rose-purple petals surround a spiky, copper-orange central cone. They are a staple of summer prairies and cottage gardens, and butterflies and goldfinches visit them constantly.",
+      "bloomingSeason": "Early summer through early fall, with peak bloom in July and August",
+      "location": "Eastern and central North America, including the prairies of the United States Midwest",
       "colors": [
-        "purple",
-        "pink",
-        "orange"
+        "Purple",
+        "Pink",
+        "Orange"
       ],
       "emoji": "🌸",
-      "funFact": "The spiky central cone gives the genus its name, from the Greek 'echinos' meaning hedgehog, and the plant has long been used in traditional Native American medicine."
-    },
-    {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of small, fragrant flowers. It prefers full sun and well-drained soil, and is grown in fields for essential oil and in gardens as a border plant.",
-      "bloomingSeason": "Mid to late summer, peaking in July",
-      "location": "Mediterranean region, cultivated in Provence in France, England, Bulgaria, and the Pacific Northwest",
-      "colors": [
-        "purple",
-        "lavender",
-        "blue"
-      ],
-      "emoji": "💜",
-      "funFact": "The name comes from the Latin 'lavare', meaning to wash, as the Romans used lavender to scent their baths."
-    },
-    {
-      "name": "Callistemon citrinus",
-      "commonName": "Crimson Bottlebrush",
-      "description": "An evergreen shrub whose cylindrical flower spikes resemble bottlebrushes, made up of long, showy red stamens. Where it grows in the Southern Hemisphere winter the plant produces sporadic blooms, and it is also popular in warm climates elsewhere.",
-      "bloomingSeason": "Flowers sporadically through the year, with notable blooms in winter in the Southern Hemisphere and summer in warm northern regions",
-      "location": "Eastern Australia, cultivated in California, the Mediterranean, South Africa, and other warm regions",
-      "colors": [
-        "red",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "Bottlebrush flowers produce abundant nectar that attracts honeyeaters, lorikeets, and other nectar-feeding birds in Australia."
+      "funFact": "The 'cone' is a dome of tiny individual flowers. The name Echinacea comes from the Greek 'echinos', meaning hedgehog, a reference to its spiny center."
     }
   ]
 }

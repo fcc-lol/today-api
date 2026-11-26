@@ -2,39 +2,39 @@
   "date": "January 9",
   "events": [
     {
+      "year": 1431,
+      "title": "The Trial of Joan of Arc Begins",
+      "description": "In English-occupied Rouen, judges opened the preliminary investigations into Joan of Arc, the teenage military leader who had rallied French forces during the Hundred Years' War.",
+      "category": "Politics and Law",
+      "significance": "The proceedings ended with her execution later that year. Her trial became one of history's most famous legal dramas, and she was later declared innocent and canonized."
+    },
+    {
+      "year": 1768,
+      "title": "Philip Astley Stages the First Modern Circus",
+      "description": "In London, the cavalry veteran and horse trainer Philip Astley staged a show of trick riding in a ring. It is regarded as the first modern circus.",
+      "category": "Culture and Entertainment",
+      "significance": "Astley's ring format and mix of acts set the pattern for circuses around the world."
+    },
+    {
       "year": 1788,
-      "title": "Connecticut Ratifies the U.S. Constitution",
-      "description": "Connecticut voted 128 to 40 to ratify the United States Constitution, becoming the fifth state to join the Union.",
+      "title": "Connecticut Joins the Union",
+      "description": "Connecticut ratified the United States Constitution and became the fifth state to enter the Union.",
       "category": "Politics",
-      "significance": "Added momentum to the ratification campaign that brought the new federal government into being, replacing the weaker Articles of Confederation."
+      "significance": "Its ratification added momentum to the young nation's new federal government."
     },
     {
-      "year": 1793,
-      "title": "First Balloon Flight in North America",
-      "description": "French aeronaut Jean-Pierre Blanchard flew a hydrogen balloon from Philadelphia and landed in Gloucester County, New Jersey, with President George Washington among the spectators.",
-      "category": "Science and Technology",
-      "significance": "Marked the beginning of human flight in North America and showed early public fascination with aviation."
-    },
-    {
-      "year": 1905,
-      "title": "Bloody Sunday in St. Petersburg",
-      "description": "Imperial troops fired on peaceful workers marching to petition Tsar Nicholas II for better conditions, killing and wounding hundreds. The date is January 22 in the Gregorian calendar but January 9 in the Julian calendar then used in Russia.",
-      "category": "Politics",
-      "significance": "Triggered the Russian Revolution of 1905 and severely damaged the Tsar's standing with the Russian people, foreshadowing the revolutions of 1917."
-    },
-    {
-      "year": 1913,
-      "title": "Birth of Richard Nixon",
-      "description": "Richard Milhous Nixon, later the 37th President of the United States, was born in Yorba Linda, California.",
-      "category": "Births",
-      "significance": "Nixon opened relations with China and pursued détente with the Soviet Union, but became the only U.S. president to resign, over the Watergate scandal in 1974."
+      "year": 1861,
+      "title": "The Star of the West Is Fired Upon",
+      "description": "As the civilian ship Star of the West tried to bring supplies and reinforcements to Fort Sumter in Charleston Harbor, it was fired upon and forced to turn back.",
+      "category": "Military and Conflict",
+      "significance": "The incident came just before the American Civil War began and showed how close the country was to open conflict."
     },
     {
       "year": 2007,
-      "title": "Steve Jobs Unveils the iPhone",
-      "description": "At the Macworld Conference in San Francisco, Apple CEO Steve Jobs introduced the first iPhone, combining a phone, an iPod and an internet communicator.",
-      "category": "Science and Technology",
-      "significance": "Transformed the mobile industry and helped usher in the modern smartphone era, reshaping communication, media and commerce worldwide."
+      "title": "Steve Jobs Unveils the First iPhone",
+      "description": "Apple co-founder Steve Jobs introduced the first iPhone, which combined a phone, an iPod and an internet device.",
+      "category": "Technology",
+      "significance": "The iPhone helped launch the modern smartphone era and changed how people communicate, work and get information."
     }
   ]
 }

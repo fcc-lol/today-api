@@ -2,61 +2,46 @@
   "date": "May 24",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A long-lived herbaceous perennial with large, often fragrant, double or single blooms held above deep green, glossy foliage. It is a classic cottage garden favorite and a staple of cut-flower arrangements.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China, Mongolia, and Siberia; widely cultivated in temperate gardens of North America and Europe",
+      "name": "Paeonia officinalis",
+      "commonName": "Common peony",
+      "description": "Bowl-shaped blooms 10–13 cm across open in deep crimson to rich pink, with a boss of golden stamens at the center. They sit above glossy, deeply divided leaves and look like silk pompoms. A cottage-garden favorite for centuries.",
+      "bloomingSeason": "Late spring (May)",
+      "location": "Gardens and meadows across Europe, where the plant is native, and in temperate gardens across the Northern Hemisphere",
       "colors": [
-        "Pink",
-        "White",
-        "Red",
-        "Coral"
+        "Crimson",
+        "Deep pink",
+        "Gold"
+      ],
+      "emoji": "🌺",
+      "funFact": "Peonies can live and flower for decades in the same spot. Some garden clumps outlast the people who planted them."
+    },
+    {
+      "name": "Rhododendron macrophyllum",
+      "commonName": "Pacific rhododendron",
+      "description": "Rounded clusters of ruffled, rose-pink blossoms with freckled throats light up the shaded conifer forests of the Pacific coast. Each trusses sits on leathery evergreen foliage. The bloom moves slowly up the mountainsides as spring advances.",
+      "bloomingSeason": "Late April to May at lower elevations, later higher up",
+      "location": "West of the Cascades, from southern British Columbia to northern California, including the Olympic Peninsula and Puget Sound islands",
+      "colors": [
+        "Rose pink",
+        "Pale pink",
+        "Magenta"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for more than 50 years in the same spot, and ants are often seen on the buds feeding on sugary nectar, though they are not needed for blooming."
+      "funFact": "It is the state flower of Washington, and in May its blooms brighten forest trails that stay green all year."
     },
     {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching deciduous shrub with delicate five-petaled flowers that appear along thorny stems. The blooms are followed by bright red rose hips in autumn that are rich in vitamin C.",
-      "bloomingSeason": "Late spring to early summer (May to July)",
-      "location": "Hedgerows, woodland edges, and scrubland across Europe, northwest Africa, and western Asia",
+      "name": "Rosa rugosa",
+      "commonName": "Rugosa rose",
+      "description": "This tough seaside shrub has crinkled, deeply veined leaves and wide, five-petaled flowers in rose pink or white. Each flower is crowned with 200 or more yellow stamens and has a strong, sweet perfume. After flowering it carries plump red hips.",
+      "bloomingSeason": "Late May through July, with scattered rebloom until frost",
+      "location": "Native to the coasts of eastern Russia, Japan, Korea and northern China. It is widely grown and naturalized on temperate shorelines and in gardens.",
       "colors": [
-        "Pale pink",
-        "White"
-      ],
-      "emoji": "🌹",
-      "funFact": "During World War II, British children collected rose hips from dog roses to make vitamin C-rich syrup when citrus imports were scarce."
-    },
-    {
-      "name": "Iris sibirica",
-      "commonName": "Siberian Iris",
-      "description": "A clump-forming perennial with slender, grass-like leaves and graceful flowers on tall, slim stems. It thrives in moist soils and is valued for its hardiness and elegant, butterfly-like blooms.",
-      "bloomingSeason": "Late spring to early summer (late May to June)",
-      "location": "Native to central and eastern Europe and northern Asia; grown in meadows, wet grasslands, and gardens in cool temperate zones",
-      "colors": [
-        "Blue",
-        "Purple",
+        "Rose pink",
         "White",
         "Yellow"
       ],
-      "emoji": "💜",
-      "funFact": "Unlike bearded irises that grow from rhizomes that need sun-baked drainage, Siberian irises prefer consistent moisture and can form huge clumps that go decades without division."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular subtropical tree that bursts into clouds of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Streets and parks turn violet when the trees reach peak bloom.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America; planted in Mexico, California, Florida, the Mediterranean, and parts of Asia",
-      "colors": [
-        "Lavender",
-        "Violet",
-        "Blue-purple"
-      ],
-      "emoji": "💐",
-      "funFact": "In Mexico City, the jacaranda bloom peaks in spring and the fallen purple flowers carpet the streets, and a local superstition says a blossom falling on your head brings good luck."
+      "emoji": "🌹",
+      "funFact": "The plant thrives in salt spray and sandy soil, so it is often grown to stabilize dunes. Its vitamin-rich hips are used in jams and teas."
     }
   ]
 }

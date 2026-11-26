@@ -4,60 +4,45 @@
     {
       "name": "Paeonia lactiflora",
       "commonName": "Chinese Peony",
-      "description": "A long-lived herbaceous perennial with large, fragrant, often double blooms atop sturdy stems with glossy, deeply lobed leaves. A cornerstone of cottage gardens and cut flower production.",
-      "bloomingSeason": "Late spring to early summer (May to June in the Northern Hemisphere)",
-      "location": "Native to Siberia, Mongolia, and northern China; widely cultivated in temperate gardens across North America and Europe",
+      "description": "Enormous, ruffled, fragrant blooms unfold like silk pom-poms in shades of blush, rose and crimson. They sit above glossy, deeply cut foliage in cottage gardens and parks.",
+      "bloomingSeason": "Late spring, typically May to early June, with peak bloom often around mid to late May in temperate regions",
+      "location": "Temperate Northern Hemisphere gardens, including the northern United States, Europe and northern China, where the species is native",
       "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
+        "Pink",
+        "White",
+        "Crimson",
+        "Blush"
       ],
       "emoji": "🌸",
-      "funFact": "Peonies can live and bloom for over 50 years in the same spot, and in China they have been cultivated for more than 1,500 years as symbols of prosperity and honor."
+      "funFact": "Peony buds are often covered in sweet nectar that attracts ants. Despite an old myth, the ants are not needed for the flowers to open."
     },
     {
-      "name": "Iris germanica",
-      "commonName": "Bearded Iris",
-      "description": "A rhizomatous perennial with sword-shaped gray-green leaves and showy flowers with three upright standards and three drooping falls, the latter bearing a fuzzy 'beard'.",
-      "bloomingSeason": "Late spring (May in temperate Northern Hemisphere regions)",
-      "location": "Hybrid of Mediterranean origin; cultivated throughout temperate regions worldwide",
+      "name": "Rosa gallica",
+      "commonName": "French Rose",
+      "description": "One of the oldest cultivated roses, it has richly scented, semi-double flowers in deep pinks and purple-crimson. Golden stamens glow at the center of each bloom.",
+      "bloomingSeason": "Once-blooming in late spring to early summer, usually May to June in temperate Europe",
+      "location": "Central and southern Europe, and gardens across the temperate Northern Hemisphere",
       "colors": [
-        "purple",
-        "blue",
-        "yellow",
-        "white",
-        "bronze"
-      ],
-      "emoji": "🪻",
-      "funFact": "The iris is named after the Greek goddess of the rainbow, and the dried rhizomes of related species, called orris root, are used in perfumery."
-    },
-    {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny deciduous shrub of hedgerows and woodland edges, bearing delicate five-petaled flowers followed by bright red rose hips in autumn.",
-      "bloomingSeason": "Late May through July in Europe",
-      "location": "Native to Europe, northwest Africa, and western Asia; naturalized in North America, Australia, and New Zealand",
-      "colors": [
-        "pale pink",
-        "white"
+        "Deep pink",
+        "Crimson",
+        "Purple-red"
       ],
       "emoji": "🌹",
-      "funFact": "Rose hips from the dog rose are extremely rich in vitamin C, and during World War II British children collected them to make a vitamin-rich syrup."
+      "funFact": "Gallica roses are among the ancestors of many modern garden roses, and their petals keep their fragrance for a long time after drying."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A graceful tropical to subtropical tree with fern-like leaves that erupts in clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath when they fall.",
-      "bloomingSeason": "Late spring in the Northern Hemisphere subtropics (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America; planted in Mexico, Southern California, Florida, Africa, and Australia",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "This is an evergreen shrub with glossy leaves and delicate, silky blossoms. In the cool, misty Southern Hemisphere autumn it brightens gardens when most other plants are fading.",
+      "bloomingSeason": "Autumn to early winter, roughly April to July in the Southern Hemisphere",
+      "location": "Cultivated gardens in Australia, New Zealand and South Africa, and native to southern Japan",
       "colors": [
-        "lavender",
-        "purple",
-        "blue"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, so many jacarandas have been planted that it is nicknamed the 'Jacaranda City', and in Mexico City the late spring bloom turns streets purple."
+      "emoji": "🌺",
+      "funFact": "Camellia sasanqua is related to the tea plant, Camellia sinensis, and its seeds are pressed for an edible oil used in parts of Asia."
     }
   ]
 }

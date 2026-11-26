@@ -4,60 +4,44 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flowers (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In frost-free regions it grows into large landscape shrubs several meters tall, while elsewhere it is a popular potted holiday plant. Short days trigger the bract coloration.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico; grown worldwide, outdoors in warm climates such as Mexico, Southern California, Florida, and Hawaii",
+      "description": "Wild poinsettias grow as lanky shrubs and small trees. In winter they put out blazing crimson bracts, which are leaf-like structures that look like petals. They crown clusters of tiny, button-like yellow flowers. Short winter days trigger the color change, so the show peaks just as the holiday season begins.",
+      "bloomingSeason": "Winter, typically December to January, when short days of about 10-12 hours trigger color",
+      "location": "Southern Mexico and Central America (native range); also grown worldwide as a holiday plant",
       "colors": [
         "Red",
-        "White",
-        "Pink",
-        "Cream"
-      ],
-      "emoji": "🌺",
-      "funFact": "The Aztecs called it cuetlaxochitl and used the bracts to make a reddish dye; the plant needs about 12 hours of uninterrupted darkness each night for several weeks to develop its color."
-    },
-    {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus / Christmas Cactus",
-      "description": "An epiphytic cactus with flat, segmented, arching stems that produce tubular, asymmetrical flowers at the tips. In the wild it grows on trees and rocks in humid mountain forests. Flowering is triggered by cool temperatures and long nights.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro; cultivated as a houseplant worldwide",
-      "colors": [
-        "Magenta",
-        "Pink",
-        "Red",
-        "Orange",
-        "White",
+        "Green",
         "Yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "Unlike desert cacti, it thrives in humid, shaded forest conditions and can live for decades, with some specimens passed down through generations of families."
+      "emoji": "🎄",
+      "funFact": "The showy red parts are modified leaves, not petals. The true flowers are the tiny yellow structures in the center, called cyathia."
     },
     {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana / Flamboyant Tree",
-      "description": "A broad, umbrella-shaped tropical tree with feathery fern-like leaves and spectacular clusters of large flowers. In the Southern Hemisphere, such as Australia and southern Africa, it blooms during the austral summer, covering the canopy in blossoms.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the dry season in some tropical regions",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions including Australia, South Africa, Brazil, and the Caribbean",
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "This bushy Australian tree is covered in sprays of small creamy flowers in early summer. After the petals drop, the sepals swell and turn a vivid rose-red. This gives bushes along the sandstone gullies and gardens of Sydney a festive glow right when the holidays arrive.",
+      "bloomingSeason": "Flowers appear from November to December in the Southern Hemisphere's early summer. The red sepals follow and are shed around February.",
+      "location": "Coastal New South Wales, Australia",
       "colors": [
-        "Scarlet",
-        "Orange-red"
+        "Cream",
+        "Red",
+        "Rose-pink"
       ],
-      "emoji": "🌳",
-      "funFact": "Although it is a beloved ornamental across the tropics, it is endangered in its native Madagascar due to habitat loss."
+      "emoji": "🌿",
+      "funFact": "The petals are tiny and fall away quickly. The red color that Australians use as Christmas decoration comes from the enlarged sepals."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery, dark green, divided leaves and nodding, saucer-shaped flowers that open in the cold of early winter. It thrives in shaded woodland and is valued for providing color in the dormant garden season.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe, including the Alps and Apennines; cultivated in temperate gardens in Europe and North America",
+      "name": "Camellia sasanqua",
+      "commonName": "Sasanqua Camellia",
+      "description": "A graceful, glossy-leaved evergreen shrub that brightens the cool, gray days of early winter. Its silky, often fragrant blooms open in drifts of white, blush and deep pink. They scatter petals like confetti beneath the branches, and are a welcome nectar source when little else is flowering.",
+      "bloomingSeason": "Late autumn into early winter, usually October or November through December or January",
+      "location": "Native to southern Japan; widely grown in mild temperate gardens of Asia, Europe, the Americas and Australasia",
       "colors": [
         "White",
-        "Pale pink"
+        "Pink",
+        "Rose-red"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its name, it is not a rose but a member of the buttercup family, and legend says it first bloomed in the snow from the tears of a shepherd girl who had no gift for the infant Jesus."
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make an edible oil used in Japan."
     }
   ]
 }

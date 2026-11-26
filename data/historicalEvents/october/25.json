@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1415,
-      "title": "Battle of Agincourt",
-      "description": "King Henry V of England led his outnumbered army to a decisive victory over a larger French force in northern France. English and Welsh longbowmen devastated the French cavalry and men-at-arms on muddy, narrow ground.",
-      "category": "Military",
-      "significance": "The victory was a high point of the Hundred Years' War, boosted English claims to the French throne, and led to the Treaty of Troyes in 1420."
+      "title": "Henry V Triumphs at Agincourt",
+      "description": "Outnumbered English forces under King Henry V defeated a much larger French army in the mud of northern France. Longbowmen played a decisive role in the victory.",
+      "category": "Battle",
+      "significance": "Agincourt became one of the best-known victories of the Hundred Years' War. It also became a lasting symbol of English martial pride."
+    },
+    {
+      "year": 1760,
+      "title": "George III Becomes King",
+      "description": "George III took the throne of Great Britain and Ireland after the death of his grandfather, George II. He was 22 years old.",
+      "category": "Politics",
+      "significance": "His reign lasted nearly 60 years. It covered the American Revolution, the Napoleonic Wars and the union of Great Britain and Ireland."
     },
     {
       "year": 1854,
-      "title": "Charge of the Light Brigade",
-      "description": "During the Battle of Balaclava in the Crimean War, a British light cavalry brigade charged down a valley against Russian artillery due to a miscommunicated order, suffering heavy casualties.",
-      "category": "Military",
-      "significance": "The charge became a symbol of military valor and blunders, immortalized in Tennyson's poem, and prompted scrutiny of British command structures."
+      "title": "The Battle of Balaclava",
+      "description": "British, French and Ottoman forces fought the Russian army during the Crimean War. The battle included the Charge of the Light Brigade, a disastrous cavalry advance.",
+      "category": "Battle",
+      "significance": "The charge became a famous example of courage mixed with command failure. It was later memorialized in Tennyson's poem."
     },
     {
       "year": 1881,
-      "title": "Birth of Pablo Picasso",
-      "description": "Pablo Ruiz Picasso was born in Málaga, Spain. He became one of the most influential artists of the 20th century, co-founding Cubism and producing works such as Les Demoiselles d'Avignon and Guernica.",
+      "title": "Pablo Picasso Is Born",
+      "description": "The Spanish artist was born in Málaga. He grew into one of the most inventive painters and sculptors of his era.",
       "category": "Birth",
-      "significance": "Picasso reshaped modern art and his work profoundly influenced painting, sculpture, and visual culture worldwide."
+      "significance": "Picasso co-founded Cubism and reshaped modern art. His influence is still felt across the art world."
     },
     {
-      "year": 1917,
-      "title": "October Revolution begins (Old Style date)",
-      "description": "On October 25 in the Julian calendar (November 7 in the Gregorian), the Bolsheviks led by Vladimir Lenin seized the Winter Palace in Petrograd and overthrew the Russian Provisional Government.",
-      "category": "Political",
-      "significance": "The revolution led to the establishment of the world's first communist state and the eventual creation of the Soviet Union, shaping 20th-century global politics."
-    },
-    {
-      "year": 1971,
-      "title": "People's Republic of China admitted to the United Nations",
-      "description": "The UN General Assembly adopted Resolution 2758, recognizing the People's Republic of China as the only legitimate representative of China to the UN and removing representatives of the Republic of China (Taiwan).",
-      "category": "Diplomacy",
-      "significance": "The decision reshaped international diplomacy, giving the PRC a permanent Security Council seat and affecting Taiwan's international status to this day."
+      "year": 1983,
+      "title": "U.S.-Led Invasion of Grenada",
+      "description": "American forces launched Operation Urgent Fury on the Caribbean island of Grenada. The operation followed a violent coup on the island.",
+      "category": "Military",
+      "significance": "It was a prominent Cold War intervention. It ended with the restoration of a civilian government on the island."
     }
   ]
 }

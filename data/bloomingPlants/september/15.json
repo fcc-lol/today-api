@@ -2,56 +2,58 @@
   "date": "September 15",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that sends up goblet-shaped, crocus-like flowers in autumn with no leaves present. The strap-shaped leaves emerge the following spring and die back by early summer, giving rise to the nickname 'naked ladies'.",
-      "bloomingSeason": "Late summer to mid-autumn (September to October)",
-      "location": "Europe, from Britain through central Europe; widely cultivated in temperate gardens worldwide",
+      "name": "Cyclamen hederifolium",
+      "commonName": "Ivy-leaved Cyclamen",
+      "description": "Swept-back pink petals rise on slender stems from the woodland floor. Each flower has a darker blush at its throat. Marbled, heart-shaped leaves follow and make a silvery carpet through autumn and winter.",
+      "bloomingSeason": "Late summer to mid-autumn (August to October)",
+      "location": "Woodlands and shaded gardens of southern Europe and the temperate Northern Hemisphere",
       "colors": [
-        "pale pink",
-        "lilac",
-        "lavender",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall, rhizomatous perennial forming dense colonies topped with arching plumes of tiny yellow flower heads. It thrives in meadows, roadsides and prairies and is a vital late-season nectar and pollen source for bees, butterflies and other insects.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to North America (eastern and central United States and Canada); naturalized in Europe and Asia",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; its pollen is heavy and sticky and insect-carried, while the wind-borne pollen of ragweed blooming at the same time is the true culprit."
-    },
-    {
-      "name": "Nerine bowdenii",
-      "commonName": "Bowden Lily (Cape Flower)",
-      "description": "A bulbous perennial with strappy leaves and sturdy stems topped by umbels of frilly, wavy-petaled pink flowers that sparkle in sunlight. It is popular in warm, sunny borders and makes a long-lasting cut flower.",
-      "bloomingSeason": "Early autumn in the Northern Hemisphere (September to November)",
-      "location": "Native to the Drakensberg mountains of South Africa; cultivated in temperate gardens in the UK, Europe and North America",
-      "colors": [
-        "pink",
-        "deep rose"
+        "Pale pink",
+        "Rose",
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "The petals have a glittering, crystalline sheen, which gave rise to the common name 'Guernsey lily' relatives and has made Nerine a favorite for late-season color when most other bulbs are dormant."
+      "funFact": "After pollination, the flower stalk coils like a spring and pulls the seed capsule down to the soil. Ants then carry the sticky seeds away."
     },
     {
       "name": "Acacia pycnantha",
       "commonName": "Golden Wattle",
-      "description": "An evergreen small tree or large shrub with sickle-shaped gray-green phyllodes and fluffy, fragrant globular flower clusters. In Australia's late winter to early spring it bursts into bloom, brightening bushland and gardens.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including Victoria, South Australia, New South Wales and the Australian Capital Territory",
+      "description": "Fluffy, fragrant golden pom-poms cover the branches and glow against grey-green foliage. The tree is a bright sight at the end of the Australian winter and attracts many birds and insects.",
+      "bloomingSeason": "Late winter to early spring (typically August to September)",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "bright golden yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌳",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, the first day of spring."
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and the country celebrates Wattle Day every 1 September."
+    },
+    {
+      "name": "Dimorphotheca sinuata",
+      "commonName": "Namaqualand Daisy",
+      "description": "Orange daisies with dark centers open toward the sun and turn whole hillsides into glowing carpets. When clouds roll in, the flowers fold shut.",
+      "bloomingSeason": "Late winter to early spring (peaking late August to September)",
+      "location": "Namaqualand, in the Northern Cape of South Africa",
+      "colors": [
+        "Orange",
+        "Yellow",
+        "Cream"
+      ],
+      "emoji": "🌻",
+      "funFact": "The flowers track the sun and close in cloudy weather or at night. Visitors are often advised to go on sunny afternoons for the best show."
+    },
+    {
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Goblet-shaped lilac-pink blooms appear in meadows and gardens with no leaves around them. The bare stems look like crocuses that have come up in the wrong season.",
+      "bloomingSeason": "Early autumn (September to October)",
+      "location": "Meadows and gardens across Europe",
+      "colors": [
+        "Lilac",
+        "Pale pink",
+        "Mauve"
+      ],
+      "emoji": "💜",
+      "funFact": "Despite the common name, it is not a true crocus, and it is highly toxic. Its leaves emerge in spring and die back long before the flowers appear."
     }
   ]
 }

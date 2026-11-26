@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1066,
-      "title": "Battle of Hastings",
-      "description": "Duke William of Normandy defeated King Harold II of England at the Battle of Hastings near the town of Hastings. Harold was killed in the fighting, leaving the English army broken.",
-      "category": "Military",
-      "significance": "The Norman victory led to the Norman conquest of England, transforming English language, law, aristocracy, and culture, and reshaping the course of European history."
+      "title": "The Battle of Hastings",
+      "description": "Duke William of Normandy's army defeated King Harold II's English forces near Hastings. Harold was killed in the fighting.",
+      "category": "Battle",
+      "significance": "The victory began the Norman conquest of England. It reshaped the country's monarchy, language, law and culture for centuries."
     },
     {
-      "year": 1890,
-      "title": "Birth of Dwight D. Eisenhower",
-      "description": "Dwight David Eisenhower was born in Denison, Texas. He rose to become Supreme Commander of Allied Expeditionary Forces in Europe during World War II and later served as the 34th President of the United States from 1953 to 1961.",
-      "category": "Births",
-      "significance": "Eisenhower oversaw the D-Day invasion of Normandy, and as president he launched the Interstate Highway System, ended the Korean War, and warned of the military-industrial complex."
+      "year": 1912,
+      "title": "Theodore Roosevelt Shot Before a Speech",
+      "description": "While campaigning for president in Milwaukee, Theodore Roosevelt was shot in the chest by a would-be assassin. His speech text and glasses case slowed the bullet. He went ahead and spoke for about an hour before he went to hospital.",
+      "category": "Politics",
+      "significance": "The episode became a famous example of political toughness. It came during his Progressive Party run in the 1912 election."
     },
     {
       "year": 1947,
       "title": "Chuck Yeager Breaks the Sound Barrier",
-      "description": "U.S. Air Force Captain Chuck Yeager piloted the rocket-powered Bell X-1 aircraft, nicknamed Glamorous Glennis, over the Mojave Desert, becoming the first person to fly faster than the speed of sound in level flight.",
+      "description": "U.S. Air Force Captain Chuck Yeager flew the experimental Bell X-1 faster than the speed of sound over the Mojave Desert in California.",
       "category": "Science and Technology",
-      "significance": "The flight proved that supersonic flight was possible and opened the way for modern high-speed aviation and the space age."
+      "significance": "The flight showed that humans could fly faster than sound. It opened the way for supersonic aviation and the early space age."
     },
     {
       "year": 1964,
-      "title": "Martin Luther King Jr. Awarded the Nobel Peace Prize",
-      "description": "Martin Luther King Jr. was announced as the winner of the Nobel Peace Prize for his nonviolent resistance to racial prejudice in the United States. At age 35, he was the youngest person to have received the award up to that time.",
-      "category": "Awards and Civil Rights",
-      "significance": "The prize brought international recognition to the American civil rights movement and reinforced the moral force of nonviolent protest during the period leading to the Civil Rights Act and the Voting Rights Act."
-    },
-    {
-      "year": 1912,
-      "title": "Attempted Assassination of Theodore Roosevelt",
-      "description": "While campaigning in Milwaukee, Wisconsin, as the Progressive Party candidate, former President Theodore Roosevelt was shot in the chest by John Schrank. The bullet was slowed by his folded speech and eyeglass case, and Roosevelt went on to deliver his speech before seeking medical care.",
-      "category": "Politics",
-      "significance": "The incident demonstrated Roosevelt's famed resilience and became a defining moment of the 1912 presidential campaign, which saw the Republican vote split and Woodrow Wilson elected."
+      "title": "Martin Luther King Jr. Wins the Nobel Peace Prize",
+      "description": "Martin Luther King Jr. was announced as the winner of the Nobel Peace Prize. At 35, he was the youngest recipient to that point. He was honored for leading nonviolent resistance to racial inequality in the United States.",
+      "category": "Civil Rights",
+      "significance": "The prize brought international recognition to the American civil rights movement. It strengthened its moral standing as major civil rights legislation took shape."
     }
   ]
 }

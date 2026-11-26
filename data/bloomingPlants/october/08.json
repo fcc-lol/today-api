@@ -3,59 +3,43 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that produces goblet-shaped flowers in autumn, long after its leaves have died back. The blooms emerge directly from the soil without foliage, which is why it is sometimes called 'naked ladies'. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Late summer to mid-autumn (September-October in the Northern Hemisphere)",
-      "location": "Meadows and woodland edges of Europe and North Africa; widely cultivated in temperate gardens",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Goblet-shaped lilac-pink flowers push straight out of bare soil with no leaves at all. They look like a crocus that has arrived on the wrong date. The strappy foliage comes up in spring and dies back, so autumn gardens get a surprise burst of colour.",
+      "bloomingSeason": "Late September to October, with flowers open in early October",
+      "location": "Temperate Europe and gardens across the Pacific Northwest of North America",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Mauve"
+        "lilac",
+        "pink",
+        "pale purple"
       ],
       "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust native wildflower with dense clusters of daisy-like flowers with yellow centers. It thrives in moist meadows and roadsides and is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to autumn (August-October)",
-      "location": "Eastern and central North America, from Quebec to Alabama and west to the Rockies",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Yellow center"
-      ],
-      "emoji": "🌼",
-      "funFact": "New England Asters are a key fuel stop for migrating monarch butterflies heading to Mexico in early October."
-    },
-    {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers with a scent reminiscent of apricots and peaches. It is widely planted in gardens, temples, and parks across East Asia.",
-      "bloomingSeason": "Autumn (September-October)",
-      "location": "Native to China, Japan, and the Himalayas; cultivated in Asia and the southern United States",
-      "colors": [
-        "Pale yellow",
-        "Cream",
-        "Orange"
-      ],
-      "emoji": "🌸",
-      "funFact": "In China, osmanthus blossoms are celebrated during the Mid-Autumn Festival and used to flavor tea, cakes, wine, and jam."
+      "funFact": "Autumn crocus is the source of colchicine, a compound used in medicine and in plant breeding. It is also highly toxic, and the plant is often called 'naked ladies' because the flowers appear without leaves."
     },
     {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular deciduous to semi-evergreen tree that covers itself with clouds of trumpet-shaped lavender-blue flowers before the new leaves emerge. It is a signature street tree in subtropical cities of the Southern Hemisphere.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October-November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia, and Argentina",
+      "commonName": "Blue jacaranda",
+      "description": "Whole streets turn hazy violet-blue as the trees burst into bloom. Clusters of trumpet-shaped flowers carpet the pavements below. The ferny canopy glows in the spring sun of the southern hemisphere.",
+      "bloomingSeason": "October, in the southern hemisphere spring",
+      "location": "Pretoria (Jakarandastad), South Africa, and other southern hemisphere cities",
       "colors": [
-        "Lavender",
-        "Blue-violet"
+        "blue-violet",
+        "lavender"
       ],
       "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, the jacaranda bloom is so iconic that the city is nicknamed 'Jacaranda City', and an old student superstition says a falling blossom on your head brings good luck in exams."
+      "funFact": "Native to South America, jacarandas were planted in Pretoria in such numbers that the city is nicknamed 'Jacaranda City'. Their October bloom is a local landmark."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden lily (Guernsey lily relative)",
+      "description": "Frilly, ribbon-petalled pink flowers sparkle on bare stems, as if dusted with frost. They open as the garden fades for the year. Their late show keeps pollinators fed well into autumn.",
+      "bloomingSeason": "Autumn, with flowers open through October",
+      "location": "Gardens in the UK and temperate Europe (native to South Africa)",
+      "colors": [
+        "bright pink",
+        "pale pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Nerine bowdenii comes from the mountains of South Africa's eastern region. Its petals have a glittering sheen, which is why the genus is nicknamed the 'jewel lily'."
     }
   ]
 }

@@ -2,44 +2,28 @@
   "date": "June 5",
   "holidays": [
     {
-      "name": "National Gingerbread Day",
-      "description": "A spicy-sweet day for bakers and cookie fans to whip up gingerbread cookies, cakes, and even little houses, no matter how far from Christmas it is.",
-      "origin": "Like many American food days, it grew out of food-calendar traditions and baking enthusiasts rather than an official proclamation. Gingerbread itself dates back to medieval Europe, where it was a popular fair treat.",
-      "category": "Food Day",
-      "emoji": "🍪",
-      "funFact": "Queen Elizabeth I of England is said to have had gingerbread cookies made in the likeness of her visiting dignitaries."
-    },
-    {
-      "name": "World Environment Day",
-      "description": "The biggest global day for encouraging environmental action, with cleanups, tree plantings, and campaigns that have everyone suddenly very concerned about their plastic straws.",
-      "origin": "Established by the United Nations General Assembly in 1972 on the opening day of the Stockholm Conference on the Human Environment. It has been celebrated every year since 1974.",
-      "category": "Awareness Day",
-      "emoji": "🌍",
-      "funFact": "Each year a different country hosts the celebrations and a different theme is chosen, from wildlife crime to beating plastic pollution."
-    },
-    {
-      "name": "Festival of Popular Delusions Day (Veggie Pride Parade Season Kickoff)",
-      "description": "A tongue-in-cheek nod to quirky belief and mass enthusiasm, an excuse to ponder the wacky ideas people have latched onto throughout history.",
-      "origin": "Inspired by Charles Mackay's 1841 book 'Extraordinary Popular Delusions and the Madness of Crowds,' which chronicled tulip mania and other historical crazes. The date is an informal, unofficial observance among trivia fans.",
-      "category": "Unofficial Observance",
-      "emoji": "🌷",
-      "funFact": "At the peak of Dutch tulip mania in the 1630s, a single rare bulb reportedly sold for more than the price of a fancy canal house, though historians now debate how extreme the craze really was."
-    },
-    {
-      "name": "National Ketchup Day",
-      "description": "A salute to the red condiment that sits on every diner table, with fries, burgers, and brave scrambled eggs all invited to the party.",
-      "origin": "Ketchup began as a fermented fish sauce called ke-tsiap in Southeast China. British traders brought it west, and tomatoes were added in the early 1800s in America. The day is an unofficial food observance celebrated by condiment fans.",
-      "category": "Food Day",
-      "emoji": "🍅",
-      "funFact": "In the 1830s, tomato ketchup was sold as a medicine, and it was marketed as a cure for indigestion."
+      "name": "National Veggie Burger Day",
+      "description": "A salute to the plant-powered patty. Black bean, chickpea, mushroom, lentil and beet versions all get their moment on the bun. Even devoted carnivores are invited to try one.",
+      "origin": "This is an unofficial food observance. It has been celebrated on June 5 by veggie fans and restaurants. The modern veggie burger is often traced to Gregory Sams, who sold his VegeBurger in London in the 1980s.",
+      "category": "Food",
+      "emoji": "🍔",
+      "funFact": "Gregory Sams's VegeBurger started as a dry mix that you rehydrated at home. It later became a supermarket staple in the UK."
     },
     {
       "name": "Hot Air Balloon Day",
-      "description": "A day to look to the skies and celebrate the colorful, floating wonder of hot air ballooning, the world's gentlest form of aerial adventure.",
-      "origin": "It commemorates June 5, 1783, when the Montgolfier brothers publicly demonstrated their first hot air balloon in Annonay, France, before a crowd of astonished onlookers.",
-      "category": "History and Pop Culture",
+      "description": "A day to look up and celebrate the colorful, drifting giants of the sky. Balloonists, dreamers and picnic-with-a-view fans mark it with launches and festivals.",
+      "origin": "The day honors the dawn of human flight. In 1783 the Montgolfier brothers of France publicly demonstrated their hot air balloon, and it rose into the sky above Annonay.",
+      "category": "Pop Culture & History",
       "emoji": "🎈",
-      "funFact": "The first passengers in a Montgolfier balloon later in 1783 were a sheep, a duck, and a rooster, who landed safely and became very unlikely aviation pioneers."
+      "funFact": "The first passengers in a Montgolfier balloon were not people. They were a sheep, a duck and a rooster, who flew in a test over Versailles later in 1783."
+    },
+    {
+      "name": "National Gingerbread Day",
+      "description": "A spicy-sweet day for gingerbread cookies, cakes and houses. You can bake some, nibble some, or build a tiny edible cottage and then eat the roof.",
+      "origin": "This is an unofficial food observance of unclear origin. Gingerbread itself dates back centuries in Europe, where it was sold at fairs and festivals.",
+      "category": "Food",
+      "emoji": "🍪",
+      "funFact": "Queen Elizabeth I is said to have served gingerbread figures made to look like her guests and visiting dignitaries."
     }
   ]
 }

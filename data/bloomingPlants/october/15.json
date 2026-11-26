@@ -2,62 +2,47 @@
   "date": "October 15",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Garden Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, from pompons to spiders. It thrives in the shortening days of fall and is a staple of gardens and florists across the Northern Hemisphere.",
-      "bloomingSeason": "Autumn (September to November in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Pale lilac-pink goblets rise straight from bare ground, with no leaves in sight. They carpet damp meadows and light woodland edges like a soft purple mist just as autumn deepens.",
+      "bloomingSeason": "Late summer to mid-autumn (roughly September to October)",
+      "location": "Meadows and woodlands across Western and Central Europe, including the UK, France and Germany",
       "colors": [
-        "yellow",
-        "bronze",
-        "white",
-        "purple",
-        "red"
+        "Lilac",
+        "Pale pink",
+        "Soft purple"
       ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants that set buds when nights lengthen. In Japan the flower is the emblem of the Imperial family, and the Chrysanthemum Throne is named after it."
+      "emoji": "🌷",
+      "funFact": "The flowers appear in autumn, but the leaves and seed capsules show up the following spring. This odd timing earned it the nickname 'naked ladies'. Every part of the plant contains colchicine, a potent toxin that is also used in plant breeding and medicine."
     },
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A large, graceful tree that is covered in clusters of trumpet-shaped lavender-blue flowers before its fern-like leaves fully emerge. Streets lined with jacarandas turn purple and carpet the ground with fallen blooms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Brisbane, Sydney) and Argentina",
+      "description": "Whole streets turn violet-blue as this graceful tree erupts in clouds of trumpet-shaped blossoms. Fallen petals pile up beneath it like a lavender carpet.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (October to November, peaking mid-October to early November)",
+      "location": "Pretoria and Johannesburg in South Africa, plus Sydney, Australia and Buenos Aires, Argentina",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Blue-purple",
+        "Lavender"
+      ],
+      "emoji": "🌳",
+      "funFact": "Native to South America, the jacaranda is now so tied to the October bloom in Pretoria, nicknamed the 'Jacaranda City', that local lore says a petal landing on your head brings good luck."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Airy, feathery foliage carries daisy-like flowers that sway on slender stems. Their bright petals surround golden centers and draw swarms of bees and butterflies.",
+      "bloomingSeason": "Summer through the first frost (often into mid-October in temperate regions)",
+      "location": "Gardens and roadsides across the temperate Northern Hemisphere, including the United States and Europe, with wild roots in Mexico",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "In Pretoria, known as the Jacaranda City, there are tens of thousands of jacaranda trees, and local lore holds that a blossom falling on your head brings good luck."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulb that sends up goblet-shaped pink-lilac flowers in autumn with no leaves present. The strap-like foliage appears only in the following spring, which gives the plant its nickname 'naked ladies'.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Meadows and woodland edges in Europe, from the British Isles to the Balkans; also grown in gardens elsewhere",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "The plant contains colchicine, a toxic alkaloid used in medicine to treat gout and by plant breeders to double chromosome numbers. It is not related to true saffron crocus, despite the name."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall native North American wildflower that produces masses of daisy-like flowers with golden centers. It is a vital late-season nectar source for pollinators and thrives in prairies, meadows and roadsides.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern and central North America, from Canada to the southern United States",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "magenta"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies rely on New England asters for nectar to fuel their long southward migration, which often passes through just as the flowers peak in mid October."
+      "funFact": "The name comes from the Greek word 'kosmos', meaning order or harmony, a nod to the neat symmetry of the petals. Regular deadheading can keep the plant flowering until a hard frost ends the season."
     }
   ]
 }

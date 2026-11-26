@@ -2,63 +2,49 @@
   "date": "November 16",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in many forms, including pompon, spider, and decorative types. Its flowering is triggered by the shortening days of autumn, and it is widely grown in gardens and for cut flowers.",
-      "bloomingSeason": "Mid-autumn to early winter (Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia, especially China and Japan",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the national flower of Japan, and the Chrysanthemum Throne is the name of the Japanese imperial seat. The Festival of Happiness celebrates them each autumn."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A tall, graceful tree that covers itself in clusters of trumpet-shaped lavender-blue flowers just as the southern spring reaches its peak. Fallen blossoms carpet streets and gardens in purple.",
-      "bloomingSeason": "Late spring to early summer (Southern Hemisphere, October to December)",
-      "location": "Native to South America; widely planted in South Africa, Australia, and Argentina",
+      "description": "Whole streets in Australian cities turn hazy lavender-blue as this tree drapes itself in clusters of trumpet-shaped blossoms. The fallen flowers carpet pavements and parked cars in violet.",
+      "bloomingSeason": "Late October through November, with the peak in early to mid November",
+      "location": "Eastern Australia, including Brisbane and Sydney",
       "colors": [
-        "lavender",
-        "violet",
-        "blue"
+        "Lavender",
+        "Violet",
+        "Blue-purple"
       ],
-      "emoji": "🌸",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas bloom each spring, earning it the nickname 'Jacaranda City'. In parts of Australia, folklore says that if a jacaranda blossom falls on your head, you will pass your exams."
+      "emoji": "🌳",
+      "funFact": "Jacarandas often flower before the fern-like leaves fully return, so the tree looks like a cloud of purple. In Australia, the bloom has long been linked with university exam season."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in the cool months, producing fragrant, delicate single or semi-double flowers with prominent golden stamens. It is one of the earliest camellias to flower and is popular in gardens in mild climates.",
-      "bloomingSeason": "Mid-autumn to early winter",
-      "location": "Native to Japan; cultivated in the southeastern United States, Europe, and Australia",
+      "commonName": "Sasanqua camellia",
+      "description": "This glossy-leaved evergreen shrub brightens the shortening days of autumn with delicate, often fragrant flowers. Their petals are silky and their golden stamens form a bright center.",
+      "bloomingSeason": "Autumn into early winter, generally from October or November through December or January",
+      "location": "Southern Japan, its native range, and mild-climate gardens across the Northern Hemisphere",
       "colors": [
-        "pink",
-        "white",
-        "rose-red"
+        "White",
+        "Pale pink",
+        "Rose",
+        "Deep pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua is a relative of the tea plant (Camellia sinensis), and its seeds are pressed to produce a culinary and cosmetic oil."
+      "emoji": "🌸",
+      "funFact": "Sasanqua camellias bloom months before their showier cousin, Camellia japonica. Their leaves are close relatives of those used to make tea."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with the largest flower head of any protea, a bowl-shaped bloom of pointed bracts surrounding a central cone of tiny flowers. It thrives in the fynbos vegetation, with flowering peaking in the southern spring.",
-      "bloomingSeason": "Late winter through summer, peaking in spring (Southern Hemisphere)",
-      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's chrysanthemum",
+      "description": "Chrysanthemums unfurl dense, layered blooms in autumn gardens and flower shows, from tight pompoms to spidery, shaggy starbursts. In Japan, they are celebrated in dedicated autumn exhibitions.",
+      "bloomingSeason": "Autumn, roughly September to November in Japan",
+      "location": "Japan, including gardens such as Tokyo's Shinjuku Gyoen",
       "colors": [
-        "pink",
-        "cream",
-        "silvery-white",
-        "crimson"
+        "Yellow",
+        "White",
+        "Crimson",
+        "Bronze",
+        "Pink"
       ],
-      "emoji": "🌷",
-      "funFact": "The king protea is South Africa's national flower, and its fire-adapted underground lignotuber allows it to resprout after bushfires."
+      "emoji": "🏵️",
+      "funFact": "The chrysanthemum is Japan's imperial emblem. Because it flowers in response to lengthening nights, growers can shade the plants to bring on blooms at will."
     }
   ]
 }

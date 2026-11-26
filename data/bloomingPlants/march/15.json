@@ -2,58 +2,44 @@
   "date": "March 15",
   "plants": [
     {
-      "name": "Prunus yedoensis",
+      "name": "Prunus × yedoensis",
       "commonName": "Yoshino Cherry",
-      "description": "A deciduous tree that produces clouds of delicate, slightly fragrant blossoms before its leaves emerge. Flowers appear in clusters of five-petaled blooms that fade from pale pink to nearly white. It is the most widely planted cherry in Japan and in many temperate parks worldwide.",
-      "bloomingSeason": "Late March to early April in Japan; as early as mid-March in warmer parts of its range",
-      "location": "Japan, Korea, Washington D.C. (USA), and temperate regions worldwide",
+      "description": "Clouds of pale, almond-scented blossoms cover bare branches before the leaves appear. Petals fall like soft snow in the spring breeze. The display draws crowds for flower-viewing picnics.",
+      "bloomingSeason": "Mid-March to mid-April, depending on latitude. Peak bloom comes in late March in warmer areas. Early blooms can appear in mid-March in the southern and warmer parts of Japan.",
+      "location": "Southern and western Japan, such as Kyushu and Shikoku, where early blooms begin around mid-March. It is also planted widely in temperate cities around the world.",
       "colors": [
-        "Pale pink",
-        "White"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌸",
-      "funFact": "Nearly all Yoshino cherries are clones propagated by grafting, so trees across a region often bloom in near-perfect synchrony, which is why the Japan Meteorological Agency can forecast a single 'cherry blossom front' moving north."
+      "funFact": "Yoshino cherries are a cultivated hybrid. Nearly all of them descend from a single original tree and are propagated by grafting, so trees across a region often bloom in near-perfect sync."
     },
     {
       "name": "Narcissus pseudonarcissus",
       "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with grey-green strap-like leaves and nodding flowers that have pale yellow outer petals and a deeper yellow trumpet. It grows in meadows, open woodlands, and grassy banks, and is the parent of many garden daffodil cultivars.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, including England, Wales, France, and Spain; naturalized in North America",
+      "description": "Nodding golden trumpets surrounded by paler yellow petals light up woodland floors and meadows. Whole drifts can appear almost overnight. They are a cheerful sign that winter is ending.",
+      "bloomingSeason": "Late February through March, often peaking in mid-March in milder parts of its range.",
+      "location": "Western Europe, including the woodlands and meadows of southern and western England and Wales.",
       "colors": [
         "Yellow",
         "Pale yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Daffodils contain the alkaloid galantamine, which has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "funFact": "The plant makes toxic alkaloids, including galantamine. Galantamine has been developed into a medicine used to treat symptoms of Alzheimer's disease."
     },
     {
-      "name": "Magnolia x soulangeana",
-      "commonName": "Saucer Magnolia",
-      "description": "A small deciduous tree or large shrub bearing large, goblet-shaped flowers on bare branches in early spring. The tulip-like blooms are white inside and pink to purple on the outside. It is a hybrid popular in gardens and street plantings.",
-      "bloomingSeason": "Early spring, March to April",
-      "location": "Cultivated across Europe, the southern and eastern United States, and temperate Asia",
+      "name": "Magnolia campbellii",
+      "commonName": "Campbell's Magnolia",
+      "description": "Huge goblet-shaped flowers open on leafless branches. They are among the most dramatic blooms of early spring. Each blossom can be as wide as a dinner plate.",
+      "bloomingSeason": "Late February to March in the Himalayan foothills and in mild temperate gardens.",
+      "location": "The Himalayan foothills of Nepal, Bhutan, and northeast India. It is also grown in mild gardens in Cornwall, Ireland, and New Zealand.",
       "colors": [
         "Pink",
-        "White",
-        "Purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "This hybrid was first bred in France in the 1820s by Étienne Soulange-Bodin, a retired cavalry officer, and magnolias belong to one of the oldest flowering plant lineages, predating bees."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "An evergreen shrub with the largest flower head in the genus Protea, up to 30 cm across. The bloom is a cluster of tiny flowers surrounded by showy, petal-like pink bracts. It thrives in the nutrient-poor, fire-prone fynbos landscapes of South Africa.",
-      "bloomingSeason": "Peak flowering in late summer to early spring in the Southern Hemisphere, with blooms present in March in some areas",
-      "location": "Western and Southern Cape, South Africa",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Red"
+        "Deep rose",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "The King Protea is South Africa's national flower, and its thick underground lignotuber lets it resprout after bushfires."
+      "funFact": "Magnolias are among the most ancient flowering plants. Their blooms look much like early flowers that were pollinated by beetles before bees became common."
     }
   ]
 }

@@ -2,75 +2,48 @@
   "date": "December 30",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A hardy evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pinkish tones. It is prized for flowering in the depths of winter, often pushing through snow.",
-      "bloomingSeason": "Late autumn to late winter (December to February in the Northern Hemisphere)",
-      "location": "Mountain woodlands of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
+      "name": "Hippeastrum x hybridum",
+      "commonName": "Amaryllis",
+      "description": "Towering stems carry trumpet-shaped blooms up to 8 inches wide. They glow like festive lanterns on windowsills while winter settles in outside.",
+      "bloomingSeason": "Late autumn to late winter when forced indoors in the Northern Hemisphere (typically December to February); outdoors in the Southern Hemisphere, flowering peaks in spring to early summer (October to December).",
+      "location": "Indoors across North America and Europe; outdoors in warm-climate gardens such as Australia and South Africa",
       "colors": [
-        "white",
-        "pale pink",
-        "green"
+        "Red",
+        "White",
+        "Pink",
+        "Salmon",
+        "Striped"
       ],
-      "emoji": "🌹",
-      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
-    },
-    {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous large shrub or small tree that produces spidery, strongly fragrant flowers with ribbon-like petals on bare branches. The flowers curl up in freezing temperatures to protect themselves and unfurl again when it warms.",
-      "bloomingSeason": "Winter (December to February)",
-      "location": "Central and eastern China; cultivated in temperate gardens across Europe, North America and Japan",
-      "colors": [
-        "golden yellow",
-        "orange",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers can survive hard freezes by curling their petals into tight spirals and reopening when conditions improve."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with fern-like leaves that bursts into masses of vivid scarlet-orange flowers. In some regions of the Southern Hemisphere and tropics it flowers around the turn of the year.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); varies by tropical region",
-      "location": "Native to Madagascar; widely planted in Australia, southern Africa, the Caribbean, India and tropical regions worldwide",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "It is native to only a small area of Madagascar and is endangered in the wild, yet it is one of the most widely planted ornamental trees in the tropics."
+      "emoji": "🌺",
+      "funFact": "Amaryllis bulbs are often sold waxed or in kits that bloom with no soil. The bulb stores enough energy to flower on its own."
     },
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and large, rose-like blooms. In mild climates it provides rich color in the middle of winter when few other shrubs are flowering.",
-      "bloomingSeason": "Winter to early spring (December to April)",
-      "location": "Native to Japan, Korea and China; cultivated in the southeastern United States, the Pacific Northwest, Europe and Australia",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs burst into rose-like blooms with golden stamens in the cool of winter. Their flowers brighten gardens when little else is in flower.",
+      "bloomingSeason": "Late autumn through early spring, with many cultivars flowering from December to March",
+      "location": "Gardens in the southeastern United States, the Pacific Northwest, the UK, and Japan",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of Camellia sinensis, the plant from which all true tea is made."
+      "emoji": "🌸",
+      "funFact": "Tea comes from a close relative, Camellia sinensis. Camellia japonica seed oil has long been used in Japan for hair care and cooking."
     },
     {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and tall stalks topped with rounded clusters of trumpet-shaped blue flowers. It thrives in summer heat and blooms around the new year in the Southern Hemisphere.",
-      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
-      "location": "Native to South Africa; naturalized and cultivated in Australia, New Zealand and Mediterranean-climate regions",
+      "name": "Metrosideros excelsa",
+      "commonName": "Pōhutukawa (New Zealand Christmas tree)",
+      "description": "Coastal trees erupt in crimson pom-pom flowers made of hundreds of bright stamens. They paint cliffs and beaches red at the height of the Southern Hemisphere summer.",
+      "bloomingSeason": "Late spring to midsummer in New Zealand, peaking in December and early January",
+      "location": "Coastal North Island, New Zealand",
       "colors": [
-        "blue",
-        "violet",
-        "white"
+        "Crimson",
+        "Red"
       ],
-      "emoji": "💠",
-      "funFact": "Its name comes from the Greek words agape (love) and anthos (flower), although it is not a true lily."
+      "emoji": "🌳",
+      "funFact": "The tree clings to sea cliffs with its roots and is a New Zealand symbol of the holiday season. Its flowering time is why it is called the Christmas tree there."
     }
   ]
 }

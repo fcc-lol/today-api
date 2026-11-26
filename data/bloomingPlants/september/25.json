@@ -4,59 +4,45 @@
     {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A cormous perennial that sends up goblet-shaped pink-lilac flowers in autumn without any leaves present. The strap-like leaves appear the following spring and die back by summer. All parts are highly toxic due to colchicine.",
-      "bloomingSeason": "Late summer to autumn (September-October)",
-      "location": "Native to Europe and North Africa meadows; widely cultivated in temperate gardens worldwide",
+      "description": "Just as the garden settles into autumn, goblet-shaped blooms rise straight from bare soil. They carry no leaves, as if they had appeared by magic. Each corm sends up a cluster of delicate flowers that glow against the fallen leaves.",
+      "bloomingSeason": "Mid-September to early October",
+      "location": "Temperate Europe and gardens across the Northern Hemisphere, including North America",
       "colors": [
-        "Pink",
         "Lilac",
+        "Pink",
         "White"
       ],
       "emoji": "🌷",
-      "funFact": "Colchicine from this plant is used in medicine to treat gout and in plant breeding to induce polyploidy, doubling chromosome numbers in crops."
+      "funFact": "Autumn crocus is not a true crocus. It belongs to the lily family. Its leaves appear in spring and die back long before the flowers emerge, which is why it is nicknamed 'naked ladies'."
     },
     {
       "name": "Symphyotrichum novae-angliae",
       "commonName": "New England Aster",
-      "description": "A tall, bushy native perennial with masses of daisy-like flowers with yellow centers and narrow purple rays. It thrives in moist meadows and roadsides and is a crucial late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to fall (August-October)",
-      "location": "Eastern and central North America; cultivated in gardens across temperate regions",
+      "description": "Tall, sturdy stems carry masses of daisy-like flowers with golden-yellow centers and rays of rich purple. In autumn meadows and along roadsides, they are a feast for late-season pollinators.",
+      "bloomingSeason": "Late August through October",
+      "location": "Meadows, prairies and wet ground in eastern and central North America",
       "colors": [
         "Purple",
-        "Violet",
         "Pink",
         "Yellow"
       ],
       "emoji": "💜",
-      "funFact": "Monarch butterflies rely heavily on New England asters for nectar to fuel their long autumn migration to Mexico."
-    },
-    {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely apricot-scented flowers in the leaf axils. It is a beloved ornamental across East Asia and is used to flavor teas, cakes, and liqueurs.",
-      "bloomingSeason": "Autumn (September-October)",
-      "location": "Native to southern China and the Himalayas; grown in Japan, Korea, and the southern United States",
-      "colors": [
-        "Pale yellow",
-        "Orange",
-        "White"
-      ],
-      "emoji": "🌼",
-      "funFact": "In China, the Mid-Autumn Festival is closely associated with osmanthus, and osmanthus cakes and wine are traditional treats."
+      "funFact": "Migrating monarch butterflies depend on New England asters for nectar. Their fuel stops along the autumn route to Mexico often come from these flowers."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A woody shrub producing enormous, bowl-shaped flower heads composed of colorful bracts surrounding a central cluster of true flowers. It is adapted to nutrient-poor fynbos soils and fire cycles.",
-      "bloomingSeason": "Spring in Southern Hemisphere (September-November, with some flowering year-round)",
-      "location": "Fynbos of the Western and Eastern Cape, South Africa",
+      "description": "Its enormous flower head looks like a crown. Layers of petal-like pink bracts surround a silky, pale center. It is South Africa's national flower and grows on the rugged slopes of the fynbos.",
+      "bloomingSeason": "July to October, peaking in the Southern Hemisphere's late winter and spring",
+      "location": "Fynbos of the southwestern and southern Cape, South Africa",
       "colors": [
         "Pink",
         "Cream",
-        "Red"
+        "White",
+        "Crimson"
       ],
-      "emoji": "🌸",
-      "funFact": "It is the national flower of South Africa, and its flower head can reach up to 30 cm across, the largest in the Protea genus."
+      "emoji": "👑",
+      "funFact": "The king protea has a thick underground stem called a lignotuber. After wildfires, it can resprout from this stem. This helps it survive in a fire-prone landscape."
     }
   ]
 }

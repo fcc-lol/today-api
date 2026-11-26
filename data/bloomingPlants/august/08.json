@@ -4,71 +4,44 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of golden ray florets surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is grown worldwide for seed, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
-      "location": "North America (native), cultivated across Europe, Russia, Ukraine, and Asia",
+      "description": "Towering stalks carry huge golden flower heads that turn to follow the sun. Their dark centers are ringed with bright yellow petals. Whole fields glow like a sea of suns.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July to September in the Northern Hemisphere)",
+      "location": "Central and Northern Europe, and the Great Plains of North America",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Orange"
       ],
       "emoji": "🌻",
-      "funFact": "Young sunflowers show heliotropism, following the sun from east to west each day, but mature blooms stop moving and generally face east."
+      "funFact": "A sunflower head is made up of hundreds to thousands of tiny individual flowers, called florets. Each floret can become a seed. The spiral pattern they form follows Fibonacci numbers."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
-      "bloomingSeason": "Mid-summer, peaking July to August in the Northern Hemisphere",
-      "location": "Mediterranean region native; cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Silvery, aromatic foliage rises into slender spikes of fragrant violet-blue blooms. Bees crowd the rows on warm afternoons. The scent drifts across hillsides and gardens.",
+      "bloomingSeason": "Summer, typically late June through August in the Northern Hemisphere",
+      "location": "Provence in southern France, and gardens across temperate Europe and North America",
       "colors": [
-        "purple",
-        "lavender",
-        "violet"
+        "Lavender purple",
+        "Violet-blue",
+        "Silver-green"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash'."
+      "funFact": "Lavender belongs to the mint family. Its name likely comes from the Latin word for washing, because the Romans scented their baths with it."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial that rises from muddy water with large, round, water-repellent leaves and stunning, fragrant flowers. It is deeply symbolic in Hinduism and Buddhism and is widely grown in ponds.",
-      "bloomingSeason": "Summer, peaking July to September",
-      "location": "Asia, including India, China, Japan, Vietnam, and northern Australia; cultivated in water gardens worldwide",
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gum",
+      "description": "A graceful, weeping tree with silvery-white bark and powdery blue-grey branches. Large, nectar-rich flowers hang in showy clusters. They draw honeyeaters and other birds through the cool season.",
+      "bloomingSeason": "Late autumn to winter, roughly May through September in the Southern Hemisphere",
+      "location": "Granite outcrops of Western Australia's Wheatbelt",
       "colors": [
-        "pink",
-        "white"
+        "Pink",
+        "Deep rose",
+        "Magenta"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus leaves have a micro-textured surface that sheds water and dirt, a phenomenon known as the 'lotus effect' that inspired self-cleaning materials."
-    },
-    {
-      "name": "Calluna vulgaris",
-      "commonName": "Heather (Scotch Heather)",
-      "description": "A low, evergreen shrub that carpets moorlands and heathlands with masses of tiny bell-shaped flowers. It tolerates poor, acidic soils and provides important nectar for bees late in summer.",
-      "bloomingSeason": "Late summer to autumn, beginning in August",
-      "location": "Scottish Highlands, Ireland, Scandinavia, and moorlands across Europe and northern Asia",
-      "colors": [
-        "pink",
-        "purple",
-        "magenta",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "Heather honey is prized for its gel-like texture and strong flavor, and heather was historically used for thatching, bedding, and brewing ale."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small evergreen tree with feathery foliage that bursts into fragrant golden pom-pom flowers during the southern winter and early spring. It is Australia's national floral emblem.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, beginning around July to August",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the green and gold of the wattle inspired the country's national sporting colors."
+      "emoji": "🌺",
+      "funFact": "Silver Princess Gum grows wild in only a few spots in Western Australia. It is a protected species there, yet it is popular in gardens around the world."
     }
   ]
 }

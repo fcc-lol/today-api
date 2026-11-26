@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1215,
-      "title": "King John Seals the Magna Carta",
-      "description": "At Runnymede near Windsor, England, King John affixed his seal to the Magna Carta under pressure from rebellious barons. The charter limited royal authority and asserted that the king was subject to the law.",
-      "category": "Politics and Law",
-      "significance": "The Magna Carta became a foundational document for constitutional government and the rule of law, influencing later legal and democratic traditions including the U.S. Constitution."
-    },
-    {
-      "year": 1752,
-      "title": "Benjamin Franklin's Kite Experiment",
-      "description": "According to traditional accounts, Benjamin Franklin flew a kite during a thunderstorm in Philadelphia to demonstrate that lightning is electrical in nature. The date is commonly cited, though historians debate the details of the experiment.",
-      "category": "Science",
-      "significance": "The experiment advanced understanding of electricity and led to the invention of the lightning rod, which protected buildings from fire and damage."
+      "title": "King John Seals Magna Carta",
+      "description": "On the meadow at Runnymede near the Thames, England's King John affixed his seal to the Magna Carta. Rebellious barons had forced him to agree to its terms.",
+      "category": "Politics",
+      "significance": "The charter established the principle that even a king must obey the law. It became a cornerstone of constitutional government and influenced later documents, including the U.S. Constitution."
     },
     {
       "year": 1836,
-      "title": "Arkansas Admitted as the 25th U.S. State",
-      "description": "Arkansas became the 25th state of the United States, entering the Union as a slave state shortly before Michigan was admitted as a free state, preserving the balance in the Senate.",
+      "title": "Arkansas Becomes the 25th State",
+      "description": "Arkansas was admitted to the Union as the 25th state. It was the third state carved from the vast Louisiana Purchase territory.",
       "category": "Politics",
-      "significance": "Its admission reflected the sectional tensions over slavery that shaped U.S. politics before the Civil War, and it expanded American statehood west of the Mississippi River."
+      "significance": "Its admission extended the nation's reach across the Mississippi Valley. It also formed part of the broader pattern of westward expansion and the sectional balance between slave and free states."
+    },
+    {
+      "year": 1864,
+      "title": "Arlington National Cemetery Is Established",
+      "description": "During the Civil War, Secretary of War Edwin Stanton designated Arlington as a national military cemetery. It began on 200 acres of land overlooking Washington, D.C.",
+      "category": "Military",
+      "significance": "The site has grown to more than 600 acres. It is now the nation's best-known resting place for fallen service members and a place of remembrance."
     },
     {
       "year": 1944,
-      "title": "Battle of Saipan Begins",
-      "description": "U.S. forces landed on Saipan in the Mariana Islands during World War II, beginning a major amphibious campaign against Japanese defenders.",
+      "title": "U.S. Marines Land on Saipan",
+      "description": "Some 40,000 Marines from the Second and Fourth Marine Divisions stormed ashore on Saipan in the Mariana Islands. The battle lasted until July 9.",
       "category": "Military",
-      "significance": "The capture of Saipan put U.S. bombers within range of the Japanese home islands and contributed to the collapse of Japan's inner defensive perimeter in the Pacific."
-    },
-    {
-      "year": 1996,
-      "title": "IRA Bombing in Manchester",
-      "description": "The Provisional IRA detonated a large truck bomb in central Manchester, England, injuring over 200 people and causing extensive damage to the city center, though there were no fatalities.",
-      "category": "Conflict and Terrorism",
-      "significance": "It was one of the largest bombs detonated in Britain since World War II and led to major urban redevelopment in Manchester, while underscoring the urgency of the peace process in Northern Ireland."
+      "significance": "Capturing Saipan gave the United States air bases within bomber range of the Japanese home islands. It was a major turning point in the Pacific War."
     }
   ]
 }

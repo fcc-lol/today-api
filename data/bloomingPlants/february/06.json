@@ -2,60 +2,46 @@
   "date": "February 6",
   "plants": [
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, making it one of the earliest signs of the end of winter in temperate gardens and woodlands.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Native to Europe; widely naturalized in the UK, Northern Europe, and North America",
-      "colors": [
-        "white",
-        "green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops produce a compound called galantamine, which is used in medication to treat symptoms of Alzheimer's disease."
-    },
-    {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that bears fragrant five-petaled blossoms on bare branches in the depths of winter. It is highly prized in East Asian gardens, bonsai, and art, and is followed by sour fruits used for pickling and liqueur.",
-      "bloomingSeason": "Mid winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "description": "Fragrant, delicate blossoms open on bare branches while winter still grips the landscape. Each flower has five rounded petals and gives off a sweet, spicy perfume. Ume groves are a beloved sign that spring is on its way.",
+      "bloomingSeason": "Late January to March, with peak bloom often in February",
+      "location": "Japan, including Atami and Mito, and across East Asia",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep Rose"
       ],
       "emoji": "🌸",
-      "funFact": "In Chinese culture the plum blossom is one of the 'Three Friends of Winter' and symbolizes perseverance and hope because it blooms in the cold."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A dramatic evergreen shrub with the largest flower head in the Protea genus, up to 30 cm across, made of showy pink bracts surrounding a central cluster of tiny flowers. It thrives in the fynbos vegetation on nutrient-poor, acidic soils.",
-      "bloomingSeason": "Mostly late spring to summer in the Southern Hemisphere, with some blooms in late summer and autumn; flowering cultivars can appear in February",
-      "location": "Southwestern and southern Cape regions of South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "silvery white"
-      ],
-      "emoji": "🌺",
-      "funFact": "The King Protea is the national flower of South Africa, and its lineage is ancient, dating back tens of millions of years."
+      "funFact": "Ume blooms weeks before cherry blossoms. The fruit is pickled into umeboshi and steeped into plum wine."
     },
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers that bloom in winter. It is popular in woodland gardens and mild-winter regions, with thousands of cultivars varying in form from single to fully double.",
-      "bloomingSeason": "Winter to early spring (December to April)",
-      "location": "Native to Japan, Korea, and eastern China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with golden stamens at the center. They brighten gardens in the cool, damp months of late winter. Whole petals often drop in one piece, leaving a carpet of color beneath the plant.",
+      "bloomingSeason": "Late winter to early spring, with peak bloom from January to March",
+      "location": "Gardens of the southeastern United States, Japan, and Mediterranean Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to produce camellia oil used in cooking and hair care."
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative of this plant, produces all the world's true tea."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Snowdrop",
+      "description": "Nodding white bells with green-tipped inner petals push up through frost and sometimes snow. They form drifts across woodlands and old churchyards. Their appearance is a quiet signal that winter is loosening its hold.",
+      "bloomingSeason": "January to March",
+      "location": "Woodlands and gardens across the United Kingdom and Europe",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops make a natural antifreeze-like protein that helps them survive cold. They also yield galantamine, a compound used in medicine."
     }
   ]
 }

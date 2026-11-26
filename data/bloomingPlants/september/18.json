@@ -3,57 +3,44 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Naked Ladies)",
-      "description": "A cormous perennial that sends up goblet-shaped, crocus-like blooms in autumn without any leaves present. The foliage emerges the following spring, then dies back by early summer.",
-      "bloomingSeason": "Late summer to mid-autumn (September–October in the Northern Hemisphere)",
-      "location": "Native to meadows of Europe; widely cultivated in temperate gardens in North America, the UK, and Australia",
+      "commonName": "Meadow saffron (autumn crocus)",
+      "description": "Goblet-shaped lavender-pink flowers rise straight out of bare ground, with no leaves in sight. The foliage appeared months earlier and has already died back. Whole meadows can look as if they were scattered with pale crocuses overnight.",
+      "bloomingSeason": "Late summer to early autumn (August–September)",
+      "location": "Meadows and gardens across Europe, in the Northern Hemisphere",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple",
-        "White"
+        "Lavender",
+        "Pink"
       ],
       "emoji": "🌷",
-      "funFact": "All parts contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+      "funFact": "Despite the name, it is not a true crocus and has no connection to saffron. All parts of the plant contain colchicine, a powerful toxin. Plant breeders also use colchicine to double the chromosome count of other plants."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall, rhizomatous perennial with arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators preparing for winter or migration.",
-      "bloomingSeason": "Late summer to autumn (August–October)",
-      "location": "Native to meadows, roadsides, and prairies of North America; naturalized in Europe and Asia",
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England aster",
+      "description": "Tall, sturdy stems carry dense clusters of daisy-like flowers with purple or pink rays around golden centers. They glow in prairies, damp meadows and roadsides just as other flowers fade. Migrating butterflies and late-season bees rely on them.",
+      "bloomingSeason": "Late summer through autumn (August to late October)",
+      "location": "Meadows and wet ground in eastern and central North America, in the Northern Hemisphere",
       "colors": [
+        "Purple",
+        "Pink",
         "Golden yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Despite its reputation, goldenrod is rarely the cause of hay fever; the real culprit is usually ragweed, which blooms at the same time but has wind-borne pollen."
-    },
-    {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A bulbous perennial whose leafless stalks suddenly erupt in clusters of striking red flowers with long, curved stamens. The strap-like leaves appear after flowering and persist through winter.",
-      "bloomingSeason": "Early to mid-autumn (September–October)",
-      "location": "Native to China, Korea, and Japan; naturalized in the southeastern United States; commonly seen along rice paddies and cemeteries in Japan",
-      "colors": [
-        "Red",
-        "Crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "In Japan it blooms around the autumn equinox (Higan) and is called higanbana; it is often planted around rice fields because the toxic bulbs deter rodents and moles."
+      "emoji": "💜",
+      "funFact": "New England asters are an important late-season nectar source for migrating monarch butterflies, which refuel on them during their long journey south."
     },
     {
       "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large evergreen shrub producing the biggest flower heads in the Protea genus, made of showy pink bracts surrounding a central cluster of tiny flowers. It thrives in nutrient-poor, acidic, well-drained soils.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August–November, peaking around September)",
-      "location": "Fynbos region of the Western and Eastern Cape, South Africa; cultivated in Australia, California, and Hawaii",
+      "commonName": "King protea",
+      "description": "South Africa's national flower has a dinner-plate-sized bloom. Rows of pink-tipped, silky bracts surround a central cone, so it looks like a crown. It grows on rocky mountain slopes in the fynbos.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (roughly July–October)",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa, in the Southern Hemisphere",
       "colors": [
         "Pink",
         "Cream",
-        "Silvery-white"
+        "Silvery white"
       ],
-      "emoji": "🌸",
-      "funFact": "The king protea is South Africa's national flower, and its fire-adapted woody rootstock allows it to resprout after wildfires."
+      "emoji": "👑",
+      "funFact": "The genus is named after Proteus, the shape-shifting Greek sea god. The name refers to how much the many protea species vary in form."
     }
   ]
 }

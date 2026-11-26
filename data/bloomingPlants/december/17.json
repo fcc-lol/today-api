@@ -4,61 +4,44 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with showy colored bracts surrounding tiny yellow flower clusters called cyathia. In its native habitat it grows as a woody shrub up to 4 meters tall, and it is also grown widely as a potted holiday plant in the Northern Hemisphere.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide",
+      "description": "Tiny golden-yellow flower clusters sit at the center of brilliant, petal-like bracts. Those bracts blaze scarlet across the hillsides and gardens of its homeland, and they are the flower most associated with Christmas.",
+      "bloomingSeason": "November to December (short-day flowering, peaking around Christmas)",
+      "location": "Southern Mexico, its native range, and warm gardens in the tropics and subtropics",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream",
-        "marbled"
+        "Red",
+        "Crimson",
+        "Golden yellow",
+        "Cream"
       ],
       "emoji": "🎄",
-      "funFact": "The colorful parts are modified leaves called bracts, not petals. The plant needs long uninterrupted nights of about 12 hours for several weeks to develop its color."
+      "funFact": "The showy 'petals' are really modified leaves called bracts. The true flowers are the small yellow cups, called cyathia, at their center."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with cup-shaped white flowers that fade to pink as they age. It blooms in cold weather and often pushes through snow, with bright yellow stamens at the center of each bloom.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens",
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "This Australian native shrub is covered in small creamy flowers in early summer. As each flower fades, its sepals swell and turn rich red, so the whole bush glows with festive color.",
+      "bloomingSeason": "Flowers open from about December, with the red calyces developing through the holiday season",
+      "location": "Eastern Australia, from the Sydney sandstone region and coastal New South Wales to gardens in Canberra",
       "colors": [
-        "white",
-        "pale pink",
-        "green"
+        "Cream",
+        "Red"
       ],
-      "emoji": "🌹",
-      "funFact": "Despite its name it is not a true rose but a member of the buttercup family. Legend says it first bloomed from the tears of a girl with no gift for the Christ child."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tree with a broad umbrella-shaped canopy and fern-like leaves. It produces large clusters of vivid flowers, each with one petal streaked with white and yellow, followed by long woody seed pods.",
-      "bloomingSeason": "Southern Hemisphere summer and tropical dry season (November to January in places like Australia, southern Africa and Brazil)",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "Although it is celebrated for its spectacular flowers, it is endangered in its native Madagascar due to habitat loss."
+      "emoji": "🌿",
+      "funFact": "The red 'petals' are actually enlarged calyces, the sepals, which keep growing after the true flowers drop."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "A dense evergreen shrub or small tree with glossy dark green leaves and lightly fragrant flowers. It blooms earlier than the common camellia and is popular for hedges, espaliers and winter gardens.",
-      "bloomingSeason": "Late autumn to mid-winter (October to January)",
-      "location": "Native to Japan and Taiwan; grown in mild climates in Asia, the southeastern US, Europe and Australia",
+      "description": "This graceful evergreen shrub is covered in open, softly scented blooms with golden stamens just as most gardens fall quiet. Its flowers light up winter hedges and shaded paths.",
+      "bloomingSeason": "Autumn into early winter, from about October or November through December and into January",
+      "location": "Native to southern Japan and widely grown in temperate gardens of Japan, Europe and North America",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "White",
+        "Pale pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "It is a close relative of the tea plant, and its seeds are pressed to produce camellia oil used in cooking and cosmetics in Japan and China."
+      "funFact": "Sasanqua camellias are close relatives of the tea plant, Camellia sinensis."
     }
   ]
 }

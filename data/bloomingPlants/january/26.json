@@ -4,58 +4,44 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in cool, humid conditions and is widely cultivated in gardens in warm temperate regions, where it brightens the dead of winter.",
-      "bloomingSeason": "Late winter to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea and China; cultivated in the southeastern United States, Europe, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms that open in the cool, damp days of winter. The flowers stand out against dark, leathery leaves and can be single, semi-double or fully layered with petals.",
+      "bloomingSeason": "Late winter to early spring, with peak bloom from about January to March in mild climates",
+      "location": "Japan, coastal China, and the southeastern United States, such as Georgia and the Carolinas",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of the tea plant (Camellia sinensis), and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make camellia oil, which is used in cooking and in traditional Japanese hair care."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous large shrub or small tree that produces spidery, ribbon-like, fragrant flowers on bare branches in mid-winter. The blooms tolerate frost by curling up in freezing temperatures and unfurling again when it warms.",
-      "bloomingSeason": "Mid to late winter (January to March)",
-      "location": "Native to central and eastern China; grown in temperate gardens across Europe and North America",
+      "name": "Prunus mume",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "A small tree that flowers on bare branches while frost is still possible. Its fragrant blossoms appear in clusters and perfume the winter air. Many East Asian gardens plant it to welcome the turning of the year.",
+      "bloomingSeason": "Mid-winter to early spring, with peak bloom from late January to March",
+      "location": "Southern Japan, eastern China, and Korea, in the warmer lowland regions",
       "colors": [
-        "yellow",
-        "gold",
-        "orange"
-      ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel flowers curl their petals into tight spirals during cold snaps to protect themselves, then relax once temperatures rise."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tree with fern-like leaves that becomes a spectacular canopy of fiery blossoms. In the Southern Hemisphere summer, it blooms in tropical and subtropical regions, with streets and parks glowing red-orange.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); dry season in some tropical regions",
-      "location": "Native to Madagascar; widely planted in northern Australia, Brazil, southern Africa, and tropical Asia",
-      "colors": [
-        "red",
-        "orange"
-      ],
-      "emoji": "🌳",
-      "funFact": "Although it is one of the most celebrated tropical ornamental trees, the flamboyant is endangered in its native Madagascar."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with the largest flower head in the Protea genus, resembling a giant artichoke with a crown of silky pink bracts. It grows in fynbos habitat and flowers heavily in the Southern Hemisphere's summer, attracting sunbirds and beetles.",
-      "bloomingSeason": "Late spring to summer in the Southern Hemisphere, with peak bloom from about November to February in cultivation",
-      "location": "Native to the Cape region of South Africa; cultivated in Australia, California, Hawaii, and New Zealand",
-      "colors": [
-        "pink",
-        "cream",
-        "silvery white"
+        "White",
+        "Pink",
+        "Deep Red"
       ],
       "emoji": "🌸",
-      "funFact": "The king protea is the national flower of South Africa, and its genus is named after Proteus, the Greek sea god who could change his shape."
+      "funFact": "In East Asian art and poetry, the plum blossom symbolizes perseverance and hope because it blooms in the cold. It is often paired with pine and bamboo as one of the 'Three Friends of Winter.'"
+    },
+    {
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Tall, sturdy stems rise from clumps of strappy leaves and carry round clusters of trumpet-shaped flowers. In the Southern Hemisphere summer, the blooms look like blue fireworks along garden borders and roadsides.",
+      "bloomingSeason": "Southern Hemisphere summer, with flowering from about December to February",
+      "location": "Native to South Africa's Eastern Cape, and widely grown in Australia and New Zealand",
+      "colors": [
+        "Blue",
+        "Violet",
+        "White"
+      ],
+      "emoji": "💙",
+      "funFact": "Despite its common name, the African Lily is not a true lily. The genus name comes from the Greek words for 'love' and 'flower.'"
     }
   ]
 }

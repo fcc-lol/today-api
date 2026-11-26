@@ -4,58 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant flowers. It thrives in sunny, well-drained soils and is widely grown in gardens and commercial fields for its essential oil.",
-      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens worldwide",
+      "description": "Rolling rows of slender silver-green stems topped with fragrant violet-blue spikes hum with bees and perfume the warm air. In Provence, the fields reach their peak display in mid-to-late June.",
+      "bloomingSeason": "Late June to August in Provence, with the first blooms opening in mid-June",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Violet",
+        "Purple",
+        "Blue"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing, and medicine; the name comes from the Latin 'lavare,' meaning 'to wash.'"
+      "funFact": "Lavender belongs to the mint family. Its name likely comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "One of the oldest cultivated roses, forming a low, suckering shrub with fragrant, richly colored semi-double flowers. It is a parent of many modern garden roses and blooms abundantly in mid-June.",
-      "bloomingSeason": "Early to midsummer (June in temperate Northern Hemisphere)",
-      "location": "Central and southern Europe and western Asia; cultivated in gardens worldwide",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "Big, rounded clusters of tiny flowers crowd together into puffs the size of a grapefruit. They brighten shady gardens and cottage fences with shades from sky blue to rosy pink.",
+      "bloomingSeason": "June to August in temperate Northern Hemisphere gardens",
+      "location": "Gardens in the eastern United States, the United Kingdom and Japan",
       "colors": [
-        "pink",
-        "crimson",
-        "magenta"
+        "Blue",
+        "Pink",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis,' the Apothecary's Rose, was used in medieval medicine and is said to have been the emblem of the House of Lancaster."
+      "emoji": "💠",
+      "funFact": "Soil chemistry changes the color. Acidic soil lets the plant take up aluminum, which turns the blooms blue, while alkaline soil produces pink ones."
     },
     {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy perennial wildflower with classic white petals around a yellow center, growing in meadows, roadsides, and grasslands. Its flowering stems rise up to 60 cm above lobed basal leaves.",
-      "bloomingSeason": "Late spring to midsummer (May to August)",
-      "location": "Native to Europe and temperate Asia; naturalized in North America, Australia, and New Zealand",
+      "name": "Nymphaea alba",
+      "commonName": "European White Water Lily",
+      "description": "Glossy round pads float on still ponds, and from them rise star-shaped white flowers with golden centers. The blooms open in the morning sunshine and close again by afternoon.",
+      "bloomingSeason": "June to August",
+      "location": "Lakes and slow-moving ponds across Europe, from the British Isles to Scandinavia",
       "colors": [
-        "white",
-        "yellow"
+        "White",
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "In some regions it is called the 'moon daisy' because its white petals appear to glow in the twilight of midsummer evenings."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub producing the largest flower heads of any protea, with a bowl of pink bracts surrounding a central mass of tiny flowers. It is adapted to nutrient-poor soils and fire-prone fynbos habitat.",
-      "bloomingSeason": "Late autumn to spring in the Southern Hemisphere, with peak bloom from about May to September",
-      "location": "Western and Southern Cape of South Africa; grown in Australia, California, and Hawaii",
-      "colors": [
-        "pink",
-        "cream",
-        "silver",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "King Protea is the national flower of South Africa, and its flower heads can reach up to 30 cm across."
+      "emoji": "🪷",
+      "funFact": "The flower stalks are long and flexible. They can reach down several meters to anchor the plant in the muddy bottom."
     }
   ]
 }

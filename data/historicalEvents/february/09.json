@@ -2,32 +2,39 @@
   "date": "February 9",
   "events": [
     {
-      "year": 1964,
-      "title": "The Beatles' First Appearance on The Ed Sullivan Show",
-      "description": "The Beatles performed on The Ed Sullivan Show in the United States, drawing an estimated 73 million viewers, one of the largest television audiences in American history at the time.",
-      "category": "Culture",
-      "significance": "This broadcast marked the start of the British Invasion in American popular music and cemented the Beatles' global stardom, reshaping popular music and youth culture."
-    },
-    {
-      "year": 1971,
-      "title": "Apollo 14 Returns to Earth",
-      "description": "Apollo 14 splashed down in the Pacific Ocean after the third crewed lunar landing mission, with astronauts Alan Shepard, Edgar Mitchell, and Stuart Roosa safely returning. Shepard and Mitchell had explored the Fra Mauro highlands on the Moon.",
-      "category": "Science and Space",
-      "significance": "The mission restored confidence in the Apollo program after the Apollo 13 emergency and returned valuable lunar samples for scientific study."
-    },
-    {
       "year": 1825,
-      "title": "John Quincy Adams Elected President by the House of Representatives",
-      "description": "After no candidate won a majority of electoral votes in the 1824 election, the U.S. House of Representatives chose John Quincy Adams as president over Andrew Jackson on the first ballot.",
+      "title": "House of Representatives Elects John Quincy Adams",
+      "description": "No candidate won a majority of electoral votes in the 1824 election, so the US House of Representatives decided the presidency. It chose John Quincy Adams over Andrew Jackson, who had won more popular and electoral votes.",
       "category": "Politics",
-      "significance": "The outcome, labeled the 'corrupt bargain' by Jackson's supporters, fueled political realignment and led to the formation of the Democratic Party and Jackson's victory in 1828."
+      "significance": "The result fueled Jackson's claim of a 'corrupt bargain' and reshaped American party politics. It helped Jackson's supporters build the Democratic Party."
     },
     {
-      "year": 1943,
-      "title": "Guadalcanal Campaign Ends",
-      "description": "Japanese forces completed their evacuation of Guadalcanal, and the Allies secured the island, ending the six-month campaign in the Solomon Islands.",
-      "category": "Military",
-      "significance": "The Allied victory was a major turning point in the Pacific War, shifting the strategic initiative away from Japan and opening the path for advances toward Japan."
+      "year": 1881,
+      "title": "Death of Fyodor Dostoyevsky",
+      "description": "The Russian novelist died in St. Petersburg at age 59. He wrote Crime and Punishment, The Idiot and The Brothers Karamazov. Russia's Julian calendar then dated his death January 28.",
+      "category": "Death",
+      "significance": "Dostoyevsky's psychological and philosophical novels shaped modern literature, existentialist thought and the way writers portray the inner life."
+    },
+    {
+      "year": 1895,
+      "title": "Volleyball Is Invented",
+      "description": "William G. Morgan, a YMCA physical education director in Holyoke, Massachusetts, created a new game he called 'Mintonette'. He designed it as a gentler indoor alternative to basketball for older businessmen.",
+      "category": "Sports",
+      "significance": "The game was later renamed volleyball. It grew into an Olympic sport played recreationally and competitively around the world."
+    },
+    {
+      "year": 1964,
+      "title": "The Beatles Appear on The Ed Sullivan Show",
+      "description": "The Beatles made their first live US television appearance on The Ed Sullivan Show, just days after arriving in America. An enormous TV audience tuned in.",
+      "category": "Culture",
+      "significance": "The broadcast launched the 'British Invasion' of American pop music. It marked a turning point in popular culture."
+    },
+    {
+      "year": 1969,
+      "title": "The Boeing 747 Takes Its First Flight",
+      "description": "The first Boeing 747 'Jumbo Jet' took off from Everett, Washington. It was the largest passenger airliner in the world at the time.",
+      "category": "Technology",
+      "significance": "The 747 made long-distance air travel affordable for millions of people. It transformed global tourism and commerce."
     }
   ]
 }

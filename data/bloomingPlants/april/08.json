@@ -3,56 +3,29 @@
   "plants": [
     {
       "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A hybrid flowering cherry tree that produces dense clusters of delicate, slightly fragrant five-petaled blossoms before the leaves emerge. It is the iconic tree of hanami celebrations and is widely planted in parks and along waterways.",
-      "bloomingSeason": "Late March to mid-April in temperate Northern Hemisphere",
-      "location": "Japan, Washington D.C. (USA), Korea, and temperate regions worldwide; in northern Japan and higher elevations it peaks in April",
+      "commonName": "Yoshino Flowering Cherry",
+      "description": "Before its leaves appear, this small, graceful tree is covered in airy clouds of pale pink to white blossoms. The petals drift down in the spring breeze like confetti and carpet the ground beneath the branches.",
+      "bloomingSeason": "Peak bloom in April, with the tree flowering in early spring before it leafs out",
+      "location": "Olympia, Washington State, USA, where the cherries on the State Capitol campus bloom in April",
       "colors": [
         "pale pink",
         "white"
       ],
       "emoji": "🌸",
-      "funFact": "The original Yoshino cherry trees in Washington D.C. were a gift from Tokyo in 1912, and all Yoshino cherries are thought to descend from a single original tree propagated by grafting."
+      "funFact": "The Yoshino cherry is a hybrid, and its blossoms open all at once before the leaves. This is why whole avenues seem to burst into bloom overnight."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A native European perennial bulb with trumpet-shaped yellow flowers and gray-green strap-like leaves. It grows in woodlands, meadows, and grassy banks, and its many cultivars are staples of spring gardens.",
-      "bloomingSeason": "March to April",
-      "location": "Western Europe, especially the UK, France, and Belgium; naturalized in North America",
+      "name": "Lupinus texensis",
+      "commonName": "Texas Bluebonnet",
+      "description": "Dense spikes of deep blue, pea-like flowers tipped with white spill across roadsides and meadows. Together they form a rolling blue carpet that is the signature sight of Texas in spring.",
+      "bloomingSeason": "Peak bloom from late March to mid-April, which includes April 8",
+      "location": "Texas Hill Country and Central Texas, USA",
       "colors": [
-        "yellow",
-        "pale yellow"
+        "deep blue",
+        "white"
       ],
-      "emoji": "🌼",
-      "funFact": "Daffodil bulbs contain lycorine and galantamine; galantamine is used in medicine to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Cercis canadensis",
-      "commonName": "Eastern Redbud",
-      "description": "A small deciduous tree whose clusters of pea-like magenta-pink flowers burst directly from branches and trunk before heart-shaped leaves appear. It thrives in woodland edges and is a favorite native ornamental that supports early pollinators.",
-      "bloomingSeason": "Late March to April",
-      "location": "Eastern and central United States, northern Mexico",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌳",
-      "funFact": "Redbud flowers are edible and have a tangy flavor, and the trees show cauliflory, meaning flowers grow straight from woody trunks and older branches."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "Not a spring bloomer in the north, this tree is in its late-blooming tail in parts of the Southern Hemisphere and in tropical highlands, but its relative spring display in lower-latitude regions makes it a notable April bloomer in places like Kenya, northern India, and parts of Florida and the Caribbean.",
-      "bloomingSeason": "Variable: October to December in the Southern Hemisphere; April to June in the northern subtropics",
-      "location": "Native to South America; widely planted in Kenya, India, Florida, and Mediterranean-type climates",
-      "colors": [
-        "lavender",
-        "violet-blue"
-      ],
-      "emoji": "💜",
-      "funFact": "A carpet of fallen jacaranda blossoms is considered a spectacle in cities such as Pretoria, which is nicknamed the Jacaranda City."
+      "emoji": "💙",
+      "funFact": "Texas made the bluebonnet its state flower in 1901. In 1971 the designation was expanded to cover every Lupinus species found in the state."
     }
   ]
 }

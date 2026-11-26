@@ -3,57 +3,44 @@
   "plants": [
     {
       "name": "Prunus × yedoensis",
-      "commonName": "Yoshino Cherry",
-      "description": "A hybrid flowering cherry tree that produces clouds of delicate, five-petaled blossoms before its leaves emerge. The flowers are pale pink fading to nearly white and have a faint almond scent.",
-      "bloomingSeason": "Late March to mid April",
-      "location": "Japan, Washington D.C. (USA), South Korea, and temperate parks and gardens worldwide",
+      "commonName": "Yoshino cherry (Somei Yoshino)",
+      "description": "Bare branches burst into clouds of white-to-blush blossoms before the leaves appear. Petals drift down like snow and cover paths and ponds in pale pink.",
+      "bloomingSeason": "March to April, with peak bloom in Japan's main cities from late March into early April",
+      "location": "Japan, including Tokyo, where it is the classic tree of hanami (flower-viewing) parties",
       "colors": [
+        "White",
+        "Pale pink"
+      ],
+      "emoji": "🌸",
+      "funFact": "Most Yoshino cherries are clones grafted from one original tree. Trees in the same area therefore tend to open at almost the same moment, which is why the bloom seems to sweep across a city in a few days."
+    },
+    {
+      "name": "Eschscholzia californica",
+      "commonName": "California poppy",
+      "description": "Silky, cup-shaped flowers glow like molten gold. They open in the sun and carpet hillsides and grasslands in fiery orange. Their feathery blue-green foliage sets off the blooms.",
+      "bloomingSeason": "Peak bloom is March to May, and flowers can appear earlier or later depending on rainfall",
+      "location": "California and the western United States, in grasslands, foothills and open meadows",
+      "colors": [
+        "Orange",
+        "Golden yellow",
+        "Cream"
+      ],
+      "emoji": "🌼",
+      "funFact": "The petals fold shut on cloudy days and at night, then open again in sunshine. It is the official state flower of California."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "Belladonna lily, naked lady",
+      "description": "Tall, bare, plum-colored stems rise without leaves and carry fragrant, trumpet-shaped pink flowers. The display is dramatic and often follows the first autumn rains.",
+      "bloomingSeason": "Autumn in the Southern Hemisphere, around March to April, depending on rainfall",
+      "location": "Western Cape, South Africa, and Mediterranean-climate gardens in the Southern Hemisphere",
+      "colors": [
+        "Rose pink",
         "Pale pink",
         "White"
       ],
-      "emoji": "🌸",
-      "funFact": "The 3,000 cherry trees given by Tokyo to Washington D.C. in 1912 were mostly Yoshino cherries, and the National Cherry Blossom Festival celebrates their peak bloom each spring."
-    },
-    {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil",
-      "description": "A perennial bulb with trumpet-shaped yellow flowers and gray-green strap-like leaves. The native wild form is smaller and more delicate than cultivated daffodils, with pale outer petals and a deeper yellow trumpet.",
-      "bloomingSeason": "Late February to April",
-      "location": "Western Europe, including the UK, France, and Spain, in woodlands and meadows; widely cultivated in temperate gardens",
-      "colors": [
-        "Yellow",
-        "Pale yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain lycorine and other alkaloids that make it toxic, which is why deer and rodents generally leave it alone. Galantamine, a compound from related Amaryllidaceae plants, is used in Alzheimer's medication."
-    },
-    {
-      "name": "Magnolia campbellii",
-      "commonName": "Campbell's Magnolia",
-      "description": "A large deciduous tree with spectacular goblet-shaped flowers up to 30 cm across that open on bare branches. The blooms are rich pink to deep rose and make a dramatic display in early spring.",
-      "bloomingSeason": "Late February to April",
-      "location": "Himalayan foothills of Nepal, Bhutan, and northeast India; cultivated in mild gardens in the UK, New Zealand, and the Pacific Northwest",
-      "colors": [
-        "Pink",
-        "Rose",
-        "White"
-      ],
-      "emoji": "🌺",
-      "funFact": "Campbell's magnolia can take 20 to 30 years from seed to produce its first flowers, so patient gardeners are rewarded with one of the most dramatic blooms in the plant world."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "Although famous for autumn blooms in the north, many Southern Hemisphere gardens see related bulbs such as Nerine and Amaryllis belladonna flowering in March and April. Amaryllis belladonna produces tall bare stems topped with clusters of fragrant, trumpet-shaped pink flowers.",
-      "bloomingSeason": "March to April in the Southern Hemisphere",
-      "location": "Native to the Western Cape of South Africa; naturalized in Australia, New Zealand, and California",
-      "colors": [
-        "Pink",
-        "Rose",
-        "White"
-      ],
       "emoji": "🌷",
-      "funFact": "Amaryllis belladonna is nicknamed the naked lady because its flowers appear on bare stems after the leaves have died back, and its flowers emerge in late summer to autumn in the Southern Hemisphere."
+      "funFact": "The flowers are nicknamed 'naked lady' because they bloom on leafless stalks. The foliage grows only after flowering, a reversal of the usual order."
     }
   ]
 }

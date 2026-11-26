@@ -4,61 +4,44 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like composite flower heads made of golden ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plant is widely grown for ornament, seeds, and oil.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere (July to September)",
-      "location": "Native to North America; cultivated worldwide, especially in the United States, Ukraine, Russia, and Argentina",
+      "description": "Towering stalks carry huge golden faces that follow the sun across the sky. In mid-August, fields across the American Great Plains glow with rows of yellow blooms. Bees and goldfinches crowd the flower heads.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July to September in the Northern Hemisphere)",
+      "location": "Great Plains and Midwest, United States (also widely grown across Europe and Central Asia)",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Deep mahogany"
       ],
       "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west (heliotropism), but mature flower heads typically stop moving and face east, which helps warm them in the morning and attract pollinators."
+      "funFact": "A sunflower head is not one flower. It is a cluster of hundreds or even thousands of tiny florets, and they are arranged in spirals that follow the Fibonacci sequence."
     },
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-green foliage and slender spikes of fragrant purple flowers. It thrives in full sun and well-drained soil and is a favorite of bees and butterflies.",
-      "bloomingSeason": "Early to late summer (June to August), with peak bloom in July in many regions",
-      "location": "Native to the western Mediterranean; widely cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Silvery, fragrant mounds send up slender spikes of violet-blue flowers that hum with pollinators. In August, the lavender fields of Provence in southern France are in late bloom, and the warm air smells sweet and herbal.",
+      "bloomingSeason": "Early to late summer (typically June to August in southern Europe)",
+      "location": "Provence, France, and other Mediterranean regions of Europe",
       "colors": [
-        "purple",
-        "lavender",
-        "violet",
-        "blue"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender likely derives from the Latin 'lavare', meaning 'to wash', reflecting its long use by Romans in bathing and laundry."
+      "funFact": "Lavender oil has been used since ancient times, and the plant's name probably comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
     },
     {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily / Lily of the Nile",
-      "description": "A clump-forming perennial with strap-like leaves and tall, leafless stems topped with rounded umbels of trumpet-shaped blue flowers. It is a popular border and container plant in warm climates.",
-      "bloomingSeason": "Summer in the Northern Hemisphere (July to September); in its native range it blooms in the southern summer",
-      "location": "Native to South Africa; widely grown in coastal California, the Mediterranean, Australia, and the UK",
+      "name": "Epilobium angustifolium",
+      "commonName": "Fireweed",
+      "description": "Tall spires of bright magenta-pink flowers blaze across alpine meadows and burned or cleared land. The blooms open from the bottom of the spike upward through the summer, and by mid-August the spikes are nearing their tops. Fireweed is often among the first plants to recolonize land after a wildfire.",
+      "bloomingSeason": "Mid-summer to early autumn (typically July to September)",
+      "location": "Alaska, western Canada and the Rocky Mountains",
       "colors": [
-        "blue",
-        "violet",
-        "white"
-      ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, Agapanthus is not a true lily; its name comes from the Greek 'agape' (love) and 'anthos' (flower)."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy prairie perennial with drooping pinkish-purple petals around a prominent spiny, orange-brown central cone. It is a magnet for bees, butterflies, and seed-eating goldfinches, and tolerates heat and drought.",
-      "bloomingSeason": "Mid-summer to early autumn (June to October), with strong bloom in August",
-      "location": "Native to eastern and central North America; grown in gardens across temperate regions worldwide",
-      "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "white"
+        "Magenta",
+        "Pink",
+        "Rose-purple"
       ],
       "emoji": "🌸",
-      "funFact": "The genus name Echinacea comes from the Greek 'echinos', meaning hedgehog, referring to the spiny central cone of the flower."
+      "funFact": "Fireweed flowers open from the bottom of the spike to the top. Folk wisdom in Alaska holds that summer is nearly over when the top blossoms open."
     }
   ]
 }

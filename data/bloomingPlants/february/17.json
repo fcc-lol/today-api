@@ -3,59 +3,45 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter, often while snow is still on the ground. It is widely cultivated in Japan, China, and Korea, and its flowers are a traditional symbol of perseverance and the coming of spring.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "East Asia (Japan, China, Korea); cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare, dark branches burst into clusters of spicy-sweet, blush-pink blossoms. They open before any leaves appear, so the whole tree looks lit from within. Ume orchards and shrine gardens across Japan fill with fragrance while the weather is still cold.",
+      "bloomingSeason": "Late January through March, peaking in February",
+      "location": "Japan, including the plum groves and shrine gardens of Honshu",
       "colors": [
-        "white",
         "pink",
-        "deep red"
+        "white",
+        "deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are celebrated in Japan with ume matsuri festivals, and the fruit is pickled to make umeboshi and also used to make plum wine."
+      "funFact": "Ume blooms weeks before cherry blossoms. In Japan and China it is a symbol of perseverance, because it flowers in the cold at the end of winter."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It pushes up through frost and snow in woodlands and gardens, and often forms large carpets in naturalized areas.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "commonName": "Common snowdrop",
+      "description": "Small, nodding, bell-shaped white flowers hang from slender stems. Each has a green-tipped inner ring and sits above a clump of narrow, blue-green leaves. Snowdrops carpet woodlands and old churchyards, and they often push up through frost or a dusting of snow.",
+      "bloomingSeason": "January to March, with peak bloom in February",
+      "location": "Woodlands and gardens across the United Kingdom and temperate Europe",
       "colors": [
         "white",
         "green"
       ],
-      "emoji": "🤍",
-      "funFact": "Snowdrops produce a compound called galantamine, which is used in medicine to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with the largest flower head in the Protea genus, made up of a central cone surrounded by showy pink bracts. It thrives in the fynbos vegetation of the Cape region, where it is adapted to nutrient-poor soils and periodic fires.",
-      "bloomingSeason": "Late summer to early spring in the Southern Hemisphere, with peak bloom in spring and some flowering in February",
-      "location": "Southwestern and southern South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "silvery-white"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and its thick underground stem lets it resprout after fires."
+      "emoji": "❄️",
+      "funFact": "Snowdrops make their own natural antifreeze-like proteins. Their leaves are tough enough to push through frozen ground. The plant is also the source of galantamine, a compound used in Alzheimer's medicine."
     },
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers that bloom in the cooler months. It is a favorite in the gardens of the southeastern United States, Japan, and the mild maritime climates of Europe and the Pacific Northwest.",
-      "bloomingSeason": "Winter to early spring (December to April)",
-      "location": "Japan, Korea, and China; widely cultivated in the southeastern USA, Europe, and Australia",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs carry large, rose-like blooms of layered petals around golden stamens. The flowers appear when most other plants are dormant. In mild-winter regions such as the southeastern United States, camellias light up gardens from late winter into spring.",
+      "bloomingSeason": "Late winter to early spring, February to April in many regions",
+      "location": "Gardens of the southeastern United States, and native to Japan, Korea and eastern Asia",
       "colors": [
         "red",
         "pink",
         "white",
         "variegated"
       ],
-      "emoji": "🌹",
-      "funFact": "Camellia japonica is related to Camellia sinensis, the plant that gives us tea, and there are thousands of registered cultivars."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica belongs to the same genus as the tea plant, Camellia sinensis. Its seeds are pressed for camellia oil, a traditional hair and skin oil in Japan."
     }
   ]
 }

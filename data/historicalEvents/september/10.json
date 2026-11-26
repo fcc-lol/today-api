@@ -2,39 +2,32 @@
   "date": "September 10",
   "events": [
     {
-      "year": 1813,
-      "title": "Battle of Lake Erie",
-      "description": "During the War of 1812, a U.S. Navy squadron commanded by Oliver Hazard Perry defeated and captured an entire British Royal Navy squadron on Lake Erie near Put-in-Bay, Ohio. Perry reported, 'We have met the enemy and they are ours.'",
-      "category": "Military",
-      "significance": "The victory gave the United States control of Lake Erie, forced British withdrawal from Detroit, and paved the way for the American victory at the Battle of the Thames."
+      "year": 1419,
+      "title": "Duke of Burgundy Assassinated at Montereau",
+      "description": "John the Fearless, Duke of Burgundy, was killed by supporters of the Dauphin, the future Charles VII of France. He died during a supposed peace meeting.",
+      "category": "Death",
+      "significance": "The murder deepened the feud between the Burgundians and the Armagnacs during the Hundred Years' War. It pushed Burgundy into an alliance with England."
+    },
+    {
+      "year": 1547,
+      "title": "Battle of Pinkie",
+      "description": "English forces under Edward VI's regime decisively defeated a Scottish army. It was the last full-scale battle between the two kingdoms.",
+      "category": "Battle",
+      "significance": "The battle marked the end of an era of open warfare between England and Scotland. It was part of the 'Rough Wooing' over the future marriage of Mary, Queen of Scots."
+    },
+    {
+      "year": 1846,
+      "title": "Elias Howe Patents the Sewing Machine",
+      "description": "American inventor Elias Howe was granted a patent for his sewing machine. It used a lockstitch design with the thread passing through the needle's eye at the point.",
+      "category": "Invention",
+      "significance": "The machine helped transform clothing manufacture and the textile industry. It became a landmark of the Industrial Revolution."
     },
     {
       "year": 1919,
       "title": "Treaty of Saint-Germain-en-Laye Signed",
-      "description": "The Allied Powers and Austria signed the Treaty of Saint-Germain-en-Laye, formally dissolving the Austro-Hungarian Empire and recognizing Austria as a small republic.",
-      "category": "Politics",
-      "significance": "The treaty redrew the map of Central Europe, recognized new states such as Czechoslovakia and Yugoslavia, and prohibited union (Anschluss) between Austria and Germany."
-    },
-    {
-      "year": 1939,
-      "title": "Canada Declares War on Germany",
-      "description": "One week after Britain and France, Canada declared war on Nazi Germany, following a parliamentary vote under Prime Minister William Lyon Mackenzie King, with King George VI giving royal assent as King of Canada.",
-      "category": "Military",
-      "significance": "It marked Canada's independent entry into World War II as a sovereign nation, demonstrating its autonomy within the British Commonwealth."
-    },
-    {
-      "year": 1898,
-      "title": "Assassination of Empress Elisabeth of Austria",
-      "description": "Empress Elisabeth ('Sisi') of Austria, wife of Emperor Franz Joseph I, was stabbed by Italian anarchist Luigi Lucheni on the shore of Lake Geneva in Switzerland and died shortly afterward.",
-      "category": "Assassination",
-      "significance": "Her death shocked Europe, intensified crackdowns on anarchist movements, and was a further personal tragedy for the Habsburg dynasty in the years before World War I."
-    },
-    {
-      "year": 2002,
-      "title": "Switzerland Joins the United Nations",
-      "description": "Switzerland became the 190th member of the United Nations after a 2002 referendum in which Swiss voters narrowly approved membership.",
-      "category": "Politics",
-      "significance": "It ended Switzerland's long tradition of staying outside the UN and marked a notable shift in Swiss foreign policy while retaining its neutrality."
+      "description": "The Republic of German-Austria signed the treaty with the Allied powers after World War I. Austria gave up significant territory to Italy, Yugoslavia and Czechoslovakia.",
+      "category": "Treaty",
+      "significance": "The treaty formally dissolved the Austro-Hungarian Empire's old order and redrew the map of Central Europe."
     }
   ]
 }

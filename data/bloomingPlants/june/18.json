@@ -3,60 +3,32 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and dense spikes of fragrant purple flowers on slender stems. It thrives in full sun and well-drained soil and is widely grown in gardens and for commercial oil production.",
-      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, southern France, England, and cultivated across temperate zones worldwide",
+      "commonName": "English lavender",
+      "description": "Silvery-green mounds send up slender spikes crowded with tiny violet-blue flowers. The blooms hum with bees and release a sweet, herbal perfume that drifts across sunny gardens and Mediterranean hillsides in midsummer.",
+      "bloomingSeason": "June to August, so mid-June falls right at the start of peak bloom",
+      "location": "Temperate Northern Hemisphere, including the gardens and lavender fields of southern Europe and North America",
       "colors": [
-        "purple",
-        "lavender",
-        "blue",
-        "white"
+        "Lavender",
+        "Deep blue-purple",
+        "Pink",
+        "White"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years in perfumes, bathing, and medicine; the name comes from the Latin 'lavare', meaning 'to wash'."
+      "funFact": "The name lavender is widely thought to come from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub producing large rounded clusters of showy flowers. Blooms open in early summer and persist for weeks, making it a staple of cottage and woodland gardens.",
-      "bloomingSeason": "Early summer to early fall (June to September)",
-      "location": "Native to Japan; widely cultivated in the eastern United States, Europe, the Azores, and New Zealand",
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved banksia",
+      "description": "Dense, fine-leaved shrubs light up Australian winter bushland with upright, bottlebrush-like spikes of glowing orange-gold. The flowers open slowly from the base upward over several weeks. They draw honeyeaters and other nectar-feeding birds and mammals.",
+      "bloomingSeason": "Autumn through winter, roughly March to August, so mid-June is in the middle of the Southern Hemisphere bloom",
+      "location": "Coastal heathland and sandstone country of New South Wales, Australia",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
+        "Orange",
+        "Golden-orange",
+        "Red-orange"
       ],
-      "emoji": "🌸",
-      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "An aquatic perennial with floating round leaves and fragrant, star-shaped white flowers that rest on the water's surface. Flowers open in the morning and close in the afternoon.",
-      "bloomingSeason": "Early summer to late summer (June to August)",
-      "location": "Ponds, lakes, and slow rivers across Europe, North Africa, and parts of western Asia",
-      "colors": [
-        "white",
-        "yellow"
-      ],
-      "emoji": "🪷",
-      "funFact": "The flower stalks can grow several meters long to reach the surface, and the blooms track the sun, opening and closing in a daily rhythm."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with the largest flower head in the genus, a bowl-shaped bloom of pointed pink bracts surrounding a center of fuzzy florets. It is adapted to fire-prone, nutrient-poor fynbos habitat.",
-      "bloomingSeason": "Late autumn to early spring in the Southern Hemisphere, with peak blooms from May to August",
-      "location": "Western and Southern Cape of South Africa, in fynbos shrublands",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa, and its genus is named after the Greek god Proteus, who could change shape, reflecting the many forms of proteas."
+      "emoji": "🌰",
+      "funFact": "Each banksia 'flower' spike is made up of thousands of tiny individual flowers. After flowering, the spikes develop woody follicles that often stay closed until fire sweeps through, which releases the seeds."
     }
   ]
 }

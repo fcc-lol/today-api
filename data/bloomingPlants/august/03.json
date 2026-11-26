@@ -2,60 +2,46 @@
   "date": "August 3",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual plant with a large, coarse stem topped by a showy flower head with golden ray petals surrounding a dark central disc of tiny florets. The heads track the sun during early development. Widely cultivated for seed, oil, and ornament, and native to North America.",
-      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere",
-      "location": "North America, Europe, Ukraine, Russia, and temperate regions worldwide",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Huge blush-pink and white blooms rise on tall stalks above round, waxy leaves that bead water like quicksilver. The flowers open at dawn and perfume the still summer air over ponds and wetlands.",
+      "bloomingSeason": "July to August, so early August is in the flowering window",
+      "location": "Temperate East Asia, including the ponds and moats of Japan and China",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "deep red"
+        "Pink",
+        "White",
+        "Pale yellow"
       ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual flowers arranged in a Fibonacci spiral pattern."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves have a microscopic texture that sheds water and dirt. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray narrow leaves and slender spikes of tiny tubular flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Harvested for essential oils, sachets, and culinary uses.",
-      "bloomingSeason": "Mid-summer, peaking July to August in the Northern Hemisphere",
-      "location": "Mediterranean region, southern France (Provence), England, Bulgaria, and gardens worldwide",
+      "name": "Banksia spinulosa",
+      "commonName": "Hairpin Banksia",
+      "description": "Slender golden-orange flower spikes up to 18 cm long bristle with dark maroon, hook-shaped styles. They glow in the winter bush and draw honeyeaters, bees and other nectar-feeders when little else is flowering.",
+      "bloomingSeason": "Autumn and winter, which covers early August in the Southern Hemisphere",
+      "location": "Eastern Australia, New South Wales and Queensland",
       "colors": [
-        "purple",
-        "lavender",
-        "violet",
-        "blue"
-      ],
-      "emoji": "💜",
-      "funFact": "Despite its name, English lavender is native to the western Mediterranean; the Romans used it in bathwater, and the name comes from the Latin 'lavare' meaning to wash."
-    },
-    {
-      "name": "Epilobium angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower that forms spires of bright magenta-pink flowers that open from the bottom up. It is among the first plants to colonize burned or cleared land and carpets mountain meadows and roadsides in late summer.",
-      "bloomingSeason": "July to September",
-      "location": "Alaska, Canada, northern United States, Scandinavia, Siberia, and the Rocky Mountains",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Locals say that when the fireweed blooms reach the top of the stalk, summer is nearly over; it also produces a prized honey."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "Australia's national floral emblem, a small tree or large shrub with sickle-shaped phyllodes and dense, fluffy, fragrant golden ball-shaped flower clusters that light up the bush during the southern winter and early spring.",
-      "bloomingSeason": "Late winter to spring (July to October) in the Southern Hemisphere",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
-      "colors": [
-        "golden yellow"
+        "Orange",
+        "Golden yellow",
+        "Deep maroon"
       ],
       "emoji": "🌼",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the golden wattle's green and gold colors inspired the country's official sporting colors."
+      "funFact": "Banksia seed cones are often held closed by the plant until fire passes. The heat releases the seeds onto freshly cleared, nutrient-rich ground."
+    },
+    {
+      "name": "Lavandula × intermedia",
+      "commonName": "Lavandin",
+      "description": "Tall, silvery-green mounds send up long spikes of violet-blue flowers that hum with bees. In summer the scent drifts across fields and gardens, and the plants are farmed in rows for their essential oil.",
+      "bloomingSeason": "July to August, so early August falls within the flowering window",
+      "location": "Southern Europe, especially the lavender fields of Provence in France, and gardens across the Northern Hemisphere",
+      "colors": [
+        "Violet",
+        "Blue",
+        "Silver-green foliage"
+      ],
+      "emoji": "💜",
+      "funFact": "Lavandin is a natural hybrid of English lavender and spike lavender. It is sterile but vigorous, and it produces much more oil than either parent."
     }
   ]
 }

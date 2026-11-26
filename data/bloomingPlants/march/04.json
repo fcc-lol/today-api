@@ -3,55 +3,45 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant, five-petaled blossoms on bare branches before its leaves emerge. It is widely cultivated in East Asian gardens and prized for ornamental use and for its fruit, used in pickles and liqueurs.",
-      "bloomingSeason": "Late winter to early spring (February to March)",
-      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Bare, dark branches burst into small, spicy-sweet blossoms that open before any leaves appear. The petals look like pink and white confetti against late-winter skies.",
+      "bloomingSeason": "Late January through March, with peak bloom in February and early March in many areas",
+      "location": "Japan and elsewhere in East Asia, including China and Korea",
       "colors": [
-        "White",
-        "Pink",
-        "Deep red"
+        "pink",
+        "white",
+        "rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are traditionally celebrated as a harbinger of spring in East Asia, and they often bloom while snow is still on the ground."
+      "funFact": "Ume blooms weeks before cherry trees do, so it is traditionally seen as the first herald of spring in Japan. Its sour fruit is pickled into umeboshi and steeped into plum wine."
     },
     {
-      "name": "Narcissus pseudonarcissus",
-      "commonName": "Wild Daffodil (Lent Lily)",
-      "description": "A bulbous perennial with trumpet-shaped yellow flowers surrounded by paler petals and blue-green strap-like leaves. It carpets woodlands and meadows in early spring and is the ancestor of many garden daffodils.",
-      "bloomingSeason": "Late winter to spring (March to April in Northern Hemisphere)",
-      "location": "Western Europe, including England, Wales, France and Spain; naturalized in North America",
+      "name": "Cyclamen persicum",
+      "commonName": "Persian cyclamen",
+      "description": "Swept-back petals give each flower a look of tiny butterflies hovering above marbled, silver-patterned heart-shaped leaves. In the wild, drifts of them light up shady, rocky hillsides.",
+      "bloomingSeason": "Winter to spring, with wild populations flowering through February and March",
+      "location": "Rocky hillsides and woodland of the eastern Mediterranean, including Israel, Lebanon, Turkey and Greece",
       "colors": [
-        "Yellow",
-        "Pale yellow",
-        "Cream"
+        "white",
+        "pale pink",
+        "magenta"
       ],
-      "emoji": "🌼",
-      "funFact": "All parts of the daffodil contain toxic alkaloids, and one of them, galantamine, is used in medicine to treat symptoms of Alzheimer's disease."
+      "emoji": "🌺",
+      "funFact": "Once the flowers fade, the stems coil like springs and pull the seed pods down toward the soil. This helps plant the next generation close to the parent. The wild species is also the ancestor of the cyclamens sold as houseplants."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A fast-growing evergreen tree or large shrub with feathery foliage that bears fluffy, fragrant golden flower balls. It is Australia's national floral emblem and an important food source for native insects and birds.",
-      "bloomingSeason": "Late winter to spring in Australia (July to October), with some blooming into early autumn in cooler zones and varied wattles flowering in March",
-      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
+      "name": "Amaryllis belladonna",
+      "commonName": "March lily, belladonna lily, naked lady",
+      "description": "Leafless stalks rise from dry late-summer ground, each topped with a cluster of fragrant, trumpet-shaped blooms in rosy pink. The flowers appear before the leaves, which is why they are called naked ladies.",
+      "bloomingSeason": "Late summer to autumn in the Southern Hemisphere, with flowering in February and March",
+      "location": "Western Cape, South Africa",
       "colors": [
-        "Golden yellow"
+        "pink",
+        "rose",
+        "white"
       ],
-      "emoji": "🌿",
-      "funFact": "Australia celebrates National Wattle Day on September 1, and the green and gold of the wattle inspired the colors of the national sporting teams."
-    },
-    {
-      "name": "Eranthis hyemalis",
-      "commonName": "Winter Aconite",
-      "description": "A low-growing tuberous perennial with bright buttercup-like flowers sitting on a ruff of green leaf-like bracts. It pushes through frozen soil and snow to flower in woodlands and gardens.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Southern Europe, from France to the Balkans; naturalized in the UK and North America",
-      "colors": [
-        "Yellow"
-      ],
-      "emoji": "🌻",
-      "funFact": "Winter aconite flowers close up in cold or cloudy weather and open only in sunshine, which protects their pollen from damp conditions."
+      "emoji": "🌷",
+      "funFact": "The common name 'March lily' comes from the time of year the flowers appear in South Africa. The leaves come up later, after the flowers have finished."
     }
   ]
 }

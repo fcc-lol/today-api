@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1536,
-      "title": "Execution of Anne Boleyn",
-      "description": "Anne Boleyn, the second wife of King Henry VIII of England, was beheaded at the Tower of London after being convicted of adultery, incest, and treason on charges widely regarded as fabricated.",
-      "category": "Politics",
-      "significance": "Her execution cleared the way for Henry VIII to marry Jane Seymour and had lasting consequences for the English Reformation and the Tudor succession, as her daughter Elizabeth I later became one of England's greatest monarchs."
-    },
-    {
-      "year": 1780,
-      "title": "New England's Dark Day",
-      "description": "A thick, unexplained darkness descended over parts of New England and southeastern Canada at midday, forcing people to light candles and leading many to fear the end of the world. It is now attributed to smoke from massive forest fires combined with fog and cloud cover.",
-      "category": "Natural Phenomenon",
-      "significance": "The event is one of the earliest well-documented cases of wildfire smoke causing widespread daytime darkness and became a notable moment in American religious and cultural memory."
-    },
-    {
-      "year": 1890,
-      "title": "Birth of Ho Chi Minh",
-      "description": "Ho Chi Minh, the Vietnamese revolutionary leader, was born in Hoang Tru village, Nghe An province, in French Indochina. Traditionally his birthday is commemorated on May 19.",
-      "category": "Birth",
-      "significance": "He founded the Indochinese Communist Party, led the Viet Minh, and became President of North Vietnam, playing a central role in the fight against French colonial rule and in the Vietnam War."
-    },
-    {
-      "year": 1925,
-      "title": "Birth of Malcolm X",
-      "description": "Malcolm X, born Malcolm Little in Omaha, Nebraska, became a prominent African American Muslim minister and human rights activist.",
-      "category": "Birth",
-      "significance": "A powerful voice for Black empowerment and self-determination during the civil rights era, he influenced the Black Power movement, and his posthumously published Autobiography remains a landmark of American literature."
+      "title": "Anne Boleyn Is Executed",
+      "description": "Anne Boleyn, the second wife of King Henry VIII, was beheaded at the Tower of London. She had been convicted of treason, adultery and incest on charges that most historians regard as fabricated.",
+      "category": "Death",
+      "significance": "Her fall reshaped the Tudor court. Her daughter, Elizabeth I, later became one of England's most celebrated monarchs."
     },
     {
       "year": 1919,
-      "title": "Start of the Turkish War of Independence",
-      "description": "Mustafa Kemal Atatürk landed at Samsun on the Black Sea coast to begin organizing resistance against the Allied occupation of the Ottoman Empire following World War I.",
-      "category": "War and Conflict",
-      "significance": "His arrival is regarded as the beginning of the Turkish War of Independence, leading to the abolition of the Ottoman sultanate and the founding of the Republic of Turkey in 1923. The date is celebrated as a national holiday in Turkey."
+      "title": "Atatürk Lands in Samsun",
+      "description": "Mustafa Kemal landed at the Black Sea port of Samsun. The Ottoman government had sent him to restore order in Anatolia, and he used the post to organize resistance to the Allied occupation.",
+      "category": "Milestone",
+      "significance": "This landing is traditionally taken as the start of the Turkish War of Independence. It led to the founding of the Republic of Turkey in 1923, and Turkey marks the day each year as a national holiday."
+    },
+    {
+      "year": 1925,
+      "title": "Malcolm X Is Born",
+      "description": "Malcolm Little was born in Omaha, Nebraska. He later became known as Malcolm X, a minister and activist.",
+      "category": "Birth",
+      "significance": "He became one of the most influential voices in the American civil rights era. His speeches and his autobiography still shape discussions of race, identity and justice."
+    },
+    {
+      "year": 1962,
+      "title": "Marilyn Monroe Sings 'Happy Birthday, Mr. President'",
+      "description": "At a Madison Square Garden fundraiser, Marilyn Monroe performed a breathy rendition of 'Happy Birthday' for President John F. Kennedy, who was turning 45.",
+      "category": "Culture",
+      "significance": "The performance became one of the best-known moments in American pop culture. It remains one of the most famous images of celebrity and politics meeting."
     }
   ]
 }

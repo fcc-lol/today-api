@@ -2,39 +2,32 @@
   "date": "May 25",
   "events": [
     {
+      "year": 1803,
+      "title": "Ralph Waldo Emerson is born",
+      "description": "The future poet, essayist and lecturer was born in Boston, Massachusetts. He grew up to become one of America's most influential thinkers.",
+      "category": "Birth",
+      "significance": "Emerson led the Transcendentalist movement. His essays on self-reliance and individualism shaped American literature and philosophy."
+    },
+    {
+      "year": 1810,
+      "title": "The May Revolution culminates in Buenos Aires",
+      "description": "A week of revolutionary events in Buenos Aires ended on this day. Local leaders replaced the Spanish-appointed viceroy with a locally formed governing council.",
+      "category": "Politics",
+      "significance": "Argentines mark May 25 as a patriotic holiday. The revolution is seen as the first step toward independence from Spain."
+    },
+    {
+      "year": 1963,
+      "title": "The Organisation of African Unity is founded",
+      "description": "Leaders of 32 independent African nations met in Addis Ababa, Ethiopia, and formed a continental alliance.",
+      "category": "Politics",
+      "significance": "The organisation promoted decolonisation and opposed white minority rule in Africa. It later became the African Union, and the date is still celebrated as Africa Day."
+    },
+    {
       "year": 1977,
-      "title": "Star Wars Premieres in U.S. Theaters",
-      "description": "George Lucas's space opera Star Wars (later retitled Episode IV: A New Hope) opened in a limited number of theaters in the United States on May 25, 1977, and quickly became a runaway success.",
-      "category": "Culture/Entertainment",
-      "significance": "The film revolutionized special effects and blockbuster filmmaking, launched one of the highest-grossing media franchises in history, and reshaped merchandising and popular culture."
-    },
-    {
-      "year": 1961,
-      "title": "Kennedy Announces the Moon Landing Goal",
-      "description": "In a special address to a joint session of Congress, President John F. Kennedy declared that the United States should commit to landing a man on the Moon and returning him safely to Earth before the end of the decade.",
-      "category": "Science/Space Exploration",
-      "significance": "The speech galvanized the Apollo program during the Cold War space race and led to the Moon landing of Apollo 11 in July 1969."
-    },
-    {
-      "year": 1925,
-      "title": "Scopes Trial Underway in Tennessee Following Arrest of John Scopes",
-      "description": "In the spring of 1925, high school teacher John T. Scopes was charged with violating Tennessee's Butler Act, which banned teaching human evolution in public schools. The trial in Dayton, Tennessee, began in July 1925 and drew national attention.",
-      "category": "Law/Education",
-      "significance": "The case became a landmark clash between science and religious fundamentalism and shaped later debates over evolution education and the separation of church and state."
-    },
-    {
-      "year": 2020,
-      "title": "Death of George Floyd in Minneapolis",
-      "description": "George Floyd, a 46-year-old Black man, died on May 25, 2020, after Minneapolis police officer Derek Chauvin knelt on his neck for more than nine minutes during an arrest. Video of the incident spread widely.",
-      "category": "Social Justice/Politics",
-      "significance": "His death sparked worldwide protests against racism and police brutality, intensified the Black Lives Matter movement, and prompted policing reform debates and the conviction of Chauvin in 2021."
-    },
-    {
-      "year": 1895,
-      "title": "Oscar Wilde Sentenced to Two Years' Hard Labour",
-      "description": "On May 25, 1895, Irish writer and playwright Oscar Wilde was found guilty of gross indecency and sentenced to two years of hard labour in prison.",
-      "category": "Law/Literature",
-      "significance": "The trial destroyed Wilde's career and health, and it later became a defining example of the persecution of homosexuality in Victorian Britain, inspiring works such as The Ballad of Reading Gaol."
+      "title": "Star Wars opens in theaters",
+      "description": "George Lucas's space opera reached U.S. cinemas and quickly became a runaway hit.",
+      "category": "Culture",
+      "significance": "The film transformed blockbuster filmmaking, special effects and movie merchandising. It launched one of the most successful franchises in entertainment history."
     }
   ]
 }

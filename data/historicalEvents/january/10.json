@@ -2,39 +2,32 @@
   "date": "January 10",
   "events": [
     {
-      "year": 49,
-      "title": "Caesar Crosses the Rubicon",
-      "description": "According to the traditional date, Julius Caesar led his army across the Rubicon River in northern Italy, defying the Roman Senate's order to disband his legions. His act of entering Italy with troops triggered a civil war against Pompey and the Senate's forces.",
-      "category": "Politics and Military",
-      "significance": "The crossing, often summed up by the phrase 'the die is cast,' led to the fall of the Roman Republic and Caesar's rise to power, paving the way for the Roman Empire."
+      "year": 1776,
+      "title": "Thomas Paine publishes Common Sense",
+      "description": "In Philadelphia, Thomas Paine anonymously published the pamphlet Common Sense. It made a plain-spoken case for American independence from Britain and against hereditary monarchy.",
+      "category": "Politics",
+      "significance": "It sold in huge numbers and helped turn colonial opinion toward independence months before the Declaration of Independence."
     },
     {
       "year": 1863,
-      "title": "World's First Underground Railway Opens in London",
-      "description": "The Metropolitan Railway opened between Paddington (Bishop's Road) and Farringdon Street, becoming the world's first underground passenger railway. It carried tens of thousands of passengers on its first day using steam locomotives.",
-      "category": "Technology and Transportation",
-      "significance": "It pioneered urban rapid transit and became the foundation of the London Underground, inspiring subway systems in cities worldwide."
-    },
-    {
-      "year": 1920,
-      "title": "Treaty of Versailles Takes Effect and the League of Nations Is Established",
-      "description": "The Treaty of Versailles came into force after ratification, formally ending the state of war between Germany and the Allied Powers, and the League of Nations came into official existence.",
-      "category": "Politics and Diplomacy",
-      "significance": "The treaty reshaped post-World War I Europe and the League was the first major international organization aimed at maintaining world peace, a precursor to the United Nations."
-    },
-    {
-      "year": 1946,
-      "title": "First General Assembly of the United Nations Convenes",
-      "description": "The first session of the United Nations General Assembly opened at Methodist Central Hall in London, with delegates from 51 nations attending.",
-      "category": "Politics and Diplomacy",
-      "significance": "It marked the beginning of the UN's operations as the central forum for international cooperation after World War II."
+      "title": "The London Underground opens",
+      "description": "The Metropolitan Railway opened in London, running between Paddington and Farringdon. It was the world's first underground passenger railway. Its steam trains left the tunnels filled with smoke.",
+      "category": "Technology",
+      "significance": "It launched urban rapid transit. Subway systems around the world followed its model."
     },
     {
       "year": 1901,
-      "title": "Spindletop Gusher Launches the Texas Oil Boom",
-      "description": "The Lucas Gusher at Spindletop near Beaumont, Texas, struck oil and blew in at a rate of roughly 100,000 barrels per day, far above any previous U.S. well.",
-      "category": "Economy and Industry",
-      "significance": "The discovery began the modern petroleum industry in Texas, and helped make the United States a leading oil producer and spurred the rise of major oil companies."
+      "title": "Spindletop gusher launches the Texas oil boom",
+      "description": "Near Beaumont, Texas, the Lucas well at Spindletop Hill blew in with a huge column of oil. It produced far more than any U.S. well before it.",
+      "category": "Industry",
+      "significance": "It opened the modern American petroleum era and helped make oil a central fuel of the 20th-century economy."
+    },
+    {
+      "year": 1946,
+      "title": "The United Nations General Assembly holds its first meeting",
+      "description": "Delegates from 51 nations gathered in London for the first session of the UN General Assembly. They met only months after the end of World War II.",
+      "category": "Diplomacy",
+      "significance": "It marked the start of the UN's work as a forum for international cooperation and conflict prevention."
     }
   ]
 }

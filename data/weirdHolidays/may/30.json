@@ -2,44 +2,28 @@
   "date": "May 30",
   "holidays": [
     {
-      "name": "National Mint Julep Day",
-      "description": "A day to sip the minty, bourbon-laden cocktail of the American South, ideally from a frosty silver cup with a mountain of crushed ice and a fresh sprig of mint.",
-      "origin": "The mint julep dates back to the 18th-century American South, and it became the signature drink of the Kentucky Derby in 1938. The unofficial food holiday on May 30 celebrates the drink's long Southern heritage.",
-      "category": "Food & Drink",
-      "emoji": "🍹",
-      "funFact": "Churchill Downs serves roughly 120,000 mint juleps over the two days of Kentucky Derby weekend, and it uses about 1,000 pounds of fresh mint to do it."
-    },
-    {
-      "name": "Water a Flower Day",
-      "description": "A gentle reminder to give your thirsty plants a drink, whether they are prize roses, a sad desk succulent, or that fern you keep forgetting about.",
-      "origin": "This is an informal, grassroots observance promoted by gardening enthusiasts and plant lovers, with no single known founder. It encourages people to nurture the greenery around them.",
-      "category": "Nature & Gardening",
-      "emoji": "🌸",
-      "funFact": "Overwatering kills more houseplants than underwatering does, so the kindest thing you can do for some flowers is to check the soil first."
-    },
-    {
-      "name": "Loomis Day",
-      "description": "A quirky day honoring Loomis, with the date also used as a playful excuse to celebrate all things named Loomis, the armored trucks, and the people who share the name.",
-      "origin": "Loomis Day is a minor, informal observance that circulates in unofficial holiday calendars. Its exact origin is murky, as is the case with many gloriously obscure observances.",
-      "category": "Pop Culture & Miscellaneous",
-      "emoji": "🚚",
-      "funFact": "The name Loomis comes from an Old English term for a place by a pool or lagoon, and it is far older than any armored truck company."
-    },
-    {
-      "name": "Memorial Day (Traditional Date)",
-      "description": "May 30 was the original fixed date for Memorial Day in the United States, when people decorated the graves of fallen soldiers with flowers, flags, and wreaths. Many communities still hold remembrance events and picnics around this time.",
-      "origin": "Originally called Decoration Day, it was first observed nationally on May 30, 1868, after Major General John A. Logan called for it. The date was reportedly chosen because flowers would be in bloom across the country. In 1971, the holiday was moved to the last Monday of May.",
-      "category": "Historical Observance",
-      "emoji": "🇺🇸",
-      "funFact": "The Indianapolis 500 was historically run on May 30 for decades, in keeping with the Memorial Day tradition, until the holiday was shifted to a Monday."
-    },
-    {
-      "name": "Hole in My Bucket Day",
-      "description": "A silly celebration of the classic, maddeningly circular children's folk song about Henry and Liza and a leaky bucket that can never be fixed.",
-      "origin": "The song \"There's a Hole in My Bucket\" is a German folk tune dating to at least the 1700s, and it became a major hit in the US in 1961 when Harry Belafonte and Odetta recorded it. The date is celebrated informally by fans of old-school singalongs.",
+      "name": "National Hole in My Bucket Day",
+      "description": "A tribute to the endlessly circular children's song about a leaky bucket. Hum along, then try to fix your own bucket problems without getting stuck in a loop with Henry and Liza.",
+      "origin": "The folk song is believed to have German roots dating to the 1700s. It became well known in England and the United States by the 1930s. The National Day Calendar later marked May 30 as a day to celebrate it.",
       "category": "Pop Culture & Music",
       "emoji": "🪣",
-      "funFact": "The song is a perfect example of a circular logic loop. Each fix for the bucket requires another task that depends on the very bucket you are trying to repair."
+      "funFact": "The song is a dialogue in which every fix for the bucket depends on another task that can't be done without a working bucket. That makes it one of the most famous catch-22s in folk music."
+    },
+    {
+      "name": "National Mint Julep Day",
+      "description": "A day to raise a frosty silver cup of bourbon, fresh mint, sugar and crushed ice. It's a Southern classic, best sipped slowly on a warm afternoon.",
+      "origin": "The mint julep dates to the 18th century in the American South. Kentucky Senator Henry Clay is often credited with popularizing it. As early as 1816, county fair champions in the South were awarded silver julep cups.",
+      "category": "Food & Drink",
+      "emoji": "🍹",
+      "funFact": "The mint julep has been the official drink of the Kentucky Derby since 1938."
+    },
+    {
+      "name": "National Water a Flower Day",
+      "description": "A gentle reminder to give your thirsty blooms a drink. It also invites you to tend the garden of a neighbor who is homebound or in the hospital.",
+      "origin": "An unofficial observance, recognized each year on May 30 as flower gardens approach full bloom.",
+      "category": "Nature & Gardening",
+      "emoji": "🌼",
+      "funFact": "Newly planted seeds often need watering every day until they germinate."
     }
   ]
 }

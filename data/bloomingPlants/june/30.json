@@ -4,59 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with narrow gray-green leaves and dense spikes of small tubular flowers. It is widely cultivated for its essential oil and is a magnet for bees and butterflies.",
-      "bloomingSeason": "Late June through August in the Northern Hemisphere",
-      "location": "Mediterranean region, cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Fields in Provence turn into rolling ribbons of violet at the start of summer. Silvery, fragrant foliage carries slender spikes of tiny blossoms. Bees crowd the rows and the warm air smells sweet and herbal.",
+      "bloomingSeason": "Late June to early August, with peak bloom usually in mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "lavender",
-        "blue"
+        "Violet",
+        "Lavender-blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender comes from the Latin 'lavare' meaning 'to wash', as the Romans used it to scent baths and laundry."
+      "funFact": "The name comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with lavender."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy sepals. It thrives in partial shade and moist soil and is a staple of cottage and woodland gardens.",
-      "bloomingSeason": "Late June through September",
-      "location": "Native to Japan; widely grown in temperate gardens across Europe, North America, and the Azores",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "South Africa's national flower is the largest of all the proteas. Its dinner-plate-sized head is a crown of silky, pointed bracts around a central cluster of true flowers. It opens in the cool, damp southern winter, when most of the world's gardens are in summer.",
+      "bloomingSeason": "Mainly winter and spring, roughly June to October",
+      "location": "Fynbos of the Western Cape, South Africa, including Kirstenbosch National Botanical Garden",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "💠",
-      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms while alkaline soils produce pink."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading tropical tree with fern-like leaves and a canopy covered in brilliant clusters of orange-red flowers. It is often planted as a shade tree along streets and in parks.",
-      "bloomingSeason": "May through July in the Northern Hemisphere tropics",
-      "location": "Native to Madagascar; widely cultivated in India, the Caribbean, Southeast Asia, Africa, and Florida",
-      "colors": [
-        "scarlet",
-        "orange-red",
-        "yellow"
+        "Pink",
+        "Cream",
+        "Silvery-white",
+        "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "Despite being one of the most celebrated tropical trees worldwide, it is endangered in its native Madagascar."
+      "funFact": "Proteas belong to an ancient plant family that dates back to when the southern continents were joined. The flower head is built to survive fire, and the plant resprouts from a woody base after wildfires."
     },
     {
-      "name": "Banksia serrata",
-      "commonName": "Saw Banksia",
-      "description": "A rugged Australian tree or shrub with serrated leathery leaves and cylindrical flower spikes made of thousands of tiny flowers. It provides nectar for birds, bats, and insects during the cooler months.",
-      "bloomingSeason": "Winter in the Southern Hemisphere, with flowers present from late autumn through July",
-      "location": "Eastern Australia, from Queensland through New South Wales to Victoria and Tasmania",
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred Lotus",
+      "description": "Huge, goblet-shaped blooms rise on tall stalks above round, water-repellent leaves. Each flower opens in the morning and closes at night, and lasts only about three days. Ponds in summer fill with these blooms.",
+      "bloomingSeason": "Summer, around June and July",
+      "location": "Warm-temperate and subtropical ponds and lakes of Asia, widely grown in water gardens",
       "colors": [
-        "golden yellow",
-        "greenish-yellow",
-        "cream"
+        "Pink",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "The woody seed cones inspired the 'Banksia men' characters in May Gibbs' classic Australian children's book Snugglepot and Cuddlepie."
+      "emoji": "🪷",
+      "funFact": "Lotus leaves are covered in microscopic bumps that make water bead up and roll off, carrying dirt with it. This 'lotus effect' has inspired self-cleaning paints and fabrics."
     }
   ]
 }

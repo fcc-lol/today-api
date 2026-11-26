@@ -2,61 +2,47 @@
   "date": "October 13",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that produces goblet-shaped, crocus-like flowers directly from the ground in autumn, long after its broad strap-like leaves have withered in early summer. The leafless blooms appear to emerge from bare soil.",
-      "bloomingSeason": "Autumn (September to October in the Northern Hemisphere)",
-      "location": "Meadows and woodland edges of Europe, widely cultivated in gardens in temperate regions",
-      "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "All parts of the plant contain colchicine, a toxin that is also used by plant breeders to induce chromosome doubling and in medicine to treat gout."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust perennial with hairy stems and dense clusters of daisy-like flower heads with golden-yellow centers and many narrow ray petals. It is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Prairies, meadows and roadsides of eastern and central North America",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Magenta"
-      ],
-      "emoji": "🌼",
-      "funFact": "Monarch butterflies rely heavily on its nectar to fuel their long migration to Mexico during October."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A graceful, semi-deciduous tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers, often before leaves fully emerge. Streets and parks are carpeted with fallen blossoms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; planted widely in South Africa (Pretoria), Australia (Sydney, Brisbane) and Argentina",
+      "commonName": "Blue Jacaranda",
+      "description": "Entire streets in Pretoria and Johannesburg dissolve into clouds of lavender-blue as thousands of trumpet-shaped blossoms open on bare branches. Fallen flowers carpet the pavements in violet, so the city seems tinted from above and below.",
+      "bloomingSeason": "Spring in the Southern Hemisphere, peaking in October and often lasting into November",
+      "location": "Pretoria and Johannesburg, South Africa",
       "colors": [
         "Lavender",
-        "Blue-violet"
+        "Blue-violet",
+        "Purple"
       ],
       "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, which is known as the Jacaranda City, there are roughly 70,000 jacaranda trees, and a folk belief says a falling blossom on your head brings good luck."
+      "funFact": "Jacaranda is native to South America, but Pretoria is nicknamed the Jacaranda City because of its tens of thousands of street trees. Local lore says that a flower landing on your head brings good luck."
     },
     {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "An airy annual with feathery foliage and saucer-shaped daisy-like flowers on slender stems. It thrives in sun and poor soil, blooming prolifically until the first frost.",
-      "bloomingSeason": "Summer to first frost (July to October in temperate Northern Hemisphere)",
-      "location": "Native to Mexico; cultivated and naturalized across North America, Europe and Asia",
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's Chrysanthemum (Kiku)",
+      "description": "Japan's autumn garden favorite bursts into pom-poms, spiders and shaggy, many-petaled discs. Late-blooming varieties are grown to peak in mid-October, filling shrines, parks and festival displays with brilliant color.",
+      "bloomingSeason": "September through November, with late-blooming varieties peaking in mid-October",
+      "location": "Japan, in gardens, parks and shrine grounds nationwide",
+      "colors": [
+        "Yellow",
+        "White",
+        "Crimson",
+        "Pink",
+        "Bronze"
+      ],
+      "emoji": "🏵️",
+      "funFact": "The chrysanthemum is the emblem of the Japanese Imperial family, and the Chrysanthemum Throne is the name of the monarchy itself. Autumn chrysanthemum shows are a beloved tradition."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily (Guernsey Lily relative)",
+      "description": "Just as summer borders fade, bare stems rise from the soil carrying airy umbels of shimmering pink flowers with ruffled, recurved petals. They give sunny, well-drained autumn gardens a late burst of color.",
+      "bloomingSeason": "September to October in temperate Northern Hemisphere gardens",
+      "location": "Gardens in the British Isles and similar mild temperate climates (native to South Africa)",
       "colors": [
         "Pink",
-        "White",
-        "Magenta",
-        "Crimson"
+        "Rose"
       ],
       "emoji": "🌸",
-      "funFact": "Cosmos comes from the Greek word 'kosmos' meaning order or harmony, a name given by Spanish priests who grew them in mission gardens in Mexico."
+      "funFact": "Bowden lilies flower best when their bulbs are crowded and the neck of the bulb is left exposed to the sun, which makes them unusually easy to grow."
     }
   ]
 }

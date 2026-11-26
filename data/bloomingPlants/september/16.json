@@ -3,57 +3,47 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Naked Ladies)",
-      "description": "A cormous perennial that sends up goblet-shaped lilac-pink flowers in autumn with no leaves present. The strap-like foliage emerges the following spring and dies back by summer. All parts are highly toxic.",
-      "bloomingSeason": "Late summer to mid-autumn",
-      "location": "Meadows and woodland edges in Europe and North Africa; widely cultivated in temperate gardens in the Northern Hemisphere",
+      "commonName": "Meadow Saffron (Autumn Crocus)",
+      "description": "Pale pink-lilac, goblet-shaped flowers pop up from damp meadow grass with no leaves in sight. They look like a crocus that arrived months late, and they stand out in the fading green of early autumn.",
+      "bloomingSeason": "September to October",
+      "location": "Meadows and woodland edges across Europe, including the UK and central Europe; also grown in gardens in temperate North America",
       "colors": [
-        "Lilac",
-        "Pale pink",
-        "White"
+        "pale pink",
+        "lilac",
+        "white"
       ],
       "emoji": "🌷",
-      "funFact": "Colchicum is the natural source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
+      "funFact": "The flowers appear in autumn, but the leaves and seed capsules only emerge the following spring. This is why the plant is nicknamed 'naked ladies'. It is also the source of colchicine, a compound used in medicine, and every part of the plant is highly toxic."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall rhizomatous perennial that forms dense colonies topped with arching plumes of tiny golden-yellow flower heads. It is a major late-season nectar and pollen source for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Prairies, roadsides, and fields across North America; naturalized in Europe and Asia",
-      "colors": [
-        "Golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often wrongly blamed for hay fever; the real culprit is usually ragweed, whose wind-borne pollen blooms at the same time."
-    },
-    {
-      "name": "Aster novae-angliae",
+      "name": "Symphyotrichum novae-angliae",
       "commonName": "New England Aster",
-      "description": "A robust perennial with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in moist meadows and is a critical food source for migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to early autumn",
-      "location": "Eastern and central North America in meadows, wet prairies, and roadsides; popular in cultivated gardens worldwide",
+      "description": "Tall, sturdy clumps are covered in daisy-like flowers with golden-yellow centers and rays in vivid purple, magenta or pink. Prairies, meadows and roadsides glow with these flowers, and butterflies and bees crowd onto them for late-season nectar.",
+      "bloomingSeason": "Late summer to autumn (August to October)",
+      "location": "Eastern and central North America, from prairies and wet meadows to native-plant gardens",
       "colors": [
-        "Purple",
-        "Violet",
-        "Pink",
-        "Yellow center"
+        "purple",
+        "magenta",
+        "pink",
+        "lavender"
       ],
       "emoji": "💜",
-      "funFact": "The flower heads close at night and on cloudy days, reopening when sunlight returns."
+      "funFact": "New England aster is a lifeline for migrating monarch butterflies. They refuel on its nectar as they head south in autumn. Its flower heads also close up on dull, cloudy days and open again in sunshine."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A deciduous tree that covers itself in clusters of trumpet-shaped lavender-blue flowers before the new leaves emerge. In the Southern Hemisphere, spring bloom begins around this time and carpets streets with fallen blossoms.",
-      "bloomingSeason": "Early to late spring in the Southern Hemisphere (September to November)",
-      "location": "Native to South America; planted in Australia, South Africa (Pretoria), Argentina, and warm regions worldwide",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest bloom in the protea family is a bowl of silky, pointed pink bracts around a crown of fuzzy, creamy center florets. It stands out on the fynbos hillsides, where it flowers through the southern hemisphere's late winter and spring.",
+      "bloomingSeason": "Winter to spring (roughly June to October, including mid-September)",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa, including Kirstenbosch National Botanical Garden",
       "colors": [
-        "Lavender",
-        "Blue-violet"
+        "pink",
+        "rose",
+        "cream",
+        "silvery white"
       ],
-      "emoji": "🌸",
-      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because of the tens of thousands of these trees lining its streets."
+      "emoji": "🌺",
+      "funFact": "King protea is South Africa's national flower. It belongs to a very old plant family that dates back to the age of Gondwana, and it is adapted to fire-prone fynbos, where its thick underground stems let it resprout after burns."
     }
   ]
 }

@@ -4,56 +4,45 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads that have bright yellow ray petals around a dark central disc. The heads track the sun during early growth, and mature plants can reach 3 meters. It is widely cultivated for seeds, oil, and ornamental use.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, the United States, and Argentina",
+      "description": "Towering stalks carry huge golden flower heads that turn to follow the sun. Each head is a crowd of tiny florets, ringed by bright yellow rays. In late summer, fields glow with them and hum with bees.",
+      "bloomingSeason": "Mid to late summer, typically July through September in the Northern Hemisphere",
+      "location": "Great Plains of the United States and temperate fields across Europe",
       "colors": [
-        "yellow",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is actually made up of thousands of tiny individual flowers, called florets, arranged in a spiral pattern that follows the Fibonacci sequence."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie plant with drooping pinkish-purple petals surrounding a prominent spiky, orange-brown central cone. It is a favorite of pollinators and goldfinches, and it tolerates heat and drought well.",
-      "bloomingSeason": "Midsummer to early fall (June to September)",
-      "location": "Native to eastern and central North America; grown in gardens worldwide in temperate climates",
-      "colors": [
-        "purple",
-        "pink",
+        "golden yellow",
+        "brown",
         "orange"
       ],
-      "emoji": "🌸",
-      "funFact": "The genus name Echinacea comes from the Greek word 'echinos' meaning hedgehog, referring to the spiny central cone of the flower."
+      "emoji": "🌻",
+      "funFact": "A sunflower head is not one flower. It is hundreds to thousands of tiny florets, and they are arranged in spirals that follow Fibonacci numbers."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant violet-blue flowers. By mid to late August, many lavender fields are at the tail end of peak bloom, and plants attract bees and butterflies in large numbers.",
-      "bloomingSeason": "Early to late summer (June to August) in the Northern Hemisphere",
-      "location": "Native to the Mediterranean region; widely cultivated in Provence (France), England, Bulgaria, Tasmania, and the Pacific Northwest of the United States",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "Rounded clusters of papery blooms spill over glossy green leaves in cottage gardens and along shady paths. Late summer gives the blooms a faded, antique look as they age.",
+      "bloomingSeason": "Early summer into early autumn, typically June through September in the Northern Hemisphere",
+      "location": "Gardens in the northeastern United States, the United Kingdom and Japan",
       "colors": [
+        "blue",
+        "pink",
         "purple",
-        "lavender",
-        "violet-blue"
+        "white"
       ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare' meaning 'to wash' because the Romans used it to scent their baths."
+      "emoji": "💠",
+      "funFact": "Soil chemistry can change the color of its blooms. Acidic soil that makes aluminum available tends to produce blue flowers, while alkaline soil tends to produce pink."
     },
     {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small Australian tree or large shrub that produces fluffy, fragrant golden-yellow globular flower clusters against sickle-shaped green leaves. Its blooming comes at the end of the southern winter, brightening the bush landscape.",
-      "bloomingSeason": "Late winter to spring (July to October) in the Southern Hemisphere",
-      "location": "Native to southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "name": "Eucalyptus caesia",
+      "commonName": "Silver Princess Gumtree",
+      "description": "A weeping, silvery-stemmed tree that hangs bright pink-red blossoms from its branches. The flowers are fluffy bursts of stamens that draw nectar-feeding birds in the cool, dry months.",
+      "bloomingSeason": "Late autumn to early spring, with its main flowering in winter, which covers August in the Southern Hemisphere",
+      "location": "Granite outcrops of southwestern Western Australia",
       "colors": [
-        "golden yellow"
+        "pink",
+        "red",
+        "silvery-white"
       ],
-      "emoji": "🌼",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1 each year to mark the start of spring."
+      "emoji": "🌸",
+      "funFact": "It grows wild on only a few granite outcrops in Western Australia. It is much more widely grown in gardens than it is found in the wild."
     }
   ]
 }

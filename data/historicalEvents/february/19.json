@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1473,
-      "title": "Birth of Nicolaus Copernicus",
-      "description": "Nicolaus Copernicus was born in Toruń, Poland. He became a mathematician and astronomer who formulated a heliocentric model of the universe, placing the Sun rather than the Earth at its center.",
+      "title": "Nicolaus Copernicus is born",
+      "description": "The astronomer was born in Toruń, in Royal Prussia. He grew up to propose that the Sun, not the Earth, sits at the center of the universe.",
       "category": "Birth",
-      "significance": "His work, published in De revolutionibus orbium coelestium in 1543, launched the Copernican Revolution and was a foundational moment in the Scientific Revolution."
+      "significance": "His heliocentric theory launched the Scientific Revolution and changed how humanity understands its place in the cosmos."
     },
     {
       "year": 1878,
-      "title": "Edison Patents the Phonograph",
-      "description": "Thomas Edison was granted U.S. Patent No. 200,521 for the phonograph, a device capable of recording and reproducing sound.",
-      "category": "Science and Technology",
-      "significance": "The phonograph was the first device to record and play back sound, laying the groundwork for the recorded music industry and modern audio technology."
+      "title": "Edison patents the phonograph",
+      "description": "Thomas Edison was granted U.S. Patent No. 200,521 for his phonograph, a machine that could record sound and play it back.",
+      "category": "Science & Technology",
+      "significance": "It was the first device to record and reproduce sound. It paved the way for the modern recorded-music industry."
     },
     {
       "year": 1942,
-      "title": "Executive Order 9066 Signed",
-      "description": "President Franklin D. Roosevelt signed Executive Order 9066, authorizing the forced removal of people from designated military zones during World War II. It was used to intern roughly 120,000 Japanese Americans, most of them U.S. citizens.",
-      "category": "Politics and Law",
-      "significance": "The order became one of the most notorious civil liberties violations in American history, and the U.S. government formally apologized and offered reparations in the Civil Liberties Act of 1988."
-    },
-    {
-      "year": 1942,
-      "title": "Bombing of Darwin",
-      "description": "Japanese aircraft launched the first and largest single attack by a foreign power on Australia, striking the northern city of Darwin and ships in its harbor. More than 230 people were killed.",
-      "category": "Military",
-      "significance": "The raid brought World War II directly to Australian soil and heightened fears of a Japanese invasion, shaping Australia's wartime strategy and its alliance with the United States."
+      "title": "Roosevelt signs Executive Order 9066",
+      "description": "During World War II, President Franklin D. Roosevelt signed the order. It authorized the military to designate exclusion zones and led to the removal and internment of about 125,000 people of Japanese ancestry, many of them U.S. citizens.",
+      "category": "Politics & Law",
+      "significance": "It remains one of the most notorious civil-liberties violations in American history. It led to later formal apologies and reparations."
     },
     {
       "year": 1945,
-      "title": "Battle of Iwo Jima Begins",
-      "description": "U.S. Marines landed on the island of Iwo Jima in the Pacific, beginning one of the bloodiest battles of World War II against entrenched Japanese defenders.",
+      "title": "U.S. Marines land on Iwo Jima",
+      "description": "Operation Detachment began as the first waves of U.S. Marines came ashore on the volcanic Pacific island. The result was a month-long battle against Japanese defenders.",
       "category": "Military",
-      "significance": "The month-long battle gave the U.S. an important position for air operations against Japan and produced the iconic flag-raising photograph on Mount Suribachi."
+      "significance": "It was one of the bloodiest battles of the Pacific War. It also produced some of the war's most iconic imagery."
+    },
+    {
+      "year": 2016,
+      "title": "Harper Lee dies",
+      "description": "The author of To Kill a Mockingbird died at age 89. She had spent most of her later life out of the public eye.",
+      "category": "Death",
+      "significance": "Her Pulitzer Prize-winning novel is still a cornerstone of American literature. It continues to shape conversations about justice and racial equality."
     }
   ]
 }

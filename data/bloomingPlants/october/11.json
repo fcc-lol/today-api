@@ -2,58 +2,48 @@
   "date": "October 11",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that produces goblet-shaped, crocus-like flowers in autumn, long after its strap-like leaves have died back in summer. Flowers emerge directly from the ground without foliage, giving it the nickname 'naked ladies'.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe, in damp meadows and open woodlands; widely cultivated in temperate gardens in North America and Asia",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
-      ],
-      "emoji": "🌷",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
-    },
-    {
-      "name": "Aster novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust native perennial with hairy stems and masses of daisy-like flowers with yellow centers. It is a vital late-season nectar source for pollinators, including migrating monarch butterflies.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America, in prairies, meadows, and roadsides",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "magenta"
-      ],
-      "emoji": "💜",
-      "funFact": "New England Asters are a key fuel stop for migrating monarch butterflies, and the flower heads close up at night and on cloudy days."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A spectacular deciduous to semi-evergreen tree with fern-like leaves and large panicles of trumpet-shaped flowers that carpet streets and gardens with fallen blooms.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; widely planted in South Africa (Pretoria), Australia (Sydney, Brisbane), and Argentina",
+      "description": "Entire avenues disappear under clouds of trumpet-shaped, lavender-blue blossoms. The petals carpet pavements and parked cars in violet drifts beneath feathery, fern-like foliage.",
+      "bloomingSeason": "Spring, peaking in October in the southern hemisphere",
+      "location": "Pretoria, South Africa, which is nicknamed the Jacaranda City, and other southern-hemisphere cities such as Buenos Aires",
       "colors": [
-        "lavender",
-        "blue-purple"
+        "Lavender",
+        "Blue-violet"
       ],
       "emoji": "🌳",
-      "funFact": "Pretoria is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
+      "funFact": "Native to South America, the jacaranda was planted so widely in Pretoria that the city's whole skyline turns purple every October."
     },
     {
-      "name": "Sternbergia lutea",
-      "commonName": "Winter Daffodil (Autumn Daffodil)",
-      "description": "A bulbous perennial bearing bright, crocus-like golden flowers in autumn, accompanied by dark green strap-shaped leaves. It thrives in hot, dry summers followed by autumn moisture.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "Mediterranean region, from Spain to Iran, in rocky hillsides and olive groves; cultivated in dry gardens worldwide",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden cosmos",
+      "description": "Airy, daisy-like blooms float on slender stems above delicate, threadlike foliage. They sway in the autumn breeze and draw butterflies and bees to the late-season garden.",
+      "bloomingSeason": "Summer through autumn, roughly June to October in temperate gardens",
+      "location": "Temperate gardens of the northern hemisphere, such as the US Midwest; native to Mexico",
       "colors": [
-        "golden yellow"
+        "Pink",
+        "White",
+        "Magenta",
+        "Red",
+        "Yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Many scholars believe this is the 'lily of the field' referenced in the Bible, owing to its bright golden flowers appearing after the first autumn rains."
+      "emoji": "🌸",
+      "funFact": "The name comes from the Greek word kosmos, meaning order or harmony, a nod to the tidy symmetry of its petals."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England aster",
+      "description": "Tall, sturdy stems end in clusters of starry, purple-rayed flowers with golden centers. They light up meadows and roadsides just as the autumn foliage turns, and they are a favorite stop for migrating monarch butterflies.",
+      "bloomingSeason": "Late summer to autumn, about August through October",
+      "location": "Meadows and prairies of eastern and central North America, including Maryland and Missouri",
+      "colors": [
+        "Purple",
+        "Lavender",
+        "Pink",
+        "Yellow"
+      ],
+      "emoji": "💜",
+      "funFact": "Its flowers are among the last big nectar sources of the year, so they help fuel migrating butterflies on their long journey south."
     }
   ]
 }

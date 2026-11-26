@@ -3,63 +3,44 @@
   "plants": [
     {
       "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub with small yellow flowers (cyathia) surrounded by showy colored bracts that are often mistaken for petals. In frost-free climates it grows into a large landscape shrub up to 3 meters tall, and as a potted plant it is a symbol of the holiday season.",
-      "bloomingSeason": "Late autumn to winter (November to February) in the Northern Hemisphere",
-      "location": "Native to southern Mexico and Central America; grown as an outdoor shrub in warm regions such as California, Florida, Hawaii and the Mediterranean, and as a houseplant worldwide",
+      "commonName": "Wild Poinsettia",
+      "description": "In the wild, the poinsettia is a tall, open shrub or small tree, not a tidy pot plant. It can reach 3–4 metres. Its fiery crimson bracts, which are leaf-like and often mistaken for petals, blaze above the dry winter landscape. The tiny yellow true flowers sit in the centre of each cluster.",
+      "bloomingSeason": "December, in the dry winter season",
+      "location": "Mexico and Central America, where it grows wild",
       "colors": [
-        "Red",
-        "White",
-        "Pink",
-        "Cream",
-        "Marbled"
-      ],
-      "emoji": "🌺",
-      "funFact": "The colored parts are modified leaves called bracts, whose color change is triggered by long nights. The Aztecs called the plant cuetlaxochitl and used it to make a reddish dye."
-    },
-    {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with flattened, segmented stems with pointed teeth along the edges. Arching branch tips bear tubular, zygomorphic flowers in profusion. In the wild it grows on tree branches and in rock crevices in humid forests.",
-      "bloomingSeason": "Late autumn to early winter (November to January) in the Northern Hemisphere",
-      "location": "Native to the coastal mountains of southeastern Brazil near Rio de Janeiro; widely grown as a houseplant globally",
-      "colors": [
-        "Pink",
-        "Red",
-        "Magenta",
-        "White",
-        "Orange",
+        "Crimson red",
         "Yellow"
       ],
-      "emoji": "🌸",
-      "funFact": "It blooms in response to short days and cool nights. Unlike desert cacti, it grows in the shade of Brazilian rainforest trees and prefers humidity."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading, umbrella-shaped tree with fern-like feathery leaves. In the Southern Hemisphere's early summer it is covered in clusters of large, bright flowers, and it later produces long woody seed pods.",
-      "bloomingSeason": "Early summer in the Southern Hemisphere (November to January); also blooms at other times in the tropics, mostly in the dry season",
-      "location": "Native to Madagascar; planted in tropical and subtropical regions including Australia, South Africa, Brazil, India and the Caribbean",
-      "colors": [
-        "Scarlet",
-        "Orange-red"
-      ],
-      "emoji": "🌳",
-      "funFact": "Although it is a famous ornamental tree across the tropics, it is endangered in its native Madagascar, where its dry forest habitat has been greatly reduced."
+      "emoji": "🎄",
+      "funFact": "The showy red parts are modified leaves, not petals. They change colour in response to the long nights of late autumn, and that is why poinsettias are linked with the holidays."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and delicate, often lightly fragrant flowers with a boss of yellow stamens. It blooms earlier than the common camellia and tolerates more sun, making it popular for hedges and espaliers.",
-      "bloomingSeason": "Late autumn to winter (October to January)",
-      "location": "Native to Japan (southern islands) and China; widely cultivated in the southeastern United States, Europe's mild regions, Australia and New Zealand",
+      "description": "This glossy-leaved evergreen shrub opens silky, lightly scented blossoms just as most gardens go quiet. The flowers are single or semi-double and have a golden boss of stamens. They shower the ground with petals like confetti on cool early-winter days.",
+      "bloomingSeason": "Autumn to early winter (October or November through December and into January)",
+      "location": "Native to southern Japan, and widely grown in temperate gardens of the Northern Hemisphere",
       "colors": [
         "White",
-        "Pink",
-        "Rose-red"
+        "Soft pink",
+        "Rose",
+        "Deep pink"
       ],
-      "emoji": "🌼",
-      "funFact": "Sasanqua is a source of tea seed oil, which is used in cooking, cosmetics and hair care in Japan. The related Camellia sinensis is the plant used to make tea."
+      "emoji": "🌸",
+      "funFact": "It is one of the earliest camellias to bloom. Its relative, Camellia sinensis, gives us tea."
+    },
+    {
+      "name": "Agapanthus campanulatus",
+      "commonName": "Bell Agapanthus",
+      "description": "Long, slender stalks carry rounded clusters of 10 to 30 bell-shaped flowers in pale to deep blue, each petal marked with a darker stripe. They nod above arching, strap-like leaves, and they open as southern-hemisphere summer begins.",
+      "bloomingSeason": "Early to late summer (December to March)",
+      "location": "Grasslands and rocky slopes of South Africa",
+      "colors": [
+        "Pale blue",
+        "Deep blue"
+      ],
+      "emoji": "💙",
+      "funFact": "Its genus name comes from Greek words meaning 'love flower'. Despite the common name 'African lily', it belongs to the amaryllis family."
     }
   ]
 }

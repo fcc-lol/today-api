@@ -2,39 +2,39 @@
   "date": "November 14",
   "events": [
     {
+      "year": 1851,
+      "title": "Moby-Dick Is Published in the United States",
+      "description": "Herman Melville's epic novel of Captain Ahab and his obsessive hunt for the white whale was first published in the United States. It sold poorly at first and baffled many critics.",
+      "category": "Literature",
+      "significance": "Now regarded as one of the greatest American novels, Moby-Dick went from commercial disappointment to a cornerstone of world literature."
+    },
+    {
       "year": 1889,
       "title": "Nellie Bly Begins Her Race Around the World",
-      "description": "Journalist Nellie Bly of the New York World set out from Hoboken, New Jersey, attempting to circle the globe faster than the fictional Phileas Fogg's 80 days from Jules Verne's novel. She completed the journey in 72 days, 6 hours, and 11 minutes.",
+      "description": "Pioneering journalist Nellie Bly set off from New York aboard a steamer. She aimed to beat the fictional 80-day journey in Jules Verne's novel by circling the globe faster.",
       "category": "Exploration",
-      "significance": "Her journey set a world record at the time and made her an international celebrity, demonstrating the capabilities of women in journalism and adventure."
-    },
-    {
-      "year": 1969,
-      "title": "Apollo 12 Launches to the Moon",
-      "description": "NASA launched Apollo 12 from Kennedy Space Center with astronauts Pete Conrad, Richard Gordon, and Alan Bean. The spacecraft was struck by lightning twice shortly after liftoff, but the crew and mission control recovered and continued the mission.",
-      "category": "Science and Space",
-      "significance": "Apollo 12 became the second crewed mission to land on the Moon, demonstrating precision landing near the Surveyor 3 probe and expanding lunar scientific exploration."
-    },
-    {
-      "year": 1907,
-      "title": "Birth of Astrid Lindgren",
-      "description": "Swedish author Astrid Lindgren was born in Vimmerby, Sweden. She went on to write beloved children's books including Pippi Longstocking, Emil of Lönneberga, and The Brothers Lionheart.",
-      "category": "Birth",
-      "significance": "Lindgren became one of the world's most widely read children's authors, with her books translated into around 100 languages and selling well over 100 million copies."
+      "significance": "She finished in just over 72 days. The trip made her a global celebrity and showed what a determined woman reporter could do."
     },
     {
       "year": 1940,
       "title": "Coventry Blitz",
-      "description": "German Luftwaffe bombers carried out a massive night raid on the English city of Coventry during World War II, destroying much of the city center and damaging the medieval St Michael's Cathedral.",
+      "description": "German bombers launched one of the most concentrated air raids on a British city in the Second World War. The attack on the evening of November 14 devastated Coventry and its industry.",
       "category": "War",
-      "significance": "The raid killed hundreds of civilians and became a symbol of wartime destruction and, later, reconciliation, as the ruined cathedral became a center for peace and forgiveness efforts."
+      "significance": "The raid destroyed much of the city center, including its medieval cathedral. Coventry later became a symbol of resilience and of postwar reconciliation."
     },
     {
-      "year": 1896,
-      "title": "Birth of Mamie Eisenhower Era Figure: Birth of Mamie? Correction: Death Marker Replaced by Birth of Mamie Doud",
-      "description": "Mamie Doud Eisenhower was born on November 14, 1896, in Boone, Iowa. She later became First Lady of the United States as the wife of President Dwight D. Eisenhower from 1953 to 1961.",
+      "year": 1948,
+      "title": "Birth of the Future King Charles III",
+      "description": "Charles Philip Arthur George was born to Princess Elizabeth and Prince Philip, Duke of Edinburgh.",
       "category": "Birth",
-      "significance": "As First Lady during the 1950s, she was a prominent figure in American public life and a style icon of the era."
+      "significance": "After decades as heir to the throne, he became King of the United Kingdom and head of the Commonwealth."
+    },
+    {
+      "year": 1969,
+      "title": "Apollo 12 Launches",
+      "description": "Apollo 12 lifted off from the Kennedy Space Center. It became the second crewed mission to land on the Moon.",
+      "category": "Space",
+      "significance": "The mission showed that NASA could land precisely and carry out longer lunar explorations, building on Apollo 11's first landing."
     }
   ]
 }

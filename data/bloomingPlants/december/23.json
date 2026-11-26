@@ -4,64 +4,45 @@
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub with bright colored bracts that are often mistaken for petals, surrounding tiny yellow true flowers called cyathia. In frost-free climates it grows into a large landscape shrub up to 4 meters tall, and elsewhere it is widely grown as a festive potted plant.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; cultivated worldwide, with outdoor displays in Mexico, Southern California, Florida, Hawaii, and Australia",
+      "description": "In the wild, this is a tall, rangy shrub or small tree that can reach 3–4 meters. Its branch tips are topped with fiery bracts that look like petals. The real flowers are the tiny yellow-green clusters at the center of each bract rosette. Short winter days trigger the color change.",
+      "bloomingSeason": "Wild plants bloom in December, in the short days of the Northern Hemisphere winter.",
+      "location": "Native to Mexico and Central America, where it grows as a wild shrub",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "cream",
-        "marbled"
+        "Red",
+        "Cream",
+        "Yellow-green"
+      ],
+      "emoji": "🎄",
+      "funFact": "The showy red parts are modified leaves called bracts, not petals. The plant is a short-day plant, so it needs long nights to start coloring up."
+    },
+    {
+      "name": "Ceratopetalum gummiferum",
+      "commonName": "New South Wales Christmas Bush",
+      "description": "This Australian native shrub is covered in small creamy flowers in early summer. As each flower fades, its calyx swells and turns a rich red. The result is a haze of rosy-red, petal-like sepals that glows against dark green leaves, just in time for the holidays.",
+      "bloomingSeason": "Flowers open from December onwards, in early Southern Hemisphere summer.",
+      "location": "Eastern Australia, native to New South Wales and grown in gardens including Canberra",
+      "colors": [
+        "Cream",
+        "Red",
+        "Pink"
+      ],
+      "emoji": "🌿",
+      "funFact": "The red color people admire comes from the enlarged calyx, not from the petals. Australians have long cut it as a holiday decoration, which is why it's called Christmas Bush."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana (Flame Tree)",
+      "description": "A broad, umbrella-shaped tree with fern-like leaves. In summer it is covered in masses of orange-scarlet blossoms, each with one petal that is streaked with white and yellow. It is a spectacular sight along warm-climate streets and parks.",
+      "bloomingSeason": "December to February in Australia's summer.",
+      "location": "Tropical and subtropical Australia, such as Queensland (the tree is originally from Madagascar)",
+      "colors": [
+        "Orange",
+        "Scarlet",
+        "Yellow",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Poinsettias need long nights of at least 12 hours of uninterrupted darkness for about 8 to 10 weeks to develop their colored bracts, which is why they bloom around the winter solstice. The Aztecs called it cuetlaxochitl and used the sap to make a reddish dye."
-    },
-    {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green, divided leaves and nodding, cup-shaped white flowers that often age to pink. It blooms in cold weather, sometimes pushing up through snow, and provides rare nectar for winter pollinators.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountain woodlands of the Alps and northern Apennines in central and southern Europe; grown in temperate gardens in Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green-tinged"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name, it is not a rose but a member of the buttercup family. Legend says it sprang from the tears of a shepherd girl who had no gift for the infant Christ, and all parts of the plant are toxic."
-    },
-    {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial producing tall, sturdy flower stalks topped with several giant trumpet-shaped blooms up to 25 cm across, followed by strap-like leaves. In the Southern Hemisphere garden plants flower naturally in the early summer, while in the north, forced bulbs flower indoors.",
-      "bloomingSeason": "Southern Hemisphere early summer (December); forced indoors in the Northern Hemisphere in winter",
-      "location": "Hybrids derived from species native to the tropical Andes and South America; grown in gardens in South Africa, Australia, and Brazil and as indoor plants in Europe and North America",
-      "colors": [
-        "red",
-        "white",
-        "pink",
-        "orange",
-        "salmon",
-        "striped"
-      ],
-      "emoji": "🌷",
-      "funFact": "Amaryllis bulbs can send up a flower stalk that grows several centimeters in a single day, and a large bulb may produce two or even three stalks in one season."
-    },
-    {
-      "name": "Metrosideros excelsa",
-      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
-      "description": "A spreading evergreen coastal tree with thick, gray-green leaves and gnarled, sprawling trunks, often clinging to sea cliffs. In midsummer it is covered in brilliant crimson flower clusters made of fluffy stamens, which attract nectar-feeding birds such as tūī and bellbirds.",
-      "bloomingSeason": "Southern Hemisphere summer (late November to January)",
-      "location": "Native to coastal areas of the North Island of New Zealand; widely planted in Auckland and other temperate coastal cities",
-      "colors": [
-        "crimson red",
-        "scarlet",
-        "rare yellow",
-        "rare orange"
-      ],
-      "emoji": "🌳",
-      "funFact": "Its flowering around Christmas has made it a New Zealand holiday symbol, and the species is culturally significant to Māori. The largest and oldest specimens can live for several hundred years."
+      "funFact": "After flowering, it produces long, woody, bean-like seed pods. The tree is native to Madagascar, where it is now endangered in the wild, despite being planted in warm regions around the world."
     }
   ]
 }

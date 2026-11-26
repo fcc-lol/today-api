@@ -4,61 +4,44 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a classic winter bloomer in gardens, with thousands of cultivars in single, semi-double, and fully double forms.",
-      "bloomingSeason": "Late autumn through early spring",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, Australia, and New Zealand",
+      "description": "Glossy evergreen shrubs light up the cold season with rose-like blooms of layered, satin petals around golden stamens. They stand out against deep green leaves in winter gardens and woodlands.",
+      "bloomingSeason": "Late winter to early spring, with flowering from about December through April and a strong peak from January to March",
+      "location": "Coastal and southern Japan, including Kyushu, Shikoku and the Pacific coast of Honshu",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, produces the leaves used to make all true tea, and Camellia japonica seed oil has been used in Japan for hair care and cooking."
+      "funFact": "In Japan the camellia, called tsubaki, is a classic tea-garden flower. Its seeds are pressed into prized camellia oil, traditionally used for hair care and for polishing blades."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with nodding, cup-shaped white flowers that often age to pinkish tones, with bright yellow stamens. It can bloom through snow and frost in shady woodland gardens.",
-      "bloomingSeason": "Midwinter to early spring",
-      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens across Europe and North America",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily",
+      "description": "Tall, slender stems hold rounded clusters of trumpet-shaped blue flowers above arching, strap-like leaves. In midsummer they ripple along sunny borders and roadsides.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December to February",
+      "location": "Eastern coastal South Africa, widely grown in Australia and New Zealand gardens",
       "colors": [
-        "white",
-        "pale pink",
-        "green"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite its name it is not a true rose, and all parts of the plant are toxic. Its flowers are protected from cold by the plant's natural antifreeze-like cell chemistry and sturdy leathery foliage."
-    },
-    {
-      "name": "Hippeastrum puniceum",
-      "commonName": "Amaryllis (Barbados Lily)",
-      "description": "A bulbous perennial with large trumpet-shaped flowers on tall hollow stalks. Hybrids derived from Hippeastrum species are popular winter-flowering houseplants in the Northern Hemisphere, while in the Southern Hemisphere and tropics they bloom in the warm season.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; summer in parts of South America and the Southern Hemisphere",
-      "location": "Native to tropical and subtropical Central and South America and the Caribbean; grown worldwide",
-      "colors": [
-        "red",
-        "orange",
-        "white",
-        "pink",
-        "striped"
-      ],
-      "emoji": "🌷",
-      "funFact": "Hippeastrum bulbs can reach the size of a grapefruit and can flower again for many years if given a dormant rest period."
+      "emoji": "💙",
+      "funFact": "Despite the common name, it is not a true lily. Its name comes from Greek words meaning 'love flower', and its thick, fleshy roots store water through dry spells."
     },
     {
       "name": "Prunus mume",
-      "commonName": "Chinese Plum (Japanese Apricot)",
-      "description": "A small deciduous tree whose fragrant blossoms appear on bare branches in late winter, often before the leaves. It is a beloved symbol of perseverance and is prized in gardens and bonsai.",
-      "bloomingSeason": "Late January to March",
-      "location": "Native to southern China; cultivated in Japan, Korea, Taiwan, and mild regions of the United States and Europe",
+      "commonName": "Japanese Apricot (Ume)",
+      "description": "Bare branches burst into fragrant, five-petaled blossoms while winter still holds on. The sweet, spicy scent drifts through cold air, and early varieties open in the mildest parts of the country.",
+      "bloomingSeason": "Mid-winter to early spring, with early varieties opening from January in milder regions",
+      "location": "Warmer parts of Japan, such as the Izu Peninsula and the Pacific coast, and southern China",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "In East Asian art it is one of the 'Three Friends of Winter' along with pine and bamboo because it blossoms in the cold."
+      "funFact": "Ume blooms before cherry blossoms and is seen as a herald of spring in East Asian culture. Its fruits are pickled into umeboshi and steeped into plum wine."
     }
   ]
 }

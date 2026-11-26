@@ -2,44 +2,28 @@
   "date": "March 11",
   "holidays": [
     {
-      "name": "Johnny Appleseed Day",
-      "description": "A day honoring the barefoot, tin-pot-hatted legend who wandered America planting apple trees. Celebrate by eating apples, baking pies, or planting a tree.",
-      "origin": "Honors John Chapman, born September 26, 1774. Some observe it on March 11, the date traditionally linked to his death in 1845, while others celebrate on his birthday in September.",
-      "category": "Historical/Folk Hero",
-      "emoji": "🍎",
-      "funFact": "Many of Johnny Appleseed's apples were not for eating. They were small, tart 'spitters' mostly used to make hard cider, which was the popular drink on the frontier."
-    },
-    {
-      "name": "Plant a Flower Day",
-      "description": "A day for getting your hands dirty and sticking some blossoms in the ground, brightening up your yard, balcony, or windowsill as spring approaches.",
-      "origin": "An informal gardening observance that grew out of early spring planting traditions and is promoted by garden centers and flower enthusiasts.",
-      "category": "Nature/Gardening",
-      "emoji": "🌸",
-      "funFact": "Sunflowers can track the sun across the sky when young, a movement called heliotropism, so a planted sunflower really does follow the light."
-    },
-    {
-      "name": "Worship of Tools Day",
-      "description": "A tongue-in-cheek day to show appreciation for your trusty hammers, wrenches, and screwdrivers. Give your tools some love by cleaning, oiling, and organizing them.",
-      "origin": "A humorous, informal observance among DIYers and handy folks. It nods to the real tool-worshipping traditions of Ayudha Puja in India, where tools and instruments are honored.",
-      "category": "Humorous/Unofficial",
-      "emoji": "🔧",
-      "funFact": "The oldest known stone tools are about 3.3 million years old, found in Kenya, which predates the earliest known members of our own genus, Homo."
-    },
-    {
-      "name": "Panic Day",
-      "description": "A day for letting loose a little controlled freak-out and then laughing at how much you worried. Think of it as a permission slip to run around in circles for a minute.",
-      "origin": "An unofficial and lighthearted observance, often tied to the idea of releasing stress and recognizing that panic is a normal human reaction.",
-      "category": "Humorous/Unofficial",
-      "emoji": "😱",
-      "funFact": "The word 'panic' comes from Pan, the Greek god of the wild, whose sudden shouts in the woods were said to cause irrational terror in travelers and animals."
-    },
-    {
-      "name": "Oatmeal Nut Waffles Day",
-      "description": "A cozy breakfast holiday dedicated to waffles studded with oats and crunchy nuts. Fire up the waffle iron and top them with syrup, fruit, or butter.",
-      "origin": "A food-calendar observance popularized by recipe sites and breakfast lovers, celebrating a hearty twist on the classic waffle.",
+      "name": "National Oatmeal Nut Waffles Day",
+      "description": "Waffles get a hearty upgrade today. Toasty oats and crunchy nuts go into the batter, which turns a plain breakfast into something closer to a cozy trail-mix hug. Top them with butter, maple syrup or fruit and call it a balanced meal.",
+      "origin": "This is an unofficial food observance of unclear origin. It has become a fixture on fun-holiday calendars for breakfast lovers.",
       "category": "Food",
       "emoji": "🧇",
-      "funFact": "Waffle irons were patented in the US in 1869 by Cornelius Swarthout, long after medieval Europeans were cooking waffles between ornate patterned iron plates."
+      "funFact": "Waffle batter is cooked in a patterned iron, and those deep grid pockets are designed to hold syrup and melted butter."
+    },
+    {
+      "name": "Johnny Appleseed Day",
+      "description": "A day to honor John Chapman, the barefoot, tin-pot-hatted wanderer of American folklore who spread apple trees across the frontier. Celebrate by eating something apple-y or planting a tree.",
+      "origin": "John Chapman was born in Massachusetts in 1774. He spent decades planting apple nurseries across Pennsylvania, Ohio, Indiana and beyond. Some sources date his death to March 1845, and the day is observed in his memory.",
+      "category": "History & Folklore",
+      "emoji": "🍎",
+      "funFact": "Most of Chapman's apples were small and tart, and people mainly used them for hard cider, not for eating."
+    },
+    {
+      "name": "World Plumbing Day",
+      "description": "A salute to the unsung heroes behind every working tap, toilet and shower. The day celebrates how plumbing protects public health and gets clean water to the people who need it.",
+      "origin": "The World Plumbing Council launched it in 2010 to raise awareness of the importance of plumbing for health, safety and sanitation worldwide.",
+      "category": "Awareness Day",
+      "emoji": "🚰",
+      "funFact": "The word plumber comes from the Latin word for lead, plumbum, because ancient Roman pipes were often made of lead."
     }
   ]
 }

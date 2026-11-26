@@ -2,63 +2,46 @@
   "date": "January 31",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub or small tree with glossy dark green leaves and rose-like flowers. It is a classic winter bloomer in mild climates and is widely cultivated in gardens and parks, with thousands of cultivars.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; cultivated in the southeastern United States, Western Europe, Australia, and New Zealand",
+      "name": "Prunus campanulata",
+      "commonName": "Taiwan Cherry (Bell-flowered Cherry)",
+      "description": "Before most trees have stirred, this cherry covers its bare branches in nodding, bell-shaped blossoms of deep rose-pink. The flowers hang in small clusters and glow against winter hillsides. They draw flocks of bulbuls and white-eyes that come to sip nectar.",
+      "bloomingSeason": "Late January to February, with the peak varying by elevation",
+      "location": "Okinawa, Japan, and Taiwan",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
-      ],
-      "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant used to make all true teas, including green, black, and oolong."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the coldest part of winter. It is celebrated in East Asian art and poetry as a symbol of perseverance and the coming spring.",
-      "bloomingSeason": "Late January to March",
-      "location": "Native to southern China; widely grown in Japan, Korea, and Taiwan, and in temperate gardens elsewhere",
-      "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "Deep pink",
+        "Magenta-rose"
       ],
       "emoji": "🌸",
-      "funFact": "The blossoms often open while snow is still on the ground, which is why the tree is one of the 'Three Friends of Winter' in Chinese culture."
+      "funFact": "Okinawa's cherry blossom season is the earliest in Japan. It begins in January, weeks before the famous cherry blooms of the mainland."
     },
     {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial with huge trumpet-shaped flowers on tall hollow stalks. In the Northern Hemisphere it is commonly forced indoors for winter blooms, while in the Southern Hemisphere it blooms outdoors in summer gardens.",
-      "bloomingSeason": "Winter indoors in the Northern Hemisphere; late spring to summer outdoors in the Southern Hemisphere",
-      "location": "Native to South America and the Andes; cultivated worldwide",
+      "name": "Camellia japonica",
+      "commonName": "Common Camellia",
+      "description": "Glossy evergreen shrubs burst into rose-like blooms with layers of silky petals and a boss of golden stamens. Against dark green leaves, the flowers look almost sculpted. They brighten gardens in the depths of winter.",
+      "bloomingSeason": "Winter to early spring, from about December through March in mild climates",
+      "location": "Gardens of the Pacific Northwest and southern United States, western Europe, and Japan",
       "colors": [
-        "red",
-        "white",
-        "pink",
-        "orange",
-        "striped"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "❤️",
-      "funFact": "Amaryllis bulbs can bloom again year after year, and a single bulb may produce several flower stalks in a season."
+      "emoji": "🌺",
+      "funFact": "Camellia sinensis, a close relative, produces the leaves used to make all true tea."
     },
     {
       "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and rounded umbels of blue trumpet-shaped flowers on tall stems. It thrives in the warm summer conditions of the Southern Hemisphere.",
-      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
-      "location": "Native to South Africa; naturalized and widely planted in Australia, New Zealand, and coastal California",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Rounded umbels of trumpet-shaped flowers rise on tall, slender stems above arching, strap-like leaves. In the Southern Hemisphere summer, they put on a show in blue and violet. They are a staple of coastal gardens and roadsides.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly December through February",
+      "location": "Eastern South Africa, and gardens in Australia and New Zealand",
       "colors": [
-        "blue",
-        "purple",
-        "white"
+        "Blue",
+        "Violet",
+        "White"
       ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, it is not a true lily, and the genus name comes from the Greek words for 'love' and 'flower'."
+      "emoji": "💜",
+      "funFact": "Despite the common name, agapanthus is not a true lily. The name comes from Greek words meaning 'love flower'."
     }
   ]
 }

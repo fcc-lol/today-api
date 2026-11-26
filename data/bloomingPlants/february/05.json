@@ -2,60 +2,59 @@
   "date": "February 5",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers that brighten the late winter landscape. Hundreds of cultivars exist, with single, semi-double, and fully double forms.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Small, nodding white bells with delicate green-marked inner petals push up through frost, leaf litter and sometimes snow. Drifts of them carpet woodland floors and old churchyards. They are among the first flowers of the year in the Northern Hemisphere.",
+      "bloomingSeason": "January to February, and sometimes earlier in mild winters",
+      "location": "Woodlands, parks and gardens across the United Kingdom and Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "White",
+        "Green"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seed oil has long been used in Japan for hair care and cooking."
+      "emoji": "❄️",
+      "funFact": "Snowdrops make their own natural antifreeze-like compounds and can raise their flower stems through frozen ground. They also contain galantamine, a compound that has been developed into a medicine for early Alzheimer's disease."
     },
     {
       "name": "Prunus mume",
-      "commonName": "Chinese Plum (Ume)",
-      "description": "A small deciduous tree that flowers on bare branches before its leaves emerge. Its fragrant blossoms often open in cold weather, sometimes while snow is still on the ground.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to southern China; cultivated across East Asia, especially in China, Japan, and Korea",
+      "commonName": "Japanese Apricot (Ume, Chinese Plum)",
+      "description": "Spicy-sweet, fragrant blossoms open on bare branches while winter still grips the landscape. The flowers range from pure white to deep pink-red, often with a darker calyx. Each tree looks like a cloud of blooms.",
+      "bloomingSeason": "Early January through February in the mild climate of its native Yangtze region, and from late February into March in colder parts of Japan",
+      "location": "Central China and Japan, in gardens, orchards and plum-blossom parks",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Red"
       ],
       "emoji": "🌸",
-      "funFact": "In Chinese culture the plum blossom is one of the 'Three Friends of Winter' and symbolizes perseverance and hope because it blooms in the harshest season."
+      "funFact": "Ume blossoms are a traditional symbol of perseverance and the coming of spring in East Asian culture. They bloom before cherry blossoms and long before the tree's leaves appear."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, often pushing up through frost and snow.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the United Kingdom and North America",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Glossy evergreen shrubs burst into rose-like flowers of satin petals around a boss of golden stamens. The flowers can be single, semi-double or fully double. In late winter they brighten the garden when little else is in color.",
+      "bloomingSeason": "Late winter to early spring, typically February to April, with some varieties opening earlier",
+      "location": "Gardens in Japan and the southeastern United States, where winters are mild",
       "colors": [
-        "white",
-        "green"
+        "White",
+        "Pink",
+        "Red"
       ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops produce galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
+      "emoji": "🌺",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. It has been cultivated for centuries, and thousands of named cultivars exist."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking shrub with the largest flower head in the protea family, made of pointed pink bracts surrounding a central cluster of tiny flowers. It thrives in fynbos on nutrient-poor soils.",
-      "bloomingSeason": "Southern Hemisphere summer, with peak blooms from late summer to early autumn, though flowering may occur in some months of the year",
-      "location": "South Africa's Western and Eastern Cape fynbos; cultivated in Australia, Hawaii, and California",
+      "name": "Agapanthus praecox",
+      "commonName": "African Lily (Lily of the Nile)",
+      "description": "Tall, sturdy stems carry round, umbrella-like clusters of trumpet-shaped blue flowers above arching, strap-like leaves. In the Southern Hemisphere summer they make a bold, cooling show of blue.",
+      "bloomingSeason": "Mid to late summer, December to February",
+      "location": "Eastern Cape and the coastal regions of South Africa, where it is native, and gardens across the Southern Hemisphere",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Blue",
+        "Violet-blue",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "The king protea is South Africa's national flower, and its thick underground stems help it survive and resprout after the wildfires that regularly sweep through its habitat."
+      "emoji": "💙",
+      "funFact": "Despite its common name, the African lily is not a true lily. It belongs to the amaryllis family, and its name comes from Greek words meaning 'love flower.'"
     }
   ]
 }

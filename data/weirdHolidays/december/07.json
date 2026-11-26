@@ -3,43 +3,27 @@
   "holidays": [
     {
       "name": "National Cotton Candy Day",
-      "description": "A day to celebrate the fluffy, sugary cloud of spun sugar that has delighted fairgoers for generations. Grab a cone and let your teeth regret everything.",
-      "origin": "Cotton candy was introduced to a wide audience at the 1904 St. Louis World's Fair, created by dentist William Morrison and confectioner John C. Wharton. National Cotton Candy Day was established in the United States as a food observance in the 2000s.",
-      "category": "Food Day",
+      "description": "A fluffy, sugary celebration of spun sugar. Grab a cloud of pink or blue and let it dissolve on your tongue at the fair, the boardwalk, or your own kitchen counter.",
+      "origin": "This is an unofficial observance, and the exact origin of the day is unclear. It honors the carnival treat that became widely popular in the early 1900s.",
+      "category": "Food",
       "emoji": "🍭",
-      "funFact": "The machine that made cotton candy was co-invented by a dentist, and the pair sold about 68,000 boxes of the treat at the 1904 World's Fair."
+      "funFact": "Cotton candy was introduced to a wide audience at the 1904 St. Louis World's Fair. A dentist, William Morrison, helped invent the machine that made it."
+    },
+    {
+      "name": "National Letter Writing Day",
+      "description": "A day to put down the phone and pick up a pen. Write a handwritten note to a friend, relative, or someone you've been meaning to thank, and put a stamp on it.",
+      "origin": "This is an unofficial observance of unclear origin. It encourages people to keep the art of the handwritten letter alive.",
+      "category": "Arts & Communication",
+      "emoji": "✉️",
+      "funFact": "Letters were once the main way people stayed in touch over long distances. Some famous correspondences, like those of the poet Emily Dickinson, are now studied as literature."
     },
     {
       "name": "International Civil Aviation Day",
-      "description": "A United Nations observance celebrating the airplanes, pilots, air traffic controllers, and systems that make worldwide flight possible, so you can complain about legroom at 35,000 feet.",
-      "origin": "It was first observed in 1994 to mark the 50th anniversary of the signing of the Convention on International Civil Aviation in Chicago on December 7, 1944, which created the International Civil Aviation Organization (ICAO).",
-      "category": "International Observance",
+      "description": "A day recognizing the role of air travel in connecting people and economies around the world. It is a good moment to appreciate pilots, air traffic controllers, and ground crews.",
+      "origin": "The International Civil Aviation Organization was established in 1944 when the Convention on International Civil Aviation was signed in Chicago on December 7. The day has been observed since 1994 and was later recognized by the United Nations.",
+      "category": "International Awareness",
       "emoji": "✈️",
-      "funFact": "The Chicago Convention of 1944 was signed while World War II was still raging, yet it laid down the rules for peacetime global air travel."
-    },
-    {
-      "name": "Letter Writing Day",
-      "description": "A day to put down your phone, pick up a pen, and send an actual handwritten letter to someone. Stamps are the original push notification.",
-      "origin": "Letter Writing Day is an informal, unofficial observance that grew from the popularity of national days promoting handwritten correspondence, and it is often celebrated in early December as people prepare holiday cards.",
-      "category": "Unofficial Holiday",
-      "emoji": "✉️",
-      "funFact": "The Pony Express carried letters across the American West in about 10 days, and it only operated for roughly 18 months in 1860 and 1861."
-    },
-    {
-      "name": "Pearl Harbor Remembrance Day",
-      "description": "Not quirky, but a solemn observance worth noting, as this date is remembered for the 1941 attack on Pearl Harbor. Flags are flown at half-staff in honor of those who died.",
-      "origin": "Congress designated December 7 as National Pearl Harbor Remembrance Day in 1994 to honor the more than 2,400 Americans who lost their lives in the 1941 attack.",
-      "category": "Remembrance Day",
-      "emoji": "🇺🇸",
-      "funFact": "The USS Arizona Memorial still leaks small amounts of oil from the sunken ship, which are known as the 'black tears of the Arizona.'"
-    },
-    {
-      "name": "Santa's Reindeer Appreciation Day Adjacent: Tamale Season Kickoff",
-      "description": "In many Latino communities, early December marks the start of tamale-making season, when families gather in assembly lines to spread masa, add fillings, and wrap dozens of corn husk bundles for the holidays.",
-      "origin": "Tamales have been made in Mesoamerica for thousands of years, and the tradition of making them for Christmas and Las Posadas gatherings grew from Mexican and Central American cultures.",
-      "category": "Cultural Food Tradition",
-      "emoji": "🌽",
-      "funFact": "Tamales date back as far as 8000 to 5000 BCE, and Aztec and Maya warriors reportedly carried them as portable food."
+      "funFact": "The Chicago Convention of 1944 set the rules for international air travel that are still in use today, including the principle that every country controls the airspace above its own territory."
     }
   ]
 }

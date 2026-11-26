@@ -2,39 +2,32 @@
   "date": "October 4",
   "events": [
     {
-      "year": 1957,
-      "title": "Launch of Sputnik 1",
-      "description": "The Soviet Union launched Sputnik 1, the first artificial Earth satellite, from the Baikonur Cosmodrome in Kazakhstan. The metal sphere orbited Earth for about three months, transmitting radio beeps that were heard around the world.",
-      "category": "Science and Technology",
-      "significance": "It marked the start of the Space Age and the Space Race between the United States and the Soviet Union, prompting major investments in science education and the creation of NASA in 1958."
-    },
-    {
       "year": 1582,
-      "title": "Adoption of the Gregorian Calendar Begins",
-      "description": "In Catholic countries including Italy, Spain, Portugal, and Poland-Lithuania, October 4, 1582 was followed directly by October 15, as the Gregorian calendar replaced the Julian calendar under Pope Gregory XIII's reform.",
+      "title": "The Gregorian calendar begins",
+      "description": "Pope Gregory XIII introduced the Gregorian calendar to correct drift in the older Julian system. In Italy, Poland, Portugal and Spain, the day after October 4 was October 15, so ten days vanished from the calendar.",
       "category": "Science and Culture",
-      "significance": "The reform corrected accumulated drift in the calendar's alignment with the solar year and evolved into the civil calendar used by most of the world today."
+      "significance": "This reform created the calendar now used across most of the world."
     },
     {
-      "year": 1226,
-      "title": "Death of Francis of Assisi",
-      "description": "Francis of Assisi, the Italian friar and founder of the Franciscan Order, died near Assisi on the evening of October 3, with his feast day observed on October 4. He was canonized in 1228 by Pope Gregory IX.",
-      "category": "Religion",
-      "significance": "His emphasis on poverty, humility, and love of nature reshaped medieval Christian spirituality, and he is the patron saint of animals and ecology; his feast day is World Animal Day."
-    },
-    {
-      "year": 1830,
-      "title": "Belgium Declares Independence",
-      "description": "The provisional government of Belgium declared the country independent from the United Netherlands following the Belgian Revolution that began in August 1830.",
-      "category": "Politics",
-      "significance": "It led to the establishment of the Kingdom of Belgium as a neutral, constitutional monarchy, recognized by the major European powers in 1831."
+      "year": 1862,
+      "title": "Union victory at the Second Battle of Corinth",
+      "description": "A two-day battle ended with Union forces under General William Rosecrans holding Corinth, Mississippi. Confederate troops under General Earl Van Dorn failed to take the town.",
+      "category": "Military",
+      "significance": "Holding the rail junction at Corinth helped the Union keep control of key transport routes in the western theater of the American Civil War."
     },
     {
       "year": 1927,
-      "title": "Mount Rushmore Carving Begins",
-      "description": "Sculptor Gutzon Borglum began carving the monument in the Black Hills of South Dakota, depicting Presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln.",
-      "category": "Arts and Culture",
-      "significance": "Completed in 1941, Mount Rushmore became one of the most recognizable American national memorials and a major tourist destination."
+      "title": "Work begins on Mount Rushmore",
+      "description": "Sculptor Gutzon Borglum began carving the monument in the Black Hills of South Dakota. The project eventually became a huge granite portrait of four U.S. presidents.",
+      "category": "Arts and Monuments",
+      "significance": "Mount Rushmore became one of the best-known landmarks in the United States and a symbol of national memory."
+    },
+    {
+      "year": 1957,
+      "title": "Sputnik 1 launches the Space Age",
+      "description": "The Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. The small metal sphere circled the planet and sent out radio beeps that people around the world could pick up.",
+      "category": "Science and Technology",
+      "significance": "The launch started the Space Race and changed global politics, science education and technology."
     }
   ]
 }

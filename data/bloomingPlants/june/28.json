@@ -4,58 +4,43 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-green narrow leaves and dense spikes of small, fragrant flowers. It is widely grown in gardens, in herb borders, and in commercial fields for essential oil production. Bees and butterflies are strongly attracted to it.",
-      "bloomingSeason": "Late June through August in the Northern Hemisphere",
-      "location": "Mediterranean native; cultivated in Provence (France), England, Bulgaria, and the northern United States",
+      "description": "Rolling rows of slender silver-green stems topped with dense spikes of violet-blue flowers. The blooms hum with bees and release a sweet, herbal perfume across the fields.",
+      "bloomingSeason": "Late June through August, with peak bloom in early to mid July",
+      "location": "Provence, southern France, and other Mediterranean-climate regions of Europe",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Purple",
+        "Blue"
       ],
       "emoji": "💜",
-      "funFact": "Lavender's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths and laundry."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub with large rounded clusters of showy flowers above broad, glossy leaves. It thrives in partial shade and moist, well-drained soil, and is a fixture of cottage gardens and coastal landscapes.",
-      "bloomingSeason": "Early summer to early fall",
-      "location": "Native to Japan; widely grown in the Azores, the UK, the eastern United States, and Pacific Northwest",
+      "name": "Tilia cordata",
+      "commonName": "Small-leaved Linden",
+      "description": "A stately shade tree that, in early summer, hangs clusters of small, creamy-yellow flowers beneath pale bracts. Their honeyed fragrance drifts down city streets and woodland edges.",
+      "bloomingSeason": "Mid June to mid July",
+      "location": "Temperate Europe, including Germany, Poland and the UK",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
+        "Pale yellow",
+        "Cream"
       ],
-      "emoji": "🌸",
-      "funFact": "Flower color depends on soil pH and aluminum availability: acidic soils produce blue blooms, while alkaline soils produce pink ones."
+      "emoji": "🌳",
+      "funFact": "Linden flowers are one of the most prized nectar sources for bees, and they are also dried for a soothing herbal tea."
     },
     {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial that rises from muddy pond bottoms, bearing large round leaves and showy, fragrant flowers held above the water. The leaves repel water thanks to a microscopic waxy surface texture.",
-      "bloomingSeason": "Early summer to early autumn",
-      "location": "Asia and northern Australia; cultivated in ponds and wetlands from India and China to Japan and the southern United States",
+      "name": "Banksia serrata",
+      "commonName": "Old Man Banksia",
+      "description": "A rugged coastal tree whose chunky, candle-like flower spikes glow in greenish-gold and silver. Honeyeaters and native bees crowd around the blooms through the Southern Hemisphere winter.",
+      "bloomingSeason": "Late summer to winter, in the Southern Hemisphere (roughly February to July)",
+      "location": "Coastal eastern Australia, from Queensland to Victoria and Tasmania",
       "colors": [
-        "pink",
-        "white"
+        "Golden yellow",
+        "Greenish-yellow",
+        "Silver"
       ],
-      "emoji": "🪷",
-      "funFact": "Lotus flowers can regulate their own temperature, staying around 30-35°C (86-95°F) even when the air is much cooler, which helps attract pollinating beetles."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody evergreen shrub producing the largest flower head of any protea, with a bowl of silky-tipped petal-like bracts around a central cluster of true flowers. It grows in the fynbos on well-drained, nutrient-poor soils.",
-      "bloomingSeason": "Late autumn through spring in the Southern Hemisphere, with peak flowering in the cooler months including June",
-      "location": "Fynbos of the Western and Eastern Cape, South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and its genus is named after the Greek god Proteus, who could change shape, reflecting the wide variety of protea forms."
+      "emoji": "🌼",
+      "funFact": "Banksia seed cones are woody and often open fully only after bushfire, which releases the seeds onto freshly cleared, nutrient-rich ground."
     }
   ]
 }

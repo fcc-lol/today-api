@@ -2,11 +2,25 @@
   "date": "February 1",
   "plants": [
     {
+      "name": "Prunus mume",
+      "commonName": "Japanese flowering apricot (ume)",
+      "description": "Ume blooms on bare branches in the cold, with fragrant blossoms in white, pink and deep red. Some trees have single flowers and others have ruffled double ones. Its scent drifts through winter gardens and orchards weeks before the cherry blossoms. In Japan it is a symbol of perseverance and the first hint of spring.",
+      "bloomingSeason": "January to February",
+      "location": "Japan, especially mild regions of Honshu, and the Yangtze River region of China",
+      "colors": [
+        "white",
+        "pink",
+        "deep red"
+      ],
+      "emoji": "🌸",
+      "funFact": "Ume is a close relative of the cherry but blooms about six weeks earlier. Its petals are rounded, while sakura petals have a notched tip."
+    },
+    {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and rose-like flowers. It thrives in mild, humid climates and is a mainstay of winter gardens in warm temperate regions.",
-      "bloomingSeason": "Late winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
+      "commonName": "Japanese camellia",
+      "description": "Camellia japonica is a glossy evergreen shrub that flowers in the dull days of winter. Its rose-like blooms open in layers of satin petals around a boss of golden stamens. Gardeners prize the huge range of cultivars, from simple single cups to tightly formed doubles.",
+      "bloomingSeason": "Winter to early spring, with many cultivars at their peak in February",
+      "location": "Southeastern United States, such as South Carolina, and its native range in Japan, Korea and eastern Asia",
       "colors": [
         "red",
         "pink",
@@ -14,48 +28,20 @@
         "variegated"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea, including green, black, and oolong."
+      "funFact": "Camellia japonica is a cousin of Camellia sinensis, the plant that gives us tea."
     },
     {
       "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through snow and frost, heralding the end of winter.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Native to Europe from the Pyrenees to Ukraine; naturalized in the UK, North America, and elsewhere",
+      "commonName": "Snowdrop",
+      "description": "Snowdrops push through frosty ground with nodding, teardrop-shaped white flowers. Each bloom has a small green mark on its inner petals. They often appear in drifts under bare trees and are one of the first flowers of the year. Their flowers are a sign that spring is approaching.",
+      "bloomingSeason": "January to March, often peaking in February",
+      "location": "Woodlands and gardens across the United Kingdom and Europe",
       "colors": [
         "white",
         "green"
       ],
       "emoji": "❄️",
-      "funFact": "Snowdrops produce galantamine, a compound used in medication to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant blossoms on bare branches in the depths of winter. It is highly valued in East Asian culture and often blooms before the leaves emerge.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Native to southern China; cultivated across China, Japan, Korea, and Vietnam",
-      "colors": [
-        "white",
-        "pink",
-        "deep red"
-      ],
-      "emoji": "🌸",
-      "funFact": "In Chinese culture, plum blossom is one of the 'Three Friends of Winter' along with pine and bamboo, symbolizing perseverance and resilience."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flamboyant Tree (Royal Poinciana)",
-      "description": "A spreading tropical tree with fern-like leaves and a canopy covered in brilliant clusters of flowers. In the Southern Hemisphere summer it is in full display, followed by long woody seed pods.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February) and in the dry season in some tropical regions",
-      "location": "Native to Madagascar; widely planted in tropical and subtropical regions, including northern Australia, Brazil, and southern Africa",
-      "colors": [
-        "scarlet",
-        "orange",
-        "red"
-      ],
-      "emoji": "🌳",
-      "funFact": "Despite its global popularity, the flamboyant tree is endangered in its native Madagascar because of habitat loss."
+      "funFact": "Snowdrops can bloom while snow is still on the ground. They make their own antifreeze-like proteins and can even generate a little heat to melt their way up through frost."
     }
   ]
 }

@@ -2,63 +2,61 @@
   "date": "October 28",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A bushy perennial cultivated for thousands of years, producing dense, layered flower heads in a wide range of forms from pompons to spiders. It is a mainstay of autumn gardens across the Northern Hemisphere and thrives in the cool temperatures of late October.",
-      "bloomingSeason": "Autumn (September to November)",
-      "location": "East Asia origin; widely cultivated in temperate gardens in North America, Europe, Japan, and China",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are the official flower of November birthdays and are the emblem of the Japanese Imperial family, whose throne is called the Chrysanthemum Throne."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Blue Jacaranda",
-      "description": "A tall, semi-deciduous tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. Spring in the Southern Hemisphere brings its peak bloom, carpeting streets and parks with fallen blossoms.",
-      "bloomingSeason": "Late spring (October to November in the Southern Hemisphere)",
-      "location": "Native to South America; planted in Australia, South Africa (Pretoria), Argentina, and New Zealand's northern regions",
+      "description": "In late spring, whole streets in the Southern Hemisphere fill with trees covered in lavender-blue trumpet flowers. The blossoms drift down and carpet the pavement in purple. From a distance the canopies look like clouds of violet mist.",
+      "bloomingSeason": "Spring in the Southern Hemisphere, peaking in October and early November, with flowers lasting up to two months",
+      "location": "Pretoria (Tshwane), South Africa, and other Southern Hemisphere cities",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lavender",
+        "Blue-violet",
+        "Purple"
       ],
       "emoji": "🌳",
-      "funFact": "Pretoria in South Africa is nicknamed the Jacaranda City because of its roughly 70,000 jacaranda trees, which turn the city purple every October."
-    },
-    {
-      "name": "Callicarpa americana",
-      "commonName": "American Beautyberry",
-      "description": "A deciduous shrub of the southeastern United States whose small pinkish flowers appear in summer, but in late October it is most noted for its clusters of vivid purple berries. Some related species and late-flowering garden plants share autumn interest with it, making it a fixture in fall landscapes.",
-      "bloomingSeason": "Summer flowers, with fruit display peaking in autumn",
-      "location": "Southeastern United States, Mexico, and the Caribbean",
-      "colors": [
-        "magenta",
-        "purple",
-        "pink"
-      ],
-      "emoji": "🍇",
-      "funFact": "Crushed beautyberry leaves have traditionally been rubbed on skin as a mosquito repellent, and research has found compounds in them that repel insects."
+      "funFact": "Jacarandas are native to South America, but Pretoria has so many of them that it is nicknamed the Jacaranda City."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that opens fragrant, delicate flowers in autumn, earlier than the more familiar Camellia japonica. Its blooms attract late-season pollinators and brighten gardens when most other plants are fading.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to Japan; grown in the southeastern United States, Japan, the Mediterranean, and Australia",
+      "description": "This glossy-leaved evergreen shrub flowers in autumn, when most other camellias are still in bud. Its delicate, often lightly fragrant blooms open flat, with a golden boss of stamens at the center. Petals fall in soft drifts beneath the plant.",
+      "bloomingSeason": "Autumn into early winter, usually starting in October or November",
+      "location": "Gardens in Japan, its native home, and in the warm-temperate southern United States",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "White",
+        "Pale pink",
+        "Rose pink",
+        "Crimson"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia sasanqua is a close relative of the tea plant, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed for oil in parts of Asia."
+    },
+    {
+      "name": "Nerine bowdenii",
+      "commonName": "Bowden Lily",
+      "description": "Bare, leafless stems rise from the garden soil and carry rounded clusters of bright pink flowers with wavy, sparkling petals. They bring exotic color just as the autumn border is fading. Their glitter-like sheen catches the low autumn light.",
+      "bloomingSeason": "Autumn, commonly October and into November",
+      "location": "Gardens in the United Kingdom and temperate Europe; native to South Africa's mountains",
+      "colors": [
+        "Bright pink",
+        "Pink-magenta"
+      ],
+      "emoji": "💐",
+      "funFact": "Bowden lilies bloom best when their bulbs are crowded and baked by summer sun, so gardeners often plant them at the foot of a sunny wall."
+    },
+    {
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden Cosmos",
+      "description": "Cosmos has airy, feathery foliage and daisy-like flowers that nod on slender stems in the autumn breeze. Its saucer-shaped blooms in pink, white and magenta attract bees and butterflies late in the season. In its homeland it colors roadsides and meadows.",
+      "bloomingSeason": "Summer through fall, continuing into autumn",
+      "location": "Native to Mexico; widely grown in gardens and meadows across the Northern Hemisphere",
+      "colors": [
+        "Pink",
+        "White",
+        "Magenta",
+        "Crimson"
+      ],
+      "emoji": "🌼",
+      "funFact": "Its genus name comes from the Greek word 'kosmos', meaning order or harmony, a nod to its neatly arranged petals."
     }
   ]
 }

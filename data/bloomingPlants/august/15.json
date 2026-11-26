@@ -4,76 +4,43 @@
     {
       "name": "Helianthus annuus",
       "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made up of golden ray florets surrounding a dark central disk. The heads track the sun during early growth and are widely cultivated for seed, oil, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall in the Northern Hemisphere (July to September)",
-      "location": "Native to North America; widely cultivated across the United States, Europe, Ukraine, Russia, and Argentina",
+      "description": "Tall, sun-chasing stems carry broad golden-yellow petals around dark, seed-packed centers. Fields and prairie edges glow in mid-August, and bees crowd the blooms.",
+      "bloomingSeason": "Late summer, typically August through September in North America",
+      "location": "Prairies, fields and gardens across North America",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow",
+        "Brown",
+        "Deep burgundy"
       ],
       "emoji": "🌻",
-      "funFact": "A sunflower head is actually a composite of up to 2,000 tiny individual flowers, and the seed pattern follows a Fibonacci spiral."
+      "funFact": "What looks like one flower is really a head of hundreds of tiny florets. The outer ones form the petals and the inner ones become seeds."
     },
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies.",
-      "bloomingSeason": "Late spring to late summer, with peak harvest in July and August in cooler regions",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Bulgaria, Tasmania, and the northern United States",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest of all proteas, with a huge, artichoke-like bloom ringed by silky pink bracts. It is South Africa's national flower and stands out against the fynbos in the Southern Hemisphere winter.",
+      "bloomingSeason": "Winter to spring, mainly June to October",
+      "location": "Fynbos slopes of the Western and Eastern Cape, South Africa",
       "colors": [
-        "purple",
-        "lavender",
-        "blue",
-        "violet"
+        "Pink",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "💜",
-      "funFact": "Lavender oil has been used since Roman times, and the name comes from the Latin 'lavare', meaning 'to wash'."
+      "emoji": "🌺",
+      "funFact": "Proteas belong to an ancient plant family that is older than many continents' current positions. The thick-walled blooms are adapted to survive the periodic wildfires of the fynbos."
     },
     {
-      "name": "Hydrangea paniculata",
-      "commonName": "Panicle Hydrangea",
-      "description": "A hardy deciduous shrub producing large cone-shaped clusters of flowers that start creamy white and age to pink or burgundy. It tolerates sun and cold better than many other hydrangeas.",
-      "bloomingSeason": "Mid-summer to fall (July to October)",
-      "location": "Native to China, Japan, and Sakhalin; widely grown in temperate gardens in North America and Europe",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "In late winter this Australian tree is covered in fluffy, fragrant golden pom-poms that light up bushland. It is Australia's national floral emblem.",
+      "bloomingSeason": "Late winter to spring, roughly July to October depending on region",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
       "colors": [
-        "white",
-        "cream",
-        "pink",
-        "burgundy"
+        "Golden yellow",
+        "Gray-green foliage"
       ],
-      "emoji": "🤍",
-      "funFact": "The flower color of panicle hydrangeas shifts with age rather than soil chemistry, unlike bigleaf hydrangeas, whose color depends on soil acidity and aluminum availability."
-    },
-    {
-      "name": "Chamaenerion angustifolium",
-      "commonName": "Fireweed",
-      "description": "A tall perennial wildflower with spires of vivid magenta flowers that bloom from the bottom upward. It is among the first plants to colonize burned or disturbed land.",
-      "bloomingSeason": "Mid-summer to early fall (July to September)",
-      "location": "Circumpolar across the Northern Hemisphere, including Alaska, Canada, Scandinavia, Siberia, and the Rocky Mountains",
-      "colors": [
-        "magenta",
-        "pink",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "Locals often say that when the fireweed blooms reach the top of the stalk, summer is nearly over, and the first frost is coming soon."
-    },
-    {
-      "name": "Nymphaea nouchali",
-      "commonName": "Star Lotus Water Lily",
-      "description": "An aquatic perennial with floating leaves and star-shaped flowers that rise above the water. It thrives in warm, shallow ponds and lakes during the monsoon and summer months.",
-      "bloomingSeason": "Monsoon and summer months (June to October) in South and Southeast Asia",
-      "location": "South and Southeast Asia, including India, Sri Lanka, Bangladesh, and Thailand, and northern Australia",
-      "colors": [
-        "blue",
-        "purple",
-        "white",
-        "pink"
-      ],
-      "emoji": "🪷",
-      "funFact": "It is the national flower of Sri Lanka and Bangladesh (where it is called the 'shapla')."
+      "emoji": "🌼",
+      "funFact": "The fluffy puffs are not petals. They are clusters of tiny flowers whose long yellow stamens make up most of the display."
     }
   ]
 }

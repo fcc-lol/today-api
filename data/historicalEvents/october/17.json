@@ -2,39 +2,39 @@
   "date": "October 17",
   "events": [
     {
+      "year": 1346,
+      "title": "King David II of Scotland captured at Neville's Cross",
+      "description": "Scotland's King David II led an invasion of northern England. English forces intercepted his army near Durham and defeated it. Many Scottish nobles were killed or captured, and David himself was taken prisoner. He was held in England for eleven years.",
+      "category": "Battle",
+      "significance": "The defeat crippled Scotland's invasion and left the country without its king for over a decade."
+    },
+    {
       "year": 1777,
-      "title": "British Surrender at Saratoga",
-      "description": "British General John Burgoyne surrendered approximately 5,800 troops to American General Horatio Gates following the Battles of Saratoga in New York.",
+      "title": "Burgoyne surrenders at Saratoga",
+      "description": "British General John Burgoyne surrendered his army of roughly 5,000 British and Hessian troops to American forces under General Horatio Gates in upstate New York.",
       "category": "Military",
-      "significance": "Often considered the turning point of the American Revolutionary War, the victory convinced France to formally ally with the American colonies, providing crucial military and financial support."
+      "significance": "The American victory helped persuade France to enter the Revolutionary War as an ally of the United States."
     },
     {
-      "year": 1888,
-      "title": "Thomas Edison Files Patent Caveat for the Motion Picture Camera",
-      "description": "Thomas Edison filed a caveat with the U.S. Patent Office describing a device that would do for the eye what the phonograph did for the ear, an early step toward motion picture technology.",
-      "category": "Science and Technology",
-      "significance": "This filing launched Edison's work on the Kinetoscope, helping lay the foundation for the motion picture industry."
+      "year": 1781,
+      "title": "Cornwallis surrenders at Yorktown",
+      "description": "British General Charles Cornwallis offered to surrender his army at Yorktown, Virginia, after a siege by American and French forces. This brought the last major land campaign of the Revolutionary War to a close.",
+      "category": "Military",
+      "significance": "The surrender effectively ended major fighting in the war and paved the way for American independence."
     },
     {
-      "year": 1931,
-      "title": "Al Capone Convicted of Tax Evasion",
-      "description": "Notorious Chicago gangster Al Capone was found guilty of federal income tax evasion charges and was later sentenced to 11 years in prison.",
-      "category": "Crime and Law",
-      "significance": "The conviction ended the reign of one of America's most infamous organized crime figures and demonstrated the effectiveness of financial investigations against organized crime."
+      "year": 1814,
+      "title": "The London Beer Flood",
+      "description": "Vats at the Meux and Company Brewery in London burst. Hundreds of thousands of litres of beer poured into the surrounding streets. Eight people died.",
+      "category": "Disaster",
+      "significance": "One of the strangest industrial disasters in history, it is still remembered as a vivid example of the hazards of early industrial engineering."
     },
     {
       "year": 1989,
-      "title": "Loma Prieta Earthquake Strikes San Francisco Bay Area",
-      "description": "A magnitude 6.9 earthquake struck Northern California just before Game 3 of the World Series, killing 63 people and causing major damage, including the collapse of a section of the Bay Bridge and the Cypress Street Viaduct in Oakland.",
-      "category": "Natural Disaster",
-      "significance": "The disaster prompted major advances in seismic engineering, retrofitting of bridges and buildings, and emergency preparedness in California."
-    },
-    {
-      "year": 1979,
-      "title": "Mother Teresa Awarded the Nobel Peace Prize",
-      "description": "Mother Teresa was announced as the recipient of the 1979 Nobel Peace Prize for her humanitarian work with the poor and dying in Calcutta, India.",
-      "category": "Humanitarian",
-      "significance": "The award brought global attention to her Missionaries of Charity and to the plight of the world's poorest people."
+      "title": "Loma Prieta earthquake strikes California",
+      "description": "A magnitude 6.9 earthquake struck near Loma Prieta Peak in the Santa Cruz Mountains at 5:04 p.m. local time. The shaking lasted about 15 to 20 seconds and was felt across the San Francisco Bay Area. About 60 people died, mostly in collapsed structures and landslides.",
+      "category": "Natural disaster",
+      "significance": "The quake prompted major advances in earthquake engineering and seismic safety standards in California."
     }
   ]
 }

@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1603,
-      "title": "Union of the Crowns: James VI of Scotland Becomes James I of England",
-      "description": "Queen Elizabeth I of England died in the early hours of March 24, 1603, and James VI of Scotland, her cousin's son, was proclaimed her successor as James I of England and Ireland, bringing the thrones of England and Scotland under one monarch.",
-      "category": "Politics",
-      "significance": "Marked the beginning of the personal union of the Scottish and English crowns, a key step toward the eventual formation of Great Britain and the end of the Tudor dynasty."
+      "title": "Queen Elizabeth I Dies, Ending the Tudor Era",
+      "description": "Elizabeth I died at Richmond Palace after more than 44 years on the throne. She left no children. James VI of Scotland succeeded her as James I of England.",
+      "category": "Death",
+      "significance": "Her death ended the Tudor dynasty and united the English and Scottish crowns under one monarch. That union was a major step toward the creation of Great Britain."
     },
     {
       "year": 1882,
-      "title": "Robert Koch Announces the Discovery of the Tuberculosis Bacterium",
-      "description": "German physician Robert Koch presented his discovery of Mycobacterium tuberculosis, the bacterium that causes tuberculosis, to the Berlin Physiological Society.",
-      "category": "Science and Medicine",
-      "significance": "The discovery enabled the diagnosis and later treatment of a leading cause of death in the 19th century and earned Koch the 1905 Nobel Prize in Physiology or Medicine. World Tuberculosis Day is observed on this date to commemorate it."
-    },
-    {
-      "year": 1944,
-      "title": "The Great Escape from Stalag Luft III",
-      "description": "On the night of March 24-25, 1944, 76 Allied prisoners of war escaped through a tunnel from the German camp Stalag Luft III. Most were recaptured, and 50 were executed on Hitler's orders.",
-      "category": "War",
-      "significance": "The escape became one of the most famous prisoner-of-war breakouts of World War II and was later dramatized in the 1963 film The Great Escape. The executions were prosecuted as war crimes after the war."
+      "title": "Robert Koch Announces the Cause of Tuberculosis",
+      "description": "German physician Robert Koch announced that he had identified the bacterium that causes tuberculosis. At the time, the disease was one of the deadliest in the world.",
+      "category": "Science",
+      "significance": "The discovery helped establish modern bacteriology and made diagnosis and treatment research possible. Koch won the Nobel Prize in Physiology or Medicine in 1905."
     },
     {
       "year": 1980,
-      "title": "Assassination of Archbishop Óscar Romero",
-      "description": "Salvadoran Archbishop Óscar Romero was shot dead while celebrating Mass in San Salvador, a day after he had called on soldiers to stop obeying orders to repress and kill civilians.",
-      "category": "Politics and Human Rights",
-      "significance": "His killing intensified the tensions that led to the Salvadoran Civil War. Romero became a symbol of resistance to oppression and was canonized by Pope Francis in 2018."
+      "title": "Archbishop Óscar Romero Is Assassinated",
+      "description": "Salvadoran Archbishop Óscar Romero was shot dead while celebrating Mass in San Salvador. He had been an outspoken critic of human rights abuses during the build-up to El Salvador's civil war.",
+      "category": "Death",
+      "significance": "His killing became a global symbol of the struggle for human rights and justice. He was later canonized as a saint by the Catholic Church."
     },
     {
       "year": 1989,
-      "title": "Exxon Valdez Oil Spill",
-      "description": "The tanker Exxon Valdez ran aground on Bligh Reef in Prince William Sound, Alaska, spilling roughly 11 million gallons of crude oil.",
-      "category": "Environment",
-      "significance": "One of the largest oil spills in U.S. history, it devastated wildlife and local fishing communities and led to the Oil Pollution Act of 1990, strengthening spill prevention and response regulation."
+      "title": "Exxon Valdez Runs Aground in Alaska",
+      "description": "The oil tanker Exxon Valdez struck a reef in Prince William Sound, Alaska. The crash spilled millions of gallons of crude oil into the pristine waters.",
+      "category": "Disaster",
+      "significance": "It was one of the most devastating environmental disasters in history, killing vast numbers of seabirds and other wildlife. It led to tougher US oil-transport safety laws."
     }
   ]
 }

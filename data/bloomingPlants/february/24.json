@@ -3,56 +3,45 @@
   "plants": [
     {
       "name": "Prunus mume",
-      "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter, before its leaves emerge. It is widely cultivated in ume groves and gardens and is a classic subject of East Asian art and poetry.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "Japan, China, Korea; cultivated in temperate gardens worldwide",
+      "commonName": "Japanese Plum (Ume)",
+      "description": "Ume trees bloom on bare, dark branches while winter is still in the air. Their small, fragrant flowers open in clouds of white, pink and deep rose. Shrines, parks and old gardens fill with a sweet, spicy scent that people take as the first sign of spring.",
+      "bloomingSeason": "Typically February to March in most of Japan, with some varieties starting earlier",
+      "location": "Japan, including Tokyo and Mito",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep rose"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms often open while snow is still on the ground, so they symbolize perseverance and hope. The fruit is pickled to make umeboshi and used in plum wine."
+      "funFact": "Ume blossoms have been loved in East Asia for well over a thousand years. In early Japanese poetry they were more admired than cherry blossoms, and ume festivals are still held across Japan each late winter."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Common Snowdrop",
-      "description": "A small bulbous perennial with nodding, bell-shaped white flowers marked with green on the inner petals. It carpets woodlands and gardens, often pushing up through frost and snow.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, naturalized in the UK and North America",
+      "name": "Prunus dulcis",
+      "commonName": "Almond",
+      "description": "Almond orchards turn hillsides into drifts of snow-white and blush-pink blossom. Each five-petaled flower opens before the leaves, so the whole tree looks wrapped in lace. The effect is especially dreamlike across the rolling Mediterranean countryside.",
+      "bloomingSeason": "Late January through February in Mallorca",
+      "location": "Mallorca, Balearic Islands, Spain",
       "colors": [
-        "white",
-        "green"
-      ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops contain galantamine, a compound that has been developed into a medication used to treat symptoms of Alzheimer's disease."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A dramatic evergreen shrub of the fynbos with huge flower heads made of showy bracts surrounding a central cluster of tiny flowers. Its blooming peaks in the southern hemisphere's late summer into autumn, so it is often seen in flower around this date.",
-      "bloomingSeason": "Late summer to autumn in the southern hemisphere (peak February to May, with some blooms in spring)",
-      "location": "Southwestern and southern South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and its flower heads can reach over 30 cm across. It is adapted to fire and resprouts after bushfires."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A fast-growing Australian tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. Although it peaks in late winter and spring, some wattles and other acacias are in bloom across Australia in late February in cooler, higher or southern regions.",
-      "bloomingSeason": "Late winter to spring (July to October), with some wattle species flowering in other months",
-      "location": "Southeastern Australia",
-      "colors": [
-        "golden yellow"
+        "White",
+        "Pale pink"
       ],
       "emoji": "🌼",
-      "funFact": "Golden wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1."
+      "funFact": "The almond is a close relative of the peach and plum, and the part we eat is the seed inside a fruit that looks like a small, leathery peach. The trees flower so early that a late frost can ruin a season's crop."
+    },
+    {
+      "name": "Camellia japonica",
+      "commonName": "Common Camellia",
+      "description": "Camellia japonica has glossy evergreen leaves and large, rose-like blooms in crimson, pink and white. The flowers stand out against the dark foliage on cool late-winter days. They are popular garden shrubs in mild coastal climates.",
+      "bloomingSeason": "Mid-winter to early spring, with peak bloom in February and March in mild climates",
+      "location": "Mild coastal regions of the western United States, such as the San Francisco Bay Area",
+      "colors": [
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
+      ],
+      "emoji": "🌺",
+      "funFact": "Camellia japonica belongs to the same genus as the tea plant, Camellia sinensis. Breeders have developed thousands of named cultivars of the showy ornamental species."
     }
   ]
 }

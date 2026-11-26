@@ -3,31 +3,31 @@
   "events": [
     {
       "year": 1513,
-      "title": "Balboa Sights the Pacific Ocean",
-      "description": "Spanish explorer Vasco Núñez de Balboa, after crossing the Isthmus of Panama, became the first European to see the eastern shore of the Pacific Ocean, which he named the South Sea.",
+      "title": "Balboa Sights the Pacific",
+      "description": "Spanish conquistador Vasco Núñez de Balboa climbed a peak in present-day Panama. He became the first European known to have seen the Pacific Ocean from the New World, which he named the South Sea.",
       "category": "Exploration",
-      "significance": "The sighting opened the way for Spanish exploration and colonization along the Pacific coast of the Americas and changed European understanding of world geography."
+      "significance": "The sighting opened the way for Spanish exploration and expansion along the Pacific coast of the Americas."
+    },
+    {
+      "year": 1555,
+      "title": "Peace of Augsburg Signed",
+      "description": "Holy Roman Emperor Charles V and the forces of the Protestant Schmalkaldic League signed the Peace of Augsburg. It ended a bitter religious struggle within the Holy Roman Empire.",
+      "category": "Politics and Religion",
+      "significance": "The treaty permanently recognized the religious division of Christendom within the Empire, allowing rulers to choose between Lutheranism and Catholicism."
     },
     {
       "year": 1789,
-      "title": "U.S. Congress Proposes the Bill of Rights",
-      "description": "The First Congress of the United States approved twelve proposed constitutional amendments and sent them to the states for ratification. Ten of these were ratified in 1791 and became the Bill of Rights.",
-      "category": "Politics and Law",
-      "significance": "The Bill of Rights guaranteed fundamental individual liberties such as freedom of speech, religion, and due process, and remains a cornerstone of American constitutional law."
+      "title": "Congress Sends the Bill of Rights to the States",
+      "description": "The first U.S. Congress approved twelve proposed constitutional amendments and sent them to the states for ratification.",
+      "category": "Government",
+      "significance": "Ten of them were ratified in 1791 as the Bill of Rights, which guarantees core freedoms such as speech, religion and fair trial."
     },
     {
       "year": 1957,
       "title": "Little Rock Nine Enter Central High School",
-      "description": "Nine Black students were escorted into Little Rock Central High School in Arkansas by federal troops sent by President Dwight D. Eisenhower, after Governor Orval Faubus had used the National Guard to block their entry.",
+      "description": "Nine Black students entered Little Rock Central High School in Arkansas under protection from federal troops. President Eisenhower had sent the troops after state officials and angry crowds blocked integration.",
       "category": "Civil Rights",
-      "significance": "The event was a landmark in the enforcement of school desegregation following Brown v. Board of Education and showed federal willingness to uphold civil rights rulings."
-    },
-    {
-      "year": 1981,
-      "title": "Sandra Day O'Connor Sworn In as Supreme Court Justice",
-      "description": "Sandra Day O'Connor was sworn in as the first woman to serve on the United States Supreme Court, after being nominated by President Ronald Reagan and confirmed by the Senate.",
-      "category": "Politics and Law",
-      "significance": "Her appointment broke a nearly 200-year barrier and she became an influential swing vote on many key decisions until her retirement in 2006."
+      "significance": "The episode became a landmark test of federal authority to enforce school desegregation and a defining moment of the civil rights movement."
     }
   ]
 }

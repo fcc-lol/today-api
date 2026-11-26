@@ -2,39 +2,39 @@
   "date": "March 29",
   "events": [
     {
-      "year": 1973,
-      "title": "Last U.S. Combat Troops Leave Vietnam",
-      "description": "The last United States combat troops departed South Vietnam, following the Paris Peace Accords signed in January 1973. On the same day, Hanoi released the last of its acknowledged American prisoners of war.",
-      "category": "Military",
-      "significance": "Marked the end of direct U.S. military involvement in the Vietnam War, a conflict that had deeply divided American society and reshaped U.S. foreign policy."
-    },
-    {
-      "year": 1974,
-      "title": "Terracotta Army Discovered in China",
-      "description": "Farmers digging a well near Xi'an in Shaanxi Province uncovered fragments of life-sized clay soldiers guarding the tomb of Qin Shi Huang, the first emperor of unified China, who died in 210 BCE.",
-      "category": "Archaeology",
-      "significance": "One of the greatest archaeological finds of the 20th century, it revealed thousands of sculpted warriors and offered unparalleled insight into Qin dynasty military organization, craftsmanship, and burial practices. It is now a UNESCO World Heritage Site."
-    },
-    {
-      "year": 1867,
-      "title": "British North America Act Receives Royal Assent",
-      "description": "Queen Victoria gave royal assent to the British North America Act, which united the Province of Canada (split into Ontario and Quebec), Nova Scotia, and New Brunswick into the Dominion of Canada.",
-      "category": "Politics",
-      "significance": "Created the legal foundation for the Canadian confederation, which took effect on July 1, 1867, and began Canada's evolution into an independent nation."
-    },
-    {
       "year": 1461,
       "title": "Battle of Towton",
-      "description": "During the Wars of the Roses, Yorkist forces under Edward IV defeated the Lancastrian army near Towton in Yorkshire in a snowstorm on Palm Sunday. It is often considered one of the largest and bloodiest battles fought on English soil.",
+      "description": "In a blinding snowstorm in Yorkshire, the Yorkist army of Edward of York defeated the Lancastrian forces of Margaret of Anjou. It is often described as one of the largest and bloodiest battles ever fought on English soil.",
       "category": "Military",
-      "significance": "The victory secured the throne for Edward IV and established the House of York in power, dealing a major blow to the Lancastrian cause of Henry VI."
+      "significance": "The victory led to Edward being crowned King Edward IV. It was a turning point in the Wars of the Roses."
+    },
+    {
+      "year": 1806,
+      "title": "Cumberland Road Authorized",
+      "description": "President Thomas Jefferson approved the construction of the Cumberland Road. It was one of the first major improved highways in the United States and the first built with federal funds.",
+      "category": "Infrastructure",
+      "significance": "The road, known as the National Road, linked the Atlantic seaboard to the interior. It helped open the American frontier to settlement and commerce."
     },
     {
       "year": 1848,
-      "title": "Niagara Falls Stops Flowing",
-      "description": "An ice jam in the upper Niagara River during a strong windstorm blocked the flow of water, causing the falls to run nearly dry for about 30 to 40 hours.",
-      "category": "Natural Phenomenon",
-      "significance": "A rare natural event that stunned locals, who walked on the exposed riverbed and recovered artifacts, illustrating the power of ice and weather on major geographic features."
+      "title": "Niagara Falls Runs Dry",
+      "description": "An ice jam at the head of the Niagara River choked the flow of water. For about 30 hours, the thundering falls fell silent.",
+      "category": "Natural phenomenon",
+      "significance": "Locals walked on the exposed riverbed. The event remains one of the most startling natural curiosities in North American history."
+    },
+    {
+      "year": 1857,
+      "title": "Mangal Pandey's Revolt at Barrackpore",
+      "description": "Mangal Pandey, a sepoy in the 34th Bengal Native Infantry, attacked his British officers. His act came amid rising anger over the new rifle cartridges, which soldiers believed were greased with animal fat.",
+      "category": "Politics and rebellion",
+      "significance": "His act is widely seen as a spark for the Indian Rebellion of 1857. It became a powerful symbol in India's story of resistance to colonial rule."
+    },
+    {
+      "year": 1974,
+      "title": "Mariner 10 Flies by Mercury",
+      "description": "NASA's Mariner 10 probe passed close to Mercury. It was the first spacecraft to visit the innermost planet.",
+      "category": "Science and exploration",
+      "significance": "The probe returned the first close-up images of Mercury's cratered surface. It also showed that Mercury has a magnetic field."
     }
   ]
 }

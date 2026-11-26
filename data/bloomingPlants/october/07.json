@@ -2,61 +2,45 @@
   "date": "October 7",
   "plants": [
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up goblet-shaped, crocus-like flowers in autumn without any leaves present. The strap-like leaves emerge the following spring and die back by summer. All parts of the plant are highly toxic.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe and North Africa; naturalized in meadows and woodland edges, and widely grown in temperate gardens",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "purple",
-        "white"
-      ],
-      "emoji": "🌷",
-      "funFact": "Colchicum is the source of colchicine, a compound used in medicine to treat gout and used by plant breeders to induce chromosome doubling."
-    },
-    {
-      "name": "Symphyotrichum novae-angliae",
-      "commonName": "New England Aster",
-      "description": "A tall, robust native perennial with hairy stems and masses of daisy-like flowers with yellow centers. It thrives in moist meadows, prairies, and roadsides and is a vital late-season nectar source for pollinators.",
-      "bloomingSeason": "Late summer to mid autumn (August to October)",
-      "location": "Eastern and central North America, from Canada to the southern United States",
-      "colors": [
-        "purple",
-        "violet",
-        "pink",
-        "magenta"
-      ],
-      "emoji": "💜",
-      "funFact": "Monarch butterflies rely heavily on New England asters for fuel during their autumn migration to Mexico."
-    },
-    {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A graceful semi-deciduous tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers just before or as new leaves emerge. It is widely planted as a street and park tree in warm climates.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November), with some blooms starting in late September",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and subtropical regions worldwide",
+      "description": "Whole avenues turn into tunnels of lavender-purple as the feathery-leaved trees release clouds of trumpet-shaped blooms. When the flowers fall, they carpet streets and pavements in violet.",
+      "bloomingSeason": "Spring, peaking in October in the Southern Hemisphere",
+      "location": "Pretoria, South Africa, where tens of thousands of street trees line the city",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Purple",
+        "Lavender",
+        "Violet"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas turn the city purple each October, earning it the nickname 'Jacaranda City'."
+      "emoji": "🌸",
+      "funFact": "Jacaranda is native to South America, but it thrives so well in Pretoria that it is now considered invasive in parts of South Africa."
     },
     {
-      "name": "Osmanthus fragrans",
-      "commonName": "Sweet Osmanthus (Fragrant Tea Olive)",
-      "description": "An evergreen shrub or small tree bearing clusters of tiny, intensely fragrant flowers hidden among glossy leaves. The scent is often compared to apricots or peaches and can perfume an entire garden.",
-      "bloomingSeason": "Autumn (September to October), with occasional repeat blooms",
-      "location": "Native to East Asia (China, Japan, Taiwan); widely cultivated in Asia and in warm temperate gardens elsewhere",
+      "name": "Colchicum autumnale",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Goblet-shaped pink-lilac blooms rise from bare ground without any leaves, appearing in damp meadows just as autumn begins. They look like crocuses but are actually members of the lily family.",
+      "bloomingSeason": "August to November, with October well within the flowering window",
+      "location": "Meadows and grasslands across southern and central Europe",
       "colors": [
-        "pale yellow",
-        "orange",
-        "white"
+        "Pale pink",
+        "Lilac",
+        "Mauve"
       ],
-      "emoji": "🌼",
-      "funFact": "In China, osmanthus blooms are used to flavor tea, wine, jams, and cakes, and the flowering time is celebrated near the Mid-Autumn Festival in Guilin."
+      "emoji": "🌷",
+      "funFact": "The plant is highly toxic and contains colchicine, a compound that is still used in medicine and in plant breeding to double chromosome numbers."
+    },
+    {
+      "name": "Anigozanthos manglesii",
+      "commonName": "Red and green kangaroo paw",
+      "description": "Velvety, claw-shaped flowers in vivid red and green sit on tall stems above strappy leaves. They are a spring highlight of the sandy bushland of Western Australia.",
+      "bloomingSeason": "Late winter to spring, with peak colour from August to October",
+      "location": "Southwest Western Australia, Australia",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "emoji": "🐾",
+      "funFact": "It is the floral emblem of Western Australia, and its furry flowers are adapted for pollination by nectar-feeding birds."
     }
   ]
 }

@@ -2,39 +2,32 @@
   "date": "April 10",
   "events": [
     {
-      "year": 1912,
-      "title": "RMS Titanic Departs Southampton",
-      "description": "The RMS Titanic began her maiden voyage from Southampton, England, bound for New York City, with stops planned at Cherbourg, France, and Queenstown, Ireland. She carried over 2,200 passengers and crew.",
-      "category": "Maritime History",
-      "significance": "The voyage ended in tragedy on April 15, 1912, when the ship struck an iceberg and sank, killing more than 1,500 people and leading to major reforms in maritime safety regulations."
+      "year": 1710,
+      "title": "The Statute of Anne takes effect",
+      "description": "Britain's Statute of Anne came into force. It was the first law to regulate copyright. It moved control of printed works away from publishers and gave authors legal rights over their writing.",
+      "category": "Law",
+      "significance": "It is widely seen as the foundation of modern copyright law. It established the idea that authors own their creative work."
     },
     {
       "year": 1815,
-      "title": "Eruption of Mount Tambora Begins Its Peak",
-      "description": "The massive eruption of Mount Tambora on the island of Sumbawa in present-day Indonesia reached its climax on April 10, 1815, after beginning on April 5. It was the most powerful volcanic eruption in recorded history.",
-      "category": "Natural Disaster",
-      "significance": "The eruption killed tens of thousands directly and caused global climate disruption, leading to 1816 being known as the Year Without a Summer, with widespread crop failures and famine."
+      "title": "Mount Tambora erupts",
+      "description": "Mount Tambora on the Indonesian island of Sumbawa began its colossal eruption. Ash fell across several islands.",
+      "category": "Natural disaster",
+      "significance": "It was one of the most powerful eruptions in recorded history. It helped cause the 1816 'Year Without a Summer', with crop failures and food shortages across the Northern Hemisphere."
+    },
+    {
+      "year": 1963,
+      "title": "USS Thresher is lost at sea",
+      "description": "The US Navy nuclear submarine USS Thresher sank during deep-diving tests in the Atlantic. All 129 officers, crew and civilian technicians aboard died.",
+      "category": "Disaster",
+      "significance": "It was the first nuclear submarine lost at sea. The tragedy led to the SUBSAFE program, which greatly tightened submarine safety standards."
     },
     {
       "year": 1998,
-      "title": "Good Friday Agreement Reached",
-      "description": "After marathon negotiations led by US Senator George Mitchell, the British and Irish governments and most Northern Irish political parties agreed to the Good Friday (Belfast) Agreement.",
-      "category": "Politics",
-      "significance": "The agreement established a framework for power-sharing and largely brought an end to The Troubles, a decades-long conflict in Northern Ireland that had claimed over 3,500 lives."
-    },
-    {
-      "year": 1829,
-      "title": "Birth of William Booth",
-      "description": "William Booth, the English Methodist preacher who founded The Salvation Army, was born in Sneinton, Nottingham, England.",
-      "category": "Birth",
-      "significance": "Booth built The Salvation Army into a global Christian charitable organization providing aid to the poor, homeless, and disadvantaged in over 130 countries."
-    },
-    {
-      "year": 1925,
-      "title": "The Great Gatsby Published",
-      "description": "F. Scott Fitzgerald's novel The Great Gatsby was first published by Charles Scribner's Sons in New York.",
-      "category": "Literature",
-      "significance": "Initially a modest commercial success, the novel became regarded as one of the greatest works of American literature and a defining portrait of the Jazz Age and the American Dream."
+      "title": "The Good Friday Agreement is reached",
+      "description": "After marathon talks in Belfast, the British and Irish governments and most Northern Ireland political parties agreed a landmark peace settlement.",
+      "category": "Politics and peace",
+      "significance": "The agreement largely ended the decades of violence known as the Troubles. It set up power-sharing institutions in Northern Ireland."
     }
   ]
 }

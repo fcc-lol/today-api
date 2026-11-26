@@ -4,61 +4,46 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray foliage and slender spikes of fragrant purple flowers that attract bees and butterflies. Widely cultivated in gardens and fields for essential oils, culinary use, and ornamental borders.",
-      "bloomingSeason": "Early to late summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, southern France (Provence), England, and temperate gardens worldwide",
+      "description": "Silvery-green mounds send up slender spikes of violet-blue flowers. In the sunny hills of Provence, whole fields turn purple and hum with bees, and the warm, herbal scent drifts on the summer breeze.",
+      "bloomingSeason": "June to August, usually at its peak in July",
+      "location": "Provence, southern France, and Mediterranean-climate gardens across Europe",
       "colors": [
-        "Purple",
-        "Lavender",
-        "Blue-violet"
+        "purple",
+        "violet",
+        "lavender-blue"
       ],
       "emoji": "💜",
-      "funFact": "Lavender fields in Provence typically peak in early to mid July, and the plant's name comes from the Latin 'lavare', meaning 'to wash', because the Romans used it to scent baths."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large daisy-like flower heads composed of bright yellow ray florets surrounding a dark central disk. The heads track the sun when young and are grown for oil, seeds, and ornament.",
-      "bloomingSeason": "Mid-summer to early fall (July to September in the Northern Hemisphere)",
-      "location": "Native to North America; cultivated across the United States, Ukraine, Russia, France, and Europe",
-      "colors": [
-        "Yellow",
-        "Orange",
-        "Brown",
-        "Red"
-      ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is actually made up of thousands of tiny individual flowers arranged in a Fibonacci spiral pattern, and each one can become a seed."
+      "funFact": "Lavender belongs to the mint family. Its flowers are rich in aromatic oils, which people have used for centuries in perfumes, soaps and calming sachets."
     },
     {
       "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with drooping pink-purple petals around a spiky orange-brown central cone. It is a magnet for pollinators and goldfinches, and is also popular in herbal remedies.",
-      "bloomingSeason": "Summer (June to September)",
-      "location": "Native to the eastern and central United States prairies and open woodlands; widely cultivated in gardens",
+      "commonName": "Eastern Purple Coneflower",
+      "description": "Daisy-like blooms with drooping rose-pink petals surround a spiky, copper-orange central cone. In prairies, meadows and sunny borders, they draw swarms of butterflies and goldfinches all summer.",
+      "bloomingSeason": "July to October",
+      "location": "Prairies and woodland edges of the central and eastern United States, such as Minnesota and the Midwest",
       "colors": [
-        "Purple",
-        "Pink",
-        "Orange",
-        "Magenta"
+        "pink",
+        "magenta",
+        "orange",
+        "bronze"
       ],
       "emoji": "🌸",
-      "funFact": "The name Echinacea comes from the Greek 'echinos' meaning hedgehog, a reference to the prickly central cone of the flower."
+      "funFact": "The name Echinacea comes from the Greek word for hedgehog, a nod to the prickly central cone. In autumn, seed-eating birds feed on the seed heads."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A striking evergreen shrub that produces the largest flower head in the Protea genus, with a bowl-shaped crown of pink-tipped bracts around a central cluster of florets. Adapted to fire-prone fynbos landscapes in the Southern Hemisphere.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering from autumn through spring (peak around July to November in some regions)",
-      "location": "Fynbos of South Africa's Western and Eastern Cape; South Africa's national flower",
+      "description": "The largest flower head in the protea family looks like a crown of silky pink petal-like bracts around a creamy, downy center. It blooms in the cool, bright South African winter, when little else is in flower.",
+      "bloomingSeason": "Roughly April to October, so it is flowering in the southern hemisphere's midwinter",
+      "location": "Fynbos shrublands of the Western and Eastern Cape, South Africa",
       "colors": [
-        "Pink",
-        "Cream",
-        "Silvery-white",
-        "Crimson"
+        "pink",
+        "rose",
+        "cream",
+        "white"
       ],
-      "emoji": "🌺",
-      "funFact": "Proteas are among the oldest flowering plants on Earth, dating back around 300 million years, and the genus is named after the Greek god Proteus for its great diversity of forms."
+      "emoji": "👑",
+      "funFact": "The king protea is South Africa's national flower. It has evolved to survive wildfires, resprouting from underground woody stems after the fynbos burns."
     }
   ]
 }

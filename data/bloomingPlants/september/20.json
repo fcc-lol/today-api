@@ -2,60 +2,60 @@
   "date": "September 20",
   "plants": [
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster",
-      "description": "A clump-forming perennial native to eastern North America that produces masses of daisy-like flowers with yellow centers. It is a vital late-season nectar source for migrating monarch butterflies and native bees, and it is widely cultivated in gardens.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Eastern North America; cultivated worldwide in temperate gardens",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Blue",
-        "Pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "The genus name Aster comes from the Greek word for 'star', and in the Victorian language of flowers asters symbolized patience and love."
-    },
-    {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial whose crocus-like flowers emerge from bare ground in autumn, long after its leaves have died back. It grows in damp meadows and woodland edges and is also planted in gardens.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "Europe, from the British Isles to central Europe; naturalized elsewhere",
+      "commonName": "Meadow Saffron (Autumn Crocus)",
+      "description": "Pale pink-lilac goblets rise straight out of bare ground, with no leaves in sight. They look like crocuses and appear in damp meadows just as summer fades. The leaves come up the following spring, long after the flowers have gone.",
+      "bloomingSeason": "September to early November",
+      "location": "Damp meadows and open woodland across Europe, including the UK",
       "colors": [
         "Pale pink",
         "Lilac",
-        "Mauve"
+        "Soft purple"
       ],
       "emoji": "🌸",
-      "funFact": "Despite its name it is not a true crocus. It is highly toxic, yet it is the source of colchicine, a compound used in medicine and in plant breeding to double chromosome numbers."
+      "funFact": "It is not a true crocus. It belongs to a different family, and every part of it contains colchicine, a powerful toxin. Colchicine is also used in plant breeding and in medicine."
     },
     {
-      "name": "Prunus serrulata",
-      "commonName": "Japanese Flowering Cherry (Spring-blooming in the Southern Hemisphere)",
-      "description": "Ornamental cherry trees cover themselves in clouds of blossom as spring arrives in the Southern Hemisphere. In places like Australia, New Zealand and Chile, mid to late September is peak bloom for cultivated cherry varieties.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (September to October)",
-      "location": "Cultivated in southern Australia, New Zealand, South Africa and Chile; native to Japan, China and Korea",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This is the largest protea. Its dinner-plate flower heads are crowned with silky, pink-tipped bracts around a central cluster of true flowers. It grows as a tough evergreen shrub on the fynbos slopes of the Cape. In late winter and spring the slopes are covered in these flowers.",
+      "bloomingSeason": "Mainly winter and spring, June to October (September is the Southern Hemisphere spring)",
+      "location": "Fynbos of the Western and Eastern Cape, South Africa",
       "colors": [
-        "White",
-        "Pale pink",
-        "Deep pink"
-      ],
-      "emoji": "🌸",
-      "funFact": "Cherry blossom viewing, or hanami, has been a Japanese tradition for over a thousand years, and Southern Hemisphere cities now hold their own cherry blossom festivals in September."
-    },
-    {
-      "name": "Lycoris radiata",
-      "commonName": "Red Spider Lily",
-      "description": "A striking bulbous plant whose leafless stalks shoot up in early autumn, topped with bright red flowers that have long, curling stamens. It is often seen blooming along rice paddies and in cemeteries in East Asia.",
-      "bloomingSeason": "Early to mid autumn (September to October)",
-      "location": "China, Korea and Japan; naturalized in the southeastern United States",
-      "colors": [
-        "Red",
+        "Pink",
+        "Cream",
+        "Silvery white",
         "Crimson"
       ],
       "emoji": "🌺",
-      "funFact": "In Japan it blooms around the autumn equinox, a time called Higan, so it is known as Higanbana, the flower of the equinox."
+      "funFact": "It is South Africa's national flower. Fynbos plants like it have evolved to survive periodic wildfires, and it resprouts from a woody underground base."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Whole trees turn into clouds of fluffy, honey-scented golden pompoms. Each ball is made up of dozens of tiny flowers. In the Australian bush it is a bright sign that spring has arrived.",
+      "bloomingSeason": "Late winter to spring, peaking from August to September",
+      "location": "Southeastern Australia, from South Australia and Victoria into New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem. Its green and gold colors are also the country's official national colors."
+    },
+    {
+      "name": "Symphyotrichum novae-angliae",
+      "commonName": "New England Aster",
+      "description": "Tall, sturdy stems carry masses of violet-purple, daisy-like flowers with golden centers. They burst into color when most other meadow plants are fading. Migrating monarch butterflies and many native bees feed on them.",
+      "bloomingSeason": "Late summer to fall, roughly August to October",
+      "location": "Prairies, meadows and roadsides of eastern and central North America",
+      "colors": [
+        "Purple",
+        "Violet",
+        "Pink",
+        "Yellow"
+      ],
+      "emoji": "💜",
+      "funFact": "It is sometimes called Michaelmas daisy because it flowers around the feast of St. Michael on September 29."
     }
   ]
 }

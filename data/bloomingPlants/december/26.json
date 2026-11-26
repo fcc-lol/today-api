@@ -2,62 +2,47 @@
   "date": "December 26",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with nodding, cup-shaped white flowers that age to pink, set against dark leathery leaves. It thrives in woodland gardens and blooms in the depths of winter, often pushing through snow.",
-      "bloomingSeason": "Late autumn to late winter (December to March)",
-      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens of Europe and North America",
-      "colors": [
-        "White",
-        "Pale pink",
-        "Green"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic. Legend says it sprang up from the tears of a girl who had no gift for the Christ child."
-    },
-    {
-      "name": "Euphorbia pulcherrima",
-      "commonName": "Poinsettia",
-      "description": "A shrub whose showy colored bracts, not true petals, surround tiny yellow flowers called cyathia. In frost-free climates it grows into a large landscape shrub several meters tall, flowering as the days shorten.",
-      "bloomingSeason": "Winter (December to February in the Northern Hemisphere)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in tropical and subtropical regions and as a holiday houseplant worldwide",
+      "name": "Hippeastrum spp.",
+      "commonName": "Amaryllis",
+      "description": "Towering stems carry huge trumpet-shaped blooms in glowing shades of scarlet, white and candy pink. Each flower opens wide like a festive fanfare.",
+      "bloomingSeason": "Late spring to midsummer in the Southern Hemisphere (roughly November to January). Indoors in the Northern Hemisphere, potted bulbs are timed to flower from December to February.",
+      "location": "Gardens in South Africa, Australia and New Zealand, plus windowsills across the Northern Hemisphere",
       "colors": [
         "Red",
         "White",
         "Pink",
-        "Cream"
-      ],
-      "emoji": "🎄",
-      "funFact": "Poinsettias are short-day plants that need long uninterrupted nights to color up. The Aztecs used them to make a reddish dye and called them cuetlaxochitl."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A broad, umbrella-shaped tree with fern-like leaves that becomes covered in clusters of brilliant orange-red blossoms. Each flower has one petal streaked with white and yellow.",
-      "bloomingSeason": "Summer in the Southern Hemisphere tropics and subtropics, including December in places such as northern Australia, and in some tropical regions with a long flowering period",
-      "location": "Native to Madagascar; cultivated in tropical regions including Australia, the Caribbean, India, and Africa",
-      "colors": [
-        "Scarlet",
-        "Orange-red",
-        "Yellow"
+        "Orange"
       ],
       "emoji": "🌺",
-      "funFact": "The species is endangered in its native Madagascar even though it is among the most widely planted ornamental trees in the tropics."
+      "funFact": "Amaryllis bulbs can bloom again year after year. After flowering, the plant needs a rest period so it can store energy for the next display."
     },
     {
       "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "A glossy-leaved evergreen shrub that produces rose-like flowers with many layered petals. Many cultivars bloom in the cool months, brightening winter gardens when little else is flowering.",
-      "bloomingSeason": "Late autumn to early spring (December to March in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea, and eastern China; grown in mild temperate gardens in the southeastern United States, Europe, Japan, and elsewhere",
+      "commonName": "Japanese camellia",
+      "description": "Glossy evergreen shrubs burst into rose-like flowers in winter. The blooms stand out against dark, leathery leaves, and they brighten gardens in the cold months.",
+      "bloomingSeason": "Late autumn through early spring, with early and mid-season varieties in full flower in December",
+      "location": "Mild-winter regions such as the southeastern United States, the Pacific Northwest, Japan and southern Europe",
       "colors": [
         "Red",
         "Pink",
-        "White",
-        "Variegated"
+        "White"
       ],
       "emoji": "🌸",
-      "funFact": "Camellia sinensis, a close relative, is the source of all true tea. Camellia japonica is a symbol of winter and enduring love in Japan, where it is called tsubaki."
+      "funFact": "Tea comes from a close relative, Camellia sinensis. Camellia japonica seeds are pressed to make a prized culinary and cosmetic oil in Japan."
+    },
+    {
+      "name": "Delonix regia",
+      "commonName": "Royal poinciana (flamboyant tree)",
+      "description": "A wide, umbrella-shaped canopy turns fiery orange-red when the tree flowers. Ferny leaves frame clusters of ruffled petals, each with a single white-streaked standard petal.",
+      "bloomingSeason": "Summer in the Southern Hemisphere, with flowering from about November to February in many regions",
+      "location": "Southern Hemisphere warm climates such as northern Australia, Brazil and Madagascar, where it is native",
+      "colors": [
+        "Orange-red",
+        "Scarlet",
+        "White"
+      ],
+      "emoji": "🌳",
+      "funFact": "The tree is native to Madagascar, where it is now endangered in the wild. Meanwhile it is planted as a showy shade tree throughout the tropics."
     }
   ]
 }

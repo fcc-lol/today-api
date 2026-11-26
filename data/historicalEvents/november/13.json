@@ -2,39 +2,32 @@
   "date": "November 13",
   "events": [
     {
-      "year": 354,
-      "title": "Birth of Augustine of Hippo",
-      "description": "Augustine, the future bishop of Hippo Regius, was born in Thagaste in Roman North Africa. His writings, including Confessions and The City of God, became foundational texts of Western Christianity and philosophy.",
-      "category": "Birth",
-      "significance": "Augustine's theology shaped Christian doctrine and Western philosophical thought for over a millennium, influencing both Catholic and Protestant traditions."
-    },
-    {
       "year": 1002,
       "title": "St. Brice's Day Massacre",
-      "description": "King Æthelred the Unready of England ordered the killing of Danes living in England. The order was carried out on this date, reportedly targeting Danish settlers across the kingdom.",
-      "category": "Political Event",
-      "significance": "The massacre heightened Anglo-Danish tensions and is often cited as a factor leading to Sweyn Forkbeard's invasions and the eventual Danish conquest of England under Cnut."
+      "description": "King Æthelred II of England ordered the killing of Danes living in England. The order was given on the feast day of St. Brice. It is one of the most notorious acts of his reign.",
+      "category": "Politics and Conflict",
+      "significance": "The massacre is said to have provoked Danish retaliation. That retaliation led to Sweyn Forkbeard's invasion and, eventually, Danish rule over England."
     },
     {
-      "year": 1956,
-      "title": "U.S. Supreme Court Affirms Ruling Against Bus Segregation in Montgomery",
-      "description": "The Supreme Court upheld a lower court decision in Browder v. Gayle, declaring Alabama's laws requiring segregated buses unconstitutional.",
-      "category": "Legal/Civil Rights",
-      "significance": "The ruling effectively ended the Montgomery Bus Boycott's legal fight and was a major victory for the Civil Rights Movement, reinforcing the principle that segregation in public transportation was unlawful."
+      "year": 1775,
+      "title": "Patriot Forces Occupy Montreal",
+      "description": "During the American Revolutionary War, Continental forces under General Richard Montgomery entered Montreal. The city was lightly defended and fell without a major fight.",
+      "category": "Military",
+      "significance": "The capture was the high point of the American invasion of Canada. The campaign ended in failure at Quebec City weeks later."
     },
     {
-      "year": 1985,
-      "title": "Eruption of Nevado del Ruiz and the Armero Tragedy",
-      "description": "The Nevado del Ruiz volcano in Colombia erupted, melting glacial ice and triggering lahars that buried the town of Armero. Around 23,000 people were killed.",
+      "year": 1927,
+      "title": "Holland Tunnel Opens",
+      "description": "The Holland Tunnel opened to traffic. It was the first vehicular tunnel under the Hudson River, linking New Jersey and New York City.",
+      "category": "Engineering and Infrastructure",
+      "significance": "The tunnel was a landmark of civil engineering. It eased the region's dependence on ferries and shaped the commuter patterns of the New York metropolitan area."
+    },
+    {
+      "year": 1970,
+      "title": "Bhola Cyclone Strikes East Pakistan",
+      "description": "A catastrophic tropical cyclone hit the coast of East Pakistan, now Bangladesh. It killed an estimated 500,000 people.",
       "category": "Natural Disaster",
-      "significance": "One of the deadliest volcanic disasters of the 20th century, it exposed failures in hazard warning and evacuation and led to major improvements in volcanic risk monitoring and disaster preparedness."
-    },
-    {
-      "year": 1850,
-      "title": "Birth of Robert Louis Stevenson",
-      "description": "Robert Louis Stevenson, the Scottish novelist and essayist, was born in Edinburgh. He later wrote Treasure Island, Strange Case of Dr Jekyll and Mr Hyde, and Kidnapped.",
-      "category": "Birth",
-      "significance": "Stevenson became one of the most widely read authors of the 19th century, and his works shaped adventure and Gothic fiction and remain widely adapted."
+      "significance": "It is among the deadliest tropical cyclones ever recorded. Anger over the government's slow relief response fed the political crisis that led to Bangladesh's independence in 1971."
     }
   ]
 }

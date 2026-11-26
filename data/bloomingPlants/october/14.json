@@ -2,61 +2,47 @@
   "date": "October 14",
   "plants": [
     {
-      "name": "Aster novi-belgii",
-      "commonName": "New York Aster",
-      "description": "A clump-forming perennial covered in daisy-like flower heads with yellow centers and narrow petals. It is a vital late-season nectar source for migrating monarch butterflies and native bees, and it is widely grown in gardens as well as found in wet meadows and along stream banks.",
-      "bloomingSeason": "Late summer to mid-autumn (August to October)",
-      "location": "Eastern North America; widely cultivated in temperate gardens worldwide",
-      "colors": [
-        "Purple",
-        "Violet",
-        "Blue",
-        "Pink"
-      ],
-      "emoji": "🌼",
-      "funFact": "Aster comes from the Greek word for 'star', and the plant was once reclassified into the genus Symphyotrichum based on chromosome and DNA studies."
-    },
-    {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A bulbous perennial that sends up goblet-shaped pink-lilac flowers in autumn, before its leaves appear in spring. The blooms emerge directly from the soil without foliage, which has earned it the nickname 'naked ladies'. It grows in damp meadows and woodland edges and is popular in cottage gardens.",
-      "bloomingSeason": "Autumn (September to October)",
-      "location": "Europe, from the British Isles to central Europe; naturalized in parts of North America",
+      "commonName": "Autumn Crocus (Meadow Saffron)",
+      "description": "Pale lilac-pink goblets rise straight from bare soil, with no leaves in sight. They carpet damp meadows and woodland edges just as the autumn colors turn.",
+      "bloomingSeason": "Late summer to mid-autumn (typically September to October)",
+      "location": "Meadows and woodlands of Western and Central Europe, including the UK, France and Germany",
       "colors": [
         "Lilac",
-        "Pink",
-        "Pale purple"
+        "Pale pink",
+        "Soft purple"
       ],
       "emoji": "🌷",
-      "funFact": "Despite its name it is not a true crocus. It contains colchicine, a toxic compound that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
+      "funFact": "Autumn crocus is not a true crocus. It belongs to the lily relatives, and its leaves appear in spring and die back long before the flowers emerge. Every part of the plant is highly toxic, and it is the natural source of colchicine, a compound used in medicine and plant breeding."
     },
     {
       "name": "Jacaranda mimosifolia",
       "commonName": "Jacaranda",
-      "description": "A spectacular semi-deciduous tree that blankets streets and parks with clouds of trumpet-shaped lavender-blue flowers as spring reaches full swing in the Southern Hemisphere. Its fern-like foliage and wide spreading canopy make it a favorite street tree in warm climates.",
-      "bloomingSeason": "Spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa, Australia, and New Zealand",
+      "description": "Whole streets and hillsides turn hazy violet-blue as trumpet-shaped flowers open in huge clusters over fern-like foliage. Fallen blossoms carpet the pavement beneath the trees.",
+      "bloomingSeason": "Spring in the Southern Hemisphere (roughly October to November)",
+      "location": "Pretoria and Johannesburg in South Africa, plus Sydney, Brisbane and Buenos Aires",
       "colors": [
-        "Lavender",
-        "Blue-violet"
+        "Violet",
+        "Lavender blue"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, thousands of jacarandas turn the city purple each October, and it is nicknamed the 'Jacaranda City'. Fallen blossoms create purple carpets on the pavement."
+      "emoji": "💜",
+      "funFact": "Jacaranda is native to South America but is now planted in warm cities around the world. In Pretoria, thousands of street trees earned the city the nickname Jacaranda City. Local lore in some places says a falling bloom brings good luck."
     },
     {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "A tall, airy annual with feathery foliage and saucer-shaped daisy-like flowers on slender stems. It thrives in sunny, warm conditions and blooms profusely until the first frost. In mild autumns it remains a bright garden fixture and attracts pollinators.",
-      "bloomingSeason": "Summer to first frost (June to October)",
-      "location": "Native to Mexico; cultivated in gardens across the Americas, Europe, and Asia",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Garden Chrysanthemum",
+      "description": "Dense mounds of daisy-like or pom-pom blooms light up autumn gardens and balconies, long after most other flowers have faded. Cool nights make the colors deepen.",
+      "bloomingSeason": "Autumn (typically September to November) in the Northern Hemisphere",
+      "location": "Gardens across East Asia, Europe and North America, with a long tradition in Japan and China",
       "colors": [
-        "Pink",
+        "Gold",
+        "Bronze",
         "White",
-        "Magenta",
-        "Crimson"
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Cosmos seeds were collected by Spanish priests in Mexico who grew them in mission gardens, and the name comes from the Greek 'kosmos', meaning order or harmony. In 2015 cosmos flowers were grown on the International Space Station."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums flower in response to shortening days. Growers can bring them into bloom out of season by covering the plants to mimic long nights. The flower is also a symbol of the Japanese imperial family."
     }
   ]
 }

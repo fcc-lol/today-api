@@ -2,61 +2,46 @@
   "date": "July 27",
   "plants": [
     {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple Coneflower",
+      "description": "Sturdy stems carry daisy-like blooms with rosy-pink petals that sweep back from a spiky, copper-orange central cone. The flowers draw butterflies, bumblebees and goldfinches all through the heat of high summer.",
+      "bloomingSeason": "July to August (peak mid to late summer)",
+      "location": "Eastern and central North America, in prairies, meadows and native gardens",
+      "colors": [
+        "Rose pink",
+        "Orange-gold",
+        "Copper"
+      ],
+      "emoji": "🌸",
+      "funFact": "The prickly central cone is made of hundreds of tiny fertile florets. The genus name comes from the Greek word for hedgehog, 'echinos'."
+    },
+    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with slender gray-green foliage and dense spikes of small, fragrant flowers. It thrives in sunny, well-drained soils and is widely grown in gardens and commercial fields, where it attracts bees and butterflies.",
-      "bloomingSeason": "Mid-summer, peaking from late June through August in the Northern Hemisphere",
-      "location": "Mediterranean-native; widely cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "description": "Rolling fields of silvery-green foliage turn violet-blue when slender flower spikes open and release a sweet, herbal perfume. Bees hum through the rows, and the scent drifts for miles on warm summer air.",
+      "bloomingSeason": "Mid-June to late August, with true lavender peaking from late June to mid-July and the hybrid lavandin peaking in mid to late July",
+      "location": "Provence, southern France, and Mediterranean-climate gardens worldwide",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and its name comes from the Latin 'lavare', meaning 'to wash', because the Romans scented their baths with it."
-    },
-    {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, rough-textured stem and huge flower heads made of many tiny disc florets surrounded by bright yellow ray petals. Young flower heads track the sun across the sky.",
-      "bloomingSeason": "Mid to late summer, from July through September in temperate Northern Hemisphere regions",
-      "location": "Native to North America; cultivated across Europe, Russia, Ukraine, and the Great Plains of the United States",
-      "colors": [
-        "yellow",
-        "golden",
-        "brown",
-        "orange"
-      ],
-      "emoji": "🌻",
-      "funFact": "The sunflower head is not one flower but hundreds to thousands of tiny florets arranged in a Fibonacci spiral pattern."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular, many-petaled flowers on tall stalks. The leaves have a waxy surface that repels water and dirt.",
-      "bloomingSeason": "Peak bloom from June to August during the monsoon and warm summer months",
-      "location": "Asia, from India and China to Japan and Vietnam, and northern Australia; also cultivated in ponds worldwide",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus seeds have been shown to germinate after more than 1,000 years of dormancy, and the flower can regulate its own temperature to about 30-35°C."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. The Romans scented their baths with it."
     },
     {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "An evergreen shrub with the largest flower head in the Protea genus, made of showy pink bracts surrounding a central cluster of tiny flowers. It grows in the fynbos vegetation of southern Africa.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere, with flowering from roughly May to November and a peak in winter and spring",
-      "location": "Western and Southern Cape of South Africa; also grown in Australia, Hawaii, and California",
+      "description": "The largest flower head in the protea family looks like a crown of silky, pointed bracts around a fuzzy heart. It blooms in the cool, wet South African winter, when much of the northern world is in full summer.",
+      "bloomingSeason": "Mainly winter and spring (June to October)",
+      "location": "Fynbos of the Western Cape, South Africa, including the slopes around Cape Town",
       "colors": [
-        "pink",
-        "cream",
-        "silvery-white",
-        "red"
+        "Pink",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "🌺",
-      "funFact": "The king protea is South Africa's national flower, and the genus is named after the Greek god Proteus, who could change his shape."
+      "emoji": "👑",
+      "funFact": "It is South Africa's national flower. It is adapted to fire-prone fynbos and survives bushfires thanks to its thick underground stems."
     }
   ]
 }

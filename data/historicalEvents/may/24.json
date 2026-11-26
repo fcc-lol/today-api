@@ -2,39 +2,32 @@
   "date": "May 24",
   "events": [
     {
+      "year": 1819,
+      "title": "Future Queen Victoria is born",
+      "description": "Alexandrina Victoria was born at Kensington Palace in London. She became queen in 1837 at age 18 and reigned for more than 63 years.",
+      "category": "Birth",
+      "significance": "Her reign gave its name to the Victorian era, a period of industrial expansion, imperial growth and social change in Britain."
+    },
+    {
       "year": 1844,
-      "title": "Samuel Morse Sends First Telegraph Message",
-      "description": "Samuel F. B. Morse sent the message 'What hath God wrought' from the Supreme Court chamber in the U.S. Capitol in Washington, D.C., to Baltimore, Maryland, formally opening the first long-distance electromagnetic telegraph line in the United States.",
-      "category": "Science and Technology",
-      "significance": "This demonstration launched the era of instant long-distance communication, transforming business, journalism, and military coordination and laying the groundwork for modern telecommunications."
+      "title": "Morse sends the first telegraph message between cities",
+      "description": "Samuel F. B. Morse tapped out the message \"What hath God wrought\" from the U.S. Capitol in Washington to Baltimore. It formally opened America's first telegraph line.",
+      "category": "Technology",
+      "significance": "The telegraph made rapid long-distance communication possible and paved the way for today's global communications networks."
     },
     {
       "year": 1883,
-      "title": "Brooklyn Bridge Opens to the Public",
-      "description": "The Brooklyn Bridge, linking Manhattan and Brooklyn across the East River, officially opened after 14 years of construction. It was the longest suspension bridge in the world at the time, with a main span of 1,595.5 feet. President Chester A. Arthur and Governor Grover Cleveland attended the ceremony.",
-      "category": "Engineering and Architecture",
-      "significance": "The bridge was a landmark of engineering using steel-wire cable technology, and it became an enduring symbol of New York City and of industrial-age ambition."
-    },
-    {
-      "year": 1819,
-      "title": "Birth of Queen Victoria",
-      "description": "Alexandrina Victoria was born at Kensington Palace in London. She became Queen of the United Kingdom in 1837 at age 18 and reigned for 63 years, later also becoming Empress of India in 1876.",
-      "category": "Births",
-      "significance": "Her reign, the Victorian era, saw massive industrial expansion, the growth of the British Empire, and major social and cultural change, and she remains one of the most influential monarchs in history."
+      "title": "Brooklyn Bridge opens",
+      "description": "The Brooklyn Bridge opened to traffic, linking Manhattan and Brooklyn across the East River. At the time it was the longest suspension bridge in the world.",
+      "category": "Engineering",
+      "significance": "It was a landmark of civil engineering and became an enduring symbol of New York City."
     },
     {
       "year": 1941,
-      "title": "Sinking of HMS Hood in the Battle of the Denmark Strait",
-      "description": "The British battlecruiser HMS Hood was struck by shells from the German battleship Bismarck and exploded, sinking within minutes. Only three of her 1,418 crew members survived.",
+      "title": "HMS Hood sunk by the Bismarck",
+      "description": "In the Battle of the Denmark Strait, the German battleship Bismarck sank the British battlecruiser HMS Hood. Only three of her crew survived.",
       "category": "Military",
-      "significance": "The loss of the Royal Navy's most famous warship was a severe blow to British morale and triggered a massive naval hunt that ended with the sinking of the Bismarck three days later."
-    },
-    {
-      "year": 1991,
-      "title": "Operation Solomon Airlifts Ethiopian Jews to Israel",
-      "description": "Over about 36 hours, Israel airlifted roughly 14,300 Ethiopian Jews from Addis Ababa to Israel as rebel forces closed in on the Ethiopian capital. It was one of the fastest large-scale airlifts in history.",
-      "category": "Humanitarian",
-      "significance": "The operation rescued a vulnerable community amid civil war and significantly reshaped Israeli society by bringing much of Ethiopia's Beta Israel population to the country."
+      "significance": "The loss of the Royal Navy's most famous warship shocked Britain. It set off the pursuit that ended with the Bismarck's sinking days later."
     }
   ]
 }

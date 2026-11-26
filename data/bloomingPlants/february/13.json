@@ -4,56 +4,45 @@
     {
       "name": "Prunus mume",
       "commonName": "Japanese Apricot (Ume)",
-      "description": "A small deciduous tree that produces fragrant five-petaled blossoms on bare branches in late winter, long celebrated in East Asian art and poetry for blooming despite cold and occasional snow.",
-      "bloomingSeason": "Late winter to early spring (January to March)",
-      "location": "China, Japan, Korea; cultivated in temperate gardens worldwide",
+      "description": "Fragrant blossoms open on bare branches while winter still grips the landscape. The flowers are delicate, five-petaled and sweetly spiced. They appear in gardens, shrines and orchards, where they signal that spring is on its way.",
+      "bloomingSeason": "Late January through March, often peaking in mid-February to early March",
+      "location": "Japan, especially the Kantō and Kansai regions, including Mito and Kyoto",
       "colors": [
-        "white",
-        "pink",
-        "deep red"
+        "White",
+        "Pink",
+        "Deep red"
       ],
       "emoji": "🌸",
-      "funFact": "Ume blossoms are among the first flowers of the year in Japan, and ume festivals are held across the country in February, often weeks before cherry blossom season."
+      "funFact": "Ume blossoms were celebrated in Japan before cherry blossoms became the national favorite. The fruit is pickled as umeboshi and also used to make plum wine."
     },
     {
-      "name": "Galanthus nivalis",
-      "commonName": "Snowdrop",
-      "description": "A small bulbous perennial with drooping, bell-shaped white flowers marked with green on the inner petals. It often pushes up through frost and snow in woodlands and gardens.",
-      "bloomingSeason": "Late winter (January to March)",
-      "location": "Europe, from the Pyrenees to Ukraine; naturalized in the UK and North America",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This is the largest of the proteas. Its flower head is a bowl-shaped crown of silky, pointed bracts around a center like a fuzzy pincushion. It grows on rocky fynbos slopes and has a bold, sculptural look.",
+      "bloomingSeason": "Mainly late winter through spring in the Southern Hemisphere, with flowering from about autumn to early summer. Peak flowering is usually August to November, and some blooms appear in summer.",
+      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
       "colors": [
-        "white",
-        "green"
+        "Pink",
+        "Cream",
+        "Crimson"
       ],
-      "emoji": "❄️",
-      "funFact": "Snowdrops produce a compound called galantamine, which is used in medication for symptoms of Alzheimer's disease."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. It has thick, fire-adapted stems that resprout after bushfires."
     },
     {
-      "name": "Hamamelis x intermedia",
-      "commonName": "Witch Hazel",
-      "description": "A large deciduous shrub with spidery, ribbon-like petals that curl up in cold weather and unfurl in milder spells. The flowers have a spicy, sweet fragrance and appear on leafless branches.",
-      "bloomingSeason": "Mid-winter to early spring (January to March)",
-      "location": "Hybrid garden origin; cultivated in temperate regions of Europe and North America",
+      "name": "Camellia japonica",
+      "commonName": "Japanese Camellia",
+      "description": "Glossy evergreen shrubs bear rose-like or peony-like blooms against dark, shiny leaves. The flowers appear in winter, when little else in the garden is blooming.",
+      "bloomingSeason": "Late autumn through early spring, with a strong peak in February in mild climates",
+      "location": "Gardens in the southeastern United States, such as Georgia and the Carolinas, and in Japan and western Europe",
       "colors": [
-        "yellow",
-        "orange",
-        "copper-red"
+        "Red",
+        "Pink",
+        "White",
+        "Variegated"
       ],
-      "emoji": "🌼",
-      "funFact": "Witch hazel's petals curl up tightly to protect themselves during freezing temperatures and then expand again when it warms."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tropical and subtropical tree with feathery fern-like foliage that bears dense clusters of trumpet-shaped lavender-blue flowers. In some regions, bloom can occur in late summer when conditions are warm.",
-      "bloomingSeason": "Variable; some trees flower in late summer in the Southern Hemisphere (February to March) and others in spring (October to December)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and the Mediterranean",
-      "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Fallen jacaranda blossoms carpet streets in purple, and in Pretoria, South Africa, the trees are so abundant that it is nicknamed the Jacaranda City."
+      "emoji": "🌹",
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan it is called tsubaki, and its seeds are pressed for a prized hair and skin oil."
     }
   ]
 }

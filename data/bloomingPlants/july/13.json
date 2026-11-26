@@ -3,60 +3,58 @@
   "plants": [
     {
       "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with narrow silvery-green leaves and dense spikes of fragrant flowers. It thrives in sunny, well-drained soils and is a favorite of bees and butterflies. Widely cultivated in gardens and in commercial fields for its essential oil.",
-      "bloomingSeason": "Mid-summer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region; cultivated in Provence (France), England, Bulgaria, and the United States",
+      "commonName": "True lavender",
+      "description": "Silvery, fragrant shrubs march across the Provençal plateaus in ribbons of violet-blue, humming with bees and perfuming the warm summer air.",
+      "bloomingSeason": "Mid-June to August, with true lavender at its best from late June to mid-July",
+      "location": "Provence, southern France",
       "colors": [
-        "purple",
-        "violet",
-        "lavender blue"
+        "Violet",
+        "Blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender fields in Provence reach peak bloom in early to mid July, and the plant has been used since Roman times to scent baths, which is where its name likely comes from (Latin 'lavare', to wash)."
-    },
-    {
-      "name": "Echinacea purpurea",
-      "commonName": "Purple Coneflower",
-      "description": "A hardy perennial prairie wildflower with daisy-like flowers featuring drooping pink-purple petals around a spiky, orange-brown central cone. It tolerates heat and drought and attracts pollinators and goldfinches.",
-      "bloomingSeason": "Early summer to early fall (June to September)",
-      "location": "Eastern and central North America, in prairies and open woodlands; widely grown in gardens worldwide",
-      "colors": [
-        "purple",
-        "pink",
-        "orange",
-        "bronze"
-      ],
-      "emoji": "🌸",
-      "funFact": "The genus name comes from the Greek 'echinos' meaning hedgehog, referring to the spiky central cone. Native Americans used the plant medicinally for centuries."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers that rise on tall stalks. It grows in shallow ponds, lakes, and slow-moving waters and is revered in many cultures.",
-      "bloomingSeason": "Summer (June to September in the Northern Hemisphere; during the monsoon season in South Asia)",
-      "location": "Asia, from India and China to Japan and Vietnam, and northern Australia; cultivated in water gardens worldwide",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus leaves have a microscopic structure that makes them superhydrophobic, causing water and dirt to roll off. This 'lotus effect' has inspired self-cleaning materials."
+      "funFact": "Lavender's name is thought to come from the Latin 'lavare', to wash, as the Romans scented their baths with it."
     },
     {
       "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A woody shrub with large, showy flower heads made of colorful bracts surrounding a central cluster of tiny flowers. It is the largest of the proteas, with blooms up to 30 cm across. It thrives in the fynbos of the Cape region.",
-      "bloomingSeason": "Late autumn to early spring in the Southern Hemisphere, with peak flowering in winter months including July in many areas, and flowers occurring year-round in some populations",
-      "location": "Western and Southern Cape of South Africa, in fynbos vegetation",
+      "commonName": "King protea",
+      "description": "A dinner-plate-sized flower head of pointed pink bracts surrounds a silky, crown-like center, blazing against the cool, misty winter landscape of the Cape.",
+      "bloomingSeason": "April to October, which includes the Southern Hemisphere winter",
+      "location": "Western Cape fynbos, South Africa",
       "colors": [
-        "pink",
-        "cream",
-        "red",
-        "silvery-white"
+        "Pink",
+        "Cream",
+        "Rose"
       ],
       "emoji": "🌺",
-      "funFact": "The king protea is the national flower of South Africa. The genus is named after Proteus, the Greek god who could change his shape, reflecting the great diversity of the protea family."
+      "funFact": "The king protea is South Africa's national flower, and its lineage is ancient enough to have flourished before the continents fully separated."
+    },
+    {
+      "name": "Nelumbo nucifera",
+      "commonName": "Sacred lotus",
+      "description": "Rising on tall stalks above round, water-repellent leaves, goblet-shaped blossoms unfurl at dawn in pink and white across still summer ponds.",
+      "bloomingSeason": "June to July in temperate Asia, often into August",
+      "location": "Temperate Asia, including ponds in Japan and China",
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "emoji": "🪷",
+      "funFact": "Lotus leaves shed water and dirt thanks to a microscopic surface texture, a phenomenon known as the 'lotus effect'."
+    },
+    {
+      "name": "Echinacea purpurea",
+      "commonName": "Purple coneflower",
+      "description": "Daisy-like blooms with drooping rosy petals surround spiky copper-orange cones, drawing butterflies and goldfinches to prairies and sunny gardens.",
+      "bloomingSeason": "June to August",
+      "location": "Central and eastern United States prairies and gardens",
+      "colors": [
+        "Purple",
+        "Pink",
+        "Orange"
+      ],
+      "emoji": "🌸",
+      "funFact": "The spiky central cone gives the genus its name, from the Greek 'echinos' for hedgehog."
     }
   ]
 }

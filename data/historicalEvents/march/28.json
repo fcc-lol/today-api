@@ -2,39 +2,32 @@
   "date": "March 28",
   "events": [
     {
-      "year": 1979,
-      "title": "Three Mile Island Nuclear Accident",
-      "description": "A partial meltdown of the Unit 2 reactor at the Three Mile Island Nuclear Generating Station near Harrisburg, Pennsylvania, began after a cooling system malfunction and operator errors. A small amount of radioactive gas was released into the environment.",
-      "category": "Disaster",
-      "significance": "It was the most serious accident in U.S. commercial nuclear power history, leading to stricter safety regulations and oversight and contributing to a decline in new nuclear plant construction in the United States."
+      "year": 193,
+      "title": "Emperor Pertinax Assassinated",
+      "description": "Roman Emperor Pertinax was murdered by members of the Praetorian Guard. The soldiers then put the throne up for auction, and Didius Julianus won it by outbidding his rival.",
+      "category": "Politics",
+      "significance": "The auction showed how far the Praetorian Guard had come to dominate imperial succession. It also helped set off the civil wars that followed."
+    },
+    {
+      "year": 1483,
+      "title": "Birth of Raphael",
+      "description": "The Italian painter and architect Raphael was born. He became one of the central figures of the High Renaissance, and his works include The School of Athens.",
+      "category": "Birth",
+      "significance": "Raphael's harmonious, balanced style became a model for European art for generations."
     },
     {
       "year": 1941,
       "title": "Death of Virginia Woolf",
-      "description": "English novelist and essayist Virginia Woolf died by suicide, drowning in the River Ouse near her home in Sussex, England, after long struggles with mental illness.",
+      "description": "The English novelist and essayist Virginia Woolf died at the age of 59. She had written Mrs Dalloway, To the Lighthouse and A Room of One's Own.",
       "category": "Death",
-      "significance": "Woolf was a leading modernist writer whose works, including Mrs Dalloway, To the Lighthouse and A Room of One's Own, shaped modern literature and feminist thought."
+      "significance": "Woolf was a leading modernist who changed the form of the novel. She is also a landmark figure in feminist literary thought."
     },
     {
-      "year": 1854,
-      "title": "Britain and France Declare War on Russia",
-      "description": "The United Kingdom and France formally declared war on the Russian Empire, joining the Ottoman Empire in the conflict over Russian ambitions and influence in the Black Sea region and the Balkans.",
-      "category": "War",
-      "significance": "This marked their formal entry into the Crimean War, which reshaped the balance of power in Europe and exposed military and medical shortcomings, prompting reforms such as those championed by Florence Nightingale."
-    },
-    {
-      "year": 1930,
-      "title": "Constantinople and Angora Officially Renamed Istanbul and Ankara",
-      "description": "The Turkish Postal Service Law took effect, requiring international use of Turkish names Istanbul and Ankara for the cities previously known in the West as Constantinople and Angora.",
-      "category": "Politics",
-      "significance": "The change was part of Atatürk's modernization and nationalization reforms, reinforcing the new Turkish Republic's identity."
-    },
-    {
-      "year": 1969,
-      "title": "Death of Dwight D. Eisenhower",
-      "description": "Dwight D. Eisenhower, the 34th President of the United States and Supreme Allied Commander in Europe during World War II, died at Walter Reed Army Medical Center in Washington, D.C.",
-      "category": "Death",
-      "significance": "Eisenhower led the Allied invasion of Normandy and as president oversaw the end of the Korean War and the creation of the Interstate Highway System, and he warned of the military-industrial complex."
+      "year": 1979,
+      "title": "Three Mile Island Accident",
+      "description": "A failure in the reactor cooling system at the Three Mile Island plant in Pennsylvania led to a partial nuclear meltdown. It became the most serious accident in the history of American commercial nuclear power.",
+      "category": "Disaster",
+      "significance": "The accident reshaped nuclear safety regulation and public opinion about nuclear energy in the United States."
     }
   ]
 }

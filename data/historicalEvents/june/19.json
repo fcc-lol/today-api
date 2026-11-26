@@ -2,39 +2,32 @@
   "date": "June 19",
   "events": [
     {
-      "year": 1865,
-      "title": "Juneteenth: Emancipation Announced in Texas",
-      "description": "Union Major General Gordon Granger arrived in Galveston, Texas, and issued General Order No. 3, announcing that all enslaved people were free. The announcement came more than two years after the Emancipation Proclamation took effect.",
-      "category": "Civil Rights",
-      "significance": "The date is commemorated as Juneteenth, the oldest national celebration of the end of slavery in the United States, and became a federal holiday in 2021."
-    },
-    {
-      "year": 1867,
-      "title": "Execution of Emperor Maximilian I of Mexico",
-      "description": "Maximilian I, the Habsburg archduke installed as Emperor of Mexico with French backing, was executed by firing squad in Querétaro after Republican forces under Benito Juárez defeated his regime.",
-      "category": "Politics",
-      "significance": "His death ended the Second Mexican Empire and the French intervention in Mexico, restoring the Mexican Republic."
-    },
-    {
       "year": 1623,
-      "title": "Birth of Blaise Pascal",
-      "description": "Blaise Pascal, the French mathematician, physicist, and philosopher, was born in Clermont-Ferrand, France. He later made foundational contributions to probability theory, fluid mechanics, and geometry, and wrote the Pensées.",
-      "category": "Births",
-      "significance": "Pascal's work shaped modern probability and hydrodynamics, and the unit of pressure, the pascal, is named in his honor."
+      "title": "Blaise Pascal is born",
+      "description": "The French mathematician, physicist and philosopher was born in Clermont-Ferrand. He was a child prodigy who went on to build an early mechanical calculator and to help found probability theory.",
+      "category": "Birth",
+      "significance": "Pascal's work shaped modern mathematics, the study of fluids and pressure, and French religious philosophy. The unit of pressure is named in his honor."
+    },
+    {
+      "year": 1865,
+      "title": "Juneteenth: Freedom announced in Galveston, Texas",
+      "description": "Union troops arrived in Galveston, and the news that slavery had ended was announced to the enslaved people of Texas. This came more than two years after the Emancipation Proclamation.",
+      "category": "Milestone",
+      "significance": "The date became Juneteenth, the oldest national commemoration of the end of slavery in the United States. It is now a federal holiday."
+    },
+    {
+      "year": 1903,
+      "title": "Lou Gehrig is born",
+      "description": "Henry Louis Gehrig was born in New York City. He became the Yankees first baseman known as the Iron Horse for his remarkable durability.",
+      "category": "Birth",
+      "significance": "Gehrig's record streak of consecutive games stood for decades. His career ended with the illness that now bears his name, which brought public attention to ALS."
     },
     {
       "year": 1953,
-      "title": "Execution of Julius and Ethel Rosenberg",
-      "description": "Julius and Ethel Rosenberg were executed at Sing Sing Prison in New York after being convicted of conspiracy to commit espionage for passing atomic secrets to the Soviet Union.",
-      "category": "Law and Espionage",
-      "significance": "The case became a defining episode of Cold War anxieties and remains debated for its use of evidence and the severity of the sentences."
-    },
-    {
-      "year": 1978,
-      "title": "Garfield Comic Strip Debuts",
-      "description": "Jim Davis's comic strip Garfield, featuring a lasagna-loving, sarcastic orange cat, was first published in 41 newspapers in the United States.",
-      "category": "Culture",
-      "significance": "Garfield grew into one of the most widely syndicated comic strips in the world, spawning television shows, films, and extensive merchandise."
+      "title": "Julius and Ethel Rosenberg are executed",
+      "description": "The couple were put to death at Sing Sing Prison in New York. They had been convicted of conspiracy to commit espionage for passing atomic secrets to the Soviet Union.",
+      "category": "Event",
+      "significance": "The case came to symbolize Cold War fear and spy paranoia. It remains debated for its fairness and for the severity of the sentences."
     }
   ]
 }

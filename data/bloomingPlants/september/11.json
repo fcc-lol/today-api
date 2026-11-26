@@ -3,58 +3,56 @@
   "plants": [
     {
       "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up crocus-like goblet-shaped flowers in autumn with no leaves present. The foliage emerges the following spring, then dies back before the next flowering. All parts are highly toxic due to colchicine.",
-      "bloomingSeason": "Late summer to autumn (September to October)",
-      "location": "Europe, naturalized in meadows and gardens across temperate Northern Hemisphere",
+      "commonName": "Autumn crocus (meadow saffron)",
+      "description": "Just as the meadows turn gold, goblet-shaped lavender-pink blooms push straight out of bare ground with no leaves in sight. The leaves appeared months earlier and have long since died back. The flowers look like delicate, tulip-like crocuses scattered across damp grassland.",
+      "bloomingSeason": "August to September",
+      "location": "Meadows and gardens across Europe",
       "colors": [
-        "Pale pink",
-        "Lilac",
-        "Purple",
-        "White"
+        "Lavender",
+        "Pink"
       ],
       "emoji": "🌷",
-      "funFact": "Despite its name it is not a true crocus; it is in the family Colchicaceae. Colchicine from this plant is used in medicine to treat gout and is also used by plant breeders to induce chromosome doubling."
+      "funFact": "Despite the name, it isn't a true crocus. It is toxic, and it is the source of colchicine, a compound used in medicine and in plant breeding."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall herbaceous perennial forming dense plumes of tiny golden-yellow flower heads on arching stems. It is a vital late-season nectar and pollen source for bees, butterflies, and other pollinators preparing for autumn and winter.",
-      "bloomingSeason": "Late summer to fall (August to October)",
-      "location": "North America, in meadows, roadsides and prairies; introduced and widespread in Europe and Asia",
+      "name": "Protea cynaroides",
+      "commonName": "King protea",
+      "description": "The largest bloom in the protea family is a bowl-shaped flower head up to 30 cm across. It has a crown of silky pink-tipped bracts around a center that looks like a thistle. It stands out against the fynbos shrubland of the Cape.",
+      "bloomingSeason": "Mainly winter and spring (June to October)",
+      "location": "Fynbos of the Western Cape, South Africa, including Kirstenbosch gardens",
+      "colors": [
+        "Pink",
+        "Cream",
+        "Silvery-white"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is South Africa's national flower. It belongs to an ancient plant family that dates back to when the southern continents were joined as Gondwana."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden wattle",
+      "description": "Australia's national floral emblem is a fragrant shrub or small tree that bursts into clouds of fluffy, bright golden pom-poms in late winter and early spring. Each blossom ball is made up of dozens of tiny flowers.",
+      "bloomingSeason": "Late August to September",
+      "location": "Southeastern Australia, including South Australia, Victoria and New South Wales",
       "colors": [
         "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often wrongly blamed for hay fever; its pollen is heavy and sticky and insect-carried, while the real culprit is usually ragweed blooming at the same time."
+      "funFact": "Each golden ball holds roughly 40 to 80 tiny flowers. Gold and green are Australia's national colors, and the wattle displays both when it blooms."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with huge, artichoke-like flower heads surrounded by showy pink bracts, the largest of any protea. It is adapted to nutrient-poor, fire-prone fynbos soils and is a symbol of South Africa.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November, peaking around September)",
-      "location": "Western and Southern Cape, South Africa (fynbos)",
-      "colors": [
-        "Pink",
-        "Cream",
-        "Red"
-      ],
-      "emoji": "🌸",
-      "funFact": "The king protea is South Africa's national flower, and its genus is named after Proteus, the shape-shifting Greek god, because of the great diversity of forms in the family."
-    },
-    {
-      "name": "Cyclamen hederifolium",
-      "commonName": "Ivy-leaved Cyclamen (Hardy Cyclamen)",
-      "description": "A low-growing tuberous perennial with swept-back pink flowers that appear in early autumn before the marbled, ivy-shaped leaves unfurl. It thrives in woodland shade and can form large colonies.",
-      "bloomingSeason": "Late summer to autumn (August to November)",
-      "location": "Southern Europe and Western Asia; widely naturalized in gardens in the UK and North America",
+      "name": "Cosmos bipinnatus",
+      "commonName": "Garden cosmos",
+      "description": "A cheerful annual with feathery foliage and daisy-like flowers on tall, airy stems. In late summer, cosmos turns sunny borders into drifts of pink, white and crimson that bees and butterflies love.",
+      "bloomingSeason": "Late summer into fall (August to September and beyond)",
+      "location": "Gardens across temperate North America and Europe, native to Mexico",
       "colors": [
         "Pink",
         "White",
-        "Magenta"
+        "Crimson"
       ],
-      "emoji": "💮",
-      "funFact": "After pollination, the flower stalks coil like springs and pull the seed capsules to the ground, where ants disperse the sticky seeds. Tubers can live for over 100 years."
+      "emoji": "🌸",
+      "funFact": "Cosmos comes from a Greek word meaning 'order' or 'harmony'. It is also easy to grow, and it thrives in poor, dry soil."
     }
   ]
 }

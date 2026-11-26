@@ -2,39 +2,39 @@
   "date": "February 25",
   "events": [
     {
+      "year": 1570,
+      "title": "Pope Pius V excommunicates Elizabeth I",
+      "description": "Pope Pius V issued the papal bull Regnans in Excelsis, declaring Queen Elizabeth I a heretic and excommunicating her and her followers in the Church of England.",
+      "category": "Religion and Politics",
+      "significance": "The decree deepened the divide between England and Rome. It also put English Catholics in a painful position, since they were pushed to choose between loyalty to the Pope and loyalty to the Crown."
+    },
+    {
       "year": 1836,
-      "title": "Samuel Colt Patents the Revolver",
-      "description": "Samuel Colt received a U.S. patent for his revolving-cylinder firearm, the Colt Paterson revolver, which featured a mechanism that rotated the cylinder to align each chamber with the barrel.",
-      "category": "Science and Technology",
-      "significance": "The revolver transformed personal firearms and weapons manufacturing, and Colt's later use of interchangeable parts helped advance mass-production methods in American industry."
-    },
-    {
-      "year": 1913,
-      "title": "Sixteenth Amendment Ratified",
-      "description": "The Sixteenth Amendment to the U.S. Constitution was declared ratified after Delaware, Wyoming, and New Mexico approved it, giving Congress the power to levy an income tax without apportioning it among the states.",
-      "category": "Politics and Law",
-      "significance": "The amendment created the constitutional basis for the federal income tax, which became the primary source of revenue for the U.S. government and enabled the expansion of federal programs in the 20th century."
-    },
-    {
-      "year": 1948,
-      "title": "Communist Coup in Czechoslovakia Concludes",
-      "description": "President Edvard Beneš accepted the resignations of non-communist ministers and appointed a government dominated by Communists under Klement Gottwald, completing the February coup.",
-      "category": "Politics and War",
-      "significance": "The coup brought Czechoslovakia firmly into the Soviet sphere of influence for four decades and heightened Cold War tensions in Europe, influencing Western moves toward the formation of NATO."
-    },
-    {
-      "year": 1986,
-      "title": "People Power Revolution Ousts Ferdinand Marcos",
-      "description": "After days of mass demonstrations and military defections following a disputed election, Ferdinand Marcos fled the Philippines and Corazon Aquino was sworn in as president.",
-      "category": "Politics and Revolution",
-      "significance": "The largely nonviolent uprising ended two decades of authoritarian rule and became a model for peaceful democratic movements around the world."
+      "title": "Samuel Colt patents the revolver",
+      "description": "American inventor Samuel Colt received a US patent for a 'revolving gun', a firearm with a rotating cylinder that let a shooter fire several rounds without reloading.",
+      "category": "Invention",
+      "significance": "The Colt revolver changed personal firearms and became a symbol of the American frontier. It also helped make Colt a pioneer of mass production."
     },
     {
       "year": 1964,
-      "title": "Muhammad Ali Wins World Heavyweight Title",
-      "description": "Cassius Clay, later known as Muhammad Ali, defeated Sonny Liston in Miami Beach when Liston failed to answer the bell for the seventh round, making Clay the heavyweight champion of the world.",
+      "title": "Cassius Clay becomes heavyweight champion",
+      "description": "Cassius Clay, who soon took the name Muhammad Ali, beat Sonny Liston in Miami Beach when Liston failed to come out for the seventh round. The win made Clay world heavyweight champion.",
       "category": "Sports",
-      "significance": "The upset launched Ali's career as one of the most influential athletes and cultural figures of the 20th century, and he announced his conversion to Islam and new name shortly afterward."
+      "significance": "It was the start of the career of one of the most famous athletes of the 20th century. Ali became a global figure in sport, civil rights and culture."
+    },
+    {
+      "year": 1986,
+      "title": "Corazon Aquino sworn in as President of the Philippines",
+      "description": "Corazon Aquino took the oath of office as the 11th President of the Philippines. This followed the People Power Revolution, which forced Ferdinand Marcos from power.",
+      "category": "Politics",
+      "significance": "Her inauguration ended two decades of dictatorship and restored democracy in the Philippines. It also inspired nonviolent protest movements around the world."
+    },
+    {
+      "year": 1991,
+      "title": "The Warsaw Pact is declared disbanded",
+      "description": "The Soviet-led military alliance of Eastern Bloc nations was formally declared dissolved, ending a coalition that had stood opposite NATO throughout the Cold War.",
+      "category": "Cold War",
+      "significance": "The end of the Warsaw Pact was one of the clearest signs that the Cold War was over. It came months before the Soviet Union itself dissolved."
     }
   ]
 }

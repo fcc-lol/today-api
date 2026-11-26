@@ -2,59 +2,33 @@
   "date": "June 10",
   "plants": [
     {
-      "name": "Paeonia lactiflora",
-      "commonName": "Chinese Peony",
-      "description": "A herbaceous perennial producing large, fragrant, bowl-shaped to double flowers on sturdy stems above deeply lobed green foliage. It is a beloved cottage garden staple and a long-lived plant that can thrive for decades.",
-      "bloomingSeason": "Late spring to early summer (May to June)",
-      "location": "Native to China, Mongolia and Siberia; widely cultivated in temperate gardens across North America and Europe",
-      "colors": [
-        "pink",
-        "white",
-        "red",
-        "coral"
-      ],
-      "emoji": "🌸",
-      "funFact": "Peonies are often hosted by ants, which feed on the sugary nectar of the buds; contrary to myth, the ants are not required for the flowers to open."
-    },
-    {
-      "name": "Rosa canina",
-      "commonName": "Dog Rose",
-      "description": "A vigorous, arching, thorny deciduous shrub with delicate five-petaled flowers that have a light sweet scent. After flowering it produces bright red rose hips rich in vitamin C.",
-      "bloomingSeason": "Late spring to midsummer (June to July)",
-      "location": "Hedgerows, woodland edges and scrubland across Europe, northwest Africa and western Asia",
-      "colors": [
-        "pale pink",
-        "white"
-      ],
-      "emoji": "🌹",
-      "funFact": "During World War II, rose hips from the dog rose were collected in Britain to make vitamin C-rich syrup when citrus imports were scarce."
-    },
-    {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with silvery-gray narrow leaves and dense spikes of tiny tubular flowers that attract bees and butterflies. It thrives in full sun and well-drained, poor soils.",
-      "bloomingSeason": "Early to midsummer (June to August)",
-      "location": "Native to the Mediterranean region; cultivated in Provence (France), England, Tasmania and the northern United States",
+      "description": "Silvery-green mounds send up slender spikes of tiny, fragrant purple flowers. On warm days the blooms hum with bees and scent the air with a clean, herbal sweetness. In Provence, whole hillsides ripple in violet.",
+      "bloomingSeason": "June to August, so mid-June is the start of the main flowering season",
+      "location": "Provence, southern France, on sunny limestone hillsides and in cultivated fields",
       "colors": [
         "purple",
         "lavender",
-        "blue"
+        "violet"
       ],
       "emoji": "💜",
-      "funFact": "The name lavender comes from the Latin 'lavare', meaning 'to wash', as the Romans used it to scent baths and laundry."
+      "funFact": "Lavender's name probably comes from the Latin 'lavare', meaning 'to wash'. Romans scented their baths with it."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular tree with fern-like leaves that bursts into clouds of trumpet-shaped lavender-blue flowers, carpeting the ground beneath. In the Southern Hemisphere's cooler season, some regions see flowers earlier, while in the Northern Hemisphere warm regions like California and the Mediterranean the main bloom peaks around June.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America (Argentina, Bolivia); planted along streets in California, Mexico, Portugal, South Africa, Australia",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "Big, rounded clusters of flowers weigh down the branches of this classic garden shrub. Some look like pom-poms and others like lacecaps. The color shifts from plant to plant, and the soil does much of the work.",
+      "bloomingSeason": "Late May in warmer zones to mid-July in colder ones, with a peak from June to August",
+      "location": "Gardens across much of the United States and temperate regions of the Northern Hemisphere",
       "colors": [
+        "blue",
+        "pink",
         "purple",
-        "lavender-blue"
+        "white"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, so many jacarandas have been planted that the city is nicknamed 'Jacaranda City', and fallen blossoms form purple carpets on the streets."
+      "emoji": "🌸",
+      "funFact": "Soil chemistry changes the color. Acidic soil lets the plant take up aluminum, which turns the flowers blue. Alkaline soil keeps them pink."
     }
   ]
 }

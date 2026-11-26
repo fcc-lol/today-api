@@ -2,58 +2,31 @@
   "date": "June 14",
   "plants": [
     {
-      "name": "Lavandula angustifolia",
-      "commonName": "English Lavender",
-      "description": "An aromatic evergreen shrub with narrow silvery-gray leaves and dense spikes of fragrant purple flowers that attract bees and butterflies. Widely cultivated in gardens and commercial fields for essential oil, culinary use, and ornament.",
-      "bloomingSeason": "Late spring to midsummer (June to August in the Northern Hemisphere)",
-      "location": "Mediterranean region, widely cultivated in Provence (France), England, and the United States",
+      "name": "Rosa rugosa",
+      "commonName": "Rugosa Rose",
+      "description": "A tough, sweetly perfumed shrub with crinkled, deep-green leaves. It is covered in wide, silky-petalled blooms with a boss of golden stamens. Later the flowers give way to glossy, tomato-like red hips.",
+      "bloomingSeason": "June to September in the Northern Hemisphere, so mid-June falls at the start of its long season",
+      "location": "Native to the coasts of northeastern China, Japan, Korea and southeastern Siberia. Widely grown in gardens across temperate North America and Europe.",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "💜",
-      "funFact": "Lavender has been used for over 2,500 years, and the name comes from the Latin 'lavare' meaning 'to wash' because Romans scented their baths with it."
-    },
-    {
-      "name": "Rosa gallica",
-      "commonName": "French Rose",
-      "description": "A hardy, fragrant shrub rose with deep pink to crimson semi-double flowers and golden stamens. One of the oldest cultivated roses, it is an ancestor of many modern garden roses and blooms profusely in mid-June.",
-      "bloomingSeason": "Early to midsummer (June in temperate Northern Hemisphere)",
-      "location": "Central and southern Europe and western Asia, cultivated worldwide",
-      "colors": [
-        "pink",
-        "crimson",
-        "magenta"
+        "Deep pink",
+        "Magenta",
+        "White"
       ],
       "emoji": "🌹",
-      "funFact": "Rosa gallica 'Officinalis', the Apothecary's Rose, was used medicinally in the Middle Ages and its petals keep their fragrance even when dried."
+      "funFact": "Rugosa roses thrive on salty sand dunes, where most roses would struggle. Their vitamin C-rich hips are used in jams, teas and syrups."
     },
     {
-      "name": "Leucanthemum vulgare",
-      "commonName": "Oxeye Daisy",
-      "description": "A hardy perennial wildflower with classic white petals around a yellow center, growing in meadows, roadsides, and grasslands. Its blooms light up summer fields across temperate regions.",
-      "bloomingSeason": "Late spring to early summer (May to August)",
-      "location": "Native to Europe and temperate Asia, naturalized in North America, Australia, and New Zealand",
+      "name": "Banksia marginata",
+      "commonName": "Silver Banksia",
+      "description": "A hardy shrub or small tree with dark green leaves that are silvery underneath. It holds up upright, lemon-yellow flower spikes that look like bottlebrushes. In the cool of the Southern Hemisphere's winter they are alive with honeyeaters and native bees.",
+      "bloomingSeason": "Mostly February to June, so mid-June falls at the tail end of its flowering period",
+      "location": "Southeastern Australia, including Victoria, Tasmania and nearby coastal and woodland areas",
       "colors": [
-        "white",
-        "yellow"
+        "Yellow",
+        "Lemon"
       ],
       "emoji": "🌼",
-      "funFact": "Oxeye daisies are also called 'moon daisies' because their white petals appear to glow in twilight, and the flower heads can track the sun."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A striking tree covered in clusters of trumpet-shaped lavender-blue flowers, often before its fern-like leaves emerge. In the Southern Hemisphere's cooler months it is sometimes in bloom in warm subtropical zones, while Northern Hemisphere subtropical cities see it at peak in late spring and early summer.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America (Argentina, Bolivia); planted in California, Florida, Mediterranean regions, Africa, and Australia",
-      "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, so many jacarandas line the streets that the city is nicknamed 'Jacaranda City,' and fallen purple blossoms carpet the roads."
+      "funFact": "Each Banksia spike is made up of hundreds of tiny individual flowers. After flowering, the spikes develop woody seed follicles that often open fully only after bushfire."
     }
   ]
 }

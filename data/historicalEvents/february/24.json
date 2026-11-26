@@ -3,38 +3,31 @@
   "events": [
     {
       "year": 1582,
-      "title": "Pope Gregory XIII Issues Inter gravissimas",
-      "description": "Pope Gregory XIII promulgated the papal bull Inter gravissimas, which reformed the Julian calendar and introduced the Gregorian calendar. The reform dropped 10 days to realign the calendar with the solar year and adjusted the leap year rules.",
-      "category": "Science and Religion",
-      "significance": "The Gregorian calendar became the most widely used civil calendar in the world, standardizing timekeeping and the calculation of Easter."
+      "title": "Pope Gregory XIII Issues the Calendar Reform",
+      "description": "Pope Gregory XIII issued the papal bull Inter gravissimas, which introduced a revised calendar to correct the drift of the Julian calendar. The reform changed the leap-year rules and dropped ten days to realign the calendar with the seasons.",
+      "category": "Science and Culture",
+      "significance": "The Gregorian calendar is now the most widely used civil calendar in the world."
     },
     {
       "year": 1803,
       "title": "Marbury v. Madison Decided",
-      "description": "The U.S. Supreme Court, led by Chief Justice John Marshall, ruled in Marbury v. Madison that a section of the Judiciary Act of 1789 was unconstitutional. The decision established the principle that courts can strike down laws that conflict with the Constitution.",
+      "description": "The U.S. Supreme Court, led by Chief Justice John Marshall, ruled in Marbury v. Madison. It held that part of the Judiciary Act of 1789 was unconstitutional.",
       "category": "Law and Politics",
-      "significance": "It established judicial review in the United States, a cornerstone of American constitutional law and the separation of powers."
+      "significance": "The decision established judicial review, the power of American courts to strike down laws that conflict with the Constitution."
     },
     {
       "year": 1955,
       "title": "Birth of Steve Jobs",
-      "description": "Steve Jobs was born in San Francisco, California. He went on to co-found Apple Inc., lead Pixar Animation Studios, and oversee products such as the Macintosh, iPod, iPhone, and iPad.",
+      "description": "Steve Jobs was born in San Francisco, California. He went on to co-found Apple and to lead the company's later work on the iPod, iPhone and iPad.",
       "category": "Birth",
-      "significance": "Jobs transformed personal computing, music, mobile communications, and animation, and became one of the most influential figures in modern technology and design."
-    },
-    {
-      "year": 1848,
-      "title": "Abdication of King Louis-Philippe of France",
-      "description": "Amid the February Revolution in Paris, King Louis-Philippe abdicated and fled to England. The Second Republic was proclaimed shortly afterward.",
-      "category": "Politics and Revolution",
-      "significance": "The event ended the July Monarchy, sparked a wave of revolutions across Europe in 1848, and led to Louis-Napoleon Bonaparte's eventual rise to power."
+      "significance": "Jobs helped shape personal computing, digital music and mobile devices, and changed how people use technology every day."
     },
     {
       "year": 2022,
       "title": "Russia Launches Full-Scale Invasion of Ukraine",
-      "description": "Russian forces began a large-scale military invasion of Ukraine, attacking from the north, east, and south, including strikes on Kyiv and other major cities.",
+      "description": "Russian forces attacked Ukraine from several directions, widening a conflict that had begun in 2014. The offensive set off a major war in Europe and a large refugee crisis.",
       "category": "War and Conflict",
-      "significance": "It became the largest military conflict in Europe since World War II, triggering a major refugee crisis, sweeping international sanctions, and a realignment of European security policy."
+      "significance": "It was the largest military conflict in Europe since World War II, and it reshaped global security, energy markets and international alliances."
     }
   ]
 }

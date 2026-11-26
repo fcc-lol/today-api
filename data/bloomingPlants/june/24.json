@@ -4,55 +4,45 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with slender gray-green leaves and dense spikes of small tubular flowers. Widely cultivated in gardens and fields for its essential oil, and a magnet for bees and butterflies.",
-      "bloomingSeason": "Late June through August in the Northern Hemisphere",
-      "location": "Native to the western Mediterranean; cultivated in Provence (France), England, Bulgaria, and the United States",
+      "description": "Silvery-green mounds erupt into slender spikes of fragrant violet-blue blossoms that hum with bees. Fields of lavender ripple like purple waves across the summer countryside.",
+      "bloomingSeason": "Late June through August in the Northern Hemisphere, with peak bloom in early to mid July in southern France",
+      "location": "Provence, France, and other Mediterranean-climate regions of Europe",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Violet",
+        "Lavender blue",
+        "Purple"
       ],
       "emoji": "💜",
-      "funFact": "Lavender fields in Provence reach peak bloom around late June to July, and the plant's name comes from the Latin 'lavare', meaning 'to wash'."
+      "funFact": "Lavender's name likely comes from the Latin 'lavare', meaning 'to wash'. The Romans scented their baths with it."
     },
     {
-      "name": "Hypericum perforatum",
-      "commonName": "St. John's Wort",
-      "description": "A hardy perennial wildflower with bright yellow, five-petaled flowers dotted with tiny black glands. Found in meadows, roadsides, and open woodlands, and long used in herbal medicine.",
-      "bloomingSeason": "June to September",
-      "location": "Native to Europe, western Asia and North Africa; naturalized in North America, Australia and elsewhere",
+      "name": "Hydrangea macrophylla",
+      "commonName": "Bigleaf Hydrangea",
+      "description": "Big, round clusters of blooms puff up like pom-poms along garden borders and coastal paths. Their color shifts from pink to blue depending on the soil beneath them.",
+      "bloomingSeason": "Early summer, typically June through August in temperate Northern Hemisphere gardens",
+      "location": "Gardens in the British Isles, the northeastern United States and Japan",
       "colors": [
-        "yellow",
-        "golden"
+        "Blue",
+        "Pink",
+        "Purple",
+        "White"
       ],
-      "emoji": "🌼",
-      "funFact": "It is named for St. John the Baptist, whose feast day is June 24, because it typically blooms around the summer solstice and was traditionally gathered on St. John's Eve."
+      "emoji": "💠",
+      "funFact": "Acidic soil with available aluminum turns hydrangea blooms blue. Alkaline soil keeps them pink."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tree with fern-like leaves that bursts into masses of trumpet-shaped lavender-blue flowers, carpeting streets with fallen blossoms. It is a spectacular sight in subtropical cities.",
-      "bloomingSeason": "Late spring in the Southern Hemisphere (October to December), with some blooming in the Northern Hemisphere's early summer (May to June)",
-      "location": "Native to South America; planted in California, Florida, Mediterranean regions, and parts of Africa and Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "This spectacular flower has a crown of silky, pointed pink bracts around a center of fine, downy filaments. It grows on rugged mountain slopes in the middle of winter.",
+      "bloomingSeason": "Mainly late winter to early summer in the Southern Hemisphere, with flowers also seen in the Southern Hemisphere's winter months",
+      "location": "Fynbos vegetation of the Western Cape, South Africa",
       "colors": [
-        "purple",
-        "blue-violet"
+        "Pink",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "🌳",
-      "funFact": "In Pretoria, South Africa, and in Southern California, the jacaranda bloom is celebrated every year, and in some areas the falling flowers are said to bring good luck."
-    },
-    {
-      "name": "Nelumbo nucifera",
-      "commonName": "Sacred Lotus",
-      "description": "An aquatic perennial with large round leaves held above the water and spectacular, fragrant flowers rising on tall stalks. It thrives in warm, shallow ponds and wetlands.",
-      "bloomingSeason": "June to September",
-      "location": "Native to Asia and Australia; cultivated in ponds across India, China, Japan, Vietnam, and the southern United States",
-      "colors": [
-        "pink",
-        "white"
-      ],
-      "emoji": "🪷",
-      "funFact": "Lotus leaves have a micro-textured surface that repels water and dirt, a phenomenon known as the 'lotus effect' that inspired self-cleaning materials."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. It belongs to an ancient plant family that dates back to the supercontinent Gondwana."
     }
   ]
 }

@@ -4,58 +4,44 @@
     {
       "name": "Lavandula angustifolia",
       "commonName": "English Lavender",
-      "description": "A fragrant evergreen shrub with silvery-gray foliage and dense spikes of small tubular flowers. It is widely cultivated in gardens and in commercial fields for essential oils, and its blooms attract bees and butterflies in great numbers.",
-      "bloomingSeason": "Late June to August in the Northern Hemisphere",
-      "location": "Native to the Mediterranean; cultivated in Provence (France), England, Tasmania, and the northern United States",
+      "description": "Silvery-green mounds send up slender spikes crowded with fragrant violet-blue blossoms. Bees and butterflies swarm the fields, and the scent drifts for miles on warm summer air.",
+      "bloomingSeason": "Late spring to midsummer, peaking in late June through July",
+      "location": "Provence, France, and the wider Mediterranean and temperate Northern Hemisphere",
       "colors": [
-        "purple",
-        "lavender",
-        "blue-violet"
+        "Lavender",
+        "Violet",
+        "Blue-purple"
       ],
       "emoji": "💜",
-      "funFact": "The name Lavandula likely comes from the Latin 'lavare', meaning 'to wash', since the Romans used lavender to scent their baths."
+      "funFact": "The name lavender likely comes from the Latin 'lavare', meaning 'to wash'. The Romans scented their baths with it."
     },
     {
-      "name": "Hydrangea macrophylla",
-      "commonName": "Bigleaf Hydrangea",
-      "description": "A deciduous shrub producing large rounded clusters of showy flowers. It is a classic summer garden plant in temperate regions, and is popular in coastal areas and cottage gardens.",
-      "bloomingSeason": "Early summer to early autumn (June to September)",
-      "location": "Native to Japan; widely grown in the UK, the eastern United States, the Azores, and New Zealand",
+      "name": "Nymphaea caerulea",
+      "commonName": "Blue Lotus (Blue Water Lily)",
+      "description": "Star-shaped sky-blue petals rise above round floating pads and open to golden centers. The flowers open in the morning sun and close again by afternoon.",
+      "bloomingSeason": "Warm months, with strong flowering in the summer rains of tropical and subtropical Africa",
+      "location": "Nile Valley and tropical East and Southern Africa",
       "colors": [
-        "blue",
-        "pink",
-        "purple",
-        "white"
-      ],
-      "emoji": "💠",
-      "funFact": "Flower color depends on soil pH: acidic soils with available aluminum yield blue blooms, while alkaline soils yield pink ones."
-    },
-    {
-      "name": "Nymphaea alba",
-      "commonName": "European White Water Lily",
-      "description": "An aquatic perennial with floating round leaves and large, fragrant, star-shaped flowers that open in the morning and close in the afternoon. It grows in lakes, ponds, and slow rivers.",
-      "bloomingSeason": "June to September",
-      "location": "Lakes and ponds across Europe, North Africa, and parts of western Asia",
-      "colors": [
-        "white",
-        "yellow"
+        "Sky blue",
+        "Pale violet",
+        "Golden yellow"
       ],
       "emoji": "🪷",
-      "funFact": "The flowers close and sink slightly underwater at night, then rise and reopen with the morning sun."
+      "funFact": "Ancient Egyptians painted and carved this flower in tombs and temples. They treated it as a symbol of rebirth and the rising sun."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A striking evergreen shrub with the largest flower head in the Protea genus, composed of a central cone of tiny flowers surrounded by showy bracts. In the Southern Hemisphere it blooms in the cool season, as winter begins.",
-      "bloomingSeason": "Late autumn through winter in the Southern Hemisphere; peak around May to September",
-      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
+      "name": "Banksia ericifolia",
+      "commonName": "Heath-leaved Banksia",
+      "description": "Bottle-brush spikes of glowing orange-gold rise from fine, needle-like foliage. Honeyeaters and lorikeets crowd the nectar-rich blooms in the cool Southern Hemisphere winter.",
+      "bloomingSeason": "Autumn to winter, peaking from about May to July",
+      "location": "Coastal sandstone heathlands of New South Wales, Australia",
       "colors": [
-        "pink",
-        "cream",
-        "red"
+        "Orange",
+        "Gold",
+        "Amber"
       ],
-      "emoji": "🌺",
-      "funFact": "It is the national flower of South Africa and can survive wildfires thanks to a woody underground rootstock that resprouts after burning."
+      "emoji": "🌼",
+      "funFact": "Each cone-like spike is made of thousands of tiny flowers. After fire, the woody cones can open and release their seeds."
     }
   ]
 }

@@ -2,63 +2,48 @@
   "date": "November 6",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial grown in gardens across the Northern Hemisphere, producing dense, layered blooms in many forms including pompon, spider, and incurved types. It tolerates light frosts and provides color when most other garden plants are fading.",
-      "bloomingSeason": "Late summer to late autumn",
-      "location": "Cultivated worldwide; native to East Asia (China and Japan)",
+      "name": "Jacaranda mimosifolia",
+      "commonName": "Blue Jacaranda",
+      "description": "Whole streets in the Southern Hemisphere spring turn lavender-blue as this tree opens its clusters of trumpet-shaped flowers. When the blooms fall, they cover pavements and lawns in a violet carpet.",
+      "bloomingSeason": "Late spring in the Southern Hemisphere, roughly October to November, with peak bloom in early to mid November in many places",
+      "location": "Pretoria, South Africa, and eastern Australia, including Brisbane and Sydney",
       "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "red",
-        "purple",
-        "pink"
+        "Lavender",
+        "Violet",
+        "Blue"
       ],
-      "emoji": "🌼",
-      "funFact": "In Japan, the chrysanthemum is the emblem of the Imperial family, and the Chrysanthemum Festival is held in autumn to celebrate it."
+      "emoji": "🌳",
+      "funFact": "Jacaranda is native to South America, but it is now so closely tied to spring in Pretoria and Sydney that many locals treat its bloom as a seasonal marker. In Australian folklore, it is said to signal the start of exam season."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that blooms in late autumn, earlier than its relative Camellia japonica. Its fragrant, delicate flowers with prominent yellow stamens attract late-season pollinators and brighten the landscape as temperatures cool.",
-      "bloomingSeason": "Mid-autumn to early winter",
-      "location": "Native to Japan; widely grown in the southeastern United States, Mediterranean Europe, and Australia",
+      "description": "This glossy-leaved evergreen shrub opens delicate, lightly scented flowers while most gardens are fading. Its single or semi-double blooms have golden stamens at the center, and they brighten cool autumn days.",
+      "bloomingSeason": "Autumn to early winter, roughly October to December",
+      "location": "Southern Japan, and gardens in the southeastern United States",
       "colors": [
-        "white",
-        "pink",
-        "rose-red"
+        "White",
+        "Pink",
+        "Rose-red"
       ],
       "emoji": "🌸",
-      "funFact": "Oil pressed from the seeds of Camellia sasanqua is used in Japan for cooking and hair care."
+      "funFact": "Camellia sinensis, the tea plant, is a close relative of the sasanqua. The seeds of C. sasanqua are pressed to make a culinary and cosmetic oil in parts of Asia."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A spectacular tree of the Southern Hemisphere spring that covers itself in clusters of trumpet-shaped lavender-blue flowers, often before the fern-like leaves fully emerge. Its fallen blossoms carpet streets and pavements in purple.",
-      "bloomingSeason": "Late spring (October to December in the Southern Hemisphere)",
-      "location": "Native to South America; planted in Australia, South Africa (Pretoria), Argentina, and New Zealand",
+      "name": "Chrysanthemum × morifolium",
+      "commonName": "Florist's Chrysanthemum",
+      "description": "Garden chrysanthemums bring autumn color in a wide range of shapes, from tidy buttons to shaggy spiders. They keep flowering through the first cool nights, and the blooms are often still going strong after other flowers have faded.",
+      "bloomingSeason": "Autumn, peaking from October into November",
+      "location": "Gardens and festivals across Japan, and temperate gardens in the Northern Hemisphere",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "Yellow",
+        "Bronze",
+        "White",
+        "Crimson",
+        "Purple"
       ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, there are tens of thousands of jacarandas, earning it the nickname 'Jacaranda City'."
-    },
-    {
-      "name": "Cosmos bipinnatus",
-      "commonName": "Garden Cosmos",
-      "description": "A daisy-like annual with feathery foliage that blooms prolifically in warm climates. In frost-free regions of the Northern Hemisphere and in the spring gardens of the Southern Hemisphere, it keeps flowering through early November, attracting bees and butterflies.",
-      "bloomingSeason": "Summer to first frost; spring to summer in the Southern Hemisphere",
-      "location": "Native to Mexico; naturalized in warm regions of the Americas, Australia, and Asia",
-      "colors": [
-        "pink",
-        "white",
-        "magenta",
-        "crimson"
-      ],
-      "emoji": "🌺",
-      "funFact": "The name 'cosmos' comes from the Greek word for 'order' or 'harmony,' reflecting the symmetrical arrangement of its petals."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums are short-day plants. They set buds only when nights grow long enough, which is why they bloom in autumn."
     }
   ]
 }

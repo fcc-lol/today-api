@@ -2,44 +2,28 @@
   "date": "December 10",
   "holidays": [
     {
+      "name": "Dewey Decimal System Day",
+      "description": "A day for book lovers to tip their hats to the number system that keeps library shelves in order. Wander the stacks, find a favorite section, or sort your own bookshelf by decimal. You could also finally find that one book you've been hunting for.",
+      "origin": "The day honors Melvil Dewey, the librarian who created the Dewey Decimal Classification in the 1870s. He sorted knowledge into ten main classes, and the system took over libraries around the world.",
+      "category": "Books & Libraries",
+      "emoji": "📚",
+      "funFact": "Melvil Dewey tried to simplify his own name by dropping the extra letters in his first name, and he spelled it 'Dui' for a while. Today the Dewey system is used in libraries in well over 100 countries."
+    },
+    {
+      "name": "Festival for the Souls of Dead Whales",
+      "description": "A solemn and unusual observance that honors whales that have died. It invites people to reflect on the lives of these giants of the sea and on the oceans they travel.",
+      "origin": "The festival comes from Japanese whaling-community tradition, where memorial rites were held to comfort the spirits of whales that had been caught. It is observed on December 10 as an unofficial remembrance.",
+      "category": "Cultural & Memorial Observance",
+      "emoji": "🐋",
+      "funFact": "Some Japanese coastal villages built memorial mounds and kept records of the whales they caught, and the practice of remembering them goes back centuries."
+    },
+    {
       "name": "National Lager Day",
-      "description": "A day to raise a frosty glass to the crisp, clean, golden beer that dominates bars, barbecues, and ballgames worldwide. Lager lovers celebrate by sampling pilsners, bocks, and Märzens.",
-      "origin": "An unofficial U.S. beer-lover observance. Lagers trace back to 15th-century Bavaria, where brewers discovered that storing beer in cold caves produced a smoother, longer-lasting brew.",
+      "description": "A day to raise a glass of crisp, cold lager, the world's most popular style of beer. Try a pilsner, a Munich helles, or an amber lager, and pair it with pretzels.",
+      "origin": "This is an unofficial observance of unclear origin that has become a favorite on beer lovers' calendars.",
       "category": "Food & Drink",
       "emoji": "🍺",
-      "funFact": "Lager comes from the German word 'lagern,' meaning 'to store.' The yeast that makes lager is a hybrid of ale yeast and a wild Patagonian yeast, which likely hitchhiked to Europe on trade ships."
-    },
-    {
-      "name": "National Dewey Decimal System Day",
-      "description": "A tribute to the numbering system that keeps libraries organized. Fans celebrate by browsing the stacks, sorting their bookshelves, or arranging their spice racks by category.",
-      "origin": "Observed on the approximate birthday of Melvil Dewey, born December 10, 1851, who invented the Dewey Decimal Classification in 1876 while working as a librarian.",
-      "category": "Pop Culture & Education",
-      "emoji": "📚",
-      "funFact": "Melvil Dewey was so obsessed with efficiency that he campaigned to simplify English spelling and even shortened his own first name from 'Melville' to 'Melvil.'"
-    },
-    {
-      "name": "Human Rights Day",
-      "description": "A global observance honoring the adoption of the Universal Declaration of Human Rights. People mark it with events, speeches, and campaigns promoting dignity and equality for everyone.",
-      "origin": "The United Nations General Assembly adopted the Universal Declaration of Human Rights on December 10, 1948, and formally established the observance in 1950.",
-      "category": "Awareness Day",
-      "emoji": "🕊️",
-      "funFact": "The Declaration is the most translated document in the world, available in over 500 languages. The Nobel Peace Prize is also traditionally awarded on this date in Oslo."
-    },
-    {
-      "name": "Nobel Prize Day",
-      "description": "The glitziest day on the science and literature calendar, when laureates don fancy formalwear and collect medals in Stockholm, with banquets featuring elaborate multi-course dinners.",
-      "origin": "Held every December 10 since 1901 to commemorate the death of Alfred Nobel in 1896, the Swedish inventor of dynamite who endowed the prizes in his will.",
-      "category": "Pop Culture & Education",
-      "emoji": "🏅",
-      "funFact": "A Nobel medal is made of 18-karat gold, and the banquet's dessert is often kept secret until the night. Nobel reportedly was horrified by a premature obituary calling him a 'merchant of death,' which inspired his legacy."
-    },
-    {
-      "name": "Dewey Decimal Day Companion: Festival of Sleep Day (Unofficial)",
-      "description": "A tongue-in-cheek day for burrowing under blankets and sleeping in during the busiest season of the year. Participants celebrate by napping guilt-free and ignoring their to-do lists.",
-      "origin": "An informal internet-born observance that grew from the idea that December's holiday rush leaves everyone exhausted and in need of an excuse to rest.",
-      "category": "Unofficial & Fun",
-      "emoji": "😴",
-      "funFact": "Studies show a 20-minute nap can boost alertness by up to 100 percent, and NASA research found a 26-minute nap improved pilot performance by 34 percent."
+      "funFact": "The word 'lager' comes from the German word for 'storage.' The beer gets its name from the cold cellars and caves where brewers aged it."
     }
   ]
 }

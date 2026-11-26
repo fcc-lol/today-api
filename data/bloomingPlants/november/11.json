@@ -2,63 +2,48 @@
   "date": "November 11",
   "plants": [
     {
-      "name": "Chrysanthemum × morifolium",
-      "commonName": "Florist's Chrysanthemum",
-      "description": "A classic autumn perennial with dense, layered blooms in forms ranging from pompons to spidery and decorative types. It thrives in cool autumn weather and is a staple of late-season gardens and floral markets in the Northern Hemisphere.",
-      "bloomingSeason": "Mid-autumn to early winter (October to December in the Northern Hemisphere)",
-      "location": "Cultivated worldwide; native to East Asia (China and Japan); widely grown in North America, Europe, and Asia",
-      "colors": [
-        "yellow",
-        "white",
-        "bronze",
-        "purple",
-        "pink",
-        "red"
-      ],
-      "emoji": "🌼",
-      "funFact": "Chrysanthemums are short-day plants, so they start forming flower buds only when nights lengthen. Growers manipulate light to make them bloom out of season, and the flower is the emblem of Japan's Imperial family."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Blue Jacaranda",
-      "description": "A graceful tropical to subtropical tree with fern-like foliage that erupts in clouds of trumpet-shaped lavender-blue flowers. The blossoms carpet streets and gardens as they fall, creating purple-tinted ground cover.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in South Africa (Pretoria), Australia (Brisbane, Sydney, Grafton), and New Zealand's north",
+      "commonName": "Jacaranda",
+      "description": "Whole streets in eastern Australia turn lavender-blue as this tree's trumpet-shaped flowers open in huge clusters. When the blooms fall, they cover pavements and lawns in a purple carpet.",
+      "bloomingSeason": "Spring, from early to mid October. The trees reach full bloom in November in Sydney.",
+      "location": "Sydney and eastern Australia (Southern Hemisphere)",
       "colors": [
-        "lavender",
-        "blue",
-        "purple"
+        "Lavender",
+        "Violet",
+        "Blue-purple"
       ],
-      "emoji": "🌸",
-      "funFact": "Pretoria, South Africa, is nicknamed the 'Jacaranda City' because of its roughly 70,000 jacaranda trees, which turn the city purple every spring. Many Australian university students traditionally associate the blooms with approaching exams."
+      "emoji": "🪻",
+      "funFact": "The jacaranda is native to South America. Its Australian spring bloom is so well known that people link it to the start of exam season and to the arrival of warmer weather."
     },
     {
       "name": "Camellia sasanqua",
-      "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub that is one of the earliest camellias to flower, producing fragrant single or semi-double blooms with prominent golden stamens against glossy dark green leaves. It tolerates more sun than other camellias and is popular as hedging.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to Japan; cultivated in the southeastern United States, Mediterranean Europe, Australia, and New Zealand",
+      "commonName": "Sasanqua camellia",
+      "description": "This evergreen shrub opens silky pink, rose or white flowers when most gardens are winding down for winter. Its petals surround a bright boss of golden stamens, and the blooms last for weeks of cool weather.",
+      "bloomingSeason": "Late autumn into early winter. Many varieties start in November and continue through January.",
+      "location": "Native to Japan. Widely grown in temperate gardens across Asia, Europe and North America.",
       "colors": [
-        "white",
-        "pink",
-        "rose",
-        "red"
+        "Rose pink",
+        "White",
+        "Pale pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Sasanqua camellias are related to the tea plant, Camellia sinensis, and their seeds are pressed to make camellia oil, used in Japan for cooking, hair care, and polishing tools."
+      "emoji": "🌸",
+      "funFact": "Camellia sasanqua is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed in Japan to make camellia oil."
     },
     {
-      "name": "Nerine bowdenii",
-      "commonName": "Guernsey Lily",
-      "description": "A bulbous perennial that sends up leafless stems topped with umbels of narrow, wavy-petaled, sparkling pink flowers in late autumn, when most other garden plants have faded. The strap-like leaves appear after flowering.",
-      "bloomingSeason": "Autumn (October to November in the Northern Hemisphere)",
-      "location": "Native to the Drakensberg mountains of South Africa; naturalized or cultivated in the UK, Western Europe, and the Pacific Northwest",
+      "name": "Chrysanthemum morifolium",
+      "commonName": "Florist's chrysanthemum",
+      "description": "Chrysanthemums fill autumn gardens and temple displays with dense, layered pompons and spidery, shaggy blooms. In Japan, this is the season of chrysanthemum shows, where growers display prized plants trained into perfect domes.",
+      "bloomingSeason": "Autumn. Flowering runs from about September through November, and it can start earlier in warmer zones.",
+      "location": "Japan and temperate gardens across East Asia, Europe and North America",
       "colors": [
-        "pink",
-        "rose"
+        "Gold",
+        "Bronze",
+        "White",
+        "Crimson",
+        "Pink"
       ],
-      "emoji": "💐",
-      "funFact": "The petals of Nerine have a glittering, crystalline sheen that sparkles in sunlight, earning it the nickname 'diamond lily'. The bulbs bloom best when crowded and baked by summer sun."
+      "emoji": "🌼",
+      "funFact": "Chrysanthemums bloom in response to long nights, not to temperature. Growers can shift the flowering date by controlling how much light the plants get. The flower is the emblem of the Japanese Imperial family."
     }
   ]
 }
