@@ -2,60 +2,42 @@
   "date": "September 3",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals surrounding a dark central disk. Young flower heads track the sun across the sky, and the plant is widely grown for seed, oil and ornamental use.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "Native to North America; widely cultivated across the United States, Europe, Ukraine, Russia and Argentina",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "deep red"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west in a behavior called heliotropism, but mature blooms generally stay facing east."
-    },
-    {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower forming tall stems topped with plumes of tiny golden flower heads. It thrives in meadows, roadsides and open fields, and provides late-season nectar for bees, butterflies and other pollinators.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Native to eastern and central North America; naturalized in Europe and Asia",
+      "description": "Tall, arching plumes of tiny golden flowers light up meadows, roadsides and prairie edges. They hum with bees, butterflies and beetles as summer turns toward autumn.",
+      "bloomingSeason": "Late summer to early autumn, with blooms lasting about 2-4 weeks",
+      "location": "Meadows and fields across North America",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
       "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time; goldenrod pollen is heavy and spread by insects."
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and carried by insects. The real culprit is usually ragweed, which blooms at the same time and releases wind-borne pollen."
     },
     {
-      "name": "Eucalyptus leucoxylon",
-      "commonName": "Yellow Gum",
-      "description": "A medium-sized Australian tree with smooth mottled bark and clusters of fluffy stamens in place of petals. It flowers heavily in the Southern Hemisphere's late winter and early spring, attracting honeyeaters and lorikeets.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (May to October, peaking around August to September)",
-      "location": "South Australia, Victoria and New South Wales, Australia",
+      "name": "Protea cynaroides",
+      "commonName": "King Protea",
+      "description": "The largest of all the proteas has a bowl-shaped flower head up to 30 cm across. Its petal-like bracts are silky pink and cream, and they surround a crown of fuzzy, pale centre florets. It stands out among the fynbos shrubs on the mountain slopes.",
+      "bloomingSeason": "Mainly winter and spring, June to October",
+      "location": "Fynbos of the Western Cape, South Africa, including Kirstenbosch National Botanical Garden",
       "colors": [
-        "cream",
-        "pink",
-        "red",
-        "white"
+        "Pink",
+        "Cream",
+        "Silvery white"
+      ],
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its thick, underground stems help it survive the wildfires that regularly sweep through fynbos."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Late winter brings fragrant, fluffy golden pom-poms that cover this small tree and turn southeastern Australian bushland bright yellow. The blooms are bright against the sickle-shaped grey-green foliage.",
+      "bloomingSeason": "Late winter to early spring, typically August and September",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
+      "colors": [
+        "Golden yellow"
       ],
       "emoji": "🌳",
-      "funFact": "Yellow Gum is a key nectar source for native birds and the honey industry, and its flower color varies from white and cream to deep red among individual trees."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up crocus-like lilac-pink flowers in late summer and early autumn, before its leaves appear in spring. The flowers emerge directly from the ground on bare stems.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Native to Europe, in damp meadows and woodland edges; cultivated in gardens worldwide",
-      "colors": [
-        "lilac",
-        "pale pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "All parts of the plant contain colchicine, a toxic compound that is also used in medicine to treat gout and in plant breeding to double chromosome numbers."
+      "funFact": "Golden Wattle is Australia's national floral emblem. National Wattle Day is celebrated on 1 September, just before this date, to mark the start of spring."
     }
   ]
 }
