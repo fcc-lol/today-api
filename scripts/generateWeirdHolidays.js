@@ -244,7 +244,7 @@ async function generateSingleDate(month, day) {
 }
 
 // Function to resume from a specific date (useful if script is interrupted)
-async function resumeWeirdHolidaysFromDate(startMonth, startDay) {
+async function resumeWeirdHolidaysFromDate(startMonth, startDay, endMonth = 12, endDay = 31) {
   console.log(`Resuming weird holidays from ${startMonth}/${startDay}...`);
 
   const processedFiles = [];
@@ -274,7 +274,7 @@ async function resumeWeirdHolidaysFromDate(startMonth, startDay) {
   fs.mkdirSync(holidaysDir, { recursive: true });
 
   try {
-    for (let month = startMonth; month <= 12; month++) {
+    for (let month = startMonth; month <= endMonth; month++) {
       const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
         month: "long"
       });
@@ -285,7 +285,12 @@ async function resumeWeirdHolidaysFromDate(startMonth, startDay) {
 
       const startDayForMonth = month === startMonth ? startDay : 1;
 
-      for (let day = startDayForMonth; day <= daysInMonth[month - 1]; day++) {
+      const lastDayForMonth =
+        month === endMonth
+          ? Math.min(endDay, daysInMonth[month - 1])
+          : daysInMonth[month - 1];
+
+      for (let day = startDayForMonth; day <= lastDayForMonth; day++) {
         try {
           console.log(`  Fetching holidays for ${monthName} ${day}...`);
 
@@ -346,7 +351,8 @@ async function resumeWeirdHolidaysFromDate(startMonth, startDay) {
     console.log(`Files saved to: ${holidaysDir}`);
     console.log(`Days processed: ${processedDays}/${totalDays - skippedDays}`);
 
-    generateHolidaySummaryAndIndex(processedFiles, dataDir);
+    // A partial range would overwrite the summary with partial numbers
+    if (endMonth === 12 && endDay === 31) generateHolidaySummaryAndIndex(processedFiles, dataDir);
   } catch (error) {
     console.error("Fatal error during holiday resume:", error);
     process.exit(1);
@@ -363,6 +369,13 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     resumeWeirdHolidaysFromDate(month, day);
+  } else if (args[0] === "range" && args.length === 5) {
+    resumeWeirdHolidaysFromDate(
+      parseInt(args[1]),
+      parseInt(args[2]),
+      parseInt(args[3]),
+      parseInt(args[4])
+    );
   } else if (args[0] === "single" && args.length === 3) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
@@ -372,6 +385,9 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     });
   } else {
     console.log("Usage:");
+    console.log(
+      "  node generateWeirdHolidays.js range M1 D1 M2 D2   # Generate from M1/D1 through M2/D2 inclusive"
+    );
     console.log(
       "  node generateWeirdHolidays.js single M D   # Generate single date (month M, day D)"
     );

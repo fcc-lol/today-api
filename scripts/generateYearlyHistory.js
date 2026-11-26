@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
-import { generateStructured } from "./lib/claude.js";
+import { generateStructured, webSearchTool } from "./lib/claude.js";
 import { z } from "zod";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -37,9 +37,10 @@ const getHistoricalEventsForDate = async (month, day) => {
 
   return generateStructured({
     system:
-      "You are a historian. Extract significant historical events that happened on this specific date (month and day) throughout history. Focus on major events, births, deaths, and milestones. Provide 3-5 events with accurate years, titles, descriptions, categories, and significance.",
-    prompt: `What significant historical events happened on ${dateString}? Please provide the most notable events from different years.`,
-    schema: HistoricalEvents
+      "You are a historian writing a short, engaging 'on this day' feature. Accuracy of the date matters more than anything: use web search (for example the Wikipedia page for this calendar date or an 'on this day' reference) to confirm that each event really happened on this exact month and day, with the correct year. Only include events you have verified; skip anything you are unsure of. Give 3-5 verified events spread across different eras, mixing major events, births, deaths, and milestones. Provide a year, title, description, category, and significance for each. Write every field for a general audience as polished copy: never mention the sources you checked and never describe your research.",
+    prompt: `What significant historical events happened on ${dateString}? Confirm each one really falls on ${dateString} and give me 3-5 of the most notable verified events from different years.`,
+    schema: HistoricalEvents,
+    tools: [webSearchTool(6)]
   });
 };
 
@@ -284,7 +285,7 @@ async function generateSingleDate(month, day) {
 }
 
 // Function to resume from a specific date (useful if script is interrupted)
-async function resumeFromDate(startMonth, startDay) {
+async function resumeFromDate(startMonth, startDay, endMonth = 12, endDay = 31) {
   console.log(`Resuming from ${startMonth}/${startDay}...`);
 
   const processedFiles = [];
@@ -314,7 +315,7 @@ async function resumeFromDate(startMonth, startDay) {
   fs.mkdirSync(thisDayDir, { recursive: true });
 
   try {
-    for (let month = startMonth; month <= 12; month++) {
+    for (let month = startMonth; month <= endMonth; month++) {
       const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
         month: "long"
       });
@@ -325,7 +326,12 @@ async function resumeFromDate(startMonth, startDay) {
 
       const startDayForMonth = month === startMonth ? startDay : 1;
 
-      for (let day = startDayForMonth; day <= daysInMonth[month - 1]; day++) {
+      const lastDayForMonth =
+        month === endMonth
+          ? Math.min(endDay, daysInMonth[month - 1])
+          : daysInMonth[month - 1];
+
+      for (let day = startDayForMonth; day <= lastDayForMonth; day++) {
         try {
           console.log(`  Fetching events for ${monthName} ${day}...`);
 
@@ -386,7 +392,8 @@ async function resumeFromDate(startMonth, startDay) {
     console.log(`Files saved to: ${thisDayDir}`);
     console.log(`Days processed: ${processedDays}/${totalDays - skippedDays}`);
 
-    generateSummaryAndIndex(processedFiles, dataDir);
+    // A partial range would overwrite the summary with partial numbers
+    if (endMonth === 12 && endDay === 31) generateSummaryAndIndex(processedFiles, dataDir);
   } catch (error) {
     console.error("Fatal error during resume:", error);
     process.exit(1);
@@ -403,12 +410,22 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     resumeFromDate(month, day);
+  } else if (args[0] === "range" && args.length === 5) {
+    resumeFromDate(
+      parseInt(args[1]),
+      parseInt(args[2]),
+      parseInt(args[3]),
+      parseInt(args[4])
+    );
   } else if (args[0] === "single" && args.length === 3) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     generateSingleDate(month, day).catch(console.error);
   } else {
     console.log("Usage:");
+    console.log(
+      "  node generateYearlyHistory.js range M1 D1 M2 D2   # Generate from M1/D1 through M2/D2 inclusive"
+    );
     console.log(
       "  node generateYearlyHistory.js              # Generate for entire year"
     );

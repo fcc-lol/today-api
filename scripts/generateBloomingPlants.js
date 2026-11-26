@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import dotenv from "dotenv";
-import { generateStructured } from "./lib/claude.js";
+import { generateStructured, webSearchTool } from "./lib/claude.js";
 import { z } from "zod";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -40,9 +40,10 @@ const getBloomingPlantsForDate = async (month, day) => {
 
   return generateStructured({
     system:
-      "You are a botanical expert who knows about plants that bloom throughout the year around the world. For each date, find 3-4 plants that are typically blooming during this time period somewhere in the world. Consider different hemispheres, climate zones, and seasonal variations. Include both common garden plants and interesting wild species. Focus on plants that would actually be in bloom during this time period, considering their natural blooming seasons. Provide scientific names, common names, detailed descriptions, blooming seasons, geographic locations, flower colors, appropriate emojis, and interesting botanical facts.",
-    prompt: `What plants are typically blooming around ${dateString}? Consider different regions of the world and climate zones. Include both cultivated and wild plants that would naturally be in bloom during this time period.`,
-    schema: BloomingPlants
+      "You are a botanical expert writing a short feature on what is in bloom around the world on a given date. Use web search to confirm that each plant you include is actually in bloom around this date in the region you name, checking its documented flowering season. Only include plants you have verified; skip anything you are unsure of. Give 2-4 verified plants, considering different hemispheres and climate zones, and mixing common garden plants with interesting wild species. Provide the scientific name, common name, a vivid description, blooming season, geographic location, flower colors, an appropriate emoji, and an interesting botanical fact. Write every field for a general audience as polished copy: never mention the sources you checked and never describe your research.",
+    prompt: `What plants are blooming around ${dateString}? Confirm each one's flowering season really covers ${dateString} in the region you name, and give me 2-4 verified plants from different parts of the world.`,
+    schema: BloomingPlants,
+    tools: [webSearchTool(6)]
   });
 };
 
@@ -289,7 +290,7 @@ async function generateSingleDate(month, day) {
 }
 
 // Function to resume from a specific date (useful if script is interrupted)
-async function resumeBloomingPlantsFromDate(startMonth, startDay) {
+async function resumeBloomingPlantsFromDate(startMonth, startDay, endMonth = 12, endDay = 31) {
   console.log(`Resuming blooming plants from ${startMonth}/${startDay}...`);
 
   const processedFiles = [];
@@ -319,7 +320,7 @@ async function resumeBloomingPlantsFromDate(startMonth, startDay) {
   fs.mkdirSync(plantsDir, { recursive: true });
 
   try {
-    for (let month = startMonth; month <= 12; month++) {
+    for (let month = startMonth; month <= endMonth; month++) {
       const monthName = new Date(2024, month - 1, 1).toLocaleString("default", {
         month: "long"
       });
@@ -330,7 +331,12 @@ async function resumeBloomingPlantsFromDate(startMonth, startDay) {
 
       const startDayForMonth = month === startMonth ? startDay : 1;
 
-      for (let day = startDayForMonth; day <= daysInMonth[month - 1]; day++) {
+      const lastDayForMonth =
+        month === endMonth
+          ? Math.min(endDay, daysInMonth[month - 1])
+          : daysInMonth[month - 1];
+
+      for (let day = startDayForMonth; day <= lastDayForMonth; day++) {
         try {
           console.log(`  Fetching plants for ${monthName} ${day}...`);
 
@@ -391,7 +397,8 @@ async function resumeBloomingPlantsFromDate(startMonth, startDay) {
     console.log(`Files saved to: ${plantsDir}`);
     console.log(`Days processed: ${processedDays}/${totalDays - skippedDays}`);
 
-    generatePlantsSummaryAndIndex(processedFiles, dataDir);
+    // A partial range would overwrite the summary with partial numbers
+    if (endMonth === 12 && endDay === 31) generatePlantsSummaryAndIndex(processedFiles, dataDir);
   } catch (error) {
     console.error("Fatal error during blooming plants resume:", error);
     process.exit(1);
@@ -408,12 +415,22 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     resumeBloomingPlantsFromDate(month, day);
+  } else if (args[0] === "range" && args.length === 5) {
+    resumeBloomingPlantsFromDate(
+      parseInt(args[1]),
+      parseInt(args[2]),
+      parseInt(args[3]),
+      parseInt(args[4])
+    );
   } else if (args[0] === "single" && args.length === 3) {
     const month = parseInt(args[1]);
     const day = parseInt(args[2]);
     generateSingleDate(month, day).catch(console.error);
   } else {
     console.log("Usage:");
+    console.log(
+      "  node generateBloomingPlants.js range M1 D1 M2 D2   # Generate from M1/D1 through M2/D2 inclusive"
+    );
     console.log(
       "  node generateBloomingPlants.js              # Generate for entire year"
     );
