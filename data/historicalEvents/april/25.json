@@ -2,39 +2,32 @@
   "date": "April 25",
   "events": [
     {
+      "year": 1859,
+      "title": "Work begins on the Suez Canal",
+      "description": "Engineers broke ground at the Mediterranean end of what would become the Suez Canal in Egypt. The project went on for ten years.",
+      "category": "Engineering",
+      "significance": "The canal opened in 1869. It created a direct shipping route between Europe and Asia and changed global trade and naval strategy."
+    },
+    {
       "year": 1915,
-      "title": "Allied Landings at Gallipoli",
-      "description": "Australian, New Zealand, British, and French forces landed on the Gallipoli Peninsula in the Ottoman Empire during World War I, aiming to open a sea route to Russia by capturing Constantinople. The campaign bogged down into months of stalemate and ended in Allied withdrawal in January 1916.",
-      "category": "Military",
-      "significance": "The date is commemorated as ANZAC Day in Australia and New Zealand, a national day of remembrance that helped shape the national identities of both countries."
+      "title": "Allied forces land at Gallipoli",
+      "description": "Australian, New Zealand, British, French and Indian troops came ashore on the Gallipoli Peninsula in the Ottoman Empire. They hoped to open a sea route to Russia and knock the Ottomans out of World War I.",
+      "category": "War",
+      "significance": "The campaign ended in an Allied withdrawal. It left a deep mark on national identity in Australia and New Zealand, which mark April 25 each year as ANZAC Day."
     },
     {
       "year": 1953,
-      "title": "Watson and Crick Publish the Structure of DNA",
-      "description": "James Watson and Francis Crick published their paper in the journal Nature proposing the double-helix structure of DNA, building on X-ray diffraction work by Rosalind Franklin and Maurice Wilkins.",
+      "title": "Watson and Crick publish the structure of DNA",
+      "description": "James Watson and Francis Crick published their paper in the journal Nature. It described DNA as a double helix, building on X-ray work by Rosalind Franklin and Maurice Wilkins.",
       "category": "Science",
-      "significance": "The discovery explained how genetic information is stored and replicated, launching the era of modern molecular biology, genetics, and biotechnology."
+      "significance": "The discovery explained how genetic information is stored and copied. It laid the foundations of modern molecular biology and genetics."
     },
     {
       "year": 1974,
-      "title": "Carnation Revolution in Portugal",
-      "description": "A military coup led by the Movement of the Armed Forces overthrew the Estado Novo dictatorship in Lisbon, largely without bloodshed. Civilians placed carnations in soldiers' rifle barrels, giving the revolution its name.",
+      "title": "The Carnation Revolution begins in Portugal",
+      "description": "Military officers launched a coup that overthrew the authoritarian Estado Novo regime. Civilians poured into the streets and put carnations in soldiers' rifles, and almost no blood was shed.",
       "category": "Politics",
-      "significance": "It ended nearly 50 years of authoritarian rule, led to democracy in Portugal, and hastened the independence of Portuguese colonies in Africa such as Angola and Mozambique."
-    },
-    {
-      "year": 1982,
-      "title": "Israel Completes Withdrawal from the Sinai Peninsula",
-      "description": "Israel completed its withdrawal from the Sinai Peninsula, returning the territory to Egypt as required by the 1979 Egypt-Israel Peace Treaty, which followed the Camp David Accords.",
-      "category": "Politics",
-      "significance": "It was a landmark step in Arab-Israeli peace efforts, demonstrating that land-for-peace agreements could be implemented and solidifying the first peace treaty between Israel and an Arab state."
-    },
-    {
-      "year": 1990,
-      "title": "Hubble Space Telescope Deployed",
-      "description": "The Hubble Space Telescope was deployed into low Earth orbit from the Space Shuttle Discovery during mission STS-31. After a repair mission in 1993 corrected its flawed primary mirror, it began returning extraordinarily sharp images.",
-      "category": "Science and Technology",
-      "significance": "Hubble transformed astronomy by helping determine the age of the universe, revealing deep-field galaxies, and providing evidence for the universe's accelerating expansion."
+      "significance": "The revolution ended decades of dictatorship and led to democracy in Portugal. It also led to the independence of Portugal's African colonies."
     }
   ]
 }

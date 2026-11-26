@@ -2,39 +2,32 @@
   "date": "April 26",
   "events": [
     {
-      "year": 1986,
-      "title": "Chernobyl Nuclear Disaster",
-      "description": "Reactor No. 4 at the Chernobyl Nuclear Power Plant near Pripyat, Ukrainian SSR, exploded during a safety test at 1:23 a.m., releasing large quantities of radioactive material across Europe.",
-      "category": "Disaster",
-      "significance": "It was the worst nuclear power plant accident in history, leading to mass evacuations, long-term health and environmental consequences, and major changes in nuclear safety policy and Soviet transparency."
-    },
-    {
       "year": 1564,
-      "title": "William Shakespeare Baptized",
-      "description": "William Shakespeare was baptized at Holy Trinity Church in Stratford-upon-Avon, England, which is the earliest documented record of his existence. His exact birth date is unknown but traditionally given as April 23.",
-      "category": "Culture",
-      "significance": "Shakespeare became widely regarded as the greatest writer in the English language, and his plays and poems shaped literature and theatre worldwide."
-    },
-    {
-      "year": 1937,
-      "title": "Bombing of Guernica",
-      "description": "German Luftwaffe's Condor Legion and Italian aircraft, supporting Nationalist forces in the Spanish Civil War, bombed the Basque town of Guernica, causing heavy civilian casualties and destruction.",
-      "category": "War",
-      "significance": "The attack became a symbol of the horrors of aerial bombardment of civilians and inspired Pablo Picasso's famous painting Guernica."
+      "title": "William Shakespeare is baptised",
+      "description": "The infant William Shakespeare was baptised at Holy Trinity Church in Stratford-upon-Avon, England. His exact birth date is unrecorded, but the baptism is the earliest documented event of his life.",
+      "category": "Birth",
+      "significance": "The baptism date is the anchor for Shakespeare's biography. It is why his birthday is traditionally marked in late April."
     },
     {
       "year": 1865,
-      "title": "John Wilkes Booth Killed",
-      "description": "Twelve days after assassinating President Abraham Lincoln, John Wilkes Booth was tracked down and shot by Union soldiers at a farm near Port Royal, Virginia.",
-      "category": "Crime",
-      "significance": "His death ended the manhunt for Lincoln's assassin and closed a dramatic chapter at the end of the American Civil War."
+      "title": "John Wilkes Booth is cornered and killed",
+      "description": "Union cavalry trapped Abraham Lincoln's assassin in a Virginia tobacco barn and shot him, ending a twelve-day manhunt. On the same day, Confederate General Joseph Johnston surrendered his army to General William T. Sherman near Durham, North Carolina.",
+      "category": "Crime and War",
+      "significance": "The two events closed the main chapters of the Civil War and the Lincoln assassination. Johnston's surrender was the largest of the war."
     },
     {
-      "year": 1964,
-      "title": "Tanganyika and Zanzibar Unite to Form Tanzania",
-      "description": "The sovereign states of Tanganyika and Zanzibar merged to form the United Republic of Tanganyika and Zanzibar, which was renamed Tanzania later that year.",
-      "category": "Politics",
-      "significance": "The union created a new East African nation that remains one of the few successful post-colonial mergers of states in Africa."
+      "year": 1937,
+      "title": "Guernica is bombed",
+      "description": "During the Spanish Civil War, German aircraft bombed the ancient Basque town of Guernica in northern Spain.",
+      "category": "War",
+      "significance": "The attack became a global symbol of the horror of aerial bombardment of civilians. It inspired Picasso's famous painting Guernica."
+    },
+    {
+      "year": 1986,
+      "title": "Chernobyl nuclear disaster",
+      "description": "A reactor exploded at the Chernobyl Nuclear Power Plant in the Soviet Union. It released radioactive material across Europe.",
+      "category": "Disaster",
+      "significance": "It is the worst nuclear power accident in history. It reshaped nuclear safety standards and public attitudes toward nuclear energy worldwide."
     }
   ]
 }

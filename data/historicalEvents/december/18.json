@@ -2,39 +2,32 @@
   "date": "December 18",
   "events": [
     {
+      "year": 1271,
+      "title": "Kublai Khan Proclaims the Yuan Dynasty",
+      "description": "Kublai Khan officially renamed his empire \"Yuan\". This marked the formal start of the Yuan dynasty in China and Mongolia.",
+      "category": "Politics",
+      "significance": "The Yuan dynasty made Mongol rule of China official. Kublai Khan's court became one of the most powerful and cosmopolitan in the world."
+    },
+    {
+      "year": 1777,
+      "title": "America Celebrates Its First Thanksgiving",
+      "description": "The United States marked a national day of thanksgiving to celebrate the American victory over British General John Burgoyne at Saratoga that October.",
+      "category": "Culture",
+      "significance": "It was an early national thanksgiving observance in the young republic. The holiday later developed into the November Thanksgiving Americans celebrate today."
+    },
+    {
       "year": 1865,
-      "title": "Thirteenth Amendment Declared Ratified",
-      "description": "U.S. Secretary of State William Seward announced that the Thirteenth Amendment to the U.S. Constitution had been ratified by three-fourths of the states, formally abolishing slavery and involuntary servitude except as punishment for a crime.",
-      "category": "Politics/Civil Rights",
-      "significance": "Legally ended chattel slavery in the United States and marked a foundational step in the expansion of civil rights during Reconstruction."
+      "title": "The Thirteenth Amendment Is Declared Adopted",
+      "description": "Secretary of State William Seward proclaimed that the Thirteenth Amendment had been ratified. It prohibited slavery throughout the United States.",
+      "category": "Law and Civil Rights",
+      "significance": "The amendment formally ended legal slavery in the United States. It was a turning point in American history after the Civil War."
     },
     {
-      "year": 1912,
-      "title": "Piltdown Man Announced",
-      "description": "Charles Dawson and Arthur Smith Woodward announced the discovery of fossil fragments in Piltdown, England, claimed to be the 'missing link' between apes and humans.",
-      "category": "Science",
-      "significance": "The find was exposed as a hoax in 1953, becoming one of the most famous scientific frauds and a lasting lesson about peer review and scientific skepticism."
-    },
-    {
-      "year": 1956,
-      "title": "Japan Admitted to the United Nations",
-      "description": "Japan was admitted as a member of the United Nations, roughly eleven years after the end of World War II, following the normalization of relations with the Soviet Union that removed a Soviet veto.",
-      "category": "Politics/International Relations",
-      "significance": "Marked Japan's return to the international community as a full participant in world affairs after postwar occupation and isolation."
-    },
-    {
-      "year": 1892,
-      "title": "The Nutcracker Premieres in St. Petersburg",
-      "description": "Tchaikovsky's ballet The Nutcracker premiered at the Mariinsky Theatre in St. Petersburg, Russia, in a double bill with his opera Iolanta.",
-      "category": "Arts/Culture",
-      "significance": "Initially received with mixed reviews, it became one of the most popular and frequently performed ballets in the world, a staple of holiday traditions."
-    },
-    {
-      "year": 1946,
-      "title": "Birth of Steven Spielberg",
-      "description": "Steven Spielberg, American filmmaker, was born in Cincinnati, Ohio. He went on to direct Jaws, E.T., Schindler's List, and Saving Private Ryan.",
-      "category": "Births/Arts",
-      "significance": "Spielberg helped define the modern blockbuster and became one of the most influential and commercially successful directors in film history, winning multiple Academy Awards."
+      "year": 1958,
+      "title": "Project SCORE Launches the First Communications Satellite",
+      "description": "The United States launched Project SCORE, the first satellite built to relay communications. It carried a recorded holiday message from the U.S. president.",
+      "category": "Science and Technology",
+      "significance": "It showed that satellites could relay voice messages across great distances. That paved the way for global satellite communications."
     }
   ]
 }

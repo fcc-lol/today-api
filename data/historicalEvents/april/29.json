@@ -2,39 +2,32 @@
   "date": "April 29",
   "events": [
     {
-      "year": 1945,
-      "title": "Liberation of Dachau Concentration Camp",
-      "description": "United States Seventh Army troops, including soldiers of the 45th Infantry Division and 42nd Infantry Division, liberated the Dachau concentration camp in Germany, finding thousands of survivors and many corpses in railway cars.",
-      "category": "War",
-      "significance": "The liberation exposed the horrors of the Nazi concentration camp system to the world and provided crucial evidence of the Holocaust."
-    },
-    {
-      "year": 1945,
-      "title": "Adolf Hitler Marries Eva Braun and Dictates His Will",
-      "description": "In the Führerbunker in Berlin, as Soviet forces closed in, Hitler married Eva Braun and dictated his last will and political testament. He died by suicide the following day.",
-      "category": "Politics",
-      "significance": "These events marked the final hours of the Nazi regime and the imminent end of World War II in Europe."
-    },
-    {
-      "year": 1992,
-      "title": "Los Angeles Riots Begin",
-      "description": "Riots erupted in Los Angeles after a jury acquitted four police officers of charges in the beating of Rodney King. Six days of unrest resulted in more than 60 deaths and about $1 billion in property damage.",
-      "category": "Social Unrest",
-      "significance": "The riots highlighted deep racial tensions, police brutality, and economic inequality in the United States and prompted national debate and reforms."
-    },
-    {
-      "year": 1980,
-      "title": "Death of Alfred Hitchcock",
-      "description": "Sir Alfred Hitchcock, the English film director known as the Master of Suspense, died in Los Angeles at age 80. His films included Psycho, Vertigo, North by Northwest, and Rear Window.",
-      "category": "Arts and Culture",
-      "significance": "Hitchcock revolutionized the thriller genre and film techniques, and his influence on cinema continues today."
+      "year": 1429,
+      "title": "Joan of Arc Arrives at Orléans",
+      "description": "Joan of Arc, a teenage peasant girl who said she was guided by divine visions, reached the besieged city of Orléans. She came at the head of a French relief force. Her arrival lifted the spirits of the defenders after months of English siege.",
+      "category": "Military",
+      "significance": "Her arrival began the campaign that broke the siege within days. It became a turning point in the Hundred Years' War and made Joan a national symbol of France."
     },
     {
       "year": 1770,
-      "title": "James Cook Lands at Botany Bay",
-      "description": "Captain James Cook and the crew of HMS Endeavour made their first landing on the eastern coast of Australia at a place he later named Botany Bay.",
+      "title": "Captain James Cook Lands at Botany Bay",
+      "description": "The British explorer James Cook brought HMS Endeavour into a wide bay on Australia's southeastern coast and went ashore. The bay was later named Botany Bay for the many new plant species gathered there by the expedition's naturalists.",
       "category": "Exploration",
-      "significance": "The landing led to British claims on eastern Australia and eventually to the colonization of the continent, profoundly affecting Indigenous Australians."
+      "significance": "The landing was the start of sustained British contact with Australia's east coast. It shaped the later colonization of the continent and the history of its Indigenous peoples."
+    },
+    {
+      "year": 1945,
+      "title": "Dachau Is Liberated",
+      "description": "Soldiers of the U.S. Seventh Army entered Dachau, the first Nazi concentration camp, near Munich. They found thousands of emaciated survivors and many dead. The discovery shocked the troops and the world.",
+      "category": "War",
+      "significance": "The liberation of Dachau became one of the defining moments in the world's reckoning with the Holocaust. It left lasting evidence of Nazi crimes."
+    },
+    {
+      "year": 1945,
+      "title": "Hitler Marries Eva Braun in the Führerbunker",
+      "description": "As Soviet forces closed in on Berlin, Adolf Hitler married his longtime partner Eva Braun in a brief ceremony in his underground bunker. He also named Admiral Karl Dönitz as his successor. The couple died by suicide the next day.",
+      "category": "War",
+      "significance": "The wedding and Hitler's succession arrangements came just before the collapse of Nazi Germany. Within days the war in Europe was effectively over."
     }
   ]
 }
