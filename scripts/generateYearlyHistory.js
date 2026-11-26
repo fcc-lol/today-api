@@ -393,7 +393,8 @@ async function resumeFromDate(startMonth, startDay, endMonth = 12, endDay = 31) 
     console.log(`Days processed: ${processedDays}/${totalDays - skippedDays}`);
 
     // A partial range would overwrite the summary with partial numbers
-    if (endMonth === 12 && endDay === 31) generateSummaryAndIndex(processedFiles, dataDir);
+    if (startMonth === 1 && startDay === 1 && endMonth === 12 && endDay === 31)
+      generateSummaryAndIndex(processedFiles, dataDir);
   } catch (error) {
     console.error("Fatal error during resume:", error);
     process.exit(1);
