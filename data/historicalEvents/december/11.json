@@ -2,39 +2,39 @@
   "date": "December 11",
   "events": [
     {
-      "year": 1936,
-      "title": "Edward VIII Abdicates the British Throne",
-      "description": "King Edward VIII signed the Instrument of Abdication, and the next day it was enacted by Parliament, after he chose to marry American divorcée Wallis Simpson. He announced his decision to the world in a radio broadcast on the evening of December 11. His brother Albert became King George VI.",
+      "year": 1282,
+      "title": "Llywelyn the Last Is Killed at Cilmeri",
+      "description": "Llywelyn ap Gruffudd, the last native Prince of Wales, was killed in an ambush near Builth Wells in mid-Wales while campaigning against the forces of England's Edward I.",
+      "category": "Death",
+      "significance": "His death ended Welsh independence. Edward I soon conquered Wales and brought it under English rule."
+    },
+    {
+      "year": 1792,
+      "title": "Louis XVI Goes on Trial",
+      "description": "The National Convention put King Louis XVI of France on trial for treason. The revolutionary government accused him of conspiring against the nation.",
       "category": "Politics",
-      "significance": "It was the only voluntary abdication of a British monarch, resolved a constitutional crisis, and placed George VI and later Elizabeth II on the throne."
+      "significance": "The trial led to the king's execution in January 1793. It ended the French monarchy and radicalized the Revolution."
     },
     {
-      "year": 1941,
-      "title": "Germany and Italy Declare War on the United States",
-      "description": "Four days after the attack on Pearl Harbor, Adolf Hitler and Benito Mussolini declared war on the United States. The U.S. Congress responded by formally declaring war on both Axis powers the same day.",
-      "category": "War",
-      "significance": "The declarations merged the European and Pacific conflicts into a single global war and brought the full industrial power of the United States into the fight against Nazi Germany."
+      "year": 1816,
+      "title": "Indiana Becomes the 16th U.S. State",
+      "description": "Indiana was admitted to the Union as the 16th state. It was carved out of the Northwest Territory.",
+      "category": "Milestone",
+      "significance": "Its admission marked the growth of the young United States into the Midwest."
     },
     {
-      "year": 1946,
-      "title": "UNICEF Established by the United Nations",
-      "description": "The UN General Assembly voted to create the United Nations International Children's Emergency Fund to provide food, clothing, and health care to children in countries devastated by World War II.",
-      "category": "Humanitarian",
-      "significance": "UNICEF became a permanent UN agency and grew into the world's largest organization devoted to children's welfare, operating in more than 190 countries."
-    },
-    {
-      "year": 1997,
-      "title": "Kyoto Protocol Adopted",
-      "description": "Delegates from more than 150 nations adopted the Kyoto Protocol in Kyoto, Japan, setting binding targets for industrialized countries to reduce greenhouse gas emissions.",
-      "category": "Environment",
-      "significance": "It was the first major international treaty to impose legally binding emissions reduction targets, laying the groundwork for later climate agreements such as the Paris Agreement."
-    },
-    {
-      "year": 1810,
-      "title": "Napoleon Annexes the Netherlands",
-      "description": "France formally annexed the Kingdom of Holland, along with other north German territories, into the French Empire by decree of Napoleon Bonaparte.",
+      "year": 1931,
+      "title": "Statute of Westminster Enacted",
+      "description": "The British Parliament passed the Statute of Westminster. It gave the self-governing dominions, including Canada, Australia, New Zealand, South Africa, the Irish Free State and Newfoundland, the option of full legislative independence.",
       "category": "Politics",
-      "significance": "The annexation marked the peak of French imperial expansion in Europe, and the empire began to unravel soon after with the failed invasion of Russia in 1812."
+      "significance": "It reshaped the British Empire into a Commonwealth of equal, self-governing nations."
+    },
+    {
+      "year": 1972,
+      "title": "Apollo 17 Lands on the Moon",
+      "description": "Apollo 17, the final crewed Moon landing mission, touched down on the lunar surface. Its crew included geologist Harrison Schmitt and used the Lunar Roving Vehicle to explore.",
+      "category": "Science and Exploration",
+      "significance": "It was the last time humans walked on the Moon, and no one has returned in the decades since."
     }
   ]
 }

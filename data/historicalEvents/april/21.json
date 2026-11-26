@@ -2,39 +2,39 @@
   "date": "April 21",
   "events": [
     {
-      "year": 753,
+      "year": -753,
       "title": "Traditional Founding of Rome",
-      "description": "According to tradition, Romulus founded the city of Rome on this date, an event later commemorated by the Romans with the festival of Parilia. The date was calculated by the Roman scholar Marcus Terentius Varro.",
-      "category": "Founding/Legend",
-      "significance": "Rome grew from a small settlement into the center of a vast empire whose law, language, engineering, and institutions shaped Western civilization. The date is still celebrated in Rome each year."
-    },
-    {
-      "year": 1509,
-      "title": "Henry VIII Becomes King of England",
-      "description": "Henry VIII acceded to the English throne upon the death of his father, Henry VII. He was just shy of 18 years old and soon married Catherine of Aragon.",
-      "category": "Politics/Monarchy",
-      "significance": "His reign led to the English Reformation, the break with the Roman Catholic Church, the establishment of the Church of England, and major changes in the English state and religion."
+      "description": "By long-standing Roman tradition, Romulus founded the city of Rome on this day. Romans celebrated the anniversary each year with a festival called the Parilia.",
+      "category": "Founding",
+      "significance": "Rome grew from a small settlement into a republic and then an empire. Its law, language, engineering and politics still shape the Western world."
     },
     {
       "year": 1836,
       "title": "Battle of San Jacinto",
-      "description": "Texian forces under Sam Houston defeated the Mexican army commanded by General Antonio López de Santa Anna in about 18 minutes near present-day Houston. Santa Anna was captured the following day.",
-      "category": "Military/War",
-      "significance": "The victory secured Texas independence from Mexico and led to the creation of the Republic of Texas, later contributing to its annexation by the United States and the Mexican-American War."
+      "description": "Texian forces under Sam Houston launched a surprise afternoon attack on General Antonio López de Santa Anna's Mexican army. The battle lasted about 18 minutes and ended in a decisive victory.",
+      "category": "Battle",
+      "significance": "The victory secured Texan independence from Mexico. It paved the way for Texas to join the United States and for the war that followed."
     },
     {
       "year": 1910,
-      "title": "Death of Mark Twain",
-      "description": "American author Samuel Langhorne Clemens, known as Mark Twain, died at his home in Redding, Connecticut, at age 74. He was the author of The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.",
-      "category": "Death/Literature",
-      "significance": "Twain is considered one of the greatest American writers, often called the father of American literature, and his works remain central to discussions of American society, humor, and race."
+      "title": "Mark Twain Dies",
+      "description": "Samuel Clemens, known worldwide as Mark Twain, died at his home in Redding, Connecticut, at age 74. He was the author of The Adventures of Tom Sawyer and Adventures of Huckleberry Finn.",
+      "category": "Death",
+      "significance": "Twain helped define a distinctly American literary voice through humor, satire and sharp social observation. Many critics regard Huckleberry Finn as a landmark of American fiction."
     },
     {
       "year": 1926,
       "title": "Birth of Queen Elizabeth II",
-      "description": "Princess Elizabeth Alexandra Mary was born in Mayfair, London. She became queen in 1952 following the death of her father, George VI.",
-      "category": "Birth/Monarchy",
-      "significance": "Elizabeth II became the longest-reigning British monarch, reigning for over 70 years, and presided over the transformation of the empire into the Commonwealth and decades of social change."
+      "description": "Princess Elizabeth of York was born in London. She became queen in 1952 and reigned for 70 years.",
+      "category": "Birth",
+      "significance": "She was the longest-reigning monarch in British history. Her reign spanned the end of empire, the growth of the Commonwealth and enormous social change."
+    },
+    {
+      "year": 1960,
+      "title": "Brasília Inaugurated",
+      "description": "Brazil officially opened its new capital, Brasília, a planned city built in the interior in just a few years. Architect Oscar Niemeyer and urban planner Lúcio Costa designed it.",
+      "category": "Milestone",
+      "significance": "The city became a bold symbol of modernist design and national ambition. It is now a UNESCO World Heritage Site."
     }
   ]
 }

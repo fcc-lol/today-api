@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1775,
-      "title": "Battles of Lexington and Concord",
-      "description": "British troops marched to seize colonial military supplies in Concord, Massachusetts, and clashed with colonial militia at Lexington and Concord. The first shots of the American Revolutionary War were fired, famously called the 'shot heard round the world.'",
-      "category": "Military",
-      "significance": "Marked the outbreak of armed conflict in the American Revolutionary War, leading to American independence and the founding of the United States."
+      "title": "The American Revolutionary War Begins",
+      "description": "British troops and colonial militia clashed at Lexington and Concord in Massachusetts. The exchanges of gunfire became known as the 'shot heard round the world'.",
+      "category": "War",
+      "significance": "These battles turned growing colonial tension into open armed conflict. They set the colonies on the road to independence and the founding of the United States."
+    },
+    {
+      "year": 1882,
+      "title": "Charles Darwin Dies",
+      "description": "The British naturalist died at age 73. He is buried in Westminster Abbey.",
+      "category": "Death",
+      "significance": "Darwin's theory of evolution by natural selection transformed biology and changed how humanity understands its place in the natural world."
     },
     {
       "year": 1943,
       "title": "Warsaw Ghetto Uprising Begins",
-      "description": "Jewish insurgents in the Warsaw Ghetto launched an armed revolt when German forces entered to deport the remaining residents to extermination camps. Poorly armed fighters resisted for nearly a month until the ghetto was crushed in May.",
-      "category": "Military",
-      "significance": "It was the largest single revolt by Jews during World War II and became a lasting symbol of resistance against Nazi persecution and the Holocaust."
+      "description": "When Nazi troops entered the Warsaw Ghetto to deport its remaining Jewish residents, those inside rose up in armed resistance. It was the first mass uprising against German occupation in Poland.",
+      "category": "War",
+      "significance": "Though vastly outgunned, the fighters held out for weeks. The uprising became a lasting symbol of courage and resistance in the face of the Holocaust."
+    },
+    {
+      "year": 1971,
+      "title": "Salyut 1, the First Space Station, Launches",
+      "description": "The Soviet Union launched Salyut 1, the world's first space station, into Earth orbit.",
+      "category": "Science & Space",
+      "significance": "It opened the era of long-duration human spaceflight. It paved the way for later orbital outposts such as Mir and the International Space Station."
     },
     {
       "year": 1995,
       "title": "Oklahoma City Bombing",
-      "description": "Timothy McVeigh detonated a truck bomb outside the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people, including 19 children, and injuring hundreds more.",
-      "category": "Terrorism",
-      "significance": "It was the deadliest domestic terrorist attack in U.S. history, prompting major changes in federal building security and counterterrorism legislation."
-    },
-    {
-      "year": 1882,
-      "title": "Death of Charles Darwin",
-      "description": "English naturalist Charles Darwin died at Down House in Kent at age 73. He was honored with a state funeral and buried in Westminster Abbey near Isaac Newton.",
-      "category": "Science",
-      "significance": "Darwin's theory of evolution by natural selection, set out in On the Origin of Species, fundamentally transformed biology and our understanding of life."
-    },
-    {
-      "year": 1971,
-      "title": "Launch of Salyut 1",
-      "description": "The Soviet Union launched Salyut 1, the world's first space station, into low Earth orbit. It later hosted the crew of Soyuz 11, who tragically died during reentry in June 1971.",
-      "category": "Space Exploration",
-      "significance": "Salyut 1 began the era of long-duration human spaceflight and paved the way for later stations such as Mir and the International Space Station."
+      "description": "A truck bomb exploded outside the Alfred P. Murrah Federal Building in Oklahoma City and killed 168 people. Timothy McVeigh, the mastermind of the attack, was later executed.",
+      "category": "Disaster & Terrorism",
+      "significance": "It remains the deadliest act of domestic terrorism in U.S. history. It led to major changes in American security policy and federal building protection."
     }
   ]
 }
