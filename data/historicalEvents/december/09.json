@@ -2,39 +2,32 @@
   "date": "December 9",
   "events": [
     {
+      "year": 1531,
+      "title": "The Virgin of Guadalupe Appears to Juan Diego",
+      "description": "According to tradition, the Virgin Mary first appeared to the indigenous Mexican convert Juan Diego on Tepeyac Hill, near present-day Mexico City.",
+      "category": "Religion",
+      "significance": "The apparition is the origin of the devotion to Our Lady of Guadalupe. She is now one of the most venerated religious figures in Latin America and a lasting symbol of Mexican identity."
+    },
+    {
       "year": 1824,
       "title": "Battle of Ayacucho",
-      "description": "Forces led by Antonio José de Sucre defeated the Spanish royalist army at Ayacucho in the Andes of Peru, the last major battle of the South American wars of independence.",
+      "description": "Patriot forces led by Antonio José de Sucre defeated the Spanish royalist army in the highlands of Peru.",
       "category": "Military",
-      "significance": "The victory effectively ended Spanish colonial rule in South America and secured the independence of Peru and the surrounding region."
+      "significance": "The victory effectively ended Spanish colonial rule in South America and secured the independence of Peru."
     },
     {
-      "year": 1868,
-      "title": "First Traffic Signal Installed in London",
-      "description": "A gas-lit traffic signal designed by railway engineer John Peake Knight was installed outside the Houses of Parliament in Westminster to control horse-drawn carriage traffic.",
+      "year": 1968,
+      "title": "The Mother of All Demos",
+      "description": "At a computer conference in San Francisco, engineer Douglas Engelbart gave a public demonstration of the computer mouse, hypertext and a graphical user interface. He also showed video conferencing and collaborative editing.",
       "category": "Technology",
-      "significance": "It was one of the first traffic signals in the world and a forerunner of modern traffic control systems, though it was removed after a gas explosion injured a police officer in 1869."
-    },
-    {
-      "year": 1960,
-      "title": "First Episode of Coronation Street Airs",
-      "description": "The British soap opera Coronation Street, set in the fictional Weatherfield, made its debut on ITV in the UK.",
-      "category": "Culture",
-      "significance": "It became the longest-running television soap opera in the world and a major influence on British popular culture and TV drama."
-    },
-    {
-      "year": 1948,
-      "title": "UN Adopts the Genocide Convention",
-      "description": "The United Nations General Assembly approved the Convention on the Prevention and Punishment of the Crime of Genocide, defining genocide as an international crime.",
-      "category": "Politics",
-      "significance": "It established genocide as a crime under international law and laid the legal foundation for later international tribunals and prosecutions."
+      "significance": "The demo previewed much of modern personal computing decades before it became everyday technology."
     },
     {
       "year": 1979,
-      "title": "Smallpox Eradication Certified",
-      "description": "A global commission of scientists certified that smallpox had been eradicated worldwide, and the World Health Assembly formally declared it in 1980.",
-      "category": "Science",
-      "significance": "Smallpox remains the only human infectious disease to be completely eradicated, a landmark achievement in public health and vaccination."
+      "title": "Smallpox Eradication Is Certified",
+      "description": "A global commission of scientists certified that smallpox had been eradicated worldwide, after a long international vaccination campaign.",
+      "category": "Science and Medicine",
+      "significance": "Smallpox became the first human disease to be wiped out. It remains a landmark of global public health cooperation."
     }
   ]
 }

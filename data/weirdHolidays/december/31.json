@@ -2,44 +2,28 @@
   "date": "December 31",
   "holidays": [
     {
-      "name": "No Interruptions Day",
-      "description": "A day dedicated to not interrupting anyone, letting people finish their sentences, and getting through the final day of the year without being cut off or pestered. Listen fully, speak patiently, and let others complete their thoughts.",
-      "origin": "Created by Thomas and Ruth Roy of Wellesley, Massachusetts, who started the unofficial observance in 1991 as a way to promote more focused conversations and uninterrupted work.",
-      "category": "Unofficial Observance",
-      "emoji": "🤐",
-      "funFact": "The day is meant to fall during the sleepy gap between Christmas and New Year, when you can supposedly finish a project, though many people use it to finally finish a long story at the party."
-    },
-    {
       "name": "Make Up Your Mind Day",
-      "description": "A day to stop dithering and finally decide on those lingering choices before the year ends, from big life moves to what to order for dinner. Indecision is officially on notice.",
-      "origin": "A quirky unofficial holiday that appears in many holiday calendars, positioned on the last day of the year so you can enter the new year with decisions made.",
-      "category": "Self-Improvement Observance",
+      "description": "This is the last day of the year to settle all those dilemmas you've been putting off. Pick a New Year's resolution, choose a restaurant, or finally decide what to do about that half-finished project. Anything you can decide today won't follow you into next year.",
+      "origin": "This is an unofficial observance of unclear origin. It fits the final day of the year, when people tend to take stock and tie up loose ends.",
+      "category": "Quirky Observance",
       "emoji": "🤔",
-      "funFact": "Psychologists call the stress of too many options decision fatigue, and research suggests people make worse choices the more decisions they have to make in a single day."
+      "funFact": "Many people never keep their resolutions, so deciding on one today may be the easy part."
     },
     {
-      "name": "Universal Hour of Peace",
-      "description": "A global moment of reflection in which people are invited to pause at the end of the year and send positive thoughts of peace around the world, often at noon or at midnight in their local time zone.",
-      "origin": "Rooted in the 1960s peace movements and tied to World Peace Day ideas, with calls for a shared hour of silence or meditation on New Year's Eve.",
-      "category": "Awareness Day",
-      "emoji": "☮️",
-      "funFact": "Because of time zones, the peace observance rolls around the planet like a wave, starting in the Pacific and finishing about 26 hours later."
-    },
-    {
-      "name": "Bodhi Day Eve and Hogmanay",
-      "description": "Hogmanay is Scotland's raucous New Year celebration, featuring fireball swinging, torchlit processions, and first-footing, where the first guest of the new year brings gifts like coal, whisky, and shortbread.",
-      "origin": "Hogmanay dates back centuries in Scotland, possibly with Viking and Norse winter solstice roots, and was boosted when Christmas was suppressed in Scotland after the Reformation.",
-      "category": "Cultural Festival",
-      "emoji": "🔥",
-      "funFact": "In Stonehaven, Scotland, locals swing giant balls of flaming material around their heads on metal cables through the streets, then fling the leftovers into the harbor."
-    },
-    {
-      "name": "Champagne Day (New Year's Eve Bubbly Tradition)",
-      "description": "A fizzy celebration of popping corks and sparkling toasts, honoring the drink that defines the countdown to midnight in countless countries.",
-      "origin": "Sparkling wine became a New Year's custom in 18th-century European courts, and its association with celebration grew as production expanded in France's Champagne region.",
-      "category": "Food and Drink Day",
+      "name": "National Champagne Day",
+      "description": "Pop the cork. Today is for raising a glass of bubbly to send the old year off in style. It lands on the biggest toasting night of the year.",
+      "origin": "This is an unofficial observance of unclear origin. It pairs naturally with New Year's Eve, when sparkling wine is the traditional drink for a midnight toast.",
+      "category": "Food & Drink",
       "emoji": "🍾",
-      "funFact": "A champagne cork can travel at around 25 miles per hour when popped, which is why experts recommend holding it down and twisting the bottle instead."
+      "funFact": "True Champagne can only come from the Champagne region of France. Everything else sparkling is technically just sparkling wine."
+    },
+    {
+      "name": "Hogmanay",
+      "description": "This is Scotland's rowdy, days-long New Year's celebration. It includes street parties, fireworks, and singing \"Auld Lang Syne\" with crossed arms. Tradition also calls for \"first-footing.\" The first person to cross your threshold after midnight should bring gifts such as coal, shortbread, or whisky, and a tall dark-haired visitor is considered the luckiest.",
+      "origin": "Hogmanay has roots in Norse winter solstice festivities and older Scottish customs. It became the main midwinter celebration in Scotland for centuries, partly because Christmas was downplayed there after the Reformation.",
+      "category": "Cultural Celebration",
+      "emoji": "🎆",
+      "funFact": "Edinburgh hosts one of the world's biggest Hogmanay street parties. Some Scots also swing fireballs through the streets in Stonehaven."
     }
   ]
 }

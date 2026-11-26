@@ -2,39 +2,39 @@
   "date": "August 12",
   "events": [
     {
-      "year": 1099,
-      "title": "Battle of Ascalon",
-      "description": "Crusader forces under Godfrey of Bouillon defeated a Fatimid army led by the vizier al-Afdal Shahanshah near Ascalon, shortly after the capture of Jerusalem.",
-      "category": "Military",
-      "significance": "The victory secured the Crusaders' hold on Jerusalem and the newly founded Kingdom of Jerusalem, though Ascalon itself remained in Fatimid hands for decades."
-    },
-    {
       "year": 1851,
       "title": "Isaac Singer Patents His Sewing Machine",
-      "description": "Isaac Merritt Singer received a US patent for his improved sewing machine, which featured a vertically moving presser foot and a motorized-friendly design.",
-      "category": "Technology",
-      "significance": "Singer's design and his innovative marketing and installment-payment plans helped bring sewing machines into homes and factories worldwide, transforming the garment industry."
+      "description": "American inventor Isaac Singer was granted a patent for his sewing machine design. It used a practical up-and-down needle and a foot treadle. Both features made home and factory sewing much faster.",
+      "category": "Invention",
+      "significance": "Singer's machine helped mechanize the clothing industry and became one of the first widely sold household appliances."
     },
     {
-      "year": 1865,
-      "title": "Joseph Lister Performs First Antiseptic Surgery",
-      "description": "British surgeon Joseph Lister used carbolic acid to disinfect a wound and surgical dressings while treating a compound fracture in a young patient at Glasgow Royal Infirmary.",
-      "category": "Science and Medicine",
-      "significance": "This marked the beginning of antiseptic surgery, dramatically reducing post-operative infections and laying the groundwork for modern sterile surgical practice."
+      "year": 1877,
+      "title": "Asaph Hall Discovers Deimos",
+      "description": "American astronomer Asaph Hall discovered Deimos, the smaller of Mars's two moons. He found it at the U.S. Naval Observatory in Washington, D.C.",
+      "category": "Science",
+      "significance": "The discovery of Mars's moons deepened understanding of our neighboring planet, and the moons still draw scientific interest today."
     },
     {
-      "year": 1898,
-      "title": "Hawaii Formally Annexed by the United States",
-      "description": "In a ceremony at Iolani Palace in Honolulu, the Hawaiian flag was lowered and the American flag raised, formalizing the transfer of sovereignty following the Newlands Resolution.",
-      "category": "Politics",
-      "significance": "The annexation extended US territory into the Pacific, strengthened American strategic presence in the region, and led to Hawaii becoming a state in 1959."
+      "year": 1953,
+      "title": "Soviet Union Detonates Its First Hydrogen Bomb",
+      "description": "The Soviet Union tested its first hydrogen bomb, a thermonuclear device far more powerful than earlier atomic weapons. The test took place at the Semipalatinsk site in Kazakhstan.",
+      "category": "Cold War",
+      "significance": "The test intensified the Cold War arms race and showed that both superpowers now held thermonuclear weapons."
     },
     {
       "year": 1981,
-      "title": "IBM Introduces the IBM Personal Computer",
-      "description": "IBM unveiled the IBM PC (Model 5150) at a press event in New York City, featuring an Intel 8088 processor and Microsoft's PC-DOS operating system.",
+      "title": "The IBM Personal Computer Goes on Sale",
+      "description": "The IBM PC, also known as the IBM 5150, reached stores for the first time. It had no disk drives as standard and sold for about $1,500.",
       "category": "Technology",
-      "significance": "Its open architecture established the standard for personal computers, fueled the growth of the software and clone industries, and accelerated the spread of computing in business and homes."
+      "significance": "IBM's entry into the market helped set the standard for personal computers and brought them into offices and homes worldwide."
+    },
+    {
+      "year": 1990,
+      "title": "Sue the T. rex Is Discovered",
+      "description": "Fossil hunter Sue Hendrickson found the remains of a Tyrannosaurus rex in South Dakota. The skeleton, nicknamed Sue, is one of the largest and most complete ever found.",
+      "category": "Science",
+      "significance": "Sue became a landmark find in paleontology and a star attraction at Chicago's Field Museum."
     }
   ]
 }

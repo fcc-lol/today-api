@@ -2,61 +2,45 @@
   "date": "August 29",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with a large, coarse stem topped by a showy flower head of golden ray florets surrounding a dark disk of tiny fertile florets. Young flower heads track the sun across the sky. It is widely grown for seed, oil, and ornament, and also grows wild in prairies and roadsides.",
-      "bloomingSeason": "Mid-summer to early autumn (July to September) in the Northern Hemisphere",
-      "location": "North America native; cultivated across Europe, Ukraine, Russia, and temperate regions worldwide",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "A sunflower head is not a single flower but a composite of up to 2,000 tiny florets arranged in a Fibonacci spiral pattern."
-    },
-    {
-      "name": "Calluna vulgaris",
-      "commonName": "Heather (Scotch Heather)",
-      "description": "A low, evergreen shrub with tiny scale-like leaves and spikes of small bell-shaped flowers that carpet moorlands and heathlands in purple. It thrives in acidic, nutrient-poor soils and is a vital nectar source for bees in late summer.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Scotland, Northern England, Ireland, Scandinavia, and heathlands across Europe and parts of Asia",
-      "colors": [
-        "purple",
-        "pink",
-        "lavender",
-        "white"
-      ],
-      "emoji": "💜",
-      "funFact": "Heather honey is prized for its jelly-like thixotropic texture, which means it must be stirred or pressed to extract rather than spun out."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower forming dense colonies, with arching plumes of tiny golden flower heads atop leafy stems. It is a late-season magnet for butterflies, native bees, and other pollinators, and thrives in meadows, fields, and roadsides.",
-      "bloomingSeason": "Late summer to autumn (July to October)",
-      "location": "Eastern and central North America; naturalized in Europe and Asia",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often wrongly blamed for hay fever; the real culprit is usually ragweed, whose wind-borne pollen blooms at the same time."
-    },
-    {
       "name": "Protea cynaroides",
       "commonName": "King Protea",
-      "description": "A woody shrub bearing the largest flower head in the Protea genus, with a dense center of flowers surrounded by showy, pointed bracts that resemble petals. It is adapted to nutrient-poor, fire-prone fynbos habitats and is a popular cut flower.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (August to November), with some blooming earlier in late winter",
-      "location": "Western and Southern Cape of South Africa; national flower of South Africa",
+      "description": "A showpiece of the Cape. Each bloom is a dinner-plate-sized crown of stiff, silky-tipped bracts that fan out like a pink artichoke. Nectar-seeking sunbirds and beetles crowd around it in the cool, misty winter air of the fynbos.",
+      "bloomingSeason": "Mainly winter into spring (June to October), so late August is well within the flowering period",
+      "location": "Western Cape fynbos, South Africa (such as the slopes around Cape Town)",
       "colors": [
-        "pink",
-        "cream",
-        "red",
-        "silver"
+        "Pink",
+        "Rose",
+        "Cream",
+        "Silvery white"
       ],
-      "emoji": "🌸",
-      "funFact": "Proteas are an ancient plant family that predates the breakup of Gondwana, with fossils dating back around 300 million years."
+      "emoji": "🌺",
+      "funFact": "The king protea is South Africa's national flower. Its family is so ancient that it dates back to when the southern continents were joined in Gondwana."
+    },
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Tall, sun-chasing stalks carry huge golden faces ringed with bright petals and centered on dark, seed-packed discs. In late summer whole fields glow yellow and hum with bees.",
+      "bloomingSeason": "Peak bloom runs from mid-July to late August in temperate Europe and North America, with some fields lasting into September",
+      "location": "Temperate Northern Hemisphere farmland and gardens, including Europe and the United States",
+      "colors": [
+        "Golden yellow",
+        "Orange",
+        "Deep brown"
+      ],
+      "emoji": "🌻",
+      "funFact": "A sunflower head is not one flower. It is hundreds of tiny florets packed in a spiral pattern that follows the Fibonacci sequence."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "In the Australian late winter, this small tree is covered in fluffy, honey-scented golden pom-poms. They light up the bush and roadsides against grey-green foliage.",
+      "bloomingSeason": "Late winter to spring (roughly August to October), so it is in flower around August 29",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem. Australians celebrate National Wattle Day on September 1, just after this date."
     }
   ]
 }
