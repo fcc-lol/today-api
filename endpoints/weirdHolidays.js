@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { getToday } from "../lib/today.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -46,9 +47,7 @@ const getWeirdHolidaysFromFile = (month, day) => {
 
 export const weirdHolidays = async (req, res) => {
   try {
-    const today = new Date();
-    const month = today.getMonth() + 1; // getMonth() returns 0-11
-    const day = today.getDate();
+    const { month, day } = getToday();
 
     const holidays = getWeirdHolidaysFromFile(month, day);
     res.json(holidays);
