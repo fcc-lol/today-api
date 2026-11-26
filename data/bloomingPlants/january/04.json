@@ -2,62 +2,46 @@
   "date": "January 4",
   "plants": [
     {
-      "name": "Camellia japonica",
-      "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like flowers. It thrives in mild, humid climates and is a popular ornamental in gardens and parks, with thousands of cultivars in many forms.",
-      "bloomingSeason": "Late autumn to early spring (peak in winter)",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Europe, and Australia",
+      "name": "Hamamelis mollis",
+      "commonName": "Chinese Witch Hazel",
+      "description": "Spidery, ribbon-like petals unfurl on bare winter branches. They give off a sweet, spicy fragrance that carries across a frosty garden. The petals curl up in hard freezes and relax again when it warms.",
+      "bloomingSeason": "Midwinter, typically December through February",
+      "location": "Temperate gardens of Europe and North America, native to central China",
       "colors": [
-        "Red",
-        "Pink",
-        "White",
-        "Variegated"
+        "Golden yellow",
+        "Amber"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia japonica is closely related to Camellia sinensis, the plant used to make tea, and its seeds are pressed to produce camellia oil used in cooking and cosmetics."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Royal Poinciana (Flamboyant Tree)",
-      "description": "A spreading tree with fern-like leaves and a broad umbrella-shaped canopy that becomes covered in clusters of vivid blossoms. It blooms in the Southern Hemisphere summer, when it is a spectacular sight in warm regions.",
-      "bloomingSeason": "Southern Hemisphere summer (December to February); spring to summer in the tropics of the north",
-      "location": "Native to Madagascar; cultivated in tropical and subtropical regions including Australia, South Africa, and Brazil",
-      "colors": [
-        "Scarlet",
-        "Orange-red"
-      ],
-      "emoji": "🌳",
-      "funFact": "Despite its abundance around the world, the royal poinciana is endangered in its native Madagascar because of habitat loss."
+      "emoji": "🌼",
+      "funFact": "Witch hazel seeds are shot out of their woody capsules with a pop. They can travel several meters from the parent shrub."
     },
     {
       "name": "Helleborus niger",
       "commonName": "Christmas Rose",
-      "description": "A low-growing evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It flowers in the cold of winter, often pushing through snow in woodlands and gardens.",
-      "bloomingSeason": "Winter (December to March)",
-      "location": "Native to the mountains of central and southern Europe; grown in temperate gardens in Europe and North America",
+      "description": "Nodding white cup-shaped flowers with golden stamens rise from dark, leathery evergreen leaves. They often open through snow and are a cheerful sight in the depths of winter. As they age, the petals blush soft pink.",
+      "bloomingSeason": "Early winter to early spring, often peaking from December to February",
+      "location": "Woodlands and gardens across Europe, native to the mountains of central and southern Europe",
       "colors": [
         "White",
         "Pale pink",
-        "Green-tinged"
+        "Gold"
       ],
-      "emoji": "🤍",
-      "funFact": "Although it is called a rose, it is actually a member of the buttercup family and all parts of the plant are poisonous."
+      "emoji": "❄️",
+      "funFact": "What look like petals are really sepals. They stay on the plant for weeks, which is why the blooms last so long in the cold."
     },
     {
-      "name": "Hippeastrum hybrids",
-      "commonName": "Amaryllis",
-      "description": "A bulbous perennial producing tall, sturdy stalks topped with several giant trumpet-shaped flowers. Outdoors it blooms in the Southern Hemisphere summer, and in the north it is widely forced indoors for winter display.",
-      "bloomingSeason": "Southern Hemisphere summer; indoors in Northern Hemisphere winter",
-      "location": "Native to South America (Andes and Brazil); cultivated worldwide as a houseplant and garden bulb",
+      "name": "Eucalyptus ficifolia",
+      "commonName": "Red Flowering Gum",
+      "description": "In the southern summer, this tree is covered in dense, fluffy clusters of blossom. The blooms are made of masses of stamens, and they draw in nectar-feeding birds and bees.",
+      "bloomingSeason": "Southern summer, roughly December to March",
+      "location": "Southwestern Western Australia, widely planted in Australian streets and gardens",
       "colors": [
         "Red",
-        "White",
-        "Pink",
         "Orange",
-        "Striped"
+        "Pink",
+        "White"
       ],
-      "emoji": "🌷",
-      "funFact": "A single amaryllis bulb can send up flower stalks that grow several centimeters in a single day, and it can rebloom for many years with proper care."
+      "emoji": "🌺",
+      "funFact": "It has one of the smallest natural ranges of any eucalyptus, in a small patch of Western Australia. Even so, it is planted in warm regions around the world."
     }
   ]
 }

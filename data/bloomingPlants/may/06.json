@@ -2,11 +2,39 @@
   "date": "May 6",
   "plants": [
     {
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant chains of pea-like flowers hang from trained vines. In Japan's wisteria gardens they form glowing tunnels and domes of violet and lavender, and the petals drift down like soft confetti.",
+      "bloomingSeason": "Late April to early May, with peak bloom in many Japanese gardens around the start of May",
+      "location": "Japan, including the Kawachi Fujien garden in Kitakyushu and Tokyo shrine gardens",
+      "colors": [
+        "violet",
+        "lavender",
+        "white"
+      ],
+      "emoji": "🌸",
+      "funFact": "Japanese wisteria twines clockwise, while Chinese wisteria twines counterclockwise. Old vines can live for centuries and grow strong enough to crush the trellises that support them."
+    },
+    {
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron (Laligurans)",
+      "description": "Himalayan hillsides blaze with clusters of bell-shaped crimson, pink and white blooms on gnarled evergreen trees. Mist-wrapped forests turn into a patchwork of color, and the blooms continue at higher elevations when lower slopes have finished.",
+      "bloomingSeason": "Late February to April at lower elevations, extending into early May at higher elevations",
+      "location": "Himalayan forests of Nepal, Sikkim and North Bengal",
+      "colors": [
+        "crimson red",
+        "pink",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "It is the national flower of Nepal. Its petals are used in local cooking, and its blooms are a familiar sight in the mountain forests."
+    },
+    {
       "name": "Tulipa gesneriana",
       "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above blue-green strap-like leaves. Late-season varieties are at peak bloom in early May across cool temperate gardens and commercial fields.",
-      "bloomingSeason": "Mid-spring (April to early May in the Northern Hemisphere)",
-      "location": "Netherlands, Northern Europe, northeastern United States, and temperate gardens worldwide; native to Central Asia",
+      "description": "Cup-shaped blooms in nearly every color stand in neat rows across the flat Dutch countryside. Because bulbs are planted in layers, the display at the Keukenhof gardens continues through the season's final weeks.",
+      "bloomingSeason": "Mid-March to mid-May, with Keukenhof's display running into the second week of May",
+      "location": "The Netherlands, including the Keukenhof gardens and the Bollenstreek flower-bulb region",
       "colors": [
         "red",
         "yellow",
@@ -16,50 +44,7 @@
         "orange"
       ],
       "emoji": "🌷",
-      "funFact": "During the Dutch 'Tulip Mania' of the 1630s, single bulbs sold for more than the price of a luxurious canal house."
-    },
-    {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub producing dense, fragrant conical clusters of tiny four-lobed flowers. It reaches peak bloom in many northern temperate regions in early to mid May.",
-      "bloomingSeason": "Late spring (May in the Northern Hemisphere)",
-      "location": "Northern United States, Canada, Europe, and northern Asia; native to the Balkan Peninsula",
-      "colors": [
-        "lilac",
-        "purple",
-        "white",
-        "pink"
-      ],
-      "emoji": "💜",
-      "funFact": "Lilac is in the olive family (Oleaceae), making it a relative of olive trees and jasmine."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces long, pendulous racemes of fragrant pea-like flowers, often before or as the leaves emerge. Blooms are still spectacular in early May in many regions.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "Native to China; widely grown in Japan, Europe, and the southeastern and northeastern United States",
-      "colors": [
-        "violet",
-        "blue-purple",
-        "lavender"
-      ],
-      "emoji": "🪻",
-      "funFact": "Wisteria vines can live for over a century, and some specimens in Japan are famous for flower trellises covering over 1,000 square meters."
-    },
-    {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A large evergreen shrub of the fynbos with enormous, bowl-shaped flower heads surrounded by showy bracts. In the Southern Hemisphere autumn, it begins to bloom in some areas, with peak season later in autumn and winter.",
-      "bloomingSeason": "Autumn to spring in South Africa (flowering can begin around May)",
-      "location": "Fynbos regions of the Western and Eastern Cape, South Africa",
-      "colors": [
-        "pink",
-        "cream",
-        "red"
-      ],
-      "emoji": "🌺",
-      "funFact": "The King Protea is South Africa's national flower, and the genus is named after the Greek god Proteus for its remarkable variety of forms."
+      "funFact": "Tulips are native to the mountains of Central Asia. In the 1600s they became so valuable in Holland that single bulbs sold for the price of a fine house."
     }
   ]
 }

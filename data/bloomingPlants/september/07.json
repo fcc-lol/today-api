@@ -2,57 +2,40 @@
   "date": "September 7",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of golden ray petals around a dark central disc. Young flower heads track the sun across the sky, and mature heads produce edible seeds. It is widely cultivated for oil, seeds, and ornamental use.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "North America, Europe, and temperate regions worldwide; native to the Americas",
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Southern Australia's bush and gardens glow with fluffy, honey-scented golden pom-poms. They cover the branches in such dense clusters that whole hillsides look as if they have been dusted with sunshine.",
+      "bloomingSeason": "Late winter to early spring (peaking August to September)",
+      "location": "Southeastern Australia, including Victoria, New South Wales, South Australia and the ACT",
       "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
+        "Golden yellow"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflowers follow the sun in a behavior called heliotropism, but mature blooms stop moving and generally face east."
+      "emoji": "🌼",
+      "funFact": "Golden wattle is Australia's national floral emblem. Wattle Day is celebrated on 1 September, right at the start of its peak flowering."
+    },
+    {
+      "name": "Sternbergia lutea",
+      "commonName": "Yellow Autumn Crocus (Winter Daffodil)",
+      "description": "Glossy, goblet-shaped golden flowers push straight out of dry, sun-baked ground, with no leaves yet. They look like crocuses in butter-yellow, and they brighten olive groves and rocky hillsides just as the first autumn rains return.",
+      "bloomingSeason": "September to October",
+      "location": "Mediterranean Europe, Turkey and the Middle East through to Central Asia",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌷",
+      "funFact": "Despite its crocus-like look, it is a member of the amaryllis family. It is often called the 'harvester' because it blooms around grape-harvest time."
     },
     {
       "name": "Solidago canadensis",
       "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower that forms dense, arching plumes of tiny golden flowers atop tall stems. It thrives in meadows, roadsides, and open fields, and is an important late-season nectar source for bees, butterflies, and other pollinators.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Eastern and central North America; naturalized in Europe and Asia",
+      "description": "Tall, arching plumes of tiny golden flowers rise above meadows and roadsides. They hum with bees, butterflies and beetles, and mark the turn from summer to autumn across the landscape.",
+      "bloomingSeason": "July to September",
+      "location": "Eastern and central North America, including old fields, prairies and roadsides",
       "colors": [
-        "golden yellow"
+        "Golden yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but the real culprit is usually ragweed, which blooms at the same time and releases airborne pollen."
-    },
-    {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A bulbous perennial that sends up crocus-like flowers in autumn with no leaves present. The leaves appear the following spring and die back by early summer. It grows in damp meadows and is also popular in gardens.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Europe, from the British Isles to central Europe; cultivated worldwide",
-      "colors": [
-        "pale pink",
-        "lilac",
-        "purple"
-      ],
-      "emoji": "🌸",
-      "funFact": "It contains colchicine, a toxic compound that is also used in medicine to treat gout and in plant breeding to induce chromosome doubling."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "A small evergreen tree or large shrub covered in fluffy, fragrant golden pompom flowers in late winter to spring. Its blooming coincides with the arrival of spring in southern Australia, and it is Australia's national floral emblem.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (July to October)",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌿",
-      "funFact": "Australia celebrates National Wattle Day on September 1, marking the start of spring with this flower."
+      "emoji": "🌾",
+      "funFact": "Goldenrod is often wrongly blamed for hay fever. Its pollen is heavy and sticky and is carried by insects, while the real culprit is ragweed, which blooms at the same time."
     }
   ]
 }

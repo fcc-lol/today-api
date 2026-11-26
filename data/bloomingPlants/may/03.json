@@ -2,64 +2,46 @@
   "date": "May 3",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped blooms on sturdy stems above blue-green strap-like leaves. Late-season varieties are at their peak in early May across temperate gardens and the famous commercial fields of the Netherlands.",
-      "bloomingSeason": "Mid-spring to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, northern Europe, North America, and temperate gardens worldwide; native to Central Asia",
+      "name": "Wisteria floribunda",
+      "commonName": "Japanese Wisteria",
+      "description": "Long, fragrant chains of blossoms hang from twisting vines, forming glowing tunnels and curtains of colour. In full flower the display looks like a waterfall of violet, pink or white.",
+      "bloomingSeason": "Mid-April to mid-May, with the great wisterias and white varieties peaking from late April into early May",
+      "location": "Japan, famously at Ashikaga Flower Park in Tochigi Prefecture",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "In 17th-century Holland, tulip bulbs became so valuable during 'Tulip Mania' that a single rare bulb could cost more than a house."
-    },
-    {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub producing dense, conical clusters of intensely fragrant tiny flowers. It thrives in cold-winter climates and typically reaches peak bloom in early to mid May in northern temperate regions.",
-      "bloomingSeason": "Late spring (late April to May)",
-      "location": "Northeastern United States, southern Canada, Europe; native to the Balkan Peninsula",
-      "colors": [
-        "lilac",
-        "purple",
-        "white",
-        "pink"
-      ],
-      "emoji": "🪻",
-      "funFact": "Lilacs can live for over 100 years and often persist at abandoned homesteads long after the buildings are gone."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous twining woody vine that drapes pergolas, walls, and trees with long pendant racemes of fragrant pea-like flowers, often blooming before its leaves fully emerge.",
-      "bloomingSeason": "Spring (April to May)",
-      "location": "Native to China; cultivated in Japan, Europe, and the eastern and southern United States",
-      "colors": [
-        "lavender",
         "violet",
-        "blue-purple",
+        "lilac",
+        "pink",
         "white"
       ],
-      "emoji": "💜",
-      "funFact": "Wisteria vines twine counterclockwise, whereas the Japanese species Wisteria floribunda twines clockwise, and a single vine can live for well over a century."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines twine in a set direction. Japanese wisteria climbs clockwise, while its Chinese cousin spirals the other way."
     },
     {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tropical and subtropical tree covered in trumpet-shaped lavender-blue flowers with fern-like foliage. In the Southern Hemisphere it is finishing its autumn display, while in the Northern Hemisphere subtropics such as parts of Mexico, Florida, and southern Asia it is beginning to bloom.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere subtropics (May to June); spring in the Southern Hemisphere (October to November)",
-      "location": "Native to South America; planted in Mexico, southern California, Florida, India, and parts of Africa",
+      "name": "Rhododendron arboreum",
+      "commonName": "Tree Rhododendron (Lali Guras)",
+      "description": "Whole Himalayan hillsides blush crimson as this tall evergreen tree bursts into clusters of bell-shaped flowers. Trekkers walk through forests of red blooms beneath snow peaks.",
+      "bloomingSeason": "March to May, with higher elevations flowering later in the season",
+      "location": "Himalayan mountain forests of Nepal",
       "colors": [
-        "lavender",
-        "blue-violet"
+        "crimson",
+        "red",
+        "pink"
       ],
-      "emoji": "🌸",
-      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in Pretoria, South Africa, it is known as the 'Jacaranda City' for its thousands of trees."
+      "emoji": "🌺",
+      "funFact": "It is the national flower of Nepal, where the petals are eaten and used in juices and traditional remedies."
+    },
+    {
+      "name": "Banksia aemula",
+      "commonName": "Wallum Banksia",
+      "description": "Gnarled, sturdy trees carry chunky golden-yellow flower spikes that look like candles or bottle brushes. Nectar-feeding birds, bees and small mammals gather at them as the Australian autumn begins.",
+      "bloomingSeason": "Autumn (March to May) in the Southern Hemisphere",
+      "location": "Coastal sandy heathlands of eastern Australia, from New South Wales to Queensland",
+      "colors": [
+        "golden yellow",
+        "greenish-yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Each banksia spike is made up of hundreds of tiny individual flowers, and the woody cones that follow can be opened by fire to release their seeds."
     }
   ]
 }

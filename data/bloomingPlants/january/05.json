@@ -4,58 +4,43 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like blooms. Hundreds of cultivars exist, with single, semi-double, and fully double flower forms. It thrives in mild, humid climates with acidic soil and partial shade.",
-      "bloomingSeason": "Late autumn through early spring, peaking in winter",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, and Australia",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with layered, silky petals and golden centers. They bring bright color to the quiet days of midwinter.",
+      "bloomingSeason": "Late autumn through early spring, with a peak in winter in mild climates",
+      "location": "Southern Japan, the Pacific Northwest of the United States and the southeastern United States",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant that produces all true tea. Camellia japonica was celebrated in Japan for centuries as a symbol of the samurai because the whole flower drops intact."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Japanese gardeners have cultivated it for centuries, and thousands of cultivars now exist."
     },
     {
       "name": "Delosperma cooperi",
       "commonName": "Hardy Ice Plant",
-      "description": "A mat-forming succulent groundcover with daisy-like flowers that open in sunlight. In Southern Hemisphere summer it produces vivid blooms over fleshy, drought-tolerant foliage.",
-      "bloomingSeason": "Southern Hemisphere summer (December to March), with a long season",
-      "location": "Native to the Eastern Cape and Free State of South Africa; grown in rock gardens worldwide",
+      "description": "A sprawling, succulent groundcover whose daisy-like flowers shimmer in the summer sun. The petals are narrow and glistening, and they open in dazzling magenta carpets.",
+      "bloomingSeason": "Southern Hemisphere summer, roughly November to March",
+      "location": "Eastern South Africa, including the Drakensberg foothills and Eastern Cape",
       "colors": [
-        "magenta",
-        "purple",
-        "pink"
+        "Magenta",
+        "Purple",
+        "Pink"
       ],
       "emoji": "🌸",
-      "funFact": "The flower petals are actually modified, and the glistening look of the leaves comes from bladder-like cells that store water, giving the plant its 'ice plant' name."
+      "funFact": "The glistening look comes from tiny bladder-like cells on the leaves and petals that store water. They help the plant survive dry spells."
     },
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "A low-growing perennial with nodding, cup-shaped white flowers with golden stamens and leathery evergreen leaves. It blooms in the cold of winter, often pushing through snow in woodland gardens.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; cultivated in temperate gardens of Europe and North America",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A bold crimson flower head ringed with leafy bracts, standing tall on the shrub. Nectar-seeking birds are drawn to it across the bushland of southeastern Australia.",
+      "bloomingSeason": "Spring, around September to November, with the flowers mostly finished by January",
+      "location": "Sydney sandstone region, New South Wales, Australia",
       "colors": [
-        "white",
-        "pale pink"
+        "Crimson",
+        "Red"
       ],
-      "emoji": "❄️",
-      "funFact": "Despite the name, it is not a rose at all but a member of the buttercup family, and all parts of it are poisonous. Folklore says it first bloomed from the tears of a girl who had no gift for the Christ child."
-    },
-    {
-      "name": "Metrosideros excelsa",
-      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
-      "description": "A coastal evergreen tree covered in brilliant crimson, brush-like flowers made up of masses of long stamens. It often clings to sea cliffs and can form huge, spreading, gnarled canopies.",
-      "bloomingSeason": "Southern Hemisphere summer (late November to January)",
-      "location": "Native to the North Island coasts of New Zealand; planted in Australia, California, and South Africa",
-      "colors": [
-        "crimson",
-        "red",
-        "occasionally yellow"
-      ],
-      "emoji": "🌳",
-      "funFact": "Its flowering coincides with Christmas in New Zealand, and it is a cultural treasure (taonga) to the Māori. Some specimens are hundreds of years old."
+      "emoji": "🌹",
+      "funFact": "The waratah is the floral emblem of New South Wales. Each flower head is made up of hundreds of tiny individual flowers."
     }
   ]
 }

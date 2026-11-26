@@ -2,61 +2,47 @@
   "date": "January 6",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that often age to pink. It thrives in cool, shaded woodland conditions and is prized for flowering in the depths of winter, often pushing blooms up through snow.",
-      "bloomingSeason": "Early winter to early spring (December to March)",
-      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "🌸",
-      "funFact": "Despite its name it is not a rose at all but a member of the buttercup family, and all parts of the plant are toxic."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A glossy-leaved evergreen shrub or small tree producing large, rose-like blooms with bright yellow stamens. Many cultivars flower from midwinter, and it is a classic winter highlight in mild-climate gardens and in woodlands of its native range.",
-      "bloomingSeason": "Winter to early spring (December to April)",
-      "location": "Native to Japan, Korea and eastern China; cultivated in the southeastern United States, Mediterranean Europe, Australia and New Zealand",
+      "description": "In the cold of midwinter, glossy evergreen shrubs open rose-like blooms with a boss of golden stamens at the center. The flowers stand out against dark, leathery leaves in woodlands and temple gardens, and they are among the most welcome sights of the season.",
+      "bloomingSeason": "Wild plants flower from January to March, so early January is the start of the season.",
+      "location": "Japan, in coastal woodlands and gardens across the warmer parts of the country",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Tea is made from a close relative, Camellia sinensis, and camellia seed oil has been used in Japan for centuries as a hair and skin treatment."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. In Japan the camellia has long been linked with winter and with the arrival of the new year."
     },
     {
-      "name": "Delosperma cooperi",
-      "commonName": "Hardy Ice Plant",
-      "description": "A mat-forming succulent with fleshy leaves covered in glistening, bladder-like cells and masses of daisy-like magenta flowers. In the Southern Hemisphere summer, it carpets rocky slopes and open ground with vivid color.",
-      "bloomingSeason": "Southern Hemisphere summer (December to March); summer in northern gardens",
-      "location": "Native to the Eastern Cape and highland regions of South Africa; grown in rock gardens worldwide",
+      "name": "Galanthus nivalis",
+      "commonName": "Common Snowdrop",
+      "description": "Small, nodding white flowers push up through frosty soil, each with three outer petals and a green-marked inner cup. They form drifts in woodlands, churchyards and old gardens. For many people they are the first sign that spring is on its way.",
+      "bloomingSeason": "Starts blooming in January and continues through March",
+      "location": "Woodlands, churchyards and gardens across the United Kingdom and Europe",
       "colors": [
-        "magenta",
-        "purple",
-        "pink"
+        "White",
+        "Green"
       ],
-      "emoji": "🌼",
-      "funFact": "The shimmering cells on the leaves store water, helping the plant survive drought, and the flowers open fully only in bright sunshine."
+      "emoji": "🤍",
+      "funFact": "Snowdrops make a natural antifreeze-like compound that helps them push through frozen ground. They also contain galantamine, a compound that has been developed into a medicine used for Alzheimer's disease."
     },
     {
-      "name": "Metrosideros excelsa",
-      "commonName": "Pōhutukawa",
-      "description": "A spreading coastal evergreen tree with gray-green leaves, covered in brilliant crimson flowers with fluffy stamens. It clings to cliffs and rocky shorelines and puts on its dramatic display in the height of the New Zealand summer.",
-      "bloomingSeason": "Southern Hemisphere summer (late November to January)",
-      "location": "Native to the coasts of New Zealand's North Island; planted in Australia, California and South Africa",
+      "name": "Hippeastrum hybrids",
+      "commonName": "Amaryllis",
+      "description": "Tall, sturdy stems carry huge trumpet-shaped blooms, often four or more on one stem. They bring bold color to winter windowsills. The flowers open a few weeks after the bulb is planted, which is why they are a favorite for brightening the darkest months.",
+      "bloomingSeason": "Late fall through mid-winter, roughly November to February",
+      "location": "Indoors in homes and conservatories across the Northern Hemisphere, descended from South American species",
       "colors": [
-        "crimson red",
-        "orange",
-        "yellow"
+        "Red",
+        "White",
+        "Pink",
+        "Orange",
+        "Striped"
       ],
-      "emoji": "🌳",
-      "funFact": "It is called the New Zealand Christmas tree because it flowers around December, and it is a favorite food source of nectar-feeding birds such as the tūī."
+      "emoji": "❤️",
+      "funFact": "Amaryllis bulbs hold enough stored energy to bloom with no soil at all. A bulb set on a bed of pebbles over water can flower, and the stem can grow several inches in a single day."
     }
   ]
 }

@@ -2,39 +2,32 @@
   "date": "May 5",
   "events": [
     {
-      "year": 1821,
-      "title": "Death of Napoleon Bonaparte",
-      "description": "Napoleon Bonaparte, former Emperor of the French, died in exile on the remote island of Saint Helena in the South Atlantic, at the age of 51, after years of declining health.",
-      "category": "Death",
-      "significance": "The death of Napoleon closed the chapter on one of history's most influential military and political figures, whose legal reforms (the Napoleonic Code) and conquests reshaped Europe."
+      "year": 1818,
+      "title": "Karl Marx is born in Trier",
+      "description": "The philosopher and economist was born in Trier, in the Kingdom of Prussia. He grew up to co-author The Communist Manifesto with Friedrich Engels and to write Das Kapital.",
+      "category": "Birth",
+      "significance": "His ideas about class, labor and capitalism shaped political movements, revolutions and the social sciences throughout the 19th and 20th centuries."
     },
     {
-      "year": 1818,
-      "title": "Birth of Karl Marx",
-      "description": "Karl Marx was born in Trier, in the Kingdom of Prussia. He became a philosopher, economist, and revolutionary socialist who co-authored The Communist Manifesto with Friedrich Engels and wrote Das Kapital.",
-      "category": "Birth",
-      "significance": "Marx's theories on capitalism, class struggle, and historical materialism profoundly influenced political movements, economics, and social sciences throughout the 19th and 20th centuries."
+      "year": 1821,
+      "title": "Napoleon Bonaparte dies on Saint Helena",
+      "description": "The former French emperor died in exile on the remote South Atlantic island of Saint Helena. He had been held there by the British after his defeat at Waterloo in 1815.",
+      "category": "Death",
+      "significance": "His death closed the Napoleonic era. His legal reforms, military legacy and myth continued to influence Europe long afterward."
+    },
+    {
+      "year": 1862,
+      "title": "Mexican forces win the Battle of Puebla",
+      "description": "A smaller Mexican army under General Ignacio Zaragoza defeated French troops near the city of Puebla. The French army was considered among the best in the world at the time.",
+      "category": "Military",
+      "significance": "The victory became a lasting symbol of Mexican resistance and national pride. It is the origin of the Cinco de Mayo commemorations."
     },
     {
       "year": 1961,
-      "title": "Alan Shepard Becomes First American in Space",
-      "description": "Astronaut Alan Shepard piloted the Freedom 7 capsule on a suborbital flight of about 15 minutes, launched from Cape Canaveral, Florida, as part of Project Mercury.",
+      "title": "Alan Shepard becomes the first American in space",
+      "description": "Astronaut Alan Shepard flew aboard Freedom 7 on a suborbital flight of about 15 minutes. It was launched from Cape Canaveral, Florida.",
       "category": "Science and Exploration",
-      "significance": "Shepard's flight was the first American human spaceflight, a key milestone in the Space Race and a step toward the Apollo program and the Moon landings."
-    },
-    {
-      "year": 1945,
-      "title": "Prague Uprising Begins",
-      "description": "Czech resistance fighters in Prague rose up against the German occupation in the final days of World War II in Europe, as Allied forces closed in and Nazi Germany neared collapse.",
-      "category": "Military",
-      "significance": "The uprising helped liberate Prague and demonstrated Czech resistance to Nazi occupation, shortly before Germany's unconditional surrender on May 8, 1945."
-    },
-    {
-      "year": 1981,
-      "title": "Death of Bobby Sands",
-      "description": "Irish Republican Army member Bobby Sands died on the 66th day of a hunger strike in the Maze Prison in Northern Ireland, protesting the withdrawal of political prisoner status. He had been elected to the UK Parliament weeks earlier.",
-      "category": "Death",
-      "significance": "Sands' death drew worldwide attention to the Troubles, galvanized support for Irish republicanism, and boosted Sinn Féin's entry into electoral politics."
+      "significance": "The flight came weeks after the Soviet Union's Yuri Gagarin orbited Earth. It was a key early step in the American space program and helped lead to the Moon landings."
     }
   ]
 }

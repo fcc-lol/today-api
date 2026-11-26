@@ -2,63 +2,49 @@
   "date": "May 4",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on sturdy stems above broad blue-green leaves. Thousands of cultivars exist, ranging from simple single blooms to ruffled parrot and double forms. Peak bloom occurs in the Netherlands and across northern temperate gardens in early May.",
-      "bloomingSeason": "Mid-spring to late spring (April to May in the Northern Hemisphere)",
-      "location": "Netherlands, Northern Europe, North America; native to Central Asia, cultivated worldwide",
-      "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "white",
-        "purple",
-        "orange"
-      ],
-      "emoji": "🌷",
-      "funFact": "In the 1630s, tulip bulbs became so valuable during Dutch 'Tulip Mania' that a single rare bulb could cost more than a house in Amsterdam."
-    },
-    {
-      "name": "Wisteria sinensis",
-      "commonName": "Chinese Wisteria",
-      "description": "A vigorous woody climbing vine that produces dramatic hanging clusters of fragrant flowers, often 20-30 cm long, before or as its leaves emerge. It twines counterclockwise and can live for decades, covering pergolas and walls.",
-      "bloomingSeason": "Mid-spring to early summer (April to May)",
-      "location": "Native to China; widely cultivated in Japan, Europe, and the eastern and western United States",
-      "colors": [
-        "lavender",
-        "violet",
-        "blue",
-        "white"
-      ],
-      "emoji": "💜",
-      "funFact": "A Chinese wisteria in Sierra Madre, California, planted in 1894, is considered one of the largest blossoming plants in the world, covering about an acre and weighing hundreds of tons."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall tropical and subtropical tree with fern-like leaves that erupts in masses of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere the tree's main bloom is in spring (Oct-Nov), but in parts of the tropics and in warmer areas it also flowers in late autumn and sporadically at other times. In northern hemisphere subtropical regions such as parts of Mexico, Florida, and southern Asia, blooming peaks around May.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June); October to November in the Southern Hemisphere",
-      "location": "Native to South America; grown in Mexico City, Florida, southern California, India, and Pakistan",
-      "colors": [
-        "blue-violet",
-        "lavender"
-      ],
-      "emoji": "🌳",
-      "funFact": "In Mexico City, jacaranda blossoms carpet streets in spring, and the trees were introduced there by a Japanese gardener, Tatsugoro Matsumoto, in the early 20th century."
-    },
-    {
       "name": "Hyacinthoides non-scripta",
       "commonName": "English Bluebell",
-      "description": "A bulbous woodland perennial that forms dense, nodding carpets of fragrant, bell-shaped flowers beneath deciduous trees. The flowers droop to one side on arching stems and signal the height of spring in ancient British woodlands.",
-      "bloomingSeason": "Mid-spring (late April to May)",
-      "location": "Native to the British Isles, Western Europe, and Atlantic coastal regions; ancient woodlands in England, Wales, and Ireland",
+      "description": "Woodland floors across Britain turn into shimmering lakes of violet-blue as nodding, bell-shaped flowers hang from one side of arching stems. The blooms give off a sweet, delicate scent. Beech and oak woods are especially dramatic when the new leaves glow green overhead.",
+      "bloomingSeason": "Mid-April to late May, usually peaking in the first half of May",
+      "location": "Ancient woodlands of the United Kingdom and western Europe",
       "colors": [
-        "violet-blue",
-        "white",
-        "pink"
+        "Violet-blue",
+        "Occasionally white",
+        "Occasionally pink"
       ],
       "emoji": "🔔",
-      "funFact": "Nearly half of the world's bluebells grow in Britain, and it is illegal to dig up wild bluebell bulbs for sale under the Wildlife and Countryside Act."
+      "funFact": "Britain holds about half of the world's bluebells. Because they grow so slowly from seed, they are protected by law, and bluebell woods are often treated as a sign of ancient woodland."
+    },
+    {
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Cup-shaped flowers in nearly every color stand on sturdy stems. They line borders and fill whole fields in neat, bright stripes. Their glossy petals open wide in sunshine and close again at dusk.",
+      "bloomingSeason": "April to early May in cool temperate zones of the Northern Hemisphere",
+      "location": "Gardens and bulb fields in the Netherlands and across northern Europe and North America",
+      "colors": [
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White",
+        "Orange"
+      ],
+      "emoji": "🌷",
+      "funFact": "In the 1630s, tulip bulbs sold in the Dutch Republic for prices that rivaled a grand canal house. The episode is remembered as 'tulip mania,' one of the earliest recorded speculative bubbles."
+    },
+    {
+      "name": "Cercis canadensis",
+      "commonName": "Eastern Redbud",
+      "description": "Bare branches burst into clusters of magenta-pink, pea-like flowers. The blooms sprout straight from twigs and even the trunk before the heart-shaped leaves unfurl. In spring the tree looks like a cloud of rosy-purple.",
+      "bloomingSeason": "Late March to early May, later at cooler and more northern sites",
+      "location": "Eastern and central North America, from the Great Lakes region to the southern United States",
+      "colors": [
+        "Magenta-pink",
+        "Rosy purple",
+        "White (in some cultivars)"
+      ],
+      "emoji": "🌸",
+      "funFact": "Redbud flowers are edible and have a mild, tangy taste. Cooks sometimes add them to salads. The trunk-flowering habit is called cauliflory."
     }
   ]
 }

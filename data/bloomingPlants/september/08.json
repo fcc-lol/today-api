@@ -2,60 +2,44 @@
   "date": "September 8",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like composite flower heads made of golden ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plant is grown both as an ornamental and as a major oil and seed crop.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "North America, Europe, Ukraine, Russia and Argentina (native to North America)",
-      "colors": [
-        "yellow",
-        "gold",
-        "orange",
-        "brown"
-      ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds exhibit heliotropism, following the sun from east to west each day, but mature blooms stop moving and face east, which helps warm them and attract more pollinators."
-    },
-    {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A tall perennial wildflower that forms dense colonies and produces arching plumes of tiny golden flower heads. It is a vital late-season nectar and pollen source for bees, butterflies and other insects preparing for autumn.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Meadows, roadsides and prairies of North America; naturalized in Europe and Asia",
-      "colors": [
-        "golden yellow"
-      ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects; the real culprit is usually ragweed, which blooms at the same time."
-    },
-    {
       "name": "Colchicum autumnale",
       "commonName": "Autumn Crocus (Meadow Saffron)",
-      "description": "A bulbous perennial that sends up crocus-like goblet flowers in early autumn, before its leaves emerge. The leaves appear the following spring and die back by summer, so the flowers rise on bare ground.",
-      "bloomingSeason": "Late summer to autumn",
-      "location": "Meadows and woodland edges of Europe, from the UK to central Europe; cultivated worldwide in temperate gardens",
+      "description": "Rosy-lilac, goblet-shaped flowers push straight out of bare ground with no leaves, as if a spring crocus had lost its way. Whole meadows can turn soft pink as the days shorten.",
+      "bloomingSeason": "Late summer to autumn, typically late August through October",
+      "location": "Meadows and woodland edges of central and western Europe, including the UK, Germany and France",
       "colors": [
-        "pale pink",
-        "lilac",
-        "mauve"
+        "Pale pink",
+        "Lilac",
+        "Soft purple"
       ],
       "emoji": "🌸",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid that has been used medicinally for gout and is also used by plant breeders to induce chromosome doubling."
+      "funFact": "Despite the name, this is not a true crocus. It belongs to the lily relatives and produces colchicine, a potent toxin that is also used in medicine. Its leaves appear in spring, long after the flowers have faded."
     },
     {
-      "name": "Protea cynaroides",
-      "commonName": "King Protea",
-      "description": "A shrub with the largest flower head in the Protea genus, made of a central cluster of tiny flowers surrounded by large, stiff, colorful bracts. It grows in the fynbos vegetation of the Cape region and is South Africa's national flower.",
-      "bloomingSeason": "Late winter to spring in the Southern Hemisphere, with peak bloom from about late August to November",
-      "location": "Western and Southern Cape, South Africa",
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Towering stalks carry huge golden faces that follow the sun across the sky. In early September, fields in the Northern Hemisphere glow with late-season blooms as seed heads begin to ripen.",
+      "bloomingSeason": "Summer into early autumn, with peak bloom from July to September",
+      "location": "Fields and gardens across the temperate Northern Hemisphere, including the central United States, southern France and Ukraine",
       "colors": [
-        "pink",
-        "cream",
-        "crimson",
-        "silvery white"
+        "Golden yellow",
+        "Brown",
+        "Orange"
       ],
-      "emoji": "🌺",
-      "funFact": "The genus is named after Proteus, the Greek sea god who could change shape, referring to the great diversity of forms in the protea family, which is more than 80 million years old."
+      "emoji": "🌻",
+      "funFact": "A sunflower head is not one flower but hundreds of tiny florets. Their seeds are arranged in spirals that follow Fibonacci numbers."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Fluffy, fragrant golden pom-poms cover the branches in a dazzling display. In early spring they brighten the bushland of southeastern Australia.",
+      "bloomingSeason": "Late winter to spring, roughly July to October, peaking around August and September",
+      "location": "Southeastern Australia, including Victoria, South Australia and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated on September 1, at the start of the Southern Hemisphere spring."
     }
   ]
 }

@@ -4,59 +4,29 @@
     {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves and large, rose-like flowers. It thrives in mild, humid climates and is widely cultivated in gardens, with thousands of cultivars varying in form from single to fully double blooms.",
-      "bloomingSeason": "Late autumn through early spring, peaking in winter",
-      "location": "Native to Japan, Korea, and China; widely cultivated in the southeastern United States, Western Europe, Australia, and New Zealand",
+      "description": "Glossy evergreen shrubs covered in rose-like blooms with layered petals and golden centers. Flowers stand out against dark leaves on cold winter days, so they brighten gardens when little else is in flower.",
+      "bloomingSeason": "Late autumn through early spring, peaking in midwinter",
+      "location": "Japan, the southeastern United States, and mild-winter gardens in western Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia sinensis, a close relative, is the plant from which all true tea is made, and Camellia japonica seed oil has been used in Japan for hair care for centuries."
+      "funFact": "Camellia sinensis, a close relative of the Japanese camellia, gives us tea. Japanese camellias are grown for their flowers, and their seeds are pressed into camellia oil."
     },
     {
-      "name": "Hamamelis mollis",
-      "commonName": "Chinese Witch Hazel",
-      "description": "A deciduous large shrub or small tree that flowers on bare branches in the depths of winter. Its spidery, ribbon-like petals are strongly fragrant and curl up in freezing temperatures to protect themselves, then unfurl when it warms.",
-      "bloomingSeason": "Midwinter, December to February in the Northern Hemisphere",
-      "location": "Native to central and eastern China; cultivated in temperate gardens across Europe and North America",
+      "name": "Telopea speciosissima",
+      "commonName": "New South Wales Waratah",
+      "description": "A dramatic Australian wildflower with a crimson flower head the size of a fist. The head is a dome of tightly packed florets, ringed by petal-like bracts. It stands out in the bushland of the southern hemisphere summer.",
+      "bloomingSeason": "Mainly spring, from September to November, with occasional late blooms into early summer",
+      "location": "Sandstone bushland around Sydney, New South Wales, Australia",
       "colors": [
-        "yellow",
-        "gold",
-        "orange"
+        "Crimson",
+        "Red"
       ],
-      "emoji": "🌼",
-      "funFact": "The petals of witch hazel roll up tightly during frosty nights and expand again when temperatures rise, a natural form of frost protection."
-    },
-    {
-      "name": "Agapanthus praecox",
-      "commonName": "African Lily",
-      "description": "A clump-forming perennial with strap-like leaves and tall stems topped by rounded clusters of trumpet-shaped blue flowers. In the Southern Hemisphere it is at the height of its summer bloom in early January.",
-      "bloomingSeason": "Summer (December to February in the Southern Hemisphere)",
-      "location": "Native to South Africa; naturalized and cultivated in Australia, New Zealand, and coastal California",
-      "colors": [
-        "blue",
-        "violet",
-        "white"
-      ],
-      "emoji": "💙",
-      "funFact": "Despite its common name, it is not a true lily; the name Agapanthus comes from Greek words meaning 'love flower'."
-    },
-    {
-      "name": "Delonix regia",
-      "commonName": "Flame Tree",
-      "description": "A spreading tree with feathery fern-like leaves that becomes covered in clusters of vivid scarlet-orange blooms. It is a showy shade tree in tropical and subtropical regions and flowers in the warm months of the Southern Hemisphere.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February); also blooms in the tropical dry season elsewhere",
-      "location": "Native to Madagascar; cultivated across the tropics including northern Australia, Brazil, and southern Africa",
-      "colors": [
-        "scarlet",
-        "orange",
-        "red"
-      ],
-      "emoji": "🔥",
-      "funFact": "Although abundant in cultivation, the flame tree is considered endangered in its native Madagascar due to habitat loss."
+      "emoji": "🌸",
+      "funFact": "The waratah is the floral emblem of New South Wales. Its flower head is a cluster of many small flowers, and honeyeater birds pollinate it."
     }
   ]
 }

@@ -2,63 +2,47 @@
   "date": "May 7",
   "plants": [
     {
-      "name": "Tulipa gesneriana",
-      "commonName": "Garden Tulip",
-      "description": "A bulbous perennial with cup-shaped flowers on upright stems above broad, blue-green leaves. Hundreds of cultivars exist, ranging from single early types to ruffled parrot and fringed forms. In the Netherlands, fields of tulips are at or just past peak bloom in early May.",
-      "bloomingSeason": "Mid-spring (April to early May in the Northern Hemisphere)",
-      "location": "Netherlands, temperate Europe, North America; native to Central Asia",
+      "name": "Wisteria sinensis",
+      "commonName": "Chinese Wisteria",
+      "description": "Cascading chains of fragrant, pea-like flowers drape from twining woody vines. They turn pergolas, walls and old trees into curtains of lilac-purple. The scent is sweet and grape-like, and it draws bumblebees in large numbers.",
+      "bloomingSeason": "Mid-spring, typically April to early May in temperate Northern Hemisphere gardens",
+      "location": "Native to China and widely grown in gardens across Europe, Japan and the eastern United States",
       "colors": [
-        "red",
-        "yellow",
-        "pink",
-        "purple",
-        "white",
-        "orange"
+        "Lilac",
+        "Violet",
+        "Purple"
       ],
-      "emoji": "🌷",
-      "funFact": "In the 1630s, tulip bulbs became so valuable in the Netherlands that single bulbs sold for more than the price of a house during 'Tulip Mania'."
+      "emoji": "🪻",
+      "funFact": "Wisteria vines twine counterclockwise, and a mature plant can live for well over a century. Some vines grow strong enough to crush the structures that support them."
     },
     {
-      "name": "Syringa vulgaris",
-      "commonName": "Common Lilac",
-      "description": "A deciduous shrub with heart-shaped leaves and dense, cone-shaped clusters of intensely fragrant flowers. Lilacs reach peak bloom in many temperate regions in early to mid May and are a staple of cottage gardens and old homesteads.",
-      "bloomingSeason": "Late spring (late April to May)",
-      "location": "Northeastern United States, Canada, Europe; native to the Balkan Peninsula",
+      "name": "Tulipa gesneriana",
+      "commonName": "Garden Tulip",
+      "description": "Cup-shaped blooms stand on smooth, upright stems above blue-green leaves. Their colors range from clear primary shades to feathered and fringed forms. Late-season varieties keep Northern Hemisphere borders bright into May.",
+      "bloomingSeason": "Spring, with late-flowering types peaking late April through mid-May",
+      "location": "Gardens across the Netherlands, the Pacific Northwest and the northeastern United States, and northern Europe",
       "colors": [
-        "lilac",
-        "purple",
-        "white",
-        "pink",
-        "magenta"
+        "Red",
+        "Yellow",
+        "Pink",
+        "Purple",
+        "White"
       ],
-      "emoji": "💜",
-      "funFact": "Lilacs are members of the olive family (Oleaceae), and some old plants have survived for over a century at abandoned homesites."
+      "emoji": "🌷",
+      "funFact": "During 1630s Dutch 'tulip mania', single bulbs sold for more than the price of a canal house."
     },
     {
       "name": "Hyacinthoides non-scripta",
       "commonName": "English Bluebell",
-      "description": "A bulbous woodland perennial that carpets forest floors with nodding, bell-shaped, sweetly scented flowers all arching to one side of the stem. Ancient woodlands in the British Isles are at their peak in early May.",
-      "bloomingSeason": "Mid to late spring (April to May)",
-      "location": "United Kingdom, Ireland, western Europe",
+      "description": "Drooping, bell-shaped flowers hang from one side of arching stems. They carpet ancient woodland floors in a hazy blue sheet. The sweet scent drifts through the trees in the dappled light.",
+      "bloomingSeason": "Mid-April to late May, usually peaking around early May",
+      "location": "Ancient woodlands of the United Kingdom, Ireland and western Europe",
       "colors": [
-        "violet-blue",
-        "white"
+        "Violet-blue",
+        "Occasionally white"
       ],
       "emoji": "🔔",
-      "funFact": "Britain is home to about half of the world's population of wild bluebells, and it is illegal to dig up wild bulbs for sale there."
-    },
-    {
-      "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, graceful tree with fern-like leaves that bursts into masses of trumpet-shaped lavender-blue flowers. In the Northern Hemisphere subtropics, such as parts of Mexico, Florida, and southern California, it starts blooming in May. In Australia and South Africa it blooms in spring around October to November, so early May bloom is typical of the north.",
-      "bloomingSeason": "Late spring to early summer in the Northern Hemisphere (May to June)",
-      "location": "Subtropical regions worldwide, including Mexico City, southern California, and Florida; native to South America",
-      "colors": [
-        "lavender",
-        "blue-violet"
-      ],
-      "emoji": "🌳",
-      "funFact": "Fallen jacaranda blossoms create purple carpets on streets, and in some places a flower landing on your head is said to bring good luck."
+      "funFact": "The United Kingdom holds about half of the world's bluebell population, and the plant is legally protected there against being dug up from the wild."
     }
   ]
 }
