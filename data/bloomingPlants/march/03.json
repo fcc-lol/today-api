@@ -1,4 +1,46 @@
 {
   "date": "March 3",
-  "plants": []
+  "plants": [
+    {
+      "name": "Prunus mume",
+      "commonName": "Japanese apricot (ume)",
+      "description": "Gnarled, sculptural branches burst into fragrant blossoms of pink, white or rose well before any leaves appear. The sweet, spicy scent drifts through gardens while winter still lingers.",
+      "bloomingSeason": "February to March",
+      "location": "Japan, Korea and southern China, and in gardens and arboreta in temperate regions worldwide",
+      "colors": [
+        "pink",
+        "white",
+        "rose"
+      ],
+      "emoji": "🌸",
+      "funFact": "Ume often flower before cherry trees and are treasured across East Asia as a herald of spring. Their fruit is pickled into Japanese umeboshi and steeped into plum wine."
+    },
+    {
+      "name": "Galanthus nivalis",
+      "commonName": "Common snowdrop",
+      "description": "Nodding, white bell-shaped flowers with delicate green-marked inner petals push up through cold soil, sometimes right through lingering snow. They carpet woodlands and gardens in drifts of pure white.",
+      "bloomingSeason": "Late winter, typically February to March (sometimes from late January in mild winters)",
+      "location": "Temperate Europe, widely naturalised and grown in gardens across Europe and North America",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "emoji": "❄️",
+      "funFact": "Snowdrops make a natural antifreeze-like protein and contain galantamine, a compound that inspired a medicine used to treat symptoms of Alzheimer's disease."
+    },
+    {
+      "name": "Amaryllis belladonna",
+      "commonName": "March lily (belladonna lily, naked lady)",
+      "description": "Leafless, sturdy stalks rise straight from bare late-summer ground, topped with clusters of fragrant, trumpet-shaped pink flowers. The display is a signature sign of summer's end in the Cape.",
+      "bloomingSeason": "Late summer, February to March",
+      "location": "Southwestern Cape, South Africa, and naturalised in parts of southern Australia",
+      "colors": [
+        "pink",
+        "rose",
+        "white"
+      ],
+      "emoji": "🌺",
+      "funFact": "Its habit of flowering while the leaves are absent, called hysteranthy, earns it the name 'naked lady'. In South Africa it is known as the March lily because it flowers around that month."
+    }
+  ]
 }

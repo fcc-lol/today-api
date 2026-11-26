@@ -1,4 +1,46 @@
 {
   "date": "August 21",
-  "plants": []
+  "plants": [
+    {
+      "name": "Helianthus annuus",
+      "commonName": "Common Sunflower",
+      "description": "Towering stalks carry huge golden faces that tilt across the sky, ringed with bright petals around a dark, seed-packed center. Late-summer fields glow with them, and bees crowd every bloom.",
+      "bloomingSeason": "Mid-summer to early autumn (roughly July to September)",
+      "location": "Great Plains and farmland across the central United States and Canada, plus much of temperate Europe",
+      "colors": [
+        "Golden yellow",
+        "Brown",
+        "Orange"
+      ],
+      "emoji": "🌻",
+      "funFact": "A sunflower head is made of hundreds to thousands of tiny individual florets. Each floret becomes a seed. Young buds track the sun from east to west during the day."
+    },
+    {
+      "name": "Calluna vulgaris",
+      "commonName": "Heather (Scotch Heather)",
+      "description": "Moorlands and heaths turn into rolling carpets of tiny bell-shaped flowers. The purple haze reaches the horizon, hums with bees, and smells faintly of honey.",
+      "bloomingSeason": "Late summer to autumn (typically August to October)",
+      "location": "Moors and heathlands of Scotland, northern England, and Scandinavia",
+      "colors": [
+        "Purple",
+        "Pink",
+        "Lilac",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Heather honey is prized for its thick, jelly-like texture. Moorland beekeepers sometimes move their hives onto the hills in August to catch the bloom."
+    },
+    {
+      "name": "Acacia pycnantha",
+      "commonName": "Golden Wattle",
+      "description": "Fluffy, perfumed golden pom-poms cover this Australian tree. Winter and early spring bring a bright burst of color to bushland, with nectar-seeking birds and insects in constant motion.",
+      "bloomingSeason": "Late winter to spring in the Southern Hemisphere (roughly July to October)",
+      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "colors": [
+        "Golden yellow"
+      ],
+      "emoji": "🌼",
+      "funFact": "Golden Wattle is Australia's national floral emblem. National Wattle Day is celebrated on September 1, the first day of spring."
+    }
+  ]
 }

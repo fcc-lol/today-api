@@ -1,4 +1,44 @@
 {
   "date": "March 16",
-  "plants": []
+  "plants": [
+    {
+      "name": "Prunus × yedoensis",
+      "commonName": "Yoshino Cherry",
+      "description": "Clouds of blush-white blossoms cover bare branches before the leaves appear. Each flower has five delicate petals and a faint almond scent. The trees line rivers, parks and castle moats, and they draw crowds for picnics under the petals.",
+      "bloomingSeason": "Late March to early April in central Japan. Early blooms can start in mid-March in warmer southern areas such as Kyushu and parts of Tokyo in early years.",
+      "location": "Japan, especially southern and central Honshu and Kyushu",
+      "colors": [
+        "Pale pink",
+        "White"
+      ],
+      "emoji": "🌸",
+      "funFact": "Nearly all Yoshino cherry trees are clones, grafted from a single original tree. This is why a whole city's trees tend to open within days of each other."
+    },
+    {
+      "name": "Narcissus pseudonarcissus",
+      "commonName": "Wild Daffodil",
+      "description": "Nodding, trumpet-shaped flowers glow in woodland clearings and meadows. A deep golden trumpet sits inside paler, swept-back petals. Drifts of them announce the end of winter across the countryside.",
+      "bloomingSeason": "Late February to late March, with a peak in March",
+      "location": "Western Europe, including England, Wales and northern France, in woods and damp meadows",
+      "colors": [
+        "Yellow",
+        "Pale yellow",
+        "Cream"
+      ],
+      "emoji": "🌼",
+      "funFact": "Daffodil bulbs contain alkaloids such as galantamine, which has been developed into a medicine for Alzheimer's disease. The same chemicals make the plant toxic to many grazing animals."
+    },
+    {
+      "name": "Watsonia borbonica",
+      "commonName": "Cape Bugle Lily",
+      "description": "Tall spikes of tubular flowers rise above sword-shaped leaves. They are a favorite of sunbirds and other pollinators.",
+      "bloomingSeason": "Spring in the Cape, usually September to November. It is not in bloom on March 16.",
+      "location": "Western Cape, South Africa",
+      "colors": [
+        "Pink"
+      ],
+      "emoji": "🌺",
+      "funFact": "Many Cape bulbs flower after fires clear the vegetation."
+    }
+  ]
 }
