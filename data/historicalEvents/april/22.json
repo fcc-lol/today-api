@@ -2,39 +2,32 @@
   "date": "April 22",
   "events": [
     {
-      "year": 1970,
-      "title": "First Earth Day Celebrated",
-      "description": "An estimated 20 million Americans took part in rallies, teach-ins, and demonstrations across the United States to demand environmental protection. The event was organized by Senator Gaylord Nelson and activist Denis Hayes.",
-      "category": "Environment",
-      "significance": "Earth Day is widely credited with launching the modern environmental movement and led to the creation of the U.S. Environmental Protection Agency and landmark laws such as the Clean Air Act. It is now observed globally by more than a billion people each year."
-    },
-    {
       "year": 1500,
-      "title": "Pedro Álvares Cabral Reaches Brazil",
-      "description": "Portuguese navigator Pedro Álvares Cabral, leading a fleet bound for India, sighted land on the coast of present-day Bahia and claimed it for Portugal.",
+      "title": "Cabral Sights the Coast of Brazil",
+      "description": "Portuguese navigator Pedro Álvares Cabral, leading a large fleet bound for India, sighted land on the coast of what is now Brazil. He was the first European to do so, and he claimed the territory for Portugal.",
       "category": "Exploration",
-      "significance": "Cabral's landing began Portuguese colonization of Brazil, shaping the language, culture, and history of the largest country in South America."
-    },
-    {
-      "year": 1864,
-      "title": "U.S. Congress Mandates 'In God We Trust' on Coins",
-      "description": "The Coinage Act of 1864 authorized the two-cent piece and allowed the motto 'In God We Trust' to appear on U.S. coinage for the first time, during the Civil War.",
-      "category": "Politics and Culture",
-      "significance": "The motto later spread to other denominations and was made the official national motto of the United States in 1956."
-    },
-    {
-      "year": 1994,
-      "title": "Death of Richard Nixon",
-      "description": "Richard Nixon, the 37th President of the United States, died at age 81 in New York City after suffering a stroke four days earlier.",
-      "category": "Death",
-      "significance": "Nixon was the only U.S. president to resign from office, following the Watergate scandal. His legacy also includes opening relations with China and easing Cold War tensions with the Soviet Union."
+      "significance": "The landfall began Portugal's colonization of Brazil. Brazil went on to become the largest Portuguese-speaking nation in the world."
     },
     {
       "year": 1724,
       "title": "Birth of Immanuel Kant",
-      "description": "The philosopher Immanuel Kant was born in Königsberg, Prussia, where he would spend nearly his entire life as a scholar and professor.",
+      "description": "The philosopher Immanuel Kant was born in Königsberg, in Prussia. He spent almost his entire life in the city and became one of the most influential thinkers of the Enlightenment.",
       "category": "Birth",
-      "significance": "Kant's works, especially the Critique of Pure Reason, transformed metaphysics, epistemology, and ethics, and remain foundational to modern Western philosophy."
+      "significance": "Kant's work on knowledge, ethics and reason, especially his Critique of Pure Reason, still shapes philosophy, science and political thought today."
+    },
+    {
+      "year": 1864,
+      "title": "\"In God We Trust\" Authorized for U.S. Coins",
+      "description": "During the Civil War, the U.S. Congress passed the Coinage Act of 1864. It allowed the motto \"In God We Trust\" to appear on American coins, and the two-cent piece was the first to carry it.",
+      "category": "Politics and Culture",
+      "significance": "The motto became a lasting feature of U.S. currency. In 1956 it was officially adopted as the national motto."
+    },
+    {
+      "year": 1970,
+      "title": "The First Earth Day",
+      "description": "Millions of Americans took part in rallies, teach-ins and demonstrations for a healthier environment. The events were held at campuses, schools and in communities across the country.",
+      "category": "Environment",
+      "significance": "Earth Day helped drive the creation of major environmental laws and agencies in the United States. It has since grown into a worldwide annual observance."
     }
   ]
 }

@@ -2,39 +2,39 @@
   "date": "December 14",
   "events": [
     {
-      "year": 1911,
-      "title": "Roald Amundsen Reaches the South Pole",
-      "description": "Norwegian explorer Roald Amundsen and his four-man team became the first people to reach the geographic South Pole, arriving ahead of Robert Falcon Scott's British expedition using sled dogs and skis.",
-      "category": "Exploration",
-      "significance": "Marked the achievement of one of the last great goals of terrestrial exploration and showcased the effectiveness of careful planning and polar travel techniques."
+      "year": 1546,
+      "title": "Astronomer Tycho Brahe Is Born",
+      "description": "Tycho Brahe was born into a Danish noble family in Scania, in present-day Sweden. He became one of history's most meticulous observers of the heavens. He charted the positions of stars and planets with a precision that was unmatched before the telescope.",
+      "category": "Birth",
+      "significance": "Brahe's detailed observations gave Johannes Kepler the data he needed to work out the laws of planetary motion. That helped lay the groundwork for modern astronomy."
     },
     {
       "year": 1799,
-      "title": "Death of George Washington",
-      "description": "George Washington, first President of the United States and commander of the Continental Army, died at Mount Vernon at age 67 after a sudden illness involving a severe throat infection.",
+      "title": "George Washington Dies at Mount Vernon",
+      "description": "The first President of the United States died at his Virginia estate at age 67, a few days after he fell ill. The young nation went into deep mourning.",
       "category": "Death",
-      "significance": "His death prompted national mourning; he was eulogized as 'first in war, first in peace, and first in the hearts of his countrymen,' and his precedent of peaceful transfer of power shaped American democracy."
+      "significance": "Washington had led the Continental Army to victory and then set precedents for the presidency, including voluntarily leaving office. His death marked the end of a founding era."
     },
     {
       "year": 1819,
-      "title": "Alabama Admitted as the 22nd U.S. State",
-      "description": "Alabama was admitted to the Union as the 22nd state, following the cession of Creek lands and rapid settlement of the region driven by cotton cultivation.",
-      "category": "Politics",
-      "significance": "Alabama's admission reflected the westward expansion of the United States and the growth of the cotton economy, which was closely tied to the expansion of slavery in the South."
+      "title": "Alabama Becomes the 22nd State",
+      "description": "Alabama was admitted to the Union as the 22nd state. It was part of a rapid westward expansion of the United States in the early 19th century.",
+      "category": "Political milestone",
+      "significance": "Its admission came during the debates over slavery's expansion that led to the Missouri Compromise. It shows how the question of slavery shaped the growth of the nation."
+    },
+    {
+      "year": 1911,
+      "title": "Amundsen Reaches the South Pole",
+      "description": "Norwegian explorer Roald Amundsen and four companions reached the geographic South Pole. They arrived about five weeks ahead of Robert Falcon Scott's British expedition.",
+      "category": "Exploration",
+      "significance": "It was one of the great achievements of the age of polar exploration. Amundsen's careful planning, skis and sled dogs became a model for later expeditions."
     },
     {
       "year": 1962,
-      "title": "Mariner 2 Flies by Venus",
-      "description": "NASA's Mariner 2 spacecraft passed within about 35,000 km of Venus, becoming the first spacecraft to successfully conduct a close planetary encounter and return scientific data.",
-      "category": "Science and Technology",
-      "significance": "It revealed Venus's extremely hot surface temperatures and confirmed the solar wind, laying the groundwork for future interplanetary exploration."
-    },
-    {
-      "year": 1972,
-      "title": "Eugene Cernan Leaves the Moon on Apollo 17",
-      "description": "Astronaut Eugene Cernan, commander of Apollo 17, climbed into the lunar module after the final moonwalk of the Apollo program, becoming the last person to walk on the Moon.",
-      "category": "Space Exploration",
-      "significance": "Marked the end of crewed lunar exploration of the Apollo era; no human has walked on the Moon since."
+      "title": "Mariner 2 Flies Past Venus",
+      "description": "NASA's Mariner 2 spacecraft passed within roughly 34,000 kilometers (21,000 miles) of Venus. It collected data on the planet's atmosphere and temperature.",
+      "category": "Science and space",
+      "significance": "This was the first successful close encounter with another planet by a spacecraft. It opened the era of robotic planetary exploration."
     }
   ]
 }

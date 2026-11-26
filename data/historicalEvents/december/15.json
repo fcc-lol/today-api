@@ -3,38 +3,38 @@
   "events": [
     {
       "year": 1791,
-      "title": "Bill of Rights Ratified",
-      "description": "Virginia became the necessary tenth state to ratify the first ten amendments to the U.S. Constitution, known collectively as the Bill of Rights, making them part of the law of the land.",
-      "category": "Politics/Law",
-      "significance": "The Bill of Rights guarantees fundamental individual liberties such as freedom of speech, religion, press, and assembly, and protections against government overreach, forming a cornerstone of American constitutional democracy."
+      "title": "The Bill of Rights becomes law",
+      "description": "Virginia's ratification gave the first ten amendments to the U.S. Constitution the approval of the required three-fourths of the states. They took effect as the Bill of Rights.",
+      "category": "Politics",
+      "significance": "These amendments protect freedoms such as speech, religion, and fair trial. They remain the core of American civil liberties."
     },
     {
       "year": 1890,
-      "title": "Death of Sitting Bull",
-      "description": "Lakota Sioux leader Sitting Bull was killed at the Standing Rock Reservation in South Dakota during an attempt by Indian agency police to arrest him amid fears he would join the Ghost Dance movement.",
-      "category": "Death/Native American History",
-      "significance": "His death heightened tensions on the Plains and contributed to the Wounded Knee Massacre two weeks later, marking the end of armed Native American resistance on the Great Plains."
+      "title": "Sitting Bull is killed",
+      "description": "The Lakota Sioux leader Sitting Bull was shot dead by Indian reservation police. It happened during an attempt to arrest him at the Standing Rock Reservation.",
+      "category": "Death",
+      "significance": "His death raised tensions on the Plains. Two weeks later it was followed by the Wounded Knee Massacre."
+    },
+    {
+      "year": 1933,
+      "title": "The Twenty-first Amendment takes effect",
+      "description": "The amendment was ratified on December 5. It took effect on December 15 and repealed the Eighteenth Amendment.",
+      "category": "Politics",
+      "significance": "Prohibition of alcohol in the United States ended after nearly 14 years. It is the only time a constitutional amendment has been repealed by another."
     },
     {
       "year": 1939,
-      "title": "Premiere of Gone with the Wind",
-      "description": "The epic film Gone with the Wind, based on Margaret Mitchell's novel, held its world premiere in Atlanta, Georgia, with a large public celebration.",
-      "category": "Arts/Culture",
-      "significance": "The film went on to win ten Academy Awards and became one of the highest-grossing films of all time when adjusted for inflation, though it is also now widely discussed for its romanticized portrayal of the antebellum South and slavery."
+      "title": "Gone with the Wind premieres",
+      "description": "The film adaptation of Margaret Mitchell's Pulitzer Prize-winning novel premiered in Atlanta, Georgia.",
+      "category": "Culture",
+      "significance": "The film became a box-office phenomenon and won multiple Academy Awards. It remains a landmark of Hollywood history and is also criticized for its romanticized portrayal of the Old South."
     },
     {
-      "year": 1961,
-      "title": "Adolf Eichmann Sentenced to Death",
-      "description": "An Israeli court in Jerusalem sentenced Adolf Eichmann, a principal organizer of the Holocaust, to death after his trial for crimes against humanity and crimes against the Jewish people.",
-      "category": "Law/Holocaust",
-      "significance": "The trial brought the horrors of the Holocaust to worldwide attention, shaped debates on international justice and individual responsibility, and inspired Hannah Arendt's concept of the 'banality of evil.'"
-    },
-    {
-      "year": 1944,
-      "title": "Glenn Miller Disappears",
-      "description": "Bandleader and U.S. Army Air Forces Major Glenn Miller disappeared when his plane vanished over the English Channel while flying from England to Paris to prepare for a performance for troops.",
-      "category": "Disappearance/Music",
-      "significance": "Miller was one of the best-selling musicians of the Swing Era, and his unexplained disappearance became one of World War II's enduring mysteries, marking the loss of an iconic figure in American popular music."
+      "year": 2009,
+      "title": "The Boeing 787 Dreamliner makes its first flight",
+      "description": "Boeing's new long-range airliner made its maiden flight from Everett, Washington.",
+      "category": "Technology",
+      "significance": "The 787 was among the first airliners built largely from composite materials, which made it more fuel-efficient. It changed long-haul air travel."
     }
   ]
 }
