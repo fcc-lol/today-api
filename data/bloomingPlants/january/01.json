@@ -2,61 +2,46 @@
   "date": "January 1",
   "plants": [
     {
-      "name": "Helleborus niger",
-      "commonName": "Christmas Rose",
-      "description": "An evergreen perennial with leathery, dark green leaves and nodding, cup-shaped white flowers that age to pink. It thrives in cool, shaded woodland conditions and is prized for flowering in the depths of winter.",
-      "bloomingSeason": "Late autumn to late winter (December to March in the Northern Hemisphere)",
-      "location": "Native to the mountains of central and southern Europe; widely cultivated in temperate gardens in Europe and North America",
-      "colors": [
-        "white",
-        "pale pink",
-        "green"
-      ],
-      "emoji": "🌹",
-      "funFact": "Despite its name it is not a rose but a member of the buttercup family, and all parts of the plant are toxic."
-    },
-    {
       "name": "Camellia japonica",
       "commonName": "Japanese Camellia",
-      "description": "A glossy-leaved evergreen shrub or small tree bearing large, showy, rose-like flowers with bright yellow stamens. It prefers acidic, well-drained soil and partial shade, and thousands of cultivars exist.",
-      "bloomingSeason": "Winter to early spring (December to April in the Northern Hemisphere)",
-      "location": "Native to Japan, Korea and eastern China; cultivated in the southeastern United States, the UK, Australia and New Zealand",
+      "description": "Glossy evergreen shrubs that burst into rose-like blooms with layered satin petals and golden centers. They bring bright color to the quiet depths of winter gardens.",
+      "bloomingSeason": "Late autumn through early spring, with peak bloom in midwinter",
+      "location": "Japan, and mild-winter gardens in the southeastern United States and western Europe",
       "colors": [
-        "red",
-        "pink",
-        "white",
-        "variegated"
+        "Red",
+        "Pink",
+        "White"
       ],
       "emoji": "🌺",
-      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis, and its seeds are pressed to make camellia oil."
+      "funFact": "Camellia japonica is a close relative of the tea plant, Camellia sinensis. Its seeds are pressed to make a prized culinary and cosmetic oil in Japan."
     },
     {
-      "name": "Delosperma cooperi",
-      "commonName": "Hardy Ice Plant",
-      "description": "A mat-forming succulent perennial with fleshy leaves and daisy-like, vivid magenta flowers that open in bright sun. In the Southern Hemisphere summer it flowers heavily in sunny, well-drained sites.",
-      "bloomingSeason": "Summer in the Southern Hemisphere (December to February there); late spring to autumn in cooler northern regions",
-      "location": "Native to the Eastern Cape and Free State of South Africa; grown in rock gardens and as groundcover worldwide",
+      "name": "Delonix regia",
+      "commonName": "Royal Poinciana",
+      "description": "A wide, umbrella-shaped tree that becomes a canopy of fiery blossoms. Ruffled petals, one of them streaked with white, hang above feathery fern-like leaves.",
+      "bloomingSeason": "Summer in the Southern Hemisphere, roughly November through February",
+      "location": "Northern Australia and other southern tropical and subtropical regions",
       "colors": [
-        "magenta",
-        "purple",
-        "pink"
+        "Scarlet",
+        "Orange",
+        "White"
       ],
-      "emoji": "🌸",
-      "funFact": "The flowers close in cloudy weather and at night, and the glistening, bladder-like cells on the leaves give the ice plant its name."
+      "emoji": "🔥",
+      "funFact": "Although the tree is a favorite across the tropics, it is endangered in its native Madagascar."
     },
     {
-      "name": "Metrosideros excelsa",
-      "commonName": "Pōhutukawa (New Zealand Christmas Tree)",
-      "description": "A rugged evergreen coastal tree that is covered in brilliant crimson, brush-like flowers made up of masses of long stamens. It clings to cliffs and rocky shores and can form huge, sprawling, multi-trunked crowns.",
-      "bloomingSeason": "Southern Hemisphere summer (late November to January)",
-      "location": "Native to the coasts of New Zealand's North Island; planted in parts of Australia, South Africa, California and Chile",
+      "name": "Helleborus niger",
+      "commonName": "Christmas Rose",
+      "description": "A tough, shade-loving perennial that opens nodding, saucer-shaped white flowers with golden stamens. It often blooms while frost and snow still cover the ground.",
+      "bloomingSeason": "Early winter to early spring, often starting around December",
+      "location": "Woodlands of the Alps and gardens across Europe and North America",
       "colors": [
-        "crimson",
-        "red",
-        "occasionally yellow"
+        "White",
+        "Pale Pink",
+        "Gold"
       ],
-      "emoji": "🌳",
-      "funFact": "Its flowering around Christmas has made it a New Zealand symbol of the festive season, and it is revered in Māori tradition."
+      "emoji": "❄️",
+      "funFact": "Despite its name, the Christmas rose is not a true rose. It belongs to the buttercup family and is toxic if eaten."
     }
   ]
 }

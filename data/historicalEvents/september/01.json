@@ -2,39 +2,39 @@
   "date": "September 1",
   "events": [
     {
-      "year": 1939,
-      "title": "Germany Invades Poland",
-      "description": "German forces launched a massive invasion of Poland at dawn, using combined air, armor, and infantry attacks. Britain and France declared war on Germany two days later.",
-      "category": "War",
-      "significance": "Marked the start of World War II in Europe, the deadliest conflict in human history, which reshaped global politics and led to the creation of the United Nations."
+      "year": 1715,
+      "title": "The Sun King Dies",
+      "description": "King Louis XIV of France died at Versailles after a reign of 72 years. No other major European monarch has ruled for longer. He had come to the throne as a child, and he left behind a powerful but heavily indebted kingdom.",
+      "category": "Death",
+      "significance": "His death closed one of the longest and most influential reigns in European history. It ended an era of French dominance and absolute monarchy."
+    },
+    {
+      "year": 1914,
+      "title": "Martha, the Last Passenger Pigeon, Dies",
+      "description": "Martha, the last known passenger pigeon, died at the Cincinnati Zoo in Ohio. Her species had once numbered in the billions and darkened North American skies in huge flocks. Hunting and habitat loss wiped it out within decades.",
+      "category": "Milestone",
+      "significance": "Martha's death marked the confirmed extinction of a species driven to extinction by human activity. It became a lasting symbol for the conservation movement."
     },
     {
       "year": 1923,
-      "title": "Great Kanto Earthquake",
-      "description": "A magnitude 7.9 earthquake struck the Kanto region of Japan, devastating Tokyo and Yokohama. Fires, a tsunami, and landslides compounded the destruction, killing an estimated 105,000 people.",
-      "category": "Natural Disaster",
-      "significance": "One of the deadliest natural disasters in Japanese history; it prompted major reforms in urban planning and earthquake-resistant construction, and is commemorated annually as Disaster Prevention Day."
+      "title": "The Great Kanto Earthquake",
+      "description": "A massive earthquake struck the Tokyo and Yokohama region on Japan's main island of Honshu. Fires swept through the densely built cities and killed around 100,000 people.",
+      "category": "Disaster",
+      "significance": "It was one of the deadliest natural disasters in Japan's history. The rebuilding of Tokyo and Yokohama reshaped both cities and influenced Japanese disaster planning."
+    },
+    {
+      "year": 1939,
+      "title": "Germany Invades Poland",
+      "description": "German forces under Adolf Hitler invaded Poland at dawn. Britain and France declared war on Germany two days later.",
+      "category": "War",
+      "significance": "The invasion marked the start of World War II in Europe. The war became the deadliest conflict in human history."
     },
     {
       "year": 1985,
-      "title": "Wreck of the Titanic Discovered",
-      "description": "A joint American-French expedition led by Robert Ballard and Jean-Louis Michel located the wreck of the RMS Titanic about 12,500 feet below the surface of the North Atlantic, roughly 370 miles off Newfoundland.",
-      "category": "Exploration",
-      "significance": "Solved a 73-year mystery about the ship's final resting place, revealed that it had broken in two, and advanced deep-sea robotic exploration technology."
-    },
-    {
-      "year": 1983,
-      "title": "Korean Air Lines Flight 007 Shot Down",
-      "description": "A Boeing 747 airliner that strayed into Soviet airspace was shot down by a Soviet Su-15 interceptor near Sakhalin Island, killing all 269 people aboard.",
-      "category": "Politics",
-      "significance": "Heightened Cold War tensions and led President Reagan to make the U.S. Global Positioning System available for civilian use to prevent similar navigational errors."
-    },
-    {
-      "year": 1715,
-      "title": "Death of Louis XIV of France",
-      "description": "Louis XIV, the Sun King, died just days before his 77th birthday after reigning for 72 years and 110 days, the longest verified reign of any monarch in European history.",
-      "category": "Death",
-      "significance": "His death ended an era of French absolutism and dominance in Europe, passing the throne to his five-year-old great-grandson Louis XV."
+      "title": "The Wreck of the Titanic Is Found",
+      "description": "A French-American expedition located the wreck of the Titanic on the floor of the North Atlantic. The ship had sunk in 1912 and lay about two and a half miles below the surface.",
+      "category": "Discovery",
+      "significance": "The discovery ended a decades-long search and opened the wreck to study. It renewed worldwide interest in the Titanic story."
     }
   ]
 }

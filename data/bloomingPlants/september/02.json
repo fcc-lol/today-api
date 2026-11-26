@@ -2,57 +2,55 @@
   "date": "September 2",
   "plants": [
     {
-      "name": "Helianthus annuus",
-      "commonName": "Common Sunflower",
-      "description": "A tall annual with large, daisy-like flower heads made of yellow ray florets surrounding a dark central disc. Young flower heads track the sun across the sky, and the plant is grown for ornament, oil, and seeds.",
-      "bloomingSeason": "Mid-summer to early autumn in the Northern Hemisphere",
-      "location": "Native to North America; widely cultivated across Europe, Asia, and the Americas",
+      "name": "Dimorphotheca sinuata",
+      "commonName": "Namaqualand Daisy",
+      "description": "Glowing orange daisies with dark centers carpet the veld in sheets of color. The flowers follow the sun, opening wide on bright mornings and closing on cloudy days.",
+      "bloomingSeason": "August to September, with the strongest displays from mid-August to mid-October, depending on winter rains",
+      "location": "Namaqualand and the West Coast of the Western Cape, South Africa",
       "colors": [
+        "orange",
         "yellow",
-        "gold",
-        "brown",
-        "orange"
+        "dark brown"
       ],
-      "emoji": "🌻",
-      "funFact": "Young sunflower buds follow the sun from east to west in a movement called heliotropism, but mature blooms settle facing east and stop moving."
+      "emoji": "🌼",
+      "funFact": "Namaqualand daisies are heliotropic. Their petals close at night and in cloudy weather, so a fully open field depends on warm sunshine."
     },
     {
-      "name": "Solidago canadensis",
-      "commonName": "Canada Goldenrod",
-      "description": "A perennial wildflower of meadows, roadsides, and prairies that produces dense, arching plumes of tiny golden flowers. It is a vital late-season nectar and pollen source for bees, butterflies, and other insects.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Native to North America; naturalized in Europe and Asia",
+      "name": "Lespedeza thunbergii",
+      "commonName": "Thunberg's Bush Clover (Hagi)",
+      "description": "Long, arching branches spill over with tiny magenta-purple pea-shaped blossoms. In late summer the shrub looks like a fountain of color.",
+      "bloomingSeason": "July to September",
+      "location": "Japan, where it is grown in temple gardens and along countryside paths",
+      "colors": [
+        "magenta",
+        "red-purple"
+      ],
+      "emoji": "🌸",
+      "funFact": "Hagi is one of the seven flowers of autumn in Japanese tradition and has long been celebrated in poetry. It also fixes nitrogen, which enriches the soil around it."
+    },
+    {
+      "name": "Solidago lepida",
+      "commonName": "Rocky Mountain Goldenrod",
+      "description": "Soft golden plumes rise above the meadows and roadsides in late summer. They hum with bees, butterflies and other pollinators stocking up before autumn.",
+      "bloomingSeason": "June to September",
+      "location": "Rocky Mountain region of western North America",
       "colors": [
         "golden yellow"
       ],
-      "emoji": "🌼",
-      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and spread by insects. The real culprit is usually ragweed, which blooms at the same time."
+      "emoji": "🌾",
+      "funFact": "Goldenrod is often blamed for hay fever, but its pollen is heavy and sticky and is carried by insects. The usual culprit is ragweed, which blooms at the same time."
     },
     {
-      "name": "Colchicum autumnale",
-      "commonName": "Autumn Crocus",
-      "description": "A bulbous perennial that sends up crocus-like lilac-pink flowers without any leaves present. The foliage appears in spring and dies back by summer, which gives the plant its other name, naked ladies.",
-      "bloomingSeason": "Late summer to autumn (August to October)",
-      "location": "Meadows and woodland edges of Europe; cultivated in gardens worldwide",
-      "colors": [
-        "lilac",
-        "pale pink",
-        "white"
-      ],
-      "emoji": "🌸",
-      "funFact": "All parts of the plant contain colchicine, a toxic alkaloid. It is used in medicine to treat gout and in plant breeding to double chromosome numbers."
-    },
-    {
-      "name": "Acacia pycnantha",
-      "commonName": "Golden Wattle",
-      "description": "An evergreen tree or large shrub covered in fluffy, fragrant golden ball-shaped flower clusters. It blooms at the end of the southern winter and is a hardy, fast-growing species of Australian woodlands.",
-      "bloomingSeason": "Late winter to early spring in the Southern Hemisphere (July to September)",
-      "location": "Southeastern Australia, including Victoria, South Australia, and New South Wales",
+      "name": "Acacia drummondii",
+      "commonName": "Drummond's Wattle",
+      "description": "This rounded shrub has feathery, fern-like leaves. In late winter and spring it is topped with bright golden flower spikes.",
+      "bloomingSeason": "July to October",
+      "location": "Southwestern Western Australia",
       "colors": [
         "golden yellow"
       ],
       "emoji": "🌿",
-      "funFact": "Golden Wattle is Australia's national floral emblem, and National Wattle Day is celebrated every year on September 1."
+      "funFact": "Australia celebrates National Wattle Day on September 1, the first day of spring. Gardeners often choose wattles like this one so that something is in flower on that date."
     }
   ]
 }

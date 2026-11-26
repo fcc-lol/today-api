@@ -2,65 +2,45 @@
   "date": "November 25",
   "plants": [
     {
-      "name": "Schlumbergera truncata",
-      "commonName": "Thanksgiving Cactus",
-      "description": "An epiphytic cactus with segmented, flattened stems edged with pointed teeth. It produces tubular, asymmetrical flowers at the tips of the stems. Triggered by short days and cool nights, it is a popular houseplant in the Northern Hemisphere during late autumn.",
-      "bloomingSeason": "Late autumn to early winter (November to January)",
-      "location": "Native to the coastal mountains of southeastern Brazil; cultivated worldwide as a houseplant",
-      "colors": [
-        "Pink",
-        "Magenta",
-        "Red",
-        "White",
-        "Orange",
-        "Yellow"
-      ],
-      "emoji": "🌸",
-      "funFact": "Thanksgiving cactus is often confused with Christmas cactus, but it can be told apart by its pointed, tooth-like segment edges, while true Christmas cactus has smooth, scalloped edges."
-    },
-    {
       "name": "Jacaranda mimosifolia",
-      "commonName": "Jacaranda",
-      "description": "A tall, graceful tree with fern-like foliage that covers itself in clusters of trumpet-shaped lavender-blue flowers. In the Southern Hemisphere spring, entire streets are carpeted in fallen purple blossoms.",
-      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere (October to December)",
-      "location": "Native to South America (Argentina, Bolivia); widely planted in Australia, South Africa, and New Zealand",
+      "commonName": "Blue Jacaranda",
+      "description": "Whole avenues of this tree erupt in clouds of trumpet-shaped lavender-blue flowers. The blooms carpet the pavement beneath in purple as they fall, and the tree's fern-like leaves make a soft backdrop.",
+      "bloomingSeason": "Late spring to early summer in the Southern Hemisphere, peaking from October through November and sometimes lingering into December",
+      "location": "Pretoria, South Africa, and across southern Africa and eastern Australia",
       "colors": [
         "Lavender",
-        "Purple",
-        "Blue-violet"
+        "Violet-blue"
       ],
-      "emoji": "💜",
-      "funFact": "In Pretoria, South Africa, nicknamed the Jacaranda City, tens of thousands of jacaranda trees bloom each spring, and in Australia a folk belief says that if a jacaranda flower falls on your head you will pass your exams."
+      "emoji": "🌳",
+      "funFact": "Native to South America, the jacaranda has become a signature of Pretoria, which is nicknamed the Jacaranda City because of its tens of thousands of street trees."
     },
     {
       "name": "Camellia sasanqua",
       "commonName": "Sasanqua Camellia",
-      "description": "An evergreen shrub with glossy dark green leaves that bears delicate, often fragrant flowers in autumn and early winter. It blooms earlier than the more common Camellia japonica and is well suited to hedges and espaliers.",
-      "bloomingSeason": "Autumn to early winter (October to December)",
-      "location": "Native to Japan; grown in the southeastern United States, Mediterranean Europe, and temperate Asia",
+      "description": "This graceful evergreen shrub opens delicate, lightly fragrant flowers just as most gardens wind down for the year. Its blooms range from crisp white to rosy pink, with bright golden stamens at the center.",
+      "bloomingSeason": "Autumn to early winter, typically October through December",
+      "location": "Gardens in Japan and the southeastern United States, where it is widely grown",
       "colors": [
         "White",
-        "Pink",
-        "Rose-red"
+        "Pale pink",
+        "Rose pink"
       ],
-      "emoji": "🌺",
-      "funFact": "Camellia sasanqua is a relative of the tea plant (Camellia sinensis), and its seeds are pressed to make an edible oil used in Japan and China."
+      "emoji": "🌸",
+      "funFact": "It belongs to the same genus as the tea plant, Camellia sinensis, and sasanqua seeds are pressed to make a culinary and cosmetic oil."
     },
     {
       "name": "Euphorbia pulcherrima",
       "commonName": "Poinsettia",
-      "description": "A shrub whose showy colored parts are modified leaves called bracts, surrounding tiny yellow true flowers. In frost-free climates it grows into a large landscape shrub and begins its colorful display in late autumn as nights lengthen.",
-      "bloomingSeason": "Late autumn to winter (November to February)",
-      "location": "Native to southern Mexico and Central America; grown outdoors in tropical regions and as a potted plant worldwide",
+      "description": "The flame-red 'petals' that light up the holiday season are really colored leaves called bracts, which surround tiny yellow flowers. In warm climates it grows into a large, shrubby, open-air plant.",
+      "bloomingSeason": "Late autumn through winter, with color developing from November to January",
+      "location": "Southern Mexico, its native range, and warm gardens in places such as southern California and Hawaii",
       "colors": [
         "Red",
-        "White",
-        "Pink",
         "Cream",
-        "Marbled"
+        "Pink"
       ],
       "emoji": "🎄",
-      "funFact": "The Aztecs called it cuetlaxochitl and used its sap to make a reddish dye and as a fever medicine; wild plants can reach heights of up to 4 meters."
+      "funFact": "It needs long nights of about 12 hours or more to color up, which is why it naturally reaches its full color around late November."
     }
   ]
 }
